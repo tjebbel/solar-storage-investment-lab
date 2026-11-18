@@ -35,5 +35,7 @@ stap "$PY" -m eti.batterij_bronnen
 stap "$PY" -m eti.batterij_irr
 stap "$PY" -m eti.schokjaar
 stap "$PY" -m eti.tableau_export          # vijf platte tabellen voor het Tableau-dashboard
+stap "$PY" -m eti.kern_wereld              # derde dashboard: kernenergie in Europa en de wereld (t6-t8)
+stap "$PY" -m eti.signalering_europa       # tweede dashboard: signalering alle zones, dekking NL (t9-t10)
 stap "$PY" -m unittest discover -s tests
 echo "Logboek: $LOG"

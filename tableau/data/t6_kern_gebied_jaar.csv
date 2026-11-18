@@ -1,0 +1,2211 @@
+Gebied,Soort gebied,Jaar,Bron,Opwek TWh,Aandeel %
+Azie,Regio,2000,Fossiel,3164.406,74.531
+Azie,Regio,2000,Kernenergie,501.315,11.807
+Azie,Regio,2000,"Water, bio en overig",577.317,13.597
+Azie,Regio,2000,Wind,2.297,0.054
+Azie,Regio,2000,Zon,0.451,0.011
+Azie,Regio,2001,Fossiel,3290.448,74.23
+Azie,Regio,2001,Kernenergie,508.489,11.471
+Azie,Regio,2001,"Water, bio en overig",630.128,14.215
+Azie,Regio,2001,Wind,3.086,0.07
+Azie,Regio,2001,Zon,0.617,0.014
+Azie,Regio,2002,Fossiel,3553.119,75.241
+Azie,Regio,2002,Kernenergie,521.281,11.039
+Azie,Regio,2002,"Water, bio en overig",643.717,13.631
+Azie,Regio,2002,Wind,3.371,0.071
+Azie,Regio,2002,Zon,0.83,0.018
+Azie,Regio,2003,Fossiel,3931.168,77.529
+Azie,Regio,2003,Kernenergie,463.753,9.146
+Azie,Regio,2003,"Water, bio en overig",670.082,13.215
+Azie,Regio,2003,Wind,4.478,0.088
+Azie,Regio,2003,Zon,1.116,0.022
+Azie,Regio,2004,Fossiel,4227.836,76.321
+Azie,Regio,2004,Kernenergie,531.929,9.602
+Azie,Regio,2004,"Water, bio en overig",770.345,13.906
+Azie,Regio,2004,Wind,8.02,0.145
+Azie,Regio,2004,Zon,1.448,0.026
+Azie,Regio,2005,Fossiel,4565.0,76.767
+Azie,Regio,2005,Kernenergie,555.517,9.342
+Azie,Regio,2005,"Water, bio en overig",814.109,13.69
+Azie,Regio,2005,Wind,10.087,0.17
+Azie,Regio,2005,Zon,1.829,0.031
+Azie,Regio,2006,Fossiel,4952.661,77.045
+Azie,Regio,2006,Kernenergie,570.353,8.873
+Azie,Regio,2006,"Water, bio en overig",887.269,13.803
+Azie,Regio,2006,Wind,15.752,0.245
+Azie,Regio,2006,Zon,2.26,0.035
+Azie,Regio,2007,Fossiel,5466.02,78.307
+Azie,Regio,2007,Kernenergie,547.105,7.838
+Azie,Regio,2007,"Water, bio en overig",943.605,13.518
+Azie,Regio,2007,Wind,20.775,0.298
+Azie,Regio,2007,Zon,2.699,0.039
+Azie,Regio,2008,Fossiel,5605.947,77.103
+Azie,Regio,2008,Kernenergie,531.163,7.306
+Azie,Regio,2008,"Water, bio en overig",1098.847,15.113
+Azie,Regio,2008,Wind,31.512,0.433
+Azie,Regio,2008,Zon,3.244,0.045
+Azie,Regio,2009,Fossiel,5811.658,77.538
+Azie,Regio,2009,Kernenergie,555.793,7.415
+Azie,Regio,2009,"Water, bio en overig",1074.759,14.339
+Azie,Regio,2009,Wind,48.871,0.652
+Azie,Regio,2009,Zon,4.144,0.055
+Azie,Regio,2010,Fossiel,6328.571,77.036
+Azie,Regio,2010,Kernenergie,585.251,7.124
+Azie,Regio,2010,"Water, bio en overig",1220.601,14.858
+Azie,Regio,2010,Wind,74.807,0.911
+Azie,Regio,2010,Zon,5.832,0.071
+Azie,Regio,2011,Fossiel,7009.767,79.253
+Azie,Regio,2011,Kernenergie,485.387,5.488
+Azie,Regio,2011,"Water, bio en overig",1234.396,13.956
+Azie,Regio,2011,Wind,105.115,1.188
+Azie,Regio,2011,Zon,10.155,0.115
+Azie,Regio,2012,Fossiel,7358.722,79.366
+Azie,Regio,2012,Kernenergie,347.589,3.749
+Azie,Regio,2012,"Water, bio en overig",1412.582,15.235
+Azie,Regio,2012,Wind,137.829,1.487
+Azie,Regio,2012,Zon,15.158,0.163
+Azie,Regio,2013,Fossiel,7764.284,79.057
+Azie,Regio,2013,Kernenergie,346.407,3.527
+Azie,Regio,2013,"Water, bio en overig",1504.536,15.319
+Azie,Regio,2013,Wind,177.37,1.806
+Azie,Regio,2013,Zon,28.552,0.291
+Azie,Regio,2014,Fossiel,8014.385,77.622
+Azie,Regio,2014,Kernenergie,373.553,3.618
+Azie,Regio,2014,"Water, bio en overig",1676.244,16.235
+Azie,Regio,2014,Wind,202.711,1.963
+Azie,Regio,2014,Zon,57.979,0.562
+Azie,Regio,2015,Fossiel,7940.617,76.184
+Azie,Regio,2015,Kernenergie,422.346,4.052
+Azie,Regio,2015,"Water, bio en overig",1741.114,16.705
+Azie,Regio,2015,Wind,229.056,2.198
+Azie,Regio,2015,Zon,89.86,0.862
+Azie,Regio,2016,Fossiel,8257.475,75.322
+Azie,Regio,2016,Kernenergie,470.043,4.288
+Azie,Regio,2016,"Water, bio en overig",1803.732,16.453
+Azie,Regio,2016,Wind,296.516,2.705
+Azie,Regio,2016,Zon,135.077,1.232
+Azie,Regio,2017,Fossiel,8656.492,74.584
+Azie,Regio,2017,Kernenergie,495.976,4.273
+Azie,Regio,2017,"Water, bio en overig",1869.751,16.11
+Azie,Regio,2017,Wind,372.972,3.214
+Azie,Regio,2017,Zon,211.11,1.819
+Azie,Regio,2018,Fossiel,9155.619,73.866
+Azie,Regio,2018,Kernenergie,555.53,4.482
+Azie,Regio,2018,"Water, bio en overig",1941.166,15.661
+Azie,Regio,2018,Wind,445.475,3.594
+Azie,Regio,2018,Zon,297.15,2.397
+Azie,Regio,2019,Fossiel,9262.9,72.387
+Azie,Regio,2019,Kernenergie,648.829,5.07
+Azie,Regio,2019,"Water, bio en overig",2029.035,15.856
+Azie,Regio,2019,Wind,491.182,3.838
+Azie,Regio,2019,Zon,364.44,2.848
+Azie,Regio,2020,Fossiel,9225.323,71.015
+Azie,Regio,2020,Kernenergie,658.063,5.066
+Azie,Regio,2020,"Water, bio en overig",2114.479,16.277
+Azie,Regio,2020,Wind,551.44,4.245
+Azie,Regio,2020,Zon,441.412,3.398
+Azie,Regio,2021,Fossiel,9860.376,70.291
+Azie,Regio,2021,Kernenergie,714.556,5.094
+Azie,Regio,2021,"Water, bio en overig",2143.097,15.277
+Azie,Regio,2021,Wind,754.394,5.378
+Azie,Regio,2021,Zon,555.535,3.96
+Azie,Regio,2022,Fossiel,10052.413,68.945
+Azie,Regio,2022,Kernenergie,740.753,5.08
+Azie,Regio,2022,"Water, bio en overig",2208.78,15.149
+Azie,Regio,2022,Wind,870.717,5.972
+Azie,Regio,2022,Zon,707.745,4.854
+Azie,Regio,2023,Fossiel,10517.571,68.591
+Azie,Regio,2023,Kernenergie,783.917,5.112
+Azie,Regio,2023,"Water, bio en overig",2113.993,13.786
+Azie,Regio,2023,Wind,1014.393,6.615
+Azie,Regio,2023,Zon,903.944,5.895
+Azie,Regio,2024,Fossiel,10754.318,66.352
+Azie,Regio,2024,Kernenergie,817.19,5.042
+Azie,Regio,2024,"Water, bio en overig",2289.817,14.128
+Azie,Regio,2024,Wind,1132.94,6.99
+Azie,Regio,2024,Zon,1213.749,7.489
+Azie,Regio,2025,Fossiel,10647.143,63.366
+Azie,Regio,2025,Kernenergie,847.697,5.045
+Azie,Regio,2025,"Water, bio en overig",2370.876,14.11
+Azie,Regio,2025,Wind,1294.709,7.705
+Azie,Regio,2025,Zon,1642.298,9.774
+Belgie,Land,2000,Fossiel,33.58,40.56
+Belgie,Land,2000,Kernenergie,48.16,58.171
+Belgie,Land,2000,"Water, bio en overig",1.03,1.244
+Belgie,Land,2000,Wind,0.02,0.024
+Belgie,Land,2000,Zon,0.0,0.0
+Belgie,Land,2001,Fossiel,31.2,39.68
+Belgie,Land,2001,Kernenergie,46.35,58.947
+Belgie,Land,2001,"Water, bio en overig",1.04,1.323
+Belgie,Land,2001,Wind,0.04,0.051
+Belgie,Land,2001,Zon,0.0,0.0
+Belgie,Land,2002,Fossiel,32.44,40.079
+Belgie,Land,2002,Kernenergie,47.36,58.512
+Belgie,Land,2002,"Water, bio en overig",1.08,1.334
+Belgie,Land,2002,Wind,0.06,0.074
+Belgie,Land,2002,Zon,0.0,0.0
+Belgie,Land,2003,Fossiel,34.99,41.869
+Belgie,Land,2003,Kernenergie,47.38,56.695
+Belgie,Land,2003,"Water, bio en overig",1.11,1.328
+Belgie,Land,2003,Wind,0.09,0.108
+Belgie,Land,2003,Zon,0.0,0.0
+Belgie,Land,2004,Fossiel,34.1,41.129
+Belgie,Land,2004,Kernenergie,47.31,57.062
+Belgie,Land,2004,"Water, bio en overig",1.36,1.64
+Belgie,Land,2004,Wind,0.14,0.169
+Belgie,Land,2004,Zon,0.0,0.0
+Belgie,Land,2005,Fossiel,34.67,41.088
+Belgie,Land,2005,Kernenergie,47.6,56.411
+Belgie,Land,2005,"Water, bio en overig",1.88,2.228
+Belgie,Land,2005,Wind,0.23,0.273
+Belgie,Land,2005,Zon,0.0,0.0
+Belgie,Land,2006,Fossiel,33.73,40.473
+Belgie,Land,2006,Kernenergie,46.65,55.976
+Belgie,Land,2006,"Water, bio en overig",2.59,3.108
+Belgie,Land,2006,Wind,0.37,0.444
+Belgie,Land,2006,Zon,0.0,0.0
+Belgie,Land,2007,Fossiel,35.09,40.422
+Belgie,Land,2007,Kernenergie,48.23,55.558
+Belgie,Land,2007,"Water, bio en overig",2.99,3.444
+Belgie,Land,2007,Wind,0.49,0.564
+Belgie,Land,2007,Zon,0.01,0.012
+Belgie,Land,2008,Fossiel,33.07,39.815
+Belgie,Land,2008,Kernenergie,45.57,54.864
+Belgie,Land,2008,"Water, bio en overig",3.74,4.503
+Belgie,Land,2008,Wind,0.64,0.771
+Belgie,Land,2008,Zon,0.04,0.048
+Belgie,Land,2009,Fossiel,37.1,41.332
+Belgie,Land,2009,Kernenergie,47.22,52.607
+Belgie,Land,2009,"Water, bio en overig",4.28,4.768
+Belgie,Land,2009,Wind,0.99,1.103
+Belgie,Land,2009,Zon,0.17,0.189
+Belgie,Land,2010,Fossiel,38.53,41.412
+Belgie,Land,2010,Kernenergie,47.94,51.526
+Belgie,Land,2010,"Water, bio en overig",4.69,5.041
+Belgie,Land,2010,Wind,1.3,1.397
+Belgie,Land,2010,Zon,0.58,0.623
+Belgie,Land,2011,Fossiel,32.69,36.615
+Belgie,Land,2011,Kernenergie,48.23,54.021
+Belgie,Land,2011,"Water, bio en overig",4.83,5.41
+Belgie,Land,2011,Wind,2.32,2.599
+Belgie,Land,2011,Zon,1.21,1.355
+Belgie,Land,2012,Fossiel,30.71,37.676
+Belgie,Land,2012,Kernenergie,40.29,49.43
+Belgie,Land,2012,"Water, bio en overig",5.6,6.87
+Belgie,Land,2012,Wind,2.76,3.386
+Belgie,Land,2012,Zon,2.15,2.638
+Belgie,Land,2013,Fossiel,27.59,33.667
+Belgie,Land,2013,Kernenergie,42.64,52.032
+Belgie,Land,2013,"Water, bio en overig",5.41,6.602
+Belgie,Land,2013,Wind,3.67,4.478
+Belgie,Land,2013,Zon,2.64,3.221
+Belgie,Land,2014,Fossiel,25.29,35.52
+Belgie,Land,2014,Kernenergie,33.7,47.331
+Belgie,Land,2014,"Water, bio en overig",4.7,6.601
+Belgie,Land,2014,Wind,4.62,6.489
+Belgie,Land,2014,Zon,2.89,4.059
+Belgie,Land,2015,Fossiel,27.89,40.757
+Belgie,Land,2015,Kernenergie,26.1,38.141
+Belgie,Land,2015,"Water, bio en overig",5.81,8.49
+Belgie,Land,2015,Wind,5.57,8.14
+Belgie,Land,2015,Zon,3.06,4.472
+Belgie,Land,2016,Fossiel,26.54,31.479
+Belgie,Land,2016,Kernenergie,43.52,51.619
+Belgie,Land,2016,"Water, bio en overig",5.73,6.796
+Belgie,Land,2016,Wind,5.42,6.429
+Belgie,Land,2016,Zon,3.1,3.677
+Belgie,Land,2017,Fossiel,27.31,32.001
+Belgie,Land,2017,Kernenergie,42.23,49.484
+Belgie,Land,2017,"Water, bio en overig",5.97,6.996
+Belgie,Land,2017,Wind,6.52,7.64
+Belgie,Land,2017,Zon,3.31,3.879
+Belgie,Land,2018,Fossiel,28.11,38.053
+Belgie,Land,2018,Kernenergie,28.6,38.717
+Belgie,Land,2018,"Water, bio en overig",5.69,7.703
+Belgie,Land,2018,Wind,7.57,10.248
+Belgie,Land,2018,Zon,3.9,5.28
+Belgie,Land,2019,Fossiel,29.72,32.064
+Belgie,Land,2019,Kernenergie,43.52,46.952
+Belgie,Land,2019,"Water, bio en overig",5.45,5.88
+Belgie,Land,2019,Wind,9.75,10.519
+Belgie,Land,2019,Zon,4.25,4.585
+Belgie,Land,2020,Fossiel,30.41,34.443
+Belgie,Land,2020,Kernenergie,34.43,38.996
+Belgie,Land,2020,"Water, bio en overig",5.53,6.263
+Belgie,Land,2020,Wind,12.81,14.509
+Belgie,Land,2020,Zon,5.11,5.788
+Belgie,Land,2021,Fossiel,26.32,26.479
+Belgie,Land,2021,Kernenergie,50.33,50.634
+Belgie,Land,2021,"Water, bio en overig",5.13,5.161
+Belgie,Land,2021,Wind,12.0,12.072
+Belgie,Land,2021,Zon,5.62,5.654
+Belgie,Land,2022,Fossiel,26.02,27.584
+Belgie,Land,2022,Kernenergie,43.88,46.518
+Belgie,Land,2022,"Water, bio en overig",5.2,5.513
+Belgie,Land,2022,Wind,12.35,13.092
+Belgie,Land,2022,Zon,6.88,7.294
+Belgie,Land,2023,Fossiel,21.74,26.47
+Belgie,Land,2023,Kernenergie,32.93,40.095
+Belgie,Land,2023,"Water, bio en overig",4.19,5.102
+Belgie,Land,2023,Wind,15.44,18.799
+Belgie,Land,2023,Zon,7.83,9.534
+Belgie,Land,2024,Fossiel,17.98,23.665
+Belgie,Land,2024,Kernenergie,31.25,41.131
+Belgie,Land,2024,"Water, bio en overig",4.16,5.475
+Belgie,Land,2024,Wind,14.028,18.463
+Belgie,Land,2024,Zon,8.56,11.266
+Belgie,Land,2025,Fossiel,20.131,27.929
+Belgie,Land,2025,Kernenergie,24.147,33.5
+Belgie,Land,2025,"Water, bio en overig",3.936,5.461
+Belgie,Land,2025,Wind,13.432,18.635
+Belgie,Land,2025,Zon,10.434,14.476
+China,Land,2000,Fossiel,1113.3,82.126
+China,Land,2000,Kernenergie,16.737,1.235
+China,Land,2000,"Water, bio en overig",224.947,16.594
+China,Land,2000,Wind,0.59,0.044
+China,Land,2000,Zon,0.022,0.002
+China,Land,2001,Fossiel,1182.594,79.862
+China,Land,2001,Kernenergie,17.472,1.18
+China,Land,2001,"Water, bio en overig",279.984,18.908
+China,Land,2001,Wind,0.719,0.049
+China,Land,2001,Zon,0.031,0.002
+China,Land,2002,Fossiel,1337.468,80.863
+China,Land,2002,Kernenergie,25.127,1.519
+China,Land,2002,"Water, bio en overig",290.516,17.564
+China,Land,2002,Wind,0.837,0.051
+China,Land,2002,Zon,0.048,0.003
+China,Land,2003,Fossiel,1579.955,82.695
+China,Land,2003,Kernenergie,43.342,2.269
+China,Land,2003,"Water, bio en overig",286.216,14.981
+China,Land,2003,Wind,0.997,0.052
+China,Land,2003,Zon,0.064,0.003
+China,Land,2004,Fossiel,1795.415,81.487
+China,Land,2004,Kernenergie,50.469,2.291
+China,Land,2004,"Water, bio en overig",356.072,16.161
+China,Land,2004,Wind,1.278,0.058
+China,Land,2004,Zon,0.076,0.003
+China,Land,2005,Fossiel,2042.803,81.704
+China,Land,2005,Kernenergie,53.088,2.123
+China,Land,2005,"Water, bio en overig",402.339,16.092
+China,Land,2005,Wind,1.946,0.078
+China,Land,2005,Zon,0.084,0.003
+China,Land,2006,Fossiel,2364.157,82.498
+China,Land,2006,Kernenergie,54.843,1.914
+China,Land,2006,"Water, bio en overig",442.919,15.456
+China,Land,2006,Wind,3.712,0.13
+China,Land,2006,Zon,0.095,0.003
+China,Land,2007,Fossiel,2718.703,82.848
+China,Land,2007,Kernenergie,62.13,1.893
+China,Land,2007,"Water, bio en overig",495.127,15.088
+China,Land,2007,Wind,5.479,0.167
+China,Land,2007,Zon,0.114,0.003
+China,Land,2008,Fossiel,2762.288,79.018
+China,Land,2008,Kernenergie,68.394,1.956
+China,Land,2008,"Water, bio en overig",651.826,18.646
+China,Land,2008,Wind,13.1,0.375
+China,Land,2008,Zon,0.152,0.004
+China,Land,2009,Fossiel,2980.203,80.228
+China,Land,2009,Kernenergie,70.05,1.886
+China,Land,2009,"Water, bio en overig",636.503,17.135
+China,Land,2009,Wind,27.615,0.743
+China,Land,2009,Zon,0.279,0.008
+China,Land,2010,Fossiel,3342.281,79.647
+China,Land,2010,Kernenergie,74.742,1.781
+China,Land,2010,"Water, bio en overig",729.248,17.378
+China,Land,2010,Wind,49.4,1.177
+China,Land,2010,Zon,0.701,0.017
+China,Land,2011,Fossiel,3829.845,81.449
+China,Land,2011,Kernenergie,87.2,1.854
+China,Land,2011,"Water, bio en overig",708.364,15.065
+China,Land,2011,Wind,74.1,1.576
+China,Land,2011,Zon,2.61,0.056
+China,Land,2012,Fossiel,3887.266,78.085
+China,Land,2012,Kernenergie,98.318,1.975
+China,Land,2012,"Water, bio en overig",886.012,17.798
+China,Land,2012,Wind,103.05,2.07
+China,Land,2012,Zon,3.595,0.072
+China,Land,2013,Fossiel,4225.447,77.947
+China,Land,2013,Kernenergie,111.501,2.057
+China,Land,2013,"Water, bio en overig",937.369,17.292
+China,Land,2013,Wind,138.264,2.551
+China,Land,2013,Zon,8.374,0.154
+China,Land,2014,Fossiel,4371.941,75.623
+China,Land,2014,Kernenergie,133.218,2.304
+China,Land,2014,"Water, bio en overig",1092.833,18.903
+China,Land,2014,Wind,159.763,2.763
+China,Land,2014,Zon,23.512,0.407
+China,Land,2015,Fossiel,4248.88,73.271
+China,Land,2015,Kernenergie,171.378,2.955
+China,Land,2015,"Water, bio en overig",1153.488,19.892
+China,Land,2015,Wind,185.591,3.2
+China,Land,2015,Zon,39.481,0.681
+China,Land,2016,Fossiel,4381.465,71.799
+China,Land,2016,Kernenergie,213.178,3.493
+China,Land,2016,"Water, bio en overig",1200.348,19.67
+China,Land,2016,Wind,240.86,3.947
+China,Land,2016,Zon,66.528,1.09
+China,Land,2017,Fossiel,4679.057,71.201
+China,Land,2017,Kernenergie,248.1,3.775
+China,Land,2017,"Water, bio en overig",1222.09,18.596
+China,Land,2017,Wind,304.6,4.635
+China,Land,2017,Zon,117.8,1.793
+China,Land,2018,Fossiel,5031.212,70.532
+China,Land,2018,Kernenergie,295.0,4.136
+China,Land,2018,"Water, bio en overig",1264.321,17.724
+China,Land,2018,Wind,365.8,5.128
+China,Land,2018,Zon,176.9,2.48
+China,Land,2019,Fossiel,5143.452,68.841
+China,Land,2019,Kernenergie,348.7,4.667
+China,Land,2019,"Water, bio en overig",1350.076,18.07
+China,Land,2019,Wind,405.3,5.425
+China,Land,2019,Zon,224.0,2.998
+China,Land,2020,Fossiel,5239.532,67.646
+China,Land,2020,Kernenergie,366.2,4.728
+China,Land,2020,"Water, bio en overig",1412.228,18.233
+China,Land,2020,Wind,466.5,6.023
+China,Land,2020,Zon,261.1,3.371
+China,Land,2021,Fossiel,5701.864,67.114
+China,Land,2021,Kernenergie,407.5,4.796
+China,Land,2021,"Water, bio en overig",1403.685,16.522
+China,Land,2021,Wind,655.8,7.719
+China,Land,2021,Zon,327.0,3.849
+China,Land,2022,Fossiel,5779.798,65.676
+China,Land,2022,Kernenergie,417.78,4.747
+China,Land,2022,"Water, bio en overig",1412.9,16.055
+China,Land,2022,Wind,762.67,8.666
+China,Land,2022,Zon,427.27,4.855
+China,Land,2023,Fossiel,6147.127,65.376
+China,Land,2023,Kernenergie,434.72,4.623
+China,Land,2023,"Water, bio en overig",1350.875,14.367
+China,Land,2023,Wind,885.87,9.421
+China,Land,2023,Zon,584.15,6.213
+China,Land,2024,Fossiel,6250.085,62.345
+China,Land,2024,Kernenergie,450.85,4.497
+China,Land,2024,"Water, bio en overig",1487.993,14.843
+China,Land,2024,Wind,997.04,9.946
+China,Land,2024,Zon,839.04,8.369
+China,Land,2025,Fossiel,6190.551,58.925
+China,Land,2025,Kernenergie,485.23,4.619
+China,Land,2025,"Water, bio en overig",1528.8,14.552
+China,Land,2025,Wind,1127.92,10.736
+China,Land,2025,Zon,1173.24,11.168
+Duitsland,Land,2000,Fossiel,363.93,63.965
+Duitsland,Land,2000,Kernenergie,169.61,29.811
+Duitsland,Land,2000,"Water, bio en overig",26.06,4.58
+Duitsland,Land,2000,Wind,9.35,1.643
+Duitsland,Land,2000,Zon,0.0,0.0
+Duitsland,Land,2001,Fossiel,369.76,63.868
+Duitsland,Land,2001,Kernenergie,171.3,29.589
+Duitsland,Land,2001,"Water, bio en overig",27.32,4.719
+Duitsland,Land,2001,Wind,10.46,1.807
+Duitsland,Land,2001,Zon,0.1,0.017
+Duitsland,Land,2002,Fossiel,374.43,64.141
+Duitsland,Land,2002,Kernenergie,164.84,28.238
+Duitsland,Land,2002,"Water, bio en overig",28.43,4.87
+Duitsland,Land,2002,Wind,15.86,2.717
+Duitsland,Land,2002,Zon,0.2,0.034
+Duitsland,Land,2003,Fossiel,390.3,64.831
+Duitsland,Land,2003,Kernenergie,165.06,27.417
+Duitsland,Land,2003,"Water, bio en overig",27.27,4.53
+Duitsland,Land,2003,Wind,19.09,3.171
+Duitsland,Land,2003,Zon,0.31,0.051
+Duitsland,Land,2004,Fossiel,384.56,63.084
+Duitsland,Land,2004,Kernenergie,167.07,27.406
+Duitsland,Land,2004,"Water, bio en overig",31.39,5.149
+Duitsland,Land,2004,Wind,26.02,4.268
+Duitsland,Land,2004,Zon,0.56,0.092
+Duitsland,Land,2005,Fossiel,386.86,63.074
+Duitsland,Land,2005,Kernenergie,163.05,26.584
+Duitsland,Land,2005,"Water, bio en overig",34.35,5.6
+Duitsland,Land,2005,Wind,27.77,4.528
+Duitsland,Land,2005,Zon,1.31,0.214
+Duitsland,Land,2006,Fossiel,390.37,61.944
+Duitsland,Land,2006,Kernenergie,167.27,26.542
+Duitsland,Land,2006,"Water, bio en overig",38.97,6.184
+Duitsland,Land,2006,Wind,31.32,4.97
+Duitsland,Land,2006,Zon,2.27,0.36
+Duitsland,Land,2007,Fossiel,401.13,63.56
+Duitsland,Land,2007,Kernenergie,140.53,22.267
+Duitsland,Land,2007,"Water, bio en overig",45.79,7.256
+Duitsland,Land,2007,Wind,40.51,6.419
+Duitsland,Land,2007,Zon,3.14,0.498
+Duitsland,Land,2008,Fossiel,389.43,61.59
+Duitsland,Land,2008,Kernenergie,148.49,23.484
+Duitsland,Land,2008,"Water, bio en overig",48.48,7.667
+Duitsland,Land,2008,Wind,41.38,6.544
+Duitsland,Land,2008,Zon,4.51,0.713
+Duitsland,Land,2009,Fossiel,356.95,60.71
+Duitsland,Land,2009,Kernenergie,134.93,22.949
+Duitsland,Land,2009,"Water, bio en overig",49.94,8.494
+Duitsland,Land,2009,Wind,39.42,6.705
+Duitsland,Land,2009,Zon,6.72,1.143
+Duitsland,Land,2010,Fossiel,378.24,60.595
+Duitsland,Land,2010,Kernenergie,140.56,22.518
+Duitsland,Land,2010,"Water, bio en overig",54.9,8.795
+Duitsland,Land,2010,Wind,38.55,6.176
+Duitsland,Land,2010,Zon,11.96,1.916
+Duitsland,Land,2011,Fossiel,372.6,61.587
+Duitsland,Land,2011,Kernenergie,107.97,17.846
+Duitsland,Land,2011,"Water, bio en overig",54.58,9.021
+Duitsland,Land,2011,Wind,49.86,8.241
+Duitsland,Land,2011,Zon,19.99,3.304
+Duitsland,Land,2012,Fossiel,376.95,60.817
+Duitsland,Land,2012,Kernenergie,99.46,16.047
+Duitsland,Land,2012,"Water, bio en overig",64.98,10.484
+Duitsland,Land,2012,Wind,51.68,8.338
+Duitsland,Land,2012,Zon,26.74,4.314
+Duitsland,Land,2013,Fossiel,380.45,60.419
+Duitsland,Land,2013,Kernenergie,97.29,15.45
+Duitsland,Land,2013,"Water, bio en overig",68.59,10.893
+Duitsland,Land,2013,Wind,52.74,8.376
+Duitsland,Land,2013,Zon,30.62,4.863
+Duitsland,Land,2014,Fossiel,359.69,58.132
+Duitsland,Land,2014,Kernenergie,97.13,15.698
+Duitsland,Land,2014,"Water, bio en overig",67.98,10.987
+Duitsland,Land,2014,Wind,58.5,9.455
+Duitsland,Land,2014,Zon,35.45,5.729
+Duitsland,Land,2015,Fossiel,359.24,56.204
+Duitsland,Land,2015,Kernenergie,91.79,14.361
+Duitsland,Land,2015,"Water, bio en overig",69.44,10.864
+Duitsland,Land,2015,Wind,80.62,12.613
+Duitsland,Land,2015,Zon,38.08,5.958
+Duitsland,Land,2016,Fossiel,367.76,57.326
+Duitsland,Land,2016,Kernenergie,84.63,13.192
+Duitsland,Land,2016,"Water, bio en overig",71.65,11.169
+Duitsland,Land,2016,Wind,79.92,12.458
+Duitsland,Land,2016,Zon,37.56,5.855
+Duitsland,Land,2017,Fossiel,352.46,54.691
+Duitsland,Land,2017,Kernenergie,76.32,11.842
+Duitsland,Land,2017,"Water, bio en overig",71.23,11.053
+Duitsland,Land,2017,Wind,105.69,16.4
+Duitsland,Land,2017,Zon,38.76,6.014
+Duitsland,Land,2018,Fossiel,333.35,52.722
+Duitsland,Land,2018,Kernenergie,76.0,12.02
+Duitsland,Land,2018,"Water, bio en overig",68.66,10.859
+Duitsland,Land,2018,Wind,109.95,17.389
+Duitsland,Land,2018,Zon,44.32,7.01
+Duitsland,Land,2019,Fossiel,283.85,47.301
+Duitsland,Land,2019,Kernenergie,75.07,12.51
+Duitsland,Land,2019,"Water, bio en overig",70.06,11.675
+Duitsland,Land,2019,Wind,125.89,20.979
+Duitsland,Land,2019,Zon,45.22,7.536
+Duitsland,Land,2020,Fossiel,250.88,44.266
+Duitsland,Land,2020,Kernenergie,64.38,11.36
+Duitsland,Land,2020,"Water, bio en overig",69.88,12.33
+Duitsland,Land,2020,Wind,132.11,23.31
+Duitsland,Land,2020,Zon,49.5,8.734
+Duitsland,Land,2021,Fossiel,277.2,47.89
+Duitsland,Land,2021,Kernenergie,69.13,11.943
+Duitsland,Land,2021,"Water, bio en overig",69.0,11.921
+Duitsland,Land,2021,Wind,114.16,19.723
+Duitsland,Land,2021,Zon,49.34,8.524
+Duitsland,Land,2022,Fossiel,280.63,49.504
+Duitsland,Land,2022,Kernenergie,34.71,6.123
+Duitsland,Land,2022,"Water, bio en overig",66.43,11.719
+Duitsland,Land,2022,Wind,124.81,22.017
+Duitsland,Land,2022,Zon,60.3,10.637
+Duitsland,Land,2023,Fossiel,222.4,43.89
+Duitsland,Land,2023,Kernenergie,7.22,1.425
+Duitsland,Land,2023,"Water, bio en overig",72.69,14.345
+Duitsland,Land,2023,Wind,140.54,27.735
+Duitsland,Land,2023,Zon,63.87,12.605
+Duitsland,Land,2024,Fossiel,205.13,41.708
+Duitsland,Land,2024,Kernenergie,0.0,0.0
+Duitsland,Land,2024,"Water, bio en overig",75.13,15.276
+Duitsland,Land,2024,Wind,137.429,27.943
+Duitsland,Land,2024,Zon,74.13,15.073
+Duitsland,Land,2025,Fossiel,206.465,41.539
+Duitsland,Land,2025,Kernenergie,0.0,0.0
+Duitsland,Land,2025,"Water, bio en overig",68.594,13.801
+Duitsland,Land,2025,Wind,132.272,26.612
+Duitsland,Land,2025,Zon,89.704,18.048
+EU,Regio,2000,Fossiel,1355.33,51.687
+EU,Regio,2000,Kernenergie,859.95,32.795
+EU,Regio,2000,"Water, bio en overig",385.57,14.704
+EU,Regio,2000,Wind,21.28,0.812
+EU,Regio,2000,Zon,0.05,0.002
+EU,Regio,2001,Fossiel,1373.68,50.897
+EU,Regio,2001,Kernenergie,888.9,32.935
+EU,Regio,2001,"Water, bio en overig",410.42,15.207
+EU,Regio,2001,Wind,25.75,0.954
+EU,Regio,2001,Zon,0.17,0.006
+EU,Regio,2002,Fossiel,1429.79,52.525
+EU,Regio,2002,Kernenergie,902.34,33.148
+EU,Regio,2002,"Water, bio en overig",354.65,13.028
+EU,Regio,2002,Wind,35.06,1.288
+EU,Regio,2002,Zon,0.28,0.01
+EU,Regio,2003,Fossiel,1495.32,53.406
+EU,Regio,2003,Kernenergie,907.18,32.4
+EU,Regio,2003,"Water, bio en overig",353.72,12.633
+EU,Regio,2003,Wind,43.31,1.547
+EU,Regio,2003,Zon,0.4,0.014
+EU,Regio,2004,Fossiel,1498.93,52.272
+EU,Regio,2004,Kernenergie,928.46,32.378
+EU,Regio,2004,"Water, bio en overig",381.94,13.319
+EU,Regio,2004,Wind,57.54,2.007
+EU,Regio,2004,Zon,0.68,0.024
+EU,Regio,2005,Fossiel,1524.84,52.865
+EU,Regio,2005,Kernenergie,916.08,31.76
+EU,Regio,2005,"Water, bio en overig",373.89,12.963
+EU,Regio,2005,Wind,68.1,2.361
+EU,Regio,2005,Zon,1.48,0.051
+EU,Regio,2006,Fossiel,1550.68,52.883
+EU,Regio,2006,Kernenergie,914.44,31.185
+EU,Regio,2006,"Water, bio en overig",385.92,13.161
+EU,Regio,2006,Wind,78.75,2.686
+EU,Regio,2006,Zon,2.52,0.086
+EU,Regio,2007,Fossiel,1579.3,53.577
+EU,Regio,2007,Kernenergie,872.24,29.59
+EU,Regio,2007,"Water, bio en overig",392.39,13.312
+EU,Regio,2007,Wind,99.95,3.391
+EU,Regio,2007,Zon,3.83,0.13
+EU,Regio,2008,Fossiel,1534.4,51.842
+EU,Regio,2008,Kernenergie,884.73,29.892
+EU,Regio,2008,"Water, bio en overig",419.88,14.186
+EU,Regio,2008,Wind,113.26,3.827
+EU,Regio,2008,Zon,7.51,0.254
+EU,Regio,2009,Fossiel,1412.36,50.292
+EU,Regio,2009,Kernenergie,824.92,29.374
+EU,Regio,2009,"Water, bio en overig",432.23,15.391
+EU,Regio,2009,Wind,124.61,4.437
+EU,Regio,2009,Zon,14.22,0.506
+EU,Regio,2010,Fossiel,1438.32,48.83
+EU,Regio,2010,Kernenergie,854.47,29.009
+EU,Regio,2010,"Water, bio en overig",489.38,16.614
+EU,Regio,2010,Wind,139.88,4.749
+EU,Regio,2010,Zon,23.49,0.797
+EU,Regio,2011,Fossiel,1424.97,48.99
+EU,Regio,2011,Kernenergie,837.77,28.802
+EU,Regio,2011,"Water, bio en overig",432.83,14.881
+EU,Regio,2011,Wind,165.41,5.687
+EU,Regio,2011,Zon,47.71,1.64
+EU,Regio,2012,Fossiel,1362.65,46.932
+EU,Regio,2012,Kernenergie,811.95,27.965
+EU,Regio,2012,"Water, bio en overig",470.82,16.216
+EU,Regio,2012,Wind,187.55,6.46
+EU,Regio,2012,Zon,70.5,2.428
+EU,Regio,2013,Fossiel,1270.56,44.06
+EU,Regio,2013,Kernenergie,806.23,27.958
+EU,Regio,2013,"Water, bio en overig",513.59,17.81
+EU,Regio,2013,Wind,209.55,7.267
+EU,Regio,2013,Zon,83.76,2.905
+EU,Regio,2014,Fossiel,1174.18,41.58
+EU,Regio,2014,Kernenergie,812.57,28.775
+EU,Regio,2014,"Water, bio en overig",521.1,18.453
+EU,Regio,2014,Wind,222.46,7.878
+EU,Regio,2014,Zon,93.6,3.315
+EU,Regio,2015,Fossiel,1227.74,42.773
+EU,Regio,2015,Kernenergie,786.69,27.407
+EU,Regio,2015,"Water, bio en overig",492.46,17.157
+EU,Regio,2015,Wind,263.28,9.172
+EU,Regio,2015,Zon,100.2,3.491
+EU,Regio,2016,Fossiel,1252.13,43.305
+EU,Regio,2016,Kernenergie,767.95,26.56
+EU,Regio,2016,"Water, bio en overig",503.92,17.428
+EU,Regio,2016,Wind,266.91,9.231
+EU,Regio,2016,Zon,100.49,3.475
+EU,Regio,2017,Fossiel,1289.36,44.111
+EU,Regio,2017,Kernenergie,759.4,25.98
+EU,Regio,2017,"Water, bio en overig",455.21,15.573
+EU,Regio,2017,Wind,312.43,10.689
+EU,Regio,2017,Zon,106.58,3.646
+EU,Regio,2018,Fossiel,1205.35,41.441
+EU,Regio,2018,Kernenergie,761.94,26.196
+EU,Regio,2018,"Water, bio en overig",506.44,17.412
+EU,Regio,2018,Wind,320.76,11.028
+EU,Regio,2018,Zon,114.13,3.924
+EU,Regio,2019,Fossiel,1130.32,39.322
+EU,Regio,2019,Kernenergie,765.34,26.625
+EU,Regio,2019,"Water, bio en overig",487.17,16.948
+EU,Regio,2019,Wind,367.29,12.778
+EU,Regio,2019,Zon,124.38,4.327
+EU,Regio,2020,Fossiel,1009.79,36.678
+EU,Regio,2020,Kernenergie,683.51,24.827
+EU,Regio,2020,"Water, bio en overig",516.91,18.776
+EU,Regio,2020,Wind,398.16,14.462
+EU,Regio,2020,Zon,144.72,5.257
+EU,Regio,2021,Fossiel,1066.45,37.094
+EU,Regio,2021,Kernenergie,731.71,25.451
+EU,Regio,2021,"Water, bio en overig",526.84,18.325
+EU,Regio,2021,Wind,386.94,13.459
+EU,Regio,2021,Zon,163.05,5.671
+EU,Regio,2022,Fossiel,1088.25,39.182
+EU,Regio,2022,Kernenergie,609.26,21.936
+EU,Regio,2022,"Water, bio en overig",448.31,16.141
+EU,Regio,2022,Wind,421.83,15.188
+EU,Regio,2022,Zon,209.76,7.552
+EU,Regio,2023,Fossiel,864.49,31.898
+EU,Regio,2023,Kernenergie,619.6,22.862
+EU,Regio,2023,"Water, bio en overig",494.0,18.228
+EU,Regio,2023,Wind,478.06,17.639
+EU,Regio,2023,Zon,254.04,9.374
+EU,Regio,2024,Fossiel,792.17,28.58
+EU,Regio,2024,Kernenergie,649.55,23.435
+EU,Regio,2024,"Water, bio en overig",533.21,19.237
+EU,Regio,2024,Wind,489.551,17.662
+EU,Regio,2024,Zon,307.26,11.085
+EU,Regio,2025,Fossiel,813.835,29.065
+EU,Regio,2025,Kernenergie,652.009,23.286
+EU,Regio,2025,"Water, bio en overig",488.224,17.437
+EU,Regio,2025,Wind,479.71,17.132
+EU,Regio,2025,Zon,366.226,13.079
+Europa,Regio,2000,Fossiel,2466.752,55.083
+Europa,Regio,2000,Kernenergie,1179.515,26.339
+Europa,Regio,2000,"Water, bio en overig",809.635,18.079
+Europa,Regio,2000,Wind,22.292,0.498
+Europa,Regio,2000,Zon,0.06,0.001
+Europa,Regio,2001,Fossiel,2493.293,54.688
+Europa,Regio,2001,Kernenergie,1218.905,26.736
+Europa,Regio,2001,"Water, bio en overig",819.923,17.984
+Europa,Regio,2001,Wind,26.823,0.588
+Europa,Regio,2001,Zon,0.18,0.004
+Europa,Regio,2002,Fossiel,2558.924,55.663
+Europa,Regio,2002,Kernenergie,1237.039,26.909
+Europa,Regio,2002,"Water, bio en overig",764.427,16.628
+Europa,Regio,2002,Wind,36.466,0.793
+Europa,Regio,2002,Zon,0.29,0.006
+Europa,Regio,2003,Fossiel,2674.35,56.794
+Europa,Regio,2003,Kernenergie,1255.112,26.654
+Europa,Regio,2003,"Water, bio en overig",734.086,15.589
+Europa,Regio,2003,Wind,44.919,0.954
+Europa,Regio,2003,Zon,0.42,0.009
+Europa,Regio,2004,Fossiel,2679.229,55.682
+Europa,Regio,2004,Kernenergie,1267.147,26.335
+Europa,Regio,2004,"Water, bio en overig",804.747,16.725
+Europa,Regio,2004,Wind,59.847,1.244
+Europa,Regio,2004,Zon,0.7,0.015
+Europa,Regio,2005,Fossiel,2744.975,56.089
+Europa,Regio,2005,Kernenergie,1259.246,25.731
+Europa,Regio,2005,"Water, bio en overig",816.602,16.686
+Europa,Regio,2005,Wind,71.627,1.464
+Europa,Regio,2005,Zon,1.51,0.031
+Europa,Regio,2006,Fossiel,2823.178,56.558
+Europa,Regio,2006,Kernenergie,1264.366,25.33
+Europa,Regio,2006,"Water, bio en overig",817.721,16.382
+Europa,Regio,2006,Wind,83.805,1.679
+Europa,Regio,2006,Zon,2.55,0.051
+Europa,Regio,2007,Fossiel,2909.076,57.405
+Europa,Regio,2007,Kernenergie,1215.788,23.991
+Europa,Regio,2007,"Water, bio en overig",832.3,16.424
+Europa,Regio,2007,Wind,106.567,2.103
+Europa,Regio,2007,Zon,3.87,0.076
+Europa,Regio,2008,Fossiel,2908.142,56.852
+Europa,Regio,2008,Kernenergie,1217.844,23.808
+Europa,Regio,2008,"Water, bio en overig",859.519,16.803
+Europa,Regio,2008,Wind,122.235,2.39
+Europa,Regio,2008,Zon,7.57,0.148
+Europa,Regio,2009,Fossiel,2675.207,54.922
+Europa,Regio,2009,Kernenergie,1168.212,23.983
+Europa,Regio,2009,"Water, bio en overig",876.766,18.0
+Europa,Regio,2009,Wind,136.434,2.801
+Europa,Regio,2009,Zon,14.29,0.293
+Europa,Regio,2010,Fossiel,2768.203,54.37
+Europa,Regio,2010,Kernenergie,1202.515,23.619
+Europa,Regio,2010,"Water, bio en overig",943.001,18.521
+Europa,Regio,2010,Wind,154.064,3.026
+Europa,Regio,2010,Zon,23.62,0.464
+Europa,Regio,2011,Fossiel,2768.427,54.578
+Europa,Regio,2011,Kernenergie,1196.651,23.591
+Europa,Regio,2011,"Water, bio en overig",871.632,17.184
+Europa,Regio,2011,Wind,187.555,3.698
+Europa,Regio,2011,Zon,48.151,0.949
+Europa,Regio,2012,Fossiel,2704.679,52.893
+Europa,Regio,2012,Kernenergie,1175.474,22.988
+Europa,Regio,2012,"Water, bio en overig",945.627,18.493
+Europa,Regio,2012,Wind,215.195,4.208
+Europa,Regio,2012,Zon,72.484,1.418
+Europa,Regio,2013,Fossiel,2568.8,50.648
+Europa,Regio,2013,Kernenergie,1158.548,22.843
+Europa,Regio,2013,"Water, bio en overig",1009.523,19.904
+Europa,Regio,2013,Wind,248.154,4.893
+Europa,Regio,2013,Zon,86.861,1.713
+Europa,Regio,2014,Fossiel,2465.744,49.32
+Europa,Regio,2014,Kernenergie,1173.027,23.463
+Europa,Regio,2014,"Water, bio en overig",994.999,19.902
+Europa,Regio,2014,Wind,266.606,5.333
+Europa,Regio,2014,Zon,99.13,1.983
+Europa,Regio,2015,Fossiel,2457.215,48.704
+Europa,Regio,2015,Kernenergie,1163.22,23.056
+Europa,Regio,2015,"Water, bio en overig",995.575,19.733
+Europa,Regio,2015,Wind,319.278,6.328
+Europa,Regio,2015,Zon,109.906,2.178
+Europa,Regio,2016,Fossiel,2498.361,48.924
+Europa,Regio,2016,Kernenergie,1138.394,22.293
+Europa,Regio,2016,"Water, bio en overig",1032.368,20.216
+Europa,Regio,2016,Wind,323.188,6.329
+Europa,Regio,2016,Zon,114.308,2.238
+Europa,Regio,2017,Fossiel,2524.207,49.067
+Europa,Regio,2017,Kernenergie,1138.841,22.137
+Europa,Regio,2017,"Water, bio en overig",972.843,18.911
+Europa,Regio,2017,Wind,384.519,7.474
+Europa,Regio,2017,Zon,124.014,2.411
+Europa,Regio,2018,Fossiel,2439.813,47.209
+Europa,Regio,2018,Kernenergie,1141.491,22.087
+Europa,Regio,2018,"Water, bio en overig",1044.592,20.212
+Europa,Regio,2018,Wind,403.647,7.81
+Europa,Regio,2018,Zon,138.514,2.68
+Europa,Regio,2019,Fossiel,2321.813,45.35
+Europa,Regio,2019,Kernenergie,1139.926,22.265
+Europa,Regio,2019,"Water, bio en overig",1042.625,20.365
+Europa,Regio,2019,Wind,462.685,9.037
+Europa,Regio,2019,Zon,152.745,2.983
+Europa,Regio,2020,Fossiel,2116.801,42.674
+Europa,Regio,2020,Kernenergie,1050.224,21.172
+Europa,Regio,2020,"Water, bio en overig",1099.734,22.17
+Europa,Regio,2020,Wind,514.918,10.381
+Europa,Regio,2020,Zon,178.682,3.602
+Europa,Regio,2021,Fossiel,2272.194,43.751
+Europa,Regio,2021,Kernenergie,1111.552,21.403
+Europa,Regio,2021,"Water, bio en overig",1105.633,21.289
+Europa,Regio,2021,Wind,503.515,9.695
+Europa,Regio,2021,Zon,200.602,3.863
+Europa,Regio,2022,Fossiel,2274.288,45.075
+Europa,Regio,2022,Kernenergie,971.369,19.252
+Europa,Regio,2022,"Water, bio en overig",989.808,19.618
+Europa,Regio,2022,Wind,559.621,11.091
+Europa,Regio,2022,Zon,250.439,4.964
+Europa,Regio,2023,Fossiel,2035.28,40.864
+Europa,Regio,2023,Kernenergie,965.792,19.391
+Europa,Regio,2023,"Water, bio en overig",1061.245,21.308
+Europa,Regio,2023,Wind,617.297,12.394
+Europa,Regio,2023,Zon,300.965,6.043
+Europa,Regio,2024,Fossiel,1964.61,38.578
+Europa,Regio,2024,Kernenergie,998.575,19.609
+Europa,Regio,2024,"Water, bio en overig",1132.014,22.229
+Europa,Regio,2024,Wind,632.205,12.414
+Europa,Regio,2024,Zon,365.117,7.17
+Europa,Regio,2025,Fossiel,1996.427,39.034
+Europa,Regio,2025,Kernenergie,996.413,19.482
+Europa,Regio,2025,"Water, bio en overig",1051.2,20.553
+Europa,Regio,2025,Wind,626.702,12.253
+Europa,Regio,2025,Zon,443.79,8.677
+Frankrijk,Land,2000,Fossiel,49.57,9.308
+Frankrijk,Land,2000,Kernenergie,415.16,77.956
+Frankrijk,Land,2000,"Water, bio en overig",67.77,12.725
+Frankrijk,Land,2000,Wind,0.05,0.009
+Frankrijk,Land,2000,Zon,0.01,0.002
+Frankrijk,Land,2001,Fossiel,45.43,8.373
+Frankrijk,Land,2001,Kernenergie,421.08,77.604
+Frankrijk,Land,2001,"Water, bio en overig",75.95,13.997
+Frankrijk,Land,2001,Wind,0.13,0.024
+Frankrijk,Land,2001,Zon,0.01,0.002
+Frankrijk,Land,2002,Fossiel,51.79,9.395
+Frankrijk,Land,2002,Kernenergie,436.76,79.232
+Frankrijk,Land,2002,"Water, bio en overig",62.41,11.322
+Frankrijk,Land,2002,Wind,0.27,0.049
+Frankrijk,Land,2002,Zon,0.01,0.002
+Frankrijk,Land,2003,Fossiel,56.59,10.121
+Frankrijk,Land,2003,Kernenergie,441.07,78.885
+Frankrijk,Land,2003,"Water, bio en overig",61.07,10.922
+Frankrijk,Land,2003,Wind,0.39,0.07
+Frankrijk,Land,2003,Zon,0.01,0.002
+Frankrijk,Land,2004,Fossiel,55.64,9.825
+Frankrijk,Land,2004,Kernenergie,448.24,79.152
+Frankrijk,Land,2004,"Water, bio en overig",61.82,10.916
+Frankrijk,Land,2004,Wind,0.59,0.104
+Frankrijk,Land,2004,Zon,0.01,0.002
+Frankrijk,Land,2005,Fossiel,62.63,11.004
+Frankrijk,Land,2005,Kernenergie,451.53,79.335
+Frankrijk,Land,2005,"Water, bio en overig",54.01,9.49
+Frankrijk,Land,2005,Wind,0.96,0.169
+Frankrijk,Land,2005,Zon,0.01,0.002
+Frankrijk,Land,2006,Fossiel,56.2,9.907
+Frankrijk,Land,2006,Kernenergie,450.19,79.357
+Frankrijk,Land,2006,"Water, bio en overig",58.72,10.351
+Frankrijk,Land,2006,Wind,2.18,0.384
+Frankrijk,Land,2006,Zon,0.01,0.002
+Frankrijk,Land,2007,Fossiel,57.81,10.289
+Frankrijk,Land,2007,Kernenergie,439.73,78.266
+Frankrijk,Land,2007,"Water, bio en overig",60.21,10.717
+Frankrijk,Land,2007,Wind,4.07,0.724
+Frankrijk,Land,2007,Zon,0.02,0.004
+Frankrijk,Land,2008,Fossiel,55.2,9.736
+Frankrijk,Land,2008,Kernenergie,439.45,77.507
+Frankrijk,Land,2008,"Water, bio en overig",66.6,11.746
+Frankrijk,Land,2008,Wind,5.69,1.004
+Frankrijk,Land,2008,Zon,0.04,0.007
+Frankrijk,Land,2009,Fossiel,50.98,9.639
+Frankrijk,Land,2009,Kernenergie,409.74,77.475
+Frankrijk,Land,2009,"Water, bio en overig",60.07,11.358
+Frankrijk,Land,2009,Wind,7.91,1.496
+Frankrijk,Land,2009,Zon,0.17,0.032
+Frankrijk,Land,2010,Fossiel,57.16,10.164
+Frankrijk,Land,2010,Kernenergie,428.52,76.2
+Frankrijk,Land,2010,"Water, bio en overig",66.12,11.758
+Frankrijk,Land,2010,Wind,9.94,1.768
+Frankrijk,Land,2010,Zon,0.62,0.11
+Frankrijk,Land,2011,Fossiel,59.25,10.438
+Frankrijk,Land,2011,Kernenergie,442.39,77.932
+Frankrijk,Land,2011,"Water, bio en overig",51.32,9.041
+Frankrijk,Land,2011,Wind,12.37,2.179
+Frankrijk,Land,2011,Zon,2.33,0.41
+Frankrijk,Land,2012,Fossiel,56.93,10.03
+Frankrijk,Land,2012,Kernenergie,425.41,74.95
+Frankrijk,Land,2012,"Water, bio en overig",65.64,11.565
+Frankrijk,Land,2012,Wind,15.18,2.674
+Frankrijk,Land,2012,Zon,4.43,0.78
+Frankrijk,Land,2013,Fossiel,53.64,9.3
+Frankrijk,Land,2013,Kernenergie,423.68,73.46
+Frankrijk,Land,2013,"Water, bio en overig",78.1,13.541
+Frankrijk,Land,2013,Wind,16.14,2.798
+Frankrijk,Land,2013,Zon,5.19,0.9
+Frankrijk,Land,2014,Fossiel,35.8,6.322
+Frankrijk,Land,2014,Kernenergie,436.48,77.074
+Frankrijk,Land,2014,"Water, bio en overig",70.32,12.417
+Frankrijk,Land,2014,Wind,17.32,3.058
+Frankrijk,Land,2014,Zon,6.39,1.128
+Frankrijk,Land,2015,Fossiel,44.88,7.817
+Frankrijk,Land,2015,Kernenergie,437.43,76.187
+Frankrijk,Land,2015,"Water, bio en overig",62.67,10.915
+Frankrijk,Land,2015,Wind,21.42,3.731
+Frankrijk,Land,2015,Zon,7.75,1.35
+Frankrijk,Land,2016,Fossiel,56.64,10.135
+Frankrijk,Land,2016,Kernenergie,403.2,72.149
+Frankrijk,Land,2016,"Water, bio en overig",68.96,12.34
+Frankrijk,Land,2016,Wind,21.38,3.826
+Frankrijk,Land,2016,Zon,8.66,1.55
+Frankrijk,Land,2017,Fossiel,65.47,11.781
+Frankrijk,Land,2017,Kernenergie,398.36,71.681
+Frankrijk,Land,2017,"Water, bio en overig",58.43,10.514
+Frankrijk,Land,2017,Wind,24.61,4.428
+Frankrijk,Land,2017,Zon,8.87,1.596
+Frankrijk,Land,2018,Fossiel,49.45,8.581
+Frankrijk,Land,2018,Kernenergie,412.94,71.661
+Frankrijk,Land,2018,"Water, bio en overig",74.1,12.859
+Frankrijk,Land,2018,Wind,28.6,4.963
+Frankrijk,Land,2018,Zon,11.15,1.935
+Frankrijk,Land,2019,Fossiel,53.61,9.48
+Frankrijk,Land,2019,Kernenergie,399.01,70.556
+Frankrijk,Land,2019,"Water, bio en overig",66.16,11.699
+Frankrijk,Land,2019,Wind,34.72,6.139
+Frankrijk,Land,2019,Zon,12.02,2.125
+Frankrijk,Land,2020,Fossiel,48.39,9.178
+Frankrijk,Land,2020,Kernenergie,353.83,67.109
+Frankrijk,Land,2020,"Water, bio en overig",71.89,13.635
+Frankrijk,Land,2020,Wind,40.05,7.596
+Frankrijk,Land,2020,Zon,13.09,2.483
+Frankrijk,Land,2021,Fossiel,48.85,8.877
+Frankrijk,Land,2021,Kernenergie,379.36,68.936
+Frankrijk,Land,2021,"Water, bio en overig",69.7,12.666
+Frankrijk,Land,2021,Wind,37.12,6.745
+Frankrijk,Land,2021,Zon,15.28,2.777
+Frankrijk,Land,2022,Fossiel,60.35,12.885
+Frankrijk,Land,2022,Kernenergie,294.73,62.927
+Frankrijk,Land,2022,"Water, bio en overig",55.75,11.903
+Frankrijk,Land,2022,Wind,38.2,8.156
+Frankrijk,Land,2022,Zon,19.34,4.129
+Frankrijk,Land,2023,Fossiel,41.06,7.915
+Frankrijk,Land,2023,Kernenergie,338.2,65.195
+Frankrijk,Land,2023,"Water, bio en overig",66.42,12.804
+Frankrijk,Land,2023,Wind,50.48,9.731
+Frankrijk,Land,2023,Zon,22.59,4.355
+Frankrijk,Land,2024,Fossiel,28.66,5.077
+Frankrijk,Land,2024,Kernenergie,380.45,67.397
+Frankrijk,Land,2024,"Water, bio en overig",82.37,14.592
+Frankrijk,Land,2024,Wind,47.952,8.495
+Frankrijk,Land,2024,Zon,25.06,4.439
+Frankrijk,Land,2025,Fossiel,29.333,5.107
+Frankrijk,Land,2025,Kernenergie,392.048,68.257
+Frankrijk,Land,2025,"Water, bio en overig",70.243,12.23
+Frankrijk,Land,2025,Wind,50.735,8.833
+Frankrijk,Land,2025,Zon,32.013,5.574
+India,Land,2000,Fossiel,475.35,83.192
+India,Land,2000,Kernenergie,15.77,2.76
+India,Land,2000,"Water, bio en overig",78.68,13.77
+India,Land,2000,Wind,1.58,0.277
+India,Land,2000,Zon,0.01,0.002
+India,Land,2001,Fossiel,491.01,83.777
+India,Land,2001,Kernenergie,18.89,3.223
+India,Land,2001,"Water, bio en overig",74.09,12.641
+India,Land,2001,Wind,2.09,0.357
+India,Land,2001,Zon,0.01,0.002
+India,Land,2002,Fossiel,517.51,84.888
+India,Land,2002,Kernenergie,19.35,3.174
+India,Land,2002,"Water, bio en overig",70.68,11.594
+India,Land,2002,Wind,2.09,0.343
+India,Land,2002,Zon,0.01,0.002
+India,Land,2003,Fossiel,545.36,85.462
+India,Land,2003,Kernenergie,18.14,2.843
+India,Land,2003,"Water, bio en overig",72.01,11.285
+India,Land,2003,Wind,2.6,0.407
+India,Land,2003,Zon,0.02,0.003
+India,Land,2004,Fossiel,567.86,81.318
+India,Land,2004,Kernenergie,21.26,3.044
+India,Land,2004,"Water, bio en overig",103.95,14.886
+India,Land,2004,Wind,5.23,0.749
+India,Land,2004,Zon,0.02,0.003
+India,Land,2005,Fossiel,579.32,82.229
+India,Land,2005,Kernenergie,17.73,2.517
+India,Land,2005,"Water, bio en overig",101.46,14.401
+India,Land,2005,Wind,5.99,0.85
+India,Land,2005,Zon,0.02,0.003
+India,Land,2006,Fossiel,599.24,80.496
+India,Land,2006,Kernenergie,17.63,2.368
+India,Land,2006,"Water, bio en overig",118.21,15.879
+India,Land,2006,Wind,9.34,1.255
+India,Land,2006,Zon,0.01,0.001
+India,Land,2007,Fossiel,636.68,79.959
+India,Land,2007,Kernenergie,17.83,2.239
+India,Land,2007,"Water, bio en overig",130.01,16.328
+India,Land,2007,Wind,11.68,1.467
+India,Land,2007,Zon,0.06,0.008
+India,Land,2008,Fossiel,674.27,81.393
+India,Land,2008,Kernenergie,15.23,1.838
+India,Land,2008,"Water, bio en overig",124.47,15.025
+India,Land,2008,Wind,14.38,1.736
+India,Land,2008,Zon,0.06,0.007
+India,Land,2009,Fossiel,728.56,82.92
+India,Land,2009,Kernenergie,16.82,1.914
+India,Land,2009,"Water, bio en overig",116.9,13.305
+India,Land,2009,Wind,16.27,1.852
+India,Land,2009,Zon,0.08,0.009
+India,Land,2010,Fossiel,771.78,82.421
+India,Land,2010,Kernenergie,23.08,2.465
+India,Land,2010,"Water, bio en overig",121.96,13.024
+India,Land,2010,Wind,19.46,2.078
+India,Land,2010,Zon,0.11,0.012
+India,Land,2011,Fossiel,828.16,80.223
+India,Land,2011,Kernenergie,32.22,3.121
+India,Land,2011,"Water, bio en overig",147.16,14.255
+India,Land,2011,Wind,23.95,2.32
+India,Land,2011,Zon,0.83,0.08
+India,Land,2012,Fossiel,893.45,82.087
+India,Land,2012,Kernenergie,33.14,3.045
+India,Land,2012,"Water, bio en overig",132.3,12.155
+India,Land,2012,Wind,27.43,2.52
+India,Land,2012,Zon,2.1,0.193
+India,Land,2013,Fossiel,924.93,81.047
+India,Land,2013,Kernenergie,33.31,2.919
+India,Land,2013,"Water, bio en overig",149.55,13.104
+India,Land,2013,Wind,30.01,2.63
+India,Land,2013,Zon,3.43,0.301
+India,Land,2014,Fossiel,1025.49,81.473
+India,Land,2014,Kernenergie,34.69,2.756
+India,Land,2014,"Water, bio en overig",160.14,12.723
+India,Land,2014,Wind,33.45,2.658
+India,Land,2014,Zon,4.91,0.39
+India,Land,2015,Fossiel,1080.58,82.452
+India,Land,2015,Kernenergie,38.31,2.923
+India,Land,2015,"Water, bio en overig",151.84,11.586
+India,Land,2015,Wind,32.74,2.498
+India,Land,2015,Zon,7.09,0.541
+India,Land,2016,Fossiel,1155.63,82.845
+India,Land,2016,Kernenergie,37.9,2.717
+India,Land,2016,"Water, bio en overig",145.75,10.449
+India,Land,2016,Wind,43.45,3.115
+India,Land,2016,Zon,12.2,0.875
+India,Land,2017,Fossiel,1199.02,81.99
+India,Land,2017,Kernenergie,37.41,2.558
+India,Land,2017,"Water, bio en overig",150.97,10.324
+India,Land,2017,Wind,52.63,3.599
+India,Land,2017,Zon,22.36,1.529
+India,Land,2018,Fossiel,1276.52,81.222
+India,Land,2018,Kernenergie,39.05,2.485
+India,Land,2018,"Water, bio en overig",158.32,10.073
+India,Land,2018,Wind,60.31,3.837
+India,Land,2018,Zon,37.45,2.383
+India,Land,2019,Fossiel,1273.78,79.563
+India,Land,2019,Kernenergie,45.16,2.821
+India,Land,2019,"Water, bio en overig",181.28,11.323
+India,Land,2019,Wind,63.31,3.954
+India,Land,2019,Zon,37.45,2.339
+India,Land,2020,Fossiel,1221.66,78.209
+India,Land,2020,Kernenergie,44.61,2.856
+India,Land,2020,"Water, bio en overig",183.82,11.768
+India,Land,2020,Wind,60.43,3.869
+India,Land,2020,Zon,51.532,3.299
+India,Land,2021,Fossiel,1319.35,78.666
+India,Land,2021,Kernenergie,43.92,2.619
+India,Land,2021,"Water, bio en overig",181.77,10.838
+India,Land,2021,Wind,68.09,4.06
+India,Land,2021,Zon,64.015,3.817
+India,Land,2022,Fossiel,1394.07,77.317
+India,Land,2022,Kernenergie,46.19,2.562
+India,Land,2022,"Water, bio en overig",198.38,11.002
+India,Land,2022,Wind,70.05,3.885
+India,Land,2022,Zon,94.357,5.233
+India,Land,2023,Fossiel,1500.09,78.258
+India,Land,2023,Kernenergie,48.2,2.515
+India,Land,2023,"Water, bio en overig",172.44,8.996
+India,Land,2023,Wind,82.11,4.284
+India,Land,2023,Zon,114.012,5.948
+India,Land,2024,Fossiel,1578.43,77.56
+India,Land,2024,Kernenergie,54.7,2.688
+India,Land,2024,"Water, bio en overig",178.78,8.785
+India,Land,2024,Wind,81.54,4.007
+India,Land,2024,Zon,141.665,6.961
+India,Land,2025,Fossiel,1526.767,73.397
+India,Land,2025,Kernenergie,53.811,2.587
+India,Land,2025,"Water, bio en overig",200.983,9.662
+India,Land,2025,Wind,104.002,5.0
+India,Land,2025,Zon,194.599,9.355
+Japan,Land,2000,Fossiel,679.517,61.793
+Japan,Land,2000,Kernenergie,319.122,29.02
+Japan,Land,2000,"Water, bio en overig",100.579,9.146
+Japan,Land,2000,Wind,0.109,0.01
+Japan,Land,2000,Zon,0.344,0.031
+Japan,Land,2001,Fossiel,664.286,61.33
+Japan,Land,2001,Kernenergie,320.538,29.593
+Japan,Land,2001,"Water, bio en overig",97.566,9.008
+Japan,Land,2001,Wind,0.252,0.023
+Japan,Land,2001,Zon,0.5,0.046
+Japan,Land,2002,Fossiel,690.176,62.568
+Japan,Land,2002,Kernenergie,314.258,28.489
+Japan,Land,2002,"Water, bio en overig",97.539,8.842
+Japan,Land,2002,Wind,0.413,0.037
+Japan,Land,2002,Zon,0.695,0.063
+Japan,Land,2003,Fossiel,750.383,68.679
+Japan,Land,2003,Kernenergie,230.078,21.058
+Japan,Land,2003,"Water, bio en overig",110.348,10.1
+Japan,Land,2003,Wind,0.832,0.076
+Japan,Land,2003,Zon,0.954,0.087
+Japan,Land,2004,Fossiel,722.895,64.476
+Japan,Land,2004,Kernenergie,285.866,25.497
+Japan,Land,2004,"Water, bio en overig",109.72,9.786
+Japan,Land,2004,Wind,1.44,0.128
+Japan,Land,2004,Zon,1.272,0.113
+Japan,Land,2005,Fossiel,757.236,65.672
+Japan,Land,2005,Kernenergie,293.038,25.414
+Japan,Land,2005,"Water, bio en overig",99.247,8.607
+Japan,Land,2005,Wind,1.91,0.166
+Japan,Land,2005,Zon,1.63,0.141
+Japan,Land,2006,Fossiel,745.592,64.035
+Japan,Land,2006,Kernenergie,304.291,26.134
+Japan,Land,2006,"Water, bio en overig",110.335,9.476
+Japan,Land,2006,Wind,2.135,0.183
+Japan,Land,2006,Zon,1.996,0.171
+Japan,Land,2007,Fossiel,799.34,67.734
+Japan,Land,2007,Kernenergie,279.009,23.643
+Japan,Land,2007,"Water, bio en overig",96.708,8.195
+Japan,Land,2007,Wind,2.74,0.232
+Japan,Land,2007,Zon,2.312,0.196
+Japan,Land,2008,Fossiel,829.979,70.116
+Japan,Land,2008,Kernenergie,251.744,21.267
+Japan,Land,2008,"Water, bio en overig",96.457,8.149
+Japan,Land,2008,Wind,2.945,0.249
+Japan,Land,2008,Zon,2.594,0.219
+Japan,Land,2009,Fossiel,742.088,66.615
+Japan,Land,2009,Kernenergie,274.651,24.654
+Japan,Land,2009,"Water, bio en overig",90.792,8.15
+Japan,Land,2009,Wind,3.427,0.308
+Japan,Land,2009,Zon,3.046,0.273
+Japan,Land,2010,Fossiel,745.431,64.482
+Japan,Land,2010,Kernenergie,292.355,25.29
+Japan,Land,2010,"Water, bio en overig",110.33,9.544
+Japan,Land,2010,Wind,3.926,0.34
+Japan,Land,2010,Zon,3.981,0.344
+Japan,Land,2011,Fossiel,827.766,74.966
+Japan,Land,2011,Kernenergie,162.927,14.755
+Japan,Land,2011,"Water, bio en overig",103.592,9.382
+Japan,Land,2011,Wind,4.459,0.404
+Japan,Land,2011,Zon,5.439,0.493
+Japan,Land,2012,Fossiel,977.559,88.317
+Japan,Land,2012,Kernenergie,17.991,1.625
+Japan,Land,2012,"Water, bio en overig",99.23,8.965
+Japan,Land,2012,Wind,4.727,0.427
+Japan,Land,2012,Zon,7.372,0.666
+Japan,Land,2013,Fossiel,952.606,87.575
+Japan,Land,2013,Kernenergie,14.603,1.342
+Japan,Land,2013,"Water, bio en overig",102.508,9.424
+Japan,Land,2013,Wind,5.133,0.472
+Japan,Land,2013,Zon,12.909,1.187
+Japan,Land,2014,Fossiel,928.83,87.4
+Japan,Land,2014,Kernenergie,0.0,0.0
+Japan,Land,2014,"Water, bio en overig",105.336,9.912
+Japan,Land,2014,Wind,5.014,0.472
+Japan,Land,2014,Zon,23.548,2.216
+Japan,Land,2015,Fossiel,871.577,84.61
+Japan,Land,2015,Kernenergie,4.524,0.439
+Japan,Land,2015,"Water, bio en overig",114.25,11.091
+Japan,Land,2015,Wind,5.223,0.507
+Japan,Land,2015,Zon,34.54,3.353
+Japan,Land,2016,Fossiel,894.253,84.07
+Japan,Land,2016,Kernenergie,17.678,1.662
+Japan,Land,2016,"Water, bio en overig",103.097,9.692
+Japan,Land,2016,Wind,5.341,0.502
+Japan,Land,2016,Zon,43.326,4.073
+Japan,Land,2017,Fossiel,884.493,82.177
+Japan,Land,2017,Kernenergie,29.073,2.701
+Japan,Land,2017,"Water, bio en overig",103.057,9.575
+Japan,Land,2017,Wind,6.222,0.578
+Japan,Land,2017,Zon,53.481,4.969
+Japan,Land,2018,Fossiel,858.471,79.278
+Japan,Land,2018,Kernenergie,49.106,4.535
+Japan,Land,2018,"Water, bio en overig",106.737,9.857
+Japan,Land,2018,Wind,7.367,0.68
+Japan,Land,2018,Zon,61.178,5.65
+Japan,Land,2019,Fossiel,805.352,76.899
+Japan,Land,2019,Kernenergie,65.636,6.267
+Japan,Land,2019,"Water, bio en overig",101.497,9.691
+Japan,Land,2019,Wind,7.455,0.712
+Japan,Land,2019,Zon,67.35,6.431
+Japan,Land,2020,Fossiel,774.997,76.674
+Japan,Land,2020,Kernenergie,43.0,4.254
+Japan,Land,2020,"Water, bio en overig",108.704,10.755
+Japan,Land,2020,Wind,8.405,0.832
+Japan,Land,2020,Zon,75.664,7.486
+Japan,Land,2021,Fossiel,765.301,73.966
+Japan,Land,2021,Kernenergie,61.223,5.917
+Japan,Land,2021,"Water, bio en overig",114.421,11.059
+Japan,Land,2021,Wind,9.536,0.922
+Japan,Land,2021,Zon,84.18,8.136
+Japan,Land,2022,Fossiel,775.605,74.538
+Japan,Land,2022,Kernenergie,51.774,4.976
+Japan,Land,2022,"Water, bio en overig",112.696,10.83
+Japan,Land,2022,Wind,9.415,0.905
+Japan,Land,2022,Zon,91.058,8.751
+Japan,Land,2023,Fossiel,706.407,70.169
+Japan,Land,2023,Kernenergie,77.461,7.694
+Japan,Land,2023,"Water, bio en overig",116.54,11.576
+Japan,Land,2023,Wind,9.957,0.989
+Japan,Land,2023,Zon,96.358,9.571
+Japan,Land,2024,Fossiel,699.145,68.883
+Japan,Land,2024,Kernenergie,84.906,8.365
+Japan,Land,2024,"Water, bio en overig",123.083,12.127
+Japan,Land,2024,Wind,11.051,1.089
+Japan,Land,2024,Zon,96.789,9.536
+Japan,Land,2025,Fossiel,687.826,66.951
+Japan,Land,2025,Kernenergie,94.065,9.156
+Japan,Land,2025,"Water, bio en overig",121.838,11.859
+Japan,Land,2025,Wind,12.837,1.25
+Japan,Land,2025,Zon,110.787,10.784
+Nederland,Land,2000,Fossiel,81.16,92.164
+Nederland,Land,2000,Kernenergie,3.93,4.463
+Nederland,Land,2000,"Water, bio en overig",2.13,2.419
+Nederland,Land,2000,Wind,0.83,0.943
+Nederland,Land,2000,Zon,0.01,0.011
+Nederland,Land,2001,Fossiel,84.85,92.088
+Nederland,Land,2001,Kernenergie,3.98,4.32
+Nederland,Land,2001,"Water, bio en overig",2.47,2.681
+Nederland,Land,2001,Wind,0.83,0.901
+Nederland,Land,2001,Zon,0.01,0.011
+Nederland,Land,2002,Fossiel,86.75,91.663
+Nederland,Land,2002,Kernenergie,3.91,4.131
+Nederland,Land,2002,"Water, bio en overig",3.01,3.18
+Nederland,Land,2002,Wind,0.95,1.004
+Nederland,Land,2002,Zon,0.02,0.021
+Nederland,Land,2003,Fossiel,87.49,91.641
+Nederland,Land,2003,Kernenergie,4.02,4.211
+Nederland,Land,2003,"Water, bio en overig",2.61,2.734
+Nederland,Land,2003,Wind,1.32,1.383
+Nederland,Land,2003,Zon,0.03,0.031
+Nederland,Land,2004,Fossiel,90.7,90.864
+Nederland,Land,2004,Kernenergie,3.82,3.827
+Nederland,Land,2004,"Water, bio en overig",3.4,3.406
+Nederland,Land,2004,Wind,1.87,1.873
+Nederland,Land,2004,Zon,0.03,0.03
+Nederland,Land,2005,Fossiel,87.07,88.369
+Nederland,Land,2005,Kernenergie,4.0,4.06
+Nederland,Land,2005,"Water, bio en overig",5.35,5.43
+Nederland,Land,2005,Wind,2.07,2.101
+Nederland,Land,2005,Zon,0.04,0.041
+Nederland,Land,2006,Fossiel,85.99,88.177
+Nederland,Land,2006,Kernenergie,3.47,3.558
+Nederland,Land,2006,"Water, bio en overig",5.28,5.414
+Nederland,Land,2006,Wind,2.74,2.81
+Nederland,Land,2006,Zon,0.04,0.041
+Nederland,Land,2007,Fossiel,91.89,88.628
+Nederland,Land,2007,Kernenergie,4.2,4.051
+Nederland,Land,2007,"Water, bio en overig",4.11,3.964
+Nederland,Land,2007,Wind,3.44,3.318
+Nederland,Land,2007,Zon,0.04,0.039
+Nederland,Land,2008,Fossiel,92.51,87.101
+Nederland,Land,2008,Kernenergie,4.17,3.926
+Nederland,Land,2008,"Water, bio en overig",5.23,4.924
+Nederland,Land,2008,Wind,4.26,4.011
+Nederland,Land,2008,Zon,0.04,0.038
+Nederland,Land,2009,Fossiel,97.27,86.578
+Nederland,Land,2009,Kernenergie,4.25,3.783
+Nederland,Land,2009,"Water, bio en overig",6.21,5.527
+Nederland,Land,2009,Wind,4.58,4.077
+Nederland,Land,2009,Zon,0.04,0.036
+Nederland,Land,2010,Fossiel,102.94,87.163
+Nederland,Land,2010,Kernenergie,3.97,3.362
+Nederland,Land,2010,"Water, bio en overig",7.14,6.046
+Nederland,Land,2010,Wind,3.99,3.378
+Nederland,Land,2010,Zon,0.06,0.051
+Nederland,Land,2011,Fossiel,96.18,85.387
+Nederland,Land,2011,Kernenergie,4.14,3.675
+Nederland,Land,2011,"Water, bio en overig",7.12,6.321
+Nederland,Land,2011,Wind,5.1,4.528
+Nederland,Land,2011,Zon,0.1,0.089
+Nederland,Land,2012,Fossiel,85.89,83.984
+Nederland,Land,2012,Kernenergie,3.91,3.823
+Nederland,Land,2012,"Water, bio en overig",7.3,7.138
+Nederland,Land,2012,Wind,4.98,4.869
+Nederland,Land,2012,Zon,0.19,0.186
+Nederland,Land,2013,Fossiel,85.57,85.093
+Nederland,Land,2013,Kernenergie,2.89,2.874
+Nederland,Land,2013,"Water, bio en overig",6.06,6.026
+Nederland,Land,2013,Wind,5.63,5.599
+Nederland,Land,2013,Zon,0.41,0.408
+Nederland,Land,2014,Fossiel,86.36,84.584
+Nederland,Land,2014,Kernenergie,4.09,4.006
+Nederland,Land,2014,"Water, bio en overig",5.12,5.015
+Nederland,Land,2014,Wind,5.8,5.681
+Nederland,Land,2014,Zon,0.73,0.715
+Nederland,Land,2015,Fossiel,91.22,83.696
+Nederland,Land,2015,Kernenergie,4.08,3.743
+Nederland,Land,2015,"Water, bio en overig",5.03,4.615
+Nederland,Land,2015,Wind,7.55,6.927
+Nederland,Land,2015,Zon,1.11,1.018
+Nederland,Land,2016,Fossiel,95.22,83.556
+Nederland,Land,2016,Kernenergie,3.96,3.475
+Nederland,Land,2016,"Water, bio en overig",5.01,4.396
+Nederland,Land,2016,Wind,8.17,7.169
+Nederland,Land,2016,Zon,1.6,1.404
+Nederland,Land,2017,Fossiel,95.21,82.049
+Nederland,Land,2017,Kernenergie,3.4,2.93
+Nederland,Land,2017,"Water, bio en overig",4.66,4.016
+Nederland,Land,2017,Wind,10.57,9.109
+Nederland,Land,2017,Zon,2.2,1.896
+Nederland,Land,2018,Fossiel,90.71,80.203
+Nederland,Land,2018,Kernenergie,3.51,3.103
+Nederland,Land,2018,"Water, bio en overig",4.62,4.085
+Nederland,Land,2018,Wind,10.55,9.328
+Nederland,Land,2018,Zon,3.71,3.28
+Nederland,Land,2019,Fossiel,93.34,77.751
+Nederland,Land,2019,Kernenergie,3.91,3.257
+Nederland,Land,2019,"Water, bio en overig",5.89,4.906
+Nederland,Land,2019,Wind,11.51,9.588
+Nederland,Land,2019,Zon,5.4,4.498
+Nederland,Land,2020,Fossiel,85.14,69.81
+Nederland,Land,2020,Kernenergie,4.09,3.354
+Nederland,Land,2020,"Water, bio en overig",8.89,7.289
+Nederland,Land,2020,Wind,15.27,12.52
+Nederland,Land,2020,Zon,8.57,7.027
+Nederland,Land,2021,Fossiel,76.62,63.38
+Nederland,Land,2021,Kernenergie,3.83,3.168
+Nederland,Land,2021,"Water, bio en overig",11.01,9.107
+Nederland,Land,2021,Wind,18.13,14.997
+Nederland,Land,2021,Zon,11.3,9.347
+Nederland,Land,2022,Fossiel,67.7,56.435
+Nederland,Land,2022,Kernenergie,4.16,3.468
+Nederland,Land,2022,"Water, bio en overig",9.87,8.228
+Nederland,Land,2022,Wind,21.57,17.981
+Nederland,Land,2022,Zon,16.66,13.888
+Nederland,Land,2023,Fossiel,59.13,49.291
+Nederland,Land,2023,Kernenergie,3.99,3.326
+Nederland,Land,2023,"Water, bio en overig",7.71,6.427
+Nederland,Land,2023,Wind,29.52,24.608
+Nederland,Land,2023,Zon,19.61,16.347
+Nederland,Land,2024,Fossiel,56.69,46.337
+Nederland,Land,2024,Kernenergie,3.57,2.918
+Nederland,Land,2024,"Water, bio en overig",6.77,5.534
+Nederland,Land,2024,Wind,33.494,27.377
+Nederland,Land,2024,Zon,21.82,17.835
+Nederland,Land,2025,Fossiel,61.909,45.846
+Nederland,Land,2025,Kernenergie,3.985,2.951
+Nederland,Land,2025,"Water, bio en overig",6.931,5.133
+Nederland,Land,2025,Wind,33.705,24.96
+Nederland,Land,2025,Zon,28.507,21.111
+Noord-Amerika,Regio,2000,Fossiel,2862.965,64.976
+Noord-Amerika,Regio,2000,Kernenergie,826.184,18.75
+Noord-Amerika,Regio,2000,"Water, bio en overig",710.697,16.129
+Noord-Amerika,Regio,2000,Wind,5.854,0.133
+Noord-Amerika,Regio,2000,Zon,0.506,0.011
+Noord-Amerika,Regio,2001,Fossiel,2848.851,66.013
+Noord-Amerika,Regio,2001,Kernenergie,844.992,19.58
+Noord-Amerika,Regio,2001,"Water, bio en overig",614.133,14.231
+Noord-Amerika,Regio,2001,Wind,7.069,0.164
+Noord-Amerika,Regio,2001,Zon,0.56,0.013
+Noord-Amerika,Regio,2002,Fossiel,2893.003,65.094
+Noord-Amerika,Regio,2002,Kernenergie,855.06,19.239
+Noord-Amerika,Regio,2002,"Water, bio en overig",684.941,15.412
+Noord-Amerika,Regio,2002,Wind,10.755,0.242
+Noord-Amerika,Regio,2002,Zon,0.573,0.013
+Noord-Amerika,Regio,2003,Fossiel,2923.789,65.592
+Noord-Amerika,Regio,2003,Kernenergie,838.102,18.802
+Noord-Amerika,Regio,2003,"Water, bio en overig",683.197,15.327
+Noord-Amerika,Regio,2003,Wind,11.88,0.267
+Noord-Amerika,Regio,2003,Zon,0.553,0.012
+Noord-Amerika,Regio,2004,Fossiel,2978.01,65.439
+Noord-Amerika,Regio,2004,Kernenergie,878.288,19.3
+Noord-Amerika,Regio,2004,"Water, bio en overig",678.813,14.916
+Noord-Amerika,Regio,2004,Wind,15.085,0.331
+Noord-Amerika,Regio,2004,Zon,0.594,0.013
+Noord-Amerika,Regio,2005,Fossiel,3056.484,65.649
+Noord-Amerika,Regio,2005,Kernenergie,873.39,18.759
+Noord-Amerika,Regio,2005,"Water, bio en overig",705.991,15.164
+Noord-Amerika,Regio,2005,Wind,19.377,0.416
+Noord-Amerika,Regio,2005,Zon,0.567,0.012
+Noord-Amerika,Regio,2006,Fossiel,3025.536,64.985
+Noord-Amerika,Regio,2006,Kernenergie,884.503,18.998
+Noord-Amerika,Regio,2006,"Water, bio en overig",716.085,15.381
+Noord-Amerika,Regio,2006,Wind,29.063,0.624
+Noord-Amerika,Regio,2006,Zon,0.531,0.011
+Noord-Amerika,Regio,2007,Fossiel,3150.107,65.942
+Noord-Amerika,Regio,2007,Kernenergie,899.252,18.824
+Noord-Amerika,Regio,2007,"Water, bio en overig",689.663,14.437
+Noord-Amerika,Regio,2007,Wind,37.457,0.784
+Noord-Amerika,Regio,2007,Zon,0.636,0.013
+Noord-Amerika,Regio,2008,Fossiel,3074.838,64.829
+Noord-Amerika,Regio,2008,Kernenergie,901.563,19.008
+Noord-Amerika,Regio,2008,"Water, bio en overig",706.557,14.897
+Noord-Amerika,Regio,2008,Wind,59.149,1.247
+Noord-Amerika,Regio,2008,Zon,0.895,0.019
+Noord-Amerika,Regio,2009,Fossiel,2865.593,62.923
+Noord-Amerika,Regio,2009,Kernenergie,888.315,19.506
+Noord-Amerika,Regio,2009,"Water, bio en overig",718.669,15.781
+Noord-Amerika,Regio,2009,Wind,80.532,1.768
+Noord-Amerika,Regio,2009,Zon,0.999,0.022
+Noord-Amerika,Regio,2010,Fossiel,3028.932,64.154
+Noord-Amerika,Regio,2010,Kernenergie,896.998,18.999
+Noord-Amerika,Regio,2010,"Water, bio en overig",690.592,14.627
+Noord-Amerika,Regio,2010,Wind,103.374,2.189
+Noord-Amerika,Regio,2010,Zon,1.466,0.031
+Noord-Amerika,Regio,2011,Fossiel,2937.685,62.139
+Noord-Amerika,Regio,2011,Kernenergie,883.138,18.68
+Noord-Amerika,Regio,2011,"Water, bio en overig",774.018,16.372
+Noord-Amerika,Regio,2011,Wind,130.369,2.758
+Noord-Amerika,Regio,2011,Zon,2.392,0.051
+Noord-Amerika,Regio,2012,Fossiel,2918.103,62.384
+Noord-Amerika,Regio,2012,Kernenergie,863.533,18.461
+Noord-Amerika,Regio,2012,"Water, bio en overig",738.691,15.792
+Noord-Amerika,Regio,2012,Wind,152.131,3.252
+Noord-Amerika,Regio,2012,Zon,5.211,0.111
+Noord-Amerika,Regio,2013,Fossiel,2883.792,61.204
+Noord-Amerika,Regio,2013,Kernenergie,891.74,18.926
+Noord-Amerika,Regio,2013,"Water, bio en overig",746.694,15.847
+Noord-Amerika,Regio,2013,Wind,178.985,3.799
+Noord-Amerika,Regio,2013,Zon,10.539,0.224
+Noord-Amerika,Regio,2014,Fossiel,2891.284,60.876
+Noord-Amerika,Regio,2014,Kernenergie,903.705,19.028
+Noord-Amerika,Regio,2014,"Water, bio en overig",728.947,15.348
+Noord-Amerika,Regio,2014,Wind,194.467,4.095
+Noord-Amerika,Regio,2014,Zon,31.04,0.654
+Noord-Amerika,Regio,2015,Fossiel,2868.355,60.443
+Noord-Amerika,Regio,2015,Kernenergie,898.281,18.929
+Noord-Amerika,Regio,2015,"Water, bio en overig",719.34,15.158
+Noord-Amerika,Regio,2015,Wind,217.686,4.587
+Noord-Amerika,Regio,2015,Zon,41.925,0.883
+Noord-Amerika,Regio,2016,Fossiel,2792.713,58.73
+Noord-Amerika,Regio,2016,Kernenergie,906.413,19.062
+Noord-Amerika,Regio,2016,"Water, bio en overig",740.242,15.567
+Noord-Amerika,Regio,2016,Wind,257.923,5.424
+Noord-Amerika,Regio,2016,Zon,57.875,1.217
+Noord-Amerika,Regio,2017,Fossiel,2668.484,56.51
+Noord-Amerika,Regio,2017,Kernenergie,905.545,19.177
+Noord-Amerika,Regio,2017,"Water, bio en overig",781.723,16.554
+Noord-Amerika,Regio,2017,Wind,285.814,6.053
+Noord-Amerika,Regio,2017,Zon,80.589,1.707
+Noord-Amerika,Regio,2018,Fossiel,2789.181,57.352
+Noord-Amerika,Regio,2018,Kernenergie,907.111,18.652
+Noord-Amerika,Regio,2018,"Water, bio en overig",763.996,15.709
+Noord-Amerika,Regio,2018,Wind,306.141,6.295
+Noord-Amerika,Regio,2018,Zon,96.852,1.991
+Noord-Amerika,Regio,2019,Fossiel,2714.786,56.387
+Noord-Amerika,Regio,2019,Kernenergie,909.904,18.899
+Noord-Amerika,Regio,2019,"Water, bio en overig",750.478,15.588
+Noord-Amerika,Regio,2019,Wind,328.756,6.828
+Noord-Amerika,Regio,2019,Zon,110.643,2.298
+Noord-Amerika,Regio,2020,Fossiel,2553.572,54.336
+Noord-Amerika,Regio,2020,Kernenergie,887.393,18.882
+Noord-Amerika,Regio,2020,"Water, bio en overig",750.12,15.961
+Noord-Amerika,Regio,2020,Wind,373.704,7.952
+Noord-Amerika,Regio,2020,Zon,134.792,2.868
+Noord-Amerika,Regio,2021,Fossiel,2637.5,54.873
+Noord-Amerika,Regio,2021,Kernenergie,871.635,18.134
+Noord-Amerika,Regio,2021,"Water, bio en overig",712.368,14.821
+Noord-Amerika,Regio,2021,Wind,415.497,8.644
+Noord-Amerika,Regio,2021,Zon,169.534,3.527
+Noord-Amerika,Regio,2022,Fossiel,2682.723,54.175
+Noord-Amerika,Regio,2022,Kernenergie,858.173,17.33
+Noord-Amerika,Regio,2022,"Water, bio en overig",726.484,14.671
+Noord-Amerika,Regio,2022,Wind,473.778,9.567
+Noord-Amerika,Regio,2022,Zon,210.807,4.257
+Noord-Amerika,Regio,2023,Fossiel,2651.304,54.131
+Noord-Amerika,Regio,2023,Kernenergie,863.298,17.626
+Noord-Amerika,Regio,2023,"Water, bio en overig",675.387,13.789
+Noord-Amerika,Regio,2023,Wind,461.975,9.432
+Noord-Amerika,Regio,2023,Zon,246.012,5.023
+Noord-Amerika,Regio,2024,Fossiel,2697.618,53.586
+Noord-Amerika,Regio,2024,Kernenergie,866.855,17.219
+Noord-Amerika,Regio,2024,"Water, bio en overig",658.402,13.079
+Noord-Amerika,Regio,2024,Wind,499.648,9.925
+Noord-Amerika,Regio,2024,Zon,311.68,6.191
+Noord-Amerika,Regio,2025,Fossiel,2731.613,52.728
+Noord-Amerika,Regio,2025,Kernenergie,869.606,16.786
+Noord-Amerika,Regio,2025,"Water, bio en overig",664.532,12.827
+Noord-Amerika,Regio,2025,Wind,516.975,9.979
+Noord-Amerika,Regio,2025,Zon,397.856,7.68
+Spanje,Land,2000,Fossiel,124.22,56.228
+Spanje,Land,2000,Kernenergie,62.21,28.16
+Spanje,Land,2000,"Water, bio en overig",29.75,13.466
+Spanje,Land,2000,Wind,4.73,2.141
+Spanje,Land,2000,Zon,0.01,0.005
+Spanje,Land,2001,Fossiel,120.06,51.512
+Spanje,Land,2001,Kernenergie,63.71,27.335
+Spanje,Land,2001,"Water, bio en overig",42.52,18.243
+Spanje,Land,2001,Wind,6.76,2.9
+Spanje,Land,2001,Zon,0.02,0.009
+Spanje,Land,2002,Fossiel,143.72,59.906
+Spanje,Land,2002,Kernenergie,63.02,26.268
+Spanje,Land,2002,"Water, bio en overig",23.81,9.925
+Spanje,Land,2002,Wind,9.34,3.893
+Spanje,Land,2002,Zon,0.02,0.008
+Spanje,Land,2003,Fossiel,139.67,54.283
+Spanje,Land,2003,Kernenergie,61.88,24.05
+Spanje,Land,2003,"Water, bio en overig",43.66,16.969
+Spanje,Land,2003,Wind,12.07,4.691
+Spanje,Land,2003,Zon,0.02,0.008
+Spanje,Land,2004,Fossiel,162.87,58.881
+Spanje,Land,2004,Kernenergie,63.61,22.996
+Spanje,Land,2004,"Water, bio en overig",34.41,12.44
+Spanje,Land,2004,Wind,15.7,5.676
+Spanje,Land,2004,Zon,0.02,0.007
+Spanje,Land,2005,Fossiel,189.65,65.519
+Spanje,Land,2005,Kernenergie,57.54,19.878
+Spanje,Land,2005,"Water, bio en overig",21.04,7.269
+Spanje,Land,2005,Wind,21.18,7.317
+Spanje,Land,2005,Zon,0.05,0.017
+Spanje,Land,2006,Fossiel,183.31,62.015
+Spanje,Land,2006,Kernenergie,60.13,20.342
+Spanje,Land,2006,"Water, bio en overig",28.73,9.72
+Spanje,Land,2006,Wind,23.3,7.883
+Spanje,Land,2006,Zon,0.12,0.041
+Spanje,Land,2007,Fossiel,188.46,62.433
+Spanje,Land,2007,Kernenergie,55.1,18.253
+Spanje,Land,2007,"Water, bio en overig",30.21,10.008
+Spanje,Land,2007,Wind,27.57,9.133
+Spanje,Land,2007,Zon,0.52,0.172
+Spanje,Land,2008,Fossiel,188.67,60.903
+Spanje,Land,2008,Kernenergie,58.97,19.035
+Spanje,Land,2008,"Water, bio en overig",26.62,8.593
+Spanje,Land,2008,Wind,32.95,10.636
+Spanje,Land,2008,Zon,2.58,0.833
+Spanje,Land,2009,Fossiel,163.88,56.37
+Spanje,Land,2009,Kernenergie,52.76,18.148
+Spanje,Land,2009,"Water, bio en overig",29.9,10.285
+Spanje,Land,2009,Wind,38.12,13.112
+Spanje,Land,2009,Zon,6.06,2.084
+Spanje,Land,2010,Fossiel,138.04,46.353
+Spanje,Land,2010,Kernenergie,61.99,20.816
+Spanje,Land,2010,"Water, bio en overig",46.31,15.551
+Spanje,Land,2010,Wind,44.27,14.866
+Spanje,Land,2010,Zon,7.19,2.414
+Spanje,Land,2011,Fossiel,146.29,50.178
+Spanje,Land,2011,Kernenergie,57.72,19.798
+Spanje,Land,2011,"Water, bio en overig",35.21,12.077
+Spanje,Land,2011,Wind,42.92,14.722
+Spanje,Land,2011,Zon,9.4,3.224
+Spanje,Land,2012,Fossiel,145.51,49.502
+Spanje,Land,2012,Kernenergie,61.47,20.912
+Spanje,Land,2012,"Water, bio en overig",25.53,8.685
+Spanje,Land,2012,Wind,49.47,16.829
+Spanje,Land,2012,Zon,11.97,4.072
+Spanje,Land,2013,Fossiel,113.32,40.261
+Spanje,Land,2013,Kernenergie,56.73,20.156
+Spanje,Land,2013,"Water, bio en overig",42.67,15.16
+Spanje,Land,2013,Wind,55.64,19.768
+Spanje,Land,2013,Zon,13.1,4.654
+Spanje,Land,2014,Fossiel,106.87,38.941
+Spanje,Land,2014,Kernenergie,57.31,20.883
+Spanje,Land,2014,"Water, bio en overig",44.58,16.244
+Spanje,Land,2014,Wind,52.01,18.951
+Spanje,Land,2014,Zon,13.67,4.981
+Spanje,Land,2015,Fossiel,122.89,44.337
+Spanje,Land,2015,Kernenergie,57.2,20.637
+Spanje,Land,2015,"Water, bio en overig",33.9,12.231
+Spanje,Land,2015,Wind,49.32,17.794
+Spanje,Land,2015,Zon,13.86,5.001
+Spanje,Land,2016,Fossiel,107.44,39.69
+Spanje,Land,2016,Kernenergie,58.63,21.659
+Spanje,Land,2016,"Water, bio en overig",42.09,15.549
+Spanje,Land,2016,Wind,48.9,18.064
+Spanje,Land,2016,Zon,13.64,5.039
+Spanje,Land,2017,Fossiel,126.41,46.409
+Spanje,Land,2017,Kernenergie,58.04,21.308
+Spanje,Land,2017,"Water, bio en overig",24.4,8.958
+Spanje,Land,2017,Wind,49.13,18.037
+Spanje,Land,2017,Zon,14.4,5.287
+Spanje,Land,2018,Fossiel,111.76,41.179
+Spanje,Land,2018,Kernenergie,55.77,20.549
+Spanje,Land,2018,"Water, bio en overig",40.24,14.827
+Spanje,Land,2018,Wind,50.89,18.751
+Spanje,Land,2018,Zon,12.74,4.694
+Spanje,Land,2019,Fossiel,111.18,41.099
+Spanje,Land,2019,Kernenergie,58.35,21.57
+Spanje,Land,2019,"Water, bio en overig",30.24,11.178
+Spanje,Land,2019,Wind,55.65,20.571
+Spanje,Land,2019,Zon,15.1,5.582
+Spanje,Land,2020,Fossiel,87.38,33.676
+Spanje,Land,2020,Kernenergie,58.3,22.469
+Spanje,Land,2020,"Water, bio en overig",36.68,14.137
+Spanje,Land,2020,Wind,56.44,21.752
+Spanje,Land,2020,Zon,20.67,7.966
+Spanje,Land,2021,Fossiel,88.44,32.665
+Spanje,Land,2021,Kernenergie,56.56,20.89
+Spanje,Land,2021,"Water, bio en overig",36.59,13.514
+Spanje,Land,2021,Wind,62.06,22.922
+Spanje,Land,2021,Zon,27.1,10.009
+Spanje,Land,2022,Fossiel,105.65,36.793
+Spanje,Land,2022,Kernenergie,58.59,20.404
+Spanje,Land,2022,"Water, bio en overig",24.41,8.501
+Spanje,Land,2022,Wind,62.78,21.863
+Spanje,Land,2022,Zon,35.72,12.439
+Spanje,Land,2023,Fossiel,78.46,28.111
+Spanje,Land,2023,Kernenergie,56.87,20.375
+Spanje,Land,2023,"Water, bio en overig",30.91,11.074
+Spanje,Land,2023,Wind,64.28,23.03
+Spanje,Land,2023,Zon,48.59,17.409
+Spanje,Land,2024,Fossiel,65.33,23.256
+Spanje,Land,2024,Kernenergie,54.53,19.411
+Spanje,Land,2024,"Water, bio en overig",40.59,14.449
+Spanje,Land,2024,Wind,62.182,22.135
+Spanje,Land,2024,Zon,58.29,20.75
+Spanje,Land,2025,Fossiel,73.199,25.389
+Spanje,Land,2025,Kernenergie,54.113,18.769
+Spanje,Land,2025,"Water, bio en overig",39.191,13.593
+Spanje,Land,2025,Wind,58.779,20.387
+Spanje,Land,2025,Zon,63.032,21.862
+Verenigd Koninkrijk,Land,2000,Fossiel,282.09,74.813
+Verenigd Koninkrijk,Land,2000,Kernenergie,85.06,22.559
+Verenigd Koninkrijk,Land,2000,"Water, bio en overig",8.97,2.379
+Verenigd Koninkrijk,Land,2000,Wind,0.94,0.249
+Verenigd Koninkrijk,Land,2000,Zon,0.0,0.0
+Verenigd Koninkrijk,Land,2001,Fossiel,285.14,74.107
+Verenigd Koninkrijk,Land,2001,Kernenergie,90.09,23.414
+Verenigd Koninkrijk,Land,2001,"Water, bio en overig",8.58,2.23
+Verenigd Koninkrijk,Land,2001,Wind,0.96,0.249
+Verenigd Koninkrijk,Land,2001,Zon,0.0,0.0
+Verenigd Koninkrijk,Land,2002,Fossiel,288.27,74.442
+Verenigd Koninkrijk,Land,2002,Kernenergie,87.85,22.686
+Verenigd Koninkrijk,Land,2002,"Water, bio en overig",9.87,2.549
+Verenigd Koninkrijk,Land,2002,Wind,1.25,0.323
+Verenigd Koninkrijk,Land,2002,Zon,0.0,0.0
+Verenigd Koninkrijk,Land,2003,Fossiel,298.83,75.043
+Verenigd Koninkrijk,Land,2003,Kernenergie,88.69,22.272
+Verenigd Koninkrijk,Land,2003,"Water, bio en overig",9.4,2.361
+Verenigd Koninkrijk,Land,2003,Wind,1.29,0.324
+Verenigd Koninkrijk,Land,2003,Zon,0.0,0.0
+Verenigd Koninkrijk,Land,2004,Fossiel,299.78,76.102
+Verenigd Koninkrijk,Land,2004,Kernenergie,80.0,20.309
+Verenigd Koninkrijk,Land,2004,"Water, bio en overig",12.2,3.097
+Verenigd Koninkrijk,Land,2004,Wind,1.94,0.492
+Verenigd Koninkrijk,Land,2004,Zon,0.0,0.0
+Verenigd Koninkrijk,Land,2005,Fossiel,299.8,75.26
+Verenigd Koninkrijk,Land,2005,Kernenergie,81.62,20.49
+Verenigd Koninkrijk,Land,2005,"Water, bio en overig",14.02,3.52
+Verenigd Koninkrijk,Land,2005,Wind,2.9,0.728
+Verenigd Koninkrijk,Land,2005,Zon,0.01,0.003
+Verenigd Koninkrijk,Land,2006,Fossiel,303.72,76.452
+Verenigd Koninkrijk,Land,2006,Kernenergie,75.45,18.992
+Verenigd Koninkrijk,Land,2006,"Water, bio en overig",13.87,3.491
+Verenigd Koninkrijk,Land,2006,Wind,4.22,1.062
+Verenigd Koninkrijk,Land,2006,Zon,0.01,0.003
+Verenigd Koninkrijk,Land,2007,Fossiel,314.1,79.156
+Verenigd Koninkrijk,Land,2007,Kernenergie,63.03,15.884
+Verenigd Koninkrijk,Land,2007,"Water, bio en overig",14.4,3.629
+Verenigd Koninkrijk,Land,2007,Wind,5.27,1.328
+Verenigd Koninkrijk,Land,2007,Zon,0.01,0.003
+Verenigd Koninkrijk,Land,2008,Fossiel,314.53,80.864
+Verenigd Koninkrijk,Land,2008,Kernenergie,52.49,13.495
+Verenigd Koninkrijk,Land,2008,"Water, bio en overig",14.79,3.802
+Verenigd Koninkrijk,Land,2008,Wind,7.13,1.833
+Verenigd Koninkrijk,Land,2008,Zon,0.02,0.005
+Verenigd Koninkrijk,Land,2009,Fossiel,282.42,74.96
+Verenigd Koninkrijk,Land,2009,Kernenergie,69.1,18.341
+Verenigd Koninkrijk,Land,2009,"Water, bio en overig",15.94,4.231
+Verenigd Koninkrijk,Land,2009,Wind,9.28,2.463
+Verenigd Koninkrijk,Land,2009,Zon,0.02,0.005
+Verenigd Koninkrijk,Land,2010,Fossiel,293.74,76.883
+Verenigd Koninkrijk,Land,2010,Kernenergie,62.14,16.264
+Verenigd Koninkrijk,Land,2010,"Water, bio en overig",15.85,4.149
+Verenigd Koninkrijk,Land,2010,Wind,10.29,2.693
+Verenigd Koninkrijk,Land,2010,Zon,0.04,0.01
+Verenigd Koninkrijk,Land,2011,Fossiel,263.79,71.688
+Verenigd Koninkrijk,Land,2011,Kernenergie,68.98,18.746
+Verenigd Koninkrijk,Land,2011,"Water, bio en overig",19.0,5.163
+Verenigd Koninkrijk,Land,2011,Wind,15.96,4.337
+Verenigd Koninkrijk,Land,2011,Zon,0.24,0.065
+Verenigd Koninkrijk,Land,2012,Fossiel,252.22,69.316
+Verenigd Koninkrijk,Land,2012,Kernenergie,70.41,19.35
+Verenigd Koninkrijk,Land,2012,"Water, bio en overig",20.05,5.51
+Verenigd Koninkrijk,Land,2012,Wind,19.84,5.452
+Verenigd Koninkrijk,Land,2012,Zon,1.35,0.371
+Verenigd Koninkrijk,Land,2013,Fossiel,234.46,65.44
+Verenigd Koninkrijk,Land,2013,Kernenergie,70.61,19.708
+Verenigd Koninkrijk,Land,2013,"Water, bio en overig",22.8,6.364
+Verenigd Koninkrijk,Land,2013,Wind,28.4,7.927
+Verenigd Koninkrijk,Land,2013,Zon,2.01,0.561
+Verenigd Koninkrijk,Land,2014,Fossiel,209.82,62.062
+Verenigd Koninkrijk,Land,2014,Kernenergie,63.75,18.856
+Verenigd Koninkrijk,Land,2014,"Water, bio en overig",28.51,8.433
+Verenigd Koninkrijk,Land,2014,Wind,31.95,9.45
+Verenigd Koninkrijk,Land,2014,Zon,4.05,1.198
+Verenigd Koninkrijk,Land,2015,Fossiel,185.17,54.643
+Verenigd Koninkrijk,Land,2015,Kernenergie,70.34,20.757
+Verenigd Koninkrijk,Land,2015,"Water, bio en overig",35.56,10.494
+Verenigd Koninkrijk,Land,2015,Wind,40.27,11.884
+Verenigd Koninkrijk,Land,2015,Zon,7.53,2.222
+Verenigd Koninkrijk,Land,2016,Fossiel,184.44,54.378
+Verenigd Koninkrijk,Land,2016,Kernenergie,71.73,21.148
+Verenigd Koninkrijk,Land,2016,"Water, bio en overig",35.44,10.449
+Verenigd Koninkrijk,Land,2016,Wind,37.16,10.956
+Verenigd Koninkrijk,Land,2016,Zon,10.41,3.069
+Verenigd Koninkrijk,Land,2017,Fossiel,168.99,49.965
+Verenigd Koninkrijk,Land,2017,Kernenergie,70.34,20.797
+Verenigd Koninkrijk,Land,2017,"Water, bio en overig",37.78,11.17
+Verenigd Koninkrijk,Land,2017,Wind,49.65,14.68
+Verenigd Koninkrijk,Land,2017,Zon,11.46,3.388
+Verenigd Koninkrijk,Land,2018,Fossiel,158.56,47.507
+Verenigd Koninkrijk,Land,2018,Kernenergie,65.06,19.493
+Verenigd Koninkrijk,Land,2018,"Water, bio en overig",40.56,12.152
+Verenigd Koninkrijk,Land,2018,Wind,56.91,17.051
+Verenigd Koninkrijk,Land,2018,Zon,12.67,3.796
+Verenigd Koninkrijk,Land,2019,Fossiel,151.27,46.233
+Verenigd Koninkrijk,Land,2019,Kernenergie,56.18,17.17
+Verenigd Koninkrijk,Land,2019,"Water, bio en overig",43.48,13.289
+Verenigd Koninkrijk,Land,2019,Wind,63.84,19.512
+Verenigd Koninkrijk,Land,2019,Zon,12.42,3.796
+Verenigd Koninkrijk,Land,2020,Fossiel,126.43,40.744
+Verenigd Koninkrijk,Land,2020,Kernenergie,50.24,16.191
+Verenigd Koninkrijk,Land,2020,"Water, bio en overig",45.461,14.651
+Verenigd Koninkrijk,Land,2020,Wind,75.62,24.37
+Verenigd Koninkrijk,Land,2020,Zon,12.55,4.044
+Verenigd Koninkrijk,Land,2021,Fossiel,139.31,45.245
+Verenigd Koninkrijk,Land,2021,Kernenergie,46.1,14.972
+Verenigd Koninkrijk,Land,2021,"Water, bio en overig",45.43,14.755
+Verenigd Koninkrijk,Land,2021,Wind,64.93,21.088
+Verenigd Koninkrijk,Land,2021,Zon,12.13,3.94
+Verenigd Koninkrijk,Land,2022,Fossiel,142.12,43.786
+Verenigd Koninkrijk,Land,2022,Kernenergie,47.4,14.603
+Verenigd Koninkrijk,Land,2022,"Water, bio en overig",41.51,12.789
+Verenigd Koninkrijk,Land,2022,Wind,80.21,24.712
+Verenigd Koninkrijk,Land,2022,Zon,13.34,4.11
+Verenigd Koninkrijk,Land,2023,Fossiel,116.26,39.66
+Verenigd Koninkrijk,Land,2023,Kernenergie,40.6,13.85
+Verenigd Koninkrijk,Land,2023,"Water, bio en overig",39.64,13.523
+Verenigd Koninkrijk,Land,2023,Wind,82.76,28.232
+Verenigd Koninkrijk,Land,2023,Zon,13.88,4.735
+Verenigd Koninkrijk,Land,2024,Fossiel,99.65,35.028
+Verenigd Koninkrijk,Land,2024,Kernenergie,40.59,14.268
+Verenigd Koninkrijk,Land,2024,"Water, bio en overig",45.85,16.117
+Verenigd Koninkrijk,Land,2024,Wind,83.61,29.389
+Verenigd Koninkrijk,Land,2024,Zon,14.79,5.199
+Verenigd Koninkrijk,Land,2025,Fossiel,105.094,35.788
+Verenigd Koninkrijk,Land,2025,Kernenergie,36.378,12.388
+Verenigd Koninkrijk,Land,2025,"Water, bio en overig",46.347,15.783
+Verenigd Koninkrijk,Land,2025,Wind,86.44,29.436
+Verenigd Koninkrijk,Land,2025,Zon,19.399,6.606
+Verenigde Staten,Land,2000,Fossiel,2697.28,70.942
+Verenigde Staten,Land,2000,Kernenergie,753.89,19.828
+Verenigde Staten,Land,2000,"Water, bio en overig",344.85,9.07
+Verenigde Staten,Land,2000,Wind,5.59,0.147
+Verenigde Staten,Land,2000,Zon,0.49,0.013
+Verenigde Staten,Land,2001,Fossiel,2678.68,71.861
+Verenigde Staten,Land,2001,Kernenergie,768.83,20.626
+Verenigde Staten,Land,2001,"Water, bio en overig",272.78,7.318
+Verenigde Staten,Land,2001,Wind,6.74,0.181
+Verenigde Staten,Land,2001,Zon,0.54,0.014
+Verenigde Staten,Land,2002,Fossiel,2727.83,70.959
+Verenigde Staten,Land,2002,Kernenergie,780.06,20.292
+Verenigde Staten,Land,2002,"Water, bio en overig",325.44,8.466
+Verenigde Staten,Land,2002,Wind,10.35,0.269
+Verenigde Staten,Land,2002,Zon,0.55,0.014
+Verenigde Staten,Land,2003,Fossiel,2756.03,71.235
+Verenigde Staten,Land,2003,Kernenergie,763.73,19.74
+Verenigde Staten,Land,2003,"Water, bio en overig",337.46,8.722
+Verenigde Staten,Land,2003,Wind,11.19,0.289
+Verenigde Staten,Land,2003,Zon,0.53,0.014
+Verenigde Staten,Land,2004,Fossiel,2818.28,71.314
+Verenigde Staten,Land,2004,Kernenergie,788.53,19.953
+Verenigde Staten,Land,2004,"Water, bio en overig",330.42,8.361
+Verenigde Staten,Land,2004,Wind,14.14,0.358
+Verenigde Staten,Land,2004,Zon,0.58,0.015
+Verenigde Staten,Land,2005,Fossiel,2899.96,71.87
+Verenigde Staten,Land,2005,Kernenergie,781.99,19.38
+Verenigde Staten,Land,2005,"Water, bio en overig",334.68,8.294
+Verenigde Staten,Land,2005,Wind,17.81,0.441
+Verenigde Staten,Land,2005,Zon,0.55,0.014
+Verenigde Staten,Land,2006,Fossiel,2878.56,71.129
+Verenigde Staten,Land,2006,Kernenergie,787.22,19.452
+Verenigde Staten,Land,2006,"Water, bio en overig",354.06,8.749
+Verenigde Staten,Land,2006,Wind,26.59,0.657
+Verenigde Staten,Land,2006,Zon,0.51,0.013
+Verenigde Staten,Land,2007,Fossiel,2988.24,72.135
+Verenigde Staten,Land,2007,Kernenergie,806.42,19.467
+Verenigde Staten,Land,2007,"Water, bio en overig",312.85,7.552
+Verenigde Staten,Land,2007,Wind,34.45,0.832
+Verenigde Staten,Land,2007,Zon,0.61,0.015
+Verenigde Staten,Land,2008,Fossiel,2924.21,71.191
+Verenigde Staten,Land,2008,Kernenergie,806.21,19.628
+Verenigde Staten,Land,2008,"Water, bio en overig",320.89,7.812
+Verenigde Staten,Land,2008,Wind,55.36,1.348
+Verenigde Staten,Land,2008,Zon,0.86,0.021
+Verenigde Staten,Land,2009,Fossiel,2725.41,69.176
+Verenigde Staten,Land,2009,Kernenergie,798.85,20.276
+Verenigde Staten,Land,2009,"Water, bio en overig",340.78,8.65
+Verenigde Staten,Land,2009,Wind,73.89,1.875
+Verenigde Staten,Land,2009,Zon,0.89,0.023
+Verenigde Staten,Land,2010,Fossiel,2882.49,70.066
+Verenigde Staten,Land,2010,Kernenergie,806.97,19.616
+Verenigde Staten,Land,2010,"Water, bio en overig",328.62,7.988
+Verenigde Staten,Land,2010,Wind,94.65,2.301
+Verenigde Staten,Land,2010,Zon,1.21,0.029
+Verenigde Staten,Land,2011,Fossiel,2788.93,68.208
+Verenigde Staten,Land,2011,Kernenergie,790.2,19.326
+Verenigde Staten,Land,2011,"Water, bio en overig",387.74,9.483
+Verenigde Staten,Land,2011,Wind,120.18,2.939
+Verenigde Staten,Land,2011,Zon,1.82,0.045
+Verenigde Staten,Land,2012,Fossiel,2779.02,68.776
+Verenigde Staten,Land,2012,Kernenergie,769.33,19.04
+Verenigde Staten,Land,2012,"Water, bio en overig",347.17,8.592
+Verenigde Staten,Land,2012,Wind,140.82,3.485
+Verenigde Staten,Land,2012,Zon,4.33,0.107
+Verenigde Staten,Land,2013,Fossiel,2746.21,67.714
+Verenigde Staten,Land,2013,Kernenergie,789.02,19.455
+Verenigde Staten,Land,2013,"Water, bio en overig",343.5,8.47
+Verenigde Staten,Land,2013,Wind,167.84,4.138
+Verenigde Staten,Land,2013,Zon,9.04,0.223
+Verenigde Staten,Land,2014,Fossiel,2752.01,67.188
+Verenigde Staten,Land,2014,Kernenergie,797.17,19.462
+Verenigde Staten,Land,2014,"Water, bio en overig",336.26,8.209
+Verenigde Staten,Land,2014,Wind,181.65,4.435
+Verenigde Staten,Land,2014,Zon,28.92,0.706
+Verenigde Staten,Land,2015,Fossiel,2730.32,66.854
+Verenigde Staten,Land,2015,Kernenergie,797.18,19.52
+Verenigde Staten,Land,2015,"Water, bio en overig",326.74,8.001
+Verenigde Staten,Land,2015,Wind,190.72,4.67
+Verenigde Staten,Land,2015,Zon,39.03,0.956
+Verenigde Staten,Land,2016,Fossiel,2656.96,65.001
+Verenigde Staten,Land,2016,Kernenergie,805.69,19.711
+Verenigde Staten,Land,2016,"Water, bio en overig",343.05,8.393
+Verenigde Staten,Land,2016,Wind,226.99,5.553
+Verenigde Staten,Land,2016,Zon,54.87,1.342
+Verenigde Staten,Land,2017,Fossiel,2540.17,62.684
+Verenigde Staten,Land,2017,Kernenergie,804.95,19.864
+Verenigde Staten,Land,2017,"Water, bio en overig",375.61,9.269
+Verenigde Staten,Land,2017,Wind,254.3,6.275
+Verenigde Staten,Land,2017,Zon,77.28,1.907
+Verenigde Staten,Land,2018,Fossiel,2661.3,63.341
+Verenigde Staten,Land,2018,Kernenergie,807.08,19.209
+Verenigde Staten,Land,2018,"Water, bio en overig",367.14,8.738
+Verenigde Staten,Land,2018,Wind,272.67,6.49
+Verenigde Staten,Land,2018,Zon,93.36,2.222
+Verenigde Staten,Land,2019,Fossiel,2588.21,62.241
+Verenigde Staten,Land,2019,Kernenergie,809.41,19.465
+Verenigde Staten,Land,2019,"Water, bio en overig",357.99,8.609
+Verenigde Staten,Land,2019,Wind,295.88,7.115
+Verenigde Staten,Land,2019,Zon,106.89,2.57
+Verenigde Staten,Land,2020,Fossiel,2431.9,60.148
+Verenigde Staten,Land,2020,Kernenergie,789.88,19.536
+Verenigde Staten,Land,2020,"Water, bio en overig",352.74,8.724
+Verenigde Staten,Land,2020,Wind,337.94,8.358
+Verenigde Staten,Land,2020,Zon,130.72,3.233
+Verenigde Staten,Land,2021,Fossiel,2512.39,60.487
+Verenigde Staten,Land,2021,Kernenergie,779.65,18.77
+Verenigde Staten,Land,2021,"Water, bio en overig",318.96,7.679
+Verenigde Staten,Land,2021,Wind,378.2,9.105
+Verenigde Staten,Land,2021,Zon,164.42,3.958
+Verenigde Staten,Land,2022,Fossiel,2557.21,59.652
+Verenigde Staten,Land,2022,Kernenergie,771.54,17.998
+Verenigde Staten,Land,2022,"Water, bio en overig",318.77,7.436
+Verenigde Staten,Land,2022,Wind,434.3,10.131
+Verenigde Staten,Land,2022,Zon,205.07,4.784
+Verenigde Staten,Land,2023,Fossiel,2514.3,59.106
+Verenigde Staten,Land,2023,Kernenergie,774.87,18.215
+Verenigde Staten,Land,2023,"Water, bio en overig",304.66,7.162
+Verenigde Staten,Land,2023,Wind,421.14,9.9
+Verenigde Staten,Land,2023,Zon,238.94,5.617
+Verenigde Staten,Land,2024,Fossiel,2552.53,58.131
+Verenigde Staten,Land,2024,Kernenergie,781.86,17.806
+Verenigde Staten,Land,2024,"Water, bio en overig",300.98,6.854
+Verenigde Staten,Land,2024,Wind,451.9,10.291
+Verenigde Staten,Land,2024,Zon,303.75,6.918
+Verenigde Staten,Land,2025,Fossiel,2576.21,56.998
+Verenigde Staten,Land,2025,Kernenergie,784.78,17.363
+Verenigde Staten,Land,2025,"Water, bio en overig",305.59,6.761
+Verenigde Staten,Land,2025,Wind,464.39,10.275
+Verenigde Staten,Land,2025,Zon,388.82,8.603
+Wereld,Regio,2000,Fossiel,9917.321,64.712
+Wereld,Regio,2000,Kernenergie,2540.468,16.577
+Wereld,Regio,2000,"Water, bio en overig",2835.248,18.5
+Wereld,Regio,2000,Wind,31.159,0.203
+Wereld,Regio,2000,Zon,1.082,0.007
+Wereld,Regio,2001,Fossiel,10129.439,65.151
+Wereld,Regio,2001,Kernenergie,2613.171,16.808
+Wereld,Regio,2001,"Water, bio en overig",2765.355,17.786
+Wereld,Regio,2001,Wind,38.2,0.246
+Wereld,Regio,2001,Zon,1.43,0.009
+Wereld,Regio,2002,Fossiel,10560.974,65.604
+Wereld,Regio,2002,Kernenergie,2654.774,16.491
+Wereld,Regio,2002,"Water, bio en overig",2828.287,17.569
+Wereld,Regio,2002,Wind,52.224,0.324
+Wereld,Regio,2002,Zon,1.79,0.011
+Wereld,Regio,2003,Fossiel,11166.734,66.962
+Wereld,Regio,2003,Kernenergie,2601.052,15.597
+Wereld,Regio,2003,"Water, bio en overig",2843.082,17.049
+Wereld,Regio,2003,Wind,63.202,0.379
+Wereld,Regio,2003,Zon,2.191,0.013
+Wereld,Regio,2004,Fossiel,11604.029,66.445
+Wereld,Regio,2004,Kernenergie,2719.408,15.571
+Wereld,Regio,2004,"Water, bio en overig",3052.261,17.477
+Wereld,Regio,2004,Wind,85.471,0.489
+Wereld,Regio,2004,Zon,2.855,0.016
+Wereld,Regio,2005,Fossiel,12165.791,66.905
+Wereld,Regio,2005,Kernenergie,2726.976,14.997
+Wereld,Regio,2005,"Water, bio en overig",3182.361,17.501
+Wereld,Regio,2005,Wind,104.395,0.574
+Wereld,Regio,2005,Zon,4.031,0.022
+Wereld,Regio,2006,Fossiel,12684.533,67.151
+Wereld,Regio,2006,Kernenergie,2761.593,14.62
+Wereld,Regio,2006,"Water, bio en overig",3304.852,17.496
+Wereld,Regio,2006,Wind,133.184,0.705
+Wereld,Regio,2006,Zon,5.489,0.029
+Wereld,Regio,2007,Fossiel,13510.758,68.35
+Wereld,Regio,2007,Kernenergie,2703.489,13.677
+Wereld,Regio,2007,"Water, bio en overig",3374.157,17.07
+Wereld,Regio,2007,Wind,171.147,0.866
+Wereld,Regio,2007,Zon,7.369,0.037
+Wereld,Regio,2008,Fossiel,13651.766,67.727
+Wereld,Regio,2008,Kernenergie,2694.736,13.369
+Wereld,Regio,2008,"Water, bio en overig",3577.706,17.749
+Wereld,Regio,2008,Wind,220.849,1.096
+Wereld,Regio,2008,Zon,11.929,0.059
+Wereld,Regio,2009,Fossiel,13448.8,67.251
+Wereld,Regio,2009,Kernenergie,2656.771,13.285
+Wereld,Regio,2009,"Water, bio en overig",3596.111,17.983
+Wereld,Regio,2009,Wind,276.248,1.381
+Wereld,Regio,2009,Zon,19.88,0.099
+Wereld,Regio,2010,Fossiel,14399.033,67.515
+Wereld,Regio,2010,Kernenergie,2726.211,12.783
+Wereld,Regio,2010,"Water, bio en overig",3823.693,17.929
+Wereld,Regio,2010,Wind,346.051,1.623
+Wereld,Regio,2010,Zon,32.275,0.151
+Wereld,Regio,2011,Fossiel,15020.87,68.162
+Wereld,Regio,2011,Kernenergie,2610.145,11.844
+Wereld,Regio,2011,"Water, bio en overig",3902.322,17.708
+Wereld,Regio,2011,Wind,440.041,1.997
+Wereld,Regio,2011,Zon,63.646,0.289
+Wereld,Regio,2012,Fossiel,15421.461,68.282
+Wereld,Regio,2012,Kernenergie,2431.887,10.768
+Wereld,Regio,2012,"Water, bio en overig",4105.23,18.177
+Wereld,Regio,2012,Wind,529.307,2.344
+Wereld,Regio,2012,Zon,96.998,0.429
+Wereld,Regio,2013,Fossiel,15754.466,67.801
+Wereld,Regio,2013,Kernenergie,2448.415,10.537
+Wereld,Regio,2013,"Water, bio en overig",4267.488,18.366
+Wereld,Regio,2013,Wind,634.253,2.73
+Wereld,Regio,2013,Zon,131.799,0.567
+Wereld,Regio,2014,Fossiel,16017.085,67.286
+Wereld,Regio,2014,Kernenergie,2499.124,10.499
+Wereld,Regio,2014,"Water, bio en overig",4384.218,18.418
+Wereld,Regio,2014,Wind,706.243,2.967
+Wereld,Regio,2014,Zon,197.798,0.831
+Wereld,Regio,2015,Fossiel,16010.533,66.535
+Wereld,Regio,2015,Kernenergie,2533.428,10.528
+Wereld,Regio,2015,"Water, bio en overig",4433.599,18.425
+Wereld,Regio,2015,Wind,829.842,3.449
+Wereld,Regio,2015,Zon,256.07,1.064
+Wereld,Regio,2016,Fossiel,16298.419,65.881
+Wereld,Regio,2016,Kernenergie,2571.47,10.394
+Wereld,Regio,2016,"Water, bio en overig",4581.223,18.518
+Wereld,Regio,2016,Wind,960.589,3.883
+Wereld,Regio,2016,Zon,327.522,1.324
+Wereld,Regio,2017,Fossiel,16666.634,65.395
+Wereld,Regio,2017,Kernenergie,2594.215,10.179
+Wereld,Regio,2017,"Water, bio en overig",4641.704,18.213
+Wereld,Regio,2017,Wind,1139.392,4.471
+Wereld,Regio,2017,Zon,444.144,1.743
+Wereld,Regio,2018,Fossiel,17212.591,64.935
+Wereld,Regio,2018,Kernenergie,2658.698,10.03
+Wereld,Regio,2018,"Water, bio en overig",4792.664,18.08
+Wereld,Regio,2018,Wind,1268.26,4.785
+Wereld,Regio,2018,Zon,575.162,2.17
+Wereld,Regio,2019,Fossiel,17161.54,63.793
+Wereld,Regio,2019,Kernenergie,2754.08,10.237
+Wereld,Regio,2019,"Water, bio en overig",4867.499,18.093
+Wereld,Regio,2019,Wind,1421.118,5.283
+Wereld,Regio,2019,Zon,697.865,2.594
+Wereld,Regio,2020,Fossiel,16697.416,62.297
+Wereld,Regio,2020,Kernenergie,2648.779,9.882
+Wereld,Regio,2020,"Water, bio en overig",5012.73,18.702
+Wereld,Regio,2020,Wind,1591.663,5.938
+Wereld,Regio,2020,Zon,852.46,3.18
+Wereld,Regio,2021,Fossiel,17683.365,62.385
+Wereld,Regio,2021,Kernenergie,2760.493,9.739
+Wereld,Regio,2021,"Water, bio en overig",4991.393,17.609
+Wereld,Regio,2021,Wind,1856.32,6.549
+Wereld,Regio,2021,Zon,1054.122,3.719
+Wereld,Regio,2022,Fossiel,17888.978,61.683
+Wereld,Regio,2022,Kernenergie,2640.435,9.105
+Wereld,Regio,2022,"Water, bio en overig",5031.438,17.349
+Wereld,Regio,2022,Wind,2105.707,7.261
+Wereld,Regio,2022,Zon,1334.863,4.603
+Wereld,Regio,2023,Fossiel,18146.808,60.919
+Wereld,Regio,2023,Kernenergie,2696.658,9.053
+Wereld,Regio,2023,"Water, bio en overig",4957.511,16.642
+Wereld,Regio,2023,Wind,2317.969,7.781
+Wereld,Regio,2023,Zon,1669.696,5.605
+Wereld,Regio,2024,Fossiel,18442.01,59.355
+Wereld,Regio,2024,Kernenergie,2774.98,8.931
+Wereld,Regio,2024,"Water, bio en overig",5186.795,16.694
+Wereld,Regio,2024,Wind,2506.322,8.067
+Wereld,Regio,2024,Zon,2160.637,6.954
+Wereld,Regio,2025,Fossiel,18418.055,57.691
+Wereld,Regio,2025,Kernenergie,2805.03,8.786
+Wereld,Regio,2025,"Water, bio en overig",5190.767,16.259
+Wereld,Regio,2025,Wind,2704.869,8.472
+Wereld,Regio,2025,Zon,2806.635,8.791
+Zuid-Korea,Land,2000,Fossiel,177.369,61.068
+Zuid-Korea,Land,2000,Kernenergie,108.964,37.516
+Zuid-Korea,Land,2000,"Water, bio en overig",4.089,1.408
+Zuid-Korea,Land,2000,Wind,0.017,0.006
+Zuid-Korea,Land,2000,Zon,0.005,0.002
+Zuid-Korea,Land,2001,Fossiel,195.316,63.028
+Zuid-Korea,Land,2001,Kernenergie,112.133,36.185
+Zuid-Korea,Land,2001,"Water, bio en overig",2.418,0.78
+Zuid-Korea,Land,2001,Wind,0.013,0.004
+Zuid-Korea,Land,2001,Zon,0.006,0.002
+Zuid-Korea,Land,2002,Fossiel,209.484,63.094
+Zuid-Korea,Land,2002,Kernenergie,119.103,35.872
+Zuid-Korea,Land,2002,"Water, bio en overig",3.412,1.028
+Zuid-Korea,Land,2002,Wind,0.015,0.005
+Zuid-Korea,Land,2002,Zon,0.007,0.002
+Zuid-Korea,Land,2003,Fossiel,212.978,61.243
+Zuid-Korea,Land,2003,Kernenergie,129.672,37.288
+Zuid-Korea,Land,2003,"Water, bio en overig",5.074,1.459
+Zuid-Korea,Land,2003,Wind,0.025,0.007
+Zuid-Korea,Land,2003,Zon,0.008,0.002
+Zuid-Korea,Land,2004,Fossiel,232.657,63.216
+Zuid-Korea,Land,2004,Kernenergie,130.715,35.517
+Zuid-Korea,Land,2004,"Water, bio en overig",4.604,1.251
+Zuid-Korea,Land,2004,Wind,0.047,0.013
+Zuid-Korea,Land,2004,Zon,0.01,0.003
+Zuid-Korea,Land,2005,Fossiel,238.623,61.267
+Zuid-Korea,Land,2005,Kernenergie,146.779,37.686
+Zuid-Korea,Land,2005,"Water, bio en overig",3.933,1.01
+Zuid-Korea,Land,2005,Wind,0.13,0.033
+Zuid-Korea,Land,2005,Zon,0.014,0.004
+Zuid-Korea,Land,2006,Fossiel,250.261,62.101
+Zuid-Korea,Land,2006,Kernenergie,148.749,36.911
+Zuid-Korea,Land,2006,"Water, bio en overig",3.709,0.92
+Zuid-Korea,Land,2006,Wind,0.239,0.059
+Zuid-Korea,Land,2006,Zon,0.031,0.008
+Zuid-Korea,Land,2007,Fossiel,278.008,65.351
+Zuid-Korea,Land,2007,Kernenergie,142.937,33.6
+Zuid-Korea,Land,2007,"Water, bio en overig",4.016,0.944
+Zuid-Korea,Land,2007,Wind,0.376,0.088
+Zuid-Korea,Land,2007,Zon,0.071,0.017
+Zuid-Korea,Land,2008,Fossiel,287.209,64.89
+Zuid-Korea,Land,2008,Kernenergie,150.958,34.106
+Zuid-Korea,Land,2008,"Water, bio en overig",3.723,0.841
+Zuid-Korea,Land,2008,Wind,0.436,0.099
+Zuid-Korea,Land,2008,Zon,0.284,0.064
+Zuid-Korea,Land,2009,Fossiel,300.073,66.322
+Zuid-Korea,Land,2009,Kernenergie,147.771,32.66
+Zuid-Korea,Land,2009,"Water, bio en overig",3.352,0.741
+Zuid-Korea,Land,2009,Wind,0.685,0.151
+Zuid-Korea,Land,2009,Zon,0.566,0.125
+Zuid-Korea,Land,2010,Fossiel,340.743,68.833
+Zuid-Korea,Land,2010,Kernenergie,148.596,30.018
+Zuid-Korea,Land,2010,"Water, bio en overig",4.1,0.828
+Zuid-Korea,Land,2010,Wind,0.817,0.165
+Zuid-Korea,Land,2010,Zon,0.773,0.156
+Zuid-Korea,Land,2011,Fossiel,356.042,68.712
+Zuid-Korea,Land,2011,Kernenergie,154.723,29.86
+Zuid-Korea,Land,2011,"Water, bio en overig",5.617,1.084
+Zuid-Korea,Land,2011,Wind,0.863,0.167
+Zuid-Korea,Land,2011,Zon,0.923,0.178
+Zuid-Korea,Land,2012,Fossiel,372.709,70.163
+Zuid-Korea,Land,2012,Kernenergie,150.327,28.299
+Zuid-Korea,Land,2012,"Water, bio en overig",6.125,1.153
+Zuid-Korea,Land,2012,Wind,0.913,0.172
+Zuid-Korea,Land,2012,Zon,1.127,0.212
+Zuid-Korea,Land,2013,Fossiel,388.159,72.26
+Zuid-Korea,Land,2013,Kernenergie,138.784,25.836
+Zuid-Korea,Land,2013,"Water, bio en overig",7.41,1.379
+Zuid-Korea,Land,2013,Wind,1.148,0.214
+Zuid-Korea,Land,2013,Zon,1.668,0.311
+Zuid-Korea,Land,2014,Fossiel,371.08,68.67
+Zuid-Korea,Land,2014,Kernenergie,156.407,28.944
+Zuid-Korea,Land,2014,"Water, bio en overig",9.053,1.675
+Zuid-Korea,Land,2014,Wind,1.146,0.212
+Zuid-Korea,Land,2014,Zon,2.694,0.499
+Zuid-Korea,Land,2015,Fossiel,367.842,67.149
+Zuid-Korea,Land,2015,Kernenergie,164.762,30.077
+Zuid-Korea,Land,2015,"Water, bio en overig",9.625,1.757
+Zuid-Korea,Land,2015,Wind,1.342,0.245
+Zuid-Korea,Land,2015,Zon,4.23,0.772
+Zuid-Korea,Land,2016,Fossiel,380.864,67.892
+Zuid-Korea,Land,2016,Kernenergie,161.995,28.877
+Zuid-Korea,Land,2016,"Water, bio en overig",10.926,1.948
+Zuid-Korea,Land,2016,Wind,1.683,0.3
+Zuid-Korea,Land,2016,Zon,5.516,0.983
+Zuid-Korea,Land,2017,Fossiel,405.657,70.376
+Zuid-Korea,Land,2017,Kernenergie,148.427,25.75
+Zuid-Korea,Land,2017,"Water, bio en overig",12.42,2.155
+Zuid-Korea,Land,2017,Wind,2.169,0.376
+Zuid-Korea,Land,2017,Zon,7.739,1.343
+Zuid-Korea,Land,2018,Fossiel,431.593,72.793
+Zuid-Korea,Land,2018,Kernenergie,133.505,22.517
+Zuid-Korea,Land,2018,"Water, bio en overig",15.174,2.559
+Zuid-Korea,Land,2018,Wind,2.465,0.416
+Zuid-Korea,Land,2018,Zon,10.168,1.715
+Zuid-Korea,Land,2019,Fossiel,407.885,69.509
+Zuid-Korea,Land,2019,Kernenergie,145.91,24.865
+Zuid-Korea,Land,2019,"Water, bio en overig",16.139,2.75
+Zuid-Korea,Land,2019,Wind,2.679,0.457
+Zuid-Korea,Land,2019,Zon,14.193,2.419
+Zuid-Korea,Land,2020,Fossiel,376.529,65.244
+Zuid-Korea,Land,2020,Kernenergie,160.184,27.756
+Zuid-Korea,Land,2020,"Water, bio en overig",17.911,3.104
+Zuid-Korea,Land,2020,Wind,3.15,0.546
+Zuid-Korea,Land,2020,Zon,19.338,3.351
+Zuid-Korea,Land,2021,Fossiel,401.648,66.086
+Zuid-Korea,Land,2021,Kernenergie,158.015,25.999
+Zuid-Korea,Land,2021,"Water, bio en overig",20.207,3.325
+Zuid-Korea,Land,2021,Wind,3.18,0.523
+Zuid-Korea,Land,2021,Zon,24.718,4.067
+Zuid-Korea,Land,2022,Fossiel,391.046,62.81
+Zuid-Korea,Land,2022,Kernenergie,176.054,28.278
+Zuid-Korea,Land,2022,"Water, bio en overig",21.389,3.436
+Zuid-Korea,Land,2022,Wind,3.369,0.541
+Zuid-Korea,Land,2022,Zon,30.726,4.935
+Zuid-Korea,Land,2023,Fossiel,381.399,61.421
+Zuid-Korea,Land,2023,Kernenergie,180.494,29.067
+Zuid-Korea,Land,2023,"Water, bio en overig",22.433,3.613
+Zuid-Korea,Land,2023,Wind,3.392,0.546
+Zuid-Korea,Land,2023,Zon,33.236,5.352
+Zuid-Korea,Land,2024,Fossiel,373.318,59.466
+Zuid-Korea,Land,2024,Kernenergie,188.754,30.067
+Zuid-Korea,Land,2024,"Water, bio en overig",24.526,3.907
+Zuid-Korea,Land,2024,Wind,3.737,0.595
+Zuid-Korea,Land,2024,Zon,37.45,5.965
+Zuid-Korea,Land,2025,Fossiel,377.509,60.129
+Zuid-Korea,Land,2025,Kernenergie,184.693,29.417
+Zuid-Korea,Land,2025,"Water, bio en overig",24.107,3.84
+Zuid-Korea,Land,2025,Wind,3.666,0.584
+Zuid-Korea,Land,2025,Zon,37.861,6.03
+Zweden,Land,2000,Fossiel,4.77,3.284
+Zweden,Land,2000,Kernenergie,57.32,39.468
+Zweden,Land,2000,"Water, bio en overig",82.68,56.93
+Zweden,Land,2000,Wind,0.46,0.317
+Zweden,Land,2000,Zon,0.0,0.0
+Zweden,Land,2001,Fossiel,6.17,3.818
+Zweden,Land,2001,Kernenergie,72.11,44.623
+Zweden,Land,2001,"Water, bio en overig",82.84,51.262
+Zweden,Land,2001,Wind,0.48,0.297
+Zweden,Land,2001,Zon,0.0,0.0
+Zweden,Land,2002,Fossiel,7.44,5.072
+Zweden,Land,2002,Kernenergie,68.11,46.428
+Zweden,Land,2002,"Water, bio en overig",70.54,48.085
+Zweden,Land,2002,Wind,0.61,0.416
+Zweden,Land,2002,Zon,0.0,0.0
+Zweden,Land,2003,Fossiel,9.24,6.825
+Zweden,Land,2003,Kernenergie,67.42,49.797
+Zweden,Land,2003,"Water, bio en overig",58.05,42.876
+Zweden,Land,2003,Wind,0.68,0.502
+Zweden,Land,2003,Zon,0.0,0.0
+Zweden,Land,2004,Fossiel,5.89,3.886
+Zweden,Land,2004,Kernenergie,77.49,51.128
+Zweden,Land,2004,"Water, bio en overig",67.32,44.418
+Zweden,Land,2004,Wind,0.86,0.567
+Zweden,Land,2004,Zon,0.0,0.0
+Zweden,Land,2005,Fossiel,4.76,3.006
+Zweden,Land,2005,Kernenergie,72.38,45.706
+Zweden,Land,2005,"Water, bio en overig",80.29,50.701
+Zweden,Land,2005,Wind,0.93,0.587
+Zweden,Land,2005,Zon,0.0,0.0
+Zweden,Land,2006,Fossiel,5.24,3.657
+Zweden,Land,2006,Kernenergie,66.98,46.748
+Zweden,Land,2006,"Water, bio en overig",70.08,48.911
+Zweden,Land,2006,Wind,0.98,0.684
+Zweden,Land,2006,Zon,0.0,0.0
+Zweden,Land,2007,Fossiel,4.42,2.97
+Zweden,Land,2007,Kernenergie,66.97,45.001
+Zweden,Land,2007,"Water, bio en overig",76.0,51.068
+Zweden,Land,2007,Wind,1.43,0.961
+Zweden,Land,2007,Zon,0.0,0.0
+Zweden,Land,2008,Fossiel,4.6,3.069
+Zweden,Land,2008,Kernenergie,63.89,42.622
+Zweden,Land,2008,"Water, bio en overig",79.41,52.975
+Zweden,Land,2008,Wind,2.0,1.334
+Zweden,Land,2008,Zon,0.0,0.0
+Zweden,Land,2009,Fossiel,4.62,3.382
+Zweden,Land,2009,Kernenergie,52.17,38.192
+Zweden,Land,2009,"Water, bio en overig",77.31,56.596
+Zweden,Land,2009,Wind,2.49,1.823
+Zweden,Land,2009,Zon,0.01,0.007
+Zweden,Land,2010,Fossiel,8.53,5.746
+Zweden,Land,2010,Kernenergie,57.83,38.956
+Zweden,Land,2010,"Water, bio en overig",78.59,52.94
+Zweden,Land,2010,Wind,3.49,2.351
+Zweden,Land,2010,Zon,0.01,0.007
+Zweden,Land,2011,Fossiel,5.72,3.806
+Zweden,Land,2011,Kernenergie,60.47,40.238
+Zweden,Land,2011,"Water, bio en overig",77.97,51.883
+Zweden,Land,2011,Wind,6.11,4.066
+Zweden,Land,2011,Zon,0.01,0.007
+Zweden,Land,2012,Fossiel,4.09,2.457
+Zweden,Land,2012,Kernenergie,64.04,38.476
+Zweden,Land,2012,"Water, bio en overig",91.12,54.746
+Zweden,Land,2012,Wind,7.17,4.308
+Zweden,Land,2012,Zon,0.02,0.012
+Zweden,Land,2013,Fossiel,3.88,2.535
+Zweden,Land,2013,Kernenergie,66.46,43.429
+Zweden,Land,2013,"Water, bio en overig",72.81,47.579
+Zweden,Land,2013,Wind,9.84,6.43
+Zweden,Land,2013,Zon,0.04,0.026
+Zweden,Land,2014,Fossiel,2.93,1.908
+Zweden,Land,2014,Kernenergie,64.88,42.251
+Zweden,Land,2014,"Water, bio en overig",74.46,48.489
+Zweden,Land,2014,Wind,11.24,7.32
+Zweden,Land,2014,Zon,0.05,0.033
+Zweden,Land,2015,Fossiel,3.15,1.944
+Zweden,Land,2015,Kernenergie,56.35,34.784
+Zweden,Land,2015,"Water, bio en overig",86.08,53.136
+Zweden,Land,2015,Wind,16.32,10.074
+Zweden,Land,2015,Zon,0.1,0.062
+Zweden,Land,2016,Fossiel,3.66,2.348
+Zweden,Land,2016,Kernenergie,63.1,40.477
+Zweden,Land,2016,"Water, bio en overig",73.51,47.155
+Zweden,Land,2016,Wind,15.48,9.93
+Zweden,Land,2016,Zon,0.14,0.09
+Zweden,Land,2017,Fossiel,3.47,2.113
+Zweden,Land,2017,Kernenergie,65.7,40.005
+Zweden,Land,2017,"Water, bio en overig",77.22,47.019
+Zweden,Land,2017,Wind,17.61,10.723
+Zweden,Land,2017,Zon,0.23,0.14
+Zweden,Land,2018,Fossiel,3.66,2.24
+Zweden,Land,2018,Kernenergie,68.55,41.963
+Zweden,Land,2018,"Water, bio en overig",74.12,45.372
+Zweden,Land,2018,Wind,16.62,10.174
+Zweden,Land,2018,Zon,0.41,0.251
+Zweden,Land,2019,Fossiel,3.35,1.989
+Zweden,Land,2019,Kernenergie,66.13,39.265
+Zweden,Land,2019,"Water, bio en overig",78.41,46.556
+Zweden,Land,2019,Wind,19.85,11.786
+Zweden,Land,2019,Zon,0.68,0.404
+Zweden,Land,2020,Fossiel,2.44,1.49
+Zweden,Land,2020,Kernenergie,49.2,30.04
+Zweden,Land,2020,"Water, bio en overig",83.57,51.026
+Zweden,Land,2020,Wind,27.52,16.803
+Zweden,Land,2020,Zon,1.05,0.641
+Zweden,Land,2021,Fossiel,3.06,1.781
+Zweden,Land,2021,Kernenergie,52.97,30.836
+Zweden,Land,2021,"Water, bio en overig",86.97,50.629
+Zweden,Land,2021,Wind,27.25,15.863
+Zweden,Land,2021,Zon,1.53,0.891
+Zweden,Land,2022,Fossiel,2.88,1.664
+Zweden,Land,2022,Kernenergie,51.94,30.014
+Zweden,Land,2022,"Water, bio en overig",83.0,47.963
+Zweden,Land,2022,Wind,33.25,19.214
+Zweden,Land,2022,Zon,1.98,1.144
+Zweden,Land,2023,Fossiel,2.33,1.403
+Zweden,Land,2023,Kernenergie,48.47,29.19
+Zweden,Land,2023,"Water, bio en overig",77.89,46.908
+Zweden,Land,2023,Wind,34.25,20.626
+Zweden,Land,2023,Zon,3.11,1.873
+Zweden,Land,2024,Fossiel,2.08,1.208
+Zweden,Land,2024,Kernenergie,50.67,29.438
+Zweden,Land,2024,"Water, bio en overig",74.79,43.452
+Zweden,Land,2024,Wind,40.422,23.484
+Zweden,Land,2024,Zon,4.16,2.417
+Zweden,Land,2025,Fossiel,2.091,1.228
+Zweden,Land,2025,Kernenergie,46.654,27.404
+Zweden,Land,2025,"Water, bio en overig",78.168,45.915
+Zweden,Land,2025,Wind,38.89,22.843
+Zweden,Land,2025,Zon,4.444,2.61
