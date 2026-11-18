@@ -1,0 +1,6 @@
+11_piek_en_dal.png
+Deze grafiek laat zien dat de piekpremie in Texas daalde van 133 euro per MWh in 2023 naar 30 in 2026 en in Californie van 52 in 2022 naar 16, terwijl de vloot in beide markten naar ongeveer 12 GW groeide. In het model daalt de piekpremie per GW erbij met 12% (Texas) en 9% (Californie), de daldiepte met 6% en 4%. De belangrijkste conclusie is: de waarde verdwijnt vooral uit de avondpiek, veel minder uit het middagdal.
+
+12_verzadiging_per_gw.png
+Deze grafiek laat zien dat een batterij van twee uur in Texas nu 20 duizend euro per MW per jaar verdient bij een vloot van 11,8 GW en in Californie 17 duizend bij 11,4 GW, en dat elke GW erbij in het basismodel 10% respectievelijk 8% kost. De belangrijkste conclusie is: reken in een batterijcase met een opbrengst per MW die daalt naarmate de vloot groeit, en behandel de precieze helling als onzeker.
+

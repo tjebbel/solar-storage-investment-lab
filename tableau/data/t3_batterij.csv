@@ -1,0 +1,19 @@
+Scenario,Cycli per dag,Levensduur (jaar),Omzet per MW,Doelrendement,Hoogste bouwkosten per kWh,Bouwkosten nu per kWh
+"dagmarkt, geen netkosten, 1 cyclus per dag",1,15,87193.5,8%,285.575,280
+"dagmarkt, tijdsafhankelijk transportrecht, 1 cyclus per dag",1,15,87193.5,8%,77.2864,280
+"dagmarkt, geen netkosten, 1,5 cyclus per dag",1.5,10,95753.9,8%,262.364,280
+"dagmarkt, tijdsafhankelijk transportrecht, 1,5 cyclus per dag",1.5,10,95753.9,8%,93.7539,280
+"dagmarkt, geen netkosten, 2 cyclus per dag",2,8,101704,8%,246.458,280
+"dagmarkt, tijdsafhankelijk transportrecht, 2 cyclus per dag",2,8,101704,8%,99.5615,280
+"stapeling, vast transportrecht",1,15,305000,8%,450.804,280
+"stapeling, tijdsafhankelijk transportrecht",1,15,242500,8%,585.944,280
+"stapeling zonder capaciteitsvergoedingen, tijdsafhankelijk",1,15,126600,8%,206.35,280
+"dagmarkt, geen netkosten, 1 cyclus per dag",1,15,87193.5,5%,332.519,280
+"dagmarkt, tijdsafhankelijk transportrecht, 1 cyclus per dag",1,15,87193.5,5%,87.5527,280
+"dagmarkt, geen netkosten, 1,5 cyclus per dag",1.5,10,95753.9,5%,295.275,280
+"dagmarkt, tijdsafhankelijk transportrecht, 1,5 cyclus per dag",1.5,10,95753.9,5%,104.646,280
+"dagmarkt, geen netkosten, 2 cyclus per dag",2,8,101704,5%,272.869,280
+"dagmarkt, tijdsafhankelijk transportrecht, 2 cyclus per dag",2,8,101704,5%,109.753,280
+"stapeling, vast transportrecht",1,15,305000,5%,518.493,280
+"stapeling, tijdsafhankelijk transportrecht",1,15,242500,5%,679.827,280
+"stapeling zonder capaciteitsvergoedingen, tijdsafhankelijk",1,15,126600,5%,237.833,280

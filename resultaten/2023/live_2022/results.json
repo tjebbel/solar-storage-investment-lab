@@ -1,0 +1,107 @@
+{
+  "market": {
+    "capture_rate_solar": 0.9277918234692446,
+    "negative_hours": 92,
+    "slope_eur_per_gwh_solar": -128.98801486351428,
+    "r2": 0.007466557238731353,
+    "monthly_capture_rate": {
+      "1": 1.0854471684241935,
+      "2": 0.8860284937430575,
+      "3": 0.7873298550561372,
+      "4": 0.7583236381450089,
+      "5": 0.834721524771463,
+      "6": 0.8672087173596217,
+      "7": 0.8340143886730917,
+      "8": 0.8441639463355574,
+      "9": 0.9027177624987544,
+      "10": 0.8592557623748913,
+      "11": 0.9282921550391399,
+      "12": 1.2265765071877988
+    }
+  },
+  "solar": {
+    "capex": 8980000.0,
+    "revenue_y1": 3313545.509919409,
+    "irr": 0.3282523716986179,
+    "irr_after_tax": 0.2520383219420911,
+    "lcoe": 76.48217972337717,
+    "capture_price": 223.8882101296898,
+    "npv": 24359896.760140277,
+    "max_debt": 22406364.770260103,
+    "gearing": 2.4951408430133744,
+    "irr_p10": 0.2553045688867569,
+    "irr_p50": 0.3276439154148101,
+    "irr_p90": 0.39830783802270886,
+    "p_below_hurdle": 0.0
+  },
+  "battery": {
+    "capex": 6000000.0,
+    "revenue_y1": 1057505.6320000002,
+    "revenue_y1_naive": 824423.5025274724,
+    "irr": 0.11051599845290183,
+    "npv": 1511721.8256850569,
+    "uplift_needed_per_mw": 0.0
+  },
+  "portfolio": {
+    "irr": 0.2512770028412341,
+    "npv": 25871618.585825335
+  },
+  "impact": {
+    "solar_avoided_t_hourly": 5848.898787488323,
+    "solar_avoided_t_yearly_avg": 5733.139306205066,
+    "battery_shift_t": -115.953606203243,
+    "t_per_meur_solar": 651.3250320142898
+  },
+  "sensitivity_solar_irr": {
+    "Capex \u00b120%": [
+      0.2722316335141659,
+      0.4119356752932072
+    ],
+    "Revenue \u00b120% (price / capture)": [
+      0.25374991104006767,
+      0.4023131166398525
+    ],
+    "Opex \u00b120%": [
+      0.32111043110489845,
+      0.3353862465918064
+    ],
+    "Degradation 1.0% / 0%": [
+      0.32271093890070923,
+      0.33377583459019644
+    ],
+    "Life 20 / 30 years": [
+      0.3274579001963137,
+      0.3284365780651569
+    ]
+  },
+  "battery_schedule_example": null,
+  "assumptions": {
+    "solar_mw": 20.0,
+    "solar_full_load_hours": 740.0,
+    "solar_capex_per_mw": 449000.0,
+    "solar_opex_per_mw": 15700.0,
+    "solar_degradation": 0.005,
+    "solar_life": 25,
+    "battery_mw": 10.0,
+    "battery_hours": 2,
+    "battery_efficiency": 0.88,
+    "battery_capex_per_mwh": 300000.0,
+    "battery_opex_share": 0.02,
+    "battery_degradation": 0.02,
+    "battery_life": 15,
+    "discount_rate": 0.07,
+    "debt_rate": 0.055,
+    "dscr_target": 1.3,
+    "hurdle_irr": 0.08,
+    "revenue_sd_solar": 0.15,
+    "revenue_sd_battery": 0.25,
+    "simulations": 1000,
+    "tax_rate": 0.258,
+    "battery_tariff_eur_mwh": 0.0
+  },
+  "meta": {
+    "source": "live",
+    "year": 2022,
+    "attribution": "Data: Energy-Charts.info (Fraunhofer ISE); prices originate from the day-ahead market (EPEX SPOT)."
+  }
+}

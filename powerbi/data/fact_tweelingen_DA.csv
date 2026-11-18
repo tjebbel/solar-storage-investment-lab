@@ -1,0 +1,5 @@
+kenmerk_1,kenmerk_2,spearman
+gem_prijs,dagspreiding,0.8188475730323116
+gem_prijs,uren_boven_200,0.856604565163739
+dagspreiding,uren_boven_200,0.8200109819620215
+dagspreiding,batterij_per_mw,0.9795213008896173

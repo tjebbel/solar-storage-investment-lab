@@ -1,0 +1,9 @@
+1_markt_prijs.png
+Deze grafiek laat zien dat de dagmarktprijs in 2025 87 euro per MWh was, +12% tegenover 2024. De belangrijkste conclusie is: de prijsaanname hoeft niet te worden aangepast.
+
+2_zon.png
+Deze grafiek laat zien dat zon in 2025 53 euro per MWh ontving bij kosten van 67 euro (capture rate 0.62). De belangrijkste conclusie is: zonder contract dekt zon de kosten niet; sluit een afnamecontract of voeg opslag toe.
+
+3_impact.png
+Deze grafiek laat zien dat het modelpark in 2025 3.750 ton CO2 vermeed (-37% sinds 2019) en dat 15% van de zonopwek in uren met een negatieve prijs viel. De belangrijkste conclusie is: rapporteer impact per uur en niet met een jaargemiddelde, en stuur op opwek buiten de overschoturen.
+

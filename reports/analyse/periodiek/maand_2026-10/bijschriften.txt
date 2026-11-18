@@ -1,0 +1,9 @@
+1_markt_prijs.png
+Deze grafiek laat zien dat de dagmarktprijs in okt 2026 172 euro per MWh was, +109% tegenover okt 2025. De belangrijkste conclusie is: herzie de prijsaanname in lopende waarderingen.
+
+2_zon.png
+Deze grafiek laat zien dat zon in okt 2026 78% van de gemiddelde prijs ontving, -14 punten tegenover okt 2025; 2% van de zonopwek viel in uren met een negatieve prijs. De belangrijkste conclusie is: de marktwaarde van zon staat verder onder druk.
+
+3_opslag.png
+Deze grafiek laat zien dat een batterij van 2 uur in okt 2026 5.814 euro per MW verdiende op de dagmarkt, minder dan de 7.124 euro die voor 8% rendement nodig is; de dagspreiding was 168 euro per MWh. De belangrijkste conclusie is: de batterij heeft naast de dagmarkt andere inkomsten nodig.
+

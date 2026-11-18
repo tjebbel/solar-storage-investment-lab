@@ -1,0 +1,6 @@
+Rapport K3 2026 (vergelijking met K3 2025)
+Prijs: 128 euro per MWh (+60%)
+Capture rate zon: 0,57 (was 0,68); capture-prijs 73 euro tegenover kosten 64 euro
+Negatieve uren: 139 (was 130); zonopwek in negatieve uren: 13%
+Dagspreiding: 181 euro per MWh (was 135)
+Batterij 2 uur, dagmarkt: 26.295 euro per MW (nodig voor 8%: 21.373)

@@ -1,0 +1,6 @@
+Rapport 2025 (vergelijking met 2024)
+Prijs: 87 euro per MWh (+12%)
+Capture rate zon: 0,62 (was 0,60); capture-prijs 53 euro tegenover kosten 67 euro
+Negatieve uren: 584 (was 458); zonopwek in negatieve uren: 15%
+Dagspreiding: 124 euro per MWh (was 114)
+Batterij 2 uur, dagmarkt: 60.904 euro per MW (nodig voor 8%: 85.491)

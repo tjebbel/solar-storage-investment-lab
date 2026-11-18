@@ -1,0 +1,64 @@
+=== Start Tue Nov 17 19:36:09 CET 2026 ===
+== vs_eia  19:36
+  EIA Texas 2020 klaar
+  EIA Californie 2020 klaar
+  EIA Texas 2021 klaar
+  EIA Californie 2021 klaar
+  EIA Texas 2022 klaar
+  EIA Californie 2022 klaar
+  EIA Texas 2023 klaar
+  EIA Californie 2023 klaar
+  EIA Texas 2024 klaar
+  EIA Californie 2024 klaar
+  EIA Texas 2025 klaar
+  EIA Californie 2025 klaar
+  gridstatus Texas 2021: 8760 uren
+  gridstatus Texas 2022: 8760 uren
+  gridstatus Texas 2023: 8760 uren
+  gridstatus Texas 2024: 8784 uren
+  gridstatus Texas 2025: 8760 uren
+  gridstatus Texas 2026: 7734 uren
+  Texas: EIA en gridstatus delen 37925 uren, grootste verschil 4.390000000000001 dollar per MWh; EIA telt waar beide bestaan
+  -> fact_wereld_markten.csv: 30 rijen
+  -> fact_vs_halfjaar.csv: 14 rijen
+  -> fact_wereld_markten.csv: 30 rijen
+  -> fact_vs_halfjaar.csv: 14 rijen
+== eia_opwek  19:36
+  EIA Texas 2020 klaar
+  EIA Californie 2020 klaar
+  EIA Texas 2021 klaar
+  EIA Californie 2021 klaar
+  EIA Texas 2022 klaar
+  EIA Californie 2022 klaar
+  EIA Texas 2023 klaar
+  EIA Californie 2023 klaar
+  EIA Texas 2024 klaar
+  EIA Californie 2024 klaar
+  EIA Texas 2025 klaar
+  EIA Californie 2025 klaar
+  gridstatus Texas 2021: 8760 uren
+  gridstatus Texas 2022: 8760 uren
+  gridstatus Texas 2023: 8760 uren
+  gridstatus Texas 2024: 8784 uren
+  gridstatus Texas 2025: 8760 uren
+  gridstatus Texas 2026: 7734 uren
+  EIA-opwek ERCO 2020: 61488 rijen tot nu
+  EIA-opwek ERCO 2021: 122808 rijen tot nu
+  EIA-opwek ERCO 2022: 184128 rijen tot nu
+  EIA-opwek ERCO 2023: 245448 rijen tot nu
+  EIA-opwek ERCO 2024: 309596 rijen tot nu
+  EIA-opwek ERCO 2025: 387686 rijen tot nu
+  EIA-opwek ERCO 2026: 449174 rijen tot nu
+  EIA-opwek CISO 2020: 58882 rijen tot nu
+  EIA-opwek CISO 2021: 128922 rijen tot nu
+  EIA-opwek CISO 2022: 196314 rijen tot nu
+  EIA-opwek CISO 2023: 265618 rijen tot nu
+  EIA-opwek CISO 2024: 335685 rijen tot nu
+  EIA-opwek CISO 2025: 406140 rijen tot nu
+  EIA-opwek CISO 2026: 475332 rijen tot nu
+  -> fact_vs_opwek_jaar.csv: 112 rijen
+== wereld klaar 19:36
+Ran 92 tests in 1.645s
+
+OK
+=== Klaar Tue Nov 17 19:36:42 CET 2026 ===

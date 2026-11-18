@@ -1,0 +1,6468 @@
+{
+ "$schema": "https://json-schema.org/draft/2020-12/schema",
+ "title": "Tabellen in powerbi/data",
+ "type": "object",
+ "$defs": {
+  "dim_datum": {
+   "type": "object",
+   "description": "Een rij is een dag: jaar, kwartaal, maand, week, weekdag en feestdag, als datumtabel voor Power BI. Bron: eigen berekening.",
+   "properties": {
+    "datum": {
+     "type": "string",
+     "format": "date"
+    },
+    "jaar": {
+     "type": "number",
+     "x-waargenomen": [
+      2019.0,
+      2030.0
+     ],
+     "description": "Kalenderjaar. 2026 is onvolledig (tot 15 november). Eenheid: jaar."
+    },
+    "kwartaal": {
+     "type": "number",
+     "x-waargenomen": [
+      1.0,
+      4.0
+     ]
+    },
+    "maand": {
+     "type": "number",
+     "x-waargenomen": [
+      1.0,
+      12.0
+     ],
+     "minimum": 1,
+     "maximum": 12,
+     "description": "Kalendermaand, 1 tot 12 (UTC). Eenheid: maand."
+    },
+    "dag": {
+     "type": "number",
+     "x-waargenomen": [
+      1.0,
+      31.0
+     ]
+    },
+    "maandnaam": {
+     "type": "string"
+    },
+    "jaarmaand": {
+     "type": "string"
+    },
+    "jaarkwartaal": {
+     "type": "string"
+    },
+    "isojaar": {
+     "type": "number",
+     "x-waargenomen": [
+      2019.0,
+      2031.0
+     ]
+    },
+    "week": {
+     "type": "number",
+     "x-waargenomen": [
+      1.0,
+      53.0
+     ]
+    },
+    "weekdag_nr": {
+     "type": "number",
+     "x-waargenomen": [
+      1.0,
+      7.0
+     ]
+    },
+    "weekdag": {
+     "type": "string",
+     "enum": [
+      "dinsdag",
+      "woensdag",
+      "donderdag",
+      "vrijdag",
+      "zaterdag",
+      "zondag",
+      "maandag"
+     ]
+    },
+    "feestdag": {
+     "type": [
+      "string",
+      "null"
+     ],
+     "enum": [
+      "Nieuwjaarsdag",
+      "Eerste paasdag",
+      "Tweede paasdag",
+      "Koningsdag",
+      "Bevrijdingsdag",
+      "Hemelvaartsdag",
+      "Eerste pinksterdag",
+      "Tweede pinksterdag",
+      "Eerste kerstdag",
+      "Tweede kerstdag",
+      null
+     ]
+    },
+    "werkdag": {
+     "type": "string",
+     "enum": [
+      "True",
+      "False"
+     ]
+    },
+    "seizoen": {
+     "type": "string",
+     "enum": [
+      "zomerhalfjaar",
+      "winterhalfjaar"
+     ]
+    }
+   },
+   "required": [
+    "datum",
+    "jaar",
+    "kwartaal",
+    "maand",
+    "dag",
+    "maandnaam",
+    "jaarmaand",
+    "jaarkwartaal",
+    "isojaar",
+    "week",
+    "weekdag_nr",
+    "weekdag",
+    "werkdag",
+    "seizoen"
+   ],
+   "x-rijen": 4383
+  },
+  "dim_land": {
+   "type": "object",
+   "description": "Een rij is een land met indelingen. Bron: Ember, eigen indeling.",
+   "properties": {
+    "iso3": {
+     "type": "string",
+     "description": "Landcode volgens ISO 3166 (drie letters)."
+    },
+    "land": {
+     "type": "string",
+     "description": "Naam van het land of de biedzone in het Nederlands."
+    },
+    "continent": {
+     "type": "string",
+     "enum": [
+      "Africa",
+      "Asia",
+      "Europe",
+      "North America",
+      "Oceania",
+      "South America"
+     ]
+    },
+    "ember_regio": {
+     "type": "string",
+     "enum": [
+      "Africa",
+      "Latin America and Caribbean",
+      "Europe",
+      "Asia",
+      "Oceania",
+      "Middle East",
+      "North America"
+     ]
+    },
+    "eu": {
+     "type": "string",
+     "enum": [
+      "False",
+      "True"
+     ]
+    },
+    "oecd": {
+     "type": "string",
+     "enum": [
+      "False",
+      "True"
+     ]
+    },
+    "g20": {
+     "type": "string",
+     "enum": [
+      "False",
+      "True"
+     ]
+    },
+    "studieregio": {
+     "type": "string",
+     "enum": [
+      "Rest van de wereld",
+      "Europa",
+      "China",
+      "Nederland",
+      "VS"
+     ]
+    }
+   },
+   "required": [
+    "iso3",
+    "land",
+    "continent",
+    "ember_regio",
+    "eu",
+    "oecd",
+    "g20",
+    "studieregio"
+   ],
+   "x-rijen": 209
+  },
+  "dim_markt": {
+   "type": "object",
+   "description": "Een rij is een markt met de studieregio waar ze bij hoort. Bron: eigen indeling.",
+   "properties": {
+    "markt": {
+     "type": "string",
+     "description": "Naam van de markt buiten de EU (Texas, Californie, Japan, een Australische deelstaat)."
+    },
+    "studieregio": {
+     "type": "string",
+     "enum": [
+      "Europa",
+      "Rest van de wereld",
+      "Nederland"
+     ]
+    }
+   },
+   "required": [
+    "markt",
+    "studieregio"
+   ],
+   "x-rijen": 41
+  },
+  "dim_regio": {
+   "type": "object",
+   "description": "Een rij is een studieregio: kapitaalkosten, vollasturen, investering. Bron: aannames uit het memo, per regio nagezocht.",
+   "properties": {
+    "regio": {
+     "type": "string",
+     "enum": [
+      "Nederland",
+      "Europa (Spanje)",
+      "VS (Texas)",
+      "China",
+      "India (RvdW)"
+     ],
+     "description": "Studieregio (Nederland, Europa, VS, China, India)."
+    },
+    "wacc": {
+     "type": "number",
+     "x-waargenomen": [
+      0.045,
+      0.12
+     ],
+     "minimum": 0,
+     "maximum": 0.3,
+     "description": "Gewogen kapitaalkosten. Eenheid: fractie per jaar."
+    },
+    "vollasturen": {
+     "type": "number",
+     "x-waargenomen": [
+      740.0,
+      2190.0
+     ],
+     "description": "Vollasturen van zon per jaar. Eenheid: uur per jaar."
+    },
+    "capex_eur_kw": {
+     "type": "number",
+     "x-waargenomen": [
+      350.0,
+      1450.0
+     ],
+     "description": "Investering per kW vermogen. Eenheid: euro per kW."
+    },
+    "netintensiteit_g_kwh": {
+     "type": "number",
+     "x-waargenomen": [
+      100.0,
+      708.0
+     ],
+     "description": "CO2-intensiteit van het net. Eenheid: gram per kWh."
+    },
+    "fx_kosten": {
+     "type": "number",
+     "x-waargenomen": [
+      -0.005,
+      0.045
+     ]
+    }
+   },
+   "required": [
+    "regio",
+    "wacc",
+    "vollasturen",
+    "capex_eur_kw",
+    "netintensiteit_g_kwh",
+    "fx_kosten"
+   ],
+   "x-rijen": 5
+  },
+  "fact_afrr_energie_nl": {
+   "type": "object",
+   "description": "Een rij is een kwartier: prijs van geactiveerde regelenergie (aFRR), op en af. Bron: ENTSO-E (document A84).",
+   "properties": {
+    "kwartier_utc": {
+     "type": "string",
+     "format": "date-time"
+    },
+    "op_eur_mwh": {
+     "type": "number",
+     "x-waargenomen": [
+      -10.0,
+      5500.0
+     ],
+     "description": "Prijs van geactiveerde opregelenergie in het kwartier. Eenheid: euro per MWh."
+    },
+    "af_eur_mwh": {
+     "type": "number",
+     "x-waargenomen": [
+      -1861.69,
+      446.95
+     ],
+     "description": "Prijs van geactiveerde afregelenergie in het kwartier. Eenheid: euro per MWh."
+    }
+   },
+   "required": [
+    "kwartier_utc",
+    "op_eur_mwh",
+    "af_eur_mwh"
+   ],
+   "x-rijen": 95464
+  },
+  "fact_australie": {
+   "type": "object",
+   "description": "Een rij is een Australische deelstaat in een jaar. Bron: AEMO via Open Electricity.",
+   "properties": {
+    "regio": {
+     "type": "string",
+     "enum": [
+      "Australie (Zuid)",
+      "Australie (Victoria)",
+      "Australie (Queensland)",
+      "Australie (NSW)",
+      "Australie (Tasmanie)"
+     ],
+     "description": "Studieregio (Nederland, Europa, VS, China, India)."
+    },
+    "jaar": {
+     "type": "number",
+     "x-waargenomen": [
+      2019.0,
+      2026.0
+     ],
+     "description": "Kalenderjaar. 2026 is onvolledig (tot 15 november). Eenheid: jaar."
+    },
+    "uren": {
+     "type": "number",
+     "x-waargenomen": [
+      7287.0,
+      8775.0
+     ],
+     "minimum": 0,
+     "maximum": 8784,
+     "description": "Aantal uren met een prijs in de periode. Eenheid: uren."
+    },
+    "gem_prijs_eur": {
+     "type": "number",
+     "x-waargenomen": [
+      20.139370529082363,
+      123.16764592617956
+     ],
+     "description": "Gemiddelde groothandelsprijs, omgerekend naar euro. Eenheid: euro per MWh."
+    },
+    "capture_zon_instraling": {
+     "type": "number",
+     "x-waargenomen": [
+      -0.0325758858835362,
+      1.1873608322536946
+     ],
+     "description": "Capture rate van zon, geschat met een instralingsprofiel in plaats van gemeten opwek. Eenheid: verhouding."
+    },
+    "negatieve_uren": {
+     "type": "number",
+     "x-waargenomen": [
+      1.0,
+      2616.0
+     ],
+     "minimum": 0,
+     "maximum": 8784,
+     "description": "Aantal uren met een dagmarktprijs onder nul. Eenheid: uren."
+    },
+    "batterij_2u_realistisch_eur_per_mw": {
+     "type": "number",
+     "x-waargenomen": [
+      6426.479365564738,
+      146284.6147327824
+     ],
+     "description": "Dagmarktomzet van een batterij van 2 uur, plan op gisteren, lokale dagen. Eenheid: euro per MW per jaar."
+    }
+   },
+   "required": [
+    "regio",
+    "jaar",
+    "uren",
+    "gem_prijs_eur",
+    "capture_zon_instraling",
+    "negatieve_uren",
+    "batterij_2u_realistisch_eur_per_mw"
+   ],
+   "x-rijen": 40
+  },
+  "fact_australie_dagprofiel": {
+   "type": "object",
+   "description": "Een rij is (nog te beschrijven). Bron: eigen berekening.",
+   "properties": {
+    "regio": {
+     "type": "string",
+     "enum": [
+      "Australie (Zuid)",
+      "Australie (Victoria)",
+      "Australie (Queensland)",
+      "Australie (NSW)"
+     ],
+     "description": "Studieregio (Nederland, Europa, VS, China, India)."
+    },
+    "jaar": {
+     "type": "number",
+     "x-waargenomen": [
+      2019.0,
+      2026.0
+     ],
+     "description": "Kalenderjaar. 2026 is onvolledig (tot 15 november). Eenheid: jaar."
+    },
+    "dagen_jan_okt": {
+     "type": "number",
+     "x-waargenomen": [
+      304.0,
+      305.0
+     ]
+    },
+    "gem_dagomzet_eur_per_mw": {
+     "type": "number",
+     "x-waargenomen": [
+      61.70782924092409,
+      441.4289387458746
+     ]
+    },
+    "mediaan_dagomzet_eur_per_mw": {
+     "type": "number",
+     "x-waargenomen": [
+      30.39414,
+      204.20315
+     ]
+    },
+    "aandeel_top10_dagen": {
+     "type": "number",
+     "x-waargenomen": [
+      0.1296257326283096,
+      0.5792564949773049
+     ]
+    },
+    "dagen_met_uurprijs_boven_1000_aud": {
+     "type": "number",
+     "x-waargenomen": [
+      1.0,
+      52.0
+     ]
+    },
+    "mediaan_netto_spreiding_eur_mwh": {
+     "type": "number",
+     "x-waargenomen": [
+      22.01202,
+      133.56892
+     ]
+    },
+    "mediaan_middagprijs_eur_mwh": {
+     "type": "number",
+     "x-waargenomen": [
+      -13.431,
+      61.6022
+     ]
+    },
+    "mediaan_avondprijs_eur_mwh": {
+     "type": "number",
+     "x-waargenomen": [
+      33.78675,
+      162.5918125
+     ]
+    }
+   },
+   "required": [
+    "regio",
+    "jaar",
+    "dagen_jan_okt",
+    "gem_dagomzet_eur_per_mw",
+    "mediaan_dagomzet_eur_per_mw",
+    "aandeel_top10_dagen",
+    "dagen_met_uurprijs_boven_1000_aud",
+    "mediaan_netto_spreiding_eur_mwh",
+    "mediaan_middagprijs_eur_mwh",
+    "mediaan_avondprijs_eur_mwh"
+   ],
+   "x-rijen": 32
+  },
+  "fact_balans_nl_jaar": {
+   "type": "object",
+   "description": "Een rij is een jaar: samenvatting van FCR en aFRR. Bron: eigen berekening.",
+   "properties": {
+    "jaar": {
+     "type": "number",
+     "x-waargenomen": [
+      2023.0,
+      2026.0
+     ],
+     "description": "Kalenderjaar. 2026 is onvolledig (tot 15 november). Eenheid: jaar."
+    },
+    "fcr_kwartieren": {
+     "type": "number",
+     "x-waargenomen": [
+      30761.0,
+      35136.0
+     ]
+    },
+    "fcr_mediaan_eur_mw_uur": {
+     "type": "number",
+     "x-waargenomen": [
+      11.0,
+      19.08
+     ]
+    },
+    "fcr_gemiddeld_eur_mw_uur": {
+     "type": "number",
+     "x-waargenomen": [
+      12.805459246575342,
+      22.55724033679009
+     ]
+    },
+    "fcr_omzet_per_mw_bij_volledige_inzet": {
+     "type": "number",
+     "x-waargenomen": [
+      112175.823,
+      197601.4253502812
+     ]
+    },
+    "afrr_kwartieren": {
+     "type": [
+      "number",
+      "null"
+     ],
+     "x-waargenomen": [
+      25505.0,
+      35103.0
+     ]
+    },
+    "afrr_op_aandeel_kwartieren": {
+     "type": [
+      "number",
+      "null"
+     ],
+     "x-waargenomen": [
+      0.4730892816157906,
+      0.6673985493040581
+     ]
+    },
+    "afrr_op_prijs_gemiddeld": {
+     "type": [
+      "number",
+      "null"
+     ],
+     "x-waargenomen": [
+      141.46992832804605,
+      187.1843565797453
+     ]
+    },
+    "afrr_af_aandeel_kwartieren": {
+     "type": [
+      "number",
+      "null"
+     ],
+     "x-waargenomen": [
+      0.5235253614872619,
+      0.6755146049794158
+     ]
+    },
+    "afrr_af_prijs_gemiddeld": {
+     "type": [
+      "number",
+      "null"
+     ],
+     "x-waargenomen": [
+      0.1417835807385954,
+      23.21692669336583
+     ]
+    }
+   },
+   "required": [
+    "jaar",
+    "fcr_kwartieren",
+    "fcr_mediaan_eur_mw_uur",
+    "fcr_gemiddeld_eur_mw_uur",
+    "fcr_omzet_per_mw_bij_volledige_inzet"
+   ],
+   "x-rijen": 4
+  },
+  "fact_batterij_breakeven_BI": {
+   "type": "object",
+   "description": "Een rij is (nog te beschrijven). Bron: eigen berekening.",
+   "properties": {
+    "cycli_per_dag": {
+     "type": "number",
+     "x-waargenomen": [
+      1.0,
+      2.0
+     ]
+    },
+    "netkosten": {
+     "type": "string",
+     "enum": [
+      "geen netkosten",
+      "tijdsafhankelijk transportrecht",
+      "stapeling, vast transportrecht",
+      "stapeling, tijdsafhankelijk transportrecht",
+      "stapeling zonder capaciteitsvergoedingen, tijdsafhankelijk"
+     ]
+    },
+    "omzet_per_mw": {
+     "type": "number",
+     "x-waargenomen": [
+      87193.5,
+      305000.0
+     ],
+     "description": "Omzet per MW per jaar van de genoemde strategie. Eenheid: euro per MW per jaar."
+    },
+    "levensduur_jaar": {
+     "type": "number",
+     "x-waargenomen": [
+      8.0,
+      15.0
+     ]
+    },
+    "max_capex_per_kwh_voor_8pct": {
+     "type": "number",
+     "x-waargenomen": [
+      77.28639217480095,
+      585.9437604876961
+     ]
+    },
+    "max_capex_per_kwh_voor_5pct": {
+     "type": "number",
+     "x-waargenomen": [
+      87.55266096909331,
+      679.8265225123525
+     ]
+    }
+   },
+   "required": [
+    "cycli_per_dag",
+    "netkosten",
+    "omzet_per_mw",
+    "levensduur_jaar",
+    "max_capex_per_kwh_voor_8pct",
+    "max_capex_per_kwh_voor_5pct"
+   ],
+   "x-rijen": 9
+  },
+  "fact_batterij_bronnen_BB": {
+   "type": "object",
+   "description": "Een rij is (nog te beschrijven). Bron: eigen berekening.",
+   "properties": {
+    "land": {
+     "type": "string",
+     "description": "Naam van het land of de biedzone in het Nederlands."
+    },
+    "biedzone": {
+     "type": "string",
+     "description": "Code van de biedzone (NL, DE-LU, IT-North, NO1)."
+    },
+    "jaar": {
+     "type": "number",
+     "x-waargenomen": [
+      2019.0,
+      2026.0
+     ],
+     "description": "Kalenderjaar. 2026 is onvolledig (tot 15 november). Eenheid: jaar."
+    },
+    "dagmarkt_per_mw": {
+     "type": "number",
+     "x-waargenomen": [
+      597.1014945054941,
+      100084.67001892735
+     ]
+    },
+    "fcr_lid": {
+     "type": "string",
+     "enum": [
+      "False",
+      "True"
+     ]
+    },
+    "fcr_dagen_in_data": {
+     "type": [
+      "number",
+      "null"
+     ],
+     "x-waargenomen": [
+      264.0,
+      334.0
+     ]
+    },
+    "fcr_per_mw": {
+     "type": [
+      "number",
+      "null"
+     ],
+     "x-waargenomen": [
+      116178.99145565748,
+      201977.17866666664
+     ]
+    },
+    "afrr_capaciteit_50pct_per_mw": {
+     "type": [
+      "number",
+      "null"
+     ],
+     "x-waargenomen": [
+      118260.0,
+      118260.0
+     ]
+    },
+    "afrr_capaciteit_100pct_per_mw": {
+     "type": [
+      "number",
+      "null"
+     ],
+     "x-waargenomen": [
+      236520.0,
+      236520.0
+     ]
+    },
+    "fcr_gedeeld_door_dagmarkt": {
+     "type": [
+      "number",
+      "null"
+     ],
+     "x-waargenomen": [
+      2.3181113609727464,
+      5.957695673149023
+     ]
+    },
+    "grootste_bron": {
+     "type": "string",
+     "enum": [
+      "dagmarkt",
+      "FCR"
+     ]
+    }
+   },
+   "required": [
+    "land",
+    "biedzone",
+    "jaar",
+    "dagmarkt_per_mw",
+    "fcr_lid",
+    "grootste_bron"
+   ],
+   "x-rijen": 296
+  },
+  "fact_batterij_bronnen_nl_BB": {
+   "type": "object",
+   "description": "Een rij is (nog te beschrijven). Bron: eigen berekening.",
+   "properties": {
+    "jaar": {
+     "type": "number",
+     "x-waargenomen": [
+      2022.0,
+      2026.0
+     ],
+     "description": "Kalenderjaar. 2026 is onvolledig (tot 15 november). Eenheid: jaar."
+    },
+    "dagmarkt_per_mw": {
+     "type": "number",
+     "x-waargenomen": [
+      47320.14984615383,
+      82442.35025274724
+     ]
+    },
+    "fcr_per_mw": {
+     "type": [
+      "number",
+      "null"
+     ],
+     "x-waargenomen": [
+      116178.99145565748,
+      201977.17866666664
+     ]
+    },
+    "fcr_dagen_in_data": {
+     "type": [
+      "number",
+      "null"
+     ],
+     "x-waargenomen": [
+      264.0,
+      334.0
+     ]
+    },
+    "afrr_capaciteit_50pct_per_mw": {
+     "type": [
+      "number",
+      "null"
+     ],
+     "x-waargenomen": [
+      118260.0,
+      118260.0
+     ]
+    },
+    "afrr_capaciteit_100pct_per_mw": {
+     "type": [
+      "number",
+      "null"
+     ],
+     "x-waargenomen": [
+      236520.0,
+      236520.0
+     ]
+    }
+   },
+   "required": [
+    "jaar",
+    "dagmarkt_per_mw"
+   ],
+   "x-rijen": 5
+  },
+  "fact_batterij_irr": {
+   "type": "object",
+   "description": "Een rij is een jaar, strategie en investeringsbedrag: IRR van de batterij. Bron: eigen model.",
+   "properties": {
+    "jaar": {
+     "type": "number",
+     "x-waargenomen": [
+      2023.0,
+      2026.0
+     ],
+     "description": "Kalenderjaar. 2026 is onvolledig (tot 15 november). Eenheid: jaar."
+    },
+    "strategie": {
+     "type": "string",
+     "enum": [
+      "Dagmarkt",
+      "Gestapeld vooraf, onbalans plan op gisteren",
+      "Gestapeld vooraf, onbalans op dagmarktplan",
+      "Onbalans perfect"
+     ]
+    },
+    "capex_per_mwh": {
+     "type": "number",
+     "x-waargenomen": [
+      200000.0,
+      300000.0
+     ]
+    },
+    "irr": {
+     "type": "number",
+     "x-waargenomen": [
+      -0.0662343396246433,
+      0.4916188658773898
+     ],
+     "description": "Intern rendement van het project. Eenheid: fractie per jaar."
+    }
+   },
+   "required": [
+    "jaar",
+    "strategie",
+    "capex_per_mwh",
+    "irr"
+   ],
+   "x-rijen": 48
+  },
+  "fact_batterij_irr_grid_BI": {
+   "type": "object",
+   "description": "Een rij is (nog te beschrijven). Bron: eigen berekening.",
+   "properties": {
+    "cycli_per_dag": {
+     "type": "number",
+     "x-waargenomen": [
+      1.0,
+      2.0
+     ]
+    },
+    "omzet_per_mw": {
+     "type": "number",
+     "x-waargenomen": [
+      87193.5,
+      305000.0
+     ],
+     "description": "Omzet per MW per jaar van de genoemde strategie. Eenheid: euro per MW per jaar."
+    },
+    "meeropbrengst_vs_1_cyclus": {
+     "type": "number",
+     "x-waargenomen": [
+      0.0,
+      0.1664176212876784
+     ]
+    },
+    "levensduur_jaar": {
+     "type": "number",
+     "x-waargenomen": [
+      8.0,
+      15.0
+     ]
+    },
+    "netkosten": {
+     "type": "string",
+     "enum": [
+      "geen netkosten",
+      "tijdsafhankelijk transportrecht",
+      "stapeling, vast transportrecht",
+      "stapeling, tijdsafhankelijk transportrecht",
+      "stapeling zonder capaciteitsvergoedingen, tijdsafhankelijk"
+     ]
+    },
+    "capex_per_kwh": {
+     "type": "number",
+     "x-waargenomen": [
+      150.0,
+      400.0
+     ]
+    },
+    "irr": {
+     "type": [
+      "number",
+      "null"
+     ],
+     "x-waargenomen": [
+      -0.269570531398058,
+      0.5705366452038287
+     ],
+     "description": "Intern rendement van het project. Eenheid: fractie per jaar."
+    }
+   },
+   "required": [
+    "cycli_per_dag",
+    "omzet_per_mw",
+    "meeropbrengst_vs_1_cyclus",
+    "levensduur_jaar",
+    "netkosten",
+    "capex_per_kwh"
+   ],
+   "x-rijen": 63
+  },
+  "fact_batterij_stapeling": {
+   "type": "object",
+   "description": "Een rij is een jaar en strategie: omzet van de batterij. Bron: eigen model.",
+   "properties": {
+    "jaar": {
+     "type": "number",
+     "x-waargenomen": [
+      2023.0,
+      2026.0
+     ],
+     "description": "Kalenderjaar. 2026 is onvolledig (tot 15 november). Eenheid: jaar."
+    },
+    "strategie": {
+     "type": "string",
+     "enum": [
+      "Dagmarkt",
+      "Dagmarkt zonder overslaan",
+      "Dagmarkt perfect",
+      "Onbalans op dagmarktplan",
+      "Onbalans plan op gisteren",
+      "Onbalans plan op gisteren, verliesdagen overgeslagen (niet uitvoerbaar)",
+      "Gestapeld vooraf, onbalans plan op gisteren",
+      "Gestapeld vooraf, onbalans op dagmarktplan",
+      "Gestapeld achteraf (bovengrens)",
+      "Onbalans perfect"
+     ]
+    },
+    "omzet_eur": {
+     "type": "number",
+     "x-waargenomen": [
+      56351.0,
+      2133437.0
+     ]
+    },
+    "omzet_per_mw": {
+     "type": "number",
+     "x-waargenomen": [
+      5635.0,
+      213344.0
+     ],
+     "description": "Omzet per MW per jaar van de genoemde strategie. Eenheid: euro per MW per jaar."
+    },
+    "irr": {
+     "type": [
+      "number",
+      "null"
+     ],
+     "x-waargenomen": [
+      -0.2658620883524417,
+      0.310084144026041
+     ],
+     "description": "Intern rendement van het project. Eenheid: fractie per jaar."
+    }
+   },
+   "required": [
+    "jaar",
+    "strategie",
+    "omzet_eur",
+    "omzet_per_mw"
+   ],
+   "x-rijen": 40
+  },
+  "fact_batterij_volledige_case": {
+   "type": "object",
+   "description": "Een rij is een variant van de batterijcase met netkosten. Bron: eigen model, marktcijfers uit het memo.",
+   "properties": {
+    "inkomsten": {
+     "type": "string",
+     "enum": [
+      "Dagmarkt met bijsturen (eigen model)",
+      "Volledige stapeling (benchmark)",
+      "Volledige stapeling, omzet daalt 10 procent per jaar in vijf jaar",
+      "Stapeling zonder capaciteitsvergoedingen",
+      "Volledige stapeling, jaar tot en met september 2026"
+     ]
+    },
+    "netaansluiting": {
+     "type": "string",
+     "enum": [
+      "vast transportrecht",
+      "tijdsafhankelijk transportrecht",
+      "geen netkosten, zoals in de memo",
+      "tijdsafhankelijk transportrecht, zonder omzetverlies",
+      "vast transportrecht, netkosten uit dezelfde meting"
+     ]
+    },
+    "omzet_per_mw": {
+     "type": "number",
+     "x-waargenomen": [
+      87193.50716614419,
+      305000.0
+     ],
+     "description": "Omzet per MW per jaar van de genoemde strategie. Eenheid: euro per MW per jaar."
+    },
+    "netkosten_per_mw": {
+     "type": "number",
+     "x-waargenomen": [
+      0.0,
+      150000.0
+     ]
+    },
+    "na_netkosten_per_mw": {
+     "type": "number",
+     "x-waargenomen": [
+      -62806.49283385581,
+      185500.0
+     ]
+    },
+    "capex_per_kw": {
+     "type": "number",
+     "x-waargenomen": [
+      560.0,
+      560.0
+     ]
+    },
+    "daling_per_jaar": {
+     "type": "number",
+     "x-waargenomen": [
+      0.0,
+      0.1
+     ]
+    },
+    "irr": {
+     "type": [
+      "number",
+      "null"
+     ],
+     "x-waargenomen": [
+      0.0177598492801189,
+      0.2776841656863689
+     ],
+     "description": "Intern rendement van het project. Eenheid: fractie per jaar."
+    }
+   },
+   "required": [
+    "inkomsten",
+    "netaansluiting",
+    "omzet_per_mw",
+    "netkosten_per_mw",
+    "na_netkosten_per_mw",
+    "capex_per_kw",
+    "daling_per_jaar"
+   ],
+   "x-rijen": 10
+  },
+  "fact_bronnen_jaar_RC": {
+   "type": "object",
+   "description": "Een rij is (nog te beschrijven). Bron: eigen berekening.",
+   "properties": {
+    "jaar": {
+     "type": "number",
+     "x-waargenomen": [
+      2019.0,
+      2025.0
+     ],
+     "description": "Kalenderjaar. 2026 is onvolledig (tot 15 november). Eenheid: jaar."
+    },
+    "landen": {
+     "type": "number",
+     "x-waargenomen": [
+      26.0,
+      26.0
+     ]
+    },
+    "verschil_alle_pct": {
+     "type": "number",
+     "x-waargenomen": [
+      -11.716429019876898,
+      -5.884681405191059
+     ]
+    },
+    "landen_zonder_gat": {
+     "type": "number",
+     "x-waargenomen": [
+      18.0,
+      23.0
+     ]
+    },
+    "verschil_zonder_gat_pct": {
+     "type": "number",
+     "x-waargenomen": [
+      -1.8502049758150296,
+      4.577329120752076
+     ]
+    },
+    "mediane_verhouding_zonder_gat": {
+     "type": "number",
+     "x-waargenomen": [
+      0.982,
+      1.044
+     ]
+    },
+    "dekkingsgaten": {
+     "type": "number",
+     "x-waargenomen": [
+      3.0,
+      8.0
+     ]
+    }
+   },
+   "required": [
+    "jaar",
+    "landen",
+    "verschil_alle_pct",
+    "landen_zonder_gat",
+    "verschil_zonder_gat_pct",
+    "mediane_verhouding_zonder_gat",
+    "dekkingsgaten"
+   ],
+   "x-rijen": 7
+  },
+  "fact_bronnen_land_RC": {
+   "type": "object",
+   "description": "Een rij is (nog te beschrijven). Bron: eigen berekening.",
+   "properties": {
+    "iso3": {
+     "type": "string",
+     "description": "Landcode volgens ISO 3166 (drie letters)."
+    },
+    "jaren": {
+     "type": "number",
+     "x-waargenomen": [
+      7.0,
+      7.0
+     ]
+    },
+    "dekkingsgat_jaren": {
+     "type": "number",
+     "x-waargenomen": [
+      0.0,
+      7.0
+     ]
+    },
+    "bruikbare_jaren": {
+     "type": "number",
+     "x-waargenomen": [
+      0.0,
+      7.0
+     ]
+    },
+    "verhouding_mediaan": {
+     "type": [
+      "number",
+      "null"
+     ],
+     "x-waargenomen": [
+      0.55,
+      1.624
+     ]
+    },
+    "verhouding_min": {
+     "type": [
+      "number",
+      "null"
+     ],
+     "x-waargenomen": [
+      0.361,
+      1.519
+     ]
+    },
+    "verhouding_max": {
+     "type": [
+      "number",
+      "null"
+     ],
+     "x-waargenomen": [
+      0.757,
+      1.705
+     ]
+    },
+    "aandeel_jaren_lager": {
+     "type": [
+      "number",
+      "null"
+     ],
+     "x-waargenomen": [
+      0.0,
+      1.0
+     ]
+    },
+    "regime": {
+     "type": "string",
+     "enum": [
+      "structureel hoger in A",
+      "wisselend of gelijk",
+      "structureel lager in A",
+      "te weinig bruikbare jaren"
+     ]
+    },
+    "geschat_ontbrekend_aandeel_zon": {
+     "type": "number",
+     "x-waargenomen": [
+      0.0,
+      0.4499999999999999
+     ]
+    },
+    "laatste_jaar": {
+     "type": "number",
+     "x-waargenomen": [
+      2025.0,
+      2025.0
+     ]
+    },
+    "ember_zon_twh_laatste_jaar": {
+     "type": "number",
+     "x-waargenomen": [
+      0.348,
+      89.704
+     ]
+    },
+    "geschat_ontbrekend_twh": {
+     "type": "number",
+     "x-waargenomen": [
+      0.0,
+      4.6368
+     ]
+    }
+   },
+   "required": [
+    "iso3",
+    "jaren",
+    "dekkingsgat_jaren",
+    "bruikbare_jaren",
+    "regime",
+    "geschat_ontbrekend_aandeel_zon",
+    "laatste_jaar",
+    "ember_zon_twh_laatste_jaar",
+    "geschat_ontbrekend_twh"
+   ],
+   "x-rijen": 26
+  },
+  "fact_bronnen_toets_RC": {
+   "type": "object",
+   "description": "Een rij is (nog te beschrijven). Bron: eigen berekening.",
+   "properties": {
+    "groep": {
+     "type": "string",
+     "enum": [
+      "alle landen",
+      "structureel hoger in A",
+      "structureel lager in A",
+      "wisselend of gelijk"
+     ]
+    },
+    "land_jaren": {
+     "type": "number",
+     "x-waargenomen": [
+      18.0,
+      65.0
+     ]
+    },
+    "mediane_fout_zonder_correctie": {
+     "type": "number",
+     "x-waargenomen": [
+      0.0637607073777285,
+      0.2464753123863493
+     ]
+    },
+    "mediane_fout_met_correctie": {
+     "type": "number",
+     "x-waargenomen": [
+      0.0205123397626112,
+      0.0889525925017078
+     ]
+    },
+    "aandeel_beter": {
+     "type": "number",
+     "x-waargenomen": [
+      0.1304347826086956,
+      0.8888888888888888
+     ]
+    }
+   },
+   "required": [
+    "groep",
+    "land_jaren",
+    "mediane_fout_zonder_correctie",
+    "mediane_fout_met_correctie",
+    "aandeel_beter"
+   ],
+   "x-rijen": 4
+  },
+  "fact_capture_curve": {
+   "type": "object",
+   "description": "Een rij is (nog te beschrijven). Bron: eigen berekening.",
+   "properties": {
+    "capture_rate": {
+     "type": "number",
+     "x-waargenomen": [
+      0.6,
+      1.1
+     ],
+     "minimum": 0,
+     "maximum": 5,
+     "description": "Capture rate van de genoemde techniek of brandstof. Eenheid: verhouding."
+    },
+    "irr": {
+     "type": "number",
+     "x-waargenomen": [
+      0.029581319540739,
+      0.1310594563186168
+     ],
+     "description": "Intern rendement van het project. Eenheid: fractie per jaar."
+    }
+   },
+   "required": [
+    "capture_rate",
+    "irr"
+   ],
+   "x-rijen": 6
+  },
+  "fact_ember_capaciteit_maand": {
+   "type": "object",
+   "description": "Een rij is (nog te beschrijven). Bron: Ember (CC BY 4.0).",
+   "properties": {
+    "Year": {
+     "type": "number",
+     "x-waargenomen": [
+      2016.0,
+      2026.0
+     ],
+     "description": "Kalenderjaar. Eenheid: jaar."
+    },
+    "Month": {
+     "type": "number",
+     "x-waargenomen": [
+      1.0,
+      12.0
+     ]
+    },
+    "ISO 3 Code": {
+     "type": [
+      "string",
+      "null"
+     ]
+    },
+    "Area": {
+     "type": "string",
+     "description": "Land of regio volgens Ember."
+    },
+    "Continent": {
+     "type": "string",
+     "enum": [
+      "Europe",
+      "Asia",
+      "South America",
+      "North America",
+      "Oceania",
+      "Africa"
+     ]
+    },
+    "Source": {
+     "type": "string",
+     "enum": [
+      "Solar",
+      "Wind",
+      "Wind and solar",
+      "Onshore wind",
+      "Offshore wind",
+      "Unknown wind"
+     ]
+    },
+    "Installed Capacity": {
+     "type": "number",
+     "x-waargenomen": [
+      0.0,
+      2275.43
+     ]
+    },
+    "Capacity additions (month-on-month)": {
+     "type": [
+      "number",
+      "null"
+     ],
+     "x-waargenomen": [
+      -0.7,
+      137.18
+     ]
+    }
+   },
+   "required": [
+    "Year",
+    "Month",
+    "Area",
+    "Continent",
+    "Source",
+    "Installed Capacity"
+   ],
+   "x-rijen": 20901
+  },
+  "fact_ember_china_provincie": {
+   "type": "object",
+   "description": "Een rij is (nog te beschrijven). Bron: Ember (CC BY 4.0).",
+   "properties": {
+    "Area": {
+     "type": "string",
+     "enum": [
+      "China"
+     ],
+     "description": "Land of regio volgens Ember."
+    },
+    "Province": {
+     "type": "string"
+    },
+    "Year": {
+     "type": "number",
+     "x-waargenomen": [
+      2011.0,
+      2025.0
+     ],
+     "description": "Kalenderjaar. Eenheid: jaar."
+    },
+    "Electricity source": {
+     "type": "string",
+     "enum": [
+      "Coal",
+      "Gas",
+      "Clean",
+      "Fossil",
+      "Total generation",
+      "Wind",
+      "Solar"
+     ],
+     "description": "Opwekbron of saldo (Solar, Wind, Gas, Demand, Net imports)."
+    },
+    "Generation (TWh)": {
+     "type": "number",
+     "x-waargenomen": [
+      0.0,
+      10505.74
+     ],
+     "description": "Opwek in het jaar. Eenheid: TWh."
+    },
+    "Share of generation (%)": {
+     "type": "number",
+     "x-waargenomen": [
+      0.0,
+      100.003
+     ],
+     "description": "Aandeel in de totale opwek. Eenheid: procent."
+    },
+    "Emissions (MtCO2e)": {
+     "type": "number",
+     "x-waargenomen": [
+      0.0,
+      5956.718
+     ],
+     "description": "Uitstoot van de elektriciteitsopwek. Eenheid: megaton CO2-equivalent."
+    }
+   },
+   "required": [
+    "Area",
+    "Province",
+    "Year",
+    "Electricity source",
+    "Generation (TWh)",
+    "Share of generation (%)",
+    "Emissions (MtCO2e)"
+   ],
+   "x-rijen": 3308
+  },
+  "fact_ember_cleantech_export": {
+   "type": "object",
+   "description": "Een rij is (nog te beschrijven). Bron: Ember (CC BY 4.0).",
+   "properties": {
+    "Area": {
+     "type": "string",
+     "description": "Land of regio volgens Ember."
+    },
+    "Date": {
+     "type": "string",
+     "format": "date"
+    },
+    "Area type": {
+     "type": "string",
+     "enum": [
+      "Country or economy",
+      "Region"
+     ]
+    },
+    "Region": {
+     "type": [
+      "string",
+      "null"
+     ],
+     "enum": [
+      "Africa",
+      "Latin America and Caribbean",
+      "Europe",
+      "Asia",
+      "Oceania",
+      "Middle East",
+      "North America",
+      null
+     ]
+    },
+    "Commodity category": {
+     "type": "string",
+     "enum": [
+      "Solar PV",
+      "Batteries",
+      "EVs",
+      "Grid",
+      "Heating and cooling systems",
+      "Wind"
+     ]
+    },
+    "Amount (USD)": {
+     "type": "number",
+     "x-waargenomen": [
+      0.0,
+      12336521672.0
+     ]
+    },
+    "Amount 12 month rolling sum (USD)": {
+     "type": [
+      "number",
+      "null"
+     ],
+     "x-waargenomen": [
+      0.0,
+      105888452450.0
+     ]
+    }
+   },
+   "required": [
+    "Area",
+    "Date",
+    "Area type",
+    "Commodity category",
+    "Amount (USD)"
+   ],
+   "x-rijen": 137203
+  },
+  "fact_ember_doelen": {
+   "type": "object",
+   "description": "Een rij is (nog te beschrijven). Bron: Ember (CC BY 4.0).",
+   "properties": {
+    "COUNTRY_CODE": {
+     "type": "string"
+    },
+    "TARGET_YEAR": {
+     "type": "number",
+     "x-waargenomen": [
+      2022.0,
+      2050.0
+     ]
+    },
+    "FUEL_CATEGORY": {
+     "type": "string"
+    },
+    "METRIC": {
+     "type": "string",
+     "enum": [
+      "capacity_total_gw",
+      "generation_twh",
+      "share_of_generation_pct",
+      "capacity_additional_mw",
+      "demand_twh",
+      "share_of_consumption_pct",
+      "import_twh"
+     ]
+    },
+    "VALUE": {
+     "type": [
+      "number",
+      "null"
+     ],
+     "x-waargenomen": [
+      0.0,
+      31316.0
+     ]
+    },
+    "SOURCE_ID": {
+     "type": "number",
+     "x-waargenomen": [
+      1.0,
+      245.0
+     ]
+    },
+    "NUMBER_OF_UPDATES": {
+     "type": "number",
+     "x-waargenomen": [
+      1.0,
+      4.0
+     ]
+    },
+    "COLLECTION_YEAR": {
+     "type": "number",
+     "x-waargenomen": [
+      2023.0,
+      2026.0
+     ]
+    }
+   },
+   "required": [
+    "COUNTRY_CODE",
+    "TARGET_YEAR",
+    "FUEL_CATEGORY",
+    "METRIC",
+    "SOURCE_ID",
+    "NUMBER_OF_UPDATES",
+    "COLLECTION_YEAR"
+   ],
+   "x-rijen": 2229
+  },
+  "fact_ember_elektrificatie": {
+   "type": "object",
+   "description": "Een rij is (nog te beschrijven). Bron: Ember (CC BY 4.0).",
+   "properties": {
+    "YEAR": {
+     "type": "number",
+     "x-waargenomen": [
+      2000.0,
+      2025.0
+     ]
+    },
+    "COUNTRY_CODE": {
+     "type": [
+      "string",
+      "null"
+     ]
+    },
+    "COUNTRY_OR_REGION": {
+     "type": "string"
+    },
+    "SECTOR_NAME": {
+     "type": "string"
+    },
+    "PARENT_SECTOR_NAME": {
+     "type": [
+      "string",
+      "null"
+     ],
+     "enum": [
+      "Industry",
+      "All sectors",
+      "Transport",
+      "Other sectors",
+      "Buildings",
+      null
+     ]
+    },
+    "FUEL": {
+     "type": "string",
+     "enum": [
+      "Coal",
+      "Electricity",
+      "Gas",
+      "Heat",
+      "Oil",
+      "Other",
+      "Other fossil",
+      "Renewables"
+     ]
+    },
+    "CONSUMPTION_TWH": {
+     "type": "number",
+     "x-waargenomen": [
+      0.0,
+      4753.74
+     ]
+    },
+    "SHARE_OF_CONSUMPTION_PCT": {
+     "type": "number",
+     "x-waargenomen": [
+      0.0,
+      100.0
+     ]
+    }
+   },
+   "required": [
+    "YEAR",
+    "COUNTRY_OR_REGION",
+    "SECTOR_NAME",
+    "FUEL",
+    "CONSUMPTION_TWH",
+    "SHARE_OF_CONSUMPTION_PCT"
+   ],
+   "x-rijen": 127160
+  },
+  "fact_ember_ev_verkoop": {
+   "type": "object",
+   "description": "Een rij is (nog te beschrijven). Bron: Ember (CC BY 4.0).",
+   "properties": {
+    "Area": {
+     "type": "string",
+     "description": "Land of regio volgens Ember."
+    },
+    "ISO 3 code": {
+     "type": [
+      "string",
+      "null"
+     ],
+     "description": "Landcode volgens ISO 3166; leeg voor regio's."
+    },
+    "Date": {
+     "type": "string",
+     "format": "date"
+    },
+    "Drivetrain": {
+     "type": "string",
+     "enum": [
+      "Battery electric",
+      "Electric vehicle (BEV+PHEV)",
+      "All drivetrains",
+      "Plug-in hybrid",
+      "Hybrid",
+      "Petrol",
+      "Diesel",
+      "Other",
+      "Combustion (unspecified)",
+      "Ethanol/petrol blend"
+     ]
+    },
+    "Registrations": {
+     "type": "number",
+     "x-waargenomen": [
+      0.0,
+      8630681.0
+     ]
+    },
+    "Share of registrations (%)": {
+     "type": [
+      "number",
+      "null"
+     ],
+     "x-waargenomen": [
+      0.0,
+      100.0
+     ]
+    }
+   },
+   "required": [
+    "Area",
+    "Date",
+    "Drivetrain",
+    "Registrations"
+   ],
+   "x-rijen": 46411
+  },
+  "fact_ember_ev_vloot": {
+   "type": "object",
+   "description": "Een rij is (nog te beschrijven). Bron: Ember (CC BY 4.0).",
+   "properties": {
+    "Area": {
+     "type": "string",
+     "description": "Land of regio volgens Ember."
+    },
+    "ISO 3 code": {
+     "type": [
+      "string",
+      "null"
+     ],
+     "description": "Landcode volgens ISO 3166; leeg voor regio's."
+    },
+    "Area type": {
+     "type": "string",
+     "enum": [
+      "Country or economy",
+      "Region"
+     ]
+    },
+    "Latest available date": {
+     "type": "string",
+     "enum": [
+      "2026-09-01",
+      "2026-10-01",
+      "2026-06-01",
+      "2026-08-01",
+      "2026-07-01"
+     ]
+    },
+    "EV fleet (vehicles)": {
+     "type": "number",
+     "x-waargenomen": [
+      5411.0,
+      90583358.0
+     ]
+    },
+    "EV fleet electricity demand (GWh per year)": {
+     "type": "number",
+     "x-waargenomen": [
+      11.9,
+      235627.1
+     ]
+    },
+    "Oil displaced (thousand barrels of oil equivalent per year)": {
+     "type": "number",
+     "x-waargenomen": [
+      24.1,
+      525173.1
+     ]
+    },
+    "Value of oil displaced (USD million per year)": {
+     "type": "number",
+     "x-waargenomen": [
+      2.4,
+      52996.1
+     ]
+    },
+    "Brent price 6-month average (USD/bbl)": {
+     "type": "number",
+     "x-waargenomen": [
+      100.91,
+      100.91
+     ]
+    }
+   },
+   "required": [
+    "Area",
+    "Area type",
+    "Latest available date",
+    "EV fleet (vehicles)",
+    "EV fleet electricity demand (GWh per year)",
+    "Oil displaced (thousand barrels of oil equivalent per year)",
+    "Value of oil displaced (USD million per year)",
+    "Brent price 6-month average (USD/bbl)"
+   ],
+   "x-rijen": 61
+  },
+  "fact_ember_india_staat": {
+   "type": "object",
+   "description": "Een rij is (nog te beschrijven). Bron: Ember (CC BY 4.0).",
+   "properties": {
+    "State": {
+     "type": "string"
+    },
+    "State type": {
+     "type": "string",
+     "enum": [
+      "state",
+      "Union territory",
+      "total"
+     ]
+    },
+    "Year": {
+     "type": "number",
+     "x-waargenomen": [
+      2019.0,
+      2024.0
+     ],
+     "description": "Kalenderjaar. Eenheid: jaar."
+    },
+    "Category": {
+     "type": "string",
+     "enum": [
+      "Power sector emissions",
+      "Electricity generation",
+      "Capacity"
+     ]
+    },
+    "Subcategory": {
+     "type": "string",
+     "enum": [
+      "Fuel",
+      "Aggregate fuel",
+      "Total",
+      "CO2 intensity"
+     ]
+    },
+    "Variable": {
+     "type": "string"
+    },
+    "Unit": {
+     "type": "string",
+     "enum": [
+      "%",
+      "GWh",
+      "ktCO2",
+      "MW",
+      "gCO2/kWh"
+     ]
+    },
+    "Value": {
+     "type": [
+      "number",
+      "null"
+     ],
+     "x-waargenomen": [
+      0.0,
+      1804423.87
+     ]
+    }
+   },
+   "required": [
+    "State",
+    "State type",
+    "Year",
+    "Category",
+    "Subcategory",
+    "Variable",
+    "Unit"
+   ],
+   "x-rijen": 17214
+  },
+  "fact_ember_opwek": {
+   "type": "object",
+   "description": "Een rij is (nog te beschrijven). Bron: Ember (CC BY 4.0).",
+   "properties": {
+    "land": {
+     "type": "string",
+     "description": "Naam van het land of de biedzone in het Nederlands."
+    },
+    "iso3": {
+     "type": [
+      "string",
+      "null"
+     ],
+     "description": "Landcode volgens ISO 3166 (drie letters)."
+    },
+    "jaar": {
+     "type": "number",
+     "x-waargenomen": [
+      2000.0,
+      2025.0
+     ],
+     "description": "Kalenderjaar. 2026 is onvolledig (tot 15 november). Eenheid: jaar."
+    },
+    "bron": {
+     "type": "string",
+     "enum": [
+      "Other fossil",
+      "Solar",
+      "Bioenergy",
+      "Hydro",
+      "Coal",
+      "Gas",
+      "Wind",
+      "Net imports",
+      "Nuclear",
+      "Other renewables"
+     ]
+    },
+    "twh": {
+     "type": "number",
+     "x-waargenomen": [
+      -93.8,
+      10652.44
+     ],
+     "description": "Opwek in het jaar. Eenheid: TWh."
+    },
+    "aandeel_pct": {
+     "type": [
+      "number",
+      "null"
+     ],
+     "x-waargenomen": [
+      -88.54,
+      7533.33
+     ]
+    }
+   },
+   "required": [
+    "land",
+    "jaar",
+    "bron",
+    "twh"
+   ],
+   "x-rijen": 54651
+  },
+  "fact_ember_opwek_jaar": {
+   "type": "object",
+   "description": "Een rij is (nog te beschrijven). Bron: Ember (CC BY 4.0).",
+   "properties": {
+    "Area": {
+     "type": "string",
+     "description": "Land of regio volgens Ember."
+    },
+    "ISO 3 code": {
+     "type": [
+      "string",
+      "null"
+     ],
+     "description": "Landcode volgens ISO 3166; leeg voor regio's."
+    },
+    "Year": {
+     "type": "number",
+     "x-waargenomen": [
+      1985.0,
+      2025.0
+     ],
+     "description": "Kalenderjaar. Eenheid: jaar."
+    },
+    "Area type": {
+     "type": "string",
+     "enum": [
+      "Country or economy",
+      "Region"
+     ]
+    },
+    "Electricity source": {
+     "type": "string",
+     "description": "Opwekbron of saldo (Solar, Wind, Gas, Demand, Net imports)."
+    },
+    "Generation (TWh)": {
+     "type": "number",
+     "x-waargenomen": [
+      -93.8,
+      31925.357
+     ],
+     "description": "Opwek in het jaar. Eenheid: TWh."
+    },
+    "Share of generation (%)": {
+     "type": [
+      "number",
+      "null"
+     ],
+     "x-waargenomen": [
+      -88.54,
+      7633.333
+     ],
+     "description": "Aandeel in de totale opwek. Eenheid: procent."
+    },
+    "Capacity (GW)": {
+     "type": [
+      "number",
+      "null"
+     ],
+     "x-waargenomen": [
+      0.0,
+      10195.12
+     ],
+     "description": "Opgesteld vermogen. Eenheid: GW."
+    },
+    "Emissions (MtCO2e)": {
+     "type": [
+      "number",
+      "null"
+     ],
+     "x-waargenomen": [
+      0.0,
+      14697.803
+     ],
+     "description": "Uitstoot van de elektriciteitsopwek. Eenheid: megaton CO2-equivalent."
+    }
+   },
+   "required": [
+    "Area",
+    "Year",
+    "Area type",
+    "Electricity source",
+    "Generation (TWh)"
+   ],
+   "x-rijen": 85398
+  },
+  "fact_ember_opwek_maand": {
+   "type": "object",
+   "description": "Een rij is (nog te beschrijven). Bron: Ember (CC BY 4.0).",
+   "properties": {
+    "Area": {
+     "type": "string",
+     "description": "Land of regio volgens Ember."
+    },
+    "ISO 3 code": {
+     "type": "string",
+     "description": "Landcode volgens ISO 3166; leeg voor regio's."
+    },
+    "Date": {
+     "type": "string",
+     "format": "date"
+    },
+    "Electricity source": {
+     "type": "string",
+     "enum": [
+      "Clean",
+      "Total generation",
+      "Fossil",
+      "Wind",
+      "Gas",
+      "Solar",
+      "Coal"
+     ],
+     "description": "Opwekbron of saldo (Solar, Wind, Gas, Demand, Net imports)."
+    },
+    "Generation (TWh)": {
+     "type": "number",
+     "x-waargenomen": [
+      0.0,
+      1026.466
+     ],
+     "description": "Opwek in het jaar. Eenheid: TWh."
+    },
+    "Share of generation (%)": {
+     "type": "number",
+     "x-waargenomen": [
+      0.0,
+      100.025
+     ],
+     "description": "Aandeel in de totale opwek. Eenheid: procent."
+    }
+   },
+   "required": [
+    "Area",
+    "ISO 3 code",
+    "Date",
+    "Electricity source",
+    "Generation (TWh)",
+    "Share of generation (%)"
+   ],
+   "x-rijen": 31337
+  },
+  "fact_ember_prijs_dag": {
+   "type": "object",
+   "description": "Een rij is (nog te beschrijven). Bron: Ember (CC BY 4.0).",
+   "properties": {
+    "land": {
+     "type": "string",
+     "description": "Naam van het land of de biedzone in het Nederlands."
+    },
+    "iso3": {
+     "type": "string",
+     "description": "Landcode volgens ISO 3166 (drie letters)."
+    },
+    "datum": {
+     "type": "string",
+     "format": "date"
+    },
+    "prijs": {
+     "type": [
+      "number",
+      "null"
+     ],
+     "x-waargenomen": [
+      -202.29,
+      888.09
+     ]
+    }
+   },
+   "required": [
+    "land",
+    "iso3",
+    "datum"
+   ],
+   "x-rijen": 123425
+  },
+  "fact_ember_prijs_maand": {
+   "type": "object",
+   "description": "Een rij is (nog te beschrijven). Bron: Ember (CC BY 4.0).",
+   "properties": {
+    "land": {
+     "type": "string",
+     "description": "Naam van het land of de biedzone in het Nederlands."
+    },
+    "iso3": {
+     "type": "string",
+     "description": "Landcode volgens ISO 3166 (drie letters)."
+    },
+    "datum": {
+     "type": "string",
+     "format": "date"
+    },
+    "prijs": {
+     "type": [
+      "number",
+      "null"
+     ],
+     "x-waargenomen": [
+      1.85,
+      543.55
+     ]
+    }
+   },
+   "required": [
+    "land",
+    "iso3",
+    "datum"
+   ],
+   "x-rijen": 4077
+  },
+  "fact_ember_vs_staat": {
+   "type": "object",
+   "description": "Een rij is (nog te beschrijven). Bron: Ember (CC BY 4.0).",
+   "properties": {
+    "Area": {
+     "type": "string",
+     "enum": [
+      "United States"
+     ],
+     "description": "Land of regio volgens Ember."
+    },
+    "State": {
+     "type": "string"
+    },
+    "Year": {
+     "type": "number",
+     "x-waargenomen": [
+      2001.0,
+      2025.0
+     ],
+     "description": "Kalenderjaar. Eenheid: jaar."
+    },
+    "Electricity source": {
+     "type": "string",
+     "enum": [
+      "Fossil",
+      "Total generation",
+      "Clean",
+      "Gas",
+      "Coal",
+      "Wind",
+      "Solar"
+     ],
+     "description": "Opwekbron of saldo (Solar, Wind, Gas, Demand, Net imports)."
+    },
+    "Generation (TWh)": {
+     "type": "number",
+     "x-waargenomen": [
+      -0.019,
+      4519.79
+     ],
+     "description": "Opwek in het jaar. Eenheid: TWh."
+    },
+    "Share of generation (%)": {
+     "type": [
+      "number",
+      "null"
+     ],
+     "x-waargenomen": [
+      -0.121,
+      100.297
+     ],
+     "description": "Aandeel in de totale opwek. Eenheid: procent."
+    },
+    "Emissions (MtCO2e)": {
+     "type": "number",
+     "x-waargenomen": [
+      -0.018,
+      2478.67
+     ],
+     "description": "Uitstoot van de elektriciteitsopwek. Eenheid: megaton CO2-equivalent."
+    }
+   },
+   "required": [
+    "Area",
+    "State",
+    "Year",
+    "Electricity source",
+    "Generation (TWh)",
+    "Emissions (MtCO2e)"
+   ],
+   "x-rijen": 8119
+  },
+  "fact_ember_zon_import": {
+   "type": "object",
+   "description": "Een rij is (nog te beschrijven). Bron: Ember (CC BY 4.0).",
+   "properties": {
+    "Area": {
+     "type": "string",
+     "description": "Land of regio volgens Ember."
+    },
+    "Date": {
+     "type": "string",
+     "format": "date"
+    },
+    "Region": {
+     "type": [
+      "string",
+      "null"
+     ],
+     "enum": [
+      "Africa",
+      "Europe",
+      "Asia",
+      "Latin America and Caribbean",
+      "Middle East",
+      "Oceania",
+      "North America",
+      null
+     ]
+    },
+    "Commodity type": {
+     "type": "string",
+     "enum": [
+      "Panels",
+      "Cells",
+      "Wafers"
+     ]
+    },
+    "Amount (USD)": {
+     "type": "number",
+     "x-waargenomen": [
+      0.0,
+      4816624349.0
+     ]
+    },
+    "Commodity price": {
+     "type": "number",
+     "x-waargenomen": [
+      0.03,
+      1.3
+     ]
+    },
+    "Capacity (MW)": {
+     "type": "number",
+     "x-waargenomen": [
+      0.0,
+      32253.05
+     ]
+    }
+   },
+   "required": [
+    "Area",
+    "Date",
+    "Commodity type",
+    "Amount (USD)",
+    "Commodity price",
+    "Capacity (MW)"
+   ],
+   "x-rijen": 31624
+  },
+  "fact_erosie": {
+   "type": "object",
+   "description": "Een rij is (nog te beschrijven). Bron: eigen berekening.",
+   "properties": {
+    "erosie": {
+     "type": "number",
+     "x-waargenomen": [
+      0.0,
+      0.03
+     ]
+    },
+    "irr": {
+     "type": "number",
+     "x-waargenomen": [
+      0.0266197840869426,
+      0.0719853167235851
+     ],
+     "description": "Intern rendement van het project. Eenheid: fractie per jaar."
+    },
+    "irr_na_belasting": {
+     "type": "number",
+     "x-waargenomen": [
+      0.01671978905797,
+      0.0553557400405406
+     ]
+    }
+   },
+   "required": [
+    "erosie",
+    "irr",
+    "irr_na_belasting"
+   ],
+   "x-rijen": 4
+  },
+  "fact_fcr_nl": {
+   "type": "object",
+   "description": "Een rij is een blok van vier uur: prijs van primaire reserve (FCR). Bron: ENTSO-E (document A84).",
+   "properties": {
+    "vanaf_utc": {
+     "type": "string",
+     "format": "date-time"
+    },
+    "prijs_eur_mw_uur": {
+     "type": "number",
+     "x-waargenomen": [
+      2.78,
+      19444.252
+     ],
+     "description": "Prijs van FCR-vermogen per MW per uur, per blok van vier uur. Eenheid: euro per MW per uur."
+    }
+   },
+   "required": [
+    "vanaf_utc",
+    "prijs_eur_mw_uur"
+   ],
+   "x-rijen": 8255
+  },
+  "fact_flex_land": {
+   "type": "object",
+   "description": "Een rij is een land in een jaar voor een batterij van 1, 2 of 4 uur. Bron: eigen berekening op Energy-Charts-prijzen.",
+   "properties": {
+    "land": {
+     "type": "string",
+     "description": "Naam van het land of de biedzone in het Nederlands."
+    },
+    "jaar": {
+     "type": "number",
+     "x-waargenomen": [
+      2019.0,
+      2026.0
+     ],
+     "description": "Kalenderjaar. 2026 is onvolledig (tot 15 november). Eenheid: jaar."
+    },
+    "uren_opslag": {
+     "type": "number",
+     "x-waargenomen": [
+      1.0,
+      4.0
+     ],
+     "minimum": 1,
+     "maximum": 4,
+     "description": "Duur van de batterij: uren ontladen op vol vermogen. Eenheid: uur."
+    },
+    "omzet_perfect_per_mw": {
+     "type": "number",
+     "x-waargenomen": [
+      579.7640000000005,
+      204504.5119340659
+     ],
+     "description": "Dagmarktomzet van de batterij met kennis vooraf van alle prijzen (bovengrens). Eenheid: euro per MW per jaar."
+    },
+    "omzet_realistisch_per_mw": {
+     "type": "number",
+     "x-waargenomen": [
+      294.2329175824176,
+      182594.999022082
+     ],
+     "description": "Dagmarktomzet van de batterij met een plan op de prijzen van gisteren. Eenheid: euro per MW per jaar."
+    },
+    "voorspel_ratio": {
+     "type": "number",
+     "x-waargenomen": [
+      0.3513404517416723,
+      0.9590966647420625
+     ],
+     "minimum": 0,
+     "maximum": 1.0001,
+     "description": "Realistische omzet gedeeld door de omzet met kennis vooraf. Eenheid: verhouding."
+    },
+    "irr_realistisch": {
+     "type": [
+      "number",
+      "null"
+     ],
+     "x-waargenomen": [
+      -0.320820941478014,
+      0.1032265029847621
+     ],
+     "description": "IRR van de batterij bij de realistische dagmarktomzet. Eenheid: fractie per jaar."
+    }
+   },
+   "required": [
+    "land",
+    "jaar",
+    "uren_opslag",
+    "omzet_perfect_per_mw",
+    "omzet_realistisch_per_mw",
+    "voorspel_ratio"
+   ],
+   "x-rijen": 888
+  },
+  "fact_gas_henryhub": {
+   "type": "object",
+   "description": "Een rij is een dag: gasprijs Henry Hub. Bron: EIA.",
+   "properties": {
+    "datum": {
+     "type": "string",
+     "format": "date"
+    },
+    "usd_mmbtu": {
+     "type": [
+      "number",
+      "null"
+     ],
+     "x-waargenomen": [
+      1.21,
+      30.72
+     ]
+    }
+   },
+   "required": [
+    "datum"
+   ],
+   "x-rijen": 4259
+  },
+  "fact_gasprijs_maand": {
+   "type": "object",
+   "description": "Een rij is een maand: de Europese gasprijs in dollar per MMBtu en in euro per MWh. Bron: IMF en Federal Reserve via FRED.",
+   "properties": {
+    "periode": {
+     "type": "string",
+     "format": "date"
+    },
+    "jaar": {
+     "type": "number",
+     "x-waargenomen": [
+      2018.0,
+      2026.0
+     ],
+     "description": "Kalenderjaar. 2026 is onvolledig (tot 15 november). Eenheid: jaar."
+    },
+    "maand": {
+     "type": "number",
+     "x-waargenomen": [
+      1.0,
+      12.0
+     ],
+     "minimum": 1,
+     "maximum": 12,
+     "description": "Kalendermaand, 1 tot 12 (UTC). Eenheid: maand."
+    },
+    "eu_gas_usd_mmbtu": {
+     "type": [
+      "number",
+      "null"
+     ],
+     "x-waargenomen": [
+      1.463,
+      69.977
+     ]
+    },
+    "usd_per_eur": {
+     "type": [
+      "number",
+      "null"
+     ],
+     "x-waargenomen": [
+      0.9853,
+      1.234
+     ]
+    },
+    "eu_gas_eur_mwh": {
+     "type": "number",
+     "x-waargenomen": [
+      4.5768,
+      235.7305
+     ]
+    },
+    "voorlopig": {
+     "type": "string",
+     "enum": [
+      "False",
+      "True"
+     ]
+    },
+    "bron": {
+     "type": "string",
+     "enum": [
+      "FRED (IMF PNGASEUUSDM; Fed EXUSEU)",
+      "IMF-reeks oktober 2026 (28,98 dollar per MMBtu, via cbonds), koers 1,1198",
+      "gemiddelde van de dagprijzen tot half november, indicatie"
+     ]
+    }
+   },
+   "required": [
+    "periode",
+    "jaar",
+    "maand",
+    "eu_gas_eur_mwh",
+    "voorlopig",
+    "bron"
+   ],
+   "x-rijen": 107
+  },
+  "fact_grensstromen_nl": {
+   "type": "object",
+   "description": "Een rij is (nog te beschrijven). Bron: eigen berekening.",
+   "properties": {
+    "jaar": {
+     "type": "number",
+     "x-waargenomen": [
+      2019.0,
+      2026.0
+     ],
+     "description": "Kalenderjaar. 2026 is onvolledig (tot 15 november). Eenheid: jaar."
+    },
+    "maand": {
+     "type": "number",
+     "x-waargenomen": [
+      1.0,
+      12.0
+     ],
+     "minimum": 1,
+     "maximum": 12,
+     "description": "Kalendermaand, 1 tot 12 (UTC). Eenheid: maand."
+    },
+    "land": {
+     "type": "string",
+     "enum": [
+      "Belgium",
+      "Germany",
+      "Norway",
+      "United Kingdom",
+      "sum",
+      "Denmark"
+     ],
+     "description": "Naam van het land of de biedzone in het Nederlands."
+    },
+    "netto_import_twh": {
+     "type": "number",
+     "x-waargenomen": [
+      -2.25465625,
+      1.046787
+     ]
+    }
+   },
+   "required": [
+    "jaar",
+    "maand",
+    "land",
+    "netto_import_twh"
+   ],
+   "x-rijen": 566
+  },
+  "fact_herijking": {
+   "type": "object",
+   "description": "Een rij is (nog te beschrijven). Bron: eigen berekening.",
+   "properties": {
+    "jaar": {
+     "type": "number",
+     "x-waargenomen": [
+      2023.0,
+      2026.0
+     ],
+     "description": "Kalenderjaar. 2026 is onvolledig (tot 15 november). Eenheid: jaar."
+    },
+    "methode": {
+     "type": "string",
+     "enum": [
+      "Opwekdata Energy-Charts",
+      "Instralingsprofiel, niet afschakelen",
+      "Instralingsprofiel, afschakelen bij negatieve prijs"
+     ]
+    },
+    "vollasturen": {
+     "type": "number",
+     "x-waargenomen": [
+      740.0,
+      950.0
+     ],
+     "description": "Vollasturen van zon per jaar. Eenheid: uur per jaar."
+    },
+    "capture_rate": {
+     "type": "number",
+     "x-waargenomen": [
+      0.5237,
+      0.7563
+     ],
+     "minimum": 0,
+     "maximum": 5,
+     "description": "Capture rate van de genoemde techniek of brandstof. Eenheid: verhouding."
+    },
+    "capture_prijs": {
+     "type": "number",
+     "x-waargenomen": [
+      43.44,
+      72.47
+     ]
+    },
+    "irr_voor_belasting": {
+     "type": "number",
+     "x-waargenomen": [
+      -0.016,
+      0.1032
+     ]
+    }
+   },
+   "required": [
+    "jaar",
+    "methode",
+    "vollasturen",
+    "capture_rate",
+    "capture_prijs",
+    "irr_voor_belasting"
+   ],
+   "x-rijen": 24
+  },
+  "fact_importpotentieel": {
+   "type": "object",
+   "description": "Een rij is (nog te beschrijven). Bron: eigen berekening.",
+   "properties": {
+    "land": {
+     "type": "string",
+     "description": "Naam van het land of de biedzone in het Nederlands."
+    },
+    "peiljaar": {
+     "type": "number",
+     "x-waargenomen": [
+      2030.0,
+      2040.0
+     ]
+    },
+    "scenario": {
+     "type": "string",
+     "enum": [
+      "Huidig (2024)",
+      "Reference",
+      "Projects",
+      "Needs"
+     ]
+    },
+    "waarde": {
+     "type": "number",
+     "x-waargenomen": [
+      0.0,
+      925.26
+     ]
+    }
+   },
+   "required": [
+    "land",
+    "peiljaar",
+    "scenario",
+    "waarde"
+   ],
+   "x-rijen": 368
+  },
+  "fact_instraling_wereld": {
+   "type": "object",
+   "description": "Een rij is (nog te beschrijven). Bron: eigen berekening.",
+   "properties": {
+    "locatie": {
+     "type": "string"
+    },
+    "jaar": {
+     "type": "number",
+     "x-waargenomen": [
+      2015.0,
+      2025.0
+     ],
+     "description": "Kalenderjaar. 2026 is onvolledig (tot 15 november). Eenheid: jaar."
+    },
+    "ghi_kwh_m2": {
+     "type": "number",
+     "x-waargenomen": [
+      991.7949999999996,
+      2391.6258999999977
+     ]
+    },
+    "vollasturen_schatting": {
+     "type": "number",
+     "x-waargenomen": [
+      793.4359999999997,
+      1913.3007199999984
+     ]
+    }
+   },
+   "required": [
+    "locatie",
+    "jaar",
+    "ghi_kwh_m2",
+    "vollasturen_schatting"
+   ],
+   "x-rijen": 264
+  },
+  "fact_jcurve": {
+   "type": "object",
+   "description": "Een rij is (nog te beschrijven). Bron: eigen berekening.",
+   "properties": {
+    "jaar": {
+     "type": "number",
+     "x-waargenomen": [
+      0.0,
+      10.0
+     ],
+     "description": "Kalenderjaar. 2026 is onvolledig (tot 15 november). Eenheid: jaar."
+    },
+    "cumulatief_lp": {
+     "type": "number",
+     "x-waargenomen": [
+      -112.0,
+      31.751509747024535
+     ]
+    }
+   },
+   "required": [
+    "jaar",
+    "cumulatief_lp"
+   ],
+   "x-rijen": 11
+  },
+  "fact_kernenergie_land_jaar": {
+   "type": "object",
+   "description": "Een rij is een biedzone met kernenergie in een jaar. Bron: Energy-Charts; eigen berekening (eti.kernenergie).",
+   "properties": {
+    "land": {
+     "type": "string",
+     "description": "Naam van het land of de biedzone in het Nederlands."
+    },
+    "biedzone": {
+     "type": "string",
+     "description": "Code van de biedzone (NL, DE-LU, IT-North, NO1)."
+    },
+    "jaar": {
+     "type": "number",
+     "x-waargenomen": [
+      2015.0,
+      2026.0
+     ],
+     "description": "Kalenderjaar. 2026 is onvolledig (tot 15 november). Eenheid: jaar."
+    },
+    "uren": {
+     "type": "number",
+     "x-waargenomen": [
+      2518.0,
+      8784.0
+     ],
+     "minimum": 0,
+     "maximum": 8784,
+     "description": "Aantal uren met een prijs in de periode. Eenheid: uren."
+    },
+    "kern_twh": {
+     "type": "number",
+     "x-waargenomen": [
+      2.810550125,
+      377.911009
+     ],
+     "description": "Opwek uit kernenergie in het jaar. Eenheid: TWh."
+    },
+    "aandeel_kern": {
+     "type": "number",
+     "x-waargenomen": [
+      0.0268984582540244,
+      0.7169158847765379
+     ],
+     "minimum": 0,
+     "maximum": 1.0001,
+     "description": "Aandeel van kernenergie in de opwek. Eenheid: fractie."
+    },
+    "gem_prijs": {
+     "type": "number",
+     "x-waargenomen": [
+      21.187567167577413,
+      281.63973401826485
+     ],
+     "description": "Gemiddelde dagmarktprijs over alle uren van de periode. Eenheid: euro per MWh."
+    },
+    "capture_price_kern": {
+     "type": "number",
+     "x-waargenomen": [
+      20.47070421971997,
+      282.98295783992825
+     ]
+    },
+    "capture_kern": {
+     "type": "number",
+     "x-waargenomen": [
+      0.8368043688330181,
+      1.081098764443713
+     ],
+     "description": "Capture rate van kernenergie. Eenheid: verhouding."
+    },
+    "negatieve_uren": {
+     "type": "number",
+     "x-waargenomen": [
+      0.0,
+      761.0
+     ],
+     "minimum": 0,
+     "maximum": 8784,
+     "description": "Aantal uren met een dagmarktprijs onder nul. Eenheid: uren."
+    },
+    "aandeel_in_negatieve_uren": {
+     "type": "number",
+     "x-waargenomen": [
+      0.0,
+      0.0936455944546342
+     ],
+     "minimum": 0,
+     "maximum": 1.0001,
+     "description": "Deel van de opwek van deze bron dat in uren met een negatieve prijs valt. Eenheid: fractie."
+    },
+    "productie_bij_negatieve_prijs": {
+     "type": [
+      "number",
+      "null"
+     ],
+     "x-waargenomen": [
+      0.8196686194563321,
+      1.0476532808133745
+     ]
+    },
+    "dagen_met_negatieve_prijs": {
+     "type": "number",
+     "x-waargenomen": [
+      0.0,
+      119.0
+     ]
+    },
+    "daguitslag_mediaan": {
+     "type": "number",
+     "x-waargenomen": [
+      0.0017250053906417,
+      0.1330520186089689
+     ]
+    },
+    "benutting_tov_top": {
+     "type": "number",
+     "x-waargenomen": [
+      0.2009417968899087,
+      0.9769943919008616
+     ]
+    },
+    "benutting_tov_vermogen": {
+     "type": [
+      "number",
+      "null"
+     ],
+     "x-waargenomen": [
+      0.5171607785789567,
+      1.253888587799796
+     ]
+    },
+    "capture_zon": {
+     "type": [
+      "number",
+      "null"
+     ],
+     "x-waargenomen": [
+      0.5110760596611609,
+      1.2256337061758522
+     ],
+     "minimum": 0,
+     "maximum": 2,
+     "description": "Capture rate van zon: de prijs die zon ontvangt (gewogen naar opwek) gedeeld door de gemiddelde prijs. Eenheid: verhouding."
+    },
+    "capture_wind": {
+     "type": [
+      "number",
+      "null"
+     ],
+     "x-waargenomen": [
+      0.5512350950498067,
+      1.1121250566801917
+     ],
+     "minimum": 0,
+     "maximum": 2,
+     "description": "Capture rate van wind, zelfde definitie als voor zon. Eenheid: verhouding."
+    }
+   },
+   "required": [
+    "land",
+    "biedzone",
+    "jaar",
+    "uren",
+    "kern_twh",
+    "aandeel_kern",
+    "gem_prijs",
+    "capture_price_kern",
+    "capture_kern",
+    "negatieve_uren",
+    "aandeel_in_negatieve_uren",
+    "dagen_met_negatieve_prijs",
+    "daguitslag_mediaan",
+    "benutting_tov_top"
+   ],
+   "x-rijen": 113
+  },
+  "fact_kernenergie_verband": {
+   "type": "object",
+   "description": "Een rij is een rangcorrelatie tussen het kernaandeel en een marktmaat. Bron: eigen berekening.",
+   "properties": {
+    "verband": {
+     "type": "string",
+     "enum": [
+      "aandeel kernenergie en dagspreiding",
+      "aandeel kernenergie en batterij-omzet 2 uur",
+      "aandeel kernenergie en capture rate zon",
+      "aandeel kernenergie en negatieve uren"
+     ]
+    },
+    "alle_landjaren": {
+     "type": "number",
+     "x-waargenomen": [
+      -0.0634091776030562,
+      0.2130772295862623
+     ]
+    },
+    "binnen_jaren": {
+     "type": "number",
+     "x-waargenomen": [
+      -0.1916277144738671,
+      0.2992916685313301
+     ]
+    },
+    "landjaren": {
+     "type": "number",
+     "x-waargenomen": [
+      182.0,
+      182.0
+     ]
+    },
+    "landen": {
+     "type": "number",
+     "x-waargenomen": [
+      26.0,
+      26.0
+     ]
+    }
+   },
+   "required": [
+    "verband",
+    "alle_landjaren",
+    "binnen_jaren",
+    "landjaren",
+    "landen"
+   ],
+   "x-rijen": 4
+  },
+  "fact_klimaatscenario": {
+   "type": "object",
+   "description": "Een rij is (nog te beschrijven). Bron: eigen berekening.",
+   "properties": {
+    "scenario": {
+     "type": "string",
+     "enum": [
+      "Basis",
+      "Orderly",
+      "Fysiek",
+      "Disorderly"
+     ]
+    },
+    "npv_eur": {
+     "type": "number",
+     "x-waargenomen": [
+      -2661393.939935651,
+      155870.3856001159
+     ]
+    },
+    "irr": {
+     "type": "number",
+     "x-waargenomen": [
+      0.0369871746003627,
+      0.0719853167235851
+     ],
+     "description": "Intern rendement van het project. Eenheid: fractie per jaar."
+    }
+   },
+   "required": [
+    "scenario",
+    "npv_eur",
+    "irr"
+   ],
+   "x-rijen": 4
+  },
+  "fact_kpi": {
+   "type": "object",
+   "description": "Een rij is (nog te beschrijven). Bron: eigen berekening.",
+   "properties": {
+    "project": {
+     "type": "string",
+     "enum": [
+      "Zon",
+      "Batterij",
+      "Impact",
+      "Portefeuille"
+     ]
+    },
+    "kpi": {
+     "type": "string"
+    },
+    "waarde": {
+     "type": "number",
+     "x-waargenomen": [
+      -0.0391615785658359,
+      473291.75045454554
+     ]
+    }
+   },
+   "required": [
+    "project",
+    "kpi",
+    "waarde"
+   ],
+   "x-rijen": 15
+  },
+  "fact_kwartier_batterij": {
+   "type": "object",
+   "description": "Een rij is (nog te beschrijven). Bron: eigen berekening.",
+   "properties": {
+    "land": {
+     "type": "string",
+     "description": "Naam van het land of de biedzone in het Nederlands."
+    },
+    "dagen": {
+     "type": "number",
+     "x-waargenomen": [
+      384.0,
+      391.0
+     ]
+    },
+    "uren_opslag": {
+     "type": "number",
+     "x-waargenomen": [
+      1.0,
+      2.0
+     ],
+     "minimum": 1,
+     "maximum": 4,
+     "description": "Duur van de batterij: uren ontladen op vol vermogen. Eenheid: uur."
+    },
+    "omzet_uur_per_mw": {
+     "type": "number",
+     "x-waargenomen": [
+      18664.70473046874,
+      100279.55041428568
+     ]
+    },
+    "omzet_kwartier_per_mw": {
+     "type": "number",
+     "x-waargenomen": [
+      19574.465044270833,
+      104950.746087013
+     ]
+    },
+    "uplift": {
+     "type": "number",
+     "x-waargenomen": [
+      0.0147599465739918,
+      0.0803545313025757
+     ]
+    }
+   },
+   "required": [
+    "land",
+    "dagen",
+    "uren_opslag",
+    "omzet_uur_per_mw",
+    "omzet_kwartier_per_mw",
+    "uplift"
+   ],
+   "x-rijen": 38
+  },
+  "fact_land_jaar": {
+   "type": "object",
+   "description": "Een rij is een biedzone in een jaar: prijs, marktwaarde van zon en wind, negatieve uren. Bron: Energy-Charts (prijs, opwek), Open-Meteo (instraling), Ember (aandelen).",
+   "properties": {
+    "land": {
+     "type": "string",
+     "description": "Naam van het land of de biedzone in het Nederlands."
+    },
+    "biedzone": {
+     "type": "string",
+     "description": "Code van de biedzone (NL, DE-LU, IT-North, NO1)."
+    },
+    "jaar": {
+     "type": "number",
+     "x-waargenomen": [
+      2019.0,
+      2026.0
+     ],
+     "description": "Kalenderjaar. 2026 is onvolledig (tot 15 november). Eenheid: jaar."
+    },
+    "gem_prijs": {
+     "type": "number",
+     "x-waargenomen": [
+      8.716303230962438,
+      307.8148721461187
+     ],
+     "description": "Gemiddelde dagmarktprijs over alle uren van de periode. Eenheid: euro per MWh."
+    },
+    "mediaan_prijs": {
+     "type": "number",
+     "x-waargenomen": [
+      3.53,
+      266.69
+     ],
+     "description": "Mediaan van de uurprijzen. Eenheid: euro per MWh."
+    },
+    "capture_zon": {
+     "type": "number",
+     "x-waargenomen": [
+      0.4740995669924466,
+      1.2256337061758522
+     ],
+     "minimum": 0,
+     "maximum": 2,
+     "description": "Capture rate van zon: de prijs die zon ontvangt (gewogen naar opwek) gedeeld door de gemiddelde prijs. Eenheid: verhouding."
+    },
+    "capture_wind": {
+     "type": [
+      "number",
+      "null"
+     ],
+     "x-waargenomen": [
+      0.5512350950498067,
+      1.1201498234160634
+     ],
+     "minimum": 0,
+     "maximum": 2,
+     "description": "Capture rate van wind, zelfde definitie als voor zon. Eenheid: verhouding."
+    },
+    "negatieve_uren": {
+     "type": "number",
+     "x-waargenomen": [
+      0.0,
+      725.0
+     ],
+     "minimum": 0,
+     "maximum": 8784,
+     "description": "Aantal uren met een dagmarktprijs onder nul. Eenheid: uren."
+    },
+    "uren_boven_200": {
+     "type": "number",
+     "x-waargenomen": [
+      0.0,
+      7097.0
+     ],
+     "description": "Aantal uren met een prijs boven 200 euro per MWh. Eenheid: uren."
+    },
+    "dagspreiding": {
+     "type": "number",
+     "x-waargenomen": [
+      3.144508196721312,
+      250.78290410958903
+     ],
+     "minimum": 0,
+     "maximum": 5000,
+     "description": "Gemiddeld verschil tussen de hoogste en laagste uurprijs van een dag. Eenheid: euro per MWh."
+    },
+    "aandeel_zon": {
+     "type": [
+      "number",
+      "null"
+     ],
+     "x-waargenomen": [
+      0.0,
+      0.27123
+     ],
+     "minimum": 0,
+     "maximum": 1.0001,
+     "description": "Aandeel van zon in de opwek volgens ENTSO-E. Eenheid: fractie."
+    },
+    "aandeel_wind": {
+     "type": [
+      "number",
+      "null"
+     ],
+     "x-waargenomen": [
+      0.0,
+      0.58378
+     ],
+     "minimum": 0,
+     "maximum": 1.0001,
+     "description": "Aandeel van wind in de opwek volgens ENTSO-E. Eenheid: fractie."
+    },
+    "uren": {
+     "type": "number",
+     "x-waargenomen": [
+      7375.0,
+      8784.0
+     ],
+     "minimum": 0,
+     "maximum": 8784,
+     "description": "Aantal uren met een prijs in de periode. Eenheid: uren."
+    },
+    "iso3": {
+     "type": "string",
+     "description": "Landcode volgens ISO 3166 (drie letters)."
+    },
+    "aandeel_zon_energycharts": {
+     "type": "number",
+     "x-waargenomen": [
+      0.0,
+      0.3099526456341488
+     ],
+     "minimum": 0,
+     "maximum": 1.0001,
+     "description": "Aandeel van zon in de opwek volgens Energy-Charts. Eenheid: fractie."
+    },
+    "aandeel_wind_energycharts": {
+     "type": "number",
+     "x-waargenomen": [
+      0.0,
+      0.5975730261389067
+     ],
+     "minimum": 0,
+     "maximum": 1.0001,
+     "description": "Aandeel van wind in de opwek volgens Energy-Charts. Eenheid: fractie."
+    },
+    "capture_bron": {
+     "type": "string",
+     "enum": [
+      "opwek (Energy-Charts)",
+      "instraling (Open-Meteo, proxy)"
+     ],
+     "description": "Waar het opwekprofiel vandaan komt: gemeten opwek of een schatting uit instraling."
+    },
+    "zon_dekking": {
+     "type": [
+      "number",
+      "null"
+     ],
+     "x-waargenomen": [
+      0.083,
+      1.0
+     ]
+    },
+    "capture_zon_gemeten": {
+     "type": [
+      "number",
+      "null"
+     ],
+     "x-waargenomen": [
+      0.5662844778917275,
+      3.5075122251226696
+     ]
+    }
+   },
+   "required": [
+    "land",
+    "biedzone",
+    "jaar",
+    "gem_prijs",
+    "mediaan_prijs",
+    "capture_zon",
+    "negatieve_uren",
+    "uren_boven_200",
+    "dagspreiding",
+    "uren",
+    "iso3",
+    "aandeel_zon_energycharts",
+    "aandeel_wind_energycharts",
+    "capture_bron"
+   ],
+   "x-rijen": 296
+  },
+  "fact_land_maand": {
+   "type": "object",
+   "description": "Een rij is een biedzone in een maand. Bron: Energy-Charts, Open-Meteo.",
+   "properties": {
+    "land": {
+     "type": "string",
+     "description": "Naam van het land of de biedzone in het Nederlands."
+    },
+    "jaar": {
+     "type": "number",
+     "x-waargenomen": [
+      2019.0,
+      2026.0
+     ],
+     "description": "Kalenderjaar. 2026 is onvolledig (tot 15 november). Eenheid: jaar."
+    },
+    "maand": {
+     "type": "number",
+     "x-waargenomen": [
+      1.0,
+      12.0
+     ],
+     "minimum": 1,
+     "maximum": 12,
+     "description": "Kalendermaand, 1 tot 12 (UTC). Eenheid: maand."
+    },
+    "gem_prijs": {
+     "type": "number",
+     "x-waargenomen": [
+      0.9396527777777778,
+      547.9468817204302
+     ],
+     "description": "Gemiddelde dagmarktprijs over alle uren van de periode. Eenheid: euro per MWh."
+    },
+    "capture_zon": {
+     "type": [
+      "number",
+      "null"
+     ],
+     "x-waargenomen": [
+      0.1025418835703,
+      1.8135076280511424
+     ],
+     "minimum": 0,
+     "maximum": 2,
+     "description": "Capture rate van zon: de prijs die zon ontvangt (gewogen naar opwek) gedeeld door de gemiddelde prijs. Eenheid: verhouding."
+    },
+    "capture_wind": {
+     "type": [
+      "number",
+      "null"
+     ],
+     "x-waargenomen": [
+      0.3192713988940894,
+      1.2664440480072603
+     ],
+     "minimum": 0,
+     "maximum": 2,
+     "description": "Capture rate van wind, zelfde definitie als voor zon. Eenheid: verhouding."
+    },
+    "negatieve_uren": {
+     "type": "number",
+     "x-waargenomen": [
+      0.0,
+      239.0
+     ],
+     "minimum": 0,
+     "maximum": 8784,
+     "description": "Aantal uren met een dagmarktprijs onder nul. Eenheid: uren."
+    },
+    "dagspreiding": {
+     "type": "number",
+     "x-waargenomen": [
+      0.3635483870967742,
+      573.0429032258064
+     ],
+     "minimum": 0,
+     "maximum": 5000,
+     "description": "Gemiddeld verschil tussen de hoogste en laagste uurprijs van een dag. Eenheid: euro per MWh."
+    }
+   },
+   "required": [
+    "land",
+    "jaar",
+    "maand",
+    "gem_prijs",
+    "negatieve_uren",
+    "dagspreiding"
+   ],
+   "x-rijen": 3515
+  },
+  "fact_land_profiel_maand": {
+   "type": "object",
+   "description": "Een rij is (nog te beschrijven). Bron: Energy-Charts.",
+   "properties": {
+    "land": {
+     "type": "string",
+     "description": "Naam van het land of de biedzone in het Nederlands."
+    },
+    "jaar": {
+     "type": "number",
+     "x-waargenomen": [
+      2024.0,
+      2040.0
+     ],
+     "description": "Kalenderjaar. 2026 is onvolledig (tot 15 november). Eenheid: jaar."
+    },
+    "maand": {
+     "type": "number",
+     "x-waargenomen": [
+      1.0,
+      12.0
+     ],
+     "minimum": 1,
+     "maximum": 12,
+     "description": "Kalendermaand, 1 tot 12 (UTC). Eenheid: maand."
+    },
+    "res_e": {
+     "type": "number",
+     "x-waargenomen": [
+      0.0,
+      85.12
+     ]
+    },
+    "net_p": {
+     "type": "number",
+     "x-waargenomen": [
+      -89.97,
+      122.41
+     ]
+    }
+   },
+   "required": [
+    "land",
+    "jaar",
+    "maand",
+    "res_e",
+    "net_p"
+   ],
+   "x-rijen": 1564
+  },
+  "fact_land_profiel_uur": {
+   "type": "object",
+   "description": "Een rij is (nog te beschrijven). Bron: Energy-Charts.",
+   "properties": {
+    "land": {
+     "type": "string",
+     "description": "Naam van het land of de biedzone in het Nederlands."
+    },
+    "jaar": {
+     "type": "number",
+     "x-waargenomen": [
+      2024.0,
+      2040.0
+     ],
+     "description": "Kalenderjaar. 2026 is onvolledig (tot 15 november). Eenheid: jaar."
+    },
+    "uur": {
+     "type": "number",
+     "x-waargenomen": [
+      0.0,
+      23.0
+     ],
+     "minimum": 0,
+     "maximum": 23,
+     "description": "Uur van de dag in UTC, 0 tot 23. Eenheid: uur."
+    },
+    "uur_bron": {
+     "type": "number",
+     "x-waargenomen": [
+      1.0,
+      24.0
+     ],
+     "minimum": 1,
+     "maximum": 24,
+     "description": "Uur zoals de bron het telt, 1 tot 24 (het uur dat eindigt). De kolom uur is hieruit afgeleid: uur = uur_bron - 1. Eenheid: uur."
+    },
+    "res_e": {
+     "type": "number",
+     "x-waargenomen": [
+      0.0,
+      92.92
+     ]
+    },
+    "net_p": {
+     "type": "number",
+     "x-waargenomen": [
+      -97.3,
+      142.33
+     ]
+    }
+   },
+   "required": [
+    "land",
+    "jaar",
+    "uur",
+    "uur_bron",
+    "res_e",
+    "net_p"
+   ],
+   "x-rijen": 2760
+  },
+  "fact_maand_uur": {
+   "type": "object",
+   "description": "Een rij is (nog te beschrijven). Bron: eigen berekening.",
+   "properties": {
+    "maand": {
+     "type": "number",
+     "x-waargenomen": [
+      1.0,
+      12.0
+     ],
+     "minimum": 1,
+     "maximum": 12,
+     "description": "Kalendermaand, 1 tot 12 (UTC). Eenheid: maand."
+    },
+    "uur": {
+     "type": "number",
+     "x-waargenomen": [
+      0.0,
+      23.0
+     ],
+     "minimum": 0,
+     "maximum": 23,
+     "description": "Uur van de dag in UTC, 0 tot 23. Eenheid: uur."
+    },
+    "gem_prijs": {
+     "type": "number",
+     "x-waargenomen": [
+      35.14,
+      131.14
+     ],
+     "description": "Gemiddelde dagmarktprijs over alle uren van de periode. Eenheid: euro per MWh."
+    },
+    "zon_mw": {
+     "type": "number",
+     "x-waargenomen": [
+      0.0,
+      6589.7
+     ]
+    }
+   },
+   "required": [
+    "maand",
+    "uur",
+    "gem_prijs",
+    "zon_mw"
+   ],
+   "x-rijen": 288
+  },
+  "fact_markt_uur": {
+   "type": "object",
+   "description": "Een rij is (nog te beschrijven). Bron: eigen berekening.",
+   "properties": {
+    "timestamp_utc": {
+     "type": "string",
+     "format": "date-time",
+     "description": "Begin van het uur of kwartier, in UTC. Eenheid: tijdstip."
+    },
+    "datum": {
+     "type": "string",
+     "format": "date"
+    },
+    "maand": {
+     "type": "number",
+     "x-waargenomen": [
+      1.0,
+      12.0
+     ],
+     "minimum": 1,
+     "maximum": 12,
+     "description": "Kalendermaand, 1 tot 12 (UTC). Eenheid: maand."
+    },
+    "uur": {
+     "type": "number",
+     "x-waargenomen": [
+      0.0,
+      23.0
+     ],
+     "minimum": 0,
+     "maximum": 23,
+     "description": "Uur van de dag in UTC, 0 tot 23. Eenheid: uur."
+    },
+    "prijs_eur_mwh": {
+     "type": "number",
+     "x-waargenomen": [
+      -39.95,
+      197.77
+     ],
+     "minimum": -500,
+     "maximum": 5000,
+     "description": "Dagmarktprijs van het uur. Eenheid: euro per MWh."
+    },
+    "zon_nl_mw": {
+     "type": "number",
+     "x-waargenomen": [
+      0.0,
+      8939.1
+     ]
+    },
+    "netfactor_kg_mwh": {
+     "type": "number",
+     "x-waargenomen": [
+      35.687372160620086,
+      435.4515703831644
+     ]
+    }
+   },
+   "required": [
+    "timestamp_utc",
+    "datum",
+    "maand",
+    "uur",
+    "prijs_eur_mwh",
+    "zon_nl_mw",
+    "netfactor_kg_mwh"
+   ],
+   "x-rijen": 8770
+  },
+  "fact_nl_jaar": {
+   "type": "object",
+   "description": "Een rij is een jaar in Nederland: kengetallen van het modelpark van 10 MW. Bron: eigen model.",
+   "properties": {
+    "jaar": {
+     "type": "number",
+     "x-waargenomen": [
+      2019.0,
+      2026.0
+     ],
+     "description": "Kalenderjaar. 2026 is onvolledig (tot 15 november). Eenheid: jaar."
+    },
+    "capture_rate": {
+     "type": "number",
+     "x-waargenomen": [
+      0.5865423660766594,
+      0.9417874403274408
+     ],
+     "minimum": 0,
+     "maximum": 5,
+     "description": "Capture rate van de genoemde techniek of brandstof. Eenheid: verhouding."
+    },
+    "negatieve_uren": {
+     "type": "number",
+     "x-waargenomen": [
+      3.0,
+      584.0
+     ],
+     "minimum": 0,
+     "maximum": 8784,
+     "description": "Aantal uren met een dagmarktprijs onder nul. Eenheid: uren."
+    },
+    "irr_zon": {
+     "type": "number",
+     "x-waargenomen": [
+      -0.140646298378706,
+      0.3282523716986179
+     ],
+     "description": "IRR van het zonnepark van 10 MW voor belasting, bij de marktwaarde van dat jaar. Eenheid: fractie per jaar."
+    },
+    "irr_zon_na_belasting": {
+     "type": "number",
+     "x-waargenomen": [
+      -0.140646298378706,
+      0.2520383219420911
+     ],
+     "description": "IRR van het zonnepark na vennootschapsbelasting. Eenheid: fractie per jaar."
+    },
+    "lcoe": {
+     "type": "number",
+     "x-waargenomen": [
+      76.48217972337717,
+      76.48217972337717
+     ],
+     "description": "Kosten per MWh over de levensduur (levelized cost of energy). Eenheid: euro per MWh."
+    },
+    "capture_price": {
+     "type": "number",
+     "x-waargenomen": [
+      25.43039045522389,
+      223.8882101296898
+     ],
+     "description": "Prijs die de techniek gemiddeld ontvangt (gewogen naar opwek). Eenheid: euro per MWh."
+    },
+    "batterij_omzet_perfect": {
+     "type": "number",
+     "x-waargenomen": [
+      126987.79199999991,
+      1057505.6320000002
+     ],
+     "description": "Dagmarktomzet van de batterij van 10 MW met kennis vooraf. Eenheid: euro per jaar."
+    },
+    "batterij_omzet_realistisch": {
+     "type": "number",
+     "x-waargenomen": [
+      87072.03351648357,
+      824423.5025274724
+     ],
+     "description": "Dagmarktomzet van de batterij van 10 MW met een plan op gisteren. Eenheid: euro per jaar."
+    },
+    "irr_batterij": {
+     "type": [
+      "number",
+      "null"
+     ],
+     "x-waargenomen": [
+      -0.2955990807712079,
+      0.1105159984529018
+     ],
+     "description": "IRR van de batterij op dagmarkthandel. Eenheid: fractie per jaar."
+    },
+    "co2_vermeden_uur": {
+     "type": "number",
+     "x-waargenomen": [
+      3616.299523484161,
+      5987.7450573700935
+     ],
+     "description": "Vermeden CO2 van het zonnepark, berekend per uur met de opwekmix van dat uur. Eenheid: ton per jaar."
+    },
+    "co2_vermeden_jaargem": {
+     "type": "number",
+     "x-waargenomen": [
+      4122.189058907175,
+      6115.76178585341
+     ],
+     "description": "Vermeden CO2 berekend met de gemiddelde netintensiteit van het jaar. Eenheid: ton per jaar."
+    }
+   },
+   "required": [
+    "jaar",
+    "capture_rate",
+    "negatieve_uren",
+    "irr_zon",
+    "irr_zon_na_belasting",
+    "lcoe",
+    "capture_price",
+    "batterij_omzet_perfect",
+    "batterij_omzet_realistisch",
+    "co2_vermeden_uur",
+    "co2_vermeden_jaargem"
+   ],
+   "x-rijen": 8
+  },
+  "fact_nl_uur_alle_jaren": {
+   "type": "object",
+   "description": "Een rij is een uur in Nederland: dagmarktprijs en opwek per bron. Bron: Energy-Charts (ENTSO-E).",
+   "properties": {
+    "timestamp_utc": {
+     "type": "string",
+     "format": "date-time",
+     "description": "Begin van het uur of kwartier, in UTC. Eenheid: tijdstip."
+    },
+    "jaar": {
+     "type": "number",
+     "x-waargenomen": [
+      2019.0,
+      2026.0
+     ],
+     "description": "Kalenderjaar. 2026 is onvolledig (tot 15 november). Eenheid: jaar."
+    },
+    "maand": {
+     "type": "number",
+     "x-waargenomen": [
+      1.0,
+      12.0
+     ],
+     "minimum": 1,
+     "maximum": 12,
+     "description": "Kalendermaand, 1 tot 12 (UTC). Eenheid: maand."
+    },
+    "uur": {
+     "type": "number",
+     "x-waargenomen": [
+      0.0,
+      23.0
+     ],
+     "minimum": 0,
+     "maximum": 23,
+     "description": "Uur van de dag in UTC, 0 tot 23. Eenheid: uur."
+    },
+    "prijs_eur_mwh": {
+     "type": "number",
+     "x-waargenomen": [
+      -500.0,
+      872.96
+     ],
+     "minimum": -500,
+     "maximum": 5000,
+     "description": "Dagmarktprijs van het uur. Eenheid: euro per MWh."
+    },
+    "solar_mw": {
+     "type": "number",
+     "x-waargenomen": [
+      0.0,
+      427.7
+     ],
+     "description": "Gemeten zonopwek in het uur. Eenheid: MW."
+    },
+    "wind_mw": {
+     "type": "number",
+     "x-waargenomen": [
+      0.1,
+      6970.7
+     ],
+     "description": "Gemeten windopwek in het uur (land en zee). Eenheid: MW."
+    },
+    "gas_mw": {
+     "type": "number",
+     "x-waargenomen": [
+      371.8,
+      11244.2
+     ],
+     "description": "Opwek uit gas in het uur. Eenheid: MW."
+    },
+    "coal_mw": {
+     "type": "number",
+     "x-waargenomen": [
+      0.0,
+      3949.8
+     ],
+     "description": "Opwek uit kolen in het uur. Eenheid: MW."
+    },
+    "nuclear_mw": {
+     "type": "number",
+     "x-waargenomen": [
+      0.0,
+      492.1
+     ],
+     "description": "Opwek uit kernenergie in het uur. Eenheid: MW."
+    },
+    "biomass_mw": {
+     "type": "number",
+     "x-waargenomen": [
+      0.0,
+      613.8
+     ],
+     "description": "Opwek uit biomassa in het uur. Eenheid: MW."
+    },
+    "waste_mw": {
+     "type": "number",
+     "x-waargenomen": [
+      30.5,
+      514.0
+     ],
+     "description": "Opwek uit afval in het uur. Eenheid: MW."
+    },
+    "other_renewable_mw": {
+     "type": "number",
+     "x-waargenomen": [
+      0.0,
+      0.0
+     ],
+     "description": "Overige hernieuwbare opwek. Eenheid: MW."
+    }
+   },
+   "required": [
+    "timestamp_utc",
+    "jaar",
+    "maand",
+    "uur",
+    "prijs_eur_mwh",
+    "solar_mw",
+    "wind_mw",
+    "gas_mw",
+    "coal_mw",
+    "nuclear_mw",
+    "biomass_mw",
+    "waste_mw",
+    "other_renewable_mw"
+   ],
+   "x-rijen": 69010
+  },
+  "fact_nl_zonprofiel_toets": {
+   "type": "object",
+   "description": "Een rij is een jaar: de Nederlandse zonreeks getoetst aan instraling en aan het jaartotaal van Ember. Bron: Energy-Charts, Open-Meteo, Ember; eigen berekening.",
+   "properties": {
+    "jaar": {
+     "type": "number",
+     "x-waargenomen": [
+      2019.0,
+      2026.0
+     ],
+     "description": "Kalenderjaar. 2026 is onvolledig (tot 15 november). Eenheid: jaar."
+    },
+    "uren": {
+     "type": "number",
+     "x-waargenomen": [
+      7642.0,
+      8784.0
+     ],
+     "minimum": 0,
+     "maximum": 8784,
+     "description": "Aantal uren met een prijs in de periode. Eenheid: uren."
+    },
+    "gemeten_twh": {
+     "type": "number",
+     "x-waargenomen": [
+      0.0673,
+      0.5472
+     ]
+    },
+    "ember_twh": {
+     "type": [
+      "number",
+      "null"
+     ],
+     "x-waargenomen": [
+      5.4,
+      28.507
+     ]
+    },
+    "ember_vermogen_gw": {
+     "type": [
+      "number",
+      "null"
+     ],
+     "x-waargenomen": [
+      7.23,
+      25.88
+     ]
+    },
+    "dekking": {
+     "type": [
+      "number",
+      "null"
+     ],
+     "x-waargenomen": [
+      0.0125,
+      0.0361
+     ]
+    },
+    "schaal_naar_ember": {
+     "type": [
+      "number",
+      "null"
+     ],
+     "x-waargenomen": [
+      27.6983,
+      80.2131
+     ]
+    },
+    "capture_gemeten": {
+     "type": "number",
+     "x-waargenomen": [
+      0.5865,
+      0.9416
+     ]
+    },
+    "capture_instraling": {
+     "type": "number",
+     "x-waargenomen": [
+      0.5237,
+      0.9488
+     ]
+    },
+    "capture_instraling_stempel": {
+     "type": "number",
+     "x-waargenomen": [
+      0.5601,
+      0.9503
+     ]
+    },
+    "correlatie_uur": {
+     "type": "number",
+     "x-waargenomen": [
+      0.8551,
+      0.9697
+     ]
+    },
+    "correlatie_uur_stempel": {
+     "type": "number",
+     "x-waargenomen": [
+      0.8167,
+      0.9281
+     ]
+    },
+    "correlatie_dag": {
+     "type": "number",
+     "x-waargenomen": [
+      0.824,
+      0.967
+     ]
+    },
+    "negatieve_uren_met_zon": {
+     "type": "number",
+     "x-waargenomen": [
+      2.0,
+      469.0
+     ]
+    },
+    "opbrengst_bij_negatieve_prijs": {
+     "type": [
+      "number",
+      "null"
+     ],
+     "x-waargenomen": [
+      0.5851,
+      1.0094
+     ]
+    },
+    "zomerhalfjaar_gemeten": {
+     "type": "number",
+     "x-waargenomen": [
+      0.7317,
+      0.7973
+     ]
+    },
+    "zomerhalfjaar_instraling": {
+     "type": "number",
+     "x-waargenomen": [
+      0.7638,
+      0.798
+     ]
+    },
+    "verschil_capture": {
+     "type": "number",
+     "x-waargenomen": [
+      -0.0072,
+      0.0916
+     ]
+    },
+    "fout_door_stempel": {
+     "type": "number",
+     "x-waargenomen": [
+      0.0015,
+      0.0366
+     ]
+    }
+   },
+   "required": [
+    "jaar",
+    "uren",
+    "gemeten_twh",
+    "capture_gemeten",
+    "capture_instraling",
+    "capture_instraling_stempel",
+    "correlatie_uur",
+    "correlatie_uur_stempel",
+    "correlatie_dag",
+    "negatieve_uren_met_zon",
+    "zomerhalfjaar_gemeten",
+    "zomerhalfjaar_instraling",
+    "verschil_capture",
+    "fout_door_stempel"
+   ],
+   "x-rijen": 8
+  },
+  "fact_ntc": {
+   "type": "object",
+   "description": "Een rij is een grens tussen twee landen: handelscapaciteit. Bron: ENTSO-E TYNDP.",
+   "properties": {
+    "scenario": {
+     "type": "string",
+     "enum": [
+      "Reference",
+      "Projects",
+      "Needs"
+     ]
+    },
+    "grens": {
+     "type": "string"
+    },
+    "van": {
+     "type": "string"
+    },
+    "naar": {
+     "type": "string"
+    },
+    "jaar": {
+     "type": "number",
+     "x-waargenomen": [
+      2024.0,
+      2040.0
+     ],
+     "description": "Kalenderjaar. 2026 is onvolledig (tot 15 november). Eenheid: jaar."
+    },
+    "ntc_heen_mw": {
+     "type": "number",
+     "x-waargenomen": [
+      0.0,
+      11600.0
+     ],
+     "description": "Handelscapaciteit van het eerste naar het tweede land. Eenheid: MW."
+    },
+    "ntc_terug_mw": {
+     "type": "number",
+     "x-waargenomen": [
+      0.0,
+      11600.0
+     ],
+     "description": "Handelscapaciteit in de andere richting. Eenheid: MW."
+    }
+   },
+   "required": [
+    "scenario",
+    "grens",
+    "van",
+    "naar",
+    "jaar",
+    "ntc_heen_mw",
+    "ntc_terug_mw"
+   ],
+   "x-rijen": 851
+  },
+  "fact_onbalans_nl": {
+   "type": "object",
+   "description": "Een rij is een kwartier in Nederland: onbalansprijzen. Bron: ENTSO-E (document A85).",
+   "properties": {
+    "timestamp_utc": {
+     "type": "string",
+     "format": "date-time",
+     "description": "Begin van het uur of kwartier, in UTC. Eenheid: tijdstip."
+    },
+    "jaar": {
+     "type": "number",
+     "x-waargenomen": [
+      2023.0,
+      2026.0
+     ],
+     "description": "Kalenderjaar. 2026 is onvolledig (tot 15 november). Eenheid: jaar."
+    },
+    "maand": {
+     "type": "number",
+     "x-waargenomen": [
+      1.0,
+      12.0
+     ],
+     "minimum": 1,
+     "maximum": 12,
+     "description": "Kalendermaand, 1 tot 12 (UTC). Eenheid: maand."
+    },
+    "prijs_tekort_eur_mwh": {
+     "type": "number",
+     "x-waargenomen": [
+      -3895.0,
+      5500.0
+     ],
+     "description": "Onbalansprijs bij een tekort: wat laden zonder inkoop kost. Eenheid: euro per MWh."
+    },
+    "prijs_overschot_eur_mwh": {
+     "type": "number",
+     "x-waargenomen": [
+      -3985.0,
+      5500.0
+     ],
+     "description": "Onbalansprijs bij een overschot: wat ontladen zonder verkoop oplevert. Eenheid: euro per MWh."
+    }
+   },
+   "required": [
+    "timestamp_utc",
+    "jaar",
+    "maand",
+    "prijs_tekort_eur_mwh",
+    "prijs_overschot_eur_mwh"
+   ],
+   "x-rijen": 135836
+  },
+  "fact_onbalans_regel": {
+   "type": "object",
+   "description": "Een rij is een stuurregel voor de batterij in een jaar. Bron: eigen simulatie (eti.onbalansregel).",
+   "properties": {
+    "regel": {
+     "type": "string",
+     "enum": [
+      "Dagmarktregel",
+      "Kwantielregel",
+      "Dagmarkt met bijsturen"
+     ]
+    },
+    "variant": {
+     "type": "string"
+    },
+    "max_cycli_per_dag": {
+     "type": "number",
+     "x-waargenomen": [
+      0.0,
+      2.0
+     ]
+    },
+    "vertraging_kwartieren": {
+     "type": "number",
+     "x-waargenomen": [
+      0.0,
+      2.0
+     ]
+    },
+    "jaar": {
+     "type": "number",
+     "x-waargenomen": [
+      2023.0,
+      2026.0
+     ],
+     "description": "Kalenderjaar. 2026 is onvolledig (tot 15 november). Eenheid: jaar."
+    },
+    "omzet_per_mw": {
+     "type": "number",
+     "x-waargenomen": [
+      -515.4057445141065,
+      194953.6021
+     ],
+     "description": "Omzet per MW per jaar van de genoemde strategie. Eenheid: euro per MW per jaar."
+    },
+    "cycli_per_dag": {
+     "type": "number",
+     "x-waargenomen": [
+      0.1724137931034483,
+      2.952054794520548
+     ]
+    },
+    "dagen": {
+     "type": "number",
+     "x-waargenomen": [
+      319.0,
+      366.0
+     ]
+    },
+    "aandeel_dagen_met_verlies": {
+     "type": "number",
+     "x-waargenomen": [
+      0.0246575342465753,
+      0.5893416927899686
+     ],
+     "minimum": 0,
+     "maximum": 1.0001
+    },
+    "vooraf_gekozen": {
+     "type": "string",
+     "enum": [
+      "False",
+      "True"
+     ]
+    },
+    "aandeel_van_perfect": {
+     "type": [
+      "number",
+      "null"
+     ],
+     "x-waargenomen": [
+      -0.0023177486488667,
+      0.4769970393180067
+     ]
+    },
+    "dagmarkt_per_mw": {
+     "type": "number",
+     "x-waargenomen": [
+      47322.524000000005,
+      81706.3624465409
+     ]
+    },
+    "waarvan_onbalans_per_mw": {
+     "type": [
+      "number",
+      "null"
+     ],
+     "x-waargenomen": [
+      -24376.873981191227,
+      147631.0781
+     ]
+    }
+   },
+   "required": [
+    "regel",
+    "variant",
+    "max_cycli_per_dag",
+    "vertraging_kwartieren",
+    "jaar",
+    "omzet_per_mw",
+    "cycli_per_dag",
+    "dagen",
+    "aandeel_dagen_met_verlies",
+    "vooraf_gekozen",
+    "dagmarkt_per_mw"
+   ],
+   "x-rijen": 300
+  },
+  "fact_onzekerheid_land": {
+   "type": "object",
+   "description": "Een rij is een land in een jaar: onzekerheidsband uit 10.000 trekkingen. Bron: eigen berekening (bootstrap).",
+   "properties": {
+    "land": {
+     "type": "string",
+     "description": "Naam van het land of de biedzone in het Nederlands."
+    },
+    "jaar": {
+     "type": "number",
+     "x-waargenomen": [
+      2019.0,
+      2026.0
+     ],
+     "description": "Kalenderjaar. 2026 is onvolledig (tot 15 november). Eenheid: jaar."
+    },
+    "trekkingen": {
+     "type": "number",
+     "x-waargenomen": [
+      10000.0,
+      10000.0
+     ]
+    },
+    "capture_p10": {
+     "type": "number",
+     "x-waargenomen": [
+      0.4444009937095357,
+      2.3902918645882556
+     ]
+    },
+    "capture_p50": {
+     "type": "number",
+     "x-waargenomen": [
+      0.4721678141382424,
+      3.5103760323112008
+     ]
+    },
+    "capture_p90": {
+     "type": "number",
+     "x-waargenomen": [
+      0.5000915088436327,
+      4.345011316040998
+     ]
+    },
+    "batterij_p10": {
+     "type": "number",
+     "x-waargenomen": [
+      3724.178822102423,
+      92219.83620700808
+     ]
+    },
+    "batterij_p50": {
+     "type": "number",
+     "x-waargenomen": [
+      4307.4757789757405,
+      101307.53013746632
+     ]
+    },
+    "batterij_p90": {
+     "type": "number",
+     "x-waargenomen": [
+      4925.904428571427,
+      110936.82889487874
+     ]
+    }
+   },
+   "required": [
+    "land",
+    "jaar",
+    "trekkingen",
+    "capture_p10",
+    "capture_p50",
+    "capture_p90",
+    "batterij_p10",
+    "batterij_p50",
+    "batterij_p90"
+   ],
+   "x-rijen": 148
+  },
+  "fact_owid_co2": {
+   "type": "object",
+   "description": "Een rij is (nog te beschrijven). Bron: Our World in Data.",
+   "properties": {
+    "country": {
+     "type": "string"
+    },
+    "iso_code": {
+     "type": "string"
+    },
+    "year": {
+     "type": "number",
+     "x-waargenomen": [
+      2000.0,
+      2025.0
+     ]
+    },
+    "co2": {
+     "type": [
+      "number",
+      "null"
+     ],
+     "x-waargenomen": [
+      0.0,
+      12417.493
+     ]
+    },
+    "co2_per_capita": {
+     "type": [
+      "number",
+      "null"
+     ],
+     "x-waargenomen": [
+      0.022,
+      59.674
+     ]
+    },
+    "co2_per_gdp": {
+     "type": [
+      "number",
+      "null"
+     ],
+     "x-waargenomen": [
+      0.03,
+      2.151
+     ]
+    },
+    "share_global_co2": {
+     "type": [
+      "number",
+      "null"
+     ],
+     "x-waargenomen": [
+      0.0,
+      32.259
+     ]
+    },
+    "coal_co2": {
+     "type": [
+      "number",
+      "null"
+     ],
+     "x-waargenomen": [
+      0.0,
+      8843.185
+     ]
+    },
+    "gas_co2": {
+     "type": [
+      "number",
+      "null"
+     ],
+     "x-waargenomen": [
+      0.0,
+      1803.304
+     ]
+    },
+    "oil_co2": {
+     "type": [
+      "number",
+      "null"
+     ],
+     "x-waargenomen": [
+      0.0,
+      2581.157
+     ]
+    },
+    "total_ghg": {
+     "type": [
+      "number",
+      "null"
+     ],
+     "x-waargenomen": [
+      -0.003,
+      14107.007
+     ]
+    },
+    "population": {
+     "type": [
+      "number",
+      "null"
+     ],
+     "x-waargenomen": [
+      501.0,
+      1463865527.0
+     ]
+    },
+    "gdp": {
+     "type": [
+      "number",
+      "null"
+     ],
+     "x-waargenomen": [
+      312853560.0,
+      26966016991166.0
+     ]
+    }
+   },
+   "required": [
+    "country",
+    "iso_code",
+    "year"
+   ],
+   "x-rijen": 5798
+  },
+  "fact_owid_energie": {
+   "type": "object",
+   "description": "Een rij is (nog te beschrijven). Bron: Our World in Data.",
+   "properties": {
+    "country": {
+     "type": "string"
+    },
+    "iso_code": {
+     "type": [
+      "string",
+      "null"
+     ]
+    },
+    "year": {
+     "type": "number",
+     "x-waargenomen": [
+      2000.0,
+      2025.0
+     ]
+    },
+    "solar_share_elec": {
+     "type": "number",
+     "x-waargenomen": [
+      0.0,
+      21.849
+     ]
+    },
+    "wind_share_elec": {
+     "type": [
+      "number",
+      "null"
+     ],
+     "x-waargenomen": [
+      0.0,
+      58.214
+     ]
+    },
+    "renewables_share_elec": {
+     "type": "number",
+     "x-waargenomen": [
+      1.268,
+      91.171
+     ]
+    },
+    "fossil_share_elec": {
+     "type": "number",
+     "x-waargenomen": [
+      5.102,
+      98.5
+     ]
+    },
+    "nuclear_share_elec": {
+     "type": "number",
+     "x-waargenomen": [
+      0.0,
+      79.357
+     ]
+    },
+    "carbon_intensity_elec": {
+     "type": "number",
+     "x-waargenomen": [
+      40.48,
+      954.6
+     ]
+    },
+    "solar_electricity": {
+     "type": "number",
+     "x-waargenomen": [
+      0.0,
+      2778.64
+     ]
+    },
+    "wind_electricity": {
+     "type": [
+      "number",
+      "null"
+     ],
+     "x-waargenomen": [
+      0.0,
+      2713.14
+     ]
+    },
+    "electricity_demand": {
+     "type": "number",
+     "x-waargenomen": [
+      34.69,
+      31772.35
+     ]
+    },
+    "per_capita_electricity": {
+     "type": "number",
+     "x-waargenomen": [
+      540.106,
+      13724.198
+     ]
+    },
+    "greenhouse_gas_emissions": {
+     "type": "number",
+     "x-waargenomen": [
+      3.81,
+      14570.48
+     ]
+    }
+   },
+   "required": [
+    "country",
+    "year",
+    "solar_share_elec",
+    "renewables_share_elec",
+    "fossil_share_elec",
+    "nuclear_share_elec",
+    "carbon_intensity_elec",
+    "solar_electricity",
+    "electricity_demand",
+    "per_capita_electricity",
+    "greenhouse_gas_emissions"
+   ],
+   "x-rijen": 416
+  },
+  "fact_paneel_kannibalisatie": {
+   "type": "object",
+   "description": "Een rij is (nog te beschrijven). Bron: eigen berekening.",
+   "properties": {
+    "steekproef": {
+     "type": "string",
+     "enum": [
+      "alle zones",
+      "alleen opwekdata"
+     ]
+    },
+    "specificatie": {
+     "type": "string",
+     "enum": [
+      "eigen zonaandeel",
+      "jaareffecten",
+      "landeffecten",
+      "zonaandeel + jaareffecten",
+      "zonaandeel + landeffecten",
+      "zonaandeel + land- en jaareffecten",
+      "eigen zonaandeel, alleen 2025"
+     ]
+    },
+    "landjaren": {
+     "type": "number",
+     "x-waargenomen": [
+      25.0,
+      182.0
+     ]
+    },
+    "landen": {
+     "type": "number",
+     "x-waargenomen": [
+      25.0,
+      26.0
+     ]
+    },
+    "r2": {
+     "type": "number",
+     "x-waargenomen": [
+      0.1090888636812443,
+      0.8951061024790766
+     ]
+    },
+    "constante": {
+     "type": "number",
+     "x-waargenomen": [
+      0.6649408269352974,
+      1.0266869430394874
+     ]
+    },
+    "helling_per_procentpunt": {
+     "type": [
+      "number",
+      "null"
+     ],
+     "x-waargenomen": [
+      -0.0287111420356586,
+      -0.0038102336514853
+     ]
+    },
+    "t_waarde": {
+     "type": [
+      "number",
+      "null"
+     ],
+     "x-waargenomen": [
+      -14.53286687419741,
+      -1.714267675269424
+     ]
+    }
+   },
+   "required": [
+    "steekproef",
+    "specificatie",
+    "landjaren",
+    "landen",
+    "r2",
+    "constante"
+   ],
+   "x-rijen": 14
+  },
+  "fact_prijsmodel": {
+   "type": "object",
+   "description": "Een rij is (nog te beschrijven). Bron: eigen model.",
+   "properties": {
+    "jaar": {
+     "type": "number",
+     "x-waargenomen": [
+      2019.0,
+      2026.0
+     ],
+     "description": "Kalenderjaar. 2026 is onvolledig (tot 15 november). Eenheid: jaar."
+    },
+    "uren": {
+     "type": "number",
+     "x-waargenomen": [
+      7618.0,
+      8760.0
+     ],
+     "minimum": 0,
+     "maximum": 8784,
+     "description": "Aantal uren met een prijs in de periode. Eenheid: uren."
+    },
+    "r2_test": {
+     "type": "number",
+     "x-waargenomen": [
+      0.4288350220199528,
+      0.8105808877177284
+     ]
+    },
+    "mae_model": {
+     "type": "number",
+     "x-waargenomen": [
+      5.455853857082801,
+      50.26271944695923
+     ]
+    },
+    "mae_naief": {
+     "type": "number",
+     "x-waargenomen": [
+      5.878564073226545,
+      48.62702517162472
+     ]
+    },
+    "verbetering": {
+     "type": "number",
+     "x-waargenomen": [
+      -0.1285334918944278,
+      0.1939316011878009
+     ]
+    }
+   },
+   "required": [
+    "jaar",
+    "uren",
+    "r2_test",
+    "mae_model",
+    "mae_naief",
+    "verbetering"
+   ],
+   "x-rijen": 8
+  },
+  "fact_prijsmodel_coef": {
+   "type": "object",
+   "description": "Een rij is (nog te beschrijven). Bron: eigen model.",
+   "properties": {
+    "jaar": {
+     "type": "number",
+     "x-waargenomen": [
+      2019.0,
+      2026.0
+     ],
+     "description": "Kalenderjaar. 2026 is onvolledig (tot 15 november). Eenheid: jaar."
+    },
+    "variabele": {
+     "type": "string",
+     "enum": [
+      "constante",
+      "straling",
+      "wind",
+      "temperatuur",
+      "weekend",
+      "prijs_gisteren"
+     ]
+    },
+    "coefficient": {
+     "type": "number",
+     "x-waargenomen": [
+      -47.74843330889342,
+      119.46234748736444
+     ]
+    }
+   },
+   "required": [
+    "jaar",
+    "variabele",
+    "coefficient"
+   ],
+   "x-rijen": 48
+  },
+  "fact_regio_jaar": {
+   "type": "object",
+   "description": "Een rij is een studieregio in 2025, 2030 of 2050: kosten en impact per euro. Bron: eigen model, aannames uit het memo.",
+   "properties": {
+    "regio": {
+     "type": "string",
+     "enum": [
+      "Nederland",
+      "Europa (Spanje)",
+      "VS (Texas)",
+      "China",
+      "India (RvdW)"
+     ],
+     "description": "Studieregio (Nederland, Europa, VS, China, India)."
+    },
+    "jaar": {
+     "type": "number",
+     "x-waargenomen": [
+      2025.0,
+      2050.0
+     ],
+     "description": "Kalenderjaar. 2026 is onvolledig (tot 15 november). Eenheid: jaar."
+    },
+    "lcoe_eur_mwh": {
+     "type": "number",
+     "x-waargenomen": [
+      15.22,
+      67.39
+     ],
+     "description": "Kosten per MWh over de levensduur in de regio en het jaar. Eenheid: euro per MWh."
+    },
+    "wacc": {
+     "type": "number",
+     "x-waargenomen": [
+      0.045,
+      0.12
+     ],
+     "minimum": 0,
+     "maximum": 0.3,
+     "description": "Gewogen kapitaalkosten. Eenheid: fractie per jaar."
+    },
+    "financieringsaandeel": {
+     "type": "number",
+     "x-waargenomen": [
+      0.2735,
+      0.5438
+     ]
+    },
+    "t_co2_per_meur_jaar": {
+     "type": "number",
+     "x-waargenomen": [
+      42.9,
+      1474.5
+     ],
+     "description": "Vermeden CO2 per miljoen euro investering per jaar. Eenheid: ton per miljoen euro per jaar."
+    }
+   },
+   "required": [
+    "regio",
+    "jaar",
+    "lcoe_eur_mwh",
+    "wacc",
+    "financieringsaandeel",
+    "t_co2_per_meur_jaar"
+   ],
+   "x-rijen": 15
+  },
+  "fact_ruimtelijk_paneel": {
+   "type": "object",
+   "description": "Een rij is een regressie van de capture rate op eigen en buur-zonaandeel. Bron: eigen berekening (eti.ruimtelijk).",
+   "properties": {
+    "steekproef": {
+     "type": "string",
+     "enum": [
+      "alle zones",
+      "alleen opwekdata"
+     ]
+    },
+    "specificatie": {
+     "type": "string",
+     "enum": [
+      "eigen + buren",
+      "eigen + buren + landeffecten",
+      "eigen + buren + jaareffecten",
+      "eigen + buren + land- en jaareffecten"
+     ]
+    },
+    "landjaren": {
+     "type": "number",
+     "x-waargenomen": [
+      155.0,
+      182.0
+     ]
+    },
+    "landen": {
+     "type": "number",
+     "x-waargenomen": [
+      25.0,
+      26.0
+     ]
+    },
+    "r2": {
+     "type": "number",
+     "x-waargenomen": [
+      0.6079304046166762,
+      0.8978126104649099
+     ]
+    },
+    "coef_eigen": {
+     "type": "number",
+     "x-waargenomen": [
+      -0.0124301283815741,
+      -0.0043301720638563
+     ]
+    },
+    "t_eigen": {
+     "type": "number",
+     "x-waargenomen": [
+      -4.6738628570967435,
+      -1.7764845294235323
+     ]
+    },
+    "coef_buren": {
+     "type": "number",
+     "x-waargenomen": [
+      -0.0253064715000195,
+      -0.0067317676351786
+     ]
+    },
+    "t_buren": {
+     "type": "number",
+     "x-waargenomen": [
+      -8.796279958438221,
+      -1.2558865630955878
+     ]
+    },
+    "correlatie_eigen_buren": {
+     "type": "number",
+     "x-waargenomen": [
+      0.3694556404318962,
+      0.4215092980351817
+     ]
+    }
+   },
+   "required": [
+    "steekproef",
+    "specificatie",
+    "landjaren",
+    "landen",
+    "r2",
+    "coef_eigen",
+    "t_eigen",
+    "coef_buren",
+    "t_buren",
+    "correlatie_eigen_buren"
+   ],
+   "x-rijen": 8
+  },
+  "fact_schokjaar_model_SJ": {
+   "type": "object",
+   "description": "Een rij is (nog te beschrijven). Bron: eigen berekening.",
+   "properties": {
+    "coefficient": {
+     "type": "string",
+     "enum": [
+      "gas",
+      "zon",
+      "wind"
+     ]
+    },
+    "waarde": {
+     "type": "number",
+     "x-waargenomen": [
+      -0.9961012593406248,
+      1.5814164430116204
+     ]
+    },
+    "standaardfout_geclusterd_per_maand": {
+     "type": "number",
+     "x-waargenomen": [
+      0.032706165324314,
+      0.1878781964319601
+     ]
+    },
+    "r2": {
+     "type": "number",
+     "x-waargenomen": [
+      0.8407206099112798,
+      0.8407206099112798
+     ]
+    },
+    "waarnemingen": {
+     "type": "number",
+     "x-waargenomen": [
+      2116.0,
+      2116.0
+     ]
+    },
+    "schatjaren": {
+     "type": "string",
+     "enum": [
+      "2019-2025"
+     ]
+    }
+   },
+   "required": [
+    "coefficient",
+    "waarde",
+    "standaardfout_geclusterd_per_maand",
+    "r2",
+    "waarnemingen",
+    "schatjaren"
+   ],
+   "x-rijen": 3
+  },
+  "fact_schokjaar_zone_SJ": {
+   "type": "object",
+   "description": "Een rij is (nog te beschrijven). Bron: eigen berekening.",
+   "properties": {
+    "biedzone": {
+     "type": "string",
+     "description": "Code van de biedzone (NL, DE-LU, IT-North, NO1)."
+    },
+    "prijsstijging": {
+     "type": "number",
+     "x-waargenomen": [
+      1.7106944252432157,
+      68.9631638815969
+     ]
+    },
+    "gas_verschil": {
+     "type": "number",
+     "x-waargenomen": [
+      0.10274,
+      15.82702
+     ]
+    },
+    "zon_verschil_pp": {
+     "type": "number",
+     "x-waargenomen": [
+      -2.4732000000000007,
+      6.990100000000001
+     ]
+    },
+    "wind_verschil_pp": {
+     "type": "number",
+     "x-waargenomen": [
+      -2.6555000000000013,
+      5.9356
+     ]
+    },
+    "door_gas": {
+     "type": "number",
+     "x-waargenomen": [
+      0.162474725355014,
+      25.029109671873776
+     ]
+    },
+    "door_zon": {
+     "type": "number",
+     "x-waargenomen": [
+      -1.047345771778708,
+      2.9601535174309985
+     ]
+    },
+    "door_wind": {
+     "type": "number",
+     "x-waargenomen": [
+      -5.9124586349422135,
+      2.645146894179031
+     ]
+    },
+    "rest": {
+     "type": "number",
+     "x-waargenomen": [
+      -11.910742923704037,
+      45.91624084926716
+     ]
+    },
+    "maanden": {
+     "type": "number",
+     "x-waargenomen": [
+      5.0,
+      10.0
+     ]
+    },
+    "aandeel_gas": {
+     "type": "number",
+     "x-waargenomen": [
+      0.0949758898827967,
+      2.095671925847155
+     ]
+    }
+   },
+   "required": [
+    "biedzone",
+    "prijsstijging",
+    "gas_verschil",
+    "zon_verschil_pp",
+    "wind_verschil_pp",
+    "door_gas",
+    "door_zon",
+    "door_wind",
+    "rest",
+    "maanden",
+    "aandeel_gas"
+   ],
+   "x-rijen": 29
+  },
+  "fact_segment_drempel_SG": {
+   "type": "object",
+   "description": "Een rij is (nog te beschrijven). Bron: eigen berekening.",
+   "properties": {
+    "drempel": {
+     "type": "string",
+     "enum": [
+      "capture_laag",
+      "negatief_uren",
+      "spreiding_hoog",
+      "spreiding_laag",
+      "capture_hoog"
+     ]
+    },
+    "omschrijving": {
+     "type": "string",
+     "enum": [
+      "capture rate onder (zonverzadigd)",
+      "negatieve uren vanaf (zonverzadigd)",
+      "dagspreiding vanaf (batterijmarkt)",
+      "dagspreiding onder (vlakke prijzen)",
+      "capture rate vanaf (zon houdt waarde)"
+     ]
+    },
+    "basis": {
+     "type": "number",
+     "x-waargenomen": [
+      0.6,
+      300.0
+     ]
+    },
+    "factor": {
+     "type": "number",
+     "x-waargenomen": [
+      0.8,
+      1.2
+     ]
+    },
+    "waarde": {
+     "type": "number",
+     "x-waargenomen": [
+      0.48,
+      360.0
+     ]
+    },
+    "zonejaren": {
+     "type": "number",
+     "x-waargenomen": [
+      296.0,
+      296.0
+     ]
+    },
+    "wisselen": {
+     "type": "number",
+     "x-waargenomen": [
+      3.0,
+      58.0
+     ]
+    },
+    "aandeel_wisselen": {
+     "type": "number",
+     "x-waargenomen": [
+      0.0101351351351351,
+      0.1959459459459459
+     ]
+    },
+    "wisselen_2025": {
+     "type": "number",
+     "x-waargenomen": [
+      0.0,
+      9.0
+     ]
+    }
+   },
+   "required": [
+    "drempel",
+    "omschrijving",
+    "basis",
+    "factor",
+    "waarde",
+    "zonejaren",
+    "wisselen",
+    "aandeel_wisselen",
+    "wisselen_2025"
+   ],
+   "x-rijen": 20
+  },
+  "fact_segment_zone_SG": {
+   "type": "object",
+   "description": "Een rij is (nog te beschrijven). Bron: eigen berekening.",
+   "properties": {
+    "biedzone": {
+     "type": "string",
+     "description": "Code van de biedzone (NL, DE-LU, IT-North, NO1)."
+    },
+    "land": {
+     "type": "string",
+     "description": "Naam van het land of de biedzone in het Nederlands."
+    },
+    "regio": {
+     "type": "string",
+     "enum": [
+      "Midden- en Zuidoost-Europa",
+      "Scandinavie",
+      "Noordwest-Europa",
+      "Italie",
+      "Baltische staten",
+      "Iberie"
+     ],
+     "description": "Studieregio (Nederland, Europa, VS, China, India)."
+    },
+    "jaar": {
+     "type": "number",
+     "x-waargenomen": [
+      2019.0,
+      2026.0
+     ],
+     "description": "Kalenderjaar. 2026 is onvolledig (tot 15 november). Eenheid: jaar."
+    },
+    "capture_zon": {
+     "type": "number",
+     "x-waargenomen": [
+      0.4740995669924466,
+      1.2256337061758522
+     ],
+     "minimum": 0,
+     "maximum": 2,
+     "description": "Capture rate van zon: de prijs die zon ontvangt (gewogen naar opwek) gedeeld door de gemiddelde prijs. Eenheid: verhouding."
+    },
+    "negatieve_uren": {
+     "type": "number",
+     "x-waargenomen": [
+      0.0,
+      725.0
+     ],
+     "minimum": 0,
+     "maximum": 8784,
+     "description": "Aantal uren met een dagmarktprijs onder nul. Eenheid: uren."
+    },
+    "dagspreiding": {
+     "type": "number",
+     "x-waargenomen": [
+      3.144508196721312,
+      250.78290410958903
+     ],
+     "minimum": 0,
+     "maximum": 5000,
+     "description": "Gemiddeld verschil tussen de hoogste en laagste uurprijs van een dag. Eenheid: euro per MWh."
+    },
+    "segment": {
+     "type": "string",
+     "enum": [
+      "Vlakke prijzen",
+      "Batterijmarkt",
+      "Zon houdt waarde",
+      "Zonverzadigd",
+      "Middenveld"
+     ]
+    },
+    "aandeel_gelijk": {
+     "type": "number",
+     "x-waargenomen": [
+      0.286,
+      1.0
+     ]
+    },
+    "grensgeval": {
+     "type": "string",
+     "enum": [
+      "False",
+      "True"
+     ]
+    }
+   },
+   "required": [
+    "biedzone",
+    "land",
+    "regio",
+    "jaar",
+    "capture_zon",
+    "negatieve_uren",
+    "dagspreiding",
+    "segment",
+    "aandeel_gelijk",
+    "grensgeval"
+   ],
+   "x-rijen": 296
+  },
+  "fact_stromen_maand": {
+   "type": "object",
+   "description": "Een rij is (nog te beschrijven). Bron: ENTSO-E, Energy-Charts.",
+   "properties": {
+    "van": {
+     "type": "string"
+    },
+    "naar": {
+     "type": "string"
+    },
+    "jaar": {
+     "type": "number",
+     "x-waargenomen": [
+      2024.0,
+      2040.0
+     ],
+     "description": "Kalenderjaar. 2026 is onvolledig (tot 15 november). Eenheid: jaar."
+    },
+    "maand": {
+     "type": "number",
+     "x-waargenomen": [
+      1.0,
+      12.0
+     ],
+     "minimum": 1,
+     "maximum": 12,
+     "description": "Kalendermaand, 1 tot 12 (UTC). Eenheid: maand."
+    },
+    "stroom": {
+     "type": "number",
+     "x-waargenomen": [
+      -99.95222282,
+      77.46440968
+     ]
+    }
+   },
+   "required": [
+    "van",
+    "naar",
+    "jaar",
+    "maand",
+    "stroom"
+   ],
+   "x-rijen": 7500
+  },
+  "fact_stromen_uur": {
+   "type": "object",
+   "description": "Een rij is (nog te beschrijven). Bron: ENTSO-E, Energy-Charts.",
+   "properties": {
+    "van": {
+     "type": "string"
+    },
+    "naar": {
+     "type": "string"
+    },
+    "jaar": {
+     "type": "number",
+     "x-waargenomen": [
+      2024.0,
+      2040.0
+     ],
+     "description": "Kalenderjaar. 2026 is onvolledig (tot 15 november). Eenheid: jaar."
+    },
+    "uur": {
+     "type": "number",
+     "x-waargenomen": [
+      0.0,
+      23.0
+     ],
+     "minimum": 0,
+     "maximum": 23,
+     "description": "Uur van de dag in UTC, 0 tot 23. Eenheid: uur."
+    },
+    "uur_bron": {
+     "type": "number",
+     "x-waargenomen": [
+      1.0,
+      24.0
+     ],
+     "minimum": 1,
+     "maximum": 24,
+     "description": "Uur zoals de bron het telt, 1 tot 24 (het uur dat eindigt). De kolom uur is hieruit afgeleid: uur = uur_bron - 1. Eenheid: uur."
+    },
+    "stroom": {
+     "type": "number",
+     "x-waargenomen": [
+      -100.0,
+      75.0
+     ]
+    }
+   },
+   "required": [
+    "van",
+    "naar",
+    "jaar",
+    "uur",
+    "uur_bron",
+    "stroom"
+   ],
+   "x-rijen": 15000
+  },
+  "fact_studieregio_jaar": {
+   "type": "object",
+   "description": "Een rij is een studieregio in een jaar: opwek, aandelen en uitstoot. Bron: Ember.",
+   "properties": {
+    "studieregio": {
+     "type": "string",
+     "enum": [
+      "China",
+      "Europa",
+      "Rest van de wereld",
+      "Nederland",
+      "VS"
+     ]
+    },
+    "Year": {
+     "type": "number",
+     "x-waargenomen": [
+      1985.0,
+      2025.0
+     ],
+     "description": "Kalenderjaar. Eenheid: jaar."
+    },
+    "Clean": {
+     "type": "number",
+     "x-waargenomen": [
+      4.26,
+      4315.19
+     ]
+    },
+    "Fossil": {
+     "type": "number",
+     "x-waargenomen": [
+      56.69,
+      7853.409
+     ]
+    },
+    "Solar": {
+     "type": "number",
+     "x-waargenomen": [
+      0.0,
+      1173.24
+     ]
+    },
+    "Total generation": {
+     "type": "number",
+     "x-waargenomen": [
+      70.7,
+      11893.219
+     ]
+    },
+    "Wind": {
+     "type": [
+      "number",
+      "null"
+     ],
+     "x-waargenomen": [
+      0.0,
+      1127.92
+     ]
+    },
+    "aandeel_solar_pct": {
+     "type": "number",
+     "x-waargenomen": [
+      0.0,
+      21.110510452690747
+     ]
+    },
+    "aandeel_wind_pct": {
+     "type": [
+      "number",
+      "null"
+     ],
+     "x-waargenomen": [
+      0.0,
+      27.376904466095603
+     ]
+    },
+    "aandeel_clean_pct": {
+     "type": "number",
+     "x-waargenomen": [
+      5.193889541715629,
+      62.59137784559678
+     ]
+    },
+    "aandeel_fossil_pct": {
+     "type": "number",
+     "x-waargenomen": [
+      37.4086221544032,
+      94.8061104582844
+     ]
+    },
+    "Emissions (MtCO2e)": {
+     "type": "number",
+     "x-waargenomen": [
+      30.68,
+      6121.765
+     ],
+     "description": "Uitstoot van de elektriciteitsopwek. Eenheid: megaton CO2-equivalent."
+    },
+    "intensiteit_g_kwh": {
+     "type": "number",
+     "x-waargenomen": [
+      250.76832537762377,
+      790.9183313496362
+     ]
+    }
+   },
+   "required": [
+    "studieregio",
+    "Year",
+    "Clean",
+    "Fossil",
+    "Solar",
+    "Total generation",
+    "aandeel_solar_pct",
+    "aandeel_clean_pct",
+    "aandeel_fossil_pct",
+    "Emissions (MtCO2e)",
+    "intensiteit_g_kwh"
+   ],
+   "x-rijen": 185
+  },
+  "fact_tech_land": {
+   "type": "object",
+   "description": "Een rij is een land in een jaar voor zon of wind: capture-prijs en rendement zonder contract. Bron: eigen berekening.",
+   "properties": {
+    "land": {
+     "type": "string",
+     "description": "Naam van het land of de biedzone in het Nederlands."
+    },
+    "jaar": {
+     "type": "number",
+     "x-waargenomen": [
+      2019.0,
+      2026.0
+     ],
+     "description": "Kalenderjaar. 2026 is onvolledig (tot 15 november). Eenheid: jaar."
+    },
+    "technologie": {
+     "type": "string",
+     "enum": [
+      "wind",
+      "zon"
+     ],
+     "description": "Techniek: zon of wind."
+    },
+    "capture_price": {
+     "type": "number",
+     "x-waargenomen": [
+      4.639031460971627,
+      315.4618334391376
+     ],
+     "description": "Prijs die de techniek gemiddeld ontvangt (gewogen naar opwek). Eenheid: euro per MWh."
+    },
+    "gem_prijs": {
+     "type": "number",
+     "x-waargenomen": [
+      8.716303230962438,
+      307.8148721461187
+     ],
+     "description": "Gemiddelde dagmarktprijs over alle uren van de periode. Eenheid: euro per MWh."
+    },
+    "aandeel_productie_negatief": {
+     "type": "number",
+     "x-waargenomen": [
+      0.0,
+      0.2419697987858205
+     ],
+     "minimum": 0,
+     "maximum": 1.0001,
+     "description": "Deel van de opwek dat in uren met een negatieve prijs valt. Eenheid: fractie."
+    },
+    "irr_merchant": {
+     "type": [
+      "number",
+      "null"
+     ],
+     "x-waargenomen": [
+      -0.1999472264945507,
+      0.4847451098263263
+     ],
+     "description": "IRR zonder contract, als de capture-prijs van dat jaar de hele levensduur zou gelden. Eenheid: fractie per jaar."
+    }
+   },
+   "required": [
+    "land",
+    "jaar",
+    "technologie",
+    "capture_price",
+    "gem_prijs",
+    "aandeel_productie_negatief"
+   ],
+   "x-rijen": 538
+  },
+  "fact_uk_prijs": {
+   "type": "object",
+   "description": "Een rij is een halfuur in Groot-Brittannie: marktprijs. Bron: Elexon.",
+   "properties": {
+    "timestamp_utc": {
+     "type": "string",
+     "format": "date-time",
+     "description": "Begin van het uur of kwartier, in UTC. Eenheid: tijdstip."
+    },
+    "prijs_gbp_mwh": {
+     "type": "number",
+     "x-waargenomen": [
+      -102.92,
+      1983.66
+     ]
+    }
+   },
+   "required": [
+    "timestamp_utc",
+    "prijs_gbp_mwh"
+   ],
+   "x-rijen": 135814
+  },
+  "fact_verbanden": {
+   "type": "object",
+   "description": "Een rij is (nog te beschrijven). Bron: eigen berekening.",
+   "properties": {
+    "verband": {
+     "type": "string",
+     "enum": [
+      "Batterij-omzet en dagspreiding",
+      "Batterij-omzet en gemiddelde prijs",
+      "Capture rate zon en negatieve uren",
+      "Capture rate zon en eigen zonaandeel",
+      "Capture rate wind en eigen windaandeel",
+      "Voorspelratio batterij en dagspreiding",
+      "Batterij-omzet en capture rate zon"
+     ]
+    },
+    "zonejaren": {
+     "type": "number",
+     "x-waargenomen": [
+      256.0,
+      259.0
+     ]
+    },
+    "rho_alle_zonejaren": {
+     "type": "number",
+     "x-waargenomen": [
+      -0.6043588266018723,
+      0.9795213008896172
+     ]
+    },
+    "rho_binnen_jaren": {
+     "type": "number",
+     "x-waargenomen": [
+      -0.5495829151071855,
+      0.9573502424750469
+     ]
+    },
+    "rho_2019": {
+     "type": "number",
+     "x-waargenomen": [
+      -0.4699674486129913,
+      0.9852993479549496
+     ]
+    },
+    "rho_2020": {
+     "type": "number",
+     "x-waargenomen": [
+      -0.622364910670087,
+      0.9224112398397952
+     ]
+    },
+    "rho_2021": {
+     "type": "number",
+     "x-waargenomen": [
+      -0.4211899374719395,
+      0.9532954006638216
+     ]
+    },
+    "rho_2022": {
+     "type": "number",
+     "x-waargenomen": [
+      -0.3764493374731159,
+      0.9340919867235656
+     ]
+    },
+    "rho_2023": {
+     "type": "number",
+     "x-waargenomen": [
+      -0.6316933958355695,
+      0.9672830725462304
+     ]
+    },
+    "rho_2024": {
+     "type": "number",
+     "x-waargenomen": [
+      -0.6249201596499735,
+      0.9781887150308202
+     ]
+    },
+    "rho_2025": {
+     "type": "number",
+     "x-waargenomen": [
+      -0.700495216036622,
+      0.960881934566145
+     ]
+    }
+   },
+   "required": [
+    "verband",
+    "zonejaren",
+    "rho_alle_zonejaren",
+    "rho_binnen_jaren",
+    "rho_2019",
+    "rho_2020",
+    "rho_2021",
+    "rho_2022",
+    "rho_2023",
+    "rho_2024",
+    "rho_2025"
+   ],
+   "x-rijen": 7
+  },
+  "fact_vermogen_land": {
+   "type": "object",
+   "description": "Een rij is (nog te beschrijven). Bron: eigen berekening.",
+   "properties": {
+    "land": {
+     "type": "string",
+     "description": "Naam van het land of de biedzone in het Nederlands."
+    },
+    "jaar": {
+     "type": "number",
+     "x-waargenomen": [
+      2002.0,
+      2030.0
+     ],
+     "description": "Kalenderjaar. 2026 is onvolledig (tot 15 november). Eenheid: jaar."
+    },
+    "technologie": {
+     "type": "string",
+     "description": "Techniek: zon of wind."
+    },
+    "naam_bron": {
+     "type": "string"
+    },
+    "gw": {
+     "type": "number",
+     "x-waargenomen": [
+      0.0,
+      215.0
+     ]
+    }
+   },
+   "required": [
+    "land",
+    "jaar",
+    "technologie",
+    "naam_bron",
+    "gw"
+   ],
+   "x-rijen": 3656
+  },
+  "fact_vollasturen_schatting": {
+   "type": "object",
+   "description": "Een rij is (nog te beschrijven). Bron: eigen berekening.",
+   "properties": {
+    "locatie": {
+     "type": "string",
+     "enum": [
+      "De Bilt",
+      "Den Helder",
+      "Eindhoven",
+      "Groningen",
+      "Vlissingen"
+     ]
+    },
+    "jaar": {
+     "type": "number",
+     "x-waargenomen": [
+      2019.0,
+      2026.0
+     ],
+     "description": "Kalenderjaar. 2026 is onvolledig (tot 15 november). Eenheid: jaar."
+    },
+    "vollasturen_schatting": {
+     "type": "number",
+     "x-waargenomen": [
+      920.2193500000052,
+      1121.1236499999989
+     ]
+    }
+   },
+   "required": [
+    "locatie",
+    "jaar",
+    "vollasturen_schatting"
+   ],
+   "x-rijen": 40
+  },
+  "fact_vs_dag": {
+   "type": "object",
+   "description": "Een rij is een dag in Texas of Californie: prijs, dagspreiding, batterijopbrengst, zon en wat de batterijvloot deed. Bron: EIA, gridstatus, CAISO OASIS; eigen berekening.",
+   "properties": {
+    "markt": {
+     "type": "string",
+     "enum": [
+      "VS Texas (ERCOT)",
+      "VS Californie (CAISO)"
+     ],
+     "description": "Naam van de markt buiten de EU (Texas, Californie, Japan, een Australische deelstaat)."
+    },
+    "datum": {
+     "type": "string",
+     "format": "date"
+    },
+    "gem_prijs_eur": {
+     "type": "number",
+     "x-waargenomen": [
+      -8.881,
+      7587.899
+     ],
+     "description": "Gemiddelde groothandelsprijs, omgerekend naar euro. Eenheid: euro per MWh."
+    },
+    "spreiding_2u": {
+     "type": "number",
+     "x-waargenomen": [
+      4.683,
+      6695.87
+     ]
+    },
+    "piekpremie": {
+     "type": "number",
+     "x-waargenomen": [
+      2.317,
+      2960.071
+     ]
+    },
+    "daldiepte": {
+     "type": "number",
+     "x-waargenomen": [
+      1.963,
+      3735.799
+     ]
+    },
+    "uur_piek": {
+     "type": "number",
+     "x-waargenomen": [
+      0.0,
+      23.0
+     ]
+    },
+    "uur_dal": {
+     "type": "number",
+     "x-waargenomen": [
+      0.0,
+      23.0
+     ]
+    },
+    "negatieve_uren": {
+     "type": "number",
+     "x-waargenomen": [
+      0.0,
+      11.0
+     ],
+     "minimum": 0,
+     "maximum": 8784,
+     "description": "Aantal uren met een dagmarktprijs onder nul. Eenheid: uren."
+    },
+    "batterij_achteraf_per_mw": {
+     "type": "number",
+     "x-waargenomen": [
+      0.0,
+      6510.3
+     ]
+    },
+    "batterij_plan_per_mw": {
+     "type": [
+      "number",
+      "null"
+     ],
+     "x-waargenomen": [
+      0.0,
+      6387.174
+     ]
+    },
+    "zon_mwh": {
+     "type": [
+      "number",
+      "null"
+     ],
+     "x-waargenomen": [
+      0.0,
+      368932.0
+     ]
+    },
+    "wind_mwh": {
+     "type": [
+      "number",
+      "null"
+     ],
+     "x-waargenomen": [
+      3223.0,
+      624005.0
+     ]
+    },
+    "opwek_mwh": {
+     "type": [
+      "number",
+      "null"
+     ],
+     "x-waargenomen": [
+      14858.0,
+      1853265.0
+     ]
+    },
+    "zon_piek_mw": {
+     "type": [
+      "number",
+      "null"
+     ],
+     "x-waargenomen": [
+      0.0,
+      34982.0
+     ]
+    },
+    "opwek_piek_mw": {
+     "type": [
+      "number",
+      "null"
+     ],
+     "x-waargenomen": [
+      13153.0,
+      92033.0
+     ]
+    },
+    "bat_ontladen_max_mw": {
+     "type": [
+      "number",
+      "null"
+     ],
+     "x-waargenomen": [
+      164.0,
+      11928.0
+     ]
+    },
+    "bat_laden_max_mw": {
+     "type": [
+      "number",
+      "null"
+     ],
+     "x-waargenomen": [
+      -130.0,
+      11553.0
+     ]
+    },
+    "bat_ontladen_mwh": {
+     "type": [
+      "number",
+      "null"
+     ],
+     "x-waargenomen": [
+      516.0,
+      38095.0
+     ]
+    },
+    "oth_max_mw": {
+     "type": [
+      "number",
+      "null"
+     ],
+     "x-waargenomen": [
+      0.0,
+      22949.0
+     ]
+    },
+    "oth_laden_max_mw": {
+     "type": [
+      "number",
+      "null"
+     ],
+     "x-waargenomen": [
+      -9228.0,
+      10928.0
+     ]
+    },
+    "bat_aandeel_piekuur": {
+     "type": [
+      "number",
+      "null"
+     ],
+     "x-waargenomen": [
+      0.0,
+      0.506
+     ]
+    },
+    "opwek_uren": {
+     "type": "number",
+     "x-waargenomen": [
+      0.0,
+      24.0
+     ]
+    }
+   },
+   "required": [
+    "markt",
+    "datum",
+    "gem_prijs_eur",
+    "spreiding_2u",
+    "piekpremie",
+    "daldiepte",
+    "uur_piek",
+    "uur_dal",
+    "negatieve_uren",
+    "batterij_achteraf_per_mw",
+    "opwek_uren"
+   ],
+   "x-rijen": 5007
+  },
+  "fact_vs_halfjaar": {
+   "type": "object",
+   "description": "Een rij is Texas of Californie, 1 januari tot en met 24 juni van een jaar. Bron: EIA, gridstatus, CAISO.",
+   "properties": {
+    "markt": {
+     "type": "string",
+     "enum": [
+      "VS Texas (ERCOT)",
+      "VS Californie (CAISO)"
+     ],
+     "description": "Naam van de markt buiten de EU (Texas, Californie, Japan, een Australische deelstaat)."
+    },
+    "jaar": {
+     "type": "number",
+     "x-waargenomen": [
+      2020.0,
+      2026.0
+     ],
+     "description": "Kalenderjaar. 2026 is onvolledig (tot 15 november). Eenheid: jaar."
+    },
+    "uren": {
+     "type": "number",
+     "x-waargenomen": [
+      4104.0,
+      4224.0
+     ],
+     "minimum": 0,
+     "maximum": 8784,
+     "description": "Aantal uren met een prijs in de periode. Eenheid: uren."
+    },
+    "gem_prijs_eur": {
+     "type": "number",
+     "x-waargenomen": [
+      15.88174700766666,
+      223.7057656666667
+     ],
+     "description": "Gemiddelde groothandelsprijs, omgerekend naar euro. Eenheid: euro per MWh."
+    },
+    "capture_zon_instraling": {
+     "type": "number",
+     "x-waargenomen": [
+      -0.2826469906540066,
+      1.3081279480259038
+     ],
+     "description": "Capture rate van zon, geschat met een instralingsprofiel in plaats van gemeten opwek. Eenheid: verhouding."
+    },
+    "negatieve_uren": {
+     "type": "number",
+     "x-waargenomen": [
+      0.0,
+      1027.0
+     ],
+     "minimum": 0,
+     "maximum": 8784,
+     "description": "Aantal uren met een dagmarktprijs onder nul. Eenheid: uren."
+    },
+    "batterij_2u_realistisch_eur_per_mw": {
+     "type": "number",
+     "x-waargenomen": [
+      11876.412598628573,
+      45642.361782988504
+     ],
+     "description": "Dagmarktomzet van een batterij van 2 uur, plan op gisteren, lokale dagen. Eenheid: euro per MW per jaar."
+    }
+   },
+   "required": [
+    "markt",
+    "jaar",
+    "uren",
+    "gem_prijs_eur",
+    "capture_zon_instraling",
+    "negatieve_uren",
+    "batterij_2u_realistisch_eur_per_mw"
+   ],
+   "x-rijen": 14
+  },
+  "fact_vs_opwek_jaar": {
+   "type": "object",
+   "description": "Een rij is Texas of Californie in een jaar per brandstof. Bron: EIA (uurdata opwek per bron).",
+   "properties": {
+    "markt": {
+     "type": "string",
+     "enum": [
+      "VS Californie (CAISO)",
+      "VS Texas (ERCOT)"
+     ],
+     "description": "Naam van de markt buiten de EU (Texas, Californie, Japan, een Australische deelstaat)."
+    },
+    "jaar": {
+     "type": "number",
+     "x-waargenomen": [
+      2020.0,
+      2026.0
+     ],
+     "description": "Kalenderjaar. 2026 is onvolledig (tot 15 november). Eenheid: jaar."
+    },
+    "brandstof": {
+     "type": "string",
+     "description": "Opwekbron volgens EIA (SUN, WND, NUC, NG, BAT en andere)."
+    },
+    "twh": {
+     "type": "number",
+     "x-waargenomen": [
+      0.0,
+      204.325369
+     ],
+     "description": "Opwek in het jaar. Eenheid: TWh."
+    },
+    "aandeel_opwek": {
+     "type": "number",
+     "x-waargenomen": [
+      0.0,
+      0.530340636452641
+     ],
+     "minimum": 0,
+     "maximum": 1.0001,
+     "description": "Aandeel van de brandstof in de totale opwek. Eenheid: fractie."
+    },
+    "capture_rate": {
+     "type": [
+      "number",
+      "null"
+     ],
+     "x-waargenomen": [
+      0.4725405656133463,
+      3.325894126733605
+     ],
+     "minimum": 0,
+     "maximum": 5,
+     "description": "Capture rate van de genoemde techniek of brandstof. Eenheid: verhouding."
+    },
+    "aandeel_in_negatieve_uren": {
+     "type": [
+      "number",
+      "null"
+     ],
+     "x-waargenomen": [
+      0.0,
+      0.3093952147448693
+     ],
+     "minimum": 0,
+     "maximum": 1.0001,
+     "description": "Deel van de opwek van deze bron dat in uren met een negatieve prijs valt. Eenheid: fractie."
+    },
+    "hoogste_uur_mw": {
+     "type": "number",
+     "x-waargenomen": [
+      0.0,
+      51156.0
+     ],
+     "description": "Hoogste opwek in een uur. Eenheid: MW."
+    },
+    "uren_met_prijs": {
+     "type": "number",
+     "x-waargenomen": [
+      376.0,
+      8784.0
+     ]
+    }
+   },
+   "required": [
+    "markt",
+    "jaar",
+    "brandstof",
+    "twh",
+    "aandeel_opwek",
+    "hoogste_uur_mw",
+    "uren_met_prijs"
+   ],
+   "x-rijen": 112
+  },
+  "fact_weer_uur": {
+   "type": "object",
+   "description": "Een rij is een uur op een meetpunt: instraling en weer. Bron: Open-Meteo.",
+   "properties": {
+    "locatie": {
+     "type": "string",
+     "enum": [
+      "De Bilt",
+      "Groningen",
+      "Vlissingen",
+      "Eindhoven",
+      "Den Helder"
+     ]
+    },
+    "timestamp_utc": {
+     "type": "string",
+     "format": "date-time",
+     "description": "Begin van het uur of kwartier, in UTC. Eenheid: tijdstip."
+    },
+    "straling_w_m2": {
+     "type": "number",
+     "x-waargenomen": [
+      0.0,
+      900.0
+     ]
+    },
+    "wind_100m_kmh": {
+     "type": "number",
+     "x-waargenomen": [
+      0.0,
+      107.6
+     ]
+    },
+    "temp_c": {
+     "type": "number",
+     "x-waargenomen": [
+      -15.4,
+      38.6
+     ]
+    },
+    "bewolking_pct": {
+     "type": "number",
+     "x-waargenomen": [
+      0.0,
+      100.0
+     ]
+    }
+   },
+   "required": [
+    "locatie",
+    "timestamp_utc",
+    "straling_w_m2",
+    "wind_100m_kmh",
+    "temp_c",
+    "bewolking_pct"
+   ],
+   "x-rijen": 345240
+  },
+  "fact_wereld_markten": {
+   "type": "object",
+   "description": "Een rij is een markt buiten de EU in een jaar. Bron: EIA, gridstatus, CAISO, AEMO, JEPX, Elexon.",
+   "properties": {
+    "markt": {
+     "type": "string",
+     "enum": [
+      "Verenigd Koninkrijk",
+      "Japan (systeemprijs)",
+      "VS Texas (ERCOT)",
+      "VS Californie (CAISO)"
+     ],
+     "description": "Naam van de markt buiten de EU (Texas, Californie, Japan, een Australische deelstaat)."
+    },
+    "jaar": {
+     "type": "number",
+     "x-waargenomen": [
+      2019.0,
+      2026.0
+     ],
+     "description": "Kalenderjaar. 2026 is onvolledig (tot 15 november). Eenheid: jaar."
+    },
+    "uren": {
+     "type": "number",
+     "x-waargenomen": [
+      6609.0,
+      8784.0
+     ],
+     "minimum": 0,
+     "maximum": 8784,
+     "description": "Aantal uren met een prijs in de periode. Eenheid: uren."
+    },
+    "gem_prijs_eur": {
+     "type": "number",
+     "x-waargenomen": [
+      18.72705452267036,
+      231.88150640571376
+     ],
+     "description": "Gemiddelde groothandelsprijs, omgerekend naar euro. Eenheid: euro per MWh."
+    },
+    "capture_zon_instraling": {
+     "type": "number",
+     "x-waargenomen": [
+      0.282214160137423,
+      1.4122475308095153
+     ],
+     "description": "Capture rate van zon, geschat met een instralingsprofiel in plaats van gemeten opwek. Eenheid: verhouding."
+    },
+    "negatieve_uren": {
+     "type": "number",
+     "x-waargenomen": [
+      0.0,
+      1171.0
+     ],
+     "minimum": 0,
+     "maximum": 8784,
+     "description": "Aantal uren met een dagmarktprijs onder nul. Eenheid: uren."
+    },
+    "batterij_2u_realistisch_eur_per_mw": {
+     "type": "number",
+     "x-waargenomen": [
+      9240.28949085044,
+      97735.64527030296
+     ],
+     "description": "Dagmarktomzet van een batterij van 2 uur, plan op gisteren, lokale dagen. Eenheid: euro per MW per jaar."
+    }
+   },
+   "required": [
+    "markt",
+    "jaar",
+    "uren",
+    "gem_prijs_eur",
+    "capture_zon_instraling",
+    "negatieve_uren",
+    "batterij_2u_realistisch_eur_per_mw"
+   ],
+   "x-rijen": 30
+  },
+  "fact_wereldbeeld": {
+   "type": "object",
+   "description": "Een rij is (nog te beschrijven). Bron: eigen berekening.",
+   "properties": {
+    "wereldbeeld": {
+     "type": "string",
+     "enum": [
+      "Huidig beleid",
+      "Orderly (Net Zero)",
+      "Disorderly"
+     ]
+    },
+    "irr_zon": {
+     "type": "number",
+     "x-waargenomen": [
+      0.0300509093701839,
+      0.0580470152199268
+     ],
+     "description": "IRR van het zonnepark van 10 MW voor belasting, bij de marktwaarde van dat jaar. Eenheid: fractie per jaar."
+    },
+    "irr_batterij_standalone": {
+     "type": "number",
+     "x-waargenomen": [
+      -0.1170909537374973,
+      -0.01750956133008
+     ]
+    },
+    "irr_batterij_hybride": {
+     "type": "number",
+     "x-waargenomen": [
+      -0.0330975951254367,
+      0.0277406199276447
+     ]
+    },
+    "netto_irr_belegger": {
+     "type": "number",
+     "x-waargenomen": [
+      -0.0008492638170719,
+      0.0286396490037441
+     ]
+    }
+   },
+   "required": [
+    "wereldbeeld",
+    "irr_zon",
+    "irr_batterij_standalone",
+    "irr_batterij_hybride",
+    "netto_irr_belegger"
+   ],
+   "x-rijen": 3
+  },
+  "fact_worldbank": {
+   "type": "object",
+   "description": "Een rij is (nog te beschrijven). Bron: Wereldbank.",
+   "properties": {
+    "land": {
+     "type": "string",
+     "description": "Naam van het land of de biedzone in het Nederlands."
+    },
+    "iso3": {
+     "type": [
+      "string",
+      "null"
+     ],
+     "description": "Landcode volgens ISO 3166 (drie letters)."
+    },
+    "jaar": {
+     "type": "number",
+     "x-waargenomen": [
+      2000.0,
+      2025.0
+     ],
+     "description": "Kalenderjaar. 2026 is onvolledig (tot 15 november). Eenheid: jaar."
+    },
+    "indicator": {
+     "type": "string",
+     "enum": [
+      "bevolking",
+      "bbp_per_hoofd_usd",
+      "toegang_elektriciteit_pct",
+      "co2_per_hoofd_t",
+      "hernieuwbaar_in_eindverbruik_pct",
+      "hernieuwbaar_in_opwek_pct",
+      "rente_leningen_pct"
+     ]
+    },
+    "waarde": {
+     "type": "number",
+     "x-waargenomen": [
+      0.0,
+      8215424893.0
+     ]
+    }
+   },
+   "required": [
+    "land",
+    "jaar",
+    "indicator",
+    "waarde"
+   ],
+   "x-rijen": 40762
+  }
+ }
+}

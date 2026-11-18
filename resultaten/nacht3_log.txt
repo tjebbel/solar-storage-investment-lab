@@ -1,0 +1,718 @@
+=== Start Mon Nov 16 14:36:41 CET 2026 ===
+  -> fact_ntc.csv: 851 rijen
+  -> fact_importpotentieel.csv: 368 rijen
+  -> fact_land_profiel_uur.csv: 2760 rijen
+  -> fact_land_profiel_maand.csv: 1564 rijen
+  -> fact_stromen_uur.csv: 15000 rijen
+  -> fact_stromen_maand.csv: 7500 rijen
+  NL interconnectie (MW, beide richtingen): Needs 2030: 32,560, Needs 2040: 38,200, Projects 2030: 25,200, Projects 2040: 34,600, Reference 2024: 14,930, Reference 2030: 25,200, Reference 2040: 28,200
+  NL 2024: netto-positie piek uur 12 (+12.8), dal uur 24 (-5.5)
+  NL 2030: netto-positie piek uur 15 (+31.9), dal uur 4 (-23.3)
+  NL 2040: netto-positie piek uur 11 (+0.8), dal uur 2 (-12.3)
+== uk  14:36
+  UK 2019 gestart
+  UK 2020 gestart
+  UK 2021 gestart
+  UK 2022 gestart
+  UK 2023 gestart
+  UK 2024 gestart
+  UK 2025 gestart
+  UK 2026 gestart
+  -> fact_uk_prijs.csv: 135813 rijen
+  -> fact_wereld_markten.csv: 12 rijen
+== japan  15:48
+  Japan FY2019 klaar
+  Japan FY2020 klaar
+  Japan FY2021 klaar
+  Japan FY2022 klaar
+  Japan FY2023 klaar
+  Japan FY2024 klaar
+  Japan FY2025 klaar
+  Japan FY2026 klaar
+  -> fact_wereld_markten.csv: 20 rijen
+== vs  15:56
+2026-11-16 15:56:39 - DEBUG - Dataset config: {'query': {'path': 'SingleZip', 'resultformat': 6, 'queryname': 'PRC_LMP', 'version': 12}, 'params': {'market_run_id': 'DAM', 'node': None, 'grp_type': [None, 'ALL', 'ALL_APNODES']}}
+2026-11-16 15:56:39 - INFO - Fetching URL: https://oasis.caiso.com/oasisapi/SingleZip?resultformat=6&queryname=PRC_LMP&version=12&market_run_id=DAM&node=TH_SP15_GEN-APND&startdatetime=20230101T08:00-0000&enddatetime=20230201T08:00-0000
+2026-11-16 15:56:47 - WARNING - No data for 2023-01-01 00:00:00-08:00 to 2023-02-01 00:00:00-08:00
+2026-11-16 15:57:07 - DEBUG - Dataset config: {'query': {'path': 'SingleZip', 'resultformat': 6, 'queryname': 'PRC_LMP', 'version': 12}, 'params': {'market_run_id': 'DAM', 'node': None, 'grp_type': [None, 'ALL', 'ALL_APNODES']}}
+2026-11-16 15:57:07 - INFO - Fetching URL: https://oasis.caiso.com/oasisapi/SingleZip?resultformat=6&queryname=PRC_LMP&version=12&market_run_id=DAM&node=TH_SP15_GEN-APND&startdatetime=20230101T08:00-0000&enddatetime=20230201T08:00-0000
+2026-11-16 15:57:18 - WARNING - No data for 2023-01-01 00:00:00-08:00 to 2023-02-01 00:00:00-08:00
+2026-11-16 15:57:58 - DEBUG - Dataset config: {'query': {'path': 'SingleZip', 'resultformat': 6, 'queryname': 'PRC_LMP', 'version': 12}, 'params': {'market_run_id': 'DAM', 'node': None, 'grp_type': [None, 'ALL', 'ALL_APNODES']}}
+2026-11-16 15:57:58 - INFO - Fetching URL: https://oasis.caiso.com/oasisapi/SingleZip?resultformat=6&queryname=PRC_LMP&version=12&market_run_id=DAM&node=TH_SP15_GEN-APND&startdatetime=20230101T08:00-0000&enddatetime=20230201T08:00-0000
+2026-11-16 15:58:12 - WARNING - No data for 2023-01-01 00:00:00-08:00 to 2023-02-01 00:00:00-08:00
+2026-11-16 15:59:12 - DEBUG - Dataset config: {'query': {'path': 'SingleZip', 'resultformat': 6, 'queryname': 'PRC_LMP', 'version': 12}, 'params': {'market_run_id': 'DAM', 'node': None, 'grp_type': [None, 'ALL', 'ALL_APNODES']}}
+2026-11-16 15:59:12 - INFO - Fetching URL: https://oasis.caiso.com/oasisapi/SingleZip?resultformat=6&queryname=PRC_LMP&version=12&market_run_id=DAM&node=TH_SP15_GEN-APND&startdatetime=20230201T08:00-0000&enddatetime=20230301T08:00-0000
+2026-11-16 15:59:28 - WARNING - No data for 2023-02-01 00:00:00-08:00 to 2023-03-01 00:00:00-08:00
+2026-11-16 15:59:49 - DEBUG - Dataset config: {'query': {'path': 'SingleZip', 'resultformat': 6, 'queryname': 'PRC_LMP', 'version': 12}, 'params': {'market_run_id': 'DAM', 'node': None, 'grp_type': [None, 'ALL', 'ALL_APNODES']}}
+2026-11-16 15:59:49 - INFO - Fetching URL: https://oasis.caiso.com/oasisapi/SingleZip?resultformat=6&queryname=PRC_LMP&version=12&market_run_id=DAM&node=TH_SP15_GEN-APND&startdatetime=20230201T08:00-0000&enddatetime=20230301T08:00-0000
+2026-11-16 16:00:00 - WARNING - No data for 2023-02-01 00:00:00-08:00 to 2023-03-01 00:00:00-08:00
+2026-11-16 16:00:40 - DEBUG - Dataset config: {'query': {'path': 'SingleZip', 'resultformat': 6, 'queryname': 'PRC_LMP', 'version': 12}, 'params': {'market_run_id': 'DAM', 'node': None, 'grp_type': [None, 'ALL', 'ALL_APNODES']}}
+2026-11-16 16:00:40 - INFO - Fetching URL: https://oasis.caiso.com/oasisapi/SingleZip?resultformat=6&queryname=PRC_LMP&version=12&market_run_id=DAM&node=TH_SP15_GEN-APND&startdatetime=20230201T08:00-0000&enddatetime=20230301T08:00-0000
+2026-11-16 16:00:55 - WARNING - No data for 2023-02-01 00:00:00-08:00 to 2023-03-01 00:00:00-08:00
+2026-11-16 16:01:55 - DEBUG - Dataset config: {'query': {'path': 'SingleZip', 'resultformat': 6, 'queryname': 'PRC_LMP', 'version': 12}, 'params': {'market_run_id': 'DAM', 'node': None, 'grp_type': [None, 'ALL', 'ALL_APNODES']}}
+2026-11-16 16:01:55 - INFO - Fetching URL: https://oasis.caiso.com/oasisapi/SingleZip?resultformat=6&queryname=PRC_LMP&version=12&market_run_id=DAM&node=TH_SP15_GEN-APND&startdatetime=20230301T08:00-0000&enddatetime=20230401T07:00-0000
+2026-11-16 16:02:08 - WARNING - No data for 2023-03-01 00:00:00-08:00 to 2023-04-01 00:00:00-07:00
+2026-11-16 16:02:28 - DEBUG - Dataset config: {'query': {'path': 'SingleZip', 'resultformat': 6, 'queryname': 'PRC_LMP', 'version': 12}, 'params': {'market_run_id': 'DAM', 'node': None, 'grp_type': [None, 'ALL', 'ALL_APNODES']}}
+2026-11-16 16:02:28 - INFO - Fetching URL: https://oasis.caiso.com/oasisapi/SingleZip?resultformat=6&queryname=PRC_LMP&version=12&market_run_id=DAM&node=TH_SP15_GEN-APND&startdatetime=20230301T08:00-0000&enddatetime=20230401T07:00-0000
+2026-11-16 16:02:38 - WARNING - No data for 2023-03-01 00:00:00-08:00 to 2023-04-01 00:00:00-07:00
+2026-11-16 16:03:18 - DEBUG - Dataset config: {'query': {'path': 'SingleZip', 'resultformat': 6, 'queryname': 'PRC_LMP', 'version': 12}, 'params': {'market_run_id': 'DAM', 'node': None, 'grp_type': [None, 'ALL', 'ALL_APNODES']}}
+2026-11-16 16:03:18 - INFO - Fetching URL: https://oasis.caiso.com/oasisapi/SingleZip?resultformat=6&queryname=PRC_LMP&version=12&market_run_id=DAM&node=TH_SP15_GEN-APND&startdatetime=20230301T08:00-0000&enddatetime=20230401T07:00-0000
+2026-11-16 16:03:33 - WARNING - No data for 2023-03-01 00:00:00-08:00 to 2023-04-01 00:00:00-07:00
+2026-11-16 16:04:33 - DEBUG - Dataset config: {'query': {'path': 'SingleZip', 'resultformat': 6, 'queryname': 'PRC_LMP', 'version': 12}, 'params': {'market_run_id': 'DAM', 'node': None, 'grp_type': [None, 'ALL', 'ALL_APNODES']}}
+2026-11-16 16:04:33 - INFO - Fetching URL: https://oasis.caiso.com/oasisapi/SingleZip?resultformat=6&queryname=PRC_LMP&version=12&market_run_id=DAM&node=TH_SP15_GEN-APND&startdatetime=20230401T07:00-0000&enddatetime=20230501T07:00-0000
+2026-11-16 16:04:46 - WARNING - No data for 2023-04-01 00:00:00-07:00 to 2023-05-01 00:00:00-07:00
+2026-11-16 16:05:06 - DEBUG - Dataset config: {'query': {'path': 'SingleZip', 'resultformat': 6, 'queryname': 'PRC_LMP', 'version': 12}, 'params': {'market_run_id': 'DAM', 'node': None, 'grp_type': [None, 'ALL', 'ALL_APNODES']}}
+2026-11-16 16:05:06 - INFO - Fetching URL: https://oasis.caiso.com/oasisapi/SingleZip?resultformat=6&queryname=PRC_LMP&version=12&market_run_id=DAM&node=TH_SP15_GEN-APND&startdatetime=20230401T07:00-0000&enddatetime=20230501T07:00-0000
+2026-11-16 16:05:19 - WARNING - No data for 2023-04-01 00:00:00-07:00 to 2023-05-01 00:00:00-07:00
+2026-11-16 16:05:59 - DEBUG - Dataset config: {'query': {'path': 'SingleZip', 'resultformat': 6, 'queryname': 'PRC_LMP', 'version': 12}, 'params': {'market_run_id': 'DAM', 'node': None, 'grp_type': [None, 'ALL', 'ALL_APNODES']}}
+2026-11-16 16:05:59 - INFO - Fetching URL: https://oasis.caiso.com/oasisapi/SingleZip?resultformat=6&queryname=PRC_LMP&version=12&market_run_id=DAM&node=TH_SP15_GEN-APND&startdatetime=20230401T07:00-0000&enddatetime=20230501T07:00-0000
+2026-11-16 16:06:12 - WARNING - No data for 2023-04-01 00:00:00-07:00 to 2023-05-01 00:00:00-07:00
+2026-11-16 16:07:12 - DEBUG - Dataset config: {'query': {'path': 'SingleZip', 'resultformat': 6, 'queryname': 'PRC_LMP', 'version': 12}, 'params': {'market_run_id': 'DAM', 'node': None, 'grp_type': [None, 'ALL', 'ALL_APNODES']}}
+2026-11-16 16:07:12 - INFO - Fetching URL: https://oasis.caiso.com/oasisapi/SingleZip?resultformat=6&queryname=PRC_LMP&version=12&market_run_id=DAM&node=TH_SP15_GEN-APND&startdatetime=20230501T07:00-0000&enddatetime=20230601T07:00-0000
+2026-11-16 16:07:24 - WARNING - No data for 2023-05-01 00:00:00-07:00 to 2023-06-01 00:00:00-07:00
+2026-11-16 16:07:44 - DEBUG - Dataset config: {'query': {'path': 'SingleZip', 'resultformat': 6, 'queryname': 'PRC_LMP', 'version': 12}, 'params': {'market_run_id': 'DAM', 'node': None, 'grp_type': [None, 'ALL', 'ALL_APNODES']}}
+2026-11-16 16:07:44 - INFO - Fetching URL: https://oasis.caiso.com/oasisapi/SingleZip?resultformat=6&queryname=PRC_LMP&version=12&market_run_id=DAM&node=TH_SP15_GEN-APND&startdatetime=20230501T07:00-0000&enddatetime=20230601T07:00-0000
+2026-11-16 16:07:56 - WARNING - No data for 2023-05-01 00:00:00-07:00 to 2023-06-01 00:00:00-07:00
+2026-11-16 16:08:36 - DEBUG - Dataset config: {'query': {'path': 'SingleZip', 'resultformat': 6, 'queryname': 'PRC_LMP', 'version': 12}, 'params': {'market_run_id': 'DAM', 'node': None, 'grp_type': [None, 'ALL', 'ALL_APNODES']}}
+2026-11-16 16:08:36 - INFO - Fetching URL: https://oasis.caiso.com/oasisapi/SingleZip?resultformat=6&queryname=PRC_LMP&version=12&market_run_id=DAM&node=TH_SP15_GEN-APND&startdatetime=20230501T07:00-0000&enddatetime=20230601T07:00-0000
+2026-11-16 16:09:47 - DEBUG - Dataset config: {'query': {'path': 'SingleZip', 'resultformat': 6, 'queryname': 'PRC_LMP', 'version': 12}, 'params': {'market_run_id': 'DAM', 'node': None, 'grp_type': [None, 'ALL', 'ALL_APNODES']}}
+2026-11-16 16:09:47 - INFO - Fetching URL: https://oasis.caiso.com/oasisapi/SingleZip?resultformat=6&queryname=PRC_LMP&version=12&market_run_id=DAM&node=TH_SP15_GEN-APND&startdatetime=20230601T07:00-0000&enddatetime=20230701T07:00-0000
+2026-11-16 16:10:04 - WARNING - No data for 2023-06-01 00:00:00-07:00 to 2023-07-01 00:00:00-07:00
+2026-11-16 16:10:24 - DEBUG - Dataset config: {'query': {'path': 'SingleZip', 'resultformat': 6, 'queryname': 'PRC_LMP', 'version': 12}, 'params': {'market_run_id': 'DAM', 'node': None, 'grp_type': [None, 'ALL', 'ALL_APNODES']}}
+2026-11-16 16:10:24 - INFO - Fetching URL: https://oasis.caiso.com/oasisapi/SingleZip?resultformat=6&queryname=PRC_LMP&version=12&market_run_id=DAM&node=TH_SP15_GEN-APND&startdatetime=20230601T07:00-0000&enddatetime=20230701T07:00-0000
+2026-11-16 16:10:38 - WARNING - No data for 2023-06-01 00:00:00-07:00 to 2023-07-01 00:00:00-07:00
+2026-11-16 16:11:18 - DEBUG - Dataset config: {'query': {'path': 'SingleZip', 'resultformat': 6, 'queryname': 'PRC_LMP', 'version': 12}, 'params': {'market_run_id': 'DAM', 'node': None, 'grp_type': [None, 'ALL', 'ALL_APNODES']}}
+2026-11-16 16:11:18 - INFO - Fetching URL: https://oasis.caiso.com/oasisapi/SingleZip?resultformat=6&queryname=PRC_LMP&version=12&market_run_id=DAM&node=TH_SP15_GEN-APND&startdatetime=20230601T07:00-0000&enddatetime=20230701T07:00-0000
+2026-11-16 16:11:37 - WARNING - No data for 2023-06-01 00:00:00-07:00 to 2023-07-01 00:00:00-07:00
+2026-11-16 16:12:37 - DEBUG - Dataset config: {'query': {'path': 'SingleZip', 'resultformat': 6, 'queryname': 'PRC_LMP', 'version': 12}, 'params': {'market_run_id': 'DAM', 'node': None, 'grp_type': [None, 'ALL', 'ALL_APNODES']}}
+2026-11-16 16:12:37 - INFO - Fetching URL: https://oasis.caiso.com/oasisapi/SingleZip?resultformat=6&queryname=PRC_LMP&version=12&market_run_id=DAM&node=TH_SP15_GEN-APND&startdatetime=20230701T07:00-0000&enddatetime=20230801T07:00-0000
+2026-11-16 16:12:54 - WARNING - No data for 2023-07-01 00:00:00-07:00 to 2023-08-01 00:00:00-07:00
+2026-11-16 16:13:14 - DEBUG - Dataset config: {'query': {'path': 'SingleZip', 'resultformat': 6, 'queryname': 'PRC_LMP', 'version': 12}, 'params': {'market_run_id': 'DAM', 'node': None, 'grp_type': [None, 'ALL', 'ALL_APNODES']}}
+2026-11-16 16:13:14 - INFO - Fetching URL: https://oasis.caiso.com/oasisapi/SingleZip?resultformat=6&queryname=PRC_LMP&version=12&market_run_id=DAM&node=TH_SP15_GEN-APND&startdatetime=20230701T07:00-0000&enddatetime=20230801T07:00-0000
+2026-11-16 16:13:27 - WARNING - No data for 2023-07-01 00:00:00-07:00 to 2023-08-01 00:00:00-07:00
+Error: No data found for start date: 2023-01-01 00:00:00-08:00 and end date: 2023-02-01 00:00:00-08:00
+Args: {'self': <gridstatus.caiso.caiso.CAISO object at 0x10e3ca270>, 'date': Timestamp('2023-01-01 00:00:00-0800', tz='US/Pacific'), 'market': <Markets.DAY_AHEAD_HOURLY: 'DAY_AHEAD_HOURLY'>, 'locations': ['TH_SP15_GEN-APND'], 'sleep': 5, 'verbose': False, 'end': Timestamp('2023-02-01 00:00:00-0800', tz='US/Pacific')}
+
+Errors that occurred while getting data:
+[{'date': Timestamp('2023-01-01 00:00:00-0800', tz='US/Pacific'),
+  'end': Timestamp('2023-02-01 00:00:00-0800', tz='US/Pacific'),
+  'locations': ['TH_SP15_GEN-APND'],
+  'market': <Markets.DAY_AHEAD_HOURLY: 'DAY_AHEAD_HOURLY'>,
+  'self': <gridstatus.caiso.caiso.CAISO object at 0x10e3ca270>,
+  'sleep': 5,
+  'verbose': False}]
+Error: No data found for start date: 2023-01-01 00:00:00-08:00 and end date: 2023-02-01 00:00:00-08:00
+Args: {'self': <gridstatus.caiso.caiso.CAISO object at 0x10e3ca270>, 'date': Timestamp('2023-01-01 00:00:00-0800', tz='US/Pacific'), 'market': <Markets.DAY_AHEAD_HOURLY: 'DAY_AHEAD_HOURLY'>, 'locations': ['TH_SP15_GEN-APND'], 'sleep': 5, 'verbose': False, 'end': Timestamp('2023-02-01 00:00:00-0800', tz='US/Pacific')}
+
+Errors that occurred while getting data:
+[{'date': Timestamp('2023-01-01 00:00:00-0800', tz='US/Pacific'),
+  'end': Timestamp('2023-02-01 00:00:00-0800', tz='US/Pacific'),
+  'locations': ['TH_SP15_GEN-APND'],
+  'market': <Markets.DAY_AHEAD_HOURLY: 'DAY_AHEAD_HOURLY'>,
+  'self': <gridstatus.caiso.caiso.CAISO object at 0x10e3ca270>,
+  'sleep': 5,
+  'verbose': False}]
+Error: No data found for start date: 2023-01-01 00:00:00-08:00 and end date: 2023-02-01 00:00:00-08:00
+Args: {'self': <gridstatus.caiso.caiso.CAISO object at 0x10e3ca270>, 'date': Timestamp('2023-01-01 00:00:00-0800', tz='US/Pacific'), 'market': <Markets.DAY_AHEAD_HOURLY: 'DAY_AHEAD_HOURLY'>, 'locations': ['TH_SP15_GEN-APND'], 'sleep': 5, 'verbose': False, 'end': Timestamp('2023-02-01 00:00:00-0800', tz='US/Pacific')}
+
+Errors that occurred while getting data:
+[{'date': Timestamp('2023-01-01 00:00:00-0800', tz='US/Pacific'),
+  'end': Timestamp('2023-02-01 00:00:00-0800', tz='US/Pacific'),
+  'locations': ['TH_SP15_GEN-APND'],
+  'market': <Markets.DAY_AHEAD_HOURLY: 'DAY_AHEAD_HOURLY'>,
+  'self': <gridstatus.caiso.caiso.CAISO object at 0x10e3ca270>,
+  'sleep': 5,
+  'verbose': False}]
+Error: No data found for start date: 2023-02-01 00:00:00-08:00 and end date: 2023-03-01 00:00:00-08:00
+Args: {'self': <gridstatus.caiso.caiso.CAISO object at 0x10e3ca270>, 'date': Timestamp('2023-02-01 00:00:00-0800', tz='US/Pacific'), 'market': <Markets.DAY_AHEAD_HOURLY: 'DAY_AHEAD_HOURLY'>, 'locations': ['TH_SP15_GEN-APND'], 'sleep': 5, 'verbose': False, 'end': Timestamp('2023-03-01 00:00:00-0800', tz='US/Pacific')}
+
+Errors that occurred while getting data:
+[{'date': Timestamp('2023-02-01 00:00:00-0800', tz='US/Pacific'),
+  'end': Timestamp('2023-03-01 00:00:00-0800', tz='US/Pacific'),
+  'locations': ['TH_SP15_GEN-APND'],
+  'market': <Markets.DAY_AHEAD_HOURLY: 'DAY_AHEAD_HOURLY'>,
+  'self': <gridstatus.caiso.caiso.CAISO object at 0x10e3ca270>,
+  'sleep': 5,
+  'verbose': False}]
+Error: No data found for start date: 2023-02-01 00:00:00-08:00 and end date: 2023-03-01 00:00:00-08:00
+Args: {'self': <gridstatus.caiso.caiso.CAISO object at 0x10e3ca270>, 'date': Timestamp('2023-02-01 00:00:00-0800', tz='US/Pacific'), 'market': <Markets.DAY_AHEAD_HOURLY: 'DAY_AHEAD_HOURLY'>, 'locations': ['TH_SP15_GEN-APND'], 'sleep': 5, 'verbose': False, 'end': Timestamp('2023-03-01 00:00:00-0800', tz='US/Pacific')}
+
+Errors that occurred while getting data:
+[{'date': Timestamp('2023-02-01 00:00:00-0800', tz='US/Pacific'),
+  'end': Timestamp('2023-03-01 00:00:00-0800', tz='US/Pacific'),
+  'locations': ['TH_SP15_GEN-APND'],
+  'market': <Markets.DAY_AHEAD_HOURLY: 'DAY_AHEAD_HOURLY'>,
+  'self': <gridstatus.caiso.caiso.CAISO object at 0x10e3ca270>,
+  'sleep': 5,
+  'verbose': False}]
+Error: No data found for start date: 2023-02-01 00:00:00-08:00 and end date: 2023-03-01 00:00:00-08:00
+Args: {'self': <gridstatus.caiso.caiso.CAISO object at 0x10e3ca270>, 'date': Timestamp('2023-02-01 00:00:00-0800', tz='US/Pacific'), 'market': <Markets.DAY_AHEAD_HOURLY: 'DAY_AHEAD_HOURLY'>, 'locations': ['TH_SP15_GEN-APND'], 'sleep': 5, 'verbose': False, 'end': Timestamp('2023-03-01 00:00:00-0800', tz='US/Pacific')}
+
+Errors that occurred while getting data:
+[{'date': Timestamp('2023-02-01 00:00:00-0800', tz='US/Pacific'),
+  'end': Timestamp('2023-03-01 00:00:00-0800', tz='US/Pacific'),
+  'locations': ['TH_SP15_GEN-APND'],
+  'market': <Markets.DAY_AHEAD_HOURLY: 'DAY_AHEAD_HOURLY'>,
+  'self': <gridstatus.caiso.caiso.CAISO object at 0x10e3ca270>,
+  'sleep': 5,
+  'verbose': False}]
+Error: No data found for start date: 2023-03-01 00:00:00-08:00 and end date: 2023-04-01 00:00:00-07:00
+Args: {'self': <gridstatus.caiso.caiso.CAISO object at 0x10e3ca270>, 'date': Timestamp('2023-03-01 00:00:00-0800', tz='US/Pacific'), 'market': <Markets.DAY_AHEAD_HOURLY: 'DAY_AHEAD_HOURLY'>, 'locations': ['TH_SP15_GEN-APND'], 'sleep': 5, 'verbose': False, 'end': Timestamp('2023-04-01 00:00:00-0700', tz='US/Pacific')}
+
+Errors that occurred while getting data:
+[{'date': Timestamp('2023-03-01 00:00:00-0800', tz='US/Pacific'),
+  'end': Timestamp('2023-04-01 00:00:00-0700', tz='US/Pacific'),
+  'locations': ['TH_SP15_GEN-APND'],
+  'market': <Markets.DAY_AHEAD_HOURLY: 'DAY_AHEAD_HOURLY'>,
+  'self': <gridstatus.caiso.caiso.CAISO object at 0x10e3ca270>,
+  'sleep': 5,
+  'verbose': False}]
+Error: No data found for start date: 2023-03-01 00:00:00-08:00 and end date: 2023-04-01 00:00:00-07:00
+Args: {'self': <gridstatus.caiso.caiso.CAISO object at 0x10e3ca270>, 'date': Timestamp('2023-03-01 00:00:00-0800', tz='US/Pacific'), 'market': <Markets.DAY_AHEAD_HOURLY: 'DAY_AHEAD_HOURLY'>, 'locations': ['TH_SP15_GEN-APND'], 'sleep': 5, 'verbose': False, 'end': Timestamp('2023-04-01 00:00:00-0700', tz='US/Pacific')}
+
+Errors that occurred while getting data:
+[{'date': Timestamp('2023-03-01 00:00:00-0800', tz='US/Pacific'),
+  'end': Timestamp('2023-04-01 00:00:00-0700', tz='US/Pacific'),
+  'locations': ['TH_SP15_GEN-APND'],
+  'market': <Markets.DAY_AHEAD_HOURLY: 'DAY_AHEAD_HOURLY'>,
+  'self': <gridstatus.caiso.caiso.CAISO object at 0x10e3ca270>,
+  'sleep': 5,
+  'verbose': False}]
+Error: No data found for start date: 2023-03-01 00:00:00-08:00 and end date: 2023-04-01 00:00:00-07:00
+Args: {'self': <gridstatus.caiso.caiso.CAISO object at 0x10e3ca270>, 'date': Timestamp('2023-03-01 00:00:00-0800', tz='US/Pacific'), 'market': <Markets.DAY_AHEAD_HOURLY: 'DAY_AHEAD_HOURLY'>, 'locations': ['TH_SP15_GEN-APND'], 'sleep': 5, 'verbose': False, 'end': Timestamp('2023-04-01 00:00:00-0700', tz='US/Pacific')}
+
+Errors that occurred while getting data:
+[{'date': Timestamp('2023-03-01 00:00:00-0800', tz='US/Pacific'),
+  'end': Timestamp('2023-04-01 00:00:00-0700', tz='US/Pacific'),
+  'locations': ['TH_SP15_GEN-APND'],
+  'market': <Markets.DAY_AHEAD_HOURLY: 'DAY_AHEAD_HOURLY'>,
+  'self': <gridstatus.caiso.caiso.CAISO object at 0x10e3ca270>,
+  'sleep': 5,
+  'verbose': False}]
+Error: No data found for start date: 2023-04-01 00:00:00-07:00 and end date: 2023-05-01 00:00:00-07:00
+Args: {'self': <gridstatus.caiso.caiso.CAISO object at 0x10e3ca270>, 'date': Timestamp('2023-04-01 00:00:00-0700', tz='US/Pacific'), 'market': <Markets.DAY_AHEAD_HOURLY: 'DAY_AHEAD_HOURLY'>, 'locations': ['TH_SP15_GEN-APND'], 'sleep': 5, 'verbose': False, 'end': Timestamp('2023-05-01 00:00:00-0700', tz='US/Pacific')}
+
+Errors that occurred while getting data:
+[{'date': Timestamp('2023-04-01 00:00:00-0700', tz='US/Pacific'),
+  'end': Timestamp('2023-05-01 00:00:00-0700', tz='US/Pacific'),
+  'locations': ['TH_SP15_GEN-APND'],
+  'market': <Markets.DAY_AHEAD_HOURLY: 'DAY_AHEAD_HOURLY'>,
+  'self': <gridstatus.caiso.caiso.CAISO object at 0x10e3ca270>,
+  'sleep': 5,
+  'verbose': False}]
+Error: No data found for start date: 2023-04-01 00:00:00-07:00 and end date: 2023-05-01 00:00:00-07:00
+Args: {'self': <gridstatus.caiso.caiso.CAISO object at 0x10e3ca270>, 'date': Timestamp('2023-04-01 00:00:00-0700', tz='US/Pacific'), 'market': <Markets.DAY_AHEAD_HOURLY: 'DAY_AHEAD_HOURLY'>, 'locations': ['TH_SP15_GEN-APND'], 'sleep': 5, 'verbose': False, 'end': Timestamp('2023-05-01 00:00:00-0700', tz='US/Pacific')}
+2026-11-16 16:14:07 - DEBUG - Dataset config: {'query': {'path': 'SingleZip', 'resultformat': 6, 'queryname': 'PRC_LMP', 'version': 12}, 'params': {'market_run_id': 'DAM', 'node': None, 'grp_type': [None, 'ALL', 'ALL_APNODES']}}
+2026-11-16 16:14:07 - INFO - Fetching URL: https://oasis.caiso.com/oasisapi/SingleZip?resultformat=6&queryname=PRC_LMP&version=12&market_run_id=DAM&node=TH_SP15_GEN-APND&startdatetime=20230701T07:00-0000&enddatetime=20230801T07:00-0000
+2026-11-16 16:14:23 - WARNING - No data for 2023-07-01 00:00:00-07:00 to 2023-08-01 00:00:00-07:00
+2026-11-16 16:15:24 - DEBUG - Dataset config: {'query': {'path': 'SingleZip', 'resultformat': 6, 'queryname': 'PRC_LMP', 'version': 12}, 'params': {'market_run_id': 'DAM', 'node': None, 'grp_type': [None, 'ALL', 'ALL_APNODES']}}
+2026-11-16 16:15:24 - INFO - Fetching URL: https://oasis.caiso.com/oasisapi/SingleZip?resultformat=6&queryname=PRC_LMP&version=12&market_run_id=DAM&node=TH_SP15_GEN-APND&startdatetime=20230801T07:00-0000&enddatetime=20230901T07:00-0000
+2026-11-16 16:15:49 - DEBUG - Found 1 files: ['20230801_20230901_PRC_LMP_DAM_20261116_07_15_37_v12.csv']
+2026-11-16 16:15:49 - DEBUG - Parsing file: 20230801_20230901_PRC_LMP_DAM_20261116_07_15_37_v12.csv
+2026-11-16 16:15:54 - DEBUG - Dataset config: {'query': {'path': 'SingleZip', 'resultformat': 6, 'queryname': 'PRC_LMP', 'version': 12}, 'params': {'market_run_id': 'DAM', 'node': None, 'grp_type': [None, 'ALL', 'ALL_APNODES']}}
+2026-11-16 16:15:54 - INFO - Fetching URL: https://oasis.caiso.com/oasisapi/SingleZip?resultformat=6&queryname=PRC_LMP&version=12&market_run_id=DAM&node=TH_SP15_GEN-APND&startdatetime=20230901T07:00-0000&enddatetime=20231001T07:00-0000
+2026-11-16 16:16:09 - DEBUG - Found 1 files: ['20230901_20231001_PRC_LMP_DAM_20261116_07_16_04_v12.csv']
+2026-11-16 16:16:09 - DEBUG - Parsing file: 20230901_20231001_PRC_LMP_DAM_20261116_07_16_04_v12.csv
+2026-11-16 16:16:14 - DEBUG - Dataset config: {'query': {'path': 'SingleZip', 'resultformat': 6, 'queryname': 'PRC_LMP', 'version': 12}, 'params': {'market_run_id': 'DAM', 'node': None, 'grp_type': [None, 'ALL', 'ALL_APNODES']}}
+2026-11-16 16:16:14 - INFO - Fetching URL: https://oasis.caiso.com/oasisapi/SingleZip?resultformat=6&queryname=PRC_LMP&version=12&market_run_id=DAM&node=TH_SP15_GEN-APND&startdatetime=20231001T07:00-0000&enddatetime=20231101T07:00-0000
+2026-11-16 16:16:34 - DEBUG - Found 1 files: ['20231001_20231101_PRC_LMP_DAM_20261116_07_16_25_v12.csv']
+2026-11-16 16:16:34 - DEBUG - Parsing file: 20231001_20231101_PRC_LMP_DAM_20261116_07_16_25_v12.csv
+2026-11-16 16:16:39 - DEBUG - Dataset config: {'query': {'path': 'SingleZip', 'resultformat': 6, 'queryname': 'PRC_LMP', 'version': 12}, 'params': {'market_run_id': 'DAM', 'node': None, 'grp_type': [None, 'ALL', 'ALL_APNODES']}}
+2026-11-16 16:16:39 - INFO - Fetching URL: https://oasis.caiso.com/oasisapi/SingleZip?resultformat=6&queryname=PRC_LMP&version=12&market_run_id=DAM&node=TH_SP15_GEN-APND&startdatetime=20231101T07:00-0000&enddatetime=20231201T08:00-0000
+2026-11-16 16:16:50 - DEBUG - Found 1 files: ['20231101_20231201_PRC_LMP_DAM_20261116_07_16_45_v12.csv']
+2026-11-16 16:16:50 - DEBUG - Parsing file: 20231101_20231201_PRC_LMP_DAM_20261116_07_16_45_v12.csv
+2026-11-16 16:16:55 - DEBUG - Dataset config: {'query': {'path': 'SingleZip', 'resultformat': 6, 'queryname': 'PRC_LMP', 'version': 12}, 'params': {'market_run_id': 'DAM', 'node': None, 'grp_type': [None, 'ALL', 'ALL_APNODES']}}
+2026-11-16 16:16:55 - INFO - Fetching URL: https://oasis.caiso.com/oasisapi/SingleZip?resultformat=6&queryname=PRC_LMP&version=12&market_run_id=DAM&node=TH_SP15_GEN-APND&startdatetime=20231201T08:00-0000&enddatetime=20240101T08:00-0000
+2026-11-16 16:17:14 - DEBUG - Found 1 files: ['20231201_20240101_PRC_LMP_DAM_20261116_07_17_02_v12.csv']
+2026-11-16 16:17:14 - DEBUG - Parsing file: 20231201_20240101_PRC_LMP_DAM_20261116_07_17_02_v12.csv
+
+Errors that occurred while getting data:
+[{'date': Timestamp('2023-04-01 00:00:00-0700', tz='US/Pacific'),
+  'end': Timestamp('2023-05-01 00:00:00-0700', tz='US/Pacific'),
+  'locations': ['TH_SP15_GEN-APND'],
+  'market': <Markets.DAY_AHEAD_HOURLY: 'DAY_AHEAD_HOURLY'>,
+  'self': <gridstatus.caiso.caiso.CAISO object at 0x10e3ca270>,
+  'sleep': 5,
+  'verbose': False}]
+Error: No data found for start date: 2023-04-01 00:00:00-07:00 and end date: 2023-05-01 00:00:00-07:00
+Args: {'self': <gridstatus.caiso.caiso.CAISO object at 0x10e3ca270>, 'date': Timestamp('2023-04-01 00:00:00-0700', tz='US/Pacific'), 'market': <Markets.DAY_AHEAD_HOURLY: 'DAY_AHEAD_HOURLY'>, 'locations': ['TH_SP15_GEN-APND'], 'sleep': 5, 'verbose': False, 'end': Timestamp('2023-05-01 00:00:00-0700', tz='US/Pacific')}
+
+Errors that occurred while getting data:
+[{'date': Timestamp('2023-04-01 00:00:00-0700', tz='US/Pacific'),
+  'end': Timestamp('2023-05-01 00:00:00-0700', tz='US/Pacific'),
+  'locations': ['TH_SP15_GEN-APND'],
+  'market': <Markets.DAY_AHEAD_HOURLY: 'DAY_AHEAD_HOURLY'>,
+  'self': <gridstatus.caiso.caiso.CAISO object at 0x10e3ca270>,
+  'sleep': 5,
+  'verbose': False}]
+Error: No data found for start date: 2023-05-01 00:00:00-07:00 and end date: 2023-06-01 00:00:00-07:00
+Args: {'self': <gridstatus.caiso.caiso.CAISO object at 0x10e3ca270>, 'date': Timestamp('2023-05-01 00:00:00-0700', tz='US/Pacific'), 'market': <Markets.DAY_AHEAD_HOURLY: 'DAY_AHEAD_HOURLY'>, 'locations': ['TH_SP15_GEN-APND'], 'sleep': 5, 'verbose': False, 'end': Timestamp('2023-06-01 00:00:00-0700', tz='US/Pacific')}
+
+Errors that occurred while getting data:
+[{'date': Timestamp('2023-05-01 00:00:00-0700', tz='US/Pacific'),
+  'end': Timestamp('2023-06-01 00:00:00-0700', tz='US/Pacific'),
+  'locations': ['TH_SP15_GEN-APND'],
+  'market': <Markets.DAY_AHEAD_HOURLY: 'DAY_AHEAD_HOURLY'>,
+  'self': <gridstatus.caiso.caiso.CAISO object at 0x10e3ca270>,
+  'sleep': 5,
+  'verbose': False}]
+Error: No data found for start date: 2023-05-01 00:00:00-07:00 and end date: 2023-06-01 00:00:00-07:00
+Args: {'self': <gridstatus.caiso.caiso.CAISO object at 0x10e3ca270>, 'date': Timestamp('2023-05-01 00:00:00-0700', tz='US/Pacific'), 'market': <Markets.DAY_AHEAD_HOURLY: 'DAY_AHEAD_HOURLY'>, 'locations': ['TH_SP15_GEN-APND'], 'sleep': 5, 'verbose': False, 'end': Timestamp('2023-06-01 00:00:00-0700', tz='US/Pacific')}
+
+Errors that occurred while getting data:
+[{'date': Timestamp('2023-05-01 00:00:00-0700', tz='US/Pacific'),
+  'end': Timestamp('2023-06-01 00:00:00-0700', tz='US/Pacific'),
+  'locations': ['TH_SP15_GEN-APND'],
+  'market': <Markets.DAY_AHEAD_HOURLY: 'DAY_AHEAD_HOURLY'>,
+  'self': <gridstatus.caiso.caiso.CAISO object at 0x10e3ca270>,
+  'sleep': 5,
+  'verbose': False}]
+Error: ('Connection aborted.', ConnectionResetError(54, 'Connection reset by peer'))
+Args: {'self': <gridstatus.caiso.caiso.CAISO object at 0x10e3ca270>, 'dataset': 'lmp_day_ahead_hourly', 'params': {'node': 'TH_SP15_GEN-APND'}, 'sleep': 5, 'raw_data': False, 'verbose': False, 'date': Timestamp('2023-05-01 00:00:00-0700', tz='US/Pacific'), 'end': Timestamp('2023-06-01 00:00:00-0700', tz='US/Pacific')}
+
+Errors that occurred while getting data:
+[{'dataset': 'lmp_day_ahead_hourly',
+  'date': Timestamp('2023-05-01 00:00:00-0700', tz='US/Pacific'),
+  'end': Timestamp('2023-06-01 00:00:00-0700', tz='US/Pacific'),
+  'params': {'node': 'TH_SP15_GEN-APND'},
+  'raw_data': False,
+  'self': <gridstatus.caiso.caiso.CAISO object at 0x10e3ca270>,
+  'sleep': 5,
+  'verbose': False}]
+Error: No objects to concatenate
+Args: {'self': <gridstatus.caiso.caiso.CAISO object at 0x10e3ca270>, 'date': Timestamp('2023-05-01 00:00:00-0700', tz='US/Pacific'), 'market': <Markets.DAY_AHEAD_HOURLY: 'DAY_AHEAD_HOURLY'>, 'locations': ['TH_SP15_GEN-APND'], 'sleep': 5, 'verbose': False, 'end': Timestamp('2023-06-01 00:00:00-0700', tz='US/Pacific')}
+
+Errors that occurred while getting data:
+[{'date': Timestamp('2023-05-01 00:00:00-0700', tz='US/Pacific'),
+  'end': Timestamp('2023-06-01 00:00:00-0700', tz='US/Pacific'),
+  'locations': ['TH_SP15_GEN-APND'],
+  'market': <Markets.DAY_AHEAD_HOURLY: 'DAY_AHEAD_HOURLY'>,
+  'self': <gridstatus.caiso.caiso.CAISO object at 0x10e3ca270>,
+  'sleep': 5,
+  'verbose': False}]
+Error: No data found for start date: 2023-06-01 00:00:00-07:00 and end date: 2023-07-01 00:00:00-07:00
+Args: {'self': <gridstatus.caiso.caiso.CAISO object at 0x10e3ca270>, 'date': Timestamp('2023-06-01 00:00:00-0700', tz='US/Pacific'), 'market': <Markets.DAY_AHEAD_HOURLY: 'DAY_AHEAD_HOURLY'>, 'locations': ['TH_SP15_GEN-APND'], 'sleep': 5, 'verbose': False, 'end': Timestamp('2023-07-01 00:00:00-0700', tz='US/Pacific')}
+
+Errors that occurred while getting data:
+[{'date': Timestamp('2023-06-01 00:00:00-0700', tz='US/Pacific'),
+  'end': Timestamp('2023-07-01 00:00:00-0700', tz='US/Pacific'),
+  'locations': ['TH_SP15_GEN-APND'],
+  'market': <Markets.DAY_AHEAD_HOURLY: 'DAY_AHEAD_HOURLY'>,
+  'self': <gridstatus.caiso.caiso.CAISO object at 0x10e3ca270>,
+  'sleep': 5,
+  'verbose': False}]
+Error: No data found for start date: 2023-06-01 00:00:00-07:00 and end date: 2023-07-01 00:00:00-07:00
+Args: {'self': <gridstatus.caiso.caiso.CAISO object at 0x10e3ca270>, 'date': Timestamp('2023-06-01 00:00:00-0700', tz='US/Pacific'), 'market': <Markets.DAY_AHEAD_HOURLY: 'DAY_AHEAD_HOURLY'>, 'locations': ['TH_SP15_GEN-APND'], 'sleep': 5, 'verbose': False, 'end': Timestamp('2023-07-01 00:00:00-0700', tz='US/Pacific')}
+
+Errors that occurred while getting data:
+[{'date': Timestamp('2023-06-01 00:00:00-0700', tz='US/Pacific'),
+  'end': Timestamp('2023-07-01 00:00:00-0700', tz='US/Pacific'),
+  'locations': ['TH_SP15_GEN-APND'],
+  'market': <Markets.DAY_AHEAD_HOURLY: 'DAY_AHEAD_HOURLY'>,
+  'self': <gridstatus.caiso.caiso.CAISO object at 0x10e3ca270>,
+  'sleep': 5,
+  'verbose': False}]
+Error: No data found for start date: 2023-06-01 00:00:00-07:00 and end date: 2023-07-01 00:00:00-07:00
+Args: {'self': <gridstatus.caiso.caiso.CAISO object at 0x10e3ca270>, 'date': Timestamp('2023-06-01 00:00:00-0700', tz='US/Pacific'), 'market': <Markets.DAY_AHEAD_HOURLY: 'DAY_AHEAD_HOURLY'>, 'locations': ['TH_SP15_GEN-APND'], 'sleep': 5, 'verbose': False, 'end': Timestamp('2023-07-01 00:00:00-0700', tz='US/Pacific')}
+
+Errors that occurred while getting data:
+[{'date': Timestamp('2023-06-01 00:00:00-0700', tz='US/Pacific'),
+  'end': Timestamp('2023-07-01 00:00:00-0700', tz='US/Pacific'),
+  'locations': ['TH_SP15_GEN-APND'],
+  'market': <Markets.DAY_AHEAD_HOURLY: 'DAY_AHEAD_HOURLY'>,
+  'self': <gridstatus.caiso.caiso.CAISO object at 0x10e3ca270>,
+  'sleep': 5,
+  'verbose': False}]
+Error: No data found for start date: 2023-07-01 00:00:00-07:00 and end date: 2023-08-01 00:00:00-07:00
+Args: {'self': <gridstatus.caiso.caiso.CAISO object at 0x10e3ca270>, 'date': Timestamp('2023-07-01 00:00:00-0700', tz='US/Pacific'), 'market': <Markets.DAY_AHEAD_HOURLY: 'DAY_AHEAD_HOURLY'>, 'locations': ['TH_SP15_GEN-APND'], 'sleep': 5, 'verbose': False, 'end': Timestamp('2023-08-01 00:00:00-0700', tz='US/Pacific')}
+
+Errors that occurred while getting data:
+[{'date': Timestamp('2023-07-01 00:00:00-0700', tz='US/Pacific'),
+  'end': Timestamp('2023-08-01 00:00:00-0700', tz='US/Pacific'),
+  'locations': ['TH_SP15_GEN-APND'],
+  'market': <Markets.DAY_AHEAD_HOURLY: 'DAY_AHEAD_HOURLY'>,
+  'self': <gridstatus.caiso.caiso.CAISO object at 0x10e3ca270>,
+  'sleep': 5,
+  'verbose': False}]
+Error: No data found for start date: 2023-07-01 00:00:00-07:00 and end date: 2023-08-01 00:00:00-07:00
+Args: {'self': <gridstatus.caiso.caiso.CAISO object at 0x10e3ca270>, 'date': Timestamp('2023-07-01 00:00:00-0700', tz='US/Pacific'), 'market': <Markets.DAY_AHEAD_HOURLY: 'DAY_AHEAD_HOURLY'>, 'locations': ['TH_SP15_GEN-APND'], 'sleep': 5, 'verbose': False, 'end': Timestamp('2023-08-01 00:00:00-0700', tz='US/Pacific')}
+
+Errors that occurred while getting data:
+[{'date': Timestamp('2023-07-01 00:00:00-0700', tz='US/Pacific'),
+  'end': Timestamp('2023-08-01 00:00:00-0700', tz='US/Pacific'),
+  'locations': ['TH_SP15_GEN-APND'],
+  'market': <Markets.DAY_AHEAD_HOURLY: 'DAY_AHEAD_HOURLY'>,
+  'self': <gridstatus.caiso.caiso.CAISO object at 0x10e3ca270>,
+  'sleep': 5,
+  'verbose': False}]
+Error: No data found for start date: 2023-07-01 00:00:00-07:00 and end date: 2023-08-01 00:00:00-07:00
+Args: {'self': <gridstatus.caiso.caiso.CAISO object at 0x10e3ca270>, 'date': Timestamp('2023-07-01 00:00:00-0700', tz='US/Pacific'), 'market': <Markets.DAY_AHEAD_HOURLY: 'DAY_AHEAD_HOURLY'>, 'locations': ['TH_SP15_GEN-APND'], 'sleep': 5, 'verbose': False, 'end': Timestamp('2023-08-01 00:00:00-0700', tz='US/Pacific')}
+
+Errors that occurred while getting data:
+[{'date': Timestamp('2023-07-01 00:00:00-0700', tz='US/Pacific'),
+  'end': Timestamp('2023-08-01 00:00:00-0700', tz='US/Pacific'),
+  'locations': ['TH_SP15_GEN-APND'],
+  'market': <Markets.DAY_AHEAD_HOURLY: 'DAY_AHEAD_HOURLY'>,
+  'self': <gridstatus.caiso.caiso.CAISO object at 0x10e3ca270>,
+  'sleep': 5,
+  'verbose': False}]
+  VS Californie 2023: 5 maanden
+2026-11-16 16:17:19 - DEBUG - Dataset config: {'query': {'path': 'SingleZip', 'resultformat': 6, 'queryname': 'PRC_LMP', 'version': 12}, 'params': {'market_run_id': 'DAM', 'node': None, 'grp_type': [None, 'ALL', 'ALL_APNODES']}}
+2026-11-16 16:17:19 - INFO - Fetching URL: https://oasis.caiso.com/oasisapi/SingleZip?resultformat=6&queryname=PRC_LMP&version=12&market_run_id=DAM&node=TH_SP15_GEN-APND&startdatetime=20240101T08:00-0000&enddatetime=20240201T08:00-0000
+2026-11-16 16:17:36 - DEBUG - Found 1 files: ['20240101_20240201_PRC_LMP_DAM_20261116_07_17_26_v12.csv']
+2026-11-16 16:17:36 - DEBUG - Parsing file: 20240101_20240201_PRC_LMP_DAM_20261116_07_17_26_v12.csv
+2026-11-16 16:17:41 - DEBUG - Dataset config: {'query': {'path': 'SingleZip', 'resultformat': 6, 'queryname': 'PRC_LMP', 'version': 12}, 'params': {'market_run_id': 'DAM', 'node': None, 'grp_type': [None, 'ALL', 'ALL_APNODES']}}
+2026-11-16 16:17:41 - INFO - Fetching URL: https://oasis.caiso.com/oasisapi/SingleZip?resultformat=6&queryname=PRC_LMP&version=12&market_run_id=DAM&node=TH_SP15_GEN-APND&startdatetime=20240201T08:00-0000&enddatetime=20240301T08:00-0000
+2026-11-16 16:17:54 - DEBUG - Found 1 files: ['20240201_20240301_PRC_LMP_DAM_20261116_07_17_50_v12.csv']
+2026-11-16 16:17:54 - DEBUG - Parsing file: 20240201_20240301_PRC_LMP_DAM_20261116_07_17_50_v12.csv
+2026-11-16 16:17:59 - DEBUG - Dataset config: {'query': {'path': 'SingleZip', 'resultformat': 6, 'queryname': 'PRC_LMP', 'version': 12}, 'params': {'market_run_id': 'DAM', 'node': None, 'grp_type': [None, 'ALL', 'ALL_APNODES']}}
+2026-11-16 16:17:59 - INFO - Fetching URL: https://oasis.caiso.com/oasisapi/SingleZip?resultformat=6&queryname=PRC_LMP&version=12&market_run_id=DAM&node=TH_SP15_GEN-APND&startdatetime=20240301T08:00-0000&enddatetime=20240401T07:00-0000
+2026-11-16 16:18:36 - DEBUG - Dataset config: {'query': {'path': 'SingleZip', 'resultformat': 6, 'queryname': 'PRC_LMP', 'version': 12}, 'params': {'market_run_id': 'DAM', 'node': None, 'grp_type': [None, 'ALL', 'ALL_APNODES']}}
+2026-11-16 16:18:36 - INFO - Fetching URL: https://oasis.caiso.com/oasisapi/SingleZip?resultformat=6&queryname=PRC_LMP&version=12&market_run_id=DAM&node=TH_SP15_GEN-APND&startdatetime=20240301T08:00-0000&enddatetime=20240401T07:00-0000
+2026-11-16 16:18:50 - DEBUG - Found 1 files: ['20240301_20240401_PRC_LMP_DAM_20261116_07_18_44_v12.csv']
+2026-11-16 16:18:50 - DEBUG - Parsing file: 20240301_20240401_PRC_LMP_DAM_20261116_07_18_44_v12.csv
+2026-11-16 16:18:55 - DEBUG - Dataset config: {'query': {'path': 'SingleZip', 'resultformat': 6, 'queryname': 'PRC_LMP', 'version': 12}, 'params': {'market_run_id': 'DAM', 'node': None, 'grp_type': [None, 'ALL', 'ALL_APNODES']}}
+2026-11-16 16:18:55 - INFO - Fetching URL: https://oasis.caiso.com/oasisapi/SingleZip?resultformat=6&queryname=PRC_LMP&version=12&market_run_id=DAM&node=TH_SP15_GEN-APND&startdatetime=20240401T07:00-0000&enddatetime=20240501T07:00-0000
+2026-11-16 16:19:12 - DEBUG - Found 1 files: ['20240401_20240501_PRC_LMP_DAM_20261116_07_19_06_v12.csv']
+2026-11-16 16:19:12 - DEBUG - Parsing file: 20240401_20240501_PRC_LMP_DAM_20261116_07_19_06_v12.csv
+2026-11-16 16:19:17 - DEBUG - Dataset config: {'query': {'path': 'SingleZip', 'resultformat': 6, 'queryname': 'PRC_LMP', 'version': 12}, 'params': {'market_run_id': 'DAM', 'node': None, 'grp_type': [None, 'ALL', 'ALL_APNODES']}}
+2026-11-16 16:19:17 - INFO - Fetching URL: https://oasis.caiso.com/oasisapi/SingleZip?resultformat=6&queryname=PRC_LMP&version=12&market_run_id=DAM&node=TH_SP15_GEN-APND&startdatetime=20240501T07:00-0000&enddatetime=20240601T07:00-0000
+2026-11-16 16:19:27 - DEBUG - Found 1 files: ['20240501_20240601_PRC_LMP_DAM_20261116_07_19_22_v12.csv']
+2026-11-16 16:19:27 - DEBUG - Parsing file: 20240501_20240601_PRC_LMP_DAM_20261116_07_19_22_v12.csv
+2026-11-16 16:19:32 - DEBUG - Dataset config: {'query': {'path': 'SingleZip', 'resultformat': 6, 'queryname': 'PRC_LMP', 'version': 12}, 'params': {'market_run_id': 'DAM', 'node': None, 'grp_type': [None, 'ALL', 'ALL_APNODES']}}
+2026-11-16 16:19:32 - INFO - Fetching URL: https://oasis.caiso.com/oasisapi/SingleZip?resultformat=6&queryname=PRC_LMP&version=12&market_run_id=DAM&node=TH_SP15_GEN-APND&startdatetime=20240601T07:00-0000&enddatetime=20240701T07:00-0000
+2026-11-16 16:20:08 - DEBUG - Dataset config: {'query': {'path': 'SingleZip', 'resultformat': 6, 'queryname': 'PRC_LMP', 'version': 12}, 'params': {'market_run_id': 'DAM', 'node': None, 'grp_type': [None, 'ALL', 'ALL_APNODES']}}
+2026-11-16 16:20:08 - INFO - Fetching URL: https://oasis.caiso.com/oasisapi/SingleZip?resultformat=6&queryname=PRC_LMP&version=12&market_run_id=DAM&node=TH_SP15_GEN-APND&startdatetime=20240601T07:00-0000&enddatetime=20240701T07:00-0000
+2026-11-16 16:21:01 - DEBUG - Dataset config: {'query': {'path': 'SingleZip', 'resultformat': 6, 'queryname': 'PRC_LMP', 'version': 12}, 'params': {'market_run_id': 'DAM', 'node': None, 'grp_type': [None, 'ALL', 'ALL_APNODES']}}
+2026-11-16 16:21:01 - INFO - Fetching URL: https://oasis.caiso.com/oasisapi/SingleZip?resultformat=6&queryname=PRC_LMP&version=12&market_run_id=DAM&node=TH_SP15_GEN-APND&startdatetime=20240601T07:00-0000&enddatetime=20240701T07:00-0000
+2026-11-16 16:22:15 - DEBUG - Dataset config: {'query': {'path': 'SingleZip', 'resultformat': 6, 'queryname': 'PRC_LMP', 'version': 12}, 'params': {'market_run_id': 'DAM', 'node': None, 'grp_type': [None, 'ALL', 'ALL_APNODES']}}
+2026-11-16 16:22:15 - INFO - Fetching URL: https://oasis.caiso.com/oasisapi/SingleZip?resultformat=6&queryname=PRC_LMP&version=12&market_run_id=DAM&node=TH_SP15_GEN-APND&startdatetime=20240701T07:00-0000&enddatetime=20240801T07:00-0000
+2026-11-16 16:22:32 - DEBUG - Found 1 files: ['20240701_20240801_PRC_LMP_DAM_20261116_07_22_24_v12.csv']
+2026-11-16 16:22:32 - DEBUG - Parsing file: 20240701_20240801_PRC_LMP_DAM_20261116_07_22_24_v12.csv
+2026-11-16 16:22:37 - DEBUG - Dataset config: {'query': {'path': 'SingleZip', 'resultformat': 6, 'queryname': 'PRC_LMP', 'version': 12}, 'params': {'market_run_id': 'DAM', 'node': None, 'grp_type': [None, 'ALL', 'ALL_APNODES']}}
+2026-11-16 16:22:37 - INFO - Fetching URL: https://oasis.caiso.com/oasisapi/SingleZip?resultformat=6&queryname=PRC_LMP&version=12&market_run_id=DAM&node=TH_SP15_GEN-APND&startdatetime=20240801T07:00-0000&enddatetime=20240901T07:00-0000
+2026-11-16 16:23:02 - DEBUG - Found 1 files: ['20240801_20240901_PRC_LMP_DAM_20261116_07_22_50_v12.csv']
+2026-11-16 16:23:02 - DEBUG - Parsing file: 20240801_20240901_PRC_LMP_DAM_20261116_07_22_50_v12.csv
+2026-11-16 16:23:07 - DEBUG - Dataset config: {'query': {'path': 'SingleZip', 'resultformat': 6, 'queryname': 'PRC_LMP', 'version': 12}, 'params': {'market_run_id': 'DAM', 'node': None, 'grp_type': [None, 'ALL', 'ALL_APNODES']}}
+2026-11-16 16:23:07 - INFO - Fetching URL: https://oasis.caiso.com/oasisapi/SingleZip?resultformat=6&queryname=PRC_LMP&version=12&market_run_id=DAM&node=TH_SP15_GEN-APND&startdatetime=20240901T07:00-0000&enddatetime=20241001T07:00-0000
+2026-11-16 16:23:36 - DEBUG - Found 1 files: ['20240901_20241001_PRC_LMP_DAM_20261116_07_23_24_v12.csv']
+2026-11-16 16:23:36 - DEBUG - Parsing file: 20240901_20241001_PRC_LMP_DAM_20261116_07_23_24_v12.csv
+2026-11-16 16:23:41 - DEBUG - Dataset config: {'query': {'path': 'SingleZip', 'resultformat': 6, 'queryname': 'PRC_LMP', 'version': 12}, 'params': {'market_run_id': 'DAM', 'node': None, 'grp_type': [None, 'ALL', 'ALL_APNODES']}}
+2026-11-16 16:23:41 - INFO - Fetching URL: https://oasis.caiso.com/oasisapi/SingleZip?resultformat=6&queryname=PRC_LMP&version=12&market_run_id=DAM&node=TH_SP15_GEN-APND&startdatetime=20241001T07:00-0000&enddatetime=20241101T07:00-0000
+2026-11-16 16:24:24 - DEBUG - Found 1 files: ['20241001_20241101_PRC_LMP_DAM_20261116_07_24_05_v12.csv']
+2026-11-16 16:24:24 - DEBUG - Parsing file: 20241001_20241101_PRC_LMP_DAM_20261116_07_24_05_v12.csv
+2026-11-16 16:24:29 - DEBUG - Dataset config: {'query': {'path': 'SingleZip', 'resultformat': 6, 'queryname': 'PRC_LMP', 'version': 12}, 'params': {'market_run_id': 'DAM', 'node': None, 'grp_type': [None, 'ALL', 'ALL_APNODES']}}
+2026-11-16 16:24:29 - INFO - Fetching URL: https://oasis.caiso.com/oasisapi/SingleZip?resultformat=6&queryname=PRC_LMP&version=12&market_run_id=DAM&node=TH_SP15_GEN-APND&startdatetime=20241101T07:00-0000&enddatetime=20241201T08:00-0000
+2026-11-16 16:24:50 - DEBUG - Found 1 files: ['20241101_20241201_PRC_LMP_DAM_20261116_07_24_38_v12.csv']
+2026-11-16 16:24:50 - DEBUG - Parsing file: 20241101_20241201_PRC_LMP_DAM_20261116_07_24_38_v12.csv
+2026-11-16 16:24:56 - DEBUG - Dataset config: {'query': {'path': 'SingleZip', 'resultformat': 6, 'queryname': 'PRC_LMP', 'version': 12}, 'params': {'market_run_id': 'DAM', 'node': None, 'grp_type': [None, 'ALL', 'ALL_APNODES']}}
+2026-11-16 16:24:56 - INFO - Fetching URL: https://oasis.caiso.com/oasisapi/SingleZip?resultformat=6&queryname=PRC_LMP&version=12&market_run_id=DAM&node=TH_SP15_GEN-APND&startdatetime=20241201T08:00-0000&enddatetime=20250101T08:00-0000
+2026-11-16 16:25:24 - DEBUG - Found 1 files: ['20241201_20250101_PRC_LMP_DAM_20261116_07_25_11_v12.csv']
+2026-11-16 16:25:24 - DEBUG - Parsing file: 20241201_20250101_PRC_LMP_DAM_20261116_07_25_11_v12.csv
+Error: ('Connection aborted.', ConnectionResetError(54, 'Connection reset by peer'))
+Args: {'self': <gridstatus.caiso.caiso.CAISO object at 0x10e3ca270>, 'dataset': 'lmp_day_ahead_hourly', 'params': {'node': 'TH_SP15_GEN-APND'}, 'sleep': 5, 'raw_data': False, 'verbose': False, 'date': Timestamp('2024-03-01 00:00:00-0800', tz='US/Pacific'), 'end': Timestamp('2024-04-01 00:00:00-0700', tz='US/Pacific')}
+
+Errors that occurred while getting data:
+[{'dataset': 'lmp_day_ahead_hourly',
+  'date': Timestamp('2024-03-01 00:00:00-0800', tz='US/Pacific'),
+  'end': Timestamp('2024-04-01 00:00:00-0700', tz='US/Pacific'),
+  'params': {'node': 'TH_SP15_GEN-APND'},
+  'raw_data': False,
+  'self': <gridstatus.caiso.caiso.CAISO object at 0x10e3ca270>,
+  'sleep': 5,
+  'verbose': False}]
+Error: No objects to concatenate
+Args: {'self': <gridstatus.caiso.caiso.CAISO object at 0x10e3ca270>, 'date': Timestamp('2024-03-01 00:00:00-0800', tz='US/Pacific'), 'market': <Markets.DAY_AHEAD_HOURLY: 'DAY_AHEAD_HOURLY'>, 'locations': ['TH_SP15_GEN-APND'], 'sleep': 5, 'verbose': False, 'end': Timestamp('2024-04-01 00:00:00-0700', tz='US/Pacific')}
+
+Errors that occurred while getting data:
+[{'date': Timestamp('2024-03-01 00:00:00-0800', tz='US/Pacific'),
+  'end': Timestamp('2024-04-01 00:00:00-0700', tz='US/Pacific'),
+  'locations': ['TH_SP15_GEN-APND'],
+  'market': <Markets.DAY_AHEAD_HOURLY: 'DAY_AHEAD_HOURLY'>,
+  'self': <gridstatus.caiso.caiso.CAISO object at 0x10e3ca270>,
+  'sleep': 5,
+  'verbose': False}]
+Error: ('Connection aborted.', ConnectionResetError(54, 'Connection reset by peer'))
+Args: {'self': <gridstatus.caiso.caiso.CAISO object at 0x10e3ca270>, 'dataset': 'lmp_day_ahead_hourly', 'params': {'node': 'TH_SP15_GEN-APND'}, 'sleep': 5, 'raw_data': False, 'verbose': False, 'date': Timestamp('2024-06-01 00:00:00-0700', tz='US/Pacific'), 'end': Timestamp('2024-07-01 00:00:00-0700', tz='US/Pacific')}
+
+Errors that occurred while getting data:
+[{'dataset': 'lmp_day_ahead_hourly',
+  'date': Timestamp('2024-06-01 00:00:00-0700', tz='US/Pacific'),
+  'end': Timestamp('2024-07-01 00:00:00-0700', tz='US/Pacific'),
+  'params': {'node': 'TH_SP15_GEN-APND'},
+  'raw_data': False,
+  'self': <gridstatus.caiso.caiso.CAISO object at 0x10e3ca270>,
+  'sleep': 5,
+  'verbose': False}]
+Error: No objects to concatenate
+Args: {'self': <gridstatus.caiso.caiso.CAISO object at 0x10e3ca270>, 'date': Timestamp('2024-06-01 00:00:00-0700', tz='US/Pacific'), 'market': <Markets.DAY_AHEAD_HOURLY: 'DAY_AHEAD_HOURLY'>, 'locations': ['TH_SP15_GEN-APND'], 'sleep': 5, 'verbose': False, 'end': Timestamp('2024-07-01 00:00:00-0700', tz='US/Pacific')}
+
+Errors that occurred while getting data:
+[{'date': Timestamp('2024-06-01 00:00:00-0700', tz='US/Pacific'),
+  'end': Timestamp('2024-07-01 00:00:00-0700', tz='US/Pacific'),
+  'locations': ['TH_SP15_GEN-APND'],
+  'market': <Markets.DAY_AHEAD_HOURLY: 'DAY_AHEAD_HOURLY'>,
+  'self': <gridstatus.caiso.caiso.CAISO object at 0x10e3ca270>,
+  'sleep': 5,
+  'verbose': False}]
+Error: ('Connection aborted.', ConnectionResetError(54, 'Connection reset by peer'))
+Args: {'self': <gridstatus.caiso.caiso.CAISO object at 0x10e3ca270>, 'dataset': 'lmp_day_ahead_hourly', 'params': {'node': 'TH_SP15_GEN-APND'}, 'sleep': 5, 'raw_data': False, 'verbose': False, 'date': Timestamp('2024-06-01 00:00:00-0700', tz='US/Pacific'), 'end': Timestamp('2024-07-01 00:00:00-0700', tz='US/Pacific')}
+
+Errors that occurred while getting data:
+[{'dataset': 'lmp_day_ahead_hourly',
+  'date': Timestamp('2024-06-01 00:00:00-0700', tz='US/Pacific'),
+  'end': Timestamp('2024-07-01 00:00:00-0700', tz='US/Pacific'),
+  'params': {'node': 'TH_SP15_GEN-APND'},
+  'raw_data': False,
+  'self': <gridstatus.caiso.caiso.CAISO object at 0x10e3ca270>,
+  'sleep': 5,
+  'verbose': False}]
+Error: No objects to concatenate
+Args: {'self': <gridstatus.caiso.caiso.CAISO object at 0x10e3ca270>, 'date': Timestamp('2024-06-01 00:00:00-0700', tz='US/Pacific'), 'market': <Markets.DAY_AHEAD_HOURLY: 'DAY_AHEAD_HOURLY'>, 'locations': ['TH_SP15_GEN-APND'], 'sleep': 5, 'verbose': False, 'end': Timestamp('2024-07-01 00:00:00-0700', tz='US/Pacific')}
+
+Errors that occurred while getting data:
+[{'date': Timestamp('2024-06-01 00:00:00-0700', tz='US/Pacific'),
+  'end': Timestamp('2024-07-01 00:00:00-0700', tz='US/Pacific'),
+  'locations': ['TH_SP15_GEN-APND'],
+  'market': <Markets.DAY_AHEAD_HOURLY: 'DAY_AHEAD_HOURLY'>,
+  'self': <gridstatus.caiso.caiso.CAISO object at 0x10e3ca270>,
+  'sleep': 5,
+  'verbose': False}]
+Error: ('Connection aborted.', ConnectionResetError(54, 'Connection reset by peer'))
+Args: {'self': <gridstatus.caiso.caiso.CAISO object at 0x10e3ca270>, 'dataset': 'lmp_day_ahead_hourly', 'params': {'node': 'TH_SP15_GEN-APND'}, 'sleep': 5, 'raw_data': False, 'verbose': False, 'date': Timestamp('2024-06-01 00:00:00-0700', tz='US/Pacific'), 'end': Timestamp('2024-07-01 00:00:00-0700', tz='US/Pacific')}
+
+Errors that occurred while getting data:
+[{'dataset': 'lmp_day_ahead_hourly',
+  'date': Timestamp('2024-06-01 00:00:00-0700', tz='US/Pacific'),
+  'end': Timestamp('2024-07-01 00:00:00-0700', tz='US/Pacific'),
+  'params': {'node': 'TH_SP15_GEN-APND'},
+  'raw_data': False,
+  'self': <gridstatus.caiso.caiso.CAISO object at 0x10e3ca270>,
+  'sleep': 5,
+  'verbose': False}]
+Error: No objects to concatenate
+Args: {'self': <gridstatus.caiso.caiso.CAISO object at 0x10e3ca270>, 'date': Timestamp('2024-06-01 00:00:00-0700', tz='US/Pacific'), 'market': <Markets.DAY_AHEAD_HOURLY: 'DAY_AHEAD_HOURLY'>, 'locations': ['TH_SP15_GEN-APND'], 'sleep': 5, 'verbose': False, 'end': Timestamp('2024-07-01 00:00:00-0700', tz='US/Pacific')}
+
+Errors that occurred while getting data:
+[{'date': Timestamp('2024-06-01 00:00:00-0700', tz='US/Pacific'),
+  'end': Timestamp('2024-07-01 00:00:00-0700', tz='US/Pacific'),
+  'locations': ['TH_SP15_GEN-APND'],
+  'market': <Markets.DAY_AHEAD_HOURLY: 'DAY_AHEAD_HOURLY'>,
+  'self': <gridstatus.caiso.caiso.CAISO object at 0x10e3ca270>,
+  'sleep': 5,
+  'verbose': False}]
+  VS Californie 2024: 11 maanden
+2026-11-16 16:25:30 - DEBUG - Dataset config: {'query': {'path': 'SingleZip', 'resultformat': 6, 'queryname': 'PRC_LMP', 'version': 12}, 'params': {'market_run_id': 'DAM', 'node': None, 'grp_type': [None, 'ALL', 'ALL_APNODES']}}
+2026-11-16 16:25:30 - INFO - Fetching URL: https://oasis.caiso.com/oasisapi/SingleZip?resultformat=6&queryname=PRC_LMP&version=12&market_run_id=DAM&node=TH_SP15_GEN-APND&startdatetime=20250101T08:00-0000&enddatetime=20250201T08:00-0000
+2026-11-16 16:25:56 - DEBUG - Found 1 files: ['20250101_20250201_PRC_LMP_DAM_20261116_07_25_37_v12.csv']
+2026-11-16 16:25:56 - DEBUG - Parsing file: 20250101_20250201_PRC_LMP_DAM_20261116_07_25_37_v12.csv
+2026-11-16 16:26:01 - DEBUG - Dataset config: {'query': {'path': 'SingleZip', 'resultformat': 6, 'queryname': 'PRC_LMP', 'version': 12}, 'params': {'market_run_id': 'DAM', 'node': None, 'grp_type': [None, 'ALL', 'ALL_APNODES']}}
+2026-11-16 16:26:01 - INFO - Fetching URL: https://oasis.caiso.com/oasisapi/SingleZip?resultformat=6&queryname=PRC_LMP&version=12&market_run_id=DAM&node=TH_SP15_GEN-APND&startdatetime=20250201T08:00-0000&enddatetime=20250301T08:00-0000
+2026-11-16 16:26:18 - DEBUG - Found 1 files: ['20250201_20250301_PRC_LMP_DAM_20261116_07_26_10_v12.csv']
+2026-11-16 16:26:18 - DEBUG - Parsing file: 20250201_20250301_PRC_LMP_DAM_20261116_07_26_10_v12.csv
+2026-11-16 16:26:23 - DEBUG - Dataset config: {'query': {'path': 'SingleZip', 'resultformat': 6, 'queryname': 'PRC_LMP', 'version': 12}, 'params': {'market_run_id': 'DAM', 'node': None, 'grp_type': [None, 'ALL', 'ALL_APNODES']}}
+2026-11-16 16:26:23 - INFO - Fetching URL: https://oasis.caiso.com/oasisapi/SingleZip?resultformat=6&queryname=PRC_LMP&version=12&market_run_id=DAM&node=TH_SP15_GEN-APND&startdatetime=20250301T08:00-0000&enddatetime=20250401T07:00-0000
+2026-11-16 16:26:49 - DEBUG - Found 1 files: ['20250301_20250401_PRC_LMP_DAM_20261116_07_26_37_v12.csv']
+2026-11-16 16:26:49 - DEBUG - Parsing file: 20250301_20250401_PRC_LMP_DAM_20261116_07_26_37_v12.csv
+2026-11-16 16:26:54 - DEBUG - Dataset config: {'query': {'path': 'SingleZip', 'resultformat': 6, 'queryname': 'PRC_LMP', 'version': 12}, 'params': {'market_run_id': 'DAM', 'node': None, 'grp_type': [None, 'ALL', 'ALL_APNODES']}}
+2026-11-16 16:26:54 - INFO - Fetching URL: https://oasis.caiso.com/oasisapi/SingleZip?resultformat=6&queryname=PRC_LMP&version=12&market_run_id=DAM&node=TH_SP15_GEN-APND&startdatetime=20250401T07:00-0000&enddatetime=20250501T07:00-0000
+2026-11-16 16:27:08 - DEBUG - Found 1 files: ['20250401_20250501_PRC_LMP_DAM_20261116_07_26_58_v12.csv']
+2026-11-16 16:27:08 - DEBUG - Parsing file: 20250401_20250501_PRC_LMP_DAM_20261116_07_26_58_v12.csv
+2026-11-16 16:27:13 - DEBUG - Dataset config: {'query': {'path': 'SingleZip', 'resultformat': 6, 'queryname': 'PRC_LMP', 'version': 12}, 'params': {'market_run_id': 'DAM', 'node': None, 'grp_type': [None, 'ALL', 'ALL_APNODES']}}
+2026-11-16 16:27:13 - INFO - Fetching URL: https://oasis.caiso.com/oasisapi/SingleZip?resultformat=6&queryname=PRC_LMP&version=12&market_run_id=DAM&node=TH_SP15_GEN-APND&startdatetime=20250501T07:00-0000&enddatetime=20250601T07:00-0000
+2026-11-16 16:27:28 - DEBUG - Found 1 files: ['20250501_20250601_PRC_LMP_DAM_20261116_07_27_20_v12.csv']
+2026-11-16 16:27:28 - DEBUG - Parsing file: 20250501_20250601_PRC_LMP_DAM_20261116_07_27_20_v12.csv
+2026-11-16 16:27:33 - DEBUG - Dataset config: {'query': {'path': 'SingleZip', 'resultformat': 6, 'queryname': 'PRC_LMP', 'version': 12}, 'params': {'market_run_id': 'DAM', 'node': None, 'grp_type': [None, 'ALL', 'ALL_APNODES']}}
+2026-11-16 16:27:33 - INFO - Fetching URL: https://oasis.caiso.com/oasisapi/SingleZip?resultformat=6&queryname=PRC_LMP&version=12&market_run_id=DAM&node=TH_SP15_GEN-APND&startdatetime=20250601T07:00-0000&enddatetime=20250701T07:00-0000
+2026-11-16 16:27:42 - DEBUG - Found 1 files: ['20250601_20250701_PRC_LMP_DAM_20261116_07_27_37_v12.csv']
+2026-11-16 16:27:42 - DEBUG - Parsing file: 20250601_20250701_PRC_LMP_DAM_20261116_07_27_37_v12.csv
+2026-11-16 16:27:47 - DEBUG - Dataset config: {'query': {'path': 'SingleZip', 'resultformat': 6, 'queryname': 'PRC_LMP', 'version': 12}, 'params': {'market_run_id': 'DAM', 'node': None, 'grp_type': [None, 'ALL', 'ALL_APNODES']}}
+2026-11-16 16:27:47 - INFO - Fetching URL: https://oasis.caiso.com/oasisapi/SingleZip?resultformat=6&queryname=PRC_LMP&version=12&market_run_id=DAM&node=TH_SP15_GEN-APND&startdatetime=20250701T07:00-0000&enddatetime=20250801T07:00-0000
+2026-11-16 16:28:05 - DEBUG - Found 1 files: ['20250701_20250801_PRC_LMP_DAM_20261116_07_27_56_v12.csv']
+2026-11-16 16:28:05 - DEBUG - Parsing file: 20250701_20250801_PRC_LMP_DAM_20261116_07_27_56_v12.csv
+2026-11-16 16:28:10 - DEBUG - Dataset config: {'query': {'path': 'SingleZip', 'resultformat': 6, 'queryname': 'PRC_LMP', 'version': 12}, 'params': {'market_run_id': 'DAM', 'node': None, 'grp_type': [None, 'ALL', 'ALL_APNODES']}}
+2026-11-16 16:28:10 - INFO - Fetching URL: https://oasis.caiso.com/oasisapi/SingleZip?resultformat=6&queryname=PRC_LMP&version=12&market_run_id=DAM&node=TH_SP15_GEN-APND&startdatetime=20250801T07:00-0000&enddatetime=20250901T07:00-0000
+2026-11-16 16:28:31 - DEBUG - Found 1 files: ['20250801_20250901_PRC_LMP_DAM_20261116_07_28_21_v12.csv']
+2026-11-16 16:28:31 - DEBUG - Parsing file: 20250801_20250901_PRC_LMP_DAM_20261116_07_28_21_v12.csv
+2026-11-16 16:28:36 - DEBUG - Dataset config: {'query': {'path': 'SingleZip', 'resultformat': 6, 'queryname': 'PRC_LMP', 'version': 12}, 'params': {'market_run_id': 'DAM', 'node': None, 'grp_type': [None, 'ALL', 'ALL_APNODES']}}
+2026-11-16 16:28:36 - INFO - Fetching URL: https://oasis.caiso.com/oasisapi/SingleZip?resultformat=6&queryname=PRC_LMP&version=12&market_run_id=DAM&node=TH_SP15_GEN-APND&startdatetime=20250901T07:00-0000&enddatetime=20251001T07:00-0000
+2026-11-16 16:28:47 - DEBUG - Found 1 files: ['20250901_20251001_PRC_LMP_DAM_20261116_07_28_39_v12.csv']
+2026-11-16 16:28:47 - DEBUG - Parsing file: 20250901_20251001_PRC_LMP_DAM_20261116_07_28_39_v12.csv
+2026-11-16 16:28:52 - DEBUG - Dataset config: {'query': {'path': 'SingleZip', 'resultformat': 6, 'queryname': 'PRC_LMP', 'version': 12}, 'params': {'market_run_id': 'DAM', 'node': None, 'grp_type': [None, 'ALL', 'ALL_APNODES']}}
+2026-11-16 16:28:52 - INFO - Fetching URL: https://oasis.caiso.com/oasisapi/SingleZip?resultformat=6&queryname=PRC_LMP&version=12&market_run_id=DAM&node=TH_SP15_GEN-APND&startdatetime=20251001T07:00-0000&enddatetime=20251101T07:00-0000
+2026-11-16 16:29:10 - DEBUG - Found 1 files: ['20251001_20251101_PRC_LMP_DAM_20261116_07_29_04_v12.csv']
+2026-11-16 16:29:10 - DEBUG - Parsing file: 20251001_20251101_PRC_LMP_DAM_20261116_07_29_04_v12.csv
+2026-11-16 16:29:15 - DEBUG - Dataset config: {'query': {'path': 'SingleZip', 'resultformat': 6, 'queryname': 'PRC_LMP', 'version': 12}, 'params': {'market_run_id': 'DAM', 'node': None, 'grp_type': [None, 'ALL', 'ALL_APNODES']}}
+2026-11-16 16:29:15 - INFO - Fetching URL: https://oasis.caiso.com/oasisapi/SingleZip?resultformat=6&queryname=PRC_LMP&version=12&market_run_id=DAM&node=TH_SP15_GEN-APND&startdatetime=20251101T07:00-0000&enddatetime=20251201T08:00-0000
+2026-11-16 16:29:29 - DEBUG - Found 1 files: ['20251101_20251201_PRC_LMP_DAM_20261116_07_29_24_v12.csv']
+2026-11-16 16:29:29 - DEBUG - Parsing file: 20251101_20251201_PRC_LMP_DAM_20261116_07_29_24_v12.csv
+2026-11-16 16:29:34 - DEBUG - Dataset config: {'query': {'path': 'SingleZip', 'resultformat': 6, 'queryname': 'PRC_LMP', 'version': 12}, 'params': {'market_run_id': 'DAM', 'node': None, 'grp_type': [None, 'ALL', 'ALL_APNODES']}}
+2026-11-16 16:29:34 - INFO - Fetching URL: https://oasis.caiso.com/oasisapi/SingleZip?resultformat=6&queryname=PRC_LMP&version=12&market_run_id=DAM&node=TH_SP15_GEN-APND&startdatetime=20251201T08:00-0000&enddatetime=20260101T08:00-0000
+2026-11-16 16:29:45 - DEBUG - Found 1 files: ['20251201_20260101_PRC_LMP_DAM_20261116_07_29_39_v12.csv']
+2026-11-16 16:29:45 - DEBUG - Parsing file: 20251201_20260101_PRC_LMP_DAM_20261116_07_29_39_v12.csv
+  VS Californie 2025: 12 maanden
+2026-11-16 16:29:50 - DEBUG - Dataset config: {'query': {'path': 'SingleZip', 'resultformat': 6, 'queryname': 'PRC_LMP', 'version': 12}, 'params': {'market_run_id': 'DAM', 'node': None, 'grp_type': [None, 'ALL', 'ALL_APNODES']}}
+2026-11-16 16:29:50 - INFO - Fetching URL: https://oasis.caiso.com/oasisapi/SingleZip?resultformat=6&queryname=PRC_LMP&version=12&market_run_id=DAM&node=TH_SP15_GEN-APND&startdatetime=20260101T08:00-0000&enddatetime=20260201T08:00-0000
+2026-11-16 16:30:06 - DEBUG - Found 1 files: ['20260101_20260201_PRC_LMP_DAM_20261116_07_29_58_v12.csv']
+2026-11-16 16:30:06 - DEBUG - Parsing file: 20260101_20260201_PRC_LMP_DAM_20261116_07_29_58_v12.csv
+2026-11-16 16:30:11 - DEBUG - Dataset config: {'query': {'path': 'SingleZip', 'resultformat': 6, 'queryname': 'PRC_LMP', 'version': 12}, 'params': {'market_run_id': 'DAM', 'node': None, 'grp_type': [None, 'ALL', 'ALL_APNODES']}}
+2026-11-16 16:30:11 - INFO - Fetching URL: https://oasis.caiso.com/oasisapi/SingleZip?resultformat=6&queryname=PRC_LMP&version=12&market_run_id=DAM&node=TH_SP15_GEN-APND&startdatetime=20260201T08:00-0000&enddatetime=20260301T08:00-0000
+2026-11-16 16:30:22 - DEBUG - Found 1 files: ['20260201_20260301_PRC_LMP_DAM_20261116_07_30_16_v12.csv']
+2026-11-16 16:30:22 - DEBUG - Parsing file: 20260201_20260301_PRC_LMP_DAM_20261116_07_30_16_v12.csv
+2026-11-16 16:30:27 - DEBUG - Dataset config: {'query': {'path': 'SingleZip', 'resultformat': 6, 'queryname': 'PRC_LMP', 'version': 12}, 'params': {'market_run_id': 'DAM', 'node': None, 'grp_type': [None, 'ALL', 'ALL_APNODES']}}
+2026-11-16 16:30:27 - INFO - Fetching URL: https://oasis.caiso.com/oasisapi/SingleZip?resultformat=6&queryname=PRC_LMP&version=12&market_run_id=DAM&node=TH_SP15_GEN-APND&startdatetime=20260301T08:00-0000&enddatetime=20260401T07:00-0000
+2026-11-16 16:30:38 - DEBUG - Found 1 files: ['20260301_20260401_PRC_LMP_DAM_20261116_07_30_31_v12.csv']
+2026-11-16 16:30:38 - DEBUG - Parsing file: 20260301_20260401_PRC_LMP_DAM_20261116_07_30_31_v12.csv
+2026-11-16 16:30:43 - DEBUG - Dataset config: {'query': {'path': 'SingleZip', 'resultformat': 6, 'queryname': 'PRC_LMP', 'version': 12}, 'params': {'market_run_id': 'DAM', 'node': None, 'grp_type': [None, 'ALL', 'ALL_APNODES']}}
+2026-11-16 16:30:43 - INFO - Fetching URL: https://oasis.caiso.com/oasisapi/SingleZip?resultformat=6&queryname=PRC_LMP&version=12&market_run_id=DAM&node=TH_SP15_GEN-APND&startdatetime=20260401T07:00-0000&enddatetime=20260501T07:00-0000
+2026-11-16 16:30:54 - DEBUG - Found 1 files: ['20260401_20260501_PRC_LMP_DAM_20261116_07_30_46_v12.csv']
+2026-11-16 16:30:54 - DEBUG - Parsing file: 20260401_20260501_PRC_LMP_DAM_20261116_07_30_46_v12.csv
+2026-11-16 16:30:59 - DEBUG - Dataset config: {'query': {'path': 'SingleZip', 'resultformat': 6, 'queryname': 'PRC_LMP', 'version': 12}, 'params': {'market_run_id': 'DAM', 'node': None, 'grp_type': [None, 'ALL', 'ALL_APNODES']}}
+2026-11-16 16:30:59 - INFO - Fetching URL: https://oasis.caiso.com/oasisapi/SingleZip?resultformat=6&queryname=PRC_LMP&version=12&market_run_id=DAM&node=TH_SP15_GEN-APND&startdatetime=20260501T07:00-0000&enddatetime=20260601T07:00-0000
+2026-11-16 16:31:17 - DEBUG - Found 1 files: ['20260501_20260601_PRC_LMP_DAM_20261116_07_31_12_v12.csv']
+2026-11-16 16:31:17 - DEBUG - Parsing file: 20260501_20260601_PRC_LMP_DAM_20261116_07_31_12_v12.csv
+2026-11-16 16:31:22 - DEBUG - Dataset config: {'query': {'path': 'SingleZip', 'resultformat': 6, 'queryname': 'PRC_LMP', 'version': 12}, 'params': {'market_run_id': 'DAM', 'node': None, 'grp_type': [None, 'ALL', 'ALL_APNODES']}}
+2026-11-16 16:31:22 - INFO - Fetching URL: https://oasis.caiso.com/oasisapi/SingleZip?resultformat=6&queryname=PRC_LMP&version=12&market_run_id=DAM&node=TH_SP15_GEN-APND&startdatetime=20260601T07:00-0000&enddatetime=20260701T07:00-0000
+2026-11-16 16:31:31 - DEBUG - Found 1 files: ['20260601_20260701_PRC_LMP_DAM_20261116_07_31_27_v12.csv']
+2026-11-16 16:31:31 - DEBUG - Parsing file: 20260601_20260701_PRC_LMP_DAM_20261116_07_31_27_v12.csv
+2026-11-16 16:31:36 - DEBUG - Dataset config: {'query': {'path': 'SingleZip', 'resultformat': 6, 'queryname': 'PRC_LMP', 'version': 12}, 'params': {'market_run_id': 'DAM', 'node': None, 'grp_type': [None, 'ALL', 'ALL_APNODES']}}
+2026-11-16 16:31:36 - INFO - Fetching URL: https://oasis.caiso.com/oasisapi/SingleZip?resultformat=6&queryname=PRC_LMP&version=12&market_run_id=DAM&node=TH_SP15_GEN-APND&startdatetime=20260701T07:00-0000&enddatetime=20260801T07:00-0000
+2026-11-16 16:31:52 - DEBUG - Found 1 files: ['20260701_20260801_PRC_LMP_DAM_20261116_07_31_48_v12.csv']
+2026-11-16 16:31:52 - DEBUG - Parsing file: 20260701_20260801_PRC_LMP_DAM_20261116_07_31_48_v12.csv
+2026-11-16 16:31:57 - DEBUG - Dataset config: {'query': {'path': 'SingleZip', 'resultformat': 6, 'queryname': 'PRC_LMP', 'version': 12}, 'params': {'market_run_id': 'DAM', 'node': None, 'grp_type': [None, 'ALL', 'ALL_APNODES']}}
+2026-11-16 16:31:57 - INFO - Fetching URL: https://oasis.caiso.com/oasisapi/SingleZip?resultformat=6&queryname=PRC_LMP&version=12&market_run_id=DAM&node=TH_SP15_GEN-APND&startdatetime=20260801T07:00-0000&enddatetime=20260901T07:00-0000
+2026-11-16 16:32:05 - DEBUG - Found 1 files: ['20260801_20260901_PRC_LMP_DAM_20261116_07_32_00_v12.csv']
+2026-11-16 16:32:05 - DEBUG - Parsing file: 20260801_20260901_PRC_LMP_DAM_20261116_07_32_00_v12.csv
+2026-11-16 16:32:10 - DEBUG - Dataset config: {'query': {'path': 'SingleZip', 'resultformat': 6, 'queryname': 'PRC_LMP', 'version': 12}, 'params': {'market_run_id': 'DAM', 'node': None, 'grp_type': [None, 'ALL', 'ALL_APNODES']}}
+2026-11-16 16:32:10 - INFO - Fetching URL: https://oasis.caiso.com/oasisapi/SingleZip?resultformat=6&queryname=PRC_LMP&version=12&market_run_id=DAM&node=TH_SP15_GEN-APND&startdatetime=20260901T07:00-0000&enddatetime=20261001T07:00-0000
+2026-11-16 16:32:20 - DEBUG - Found 1 files: ['20260901_20261001_PRC_LMP_DAM_20261116_07_32_15_v12.csv']
+2026-11-16 16:32:20 - DEBUG - Parsing file: 20260901_20261001_PRC_LMP_DAM_20261116_07_32_15_v12.csv
+2026-11-16 16:32:25 - DEBUG - Dataset config: {'query': {'path': 'SingleZip', 'resultformat': 6, 'queryname': 'PRC_LMP', 'version': 12}, 'params': {'market_run_id': 'DAM', 'node': None, 'grp_type': [None, 'ALL', 'ALL_APNODES']}}
+2026-11-16 16:32:25 - INFO - Fetching URL: https://oasis.caiso.com/oasisapi/SingleZip?resultformat=6&queryname=PRC_LMP&version=12&market_run_id=DAM&node=TH_SP15_GEN-APND&startdatetime=20261001T07:00-0000&enddatetime=20261101T07:00-0000
+2026-11-16 16:32:33 - DEBUG - Found 1 files: ['20261001_20261101_PRC_LMP_DAM_20261116_07_32_29_v12.csv']
+2026-11-16 16:32:33 - DEBUG - Parsing file: 20261001_20261101_PRC_LMP_DAM_20261116_07_32_29_v12.csv
+2026-11-16 16:32:38 - DEBUG - Dataset config: {'query': {'path': 'SingleZip', 'resultformat': 6, 'queryname': 'PRC_LMP', 'version': 12}, 'params': {'market_run_id': 'DAM', 'node': None, 'grp_type': [None, 'ALL', 'ALL_APNODES']}}
+2026-11-16 16:32:38 - INFO - Fetching URL: https://oasis.caiso.com/oasisapi/SingleZip?resultformat=6&queryname=PRC_LMP&version=12&market_run_id=DAM&node=TH_SP15_GEN-APND&startdatetime=20261101T07:00-0000&enddatetime=20261116T08:00-0000
+2026-11-16 16:32:42 - DEBUG - Found 1 files: ['20261101_20261116_PRC_LMP_DAM_20261116_07_32_41_v12.csv']
+2026-11-16 16:32:42 - DEBUG - Parsing file: 20261101_20261116_PRC_LMP_DAM_20261116_07_32_41_v12.csv
+  VS Californie 2026: 11 maanden
+  -> fact_wereld_markten.csv: 20 rijen
+2026-11-16 16:32:48 - INFO - Fetching document https://www.ercot.com/misapp/servlets/IceDocListJsonWS?reportTypeId=13060&_1794843168
+2026-11-16 16:32:48 - INFO - Requesting https://www.ercot.com/misapp/servlets/IceDocListJsonWS?reportTypeId=13060&_1794843168 with {}
+  VS Texas 2019 OVERGESLAGEN: 403 Client Error: Forbidden for url: https://www.ercot.com/misapp/servlets/IceDocListJsonWS?reportTypeId=13060&_1794843168
+2026-11-16 16:32:51 - INFO - Fetching document https://www.ercot.com/misapp/servlets/IceDocListJsonWS?reportTypeId=13060&_1794843171
+2026-11-16 16:32:51 - INFO - Requesting https://www.ercot.com/misapp/servlets/IceDocListJsonWS?reportTypeId=13060&_1794843171 with {}
+  VS Texas 2020 OVERGESLAGEN: 403 Client Error: Forbidden for url: https://www.ercot.com/misapp/servlets/IceDocListJsonWS?reportTypeId=13060&_1794843171
+2026-11-16 16:32:56 - INFO - Fetching document https://www.ercot.com/misapp/servlets/IceDocListJsonWS?reportTypeId=13060&_1794843176
+2026-11-16 16:32:56 - INFO - Requesting https://www.ercot.com/misapp/servlets/IceDocListJsonWS?reportTypeId=13060&_1794843176 with {}
+  VS Texas 2021 OVERGESLAGEN: 403 Client Error: Forbidden for url: https://www.ercot.com/misapp/servlets/IceDocListJsonWS?reportTypeId=13060&_1794843176
+2026-11-16 16:32:57 - INFO - Fetching document https://www.ercot.com/misapp/servlets/IceDocListJsonWS?reportTypeId=13060&_1794843177
+2026-11-16 16:32:57 - INFO - Requesting https://www.ercot.com/misapp/servlets/IceDocListJsonWS?reportTypeId=13060&_1794843177 with {}
+  VS Texas 2022 OVERGESLAGEN: 403 Client Error: Forbidden for url: https://www.ercot.com/misapp/servlets/IceDocListJsonWS?reportTypeId=13060&_1794843177
+2026-11-16 16:33:01 - INFO - Fetching document https://www.ercot.com/misapp/servlets/IceDocListJsonWS?reportTypeId=13060&_1794843181
+2026-11-16 16:33:01 - INFO - Requesting https://www.ercot.com/misapp/servlets/IceDocListJsonWS?reportTypeId=13060&_1794843181 with {}
+  VS Texas 2023 OVERGESLAGEN: 403 Client Error: Forbidden for url: https://www.ercot.com/misapp/servlets/IceDocListJsonWS?reportTypeId=13060&_1794843181
+2026-11-16 16:33:12 - INFO - Fetching document https://www.ercot.com/misapp/servlets/IceDocListJsonWS?reportTypeId=13060&_1794843192
+2026-11-16 16:33:12 - INFO - Requesting https://www.ercot.com/misapp/servlets/IceDocListJsonWS?reportTypeId=13060&_1794843192 with {}
+  VS Texas 2024 OVERGESLAGEN: 403 Client Error: Forbidden for url: https://www.ercot.com/misapp/servlets/IceDocListJsonWS?reportTypeId=13060&_1794843192
+2026-11-16 16:33:19 - INFO - Fetching document https://www.ercot.com/misapp/servlets/IceDocListJsonWS?reportTypeId=13060&_1794843199
+2026-11-16 16:33:19 - INFO - Requesting https://www.ercot.com/misapp/servlets/IceDocListJsonWS?reportTypeId=13060&_1794843199 with {}
+  VS Texas 2025 OVERGESLAGEN: 403 Client Error: Forbidden for url: https://www.ercot.com/misapp/servlets/IceDocListJsonWS?reportTypeId=13060&_1794843199
+2026-11-16 16:33:29 - INFO - Fetching document https://www.ercot.com/misapp/servlets/IceDocListJsonWS?reportTypeId=13060&_1794843209
+2026-11-16 16:33:29 - INFO - Requesting https://www.ercot.com/misapp/servlets/IceDocListJsonWS?reportTypeId=13060&_1794843209 with {}
+  VS Texas 2026 OVERGESLAGEN: 403 Client Error: Forbidden for url: https://www.ercot.com/misapp/servlets/IceDocListJsonWS?reportTypeId=13060&_1794843209
+  -> fact_wereld_markten.csv: 20 rijen
+== ember  16:33
+  -> fact_ember_opwek.csv: 54651 rijen
+== eia_gas  16:38
+  -> fact_gas_henryhub.csv: 4259 rijen
+== onbalans  16:38
+  -> fact_onbalans_nl.csv: 249233 rijen
+== wereld klaar 16:53
+  -> fact_ember_prijs_dag.csv: 123425 rijen
+  -> fact_ember_prijs_maand.csv: 4077 rijen
+  -> fact_ember_opwek_jaar.csv: 85398 rijen
+  -> fact_ember_opwek_maand.csv: 31337 rijen
+  -> fact_ember_capaciteit_maand.csv: 20901 rijen
+  -> fact_ember_ev_vloot.csv: 61 rijen
+  -> fact_ember_ev_verkoop.csv: 46411 rijen
+  -> fact_ember_elektrificatie.csv: 127160 rijen
+  -> fact_ember_zon_import.csv: 31624 rijen
+  -> fact_ember_cleantech_export.csv: 137203 rijen
+  -> fact_ember_china_provincie.csv: 3308 rijen
+  -> fact_ember_vs_staat.csv: 8119 rijen
+  -> fact_ember_india_staat.csv: 17214 rijen
+  -> fact_ember_doelen.csv: 2229 rijen
+== herstel ember_aandeel
+  aandelen vervangen door Ember: NL 2025 zon 21.1% (was 0.6%)
+== herstel zon_proxy
+  Polen 2019: capture zon (proxy) 1.128
+  Noorwegen (Zuid) 2019: capture zon (proxy) 0.948
+  Noorwegen (Zuid) 2020: capture zon (proxy) 0.598
+  Noorwegen (Zuid) 2021: capture zon (proxy) 0.813
+  Noorwegen (Zuid) 2022: capture zon (proxy) 1.079
+  Noorwegen (Zuid) 2023: capture zon (proxy) 0.865
+  Zweden (Midden) 2019: capture zon (proxy) 0.961
+  Zweden (Midden) 2020: capture zon (proxy) 1.094
+  Finland 2019: capture zon (proxy) 1.096
+  Finland 2020: capture zon (proxy) 1.207
+  Finland 2021: capture zon (proxy) 0.969
+  Finland 2022: capture zon (proxy) 1.224
+  Letland 2019: capture zon (proxy) 1.192
+  Letland 2020: capture zon (proxy) 1.195
+  Letland 2021: capture zon (proxy) 0.936
+  Letland 2022: capture zon (proxy) 1.119
+  Letland 2023: capture zon (proxy) 0.890
+  Servie 2019: capture zon (proxy) 1.064
+  Servie 2020: capture zon (proxy) 0.942
+  Servie 2021: capture zon (proxy) 0.877
+  Servie 2022: capture zon (proxy) 1.062
+  Servie 2023: capture zon (proxy) 0.847
+  Servie 2024: capture zon (proxy) 0.764
+  Servie 2025: capture zon (proxy) 0.620
+  Servie 2026: capture zon (proxy) 0.627
+  Noorwegen (Oslo) 2019: capture zon (proxy) 0.943
+  Noorwegen (Oslo) 2020: capture zon (proxy) 0.601
+  Noorwegen (Oslo) 2021: capture zon (proxy) 0.797
+  Noorwegen (Oslo) 2022: capture zon (proxy) 1.041
+  Noorwegen (Oslo) 2023: capture zon (proxy) 0.795
+  Noorwegen (Midden) 2019: capture zon (proxy) 0.971
+  Noorwegen (Midden) 2020: capture zon (proxy) 0.705
+  Noorwegen (Midden) 2021: capture zon (proxy) 1.054
+  Noorwegen (Midden) 2022: capture zon (proxy) 0.681
+  Noorwegen (Midden) 2023: capture zon (proxy) 0.850
+  Noorwegen (Noord) 2019: capture zon (proxy) 0.953
+  Noorwegen (Noord) 2020: capture zon (proxy) 0.649
+  Noorwegen (Noord) 2021: capture zon (proxy) 0.862
+  Noorwegen (Noord) 2022: capture zon (proxy) 0.513
+  Noorwegen (Noord) 2023: capture zon (proxy) 0.763
+  Noorwegen (West) 2019: capture zon (proxy) 0.950
+  Noorwegen (West) 2020: capture zon (proxy) 0.561
+  Noorwegen (West) 2021: capture zon (proxy) 0.800
+  Noorwegen (West) 2022: capture zon (proxy) 1.082
+  Noorwegen (West) 2023: capture zon (proxy) 0.813
+  Zweden (Noord) 2019: capture zon (proxy) 0.959
+  Zweden (Noord) 2020: capture zon (proxy) 0.919
+  Zweden (Noord-Midden) 2019: capture zon (proxy) 0.971
+  Zweden (Noord-Midden) 2020: capture zon (proxy) 0.944
+  Zweden (Zuid) 2019: capture zon (proxy) 0.976
+  Zweden (Zuid) 2020: capture zon (proxy) 1.066
+  -> 51 ontbrekende capture rates aangevuld
+studieregio
+Rest van de wereld    165
+Europa                 41
+China                   1
+Nederland               1
+VS                      1
+       studieregio  Total generation  aandeel_solar_pct  aandeel_clean_pct  intensiteit_g_kwh
+             China           10505.7               11.2               41.1              528.3
+            Europa            4511.7                8.2               62.3              270.4
+         Nederland             135.0               21.1               54.2              253.7
+Rest van de wereld           11074.2                7.4               35.6              503.5
+                VS            4519.8                8.6               43.0              384.4
+reports/numbers.json written
+powerbi/data
+Ran 49 tests in 1.764s
+
+OK
+=== Klaar Mon Nov 16 17:02:50 CET 2026 ===

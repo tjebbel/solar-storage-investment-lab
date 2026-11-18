@@ -1,0 +1,6 @@
+13_gas_en_stroomprijs.png
+Deze grafiek laat zien dat de Nederlandse maandprijs van stroom de gasprijs volgt: 1,81 euro per MWh stroom voor elke euro per MWh gas, bovenop een sokkel van 19 euro. De belangrijkste conclusie is: wie de stroomprijs van 2027 wil ramen, heeft eerst een mening over gas nodig.
+
+14_jaareffect_is_gas.png
+Deze grafiek laat zien dat de gasprijs alleen 86% van de jaarbeweging in de prijs verklaart, tegen 86% voor losse jaareffecten, en dat dit voor de capture rate van zon veel minder is (4% tegen 65%). De belangrijkste conclusie is: prijs en spreiding volgen gas, de waarde van zon volgt iets anders.
+

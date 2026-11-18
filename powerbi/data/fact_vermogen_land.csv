@@ -1,0 +1,3657 @@
+land,jaar,technologie,naam_bron,gw
+Nederland,2014,nuclear,Nuclear,0.49
+Nederland,2015,nuclear,Nuclear,0.49
+Nederland,2016,nuclear,Nuclear,0.49
+Nederland,2017,nuclear,Nuclear,0.49
+Nederland,2018,nuclear,Nuclear,0.49
+Nederland,2019,nuclear,Nuclear,0.48
+Nederland,2020,nuclear,Nuclear,0.48
+Nederland,2021,nuclear,Nuclear,0.49
+Nederland,2022,nuclear,Nuclear,0.49
+Nederland,2023,nuclear,Nuclear,0.49
+Nederland,2024,nuclear,Nuclear,0.49
+Nederland,2025,nuclear,Nuclear,0.49
+Nederland,2014,hydro,Hydro Run-of-River,0.04
+Nederland,2015,hydro,Hydro Run-of-River,0.04
+Nederland,2016,hydro,Hydro Run-of-River,0.04
+Nederland,2017,hydro,Hydro Run-of-River,0.04
+Nederland,2018,hydro,Hydro Run-of-River,0.04
+Nederland,2019,hydro,Hydro Run-of-River,0.04
+Nederland,2020,hydro,Hydro Run-of-River,0.04
+Nederland,2021,hydro,Hydro Run-of-River,0.04
+Nederland,2022,hydro,Hydro Run-of-River,0.04
+Nederland,2023,hydro,Hydro Run-of-River,0.04
+Nederland,2024,hydro,Hydro Run-of-River,0.04
+Nederland,2025,hydro,Hydro Run-of-River,0.04
+Nederland,2014,biomass,Biomass,0.4
+Nederland,2015,biomass,Biomass,0.4
+Nederland,2016,biomass,Biomass,0.49
+Nederland,2017,biomass,Biomass,0.49
+Nederland,2018,biomass,Biomass,0.48
+Nederland,2019,biomass,Biomass,0.49
+Nederland,2020,biomass,Biomass,0.56
+Nederland,2021,biomass,Biomass,0.57
+Nederland,2022,biomass,Biomass,0.42
+Nederland,2023,biomass,Biomass,0.42
+Nederland,2024,biomass,Biomass,0.42
+Nederland,2025,biomass,Biomass,0.42
+Nederland,2014,coal,Fossil brown coal / lignite,0.0
+Nederland,2015,coal,Fossil brown coal / lignite,0.0
+Nederland,2016,coal,Fossil brown coal / lignite,0.0
+Nederland,2017,coal,Fossil brown coal / lignite,0.0
+Nederland,2018,coal,Fossil brown coal / lignite,0.0
+Nederland,2019,coal,Fossil brown coal / lignite,0.0
+Nederland,2020,coal,Fossil brown coal / lignite,0.0
+Nederland,2021,coal,Fossil brown coal / lignite,0.0
+Nederland,2022,coal,Fossil brown coal / lignite,0.0
+Nederland,2023,coal,Fossil brown coal / lignite,0.0
+Nederland,2024,coal,Fossil brown coal / lignite,0.0
+Nederland,2025,coal,Fossil brown coal / lignite,0.0
+Nederland,2014,Fossil coal-derived gas,Fossil coal-derived gas,0.0
+Nederland,2015,Fossil coal-derived gas,Fossil coal-derived gas,0.0
+Nederland,2016,Fossil coal-derived gas,Fossil coal-derived gas,0.0
+Nederland,2017,Fossil coal-derived gas,Fossil coal-derived gas,0.0
+Nederland,2018,Fossil coal-derived gas,Fossil coal-derived gas,0.0
+Nederland,2019,Fossil coal-derived gas,Fossil coal-derived gas,0.0
+Nederland,2020,Fossil coal-derived gas,Fossil coal-derived gas,0.0
+Nederland,2021,Fossil coal-derived gas,Fossil coal-derived gas,0.0
+Nederland,2022,Fossil coal-derived gas,Fossil coal-derived gas,0.0
+Nederland,2023,Fossil coal-derived gas,Fossil coal-derived gas,0.0
+Nederland,2024,Fossil coal-derived gas,Fossil coal-derived gas,0.0
+Nederland,2025,Fossil coal-derived gas,Fossil coal-derived gas,0.0
+Nederland,2014,coal,Fossil hard coal,7.27
+Nederland,2015,coal,Fossil hard coal,5.66
+Nederland,2016,coal,Fossil hard coal,4.61
+Nederland,2017,coal,Fossil hard coal,4.63
+Nederland,2018,coal,Fossil hard coal,4.63
+Nederland,2019,coal,Fossil hard coal,4.66
+Nederland,2020,coal,Fossil hard coal,4.01
+Nederland,2021,coal,Fossil hard coal,4.01
+Nederland,2022,coal,Fossil hard coal,4.01
+Nederland,2023,coal,Fossil hard coal,4.01
+Nederland,2024,coal,Fossil hard coal,4.01
+Nederland,2025,coal,Fossil hard coal,4.01
+Nederland,2014,oil,Fossil oil,0.0
+Nederland,2015,oil,Fossil oil,0.0
+Nederland,2016,oil,Fossil oil,0.0
+Nederland,2017,oil,Fossil oil,0.0
+Nederland,2018,oil,Fossil oil,0.0
+Nederland,2019,oil,Fossil oil,0.0
+Nederland,2020,oil,Fossil oil,0.0
+Nederland,2021,oil,Fossil oil,0.0
+Nederland,2022,oil,Fossil oil,0.0
+Nederland,2023,oil,Fossil oil,0.0
+Nederland,2024,oil,Fossil oil,0.0
+Nederland,2025,oil,Fossil oil,0.0
+Nederland,2014,oil,Fossil oil shale,0.0
+Nederland,2015,oil,Fossil oil shale,0.0
+Nederland,2016,oil,Fossil oil shale,0.0
+Nederland,2017,oil,Fossil oil shale,0.0
+Nederland,2018,oil,Fossil oil shale,0.0
+Nederland,2019,oil,Fossil oil shale,0.0
+Nederland,2020,oil,Fossil oil shale,0.0
+Nederland,2021,oil,Fossil oil shale,0.0
+Nederland,2022,oil,Fossil oil shale,0.0
+Nederland,2023,oil,Fossil oil shale,0.0
+Nederland,2024,oil,Fossil oil shale,0.0
+Nederland,2025,oil,Fossil oil shale,0.0
+Nederland,2014,Fossil peat,Fossil peat,0.0
+Nederland,2015,Fossil peat,Fossil peat,0.0
+Nederland,2016,Fossil peat,Fossil peat,0.0
+Nederland,2017,Fossil peat,Fossil peat,0.0
+Nederland,2018,Fossil peat,Fossil peat,0.0
+Nederland,2019,Fossil peat,Fossil peat,0.0
+Nederland,2020,Fossil peat,Fossil peat,0.0
+Nederland,2021,Fossil peat,Fossil peat,0.0
+Nederland,2022,Fossil peat,Fossil peat,0.0
+Nederland,2023,Fossil peat,Fossil peat,0.0
+Nederland,2024,Fossil peat,Fossil peat,0.0
+Nederland,2025,Fossil peat,Fossil peat,0.0
+Nederland,2014,gas,Fossil gas,19.59
+Nederland,2015,gas,Fossil gas,19.91
+Nederland,2016,gas,Fossil gas,19.3
+Nederland,2017,gas,Fossil gas,18.43
+Nederland,2018,gas,Fossil gas,15.57
+Nederland,2019,gas,Fossil gas,15.5
+Nederland,2020,gas,Fossil gas,18.5
+Nederland,2021,gas,Fossil gas,18.53
+Nederland,2022,gas,Fossil gas,18.66
+Nederland,2023,gas,Fossil gas,18.48
+Nederland,2024,gas,Fossil gas,18.41
+Nederland,2025,gas,Fossil gas,18.41
+Nederland,2014,Geothermal,Geothermal,0.0
+Nederland,2015,Geothermal,Geothermal,0.0
+Nederland,2016,Geothermal,Geothermal,0.0
+Nederland,2017,Geothermal,Geothermal,0.0
+Nederland,2018,Geothermal,Geothermal,0.0
+Nederland,2019,Geothermal,Geothermal,0.0
+Nederland,2020,Geothermal,Geothermal,0.0
+Nederland,2021,Geothermal,Geothermal,0.0
+Nederland,2022,Geothermal,Geothermal,0.0
+Nederland,2023,Geothermal,Geothermal,0.0
+Nederland,2024,Geothermal,Geothermal,0.0
+Nederland,2025,Geothermal,Geothermal,0.0
+Nederland,2014,Hydro water reservoir,Hydro water reservoir,0.0
+Nederland,2015,Hydro water reservoir,Hydro water reservoir,0.0
+Nederland,2016,Hydro water reservoir,Hydro water reservoir,0.0
+Nederland,2017,Hydro water reservoir,Hydro water reservoir,0.0
+Nederland,2018,Hydro water reservoir,Hydro water reservoir,0.0
+Nederland,2019,Hydro water reservoir,Hydro water reservoir,0.0
+Nederland,2020,Hydro water reservoir,Hydro water reservoir,0.0
+Nederland,2021,Hydro water reservoir,Hydro water reservoir,0.0
+Nederland,2022,Hydro water reservoir,Hydro water reservoir,0.0
+Nederland,2023,Hydro water reservoir,Hydro water reservoir,0.0
+Nederland,2024,Hydro water reservoir,Hydro water reservoir,0.0
+Nederland,2025,Hydro water reservoir,Hydro water reservoir,0.0
+Nederland,2014,Hydro pumped storage,Hydro pumped storage,0.0
+Nederland,2015,Hydro pumped storage,Hydro pumped storage,0.0
+Nederland,2016,Hydro pumped storage,Hydro pumped storage,0.0
+Nederland,2017,Hydro pumped storage,Hydro pumped storage,0.0
+Nederland,2018,Hydro pumped storage,Hydro pumped storage,0.0
+Nederland,2019,Hydro pumped storage,Hydro pumped storage,0.0
+Nederland,2020,Hydro pumped storage,Hydro pumped storage,0.0
+Nederland,2021,Hydro pumped storage,Hydro pumped storage,0.0
+Nederland,2022,Hydro pumped storage,Hydro pumped storage,0.0
+Nederland,2023,Hydro pumped storage,Hydro pumped storage,0.0
+Nederland,2024,Hydro pumped storage,Hydro pumped storage,0.0
+Nederland,2025,Hydro pumped storage,Hydro pumped storage,0.0
+Nederland,2014,Marine,Marine,0.0
+Nederland,2015,Marine,Marine,0.0
+Nederland,2016,Marine,Marine,0.0
+Nederland,2017,Marine,Marine,0.0
+Nederland,2018,Marine,Marine,0.0
+Nederland,2019,Marine,Marine,0.0
+Nederland,2020,Marine,Marine,0.0
+Nederland,2021,Marine,Marine,0.0
+Nederland,2022,Marine,Marine,0.0
+Nederland,2023,Marine,Marine,0.0
+Nederland,2024,Marine,Marine,0.0
+Nederland,2025,Marine,Marine,0.0
+Nederland,2014,Others,Others,0.68
+Nederland,2015,Others,Others,0.0
+Nederland,2016,Others,Others,0.0
+Nederland,2017,Others,Others,0.0
+Nederland,2018,Others,Others,0.0
+Nederland,2019,Others,Others,0.0
+Nederland,2020,Others,Others,0.0
+Nederland,2021,Others,Others,0.0
+Nederland,2022,Others,Others,0.0
+Nederland,2023,Others,Others,0.0
+Nederland,2024,Others,Others,0.0
+Nederland,2025,Others,Others,0.0
+Nederland,2014,other_renewable,Other renewables,0.0
+Nederland,2015,other_renewable,Other renewables,0.0
+Nederland,2016,other_renewable,Other renewables,0.0
+Nederland,2017,other_renewable,Other renewables,0.0
+Nederland,2018,other_renewable,Other renewables,0.0
+Nederland,2019,other_renewable,Other renewables,0.0
+Nederland,2020,other_renewable,Other renewables,0.0
+Nederland,2021,other_renewable,Other renewables,0.0
+Nederland,2022,other_renewable,Other renewables,0.0
+Nederland,2023,other_renewable,Other renewables,0.0
+Nederland,2024,other_renewable,Other renewables,0.0
+Nederland,2025,other_renewable,Other renewables,0.0
+Nederland,2014,waste,Waste,0.87
+Nederland,2015,waste,Waste,0.67
+Nederland,2016,waste,Waste,0.68
+Nederland,2017,waste,Waste,0.68
+Nederland,2018,waste,Waste,0.76
+Nederland,2019,waste,Waste,0.79
+Nederland,2020,waste,Waste,0.78
+Nederland,2021,waste,Waste,0.76
+Nederland,2022,waste,Waste,0.67
+Nederland,2023,waste,Waste,0.78
+Nederland,2024,waste,Waste,0.78
+Nederland,2025,waste,Waste,0.78
+Nederland,2014,wind,Wind offshore,0.23
+Nederland,2015,wind,Wind offshore,0.96
+Nederland,2016,wind,Wind offshore,0.96
+Nederland,2017,wind,Wind offshore,0.96
+Nederland,2018,wind,Wind offshore,0.96
+Nederland,2019,wind,Wind offshore,2.46
+Nederland,2020,wind,Wind offshore,2.46
+Nederland,2021,wind,Wind offshore,2.46
+Nederland,2022,wind,Wind offshore,4.74
+Nederland,2023,wind,Wind offshore,4.74
+Nederland,2024,wind,Wind offshore,4.74
+Nederland,2025,wind,Wind offshore,4.74
+Nederland,2014,wind,Wind onshore,2.65
+Nederland,2015,wind,Wind onshore,3.3
+Nederland,2016,wind,Wind onshore,3.24
+Nederland,2017,wind,Wind onshore,3.68
+Nederland,2018,wind,Wind onshore,3.53
+Nederland,2019,wind,Wind onshore,4.19
+Nederland,2020,wind,Wind onshore,5.21
+Nederland,2021,wind,Wind onshore,5.31
+Nederland,2022,wind,Wind onshore,6.76
+Nederland,2023,wind,Wind onshore,6.96
+Nederland,2024,wind,Wind onshore,7.18
+Nederland,2025,wind,Wind onshore,7.18
+Nederland,2014,solar,Solar AC,1.0
+Nederland,2015,solar,Solar AC,2.13
+Nederland,2016,solar,Solar AC,2.91
+Nederland,2017,solar,Solar AC,2.58
+Nederland,2018,solar,Solar AC,7.23
+Nederland,2019,solar,Solar AC,11.11
+Nederland,2020,solar,Solar AC,14.82
+Nederland,2021,solar,Solar AC,14.91
+Nederland,2022,solar,Solar AC,24.3
+Nederland,2023,solar,Solar AC,27.98
+Nederland,2024,solar,Solar AC,29.28
+Nederland,2025,solar,Solar AC,29.28
+Duitsland,2002,nuclear,Nuclear,23.614
+Duitsland,2003,nuclear,Nuclear,22.114
+Duitsland,2004,nuclear,Nuclear,21.471
+Duitsland,2005,nuclear,Nuclear,21.405
+Duitsland,2006,nuclear,Nuclear,21.227
+Duitsland,2007,nuclear,Nuclear,21.333
+Duitsland,2008,nuclear,Nuclear,21.6
+Duitsland,2009,nuclear,Nuclear,21.52
+Duitsland,2010,nuclear,Nuclear,21.52
+Duitsland,2011,nuclear,Nuclear,12.075
+Duitsland,2012,nuclear,Nuclear,12.075
+Duitsland,2013,nuclear,Nuclear,12.075
+Duitsland,2014,nuclear,Nuclear,12.075
+Duitsland,2015,nuclear,Nuclear,10.8
+Duitsland,2016,nuclear,Nuclear,10.8
+Duitsland,2017,nuclear,Nuclear,10.8
+Duitsland,2018,nuclear,Nuclear,9.516
+Duitsland,2019,nuclear,Nuclear,9.516
+Duitsland,2020,nuclear,Nuclear,8.114
+Duitsland,2021,nuclear,Nuclear,8.114
+Duitsland,2022,nuclear,Nuclear,4.056
+Duitsland,2023,nuclear,Nuclear,0.0
+Duitsland,2024,nuclear,Nuclear,0.0
+Duitsland,2025,nuclear,Nuclear,0.0
+Duitsland,2026,nuclear,Nuclear,0.0
+Duitsland,2002,coal,Fossil brown coal / lignite,20.304
+Duitsland,2003,coal,Fossil brown coal / lignite,20.899
+Duitsland,2004,coal,Fossil brown coal / lignite,20.8
+Duitsland,2005,coal,Fossil brown coal / lignite,20.642
+Duitsland,2006,coal,Fossil brown coal / lignite,20.51
+Duitsland,2007,coal,Fossil brown coal / lignite,21.163
+Duitsland,2008,coal,Fossil brown coal / lignite,21.019
+Duitsland,2009,coal,Fossil brown coal / lignite,21.095
+Duitsland,2010,coal,Fossil brown coal / lignite,21.317
+Duitsland,2011,coal,Fossil brown coal / lignite,19.984
+Duitsland,2012,coal,Fossil brown coal / lignite,21.163
+Duitsland,2013,coal,Fossil brown coal / lignite,21.104
+Duitsland,2014,coal,Fossil brown coal / lignite,21.104
+Duitsland,2015,coal,Fossil brown coal / lignite,21.059
+Duitsland,2016,coal,Fossil brown coal / lignite,21.059
+Duitsland,2017,coal,Fossil brown coal / lignite,21.061
+Duitsland,2018,coal,Fossil brown coal / lignite,21.061
+Duitsland,2019,coal,Fossil brown coal / lignite,21.061
+Duitsland,2020,coal,Fossil brown coal / lignite,20.707
+Duitsland,2021,coal,Fossil brown coal / lignite,19.842
+Duitsland,2022,coal,Fossil brown coal / lignite,18.541
+Duitsland,2023,coal,Fossil brown coal / lignite,18.362
+Duitsland,2024,coal,Fossil brown coal / lignite,15.174
+Duitsland,2025,coal,Fossil brown coal / lignite,14.776
+Duitsland,2026,coal,Fossil brown coal / lignite,14.776
+Duitsland,2002,coal,Fossil hard coal,28.294
+Duitsland,2003,coal,Fossil hard coal,28.624
+Duitsland,2004,coal,Fossil hard coal,30.396
+Duitsland,2005,coal,Fossil hard coal,27.639
+Duitsland,2006,coal,Fossil hard coal,26.959
+Duitsland,2007,coal,Fossil hard coal,27.504
+Duitsland,2008,coal,Fossil hard coal,27.869
+Duitsland,2009,coal,Fossil hard coal,27.289
+Duitsland,2010,coal,Fossil hard coal,28.35
+Duitsland,2011,coal,Fossil hard coal,25.351
+Duitsland,2012,coal,Fossil hard coal,24.804
+Duitsland,2013,coal,Fossil hard coal,25.591
+Duitsland,2014,coal,Fossil hard coal,25.795
+Duitsland,2015,coal,Fossil hard coal,28.256
+Duitsland,2016,coal,Fossil hard coal,27.022
+Duitsland,2017,coal,Fossil hard coal,24.588
+Duitsland,2018,coal,Fossil hard coal,23.299
+Duitsland,2019,coal,Fossil hard coal,22.029
+Duitsland,2020,coal,Fossil hard coal,23.063
+Duitsland,2021,coal,Fossil hard coal,18.357
+Duitsland,2022,coal,Fossil hard coal,18.327
+Duitsland,2023,coal,Fossil hard coal,18.257
+Duitsland,2024,coal,Fossil hard coal,15.389
+Duitsland,2025,coal,Fossil hard coal,15.214
+Duitsland,2026,coal,Fossil hard coal,15.063
+Duitsland,2002,gas,Fossil gas,20.3
+Duitsland,2003,gas,Fossil gas,19.534
+Duitsland,2004,gas,Fossil gas,19.384
+Duitsland,2005,gas,Fossil gas,20.622
+Duitsland,2006,gas,Fossil gas,21.202
+Duitsland,2007,gas,Fossil gas,21.303
+Duitsland,2008,gas,Fossil gas,22.756
+Duitsland,2009,gas,Fossil gas,23.147
+Duitsland,2010,gas,Fossil gas,23.758
+Duitsland,2011,gas,Fossil gas,26.214
+Duitsland,2012,gas,Fossil gas,26.604
+Duitsland,2013,gas,Fossil gas,27.744
+Duitsland,2014,gas,Fossil gas,28.945
+Duitsland,2015,gas,Fossil gas,28.688
+Duitsland,2016,gas,Fossil gas,29.984
+Duitsland,2017,gas,Fossil gas,30.346
+Duitsland,2018,gas,Fossil gas,30.654
+Duitsland,2019,gas,Fossil gas,30.49
+Duitsland,2020,gas,Fossil gas,31.121
+Duitsland,2021,gas,Fossil gas,31.928
+Duitsland,2022,gas,Fossil gas,34.058
+Duitsland,2023,gas,Fossil gas,35.729
+Duitsland,2024,gas,Fossil gas,35.677
+Duitsland,2025,gas,Fossil gas,35.346
+Duitsland,2026,gas,Fossil gas,35.314
+Duitsland,2002,oil,Fossil oil,5.3
+Duitsland,2003,oil,Fossil oil,5.056
+Duitsland,2004,oil,Fossil oil,5.635
+Duitsland,2005,oil,Fossil oil,5.457
+Duitsland,2006,oil,Fossil oil,5.491
+Duitsland,2007,oil,Fossil oil,5.448
+Duitsland,2008,oil,Fossil oil,5.351
+Duitsland,2009,oil,Fossil oil,5.154
+Duitsland,2010,oil,Fossil oil,5.857
+Duitsland,2011,oil,Fossil oil,4.79
+Duitsland,2012,oil,Fossil oil,4.787
+Duitsland,2013,oil,Fossil oil,4.807
+Duitsland,2014,oil,Fossil oil,4.827
+Duitsland,2015,oil,Fossil oil,4.913
+Duitsland,2016,oil,Fossil oil,5.042
+Duitsland,2017,oil,Fossil oil,4.8
+Duitsland,2018,oil,Fossil oil,4.533
+Duitsland,2019,oil,Fossil oil,4.576
+Duitsland,2020,oil,Fossil oil,4.561
+Duitsland,2021,oil,Fossil oil,4.384
+Duitsland,2022,oil,Fossil oil,4.377
+Duitsland,2023,oil,Fossil oil,4.315
+Duitsland,2024,oil,Fossil oil,3.713
+Duitsland,2025,oil,Fossil oil,3.577
+Duitsland,2026,oil,Fossil oil,3.535
+Duitsland,2011,"Other, non-renewable","Other, non-renewable",2.316
+Duitsland,2012,"Other, non-renewable","Other, non-renewable",2.349
+Duitsland,2013,"Other, non-renewable","Other, non-renewable",2.308
+Duitsland,2014,"Other, non-renewable","Other, non-renewable",2.314
+Duitsland,2015,"Other, non-renewable","Other, non-renewable",2.326
+Duitsland,2016,"Other, non-renewable","Other, non-renewable",2.32
+Duitsland,2017,"Other, non-renewable","Other, non-renewable",2.373
+Duitsland,2018,"Other, non-renewable","Other, non-renewable",2.377
+Duitsland,2019,"Other, non-renewable","Other, non-renewable",2.38
+Duitsland,2020,"Other, non-renewable","Other, non-renewable",2.397
+Duitsland,2021,"Other, non-renewable","Other, non-renewable",2.396
+Duitsland,2022,"Other, non-renewable","Other, non-renewable",2.43
+Duitsland,2023,"Other, non-renewable","Other, non-renewable",2.427
+Duitsland,2024,"Other, non-renewable","Other, non-renewable",2.433
+Duitsland,2025,"Other, non-renewable","Other, non-renewable",2.453
+Duitsland,2026,"Other, non-renewable","Other, non-renewable",2.419
+Duitsland,2002,Hydro,Hydro,4.937
+Duitsland,2003,Hydro,Hydro,4.953
+Duitsland,2004,Hydro,Hydro,5.186
+Duitsland,2005,Hydro,Hydro,5.21
+Duitsland,2006,Hydro,Hydro,5.193
+Duitsland,2007,Hydro,Hydro,5.137
+Duitsland,2008,Hydro,Hydro,5.164
+Duitsland,2009,Hydro,Hydro,5.34
+Duitsland,2010,Hydro,Hydro,5.407
+Duitsland,2011,Hydro,Hydro,5.174
+Duitsland,2012,Hydro,Hydro,5.205
+Duitsland,2013,Hydro,Hydro,5.277
+Duitsland,2014,Hydro,Hydro,5.293
+Duitsland,2015,Hydro,Hydro,5.301
+Duitsland,2016,Hydro,Hydro,5.314
+Duitsland,2017,Hydro,Hydro,5.325
+Duitsland,2018,Hydro,Hydro,5.337
+Duitsland,2019,Hydro,Hydro,5.346
+Duitsland,2020,Hydro,Hydro,5.363
+Duitsland,2021,Hydro,Hydro,5.296
+Duitsland,2022,Hydro,Hydro,5.41
+Duitsland,2023,Hydro,Hydro,5.411
+Duitsland,2024,Hydro,Hydro,5.415
+Duitsland,2025,Hydro,Hydro,5.415
+Duitsland,2026,Hydro,Hydro,5.32
+Duitsland,2011,Hydro pumped storage,Hydro pumped storage,9.273
+Duitsland,2012,Hydro pumped storage,Hydro pumped storage,9.273
+Duitsland,2013,Hydro pumped storage,Hydro pumped storage,9.273
+Duitsland,2014,Hydro pumped storage,Hydro pumped storage,9.273
+Duitsland,2015,Hydro pumped storage,Hydro pumped storage,9.471
+Duitsland,2016,Hydro pumped storage,Hydro pumped storage,9.471
+Duitsland,2017,Hydro pumped storage,Hydro pumped storage,9.483
+Duitsland,2018,Hydro pumped storage,Hydro pumped storage,9.863
+Duitsland,2019,Hydro pumped storage,Hydro pumped storage,10.001
+Duitsland,2020,Hydro pumped storage,Hydro pumped storage,10.001
+Duitsland,2021,Hydro pumped storage,Hydro pumped storage,10.001
+Duitsland,2022,Hydro pumped storage,Hydro pumped storage,10.001
+Duitsland,2023,Hydro pumped storage,Hydro pumped storage,10.001
+Duitsland,2024,Hydro pumped storage,Hydro pumped storage,9.902
+Duitsland,2025,Hydro pumped storage,Hydro pumped storage,9.902
+Duitsland,2026,Hydro pumped storage,Hydro pumped storage,9.902
+Duitsland,2002,Battery storage (power),Battery storage (power),0.001
+Duitsland,2003,Battery storage (power),Battery storage (power),0.001
+Duitsland,2004,Battery storage (power),Battery storage (power),0.001
+Duitsland,2005,Battery storage (power),Battery storage (power),0.001
+Duitsland,2006,Battery storage (power),Battery storage (power),0.002
+Duitsland,2007,Battery storage (power),Battery storage (power),0.002
+Duitsland,2008,Battery storage (power),Battery storage (power),0.003
+Duitsland,2009,Battery storage (power),Battery storage (power),0.004
+Duitsland,2010,Battery storage (power),Battery storage (power),0.005
+Duitsland,2011,Battery storage (power),Battery storage (power),0.007
+Duitsland,2012,Battery storage (power),Battery storage (power),0.011
+Duitsland,2013,Battery storage (power),Battery storage (power),0.025
+Duitsland,2014,Battery storage (power),Battery storage (power),0.062
+Duitsland,2015,Battery storage (power),Battery storage (power),0.103
+Duitsland,2016,Battery storage (power),Battery storage (power),0.278
+Duitsland,2017,Battery storage (power),Battery storage (power),0.453
+Duitsland,2018,Battery storage (power),Battery storage (power),0.726
+Duitsland,2019,Battery storage (power),Battery storage (power),1.012
+Duitsland,2020,Battery storage (power),Battery storage (power),1.563
+Duitsland,2021,Battery storage (power),Battery storage (power),2.419
+Duitsland,2022,Battery storage (power),Battery storage (power),4.207
+Duitsland,2023,Battery storage (power),Battery storage (power),8.379
+Duitsland,2024,Battery storage (power),Battery storage (power),12.694
+Duitsland,2025,Battery storage (power),Battery storage (power),16.904
+Duitsland,2026,Battery storage (power),Battery storage (power),22.504
+Duitsland,2002,Battery storage (capacity),Battery storage (capacity),0.001
+Duitsland,2003,Battery storage (capacity),Battery storage (capacity),0.001
+Duitsland,2004,Battery storage (capacity),Battery storage (capacity),0.001
+Duitsland,2005,Battery storage (capacity),Battery storage (capacity),0.002
+Duitsland,2006,Battery storage (capacity),Battery storage (capacity),0.002
+Duitsland,2007,Battery storage (capacity),Battery storage (capacity),0.002
+Duitsland,2008,Battery storage (capacity),Battery storage (capacity),0.004
+Duitsland,2009,Battery storage (capacity),Battery storage (capacity),0.004
+Duitsland,2010,Battery storage (capacity),Battery storage (capacity),0.006
+Duitsland,2011,Battery storage (capacity),Battery storage (capacity),0.008
+Duitsland,2012,Battery storage (capacity),Battery storage (capacity),0.014
+Duitsland,2013,Battery storage (capacity),Battery storage (capacity),0.034
+Duitsland,2014,Battery storage (capacity),Battery storage (capacity),0.081
+Duitsland,2015,Battery storage (capacity),Battery storage (capacity),0.142
+Duitsland,2016,Battery storage (capacity),Battery storage (capacity),0.344
+Duitsland,2017,Battery storage (capacity),Battery storage (capacity),0.586
+Duitsland,2018,Battery storage (capacity),Battery storage (capacity),0.985
+Duitsland,2019,Battery storage (capacity),Battery storage (capacity),1.445
+Duitsland,2020,Battery storage (capacity),Battery storage (capacity),2.334
+Duitsland,2021,Battery storage (capacity),Battery storage (capacity),3.721
+Duitsland,2022,Battery storage (capacity),Battery storage (capacity),6.356
+Duitsland,2023,Battery storage (capacity),Battery storage (capacity),12.482
+Duitsland,2024,Battery storage (capacity),Battery storage (capacity),18.707
+Duitsland,2025,Battery storage (capacity),Battery storage (capacity),25.526
+Duitsland,2026,Battery storage (capacity),Battery storage (capacity),35.338
+Duitsland,2002,biomass,Biomass,0.673
+Duitsland,2003,biomass,Biomass,0.866
+Duitsland,2004,biomass,Biomass,1.317
+Duitsland,2005,biomass,Biomass,1.77
+Duitsland,2006,biomass,Biomass,2.469
+Duitsland,2007,biomass,Biomass,3.057
+Duitsland,2008,biomass,Biomass,3.461
+Duitsland,2009,biomass,Biomass,3.867
+Duitsland,2010,biomass,Biomass,4.441
+Duitsland,2011,biomass,Biomass,5.487
+Duitsland,2012,biomass,Biomass,5.858
+Duitsland,2013,biomass,Biomass,6.23
+Duitsland,2014,biomass,Biomass,6.758
+Duitsland,2015,biomass,Biomass,6.884
+Duitsland,2016,biomass,Biomass,7.118
+Duitsland,2017,biomass,Biomass,7.433
+Duitsland,2018,biomass,Biomass,7.865
+Duitsland,2019,biomass,Biomass,8.216
+Duitsland,2020,biomass,Biomass,8.597
+Duitsland,2021,biomass,Biomass,8.723
+Duitsland,2022,biomass,Biomass,8.777
+Duitsland,2023,biomass,Biomass,8.841
+Duitsland,2024,biomass,Biomass,8.935
+Duitsland,2025,biomass,Biomass,8.973
+Duitsland,2026,biomass,Biomass,9.032
+Duitsland,2009,wind,Wind offshore,0.035
+Duitsland,2010,wind,Wind offshore,0.082
+Duitsland,2011,wind,Wind offshore,0.196
+Duitsland,2012,wind,Wind offshore,0.284
+Duitsland,2013,wind,Wind offshore,0.548
+Duitsland,2014,wind,Wind offshore,1.049
+Duitsland,2015,wind,Wind offshore,3.382
+Duitsland,2016,wind,Wind offshore,4.237
+Duitsland,2017,wind,Wind offshore,5.523
+Duitsland,2018,wind,Wind offshore,6.513
+Duitsland,2019,wind,Wind offshore,7.655
+Duitsland,2020,wind,Wind offshore,7.874
+Duitsland,2021,wind,Wind offshore,7.874
+Duitsland,2022,wind,Wind offshore,8.216
+Duitsland,2023,wind,Wind offshore,8.473
+Duitsland,2024,wind,Wind offshore,9.215
+Duitsland,2025,wind,Wind offshore,9.733
+Duitsland,2026,wind,Wind offshore,11.689
+Duitsland,2030,wind,Wind offshore planned (WindSeeG),30.0
+Duitsland,2002,wind,Wind onshore,11.976
+Duitsland,2003,wind,Wind onshore,14.381
+Duitsland,2004,wind,Wind onshore,16.419
+Duitsland,2005,wind,Wind onshore,18.248
+Duitsland,2006,wind,Wind onshore,20.474
+Duitsland,2007,wind,Wind onshore,22.116
+Duitsland,2008,wind,Wind onshore,22.794
+Duitsland,2009,wind,Wind onshore,25.697
+Duitsland,2010,wind,Wind onshore,26.823
+Duitsland,2011,wind,Wind onshore,28.579
+Duitsland,2012,wind,Wind onshore,30.556
+Duitsland,2013,wind,Wind onshore,32.969
+Duitsland,2014,wind,Wind onshore,37.621
+Duitsland,2015,wind,Wind onshore,41.297
+Duitsland,2016,wind,Wind onshore,45.283
+Duitsland,2017,wind,Wind onshore,50.174
+Duitsland,2018,wind,Wind onshore,52.328
+Duitsland,2019,wind,Wind onshore,53.193
+Duitsland,2020,wind,Wind onshore,54.414
+Duitsland,2021,wind,Wind onshore,56.046
+Duitsland,2022,wind,Wind onshore,58.014
+Duitsland,2023,wind,Wind onshore,61.013
+Duitsland,2024,wind,Wind onshore,63.589
+Duitsland,2025,wind,Wind onshore,68.178
+Duitsland,2026,wind,Wind onshore,72.037
+Duitsland,2024,wind,Wind onshore planned (EEG 2023),69.0
+Duitsland,2026,wind,Wind onshore planned (EEG 2023),84.0
+Duitsland,2028,wind,Wind onshore planned (EEG 2023),99.0
+Duitsland,2030,wind,Wind onshore planned (EEG 2023),115.0
+Duitsland,2002,solar,Solar DC,0.29
+Duitsland,2003,solar,Solar DC,0.434
+Duitsland,2004,solar,Solar DC,1.085
+Duitsland,2005,solar,Solar DC,2.007
+Duitsland,2006,solar,Solar DC,2.851
+Duitsland,2007,solar,Solar DC,4.102
+Duitsland,2008,solar,Solar DC,6.076
+Duitsland,2009,solar,Solar DC,10.512
+Duitsland,2010,solar,Solar DC,18.092
+Duitsland,2011,solar,Solar DC,26.07
+Duitsland,2012,solar,Solar DC,32.923
+Duitsland,2013,solar,Solar DC,36.055
+Duitsland,2014,solar,Solar DC,37.82
+Duitsland,2015,solar,Solar DC,39.236
+Duitsland,2016,solar,Solar DC,40.735
+Duitsland,2017,solar,Solar DC,42.404
+Duitsland,2018,solar,Solar DC,45.408
+Duitsland,2019,solar,Solar DC,49.417
+Duitsland,2020,solar,Solar DC,54.557
+Duitsland,2021,solar,Solar DC,60.265
+Duitsland,2022,solar,Solar DC,67.847
+Duitsland,2023,solar,Solar DC,83.309
+Duitsland,2024,solar,Solar DC,100.815
+Duitsland,2025,solar,Solar DC,118.136
+Duitsland,2026,solar,Solar DC,133.015
+Duitsland,2002,solar,Solar AC,0.278
+Duitsland,2003,solar,Solar AC,0.412
+Duitsland,2004,solar,Solar AC,1.011
+Duitsland,2005,solar,Solar AC,1.88
+Duitsland,2006,solar,Solar AC,2.671
+Duitsland,2007,solar,Solar AC,3.855
+Duitsland,2008,solar,Solar AC,5.712
+Duitsland,2009,solar,Solar AC,9.893
+Duitsland,2010,solar,Solar AC,17.11
+Duitsland,2011,solar,Solar AC,24.658
+Duitsland,2012,solar,Solar AC,31.143
+Duitsland,2013,solar,Solar AC,34.083
+Duitsland,2014,solar,Solar AC,35.727
+Duitsland,2015,solar,Solar AC,37.031
+Duitsland,2016,solar,Solar AC,38.398
+Duitsland,2017,solar,Solar AC,39.934
+Duitsland,2018,solar,Solar AC,42.649
+Duitsland,2019,solar,Solar AC,46.303
+Duitsland,2020,solar,Solar AC,50.978
+Duitsland,2021,solar,Solar AC,56.122
+Duitsland,2022,solar,Solar AC,62.961
+Duitsland,2023,solar,Solar AC,76.951
+Duitsland,2024,solar,Solar AC,92.496
+Duitsland,2025,solar,Solar AC,107.843
+Duitsland,2026,solar,Solar AC,120.992
+Duitsland,2024,solar,Solar planned (EEG 2023),88.0
+Duitsland,2026,solar,Solar planned (EEG 2023),128.0
+Duitsland,2028,solar,Solar planned (EEG 2023),172.0
+Duitsland,2030,solar,Solar planned (EEG 2023),215.0
+Belgie,2014,nuclear,Nuclear,5.94
+Belgie,2015,nuclear,Nuclear,5.94
+Belgie,2016,nuclear,Nuclear,5.94
+Belgie,2017,nuclear,Nuclear,5.94
+Belgie,2018,nuclear,Nuclear,5.94
+Belgie,2019,nuclear,Nuclear,5.94
+Belgie,2020,nuclear,Nuclear,5.94
+Belgie,2021,nuclear,Nuclear,5.94
+Belgie,2022,nuclear,Nuclear,4.94
+Belgie,2023,nuclear,Nuclear,3.93
+Belgie,2024,nuclear,Nuclear,3.93
+Belgie,2025,nuclear,Nuclear,2.06
+Belgie,2014,hydro,Hydro Run-of-River,0.16
+Belgie,2015,hydro,Hydro Run-of-River,0.17
+Belgie,2016,hydro,Hydro Run-of-River,0.17
+Belgie,2017,hydro,Hydro Run-of-River,0.17
+Belgie,2018,hydro,Hydro Run-of-River,0.17
+Belgie,2019,hydro,Hydro Run-of-River,0.18
+Belgie,2020,hydro,Hydro Run-of-River,0.18
+Belgie,2021,hydro,Hydro Run-of-River,0.18
+Belgie,2022,hydro,Hydro Run-of-River,0.19
+Belgie,2023,hydro,Hydro Run-of-River,0.19
+Belgie,2024,hydro,Hydro Run-of-River,0.14
+Belgie,2025,hydro,Hydro Run-of-River,0.13
+Belgie,2014,biomass,Biomass,0.57
+Belgie,2015,biomass,Biomass,0.59
+Belgie,2016,biomass,Biomass,0.6
+Belgie,2017,biomass,Biomass,0.6
+Belgie,2018,biomass,Biomass,0.62
+Belgie,2019,biomass,Biomass,0.65
+Belgie,2020,biomass,Biomass,0.67
+Belgie,2021,biomass,Biomass,0.7
+Belgie,2022,biomass,Biomass,0.73
+Belgie,2023,biomass,Biomass,0.73
+Belgie,2024,biomass,Biomass,0.73
+Belgie,2025,biomass,Biomass,0.85
+Belgie,2014,oil,Fossil oil,0.23
+Belgie,2015,oil,Fossil oil,0.21
+Belgie,2016,oil,Fossil oil,0.22
+Belgie,2017,oil,Fossil oil,0.24
+Belgie,2018,oil,Fossil oil,0.24
+Belgie,2019,oil,Fossil oil,0.25
+Belgie,2020,oil,Fossil oil,0.28
+Belgie,2021,oil,Fossil oil,0.4
+Belgie,2022,oil,Fossil oil,0.45
+Belgie,2023,oil,Fossil oil,0.45
+Belgie,2024,oil,Fossil oil,0.59
+Belgie,2025,oil,Fossil oil,0.48
+Belgie,2014,gas,Fossil gas,6.75
+Belgie,2015,gas,Fossil gas,6.43
+Belgie,2016,gas,Fossil gas,6.46
+Belgie,2017,gas,Fossil gas,6.53
+Belgie,2018,gas,Fossil gas,6.64
+Belgie,2019,gas,Fossil gas,6.8
+Belgie,2020,gas,Fossil gas,7.28
+Belgie,2021,gas,Fossil gas,6.82
+Belgie,2022,gas,Fossil gas,6.99
+Belgie,2023,gas,Fossil gas,6.99
+Belgie,2024,gas,Fossil gas,8.03
+Belgie,2025,gas,Fossil gas,8.4
+Belgie,2014,Hydro pumped storage,Hydro pumped storage,1.31
+Belgie,2015,Hydro pumped storage,Hydro pumped storage,1.31
+Belgie,2016,Hydro pumped storage,Hydro pumped storage,1.31
+Belgie,2017,Hydro pumped storage,Hydro pumped storage,1.31
+Belgie,2018,Hydro pumped storage,Hydro pumped storage,1.31
+Belgie,2019,Hydro pumped storage,Hydro pumped storage,1.31
+Belgie,2020,Hydro pumped storage,Hydro pumped storage,1.31
+Belgie,2021,Hydro pumped storage,Hydro pumped storage,1.31
+Belgie,2022,Hydro pumped storage,Hydro pumped storage,1.31
+Belgie,2023,Hydro pumped storage,Hydro pumped storage,1.31
+Belgie,2024,Hydro pumped storage,Hydro pumped storage,1.31
+Belgie,2025,Hydro pumped storage,Hydro pumped storage,1.31
+Belgie,2018,Others,Others,0.02
+Belgie,2019,Others,Others,0.02
+Belgie,2020,Others,Others,0.02
+Belgie,2021,Others,Others,0.02
+Belgie,2022,Others,Others,0.03
+Belgie,2023,Others,Others,0.03
+Belgie,2024,Others,Others,0.33
+Belgie,2025,Others,Others,0.69
+Belgie,2014,waste,Waste,0.36
+Belgie,2015,waste,Waste,0.36
+Belgie,2016,waste,Waste,0.36
+Belgie,2017,waste,Waste,0.36
+Belgie,2018,waste,Waste,0.36
+Belgie,2019,waste,Waste,0.36
+Belgie,2020,waste,Waste,0.36
+Belgie,2021,waste,Waste,0.38
+Belgie,2022,waste,Waste,0.38
+Belgie,2023,waste,Waste,0.38
+Belgie,2024,waste,Waste,0.33
+Belgie,2025,waste,Waste,0.39
+Belgie,2014,wind,Wind offshore,0.71
+Belgie,2015,wind,Wind offshore,0.71
+Belgie,2016,wind,Wind offshore,0.88
+Belgie,2017,wind,Wind offshore,1.18
+Belgie,2018,wind,Wind offshore,1.55
+Belgie,2019,wind,Wind offshore,2.25
+Belgie,2020,wind,Wind offshore,2.25
+Belgie,2021,wind,Wind offshore,2.25
+Belgie,2022,wind,Wind offshore,2.26
+Belgie,2023,wind,Wind offshore,2.26
+Belgie,2024,wind,Wind offshore,2.26
+Belgie,2025,wind,Wind offshore,2.26
+Belgie,2014,wind,Wind onshore,1.25
+Belgie,2015,wind,Wind onshore,1.25
+Belgie,2016,wind,Wind onshore,1.74
+Belgie,2017,wind,Wind onshore,1.98
+Belgie,2018,wind,Wind onshore,2.25
+Belgie,2019,wind,Wind onshore,2.42
+Belgie,2020,wind,Wind onshore,2.63
+Belgie,2021,wind,Wind onshore,2.79
+Belgie,2022,wind,Wind onshore,3.05
+Belgie,2023,wind,Wind onshore,3.05
+Belgie,2024,wind,Wind onshore,3.18
+Belgie,2025,wind,Wind onshore,3.59
+Belgie,2014,solar,Solar AC,2.82
+Belgie,2015,solar,Solar AC,2.95
+Belgie,2016,solar,Solar AC,2.95
+Belgie,2017,solar,Solar AC,2.95
+Belgie,2018,solar,Solar AC,3.37
+Belgie,2019,solar,Solar AC,3.89
+Belgie,2020,solar,Solar AC,4.79
+Belgie,2021,solar,Solar AC,4.79
+Belgie,2022,solar,Solar AC,6.47
+Belgie,2023,solar,Solar AC,8.79
+Belgie,2024,solar,Solar AC,10.7
+Belgie,2025,solar,Solar AC,11.68
+Frankrijk,2014,nuclear,Nuclear,63.13
+Frankrijk,2015,nuclear,Nuclear,63.13
+Frankrijk,2016,nuclear,Nuclear,63.13
+Frankrijk,2017,nuclear,Nuclear,63.13
+Frankrijk,2018,nuclear,Nuclear,63.13
+Frankrijk,2019,nuclear,Nuclear,63.13
+Frankrijk,2020,nuclear,Nuclear,61.37
+Frankrijk,2021,nuclear,Nuclear,61.37
+Frankrijk,2022,nuclear,Nuclear,61.37
+Frankrijk,2023,nuclear,Nuclear,61.37
+Frankrijk,2024,nuclear,Nuclear,62.99
+Frankrijk,2025,nuclear,Nuclear,62.99
+Frankrijk,2014,hydro,Hydro Run-of-River,10.31
+Frankrijk,2015,hydro,Hydro Run-of-River,10.33
+Frankrijk,2016,hydro,Hydro Run-of-River,10.33
+Frankrijk,2017,hydro,Hydro Run-of-River,11.22
+Frankrijk,2018,hydro,Hydro Run-of-River,10.96
+Frankrijk,2019,hydro,Hydro Run-of-River,11.48
+Frankrijk,2020,hydro,Hydro Run-of-River,11.5
+Frankrijk,2021,hydro,Hydro Run-of-River,11.83
+Frankrijk,2022,hydro,Hydro Run-of-River,11.7
+Frankrijk,2023,hydro,Hydro Run-of-River,11.71
+Frankrijk,2024,hydro,Hydro Run-of-River,11.74
+Frankrijk,2025,hydro,Hydro Run-of-River,11.75
+Frankrijk,2015,biomass,Biomass,0.17
+Frankrijk,2016,biomass,Biomass,0.17
+Frankrijk,2017,biomass,Biomass,1.84
+Frankrijk,2018,biomass,Biomass,1.93
+Frankrijk,2019,biomass,Biomass,1.58
+Frankrijk,2020,biomass,Biomass,1.58
+Frankrijk,2021,biomass,Biomass,1.3
+Frankrijk,2022,biomass,Biomass,1.34
+Frankrijk,2023,biomass,Biomass,1.41
+Frankrijk,2024,biomass,Biomass,1.41
+Frankrijk,2025,biomass,Biomass,1.43
+Frankrijk,2014,coal,Fossil hard coal,4.81
+Frankrijk,2015,coal,Fossil hard coal,2.93
+Frankrijk,2016,coal,Fossil hard coal,2.93
+Frankrijk,2017,coal,Fossil hard coal,3.97
+Frankrijk,2018,coal,Fossil hard coal,3.97
+Frankrijk,2019,coal,Fossil hard coal,1.81
+Frankrijk,2020,coal,Fossil hard coal,1.81
+Frankrijk,2021,coal,Fossil hard coal,1.82
+Frankrijk,2022,coal,Fossil hard coal,1.82
+Frankrijk,2023,coal,Fossil hard coal,1.81
+Frankrijk,2024,coal,Fossil hard coal,1.81
+Frankrijk,2025,coal,Fossil hard coal,1.81
+Frankrijk,2014,oil,Fossil oil,6.67
+Frankrijk,2015,oil,Fossil oil,6.67
+Frankrijk,2016,oil,Fossil oil,5.3
+Frankrijk,2017,oil,Fossil oil,6.26
+Frankrijk,2018,oil,Fossil oil,3.27
+Frankrijk,2019,oil,Fossil oil,2.87
+Frankrijk,2020,oil,Fossil oil,2.75
+Frankrijk,2021,oil,Fossil oil,2.76
+Frankrijk,2022,oil,Fossil oil,2.57
+Frankrijk,2023,oil,Fossil oil,2.97
+Frankrijk,2024,oil,Fossil oil,2.98
+Frankrijk,2025,oil,Fossil oil,2.99
+Frankrijk,2014,gas,Fossil gas,6.12
+Frankrijk,2015,gas,Fossil gas,6.12
+Frankrijk,2016,gas,Fossil gas,6.7
+Frankrijk,2017,gas,Fossil gas,11.81
+Frankrijk,2018,gas,Fossil gas,11.95
+Frankrijk,2019,gas,Fossil gas,12.24
+Frankrijk,2020,gas,Fossil gas,12.22
+Frankrijk,2021,gas,Fossil gas,13.07
+Frankrijk,2022,gas,Fossil gas,12.89
+Frankrijk,2023,gas,Fossil gas,12.77
+Frankrijk,2024,gas,Fossil gas,12.79
+Frankrijk,2025,gas,Fossil gas,12.8
+Frankrijk,2021,Geothermal,Geothermal,0.0
+Frankrijk,2022,Geothermal,Geothermal,0.0
+Frankrijk,2023,Geothermal,Geothermal,0.0
+Frankrijk,2024,Geothermal,Geothermal,0.0
+Frankrijk,2025,Geothermal,Geothermal,0.0
+Frankrijk,2014,Hydro water reservoir,Hydro water reservoir,8.21
+Frankrijk,2015,Hydro water reservoir,Hydro water reservoir,8.2
+Frankrijk,2016,Hydro water reservoir,Hydro water reservoir,8.23
+Frankrijk,2017,Hydro water reservoir,Hydro water reservoir,8.58
+Frankrijk,2018,Hydro water reservoir,Hydro water reservoir,8.28
+Frankrijk,2019,Hydro water reservoir,Hydro water reservoir,8.79
+Frankrijk,2020,Hydro water reservoir,Hydro water reservoir,8.79
+Frankrijk,2021,Hydro water reservoir,Hydro water reservoir,8.79
+Frankrijk,2022,Hydro water reservoir,Hydro water reservoir,8.79
+Frankrijk,2023,Hydro water reservoir,Hydro water reservoir,8.79
+Frankrijk,2024,Hydro water reservoir,Hydro water reservoir,8.79
+Frankrijk,2025,Hydro water reservoir,Hydro water reservoir,8.79
+Frankrijk,2014,Hydro pumped storage,Hydro pumped storage,4.96
+Frankrijk,2015,Hydro pumped storage,Hydro pumped storage,4.96
+Frankrijk,2016,Hydro pumped storage,Hydro pumped storage,4.96
+Frankrijk,2017,Hydro pumped storage,Hydro pumped storage,5.02
+Frankrijk,2018,Hydro pumped storage,Hydro pumped storage,5.02
+Frankrijk,2019,Hydro pumped storage,Hydro pumped storage,5.06
+Frankrijk,2020,Hydro pumped storage,Hydro pumped storage,5.06
+Frankrijk,2021,Hydro pumped storage,Hydro pumped storage,5.05
+Frankrijk,2022,Hydro pumped storage,Hydro pumped storage,5.05
+Frankrijk,2023,Hydro pumped storage,Hydro pumped storage,5.06
+Frankrijk,2024,Hydro pumped storage,Hydro pumped storage,5.06
+Frankrijk,2025,Hydro pumped storage,Hydro pumped storage,5.06
+Frankrijk,2014,Marine,Marine,0.24
+Frankrijk,2015,Marine,Marine,0.24
+Frankrijk,2016,Marine,Marine,0.24
+Frankrijk,2017,Marine,Marine,0.24
+Frankrijk,2018,Marine,Marine,0.24
+Frankrijk,2019,Marine,Marine,0.25
+Frankrijk,2020,Marine,Marine,0.25
+Frankrijk,2021,Marine,Marine,0.24
+Frankrijk,2022,Marine,Marine,0.24
+Frankrijk,2023,Marine,Marine,0.24
+Frankrijk,2024,Marine,Marine,0.24
+Frankrijk,2025,Marine,Marine,0.24
+Frankrijk,2014,Others,Others,0.06
+Frankrijk,2015,Others,Others,0.06
+Frankrijk,2016,Others,Others,0.06
+Frankrijk,2017,Others,Others,0.18
+Frankrijk,2018,Others,Others,0.11
+Frankrijk,2019,Others,Others,1.07
+Frankrijk,2020,Others,Others,1.12
+Frankrijk,2021,Others,Others,1.16
+Frankrijk,2022,Others,Others,1.15
+Frankrijk,2023,Others,Others,0.8
+Frankrijk,2024,Others,Others,1.02
+Frankrijk,2025,Others,Others,1.25
+Frankrijk,2019,waste,Waste,0.46
+Frankrijk,2020,waste,Waste,0.46
+Frankrijk,2021,waste,Waste,0.95
+Frankrijk,2022,waste,Waste,0.93
+Frankrijk,2023,waste,Waste,1.03
+Frankrijk,2024,waste,Waste,1.06
+Frankrijk,2025,waste,Waste,1.04
+Frankrijk,2014,wind,Wind offshore,0.0
+Frankrijk,2015,wind,Wind offshore,0.0
+Frankrijk,2016,wind,Wind offshore,0.0
+Frankrijk,2017,wind,Wind offshore,0.0
+Frankrijk,2019,wind,Wind offshore,0.01
+Frankrijk,2020,wind,Wind offshore,0.01
+Frankrijk,2021,wind,Wind offshore,0.02
+Frankrijk,2022,wind,Wind offshore,0.49
+Frankrijk,2023,wind,Wind offshore,1.0
+Frankrijk,2024,wind,Wind offshore,1.03
+Frankrijk,2025,wind,Wind offshore,1.53
+Frankrijk,2014,wind,Wind onshore,10.32
+Frankrijk,2015,wind,Wind onshore,11.76
+Frankrijk,2016,wind,Wind onshore,13.57
+Frankrijk,2017,wind,Wind onshore,12.52
+Frankrijk,2018,wind,Wind onshore,13.61
+Frankrijk,2019,wind,Wind onshore,16.58
+Frankrijk,2020,wind,Wind onshore,17.22
+Frankrijk,2021,wind,Wind onshore,19.52
+Frankrijk,2022,wind,Wind onshore,20.84
+Frankrijk,2023,wind,Wind onshore,21.7
+Frankrijk,2024,wind,Wind onshore,22.91
+Frankrijk,2025,wind,Wind onshore,23.67
+Frankrijk,2014,solar,Solar AC,6.19
+Frankrijk,2015,solar,Solar AC,6.77
+Frankrijk,2016,solar,Solar AC,7.66
+Frankrijk,2017,solar,Solar AC,7.17
+Frankrijk,2018,solar,Solar AC,8.19
+Frankrijk,2019,solar,Solar AC,9.44
+Frankrijk,2020,solar,Solar AC,10.21
+Frankrijk,2021,solar,Solar AC,13.15
+Frankrijk,2022,solar,Solar AC,14.64
+Frankrijk,2023,solar,Solar AC,17.79
+Frankrijk,2024,solar,Solar AC,22.86
+Frankrijk,2025,solar,Solar AC,28.25
+Spanje,2014,nuclear,Nuclear,7.57
+Spanje,2015,nuclear,Nuclear,7.57
+Spanje,2016,nuclear,Nuclear,7.57
+Spanje,2017,nuclear,Nuclear,7.12
+Spanje,2018,nuclear,Nuclear,7.12
+Spanje,2019,nuclear,Nuclear,7.12
+Spanje,2020,nuclear,Nuclear,7.12
+Spanje,2021,nuclear,Nuclear,7.12
+Spanje,2022,nuclear,Nuclear,7.12
+Spanje,2023,nuclear,Nuclear,7.12
+Spanje,2024,nuclear,Nuclear,7.12
+Spanje,2025,nuclear,Nuclear,7.12
+Spanje,2014,hydro,Hydro Run-of-River,1.09
+Spanje,2015,hydro,Hydro Run-of-River,1.16
+Spanje,2016,hydro,Hydro Run-of-River,1.16
+Spanje,2017,hydro,Hydro Run-of-River,1.16
+Spanje,2018,hydro,Hydro Run-of-River,1.16
+Spanje,2019,hydro,Hydro Run-of-River,1.15
+Spanje,2020,hydro,Hydro Run-of-River,1.15
+Spanje,2021,hydro,Hydro Run-of-River,1.15
+Spanje,2022,hydro,Hydro Run-of-River,1.15
+Spanje,2023,hydro,Hydro Run-of-River,1.15
+Spanje,2024,hydro,Hydro Run-of-River,1.15
+Spanje,2025,hydro,Hydro Run-of-River,2.63
+Spanje,2014,biomass,Biomass,0.67
+Spanje,2015,biomass,Biomass,0.7
+Spanje,2016,biomass,Biomass,0.54
+Spanje,2017,biomass,Biomass,0.52
+Spanje,2018,biomass,Biomass,0.51
+Spanje,2019,biomass,Biomass,0.55
+Spanje,2020,biomass,Biomass,0.7
+Spanje,2021,biomass,Biomass,0.7
+Spanje,2022,biomass,Biomass,0.71
+Spanje,2023,biomass,Biomass,0.71
+Spanje,2024,biomass,Biomass,0.71
+Spanje,2025,biomass,Biomass,0.75
+Spanje,2014,coal,Fossil brown coal / lignite,1.2
+Spanje,2015,coal,Fossil brown coal / lignite,1.06
+Spanje,2016,coal,Fossil brown coal / lignite,0.0
+Spanje,2017,coal,Fossil brown coal / lignite,0.0
+Spanje,2018,coal,Fossil brown coal / lignite,0.0
+Spanje,2019,coal,Fossil brown coal / lignite,0.0
+Spanje,2020,coal,Fossil brown coal / lignite,0.0
+Spanje,2021,coal,Fossil brown coal / lignite,0.0
+Spanje,2022,coal,Fossil brown coal / lignite,0.0
+Spanje,2023,coal,Fossil brown coal / lignite,0.0
+Spanje,2024,coal,Fossil brown coal / lignite,0.0
+Spanje,2025,coal,Fossil brown coal / lignite,0.0
+Spanje,2014,Fossil coal-derived gas,Fossil coal-derived gas,0.0
+Spanje,2015,Fossil coal-derived gas,Fossil coal-derived gas,0.0
+Spanje,2016,Fossil coal-derived gas,Fossil coal-derived gas,0.0
+Spanje,2017,Fossil coal-derived gas,Fossil coal-derived gas,0.0
+Spanje,2018,Fossil coal-derived gas,Fossil coal-derived gas,0.0
+Spanje,2019,Fossil coal-derived gas,Fossil coal-derived gas,0.0
+Spanje,2020,Fossil coal-derived gas,Fossil coal-derived gas,0.0
+Spanje,2021,Fossil coal-derived gas,Fossil coal-derived gas,0.0
+Spanje,2022,Fossil coal-derived gas,Fossil coal-derived gas,0.0
+Spanje,2023,Fossil coal-derived gas,Fossil coal-derived gas,0.0
+Spanje,2024,Fossil coal-derived gas,Fossil coal-derived gas,0.0
+Spanje,2025,Fossil coal-derived gas,Fossil coal-derived gas,0.0
+Spanje,2014,coal,Fossil hard coal,9.41
+Spanje,2015,coal,Fossil hard coal,9.41
+Spanje,2016,coal,Fossil hard coal,9.53
+Spanje,2017,coal,Fossil hard coal,9.53
+Spanje,2018,coal,Fossil hard coal,9.56
+Spanje,2019,coal,Fossil hard coal,9.21
+Spanje,2020,coal,Fossil hard coal,5.98
+Spanje,2021,coal,Fossil hard coal,4.64
+Spanje,2022,coal,Fossil hard coal,3.22
+Spanje,2023,coal,Fossil hard coal,3.22
+Spanje,2024,coal,Fossil hard coal,1.82
+Spanje,2025,coal,Fossil hard coal,1.26
+Spanje,2014,oil,Fossil oil,0.65
+Spanje,2015,oil,Fossil oil,0.68
+Spanje,2016,oil,Fossil oil,0.72
+Spanje,2017,oil,Fossil oil,0.72
+Spanje,2018,oil,Fossil oil,0.71
+Spanje,2019,oil,Fossil oil,0.71
+Spanje,2020,oil,Fossil oil,0.68
+Spanje,2021,oil,Fossil oil,0.67
+Spanje,2022,oil,Fossil oil,0.67
+Spanje,2023,oil,Fossil oil,0.7
+Spanje,2024,oil,Fossil oil,0.67
+Spanje,2025,oil,Fossil oil,0.73
+Spanje,2014,oil,Fossil oil shale,0.0
+Spanje,2015,oil,Fossil oil shale,0.0
+Spanje,2016,oil,Fossil oil shale,0.0
+Spanje,2017,oil,Fossil oil shale,0.0
+Spanje,2018,oil,Fossil oil shale,0.0
+Spanje,2019,oil,Fossil oil shale,0.0
+Spanje,2020,oil,Fossil oil shale,0.0
+Spanje,2021,oil,Fossil oil shale,0.0
+Spanje,2022,oil,Fossil oil shale,0.0
+Spanje,2023,oil,Fossil oil shale,0.0
+Spanje,2024,oil,Fossil oil shale,0.0
+Spanje,2025,oil,Fossil oil shale,0.0
+Spanje,2014,Fossil peat,Fossil peat,0.0
+Spanje,2015,Fossil peat,Fossil peat,0.0
+Spanje,2016,Fossil peat,Fossil peat,0.0
+Spanje,2017,Fossil peat,Fossil peat,0.0
+Spanje,2018,Fossil peat,Fossil peat,0.0
+Spanje,2019,Fossil peat,Fossil peat,0.0
+Spanje,2020,Fossil peat,Fossil peat,0.0
+Spanje,2021,Fossil peat,Fossil peat,0.0
+Spanje,2022,Fossil peat,Fossil peat,0.0
+Spanje,2023,Fossil peat,Fossil peat,0.0
+Spanje,2024,Fossil peat,Fossil peat,0.0
+Spanje,2025,Fossil peat,Fossil peat,0.0
+Spanje,2014,gas,Fossil gas,30.43
+Spanje,2015,gas,Fossil gas,30.3
+Spanje,2016,gas,Fossil gas,30.72
+Spanje,2017,gas,Fossil gas,30.68
+Spanje,2018,gas,Fossil gas,30.27
+Spanje,2019,gas,Fossil gas,30.01
+Spanje,2020,gas,Fossil gas,29.97
+Spanje,2021,gas,Fossil gas,29.93
+Spanje,2022,gas,Fossil gas,29.9
+Spanje,2023,gas,Fossil gas,29.87
+Spanje,2024,gas,Fossil gas,29.94
+Spanje,2025,gas,Fossil gas,29.92
+Spanje,2014,Geothermal,Geothermal,0.0
+Spanje,2015,Geothermal,Geothermal,0.0
+Spanje,2016,Geothermal,Geothermal,0.0
+Spanje,2017,Geothermal,Geothermal,0.0
+Spanje,2018,Geothermal,Geothermal,0.0
+Spanje,2019,Geothermal,Geothermal,0.0
+Spanje,2020,Geothermal,Geothermal,0.0
+Spanje,2021,Geothermal,Geothermal,0.0
+Spanje,2022,Geothermal,Geothermal,0.0
+Spanje,2023,Geothermal,Geothermal,0.0
+Spanje,2024,Geothermal,Geothermal,0.0
+Spanje,2025,Geothermal,Geothermal,0.0
+Spanje,2014,Hydro water reservoir,Hydro water reservoir,18.19
+Spanje,2015,Hydro water reservoir,Hydro water reservoir,19.08
+Spanje,2016,Hydro water reservoir,Hydro water reservoir,19.11
+Spanje,2017,Hydro water reservoir,Hydro water reservoir,19.12
+Spanje,2018,Hydro water reservoir,Hydro water reservoir,19.15
+Spanje,2019,Hydro water reservoir,Hydro water reservoir,19.14
+Spanje,2020,Hydro water reservoir,Hydro water reservoir,19.19
+Spanje,2021,Hydro water reservoir,Hydro water reservoir,19.19
+Spanje,2022,Hydro water reservoir,Hydro water reservoir,15.77
+Spanje,2023,Hydro water reservoir,Hydro water reservoir,15.77
+Spanje,2024,Hydro water reservoir,Hydro water reservoir,15.76
+Spanje,2025,Hydro water reservoir,Hydro water reservoir,14.26
+Spanje,2014,Hydro pumped storage,Hydro pumped storage,4.83
+Spanje,2015,Hydro pumped storage,Hydro pumped storage,5.59
+Spanje,2016,Hydro pumped storage,Hydro pumped storage,5.65
+Spanje,2017,Hydro pumped storage,Hydro pumped storage,5.65
+Spanje,2018,Hydro pumped storage,Hydro pumped storage,5.65
+Spanje,2019,Hydro pumped storage,Hydro pumped storage,5.65
+Spanje,2020,Hydro pumped storage,Hydro pumped storage,5.65
+Spanje,2021,Hydro pumped storage,Hydro pumped storage,5.7
+Spanje,2022,Hydro pumped storage,Hydro pumped storage,3.42
+Spanje,2023,Hydro pumped storage,Hydro pumped storage,3.42
+Spanje,2024,Hydro pumped storage,Hydro pumped storage,3.42
+Spanje,2025,Hydro pumped storage,Hydro pumped storage,3.42
+Spanje,2014,Marine,Marine,0.0
+Spanje,2015,Marine,Marine,0.0
+Spanje,2016,Marine,Marine,0.0
+Spanje,2017,Marine,Marine,0.0
+Spanje,2018,Marine,Marine,0.0
+Spanje,2019,Marine,Marine,0.0
+Spanje,2020,Marine,Marine,0.0
+Spanje,2021,Marine,Marine,0.0
+Spanje,2022,Marine,Marine,0.0
+Spanje,2023,Marine,Marine,0.0
+Spanje,2024,Marine,Marine,0.0
+Spanje,2025,Marine,Marine,0.0
+Spanje,2014,Others,Others,0.09
+Spanje,2015,Others,Others,0.1
+Spanje,2016,Others,Others,0.11
+Spanje,2017,Others,Others,0.12
+Spanje,2018,Others,Others,0.12
+Spanje,2019,Others,Others,0.12
+Spanje,2020,Others,Others,0.12
+Spanje,2021,Others,Others,0.12
+Spanje,2022,Others,Others,0.12
+Spanje,2023,Others,Others,0.12
+Spanje,2024,Others,Others,0.13
+Spanje,2025,Others,Others,0.14
+Spanje,2014,other_renewable,Other renewables,0.14
+Spanje,2015,other_renewable,Other renewables,0.16
+Spanje,2016,other_renewable,Other renewables,0.25
+Spanje,2017,other_renewable,Other renewables,0.26
+Spanje,2018,other_renewable,Other renewables,0.26
+Spanje,2019,other_renewable,Other renewables,0.27
+Spanje,2020,other_renewable,Other renewables,0.27
+Spanje,2021,other_renewable,Other renewables,0.27
+Spanje,2022,other_renewable,Other renewables,0.28
+Spanje,2023,other_renewable,Other renewables,0.29
+Spanje,2024,other_renewable,Other renewables,0.62
+Spanje,2025,other_renewable,Other renewables,0.79
+Spanje,2014,waste,Waste,0.27
+Spanje,2015,waste,Waste,0.38
+Spanje,2016,waste,Waste,0.54
+Spanje,2017,waste,Waste,0.54
+Spanje,2018,waste,Waste,0.54
+Spanje,2019,waste,Waste,0.54
+Spanje,2020,waste,Waste,0.54
+Spanje,2021,waste,Waste,0.57
+Spanje,2022,waste,Waste,0.55
+Spanje,2023,waste,Waste,0.55
+Spanje,2024,waste,Waste,0.55
+Spanje,2025,waste,Waste,0.55
+Spanje,2014,wind,Wind offshore,0.0
+Spanje,2015,wind,Wind offshore,0.0
+Spanje,2016,wind,Wind offshore,0.0
+Spanje,2017,wind,Wind offshore,0.0
+Spanje,2018,wind,Wind offshore,0.0
+Spanje,2019,wind,Wind offshore,0.0
+Spanje,2020,wind,Wind offshore,0.0
+Spanje,2021,wind,Wind offshore,0.0
+Spanje,2022,wind,Wind offshore,0.0
+Spanje,2023,wind,Wind offshore,0.0
+Spanje,2024,wind,Wind offshore,0.0
+Spanje,2025,wind,Wind offshore,0.0
+Spanje,2014,wind,Wind onshore,22.74
+Spanje,2015,wind,Wind onshore,22.77
+Spanje,2016,wind,Wind onshore,22.81
+Spanje,2017,wind,Wind onshore,22.83
+Spanje,2018,wind,Wind onshore,22.96
+Spanje,2019,wind,Wind onshore,24.45
+Spanje,2020,wind,Wind onshore,26.66
+Spanje,2021,wind,Wind onshore,27.73
+Spanje,2022,wind,Wind onshore,29.32
+Spanje,2023,wind,Wind onshore,30.16
+Spanje,2024,wind,Wind onshore,30.93
+Spanje,2025,wind,Wind onshore,32.45
+Spanje,2014,solar,Solar AC,6.54
+Spanje,2015,solar,Solar AC,6.5
+Spanje,2016,solar,Solar AC,6.72
+Spanje,2017,solar,Solar AC,6.72
+Spanje,2018,solar,Solar AC,6.75
+Spanje,2019,solar,Solar AC,8.47
+Spanje,2020,solar,Solar AC,11.39
+Spanje,2021,solar,Solar AC,14.64
+Spanje,2022,solar,Solar AC,18.52
+Spanje,2023,solar,Solar AC,23.87
+Spanje,2024,solar,Solar AC,29.05
+Spanje,2025,solar,Solar AC,41.43
+Denemarken (West),2014,hydro,Hydro Run-of-River,0.01
+Denemarken (West),2015,hydro,Hydro Run-of-River,0.01
+Denemarken (West),2016,hydro,Hydro Run-of-River,0.01
+Denemarken (West),2017,hydro,Hydro Run-of-River,0.01
+Denemarken (West),2018,hydro,Hydro Run-of-River,0.01
+Denemarken (West),2019,hydro,Hydro Run-of-River,0.01
+Denemarken (West),2020,hydro,Hydro Run-of-River,0.01
+Denemarken (West),2021,hydro,Hydro Run-of-River,0.01
+Denemarken (West),2022,hydro,Hydro Run-of-River,0.01
+Denemarken (West),2023,hydro,Hydro Run-of-River,0.01
+Denemarken (West),2024,hydro,Hydro Run-of-River,0.01
+Denemarken (West),2025,hydro,Hydro Run-of-River,0.01
+Denemarken (West),2026,hydro,Hydro Run-of-River,0.01
+Denemarken (West),2014,biomass,Biomass,0.2
+Denemarken (West),2015,biomass,Biomass,0.2
+Denemarken (West),2016,biomass,Biomass,0.2
+Denemarken (West),2017,biomass,Biomass,1.7
+Denemarken (West),2018,biomass,Biomass,1.72
+Denemarken (West),2019,biomass,Biomass,1.87
+Denemarken (West),2020,biomass,Biomass,1.87
+Denemarken (West),2021,biomass,Biomass,1.87
+Denemarken (West),2022,biomass,Biomass,1.75
+Denemarken (West),2023,biomass,Biomass,1.75
+Denemarken (West),2024,biomass,Biomass,2.22
+Denemarken (West),2025,biomass,Biomass,2.22
+Denemarken (West),2026,biomass,Biomass,2.22
+Denemarken (West),2014,coal,Fossil hard coal,4.85
+Denemarken (West),2015,coal,Fossil hard coal,4.85
+Denemarken (West),2016,coal,Fossil hard coal,4.85
+Denemarken (West),2017,coal,Fossil hard coal,3.66
+Denemarken (West),2018,coal,Fossil hard coal,3.66
+Denemarken (West),2019,coal,Fossil hard coal,3.66
+Denemarken (West),2020,coal,Fossil hard coal,3.41
+Denemarken (West),2021,coal,Fossil hard coal,3.16
+Denemarken (West),2022,coal,Fossil hard coal,3.02
+Denemarken (West),2023,coal,Fossil hard coal,3.02
+Denemarken (West),2024,coal,Fossil hard coal,1.6
+Denemarken (West),2025,coal,Fossil hard coal,1.6
+Denemarken (West),2026,coal,Fossil hard coal,1.6
+Denemarken (West),2014,oil,Fossil oil,1.05
+Denemarken (West),2015,oil,Fossil oil,1.05
+Denemarken (West),2016,oil,Fossil oil,1.05
+Denemarken (West),2017,oil,Fossil oil,1.01
+Denemarken (West),2018,oil,Fossil oil,1.01
+Denemarken (West),2019,oil,Fossil oil,1.01
+Denemarken (West),2020,oil,Fossil oil,1.01
+Denemarken (West),2021,oil,Fossil oil,1.0
+Denemarken (West),2022,oil,Fossil oil,0.96
+Denemarken (West),2023,oil,Fossil oil,0.96
+Denemarken (West),2024,oil,Fossil oil,0.7
+Denemarken (West),2025,oil,Fossil oil,0.66
+Denemarken (West),2026,oil,Fossil oil,0.66
+Denemarken (West),2014,gas,Fossil gas,2.94
+Denemarken (West),2015,gas,Fossil gas,2.94
+Denemarken (West),2016,gas,Fossil gas,2.94
+Denemarken (West),2017,gas,Fossil gas,1.83
+Denemarken (West),2018,gas,Fossil gas,1.81
+Denemarken (West),2019,gas,Fossil gas,1.74
+Denemarken (West),2020,gas,Fossil gas,1.65
+Denemarken (West),2021,gas,Fossil gas,1.62
+Denemarken (West),2022,gas,Fossil gas,1.57
+Denemarken (West),2023,gas,Fossil gas,1.57
+Denemarken (West),2024,gas,Fossil gas,1.63
+Denemarken (West),2025,gas,Fossil gas,1.63
+Denemarken (West),2026,gas,Fossil gas,1.63
+Denemarken (West),2014,other_renewable,Other renewables,0.09
+Denemarken (West),2015,other_renewable,Other renewables,0.09
+Denemarken (West),2016,other_renewable,Other renewables,0.09
+Denemarken (West),2017,other_renewable,Other renewables,0.15
+Denemarken (West),2018,other_renewable,Other renewables,0.14
+Denemarken (West),2019,other_renewable,Other renewables,0.14
+Denemarken (West),2020,other_renewable,Other renewables,0.14
+Denemarken (West),2021,other_renewable,Other renewables,0.14
+Denemarken (West),2022,other_renewable,Other renewables,0.14
+Denemarken (West),2023,other_renewable,Other renewables,0.14
+Denemarken (West),2024,other_renewable,Other renewables,0.14
+Denemarken (West),2025,other_renewable,Other renewables,0.14
+Denemarken (West),2026,other_renewable,Other renewables,0.14
+Denemarken (West),2014,waste,Waste,0.36
+Denemarken (West),2015,waste,Waste,0.36
+Denemarken (West),2016,waste,Waste,0.36
+Denemarken (West),2017,waste,Waste,0.38
+Denemarken (West),2018,waste,Waste,0.38
+Denemarken (West),2019,waste,Waste,0.38
+Denemarken (West),2020,waste,Waste,0.38
+Denemarken (West),2021,waste,Waste,0.38
+Denemarken (West),2022,waste,Waste,0.38
+Denemarken (West),2023,waste,Waste,0.38
+Denemarken (West),2024,waste,Waste,0.38
+Denemarken (West),2025,waste,Waste,0.38
+Denemarken (West),2026,waste,Waste,0.38
+Denemarken (West),2014,wind,Wind offshore,1.27
+Denemarken (West),2015,wind,Wind offshore,1.27
+Denemarken (West),2016,wind,Wind offshore,1.27
+Denemarken (West),2017,wind,Wind offshore,1.7
+Denemarken (West),2018,wind,Wind offshore,1.7
+Denemarken (West),2019,wind,Wind offshore,1.7
+Denemarken (West),2020,wind,Wind offshore,1.7
+Denemarken (West),2021,wind,Wind offshore,2.31
+Denemarken (West),2022,wind,Wind offshore,2.31
+Denemarken (West),2023,wind,Wind offshore,2.65
+Denemarken (West),2024,wind,Wind offshore,2.64
+Denemarken (West),2025,wind,Wind offshore,2.64
+Denemarken (West),2026,wind,Wind offshore,2.64
+Denemarken (West),2014,wind,Wind onshore,3.57
+Denemarken (West),2015,wind,Wind onshore,3.57
+Denemarken (West),2016,wind,Wind onshore,3.57
+Denemarken (West),2017,wind,Wind onshore,4.42
+Denemarken (West),2018,wind,Wind onshore,4.43
+Denemarken (West),2019,wind,Wind onshore,4.4
+Denemarken (West),2020,wind,Wind onshore,4.48
+Denemarken (West),2021,wind,Wind onshore,4.64
+Denemarken (West),2022,wind,Wind onshore,4.71
+Denemarken (West),2023,wind,Wind onshore,4.86
+Denemarken (West),2024,wind,Wind onshore,3.0
+Denemarken (West),2025,wind,Wind onshore,3.0
+Denemarken (West),2026,wind,Wind onshore,3.0
+Denemarken (West),2014,solar,Solar AC,0.6
+Denemarken (West),2015,solar,Solar AC,0.6
+Denemarken (West),2016,solar,Solar AC,0.6
+Denemarken (West),2017,solar,Solar AC,1.0
+Denemarken (West),2018,solar,Solar AC,1.01
+Denemarken (West),2019,solar,Solar AC,1.01
+Denemarken (West),2020,solar,Solar AC,1.3
+Denemarken (West),2021,solar,Solar AC,1.54
+Denemarken (West),2022,solar,Solar AC,2.32
+Denemarken (West),2023,solar,Solar AC,3.73
+Denemarken (West),2024,solar,Solar AC,3.23
+Denemarken (West),2025,solar,Solar AC,3.12
+Denemarken (West),2026,solar,Solar AC,3.12
+Italie (Noord),2014,hydro,Hydro Run-of-River,10.72
+Italie (Noord),2015,hydro,Hydro Run-of-River,10.48
+Italie (Noord),2016,hydro,Hydro Run-of-River,10.39
+Italie (Noord),2017,hydro,Hydro Run-of-River,10.83
+Italie (Noord),2018,hydro,Hydro Run-of-River,10.65
+Italie (Noord),2019,hydro,Hydro Run-of-River,10.44
+Italie (Noord),2020,hydro,Hydro Run-of-River,10.47
+Italie (Noord),2021,hydro,Hydro Run-of-River,10.51
+Italie (Noord),2022,hydro,Hydro Run-of-River,10.55
+Italie (Noord),2023,hydro,Hydro Run-of-River,10.29
+Italie (Noord),2024,hydro,Hydro Run-of-River,10.32
+Italie (Noord),2025,hydro,Hydro Run-of-River,10.49
+Italie (Noord),2014,biomass,Biomass,0.93
+Italie (Noord),2015,biomass,Biomass,1.61
+Italie (Noord),2016,biomass,Biomass,1.62
+Italie (Noord),2017,biomass,Biomass,1.35
+Italie (Noord),2018,biomass,Biomass,1.54
+Italie (Noord),2019,biomass,Biomass,1.55
+Italie (Noord),2020,biomass,Biomass,1.59
+Italie (Noord),2021,biomass,Biomass,1.55
+Italie (Noord),2022,biomass,Biomass,1.53
+Italie (Noord),2023,biomass,Biomass,1.54
+Italie (Noord),2024,biomass,Biomass,1.54
+Italie (Noord),2025,biomass,Biomass,1.47
+Italie (Noord),2014,coal,Fossil brown coal / lignite,0.0
+Italie (Noord),2015,coal,Fossil brown coal / lignite,0.0
+Italie (Noord),2016,coal,Fossil brown coal / lignite,0.0
+Italie (Noord),2017,coal,Fossil brown coal / lignite,0.0
+Italie (Noord),2018,coal,Fossil brown coal / lignite,0.0
+Italie (Noord),2019,coal,Fossil brown coal / lignite,0.0
+Italie (Noord),2020,coal,Fossil brown coal / lignite,0.0
+Italie (Noord),2021,coal,Fossil brown coal / lignite,0.0
+Italie (Noord),2022,coal,Fossil brown coal / lignite,0.0
+Italie (Noord),2023,coal,Fossil brown coal / lignite,0.0
+Italie (Noord),2024,coal,Fossil brown coal / lignite,0.0
+Italie (Noord),2025,coal,Fossil brown coal / lignite,0.0
+Italie (Noord),2014,Fossil coal-derived gas,Fossil coal-derived gas,0.41
+Italie (Noord),2015,Fossil coal-derived gas,Fossil coal-derived gas,0.77
+Italie (Noord),2016,Fossil coal-derived gas,Fossil coal-derived gas,0.95
+Italie (Noord),2017,Fossil coal-derived gas,Fossil coal-derived gas,2.02
+Italie (Noord),2018,Fossil coal-derived gas,Fossil coal-derived gas,1.81
+Italie (Noord),2019,Fossil coal-derived gas,Fossil coal-derived gas,1.76
+Italie (Noord),2020,Fossil coal-derived gas,Fossil coal-derived gas,2.06
+Italie (Noord),2021,Fossil coal-derived gas,Fossil coal-derived gas,2.04
+Italie (Noord),2022,Fossil coal-derived gas,Fossil coal-derived gas,2.07
+Italie (Noord),2023,Fossil coal-derived gas,Fossil coal-derived gas,2.07
+Italie (Noord),2024,Fossil coal-derived gas,Fossil coal-derived gas,2.08
+Italie (Noord),2025,Fossil coal-derived gas,Fossil coal-derived gas,2.04
+Italie (Noord),2014,coal,Fossil hard coal,1.36
+Italie (Noord),2015,coal,Fossil hard coal,6.39
+Italie (Noord),2016,coal,Fossil hard coal,7.9
+Italie (Noord),2017,coal,Fossil hard coal,6.03
+Italie (Noord),2018,coal,Fossil hard coal,4.85
+Italie (Noord),2019,coal,Fossil hard coal,7.62
+Italie (Noord),2020,coal,Fossil hard coal,6.99
+Italie (Noord),2021,coal,Fossil hard coal,6.38
+Italie (Noord),2022,coal,Fossil hard coal,5.58
+Italie (Noord),2023,coal,Fossil hard coal,5.58
+Italie (Noord),2024,coal,Fossil hard coal,5.23
+Italie (Noord),2025,coal,Fossil hard coal,4.7
+Italie (Noord),2014,oil,Fossil oil,5.02
+Italie (Noord),2015,oil,Fossil oil,8.8
+Italie (Noord),2016,oil,Fossil oil,4.93
+Italie (Noord),2017,oil,Fossil oil,2.48
+Italie (Noord),2018,oil,Fossil oil,1.44
+Italie (Noord),2019,oil,Fossil oil,1.49
+Italie (Noord),2020,oil,Fossil oil,1.48
+Italie (Noord),2021,oil,Fossil oil,1.49
+Italie (Noord),2022,oil,Fossil oil,1.54
+Italie (Noord),2023,oil,Fossil oil,1.56
+Italie (Noord),2024,oil,Fossil oil,1.55
+Italie (Noord),2025,oil,Fossil oil,1.55
+Italie (Noord),2014,Fossil peat,Fossil peat,0.0
+Italie (Noord),2015,Fossil peat,Fossil peat,0.0
+Italie (Noord),2016,Fossil peat,Fossil peat,0.0
+Italie (Noord),2017,Fossil peat,Fossil peat,0.0
+Italie (Noord),2018,Fossil peat,Fossil peat,0.0
+Italie (Noord),2019,Fossil peat,Fossil peat,0.0
+Italie (Noord),2020,Fossil peat,Fossil peat,0.0
+Italie (Noord),2021,Fossil peat,Fossil peat,0.0
+Italie (Noord),2022,Fossil peat,Fossil peat,0.0
+Italie (Noord),2023,Fossil peat,Fossil peat,0.0
+Italie (Noord),2024,Fossil peat,Fossil peat,0.0
+Italie (Noord),2025,Fossil peat,Fossil peat,0.0
+Italie (Noord),2014,gas,Fossil gas,20.8
+Italie (Noord),2015,gas,Fossil gas,29.92
+Italie (Noord),2016,gas,Fossil gas,39.87
+Italie (Noord),2017,gas,Fossil gas,39.1
+Italie (Noord),2018,gas,Fossil gas,46.32
+Italie (Noord),2019,gas,Fossil gas,42.52
+Italie (Noord),2020,gas,Fossil gas,41.92
+Italie (Noord),2021,gas,Fossil gas,41.96
+Italie (Noord),2022,gas,Fossil gas,44.22
+Italie (Noord),2023,gas,Fossil gas,45.16
+Italie (Noord),2024,gas,Fossil gas,45.55
+Italie (Noord),2025,gas,Fossil gas,48.47
+Italie (Noord),2014,Geothermal,Geothermal,0.87
+Italie (Noord),2015,Geothermal,Geothermal,0.87
+Italie (Noord),2016,Geothermal,Geothermal,0.87
+Italie (Noord),2017,Geothermal,Geothermal,0.87
+Italie (Noord),2018,Geothermal,Geothermal,0.87
+Italie (Noord),2019,Geothermal,Geothermal,0.87
+Italie (Noord),2020,Geothermal,Geothermal,0.87
+Italie (Noord),2021,Geothermal,Geothermal,0.87
+Italie (Noord),2022,Geothermal,Geothermal,0.87
+Italie (Noord),2023,Geothermal,Geothermal,0.87
+Italie (Noord),2024,Geothermal,Geothermal,0.87
+Italie (Noord),2025,Geothermal,Geothermal,0.87
+Italie (Noord),2014,Hydro water reservoir,Hydro water reservoir,6.36
+Italie (Noord),2015,Hydro water reservoir,Hydro water reservoir,4.23
+Italie (Noord),2016,Hydro water reservoir,Hydro water reservoir,4.38
+Italie (Noord),2017,Hydro water reservoir,Hydro water reservoir,4.73
+Italie (Noord),2018,Hydro water reservoir,Hydro water reservoir,3.86
+Italie (Noord),2019,Hydro water reservoir,Hydro water reservoir,4.46
+Italie (Noord),2020,Hydro water reservoir,Hydro water reservoir,4.45
+Italie (Noord),2021,Hydro water reservoir,Hydro water reservoir,4.44
+Italie (Noord),2022,Hydro water reservoir,Hydro water reservoir,4.44
+Italie (Noord),2023,Hydro water reservoir,Hydro water reservoir,4.54
+Italie (Noord),2024,Hydro water reservoir,Hydro water reservoir,4.55
+Italie (Noord),2025,Hydro water reservoir,Hydro water reservoir,4.5
+Italie (Noord),2014,Hydro pumped storage,Hydro pumped storage,4.71
+Italie (Noord),2015,Hydro pumped storage,Hydro pumped storage,7.06
+Italie (Noord),2016,Hydro pumped storage,Hydro pumped storage,7.16
+Italie (Noord),2017,Hydro pumped storage,Hydro pumped storage,6.45
+Italie (Noord),2018,Hydro pumped storage,Hydro pumped storage,7.57
+Italie (Noord),2019,Hydro pumped storage,Hydro pumped storage,7.28
+Italie (Noord),2020,Hydro pumped storage,Hydro pumped storage,7.28
+Italie (Noord),2021,Hydro pumped storage,Hydro pumped storage,7.26
+Italie (Noord),2022,Hydro pumped storage,Hydro pumped storage,7.26
+Italie (Noord),2023,Hydro pumped storage,Hydro pumped storage,7.26
+Italie (Noord),2024,Hydro pumped storage,Hydro pumped storage,7.24
+Italie (Noord),2025,Hydro pumped storage,Hydro pumped storage,7.25
+Italie (Noord),2014,Marine,Marine,0.0
+Italie (Noord),2015,Marine,Marine,0.0
+Italie (Noord),2016,Marine,Marine,0.0
+Italie (Noord),2017,Marine,Marine,0.0
+Italie (Noord),2018,Marine,Marine,0.0
+Italie (Noord),2019,Marine,Marine,0.0
+Italie (Noord),2020,Marine,Marine,0.0
+Italie (Noord),2021,Marine,Marine,0.0
+Italie (Noord),2022,Marine,Marine,0.0
+Italie (Noord),2023,Marine,Marine,0.0
+Italie (Noord),2024,Marine,Marine,0.0
+Italie (Noord),2014,Others,Others,37.82
+Italie (Noord),2015,Others,Others,13.91
+Italie (Noord),2016,Others,Others,1.71
+Italie (Noord),2017,Others,Others,5.79
+Italie (Noord),2018,Others,Others,0.99
+Italie (Noord),2019,Others,Others,1.39
+Italie (Noord),2020,Others,Others,0.84
+Italie (Noord),2021,Others,Others,0.82
+Italie (Noord),2022,Others,Others,0.85
+Italie (Noord),2023,Others,Others,0.33
+Italie (Noord),2024,Others,Others,0.44
+Italie (Noord),2025,Others,Others,0.93
+Italie (Noord),2014,other_renewable,Other renewables,0.0
+Italie (Noord),2015,other_renewable,Other renewables,0.0
+Italie (Noord),2016,other_renewable,Other renewables,0.0
+Italie (Noord),2017,other_renewable,Other renewables,0.0
+Italie (Noord),2018,other_renewable,Other renewables,0.0
+Italie (Noord),2019,other_renewable,Other renewables,0.0
+Italie (Noord),2020,other_renewable,Other renewables,0.0
+Italie (Noord),2021,other_renewable,Other renewables,0.0
+Italie (Noord),2022,other_renewable,Other renewables,0.0
+Italie (Noord),2023,other_renewable,Other renewables,0.0
+Italie (Noord),2024,other_renewable,Other renewables,0.0
+Italie (Noord),2014,waste,Waste,0.12
+Italie (Noord),2015,waste,Waste,0.25
+Italie (Noord),2016,waste,Waste,0.24
+Italie (Noord),2017,waste,Waste,0.14
+Italie (Noord),2018,waste,Waste,0.13
+Italie (Noord),2019,waste,Waste,0.12
+Italie (Noord),2020,waste,Waste,0.12
+Italie (Noord),2021,waste,Waste,0.12
+Italie (Noord),2022,waste,Waste,0.12
+Italie (Noord),2023,waste,Waste,0.67
+Italie (Noord),2024,waste,Waste,0.67
+Italie (Noord),2025,waste,Waste,0.07
+Italie (Noord),2014,wind,Wind offshore,0.0
+Italie (Noord),2015,wind,Wind offshore,0.0
+Italie (Noord),2016,wind,Wind offshore,0.0
+Italie (Noord),2017,wind,Wind offshore,0.0
+Italie (Noord),2018,wind,Wind offshore,0.0
+Italie (Noord),2019,wind,Wind offshore,0.0
+Italie (Noord),2020,wind,Wind offshore,0.0
+Italie (Noord),2021,wind,Wind offshore,0.0
+Italie (Noord),2022,wind,Wind offshore,0.03
+Italie (Noord),2023,wind,Wind offshore,0.03
+Italie (Noord),2024,wind,Wind offshore,0.03
+Italie (Noord),2025,wind,Wind offshore,0.03
+Italie (Noord),2014,wind,Wind onshore,8.46
+Italie (Noord),2015,wind,Wind onshore,8.74
+Italie (Noord),2016,wind,Wind onshore,9.02
+Italie (Noord),2017,wind,Wind onshore,9.26
+Italie (Noord),2018,wind,Wind onshore,9.62
+Italie (Noord),2019,wind,Wind onshore,10.22
+Italie (Noord),2020,wind,Wind onshore,10.3
+Italie (Noord),2021,wind,Wind onshore,10.66
+Italie (Noord),2022,wind,Wind onshore,11.2
+Italie (Noord),2023,wind,Wind onshore,11.65
+Italie (Noord),2024,wind,Wind onshore,12.23
+Italie (Noord),2025,wind,Wind onshore,12.88
+Italie (Noord),2014,solar,Solar AC,4.98
+Italie (Noord),2015,solar,Solar AC,4.77
+Italie (Noord),2016,solar,Solar AC,4.66
+Italie (Noord),2017,solar,Solar AC,4.72
+Italie (Noord),2018,solar,Solar AC,4.72
+Italie (Noord),2019,solar,Solar AC,4.87
+Italie (Noord),2020,solar,Solar AC,4.98
+Italie (Noord),2021,solar,Solar AC,5.14
+Italie (Noord),2022,solar,Solar AC,5.43
+Italie (Noord),2023,solar,Solar AC,5.93
+Italie (Noord),2024,solar,Solar AC,8.92
+Italie (Noord),2025,solar,Solar AC,11.87
+Polen,2014,hydro,Hydro Run-of-River,0.38
+Polen,2015,hydro,Hydro Run-of-River,0.39
+Polen,2016,hydro,Hydro Run-of-River,0.4
+Polen,2017,hydro,Hydro Run-of-River,0.46
+Polen,2018,hydro,Hydro Run-of-River,0.44
+Polen,2019,hydro,Hydro Run-of-River,0.45
+Polen,2020,hydro,Hydro Run-of-River,0.45
+Polen,2021,hydro,Hydro Run-of-River,0.32
+Polen,2022,hydro,Hydro Run-of-River,0.32
+Polen,2023,hydro,Hydro Run-of-River,0.32
+Polen,2024,hydro,Hydro Run-of-River,0.32
+Polen,2025,hydro,Hydro Run-of-River,0.32
+Polen,2014,biomass,Biomass,0.38
+Polen,2015,biomass,Biomass,0.43
+Polen,2016,biomass,Biomass,0.5
+Polen,2017,biomass,Biomass,0.6
+Polen,2018,biomass,Biomass,0.85
+Polen,2019,biomass,Biomass,0.88
+Polen,2020,biomass,Biomass,0.88
+Polen,2021,biomass,Biomass,0.65
+Polen,2022,biomass,Biomass,0.66
+Polen,2023,biomass,Biomass,0.66
+Polen,2024,biomass,Biomass,0.64
+Polen,2025,biomass,Biomass,0.7
+Polen,2014,coal,Fossil brown coal / lignite,8.43
+Polen,2015,coal,Fossil brown coal / lignite,8.48
+Polen,2016,coal,Fossil brown coal / lignite,8.21
+Polen,2017,coal,Fossil brown coal / lignite,8.56
+Polen,2018,coal,Fossil brown coal / lignite,8.01
+Polen,2019,coal,Fossil brown coal / lignite,7.68
+Polen,2020,coal,Fossil brown coal / lignite,7.6
+Polen,2021,coal,Fossil brown coal / lignite,7.56
+Polen,2022,coal,Fossil brown coal / lignite,7.56
+Polen,2023,coal,Fossil brown coal / lignite,7.56
+Polen,2024,coal,Fossil brown coal / lignite,6.95
+Polen,2025,coal,Fossil brown coal / lignite,6.95
+Polen,2014,Fossil coal-derived gas,Fossil coal-derived gas,0.16
+Polen,2015,Fossil coal-derived gas,Fossil coal-derived gas,0.16
+Polen,2016,Fossil coal-derived gas,Fossil coal-derived gas,0.16
+Polen,2017,Fossil coal-derived gas,Fossil coal-derived gas,0.16
+Polen,2018,Fossil coal-derived gas,Fossil coal-derived gas,0.27
+Polen,2019,Fossil coal-derived gas,Fossil coal-derived gas,0.27
+Polen,2020,Fossil coal-derived gas,Fossil coal-derived gas,0.27
+Polen,2021,Fossil coal-derived gas,Fossil coal-derived gas,0.28
+Polen,2022,Fossil coal-derived gas,Fossil coal-derived gas,0.28
+Polen,2023,Fossil coal-derived gas,Fossil coal-derived gas,0.27
+Polen,2024,Fossil coal-derived gas,Fossil coal-derived gas,0.47
+Polen,2025,Fossil coal-derived gas,Fossil coal-derived gas,0.5
+Polen,2014,coal,Fossil hard coal,19.37
+Polen,2015,coal,Fossil hard coal,18.48
+Polen,2016,coal,Fossil hard coal,18.09
+Polen,2017,coal,Fossil hard coal,20.08
+Polen,2018,coal,Fossil hard coal,22.26
+Polen,2019,coal,Fossil hard coal,22.29
+Polen,2020,coal,Fossil hard coal,20.92
+Polen,2021,coal,Fossil hard coal,19.07
+Polen,2022,coal,Fossil hard coal,19.01
+Polen,2023,coal,Fossil hard coal,18.83
+Polen,2024,coal,Fossil hard coal,18.54
+Polen,2025,coal,Fossil hard coal,18.54
+Polen,2014,oil,Fossil oil,0.34
+Polen,2015,oil,Fossil oil,0.34
+Polen,2016,oil,Fossil oil,0.34
+Polen,2017,oil,Fossil oil,0.42
+Polen,2018,oil,Fossil oil,0.42
+Polen,2019,oil,Fossil oil,0.36
+Polen,2020,oil,Fossil oil,0.36
+Polen,2021,oil,Fossil oil,0.39
+Polen,2022,oil,Fossil oil,0.39
+Polen,2023,oil,Fossil oil,0.39
+Polen,2024,oil,Fossil oil,0.39
+Polen,2025,oil,Fossil oil,0.41
+Polen,2014,gas,Fossil gas,0.83
+Polen,2015,gas,Fossil gas,1.3
+Polen,2016,gas,Fossil gas,1.44
+Polen,2017,gas,Fossil gas,2.14
+Polen,2018,gas,Fossil gas,2.11
+Polen,2019,gas,Fossil gas,2.54
+Polen,2020,gas,Fossil gas,2.56
+Polen,2021,gas,Fossil gas,3.81
+Polen,2022,gas,Fossil gas,3.79
+Polen,2023,gas,Fossil gas,5.16
+Polen,2024,gas,Fossil gas,5.34
+Polen,2025,gas,Fossil gas,5.43
+Polen,2014,Hydro water reservoir,Hydro water reservoir,0.16
+Polen,2015,Hydro water reservoir,Hydro water reservoir,0.16
+Polen,2016,Hydro water reservoir,Hydro water reservoir,0.16
+Polen,2017,Hydro water reservoir,Hydro water reservoir,0.16
+Polen,2018,Hydro water reservoir,Hydro water reservoir,0.16
+Polen,2019,Hydro water reservoir,Hydro water reservoir,0.16
+Polen,2020,Hydro water reservoir,Hydro water reservoir,0.16
+Polen,2021,Hydro water reservoir,Hydro water reservoir,0.46
+Polen,2022,Hydro water reservoir,Hydro water reservoir,0.47
+Polen,2023,Hydro water reservoir,Hydro water reservoir,0.47
+Polen,2024,Hydro water reservoir,Hydro water reservoir,0.47
+Polen,2025,Hydro water reservoir,Hydro water reservoir,0.47
+Polen,2014,Hydro pumped storage,Hydro pumped storage,1.77
+Polen,2015,Hydro pumped storage,Hydro pumped storage,1.77
+Polen,2016,Hydro pumped storage,Hydro pumped storage,1.77
+Polen,2017,Hydro pumped storage,Hydro pumped storage,1.78
+Polen,2018,Hydro pumped storage,Hydro pumped storage,1.78
+Polen,2019,Hydro pumped storage,Hydro pumped storage,1.78
+Polen,2020,Hydro pumped storage,Hydro pumped storage,1.79
+Polen,2021,Hydro pumped storage,Hydro pumped storage,1.59
+Polen,2022,Hydro pumped storage,Hydro pumped storage,1.59
+Polen,2023,Hydro pumped storage,Hydro pumped storage,1.59
+Polen,2024,Hydro pumped storage,Hydro pumped storage,1.52
+Polen,2025,Hydro pumped storage,Hydro pumped storage,1.52
+Polen,2021,Others,Others,1.52
+Polen,2022,Others,Others,1.52
+Polen,2023,Others,Others,1.64
+Polen,2024,Others,Others,1.74
+Polen,2025,Others,Others,1.98
+Polen,2014,wind,Wind onshore,3.76
+Polen,2015,wind,Wind onshore,5.49
+Polen,2016,wind,Wind onshore,6.03
+Polen,2017,wind,Wind onshore,5.79
+Polen,2018,wind,Wind onshore,5.81
+Polen,2019,wind,Wind onshore,5.95
+Polen,2020,wind,Wind onshore,6.57
+Polen,2021,wind,Wind onshore,7.95
+Polen,2022,wind,Wind onshore,8.98
+Polen,2023,wind,Wind onshore,9.58
+Polen,2024,wind,Wind onshore,10.3
+Polen,2025,wind,Wind onshore,10.7
+Polen,2014,solar,Solar AC,0.01
+Polen,2015,solar,Solar AC,0.08
+Polen,2016,solar,Solar AC,0.19
+Polen,2017,solar,Solar AC,0.23
+Polen,2018,solar,Solar AC,0.43
+Polen,2019,solar,Solar AC,1.31
+Polen,2020,solar,Solar AC,3.47
+Polen,2021,solar,Solar AC,6.66
+Polen,2022,solar,Solar AC,10.64
+Polen,2023,solar,Solar AC,14.61
+Polen,2024,solar,Solar AC,17.82
+Polen,2025,solar,Solar AC,20.73
+Noorwegen (Zuid),2014,hydro,Hydro Run-of-River,4.35
+Noorwegen (Zuid),2015,hydro,Hydro Run-of-River,4.52
+Noorwegen (Zuid),2016,hydro,Hydro Run-of-River,4.66
+Noorwegen (Zuid),2017,hydro,Hydro Run-of-River,5.59
+Noorwegen (Zuid),2018,hydro,Hydro Run-of-River,5.94
+Noorwegen (Zuid),2019,hydro,Hydro Run-of-River,6.25
+Noorwegen (Zuid),2020,hydro,Hydro Run-of-River,6.68
+Noorwegen (Zuid),2021,hydro,Hydro Run-of-River,6.68
+Noorwegen (Zuid),2022,hydro,Hydro Run-of-River,6.7
+Noorwegen (Zuid),2023,hydro,Hydro Run-of-River,6.88
+Noorwegen (Zuid),2024,hydro,Hydro Run-of-River,7.23
+Noorwegen (Zuid),2025,hydro,Hydro Run-of-River,7.35
+Noorwegen (Zuid),2020,biomass,Biomass,0.0
+Noorwegen (Zuid),2021,biomass,Biomass,0.0
+Noorwegen (Zuid),2022,biomass,Biomass,0.0
+Noorwegen (Zuid),2023,biomass,Biomass,0.01
+Noorwegen (Zuid),2024,biomass,Biomass,0.01
+Noorwegen (Zuid),2025,biomass,Biomass,0.01
+Noorwegen (Zuid),2014,gas,Fossil gas,1.41
+Noorwegen (Zuid),2015,gas,Fossil gas,1.41
+Noorwegen (Zuid),2016,gas,Fossil gas,0.61
+Noorwegen (Zuid),2017,gas,Fossil gas,0.63
+Noorwegen (Zuid),2018,gas,Fossil gas,0.63
+Noorwegen (Zuid),2019,gas,Fossil gas,0.64
+Noorwegen (Zuid),2020,gas,Fossil gas,0.64
+Noorwegen (Zuid),2021,gas,Fossil gas,0.64
+Noorwegen (Zuid),2022,gas,Fossil gas,0.46
+Noorwegen (Zuid),2023,gas,Fossil gas,0.47
+Noorwegen (Zuid),2024,gas,Fossil gas,0.48
+Noorwegen (Zuid),2025,gas,Fossil gas,0.53
+Noorwegen (Zuid),2014,Hydro water reservoir,Hydro water reservoir,24.96
+Noorwegen (Zuid),2015,Hydro water reservoir,Hydro water reservoir,25.38
+Noorwegen (Zuid),2016,Hydro water reservoir,Hydro water reservoir,25.39
+Noorwegen (Zuid),2017,Hydro water reservoir,Hydro water reservoir,26.31
+Noorwegen (Zuid),2018,Hydro water reservoir,Hydro water reservoir,26.47
+Noorwegen (Zuid),2019,Hydro water reservoir,Hydro water reservoir,26.53
+Noorwegen (Zuid),2020,Hydro water reservoir,Hydro water reservoir,26.68
+Noorwegen (Zuid),2021,Hydro water reservoir,Hydro water reservoir,26.68
+Noorwegen (Zuid),2022,Hydro water reservoir,Hydro water reservoir,26.7
+Noorwegen (Zuid),2023,Hydro water reservoir,Hydro water reservoir,26.66
+Noorwegen (Zuid),2024,Hydro water reservoir,Hydro water reservoir,26.71
+Noorwegen (Zuid),2025,Hydro water reservoir,Hydro water reservoir,26.68
+Noorwegen (Zuid),2014,Hydro pumped storage,Hydro pumped storage,1.04
+Noorwegen (Zuid),2015,Hydro pumped storage,Hydro pumped storage,1.04
+Noorwegen (Zuid),2016,Hydro pumped storage,Hydro pumped storage,1.04
+Noorwegen (Zuid),2017,Hydro pumped storage,Hydro pumped storage,1.03
+Noorwegen (Zuid),2018,Hydro pumped storage,Hydro pumped storage,1.03
+Noorwegen (Zuid),2019,Hydro pumped storage,Hydro pumped storage,1.03
+Noorwegen (Zuid),2020,Hydro pumped storage,Hydro pumped storage,1.06
+Noorwegen (Zuid),2021,Hydro pumped storage,Hydro pumped storage,1.06
+Noorwegen (Zuid),2022,Hydro pumped storage,Hydro pumped storage,1.06
+Noorwegen (Zuid),2023,Hydro pumped storage,Hydro pumped storage,1.06
+Noorwegen (Zuid),2024,Hydro pumped storage,Hydro pumped storage,1.06
+Noorwegen (Zuid),2025,Hydro pumped storage,Hydro pumped storage,1.08
+Noorwegen (Zuid),2014,Others,Others,0.0
+Noorwegen (Zuid),2015,Others,Others,0.0
+Noorwegen (Zuid),2016,Others,Others,0.0
+Noorwegen (Zuid),2017,Others,Others,0.0
+Noorwegen (Zuid),2018,Others,Others,0.0
+Noorwegen (Zuid),2019,Others,Others,0.0
+Noorwegen (Zuid),2020,Others,Others,0.03
+Noorwegen (Zuid),2021,Others,Others,0.03
+Noorwegen (Zuid),2022,Others,Others,0.03
+Noorwegen (Zuid),2023,Others,Others,0.03
+Noorwegen (Zuid),2024,Others,Others,0.03
+Noorwegen (Zuid),2025,Others,Others,0.03
+Noorwegen (Zuid),2020,other_renewable,Other renewables,0.1
+Noorwegen (Zuid),2021,other_renewable,Other renewables,0.1
+Noorwegen (Zuid),2022,other_renewable,Other renewables,0.1
+Noorwegen (Zuid),2023,other_renewable,Other renewables,0.1
+Noorwegen (Zuid),2024,other_renewable,Other renewables,0.1
+Noorwegen (Zuid),2025,other_renewable,Other renewables,0.1
+Noorwegen (Zuid),2020,waste,Waste,0.09
+Noorwegen (Zuid),2021,waste,Waste,0.09
+Noorwegen (Zuid),2022,waste,Waste,0.09
+Noorwegen (Zuid),2023,waste,Waste,0.09
+Noorwegen (Zuid),2024,waste,Waste,0.09
+Noorwegen (Zuid),2025,waste,Waste,0.09
+Noorwegen (Zuid),2024,wind,Wind offshore,0.01
+Noorwegen (Zuid),2025,wind,Wind offshore,0.01
+Noorwegen (Zuid),2014,wind,Wind onshore,0.63
+Noorwegen (Zuid),2015,wind,Wind onshore,0.69
+Noorwegen (Zuid),2016,wind,Wind onshore,0.9
+Noorwegen (Zuid),2017,wind,Wind onshore,1.23
+Noorwegen (Zuid),2018,wind,Wind onshore,2.26
+Noorwegen (Zuid),2019,wind,Wind onshore,3.87
+Noorwegen (Zuid),2020,wind,Wind onshore,5.11
+Noorwegen (Zuid),2021,wind,Wind onshore,5.11
+Noorwegen (Zuid),2022,wind,Wind onshore,5.13
+Noorwegen (Zuid),2023,wind,Wind onshore,5.13
+Noorwegen (Zuid),2024,wind,Wind onshore,5.13
+Noorwegen (Zuid),2025,wind,Wind onshore,5.13
+Noorwegen (Zuid),2023,solar,Solar AC,0.01
+Noorwegen (Zuid),2024,solar,Solar AC,0.02
+Noorwegen (Zuid),2025,solar,Solar AC,0.04
+Zweden (Midden),2014,nuclear,Nuclear,9.53
+Zweden (Midden),2015,nuclear,Nuclear,8.89
+Zweden (Midden),2016,nuclear,Nuclear,9.08
+Zweden (Midden),2017,nuclear,Nuclear,8.6
+Zweden (Midden),2018,nuclear,Nuclear,8.59
+Zweden (Midden),2019,nuclear,Nuclear,7.71
+Zweden (Midden),2020,nuclear,Nuclear,6.87
+Zweden (Midden),2021,nuclear,Nuclear,6.9
+Zweden (Midden),2022,nuclear,Nuclear,6.9
+Zweden (Midden),2023,nuclear,Nuclear,6.9
+Zweden (Midden),2024,nuclear,Nuclear,6.9
+Zweden (Midden),2025,nuclear,Nuclear,6.9
+Zweden (Midden),2026,nuclear,Nuclear,6.9
+Zweden (Midden),2014,Hydro water reservoir,Hydro water reservoir,15.96
+Zweden (Midden),2015,Hydro water reservoir,Hydro water reservoir,15.92
+Zweden (Midden),2016,Hydro water reservoir,Hydro water reservoir,15.94
+Zweden (Midden),2017,Hydro water reservoir,Hydro water reservoir,15.95
+Zweden (Midden),2018,Hydro water reservoir,Hydro water reservoir,16.3
+Zweden (Midden),2019,Hydro water reservoir,Hydro water reservoir,16.32
+Zweden (Midden),2020,Hydro water reservoir,Hydro water reservoir,16.33
+Zweden (Midden),2021,Hydro water reservoir,Hydro water reservoir,16.3
+Zweden (Midden),2022,Hydro water reservoir,Hydro water reservoir,16.3
+Zweden (Midden),2023,Hydro water reservoir,Hydro water reservoir,16.3
+Zweden (Midden),2024,Hydro water reservoir,Hydro water reservoir,16.4
+Zweden (Midden),2025,Hydro water reservoir,Hydro water reservoir,16.4
+Zweden (Midden),2026,Hydro water reservoir,Hydro water reservoir,16.4
+Zweden (Midden),2014,Others,Others,8.01
+Zweden (Midden),2015,Others,Others,8.38
+Zweden (Midden),2016,Others,Others,8.04
+Zweden (Midden),2017,Others,Others,7.87
+Zweden (Midden),2018,Others,Others,8.44
+Zweden (Midden),2019,Others,Others,8.83
+Zweden (Midden),2020,Others,Others,7.98
+Zweden (Midden),2021,Others,Others,8.4
+Zweden (Midden),2022,Others,Others,9.0
+Zweden (Midden),2023,Others,Others,6.6
+Zweden (Midden),2024,Others,Others,6.7
+Zweden (Midden),2025,Others,Others,6.7
+Zweden (Midden),2026,Others,Others,6.7
+Zweden (Midden),2014,wind,Wind onshore,3.5
+Zweden (Midden),2015,wind,Wind onshore,5.49
+Zweden (Midden),2016,wind,Wind onshore,5.96
+Zweden (Midden),2017,wind,Wind onshore,6.25
+Zweden (Midden),2018,wind,Wind onshore,7.51
+Zweden (Midden),2019,wind,Wind onshore,9.65
+Zweden (Midden),2020,wind,Wind onshore,10.02
+Zweden (Midden),2021,wind,Wind onshore,12.1
+Zweden (Midden),2022,wind,Wind onshore,14.7
+Zweden (Midden),2023,wind,Wind onshore,16.7
+Zweden (Midden),2024,wind,Wind onshore,18.0
+Zweden (Midden),2025,wind,Wind onshore,18.0
+Zweden (Midden),2026,wind,Wind onshore,18.0
+Zweden (Midden),2023,solar,Solar AC,3.2
+Zweden (Midden),2024,solar,Solar AC,5.0
+Zweden (Midden),2025,solar,Solar AC,5.0
+Zweden (Midden),2026,solar,Solar AC,5.0
+Oostenrijk,2014,nuclear,Nuclear,0.0
+Oostenrijk,2015,nuclear,Nuclear,0.0
+Oostenrijk,2016,nuclear,Nuclear,0.0
+Oostenrijk,2017,nuclear,Nuclear,0.0
+Oostenrijk,2018,nuclear,Nuclear,0.0
+Oostenrijk,2019,nuclear,Nuclear,0.0
+Oostenrijk,2020,nuclear,Nuclear,0.0
+Oostenrijk,2021,nuclear,Nuclear,0.0
+Oostenrijk,2022,nuclear,Nuclear,0.0
+Oostenrijk,2023,nuclear,Nuclear,0.0
+Oostenrijk,2024,nuclear,Nuclear,0.0
+Oostenrijk,2025,nuclear,Nuclear,0.0
+Oostenrijk,2014,hydro,Hydro Run-of-River,5.54
+Oostenrijk,2015,hydro,Hydro Run-of-River,5.57
+Oostenrijk,2016,hydro,Hydro Run-of-River,5.58
+Oostenrijk,2017,hydro,Hydro Run-of-River,5.6
+Oostenrijk,2018,hydro,Hydro Run-of-River,5.56
+Oostenrijk,2019,hydro,Hydro Run-of-River,5.72
+Oostenrijk,2020,hydro,Hydro Run-of-River,5.94
+Oostenrijk,2021,hydro,Hydro Run-of-River,5.84
+Oostenrijk,2022,hydro,Hydro Run-of-River,5.9
+Oostenrijk,2023,hydro,Hydro Run-of-River,5.82
+Oostenrijk,2024,hydro,Hydro Run-of-River,5.9
+Oostenrijk,2025,hydro,Hydro Run-of-River,5.94
+Oostenrijk,2014,biomass,Biomass,0.46
+Oostenrijk,2015,biomass,Biomass,0.47
+Oostenrijk,2016,biomass,Biomass,0.47
+Oostenrijk,2017,biomass,Biomass,0.49
+Oostenrijk,2018,biomass,Biomass,0.5
+Oostenrijk,2019,biomass,Biomass,0.5
+Oostenrijk,2020,biomass,Biomass,0.5
+Oostenrijk,2021,biomass,Biomass,0.48
+Oostenrijk,2022,biomass,Biomass,0.48
+Oostenrijk,2023,biomass,Biomass,0.55
+Oostenrijk,2024,biomass,Biomass,0.55
+Oostenrijk,2025,biomass,Biomass,0.58
+Oostenrijk,2014,coal,Fossil brown coal / lignite,0.0
+Oostenrijk,2015,coal,Fossil brown coal / lignite,0.0
+Oostenrijk,2016,coal,Fossil brown coal / lignite,0.0
+Oostenrijk,2017,coal,Fossil brown coal / lignite,0.0
+Oostenrijk,2018,coal,Fossil brown coal / lignite,0.0
+Oostenrijk,2019,coal,Fossil brown coal / lignite,0.0
+Oostenrijk,2020,coal,Fossil brown coal / lignite,0.0
+Oostenrijk,2021,coal,Fossil brown coal / lignite,0.0
+Oostenrijk,2022,coal,Fossil brown coal / lignite,0.0
+Oostenrijk,2023,coal,Fossil brown coal / lignite,0.0
+Oostenrijk,2024,coal,Fossil brown coal / lignite,0.0
+Oostenrijk,2025,coal,Fossil brown coal / lignite,0.0
+Oostenrijk,2014,Fossil coal-derived gas,Fossil coal-derived gas,0.0
+Oostenrijk,2015,Fossil coal-derived gas,Fossil coal-derived gas,0.0
+Oostenrijk,2016,Fossil coal-derived gas,Fossil coal-derived gas,0.0
+Oostenrijk,2017,Fossil coal-derived gas,Fossil coal-derived gas,0.0
+Oostenrijk,2018,Fossil coal-derived gas,Fossil coal-derived gas,0.0
+Oostenrijk,2019,Fossil coal-derived gas,Fossil coal-derived gas,0.0
+Oostenrijk,2020,Fossil coal-derived gas,Fossil coal-derived gas,0.0
+Oostenrijk,2021,Fossil coal-derived gas,Fossil coal-derived gas,0.0
+Oostenrijk,2022,Fossil coal-derived gas,Fossil coal-derived gas,0.0
+Oostenrijk,2023,Fossil coal-derived gas,Fossil coal-derived gas,0.0
+Oostenrijk,2024,Fossil coal-derived gas,Fossil coal-derived gas,0.0
+Oostenrijk,2025,Fossil coal-derived gas,Fossil coal-derived gas,0.0
+Oostenrijk,2014,coal,Fossil hard coal,1.17
+Oostenrijk,2015,coal,Fossil hard coal,0.77
+Oostenrijk,2016,coal,Fossil hard coal,0.6
+Oostenrijk,2017,coal,Fossil hard coal,0.6
+Oostenrijk,2018,coal,Fossil hard coal,0.6
+Oostenrijk,2019,coal,Fossil hard coal,0.25
+Oostenrijk,2020,coal,Fossil hard coal,0.0
+Oostenrijk,2021,coal,Fossil hard coal,0.0
+Oostenrijk,2022,coal,Fossil hard coal,0.0
+Oostenrijk,2023,coal,Fossil hard coal,0.0
+Oostenrijk,2024,coal,Fossil hard coal,0.0
+Oostenrijk,2025,coal,Fossil hard coal,0.0
+Oostenrijk,2014,oil,Fossil oil,0.18
+Oostenrijk,2015,oil,Fossil oil,0.18
+Oostenrijk,2016,oil,Fossil oil,0.18
+Oostenrijk,2017,oil,Fossil oil,0.18
+Oostenrijk,2018,oil,Fossil oil,0.18
+Oostenrijk,2019,oil,Fossil oil,0.18
+Oostenrijk,2020,oil,Fossil oil,0.16
+Oostenrijk,2021,oil,Fossil oil,0.16
+Oostenrijk,2022,oil,Fossil oil,0.12
+Oostenrijk,2023,oil,Fossil oil,0.12
+Oostenrijk,2024,oil,Fossil oil,0.12
+Oostenrijk,2025,oil,Fossil oil,0.12
+Oostenrijk,2014,oil,Fossil oil shale,0.0
+Oostenrijk,2015,oil,Fossil oil shale,0.0
+Oostenrijk,2016,oil,Fossil oil shale,0.0
+Oostenrijk,2017,oil,Fossil oil shale,0.0
+Oostenrijk,2018,oil,Fossil oil shale,0.0
+Oostenrijk,2019,oil,Fossil oil shale,0.0
+Oostenrijk,2020,oil,Fossil oil shale,0.0
+Oostenrijk,2021,oil,Fossil oil shale,0.0
+Oostenrijk,2022,oil,Fossil oil shale,0.0
+Oostenrijk,2023,oil,Fossil oil shale,0.0
+Oostenrijk,2024,oil,Fossil oil shale,0.0
+Oostenrijk,2025,oil,Fossil oil shale,0.0
+Oostenrijk,2014,Fossil peat,Fossil peat,0.0
+Oostenrijk,2015,Fossil peat,Fossil peat,0.0
+Oostenrijk,2016,Fossil peat,Fossil peat,0.0
+Oostenrijk,2017,Fossil peat,Fossil peat,0.0
+Oostenrijk,2018,Fossil peat,Fossil peat,0.0
+Oostenrijk,2019,Fossil peat,Fossil peat,0.0
+Oostenrijk,2020,Fossil peat,Fossil peat,0.0
+Oostenrijk,2021,Fossil peat,Fossil peat,0.0
+Oostenrijk,2022,Fossil peat,Fossil peat,0.0
+Oostenrijk,2023,Fossil peat,Fossil peat,0.0
+Oostenrijk,2024,Fossil peat,Fossil peat,0.0
+Oostenrijk,2025,Fossil peat,Fossil peat,0.0
+Oostenrijk,2014,gas,Fossil gas,4.5
+Oostenrijk,2015,gas,Fossil gas,4.47
+Oostenrijk,2016,gas,Fossil gas,4.47
+Oostenrijk,2017,gas,Fossil gas,4.47
+Oostenrijk,2018,gas,Fossil gas,4.46
+Oostenrijk,2019,gas,Fossil gas,4.02
+Oostenrijk,2020,gas,Fossil gas,4.45
+Oostenrijk,2021,gas,Fossil gas,4.35
+Oostenrijk,2022,gas,Fossil gas,4.21
+Oostenrijk,2023,gas,Fossil gas,4.22
+Oostenrijk,2024,gas,Fossil gas,4.22
+Oostenrijk,2025,gas,Fossil gas,4.28
+Oostenrijk,2014,Geothermal,Geothermal,0.0
+Oostenrijk,2015,Geothermal,Geothermal,0.0
+Oostenrijk,2016,Geothermal,Geothermal,0.0
+Oostenrijk,2017,Geothermal,Geothermal,0.0
+Oostenrijk,2018,Geothermal,Geothermal,0.0
+Oostenrijk,2019,Geothermal,Geothermal,0.0
+Oostenrijk,2020,Geothermal,Geothermal,0.0
+Oostenrijk,2021,Geothermal,Geothermal,0.0
+Oostenrijk,2022,Geothermal,Geothermal,0.0
+Oostenrijk,2023,Geothermal,Geothermal,0.0
+Oostenrijk,2024,Geothermal,Geothermal,0.0
+Oostenrijk,2025,Geothermal,Geothermal,0.0
+Oostenrijk,2014,Hydro water reservoir,Hydro water reservoir,2.96
+Oostenrijk,2015,Hydro water reservoir,Hydro water reservoir,2.96
+Oostenrijk,2016,Hydro water reservoir,Hydro water reservoir,2.96
+Oostenrijk,2017,Hydro water reservoir,Hydro water reservoir,2.98
+Oostenrijk,2018,Hydro water reservoir,Hydro water reservoir,2.44
+Oostenrijk,2019,Hydro water reservoir,Hydro water reservoir,2.44
+Oostenrijk,2020,Hydro water reservoir,Hydro water reservoir,2.43
+Oostenrijk,2021,Hydro water reservoir,Hydro water reservoir,2.47
+Oostenrijk,2022,Hydro water reservoir,Hydro water reservoir,2.77
+Oostenrijk,2023,Hydro water reservoir,Hydro water reservoir,2.52
+Oostenrijk,2024,Hydro water reservoir,Hydro water reservoir,2.53
+Oostenrijk,2025,Hydro water reservoir,Hydro water reservoir,2.55
+Oostenrijk,2014,Hydro pumped storage,Hydro pumped storage,2.97
+Oostenrijk,2015,Hydro pumped storage,Hydro pumped storage,2.97
+Oostenrijk,2016,Hydro pumped storage,Hydro pumped storage,3.4
+Oostenrijk,2017,Hydro pumped storage,Hydro pumped storage,3.4
+Oostenrijk,2018,Hydro pumped storage,Hydro pumped storage,3.12
+Oostenrijk,2019,Hydro pumped storage,Hydro pumped storage,3.12
+Oostenrijk,2020,Hydro pumped storage,Hydro pumped storage,3.46
+Oostenrijk,2021,Hydro pumped storage,Hydro pumped storage,3.5
+Oostenrijk,2022,Hydro pumped storage,Hydro pumped storage,3.36
+Oostenrijk,2023,Hydro pumped storage,Hydro pumped storage,3.48
+Oostenrijk,2024,Hydro pumped storage,Hydro pumped storage,3.51
+Oostenrijk,2025,Hydro pumped storage,Hydro pumped storage,4.02
+Oostenrijk,2014,Marine,Marine,0.0
+Oostenrijk,2015,Marine,Marine,0.0
+Oostenrijk,2016,Marine,Marine,0.0
+Oostenrijk,2017,Marine,Marine,0.0
+Oostenrijk,2018,Marine,Marine,0.0
+Oostenrijk,2019,Marine,Marine,0.0
+Oostenrijk,2020,Marine,Marine,0.0
+Oostenrijk,2021,Marine,Marine,0.0
+Oostenrijk,2022,Marine,Marine,0.0
+Oostenrijk,2023,Marine,Marine,0.0
+Oostenrijk,2024,Marine,Marine,0.0
+Oostenrijk,2025,Marine,Marine,0.0
+Oostenrijk,2014,Others,Others,0.02
+Oostenrijk,2015,Others,Others,0.02
+Oostenrijk,2016,Others,Others,0.02
+Oostenrijk,2017,Others,Others,0.02
+Oostenrijk,2018,Others,Others,0.02
+Oostenrijk,2019,Others,Others,0.02
+Oostenrijk,2020,Others,Others,0.96
+Oostenrijk,2021,Others,Others,0.95
+Oostenrijk,2022,Others,Others,0.85
+Oostenrijk,2023,Others,Others,0.88
+Oostenrijk,2024,Others,Others,0.86
+Oostenrijk,2025,Others,Others,0.85
+Oostenrijk,2014,other_renewable,Other renewables,0.03
+Oostenrijk,2015,other_renewable,Other renewables,0.03
+Oostenrijk,2016,other_renewable,Other renewables,0.03
+Oostenrijk,2017,other_renewable,Other renewables,0.04
+Oostenrijk,2018,other_renewable,Other renewables,0.04
+Oostenrijk,2019,other_renewable,Other renewables,0.1
+Oostenrijk,2020,other_renewable,Other renewables,0.0
+Oostenrijk,2021,other_renewable,Other renewables,0.0
+Oostenrijk,2022,other_renewable,Other renewables,0.0
+Oostenrijk,2023,other_renewable,Other renewables,0.0
+Oostenrijk,2024,other_renewable,Other renewables,0.0
+Oostenrijk,2025,other_renewable,Other renewables,0.0
+Oostenrijk,2014,waste,Waste,0.14
+Oostenrijk,2015,waste,Waste,0.14
+Oostenrijk,2016,waste,Waste,0.14
+Oostenrijk,2017,waste,Waste,0.15
+Oostenrijk,2018,waste,Waste,0.15
+Oostenrijk,2019,waste,Waste,0.15
+Oostenrijk,2020,waste,Waste,0.1
+Oostenrijk,2021,waste,Waste,0.1
+Oostenrijk,2022,waste,Waste,0.1
+Oostenrijk,2023,waste,Waste,0.08
+Oostenrijk,2024,waste,Waste,0.13
+Oostenrijk,2025,waste,Waste,0.12
+Oostenrijk,2014,wind,Wind offshore,0.0
+Oostenrijk,2015,wind,Wind offshore,0.0
+Oostenrijk,2016,wind,Wind offshore,0.0
+Oostenrijk,2017,wind,Wind offshore,0.0
+Oostenrijk,2018,wind,Wind offshore,0.0
+Oostenrijk,2019,wind,Wind offshore,0.0
+Oostenrijk,2020,wind,Wind offshore,0.0
+Oostenrijk,2021,wind,Wind offshore,0.0
+Oostenrijk,2022,wind,Wind offshore,0.0
+Oostenrijk,2023,wind,Wind offshore,0.0
+Oostenrijk,2024,wind,Wind offshore,0.0
+Oostenrijk,2025,wind,Wind offshore,0.0
+Oostenrijk,2014,wind,Wind onshore,2.12
+Oostenrijk,2015,wind,Wind onshore,2.5
+Oostenrijk,2016,wind,Wind onshore,2.7
+Oostenrijk,2017,wind,Wind onshore,2.89
+Oostenrijk,2018,wind,Wind onshore,3.03
+Oostenrijk,2019,wind,Wind onshore,3.13
+Oostenrijk,2020,wind,Wind onshore,3.2
+Oostenrijk,2021,wind,Wind onshore,3.5
+Oostenrijk,2022,wind,Wind onshore,3.57
+Oostenrijk,2023,wind,Wind onshore,4.02
+Oostenrijk,2024,wind,Wind onshore,4.04
+Oostenrijk,2025,wind,Wind onshore,4.14
+Oostenrijk,2014,solar,Solar AC,0.59
+Oostenrijk,2015,solar,Solar AC,0.72
+Oostenrijk,2016,solar,Solar AC,1.03
+Oostenrijk,2017,solar,Solar AC,1.19
+Oostenrijk,2018,solar,Solar AC,1.19
+Oostenrijk,2019,solar,Solar AC,1.33
+Oostenrijk,2020,solar,Solar AC,1.85
+Oostenrijk,2021,solar,Solar AC,2.5
+Oostenrijk,2022,solar,Solar AC,3.27
+Oostenrijk,2023,solar,Solar AC,7.29
+Oostenrijk,2024,solar,Solar AC,8.25
+Oostenrijk,2025,solar,Solar AC,9.77
+Zwitserland,2005,hydro,Hydro Run-of-River,3.64
+Zwitserland,2006,hydro,Hydro Run-of-River,3.652
+Zwitserland,2007,hydro,Hydro Run-of-River,3.658
+Zwitserland,2008,hydro,Hydro Run-of-River,3.667
+Zwitserland,2009,hydro,Hydro Run-of-River,3.707
+Zwitserland,2010,hydro,Hydro Run-of-River,3.768
+Zwitserland,2011,hydro,Hydro Run-of-River,3.81
+Zwitserland,2012,hydro,Hydro Run-of-River,3.84
+Zwitserland,2013,hydro,Hydro Run-of-River,3.854
+Zwitserland,2014,hydro,Hydro Run-of-River,3.894
+Zwitserland,2015,hydro,Hydro Run-of-River,3.941
+Zwitserland,2016,hydro,Hydro Run-of-River,4.004
+Zwitserland,2017,hydro,Hydro Run-of-River,4.053
+Zwitserland,2018,hydro,Hydro Run-of-River,4.133
+Zwitserland,2019,hydro,Hydro Run-of-River,4.162
+Zwitserland,2020,hydro,Hydro Run-of-River,4.162
+Zwitserland,2021,hydro,Hydro Run-of-River,4.184
+Zwitserland,2022,hydro,Hydro Run-of-River,4.237
+Zwitserland,2023,hydro,Hydro Run-of-River,4.252
+Zwitserland,2024,hydro,Hydro Run-of-River,4.276
+Zwitserland,2025,hydro,Hydro Run-of-River,4.319
+Zwitserland,2005,Hydro water reservoir,Hydro water reservoir,7.974
+Zwitserland,2006,Hydro water reservoir,Hydro water reservoir,7.962
+Zwitserland,2007,Hydro water reservoir,Hydro water reservoir,8.065
+Zwitserland,2008,Hydro water reservoir,Hydro water reservoir,8.067
+Zwitserland,2009,Hydro water reservoir,Hydro water reservoir,8.073
+Zwitserland,2010,Hydro water reservoir,Hydro water reservoir,8.073
+Zwitserland,2011,Hydro water reservoir,Hydro water reservoir,8.078
+Zwitserland,2012,Hydro water reservoir,Hydro water reservoir,8.081
+Zwitserland,2013,Hydro water reservoir,Hydro water reservoir,8.081
+Zwitserland,2014,Hydro water reservoir,Hydro water reservoir,7.956
+Zwitserland,2015,Hydro water reservoir,Hydro water reservoir,7.966
+Zwitserland,2016,Hydro water reservoir,Hydro water reservoir,8.156
+Zwitserland,2017,Hydro water reservoir,Hydro water reservoir,8.152
+Zwitserland,2018,Hydro water reservoir,Hydro water reservoir,8.223
+Zwitserland,2019,Hydro water reservoir,Hydro water reservoir,8.224
+Zwitserland,2020,Hydro water reservoir,Hydro water reservoir,8.224
+Zwitserland,2021,Hydro water reservoir,Hydro water reservoir,8.224
+Zwitserland,2022,Hydro water reservoir,Hydro water reservoir,8.222
+Zwitserland,2023,Hydro water reservoir,Hydro water reservoir,8.226
+Zwitserland,2024,Hydro water reservoir,Hydro water reservoir,8.257
+Zwitserland,2025,Hydro water reservoir,Hydro water reservoir,8.124
+Zwitserland,2005,Hydro pumped storage,Hydro pumped storage,1.383
+Zwitserland,2006,Hydro pumped storage,Hydro pumped storage,1.383
+Zwitserland,2007,Hydro pumped storage,Hydro pumped storage,1.383
+Zwitserland,2008,Hydro pumped storage,Hydro pumped storage,1.383
+Zwitserland,2009,Hydro pumped storage,Hydro pumped storage,1.383
+Zwitserland,2010,Hydro pumped storage,Hydro pumped storage,1.383
+Zwitserland,2011,Hydro pumped storage,Hydro pumped storage,1.383
+Zwitserland,2012,Hydro pumped storage,Hydro pumped storage,1.383
+Zwitserland,2013,Hydro pumped storage,Hydro pumped storage,1.383
+Zwitserland,2014,Hydro pumped storage,Hydro pumped storage,1.383
+Zwitserland,2015,Hydro pumped storage,Hydro pumped storage,1.383
+Zwitserland,2016,Hydro pumped storage,Hydro pumped storage,2.062
+Zwitserland,2017,Hydro pumped storage,Hydro pumped storage,2.562
+Zwitserland,2018,Hydro pumped storage,Hydro pumped storage,2.562
+Zwitserland,2019,Hydro pumped storage,Hydro pumped storage,2.562
+Zwitserland,2020,Hydro pumped storage,Hydro pumped storage,2.562
+Zwitserland,2021,Hydro pumped storage,Hydro pumped storage,2.562
+Zwitserland,2022,Hydro pumped storage,Hydro pumped storage,3.484
+Zwitserland,2023,Hydro pumped storage,Hydro pumped storage,3.493
+Zwitserland,2024,Hydro pumped storage,Hydro pumped storage,3.517
+Zwitserland,2025,Hydro pumped storage,Hydro pumped storage,3.503
+Zwitserland,2005,Hydro pumped storage (w/o natural inflow),Hydro pumped storage (w/o natural inflow),0.316
+Zwitserland,2006,Hydro pumped storage (w/o natural inflow),Hydro pumped storage (w/o natural inflow),0.316
+Zwitserland,2007,Hydro pumped storage (w/o natural inflow),Hydro pumped storage (w/o natural inflow),0.316
+Zwitserland,2008,Hydro pumped storage (w/o natural inflow),Hydro pumped storage (w/o natural inflow),0.316
+Zwitserland,2009,Hydro pumped storage (w/o natural inflow),Hydro pumped storage (w/o natural inflow),0.316
+Zwitserland,2010,Hydro pumped storage (w/o natural inflow),Hydro pumped storage (w/o natural inflow),0.456
+Zwitserland,2011,Hydro pumped storage (w/o natural inflow),Hydro pumped storage (w/o natural inflow),0.456
+Zwitserland,2012,Hydro pumped storage (w/o natural inflow),Hydro pumped storage (w/o natural inflow),0.456
+Zwitserland,2013,Hydro pumped storage (w/o natural inflow),Hydro pumped storage (w/o natural inflow),0.456
+Zwitserland,2014,Hydro pumped storage (w/o natural inflow),Hydro pumped storage (w/o natural inflow),0.456
+Zwitserland,2015,Hydro pumped storage (w/o natural inflow),Hydro pumped storage (w/o natural inflow),0.469
+Zwitserland,2016,Hydro pumped storage (w/o natural inflow),Hydro pumped storage (w/o natural inflow),0.527
+Zwitserland,2017,Hydro pumped storage (w/o natural inflow),Hydro pumped storage (w/o natural inflow),0.527
+Zwitserland,2018,Hydro pumped storage (w/o natural inflow),Hydro pumped storage (w/o natural inflow),0.562
+Zwitserland,2019,Hydro pumped storage (w/o natural inflow),Hydro pumped storage (w/o natural inflow),0.562
+Zwitserland,2020,Hydro pumped storage (w/o natural inflow),Hydro pumped storage (w/o natural inflow),0.562
+Zwitserland,2021,Hydro pumped storage (w/o natural inflow),Hydro pumped storage (w/o natural inflow),0.562
+Zwitserland,2022,Hydro pumped storage (w/o natural inflow),Hydro pumped storage (w/o natural inflow),0.562
+Zwitserland,2023,Hydro pumped storage (w/o natural inflow),Hydro pumped storage (w/o natural inflow),0.562
+Zwitserland,2024,Hydro pumped storage (w/o natural inflow),Hydro pumped storage (w/o natural inflow),0.527
+Zwitserland,2025,Hydro pumped storage (w/o natural inflow),Hydro pumped storage (w/o natural inflow),0.529
+Zwitserland,2005,nuclear,Nuclear,3.22
+Zwitserland,2006,nuclear,Nuclear,3.22
+Zwitserland,2007,nuclear,Nuclear,3.22
+Zwitserland,2008,nuclear,Nuclear,3.22
+Zwitserland,2009,nuclear,Nuclear,3.238
+Zwitserland,2010,nuclear,Nuclear,3.253
+Zwitserland,2011,nuclear,Nuclear,3.278
+Zwitserland,2012,nuclear,Nuclear,3.278
+Zwitserland,2013,nuclear,Nuclear,3.308
+Zwitserland,2014,nuclear,Nuclear,3.333
+Zwitserland,2015,nuclear,Nuclear,3.333
+Zwitserland,2016,nuclear,Nuclear,3.333
+Zwitserland,2017,nuclear,Nuclear,3.333
+Zwitserland,2018,nuclear,Nuclear,3.333
+Zwitserland,2019,nuclear,Nuclear,2.96
+Zwitserland,2020,nuclear,Nuclear,2.96
+Zwitserland,2021,nuclear,Nuclear,2.96
+Zwitserland,2022,nuclear,Nuclear,2.973
+Zwitserland,2023,nuclear,Nuclear,2.973
+Zwitserland,2024,nuclear,Nuclear,2.973
+Zwitserland,2025,nuclear,Nuclear,2.973
+Zwitserland,2005,Conventional-thermal,Conventional-thermal,0.075
+Zwitserland,2006,Conventional-thermal,Conventional-thermal,0.075
+Zwitserland,2007,Conventional-thermal,Conventional-thermal,0.075
+Zwitserland,2008,Conventional-thermal,Conventional-thermal,0.075
+Zwitserland,2009,Conventional-thermal,Conventional-thermal,0.075
+Zwitserland,2010,Conventional-thermal,Conventional-thermal,0.075
+Zwitserland,2011,Conventional-thermal,Conventional-thermal,0.075
+Zwitserland,2012,Conventional-thermal,Conventional-thermal,0.075
+Zwitserland,2013,Conventional-thermal,Conventional-thermal,0.075
+Zwitserland,2014,Conventional-thermal,Conventional-thermal,0.075
+Zwitserland,2015,Conventional-thermal,Conventional-thermal,0.075
+Zwitserland,2016,Conventional-thermal,Conventional-thermal,0.075
+Zwitserland,2017,Conventional-thermal,Conventional-thermal,0.075
+Zwitserland,2018,Conventional-thermal,Conventional-thermal,0.075
+Zwitserland,2019,Conventional-thermal,Conventional-thermal,0.075
+Zwitserland,2020,Conventional-thermal,Conventional-thermal,0.075
+Zwitserland,2021,Conventional-thermal,Conventional-thermal,0.075
+Zwitserland,2022,Conventional-thermal,Conventional-thermal,0.075
+Zwitserland,2023,Conventional-thermal,Conventional-thermal,0.325
+Zwitserland,2024,Conventional-thermal,Conventional-thermal,0.318
+Zwitserland,2025,Conventional-thermal,Conventional-thermal,0.318
+Zwitserland,2005,Landfill gas,Landfill gas,0.005
+Zwitserland,2006,Landfill gas,Landfill gas,0.005
+Zwitserland,2007,Landfill gas,Landfill gas,0.002
+Zwitserland,2008,Landfill gas,Landfill gas,0.002
+Zwitserland,2009,Landfill gas,Landfill gas,0.002
+Zwitserland,2010,Landfill gas,Landfill gas,0.001
+Zwitserland,2011,Landfill gas,Landfill gas,0.001
+Zwitserland,2012,Landfill gas,Landfill gas,0.001
+Zwitserland,2013,Landfill gas,Landfill gas,0.001
+Zwitserland,2014,Landfill gas,Landfill gas,0.001
+Zwitserland,2015,Landfill gas,Landfill gas,0.001
+Zwitserland,2016,Landfill gas,Landfill gas,0.001
+Zwitserland,2017,Landfill gas,Landfill gas,0.0
+Zwitserland,2018,Landfill gas,Landfill gas,0.0
+Zwitserland,2019,Landfill gas,Landfill gas,0.0
+Zwitserland,2020,Landfill gas,Landfill gas,0.0
+Zwitserland,2021,Landfill gas,Landfill gas,0.0
+Zwitserland,2022,Landfill gas,Landfill gas,0.0
+Zwitserland,2023,Landfill gas,Landfill gas,0.0
+Zwitserland,2024,Landfill gas,Landfill gas,0.0
+Zwitserland,2025,Landfill gas,Landfill gas,0.0
+Zwitserland,2005,waste,Waste incinerators without heat extraction,0.253
+Zwitserland,2006,waste,Waste incinerators without heat extraction,0.261
+Zwitserland,2007,waste,Waste incinerators without heat extraction,0.279
+Zwitserland,2008,waste,Waste incinerators without heat extraction,0.28
+Zwitserland,2009,waste,Waste incinerators without heat extraction,0.275
+Zwitserland,2010,waste,Waste incinerators without heat extraction,0.29
+Zwitserland,2011,waste,Waste incinerators without heat extraction,0.274
+Zwitserland,2012,waste,Waste incinerators without heat extraction,0.276
+Zwitserland,2013,waste,Waste incinerators without heat extraction,0.343
+Zwitserland,2014,waste,Waste incinerators without heat extraction,0.342
+Zwitserland,2015,waste,Waste incinerators without heat extraction,0.342
+Zwitserland,2016,waste,Waste incinerators without heat extraction,0.364
+Zwitserland,2017,waste,Waste incinerators without heat extraction,0.364
+Zwitserland,2018,waste,Waste incinerators without heat extraction,0.364
+Zwitserland,2019,waste,Waste incinerators without heat extraction,0.369
+Zwitserland,2020,waste,Waste incinerators without heat extraction,0.343
+Zwitserland,2021,waste,Waste incinerators without heat extraction,0.294
+Zwitserland,2022,waste,Waste incinerators without heat extraction,0.327
+Zwitserland,2023,waste,Waste incinerators without heat extraction,0.311
+Zwitserland,2024,waste,Waste incinerators without heat extraction,0.257
+Zwitserland,2025,waste,Waste incinerators without heat extraction,0.257
+Zwitserland,2005,waste,Waste incinerators with heat extraction,0.04
+Zwitserland,2006,waste,Waste incinerators with heat extraction,0.04
+Zwitserland,2007,waste,Waste incinerators with heat extraction,0.056
+Zwitserland,2008,waste,Waste incinerators with heat extraction,0.056
+Zwitserland,2009,waste,Waste incinerators with heat extraction,0.057
+Zwitserland,2010,waste,Waste incinerators with heat extraction,0.049
+Zwitserland,2011,waste,Waste incinerators with heat extraction,0.083
+Zwitserland,2012,waste,Waste incinerators with heat extraction,0.072
+Zwitserland,2013,waste,Waste incinerators with heat extraction,0.067
+Zwitserland,2014,waste,Waste incinerators with heat extraction,0.056
+Zwitserland,2015,waste,Waste incinerators with heat extraction,0.056
+Zwitserland,2016,waste,Waste incinerators with heat extraction,0.058
+Zwitserland,2017,waste,Waste incinerators with heat extraction,0.058
+Zwitserland,2018,waste,Waste incinerators with heat extraction,0.058
+Zwitserland,2019,waste,Waste incinerators with heat extraction,0.053
+Zwitserland,2020,waste,Waste incinerators with heat extraction,0.078
+Zwitserland,2021,waste,Waste incinerators with heat extraction,0.112
+Zwitserland,2022,waste,Waste incinerators with heat extraction,0.069
+Zwitserland,2023,waste,Waste incinerators with heat extraction,0.085
+Zwitserland,2024,waste,Waste incinerators with heat extraction,0.138
+Zwitserland,2025,waste,Waste incinerators with heat extraction,0.138
+Zwitserland,2005,Industry,Industry,0.237
+Zwitserland,2006,Industry,Industry,0.239
+Zwitserland,2007,Industry,Industry,0.229
+Zwitserland,2008,Industry,Industry,0.228
+Zwitserland,2009,Industry,Industry,0.216
+Zwitserland,2010,Industry,Industry,0.217
+Zwitserland,2011,Industry,Industry,0.272
+Zwitserland,2012,Industry,Industry,0.248
+Zwitserland,2013,Industry,Industry,0.222
+Zwitserland,2014,Industry,Industry,0.219
+Zwitserland,2015,Industry,Industry,0.191
+Zwitserland,2016,Industry,Industry,0.188
+Zwitserland,2017,Industry,Industry,0.138
+Zwitserland,2018,Industry,Industry,0.138
+Zwitserland,2019,Industry,Industry,0.132
+Zwitserland,2020,Industry,Industry,0.14
+Zwitserland,2021,Industry,Industry,0.141
+Zwitserland,2022,Industry,Industry,0.141
+Zwitserland,2023,Industry,Industry,0.133
+Zwitserland,2024,Industry,Industry,0.133
+Zwitserland,2025,Industry,Industry,0.133
+Zwitserland,2005,District heating plants,District heating plants,0.063
+Zwitserland,2006,District heating plants,District heating plants,0.063
+Zwitserland,2007,District heating plants,District heating plants,0.053
+Zwitserland,2008,District heating plants,District heating plants,0.062
+Zwitserland,2009,District heating plants,District heating plants,0.095
+Zwitserland,2010,District heating plants,District heating plants,0.095
+Zwitserland,2011,District heating plants,District heating plants,0.107
+Zwitserland,2012,District heating plants,District heating plants,0.107
+Zwitserland,2013,District heating plants,District heating plants,0.107
+Zwitserland,2014,District heating plants,District heating plants,0.181
+Zwitserland,2015,District heating plants,District heating plants,0.181
+Zwitserland,2016,District heating plants,District heating plants,0.179
+Zwitserland,2017,District heating plants,District heating plants,0.176
+Zwitserland,2018,District heating plants,District heating plants,0.173
+Zwitserland,2019,District heating plants,District heating plants,0.174
+Zwitserland,2020,District heating plants,District heating plants,0.177
+Zwitserland,2021,District heating plants,District heating plants,0.197
+Zwitserland,2022,District heating plants,District heating plants,0.208
+Zwitserland,2023,District heating plants,District heating plants,0.212
+Zwitserland,2024,District heating plants,District heating plants,0.212
+Zwitserland,2025,District heating plants,District heating plants,0.212
+Zwitserland,2005,Small-CHP,Small-CHP,0.146
+Zwitserland,2006,Small-CHP,Small-CHP,0.146
+Zwitserland,2007,Small-CHP,Small-CHP,0.149
+Zwitserland,2008,Small-CHP,Small-CHP,0.149
+Zwitserland,2009,Small-CHP,Small-CHP,0.151
+Zwitserland,2010,Small-CHP,Small-CHP,0.136
+Zwitserland,2011,Small-CHP,Small-CHP,0.135
+Zwitserland,2012,Small-CHP,Small-CHP,0.145
+Zwitserland,2013,Small-CHP,Small-CHP,0.143
+Zwitserland,2014,Small-CHP,Small-CHP,0.147
+Zwitserland,2015,Small-CHP,Small-CHP,0.146
+Zwitserland,2016,Small-CHP,Small-CHP,0.153
+Zwitserland,2017,Small-CHP,Small-CHP,0.15
+Zwitserland,2018,Small-CHP,Small-CHP,0.138
+Zwitserland,2019,Small-CHP,Small-CHP,0.137
+Zwitserland,2020,Small-CHP,Small-CHP,0.14
+Zwitserland,2021,Small-CHP,Small-CHP,0.146
+Zwitserland,2022,Small-CHP,Small-CHP,0.142
+Zwitserland,2023,Small-CHP,Small-CHP,0.142
+Zwitserland,2024,Small-CHP,Small-CHP,0.142
+Zwitserland,2025,Small-CHP,Small-CHP,0.142
+Zwitserland,2005,wind,Wind onshore,0.009
+Zwitserland,2006,wind,Wind onshore,0.012
+Zwitserland,2007,wind,Wind onshore,0.012
+Zwitserland,2008,wind,Wind onshore,0.012
+Zwitserland,2009,wind,Wind onshore,0.013
+Zwitserland,2010,wind,Wind onshore,0.018
+Zwitserland,2011,wind,Wind onshore,0.042
+Zwitserland,2012,wind,Wind onshore,0.045
+Zwitserland,2013,wind,Wind onshore,0.049
+Zwitserland,2014,wind,Wind onshore,0.06
+Zwitserland,2015,wind,Wind onshore,0.06
+Zwitserland,2016,wind,Wind onshore,0.06
+Zwitserland,2017,wind,Wind onshore,0.075
+Zwitserland,2018,wind,Wind onshore,0.075
+Zwitserland,2019,wind,Wind onshore,0.075
+Zwitserland,2020,wind,Wind onshore,0.087
+Zwitserland,2021,wind,Wind onshore,0.088
+Zwitserland,2022,wind,Wind onshore,0.088
+Zwitserland,2023,wind,Wind onshore,0.088
+Zwitserland,2024,wind,Wind onshore,0.102
+Zwitserland,2025,wind,Wind onshore,0.109
+Zwitserland,2005,solar,Solar DC,0.028
+Zwitserland,2006,solar,Solar DC,0.03
+Zwitserland,2007,solar,Solar DC,0.037
+Zwitserland,2008,solar,Solar DC,0.049
+Zwitserland,2009,solar,Solar DC,0.079
+Zwitserland,2010,solar,Solar DC,0.125
+Zwitserland,2011,solar,Solar DC,0.223
+Zwitserland,2012,solar,Solar DC,0.437
+Zwitserland,2013,solar,Solar DC,0.756
+Zwitserland,2014,solar,Solar DC,1.061
+Zwitserland,2015,solar,Solar DC,1.394
+Zwitserland,2016,solar,Solar DC,1.664
+Zwitserland,2017,solar,Solar DC,1.906
+Zwitserland,2018,solar,Solar DC,2.173
+Zwitserland,2019,solar,Solar DC,2.498
+Zwitserland,2020,solar,Solar DC,2.973
+Zwitserland,2021,solar,Solar DC,3.655
+Zwitserland,2022,solar,Solar DC,4.737
+Zwitserland,2023,solar,Solar DC,6.375
+Zwitserland,2024,solar,Solar DC,8.17
+Zwitserland,2025,solar,Solar DC,9.499
+Tsjechie,2014,nuclear,Nuclear,4.04
+Tsjechie,2015,nuclear,Nuclear,4.04
+Tsjechie,2016,nuclear,Nuclear,4.04
+Tsjechie,2017,nuclear,Nuclear,4.04
+Tsjechie,2018,nuclear,Nuclear,4.04
+Tsjechie,2019,nuclear,Nuclear,4.04
+Tsjechie,2020,nuclear,Nuclear,4.04
+Tsjechie,2021,nuclear,Nuclear,4.04
+Tsjechie,2022,nuclear,Nuclear,4.04
+Tsjechie,2023,nuclear,Nuclear,4.04
+Tsjechie,2024,nuclear,Nuclear,4.04
+Tsjechie,2025,nuclear,Nuclear,4.04
+Tsjechie,2014,hydro,Hydro Run-of-River,0.44
+Tsjechie,2015,hydro,Hydro Run-of-River,0.43
+Tsjechie,2016,hydro,Hydro Run-of-River,0.33
+Tsjechie,2017,hydro,Hydro Run-of-River,0.33
+Tsjechie,2018,hydro,Hydro Run-of-River,0.33
+Tsjechie,2019,hydro,Hydro Run-of-River,0.33
+Tsjechie,2020,hydro,Hydro Run-of-River,0.34
+Tsjechie,2021,hydro,Hydro Run-of-River,0.36
+Tsjechie,2022,hydro,Hydro Run-of-River,0.34
+Tsjechie,2023,hydro,Hydro Run-of-River,0.34
+Tsjechie,2024,hydro,Hydro Run-of-River,0.34
+Tsjechie,2025,hydro,Hydro Run-of-River,0.34
+Tsjechie,2014,biomass,Biomass,0.0
+Tsjechie,2015,biomass,Biomass,0.35
+Tsjechie,2016,biomass,Biomass,0.35
+Tsjechie,2017,biomass,Biomass,0.35
+Tsjechie,2018,biomass,Biomass,0.4
+Tsjechie,2019,biomass,Biomass,0.41
+Tsjechie,2020,biomass,Biomass,0.41
+Tsjechie,2021,biomass,Biomass,0.41
+Tsjechie,2022,biomass,Biomass,0.41
+Tsjechie,2023,biomass,Biomass,0.41
+Tsjechie,2024,biomass,Biomass,0.41
+Tsjechie,2025,biomass,Biomass,0.41
+Tsjechie,2014,coal,Fossil brown coal / lignite,8.5
+Tsjechie,2015,coal,Fossil brown coal / lignite,8.33
+Tsjechie,2016,coal,Fossil brown coal / lignite,7.93
+Tsjechie,2017,coal,Fossil brown coal / lignite,8.54
+Tsjechie,2018,coal,Fossil brown coal / lignite,8.45
+Tsjechie,2019,coal,Fossil brown coal / lignite,8.15
+Tsjechie,2020,coal,Fossil brown coal / lignite,7.7
+Tsjechie,2021,coal,Fossil brown coal / lignite,7.25
+Tsjechie,2022,coal,Fossil brown coal / lignite,7.16
+Tsjechie,2023,coal,Fossil brown coal / lignite,7.2
+Tsjechie,2024,coal,Fossil brown coal / lignite,7.24
+Tsjechie,2025,coal,Fossil brown coal / lignite,7.04
+Tsjechie,2014,Fossil coal-derived gas,Fossil coal-derived gas,0.38
+Tsjechie,2015,Fossil coal-derived gas,Fossil coal-derived gas,0.38
+Tsjechie,2016,Fossil coal-derived gas,Fossil coal-derived gas,0.38
+Tsjechie,2017,Fossil coal-derived gas,Fossil coal-derived gas,0.38
+Tsjechie,2018,Fossil coal-derived gas,Fossil coal-derived gas,0.38
+Tsjechie,2019,Fossil coal-derived gas,Fossil coal-derived gas,0.38
+Tsjechie,2020,Fossil coal-derived gas,Fossil coal-derived gas,0.38
+Tsjechie,2021,Fossil coal-derived gas,Fossil coal-derived gas,0.38
+Tsjechie,2022,Fossil coal-derived gas,Fossil coal-derived gas,0.38
+Tsjechie,2023,Fossil coal-derived gas,Fossil coal-derived gas,0.38
+Tsjechie,2024,Fossil coal-derived gas,Fossil coal-derived gas,0.38
+Tsjechie,2025,Fossil coal-derived gas,Fossil coal-derived gas,0.38
+Tsjechie,2014,coal,Fossil hard coal,0.9
+Tsjechie,2015,coal,Fossil hard coal,1.2
+Tsjechie,2016,coal,Fossil hard coal,1.2
+Tsjechie,2017,coal,Fossil hard coal,1.2
+Tsjechie,2018,coal,Fossil hard coal,1.2
+Tsjechie,2019,coal,Fossil hard coal,1.2
+Tsjechie,2020,coal,Fossil hard coal,1.2
+Tsjechie,2021,coal,Fossil hard coal,1.2
+Tsjechie,2022,coal,Fossil hard coal,1.2
+Tsjechie,2023,coal,Fossil hard coal,1.2
+Tsjechie,2024,coal,Fossil hard coal,1.2
+Tsjechie,2025,coal,Fossil hard coal,0.6
+Tsjechie,2014,oil,Fossil oil,0.0
+Tsjechie,2015,oil,Fossil oil,0.0
+Tsjechie,2016,oil,Fossil oil,0.0
+Tsjechie,2017,oil,Fossil oil,0.0
+Tsjechie,2018,oil,Fossil oil,0.0
+Tsjechie,2019,oil,Fossil oil,0.0
+Tsjechie,2020,oil,Fossil oil,0.0
+Tsjechie,2021,oil,Fossil oil,0.0
+Tsjechie,2022,oil,Fossil oil,0.0
+Tsjechie,2023,oil,Fossil oil,0.0
+Tsjechie,2024,oil,Fossil oil,0.0
+Tsjechie,2025,oil,Fossil oil,0.0
+Tsjechie,2014,gas,Fossil gas,1.72
+Tsjechie,2015,gas,Fossil gas,1.23
+Tsjechie,2016,gas,Fossil gas,1.23
+Tsjechie,2017,gas,Fossil gas,1.23
+Tsjechie,2018,gas,Fossil gas,1.23
+Tsjechie,2019,gas,Fossil gas,1.23
+Tsjechie,2020,gas,Fossil gas,1.23
+Tsjechie,2021,gas,Fossil gas,1.24
+Tsjechie,2022,gas,Fossil gas,1.24
+Tsjechie,2023,gas,Fossil gas,1.24
+Tsjechie,2024,gas,Fossil gas,1.24
+Tsjechie,2025,gas,Fossil gas,1.44
+Tsjechie,2014,Hydro water reservoir,Hydro water reservoir,0.65
+Tsjechie,2015,Hydro water reservoir,Hydro water reservoir,0.65
+Tsjechie,2016,Hydro water reservoir,Hydro water reservoir,0.75
+Tsjechie,2017,Hydro water reservoir,Hydro water reservoir,0.75
+Tsjechie,2018,Hydro water reservoir,Hydro water reservoir,0.75
+Tsjechie,2019,Hydro water reservoir,Hydro water reservoir,0.75
+Tsjechie,2020,Hydro water reservoir,Hydro water reservoir,0.75
+Tsjechie,2021,Hydro water reservoir,Hydro water reservoir,0.75
+Tsjechie,2022,Hydro water reservoir,Hydro water reservoir,0.77
+Tsjechie,2023,Hydro water reservoir,Hydro water reservoir,0.77
+Tsjechie,2024,Hydro water reservoir,Hydro water reservoir,0.77
+Tsjechie,2025,Hydro water reservoir,Hydro water reservoir,0.77
+Tsjechie,2014,Hydro pumped storage,Hydro pumped storage,1.18
+Tsjechie,2015,Hydro pumped storage,Hydro pumped storage,1.17
+Tsjechie,2016,Hydro pumped storage,Hydro pumped storage,1.17
+Tsjechie,2017,Hydro pumped storage,Hydro pumped storage,1.17
+Tsjechie,2018,Hydro pumped storage,Hydro pumped storage,1.17
+Tsjechie,2019,Hydro pumped storage,Hydro pumped storage,1.17
+Tsjechie,2020,Hydro pumped storage,Hydro pumped storage,1.17
+Tsjechie,2021,Hydro pumped storage,Hydro pumped storage,1.17
+Tsjechie,2022,Hydro pumped storage,Hydro pumped storage,1.17
+Tsjechie,2023,Hydro pumped storage,Hydro pumped storage,1.17
+Tsjechie,2024,Hydro pumped storage,Hydro pumped storage,1.17
+Tsjechie,2025,Hydro pumped storage,Hydro pumped storage,1.17
+Tsjechie,2014,Others,Others,0.6
+Tsjechie,2015,Others,Others,0.0
+Tsjechie,2016,Others,Others,0.0
+Tsjechie,2017,Others,Others,0.0
+Tsjechie,2018,Others,Others,0.0
+Tsjechie,2019,Others,Others,0.0
+Tsjechie,2020,Others,Others,0.0
+Tsjechie,2021,Others,Others,0.0
+Tsjechie,2022,Others,Others,0.0
+Tsjechie,2023,Others,Others,0.0
+Tsjechie,2024,Others,Others,0.0
+Tsjechie,2025,Others,Others,0.0
+Tsjechie,2014,other_renewable,Other renewables,0.0
+Tsjechie,2015,other_renewable,Other renewables,0.5
+Tsjechie,2016,other_renewable,Other renewables,0.4
+Tsjechie,2017,other_renewable,Other renewables,0.4
+Tsjechie,2018,other_renewable,Other renewables,0.4
+Tsjechie,2019,other_renewable,Other renewables,0.41
+Tsjechie,2020,other_renewable,Other renewables,0.41
+Tsjechie,2021,other_renewable,Other renewables,0.41
+Tsjechie,2022,other_renewable,Other renewables,0.41
+Tsjechie,2023,other_renewable,Other renewables,0.46
+Tsjechie,2024,other_renewable,Other renewables,0.46
+Tsjechie,2025,other_renewable,Other renewables,0.46
+Tsjechie,2014,waste,Waste,0.0
+Tsjechie,2015,waste,Waste,0.0
+Tsjechie,2016,waste,Waste,0.1
+Tsjechie,2017,waste,Waste,0.1
+Tsjechie,2018,waste,Waste,0.1
+Tsjechie,2019,waste,Waste,0.1
+Tsjechie,2020,waste,Waste,0.1
+Tsjechie,2021,waste,Waste,0.1
+Tsjechie,2022,waste,Waste,0.1
+Tsjechie,2023,waste,Waste,0.1
+Tsjechie,2024,waste,Waste,0.1
+Tsjechie,2025,waste,Waste,0.1
+Tsjechie,2014,wind,Wind onshore,0.27
+Tsjechie,2015,wind,Wind onshore,0.28
+Tsjechie,2016,wind,Wind onshore,0.28
+Tsjechie,2017,wind,Wind onshore,0.31
+Tsjechie,2018,wind,Wind onshore,0.32
+Tsjechie,2019,wind,Wind onshore,0.34
+Tsjechie,2020,wind,Wind onshore,0.34
+Tsjechie,2021,wind,Wind onshore,0.34
+Tsjechie,2022,wind,Wind onshore,0.34
+Tsjechie,2023,wind,Wind onshore,0.34
+Tsjechie,2024,wind,Wind onshore,0.37
+Tsjechie,2025,wind,Wind onshore,0.38
+Tsjechie,2014,solar,Solar AC,2.05
+Tsjechie,2015,solar,Solar AC,2.07
+Tsjechie,2016,solar,Solar AC,2.03
+Tsjechie,2017,solar,Solar AC,2.04
+Tsjechie,2018,solar,Solar AC,2.05
+Tsjechie,2019,solar,Solar AC,2.06
+Tsjechie,2020,solar,Solar AC,2.05
+Tsjechie,2021,solar,Solar AC,2.05
+Tsjechie,2022,solar,Solar AC,2.08
+Tsjechie,2023,solar,Solar AC,3.55
+Tsjechie,2024,solar,Solar AC,4.42
+Tsjechie,2025,solar,Solar AC,5.33
+Hongarije,2014,nuclear,Nuclear,1.89
+Hongarije,2015,nuclear,Nuclear,1.89
+Hongarije,2016,nuclear,Nuclear,1.89
+Hongarije,2017,nuclear,Nuclear,1.9
+Hongarije,2018,nuclear,Nuclear,1.9
+Hongarije,2019,nuclear,Nuclear,1.9
+Hongarije,2020,nuclear,Nuclear,1.91
+Hongarije,2021,nuclear,Nuclear,1.92
+Hongarije,2022,nuclear,Nuclear,1.92
+Hongarije,2023,nuclear,Nuclear,1.92
+Hongarije,2024,nuclear,Nuclear,1.92
+Hongarije,2025,nuclear,Nuclear,1.92
+Hongarije,2014,hydro,Hydro Run-of-River,0.03
+Hongarije,2015,hydro,Hydro Run-of-River,0.03
+Hongarije,2016,hydro,Hydro Run-of-River,0.03
+Hongarije,2017,hydro,Hydro Run-of-River,0.03
+Hongarije,2018,hydro,Hydro Run-of-River,0.03
+Hongarije,2019,hydro,Hydro Run-of-River,0.03
+Hongarije,2020,hydro,Hydro Run-of-River,0.03
+Hongarije,2021,hydro,Hydro Run-of-River,0.03
+Hongarije,2022,hydro,Hydro Run-of-River,0.03
+Hongarije,2023,hydro,Hydro Run-of-River,0.03
+Hongarije,2024,hydro,Hydro Run-of-River,0.03
+Hongarije,2025,hydro,Hydro Run-of-River,0.03
+Hongarije,2014,biomass,Biomass,0.13
+Hongarije,2015,biomass,Biomass,0.25
+Hongarije,2016,biomass,Biomass,0.25
+Hongarije,2017,biomass,Biomass,0.25
+Hongarije,2018,biomass,Biomass,0.25
+Hongarije,2019,biomass,Biomass,0.24
+Hongarije,2020,biomass,Biomass,0.21
+Hongarije,2021,biomass,Biomass,0.21
+Hongarije,2022,biomass,Biomass,0.21
+Hongarije,2023,biomass,Biomass,0.31
+Hongarije,2024,biomass,Biomass,0.31
+Hongarije,2025,biomass,Biomass,0.34
+Hongarije,2014,coal,Fossil brown coal / lignite,1.1
+Hongarije,2015,coal,Fossil brown coal / lignite,1.01
+Hongarije,2016,coal,Fossil brown coal / lignite,1.05
+Hongarije,2017,coal,Fossil brown coal / lignite,1.05
+Hongarije,2018,coal,Fossil brown coal / lignite,1.05
+Hongarije,2019,coal,Fossil brown coal / lignite,1.01
+Hongarije,2020,coal,Fossil brown coal / lignite,1.01
+Hongarije,2021,coal,Fossil brown coal / lignite,1.01
+Hongarije,2022,coal,Fossil brown coal / lignite,0.79
+Hongarije,2023,coal,Fossil brown coal / lignite,0.79
+Hongarije,2024,coal,Fossil brown coal / lignite,0.79
+Hongarije,2025,coal,Fossil brown coal / lignite,0.61
+Hongarije,2019,coal,Fossil hard coal,0.04
+Hongarije,2020,coal,Fossil hard coal,0.04
+Hongarije,2021,coal,Fossil hard coal,0.04
+Hongarije,2022,coal,Fossil hard coal,0.04
+Hongarije,2023,coal,Fossil hard coal,0.04
+Hongarije,2024,coal,Fossil hard coal,0.04
+Hongarije,2014,oil,Fossil oil,0.41
+Hongarije,2015,oil,Fossil oil,0.41
+Hongarije,2016,oil,Fossil oil,0.41
+Hongarije,2017,oil,Fossil oil,0.41
+Hongarije,2018,oil,Fossil oil,0.42
+Hongarije,2019,oil,Fossil oil,0.42
+Hongarije,2020,oil,Fossil oil,0.42
+Hongarije,2021,oil,Fossil oil,0.42
+Hongarije,2022,oil,Fossil oil,0.42
+Hongarije,2023,oil,Fossil oil,0.42
+Hongarije,2024,oil,Fossil oil,0.42
+Hongarije,2025,oil,Fossil oil,0.44
+Hongarije,2014,gas,Fossil gas,4.22
+Hongarije,2015,gas,Fossil gas,4.12
+Hongarije,2016,gas,Fossil gas,4.11
+Hongarije,2017,gas,Fossil gas,4.11
+Hongarije,2018,gas,Fossil gas,4.03
+Hongarije,2019,gas,Fossil gas,4.03
+Hongarije,2020,gas,Fossil gas,4.01
+Hongarije,2021,gas,Fossil gas,3.97
+Hongarije,2022,gas,Fossil gas,3.15
+Hongarije,2023,gas,Fossil gas,3.17
+Hongarije,2024,gas,Fossil gas,2.98
+Hongarije,2025,gas,Fossil gas,3.07
+Hongarije,2018,Geothermal,Geothermal,0.0
+Hongarije,2019,Geothermal,Geothermal,0.0
+Hongarije,2020,Geothermal,Geothermal,0.0
+Hongarije,2021,Geothermal,Geothermal,0.0
+Hongarije,2022,Geothermal,Geothermal,0.0
+Hongarije,2023,Geothermal,Geothermal,0.0
+Hongarije,2024,Geothermal,Geothermal,0.0
+Hongarije,2025,Geothermal,Geothermal,0.0
+Hongarije,2014,Hydro water reservoir,Hydro water reservoir,0.03
+Hongarije,2015,Hydro water reservoir,Hydro water reservoir,0.03
+Hongarije,2016,Hydro water reservoir,Hydro water reservoir,0.03
+Hongarije,2017,Hydro water reservoir,Hydro water reservoir,0.03
+Hongarije,2018,Hydro water reservoir,Hydro water reservoir,0.03
+Hongarije,2019,Hydro water reservoir,Hydro water reservoir,0.03
+Hongarije,2020,Hydro water reservoir,Hydro water reservoir,0.03
+Hongarije,2021,Hydro water reservoir,Hydro water reservoir,0.03
+Hongarije,2022,Hydro water reservoir,Hydro water reservoir,0.03
+Hongarije,2023,Hydro water reservoir,Hydro water reservoir,0.03
+Hongarije,2024,Hydro water reservoir,Hydro water reservoir,0.03
+Hongarije,2025,Hydro water reservoir,Hydro water reservoir,0.03
+Hongarije,2022,Others,Others,0.02
+Hongarije,2023,Others,Others,0.04
+Hongarije,2024,Others,Others,0.15
+Hongarije,2025,Others,Others,1.07
+Hongarije,2014,other_renewable,Other renewables,0.07
+Hongarije,2015,other_renewable,Other renewables,0.06
+Hongarije,2016,other_renewable,Other renewables,0.06
+Hongarije,2017,other_renewable,Other renewables,0.07
+Hongarije,2018,other_renewable,Other renewables,0.07
+Hongarije,2019,other_renewable,Other renewables,0.07
+Hongarije,2020,other_renewable,Other renewables,0.07
+Hongarije,2021,other_renewable,Other renewables,0.07
+Hongarije,2022,other_renewable,Other renewables,0.07
+Hongarije,2023,other_renewable,Other renewables,0.07
+Hongarije,2024,other_renewable,Other renewables,0.07
+Hongarije,2025,other_renewable,Other renewables,0.08
+Hongarije,2014,waste,Waste,0.02
+Hongarije,2015,waste,Waste,0.03
+Hongarije,2016,waste,Waste,0.03
+Hongarije,2017,waste,Waste,0.04
+Hongarije,2018,waste,Waste,0.06
+Hongarije,2019,waste,Waste,0.06
+Hongarije,2020,waste,Waste,0.05
+Hongarije,2021,waste,Waste,0.05
+Hongarije,2022,waste,Waste,0.05
+Hongarije,2023,waste,Waste,0.05
+Hongarije,2024,waste,Waste,0.05
+Hongarije,2025,waste,Waste,0.03
+Hongarije,2014,wind,Wind onshore,0.33
+Hongarije,2015,wind,Wind onshore,0.33
+Hongarije,2016,wind,Wind onshore,0.32
+Hongarije,2017,wind,Wind onshore,0.32
+Hongarije,2018,wind,Wind onshore,0.33
+Hongarije,2019,wind,Wind onshore,0.32
+Hongarije,2020,wind,Wind onshore,0.32
+Hongarije,2021,wind,Wind onshore,0.32
+Hongarije,2022,wind,Wind onshore,0.32
+Hongarije,2023,wind,Wind onshore,0.33
+Hongarije,2024,wind,Wind onshore,0.33
+Hongarije,2025,wind,Wind onshore,0.33
+Hongarije,2014,solar,Solar AC,0.01
+Hongarije,2015,solar,Solar AC,0.03
+Hongarije,2016,solar,Solar AC,0.07
+Hongarije,2017,solar,Solar AC,0.34
+Hongarije,2018,solar,Solar AC,0.94
+Hongarije,2019,solar,Solar AC,1.41
+Hongarije,2020,solar,Solar AC,1.83
+Hongarije,2021,solar,Solar AC,2.52
+Hongarije,2022,solar,Solar AC,3.3
+Hongarije,2023,solar,Solar AC,4.03
+Hongarije,2024,solar,Solar AC,8.28
+Hongarije,2025,solar,Solar AC,8.97
+Portugal,2014,nuclear,Nuclear,0.0
+Portugal,2015,nuclear,Nuclear,0.0
+Portugal,2016,nuclear,Nuclear,0.0
+Portugal,2017,nuclear,Nuclear,0.0
+Portugal,2018,nuclear,Nuclear,0.0
+Portugal,2019,nuclear,Nuclear,0.0
+Portugal,2020,nuclear,Nuclear,0.0
+Portugal,2021,nuclear,Nuclear,0.0
+Portugal,2022,nuclear,Nuclear,0.0
+Portugal,2023,nuclear,Nuclear,0.0
+Portugal,2024,nuclear,Nuclear,0.0
+Portugal,2025,nuclear,Nuclear,0.0
+Portugal,2014,hydro,Hydro Run-of-River,2.98
+Portugal,2015,hydro,Hydro Run-of-River,2.99
+Portugal,2016,hydro,Hydro Run-of-River,2.84
+Portugal,2017,hydro,Hydro Run-of-River,2.83
+Portugal,2018,hydro,Hydro Run-of-River,2.86
+Portugal,2019,hydro,Hydro Run-of-River,2.86
+Portugal,2020,hydro,Hydro Run-of-River,2.86
+Portugal,2021,hydro,Hydro Run-of-River,2.86
+Portugal,2022,hydro,Hydro Run-of-River,2.86
+Portugal,2023,hydro,Hydro Run-of-River,2.86
+Portugal,2024,hydro,Hydro Run-of-River,2.86
+Portugal,2025,hydro,Hydro Run-of-River,2.86
+Portugal,2014,biomass,Biomass,0.58
+Portugal,2015,biomass,Biomass,0.58
+Portugal,2016,biomass,Biomass,0.6
+Portugal,2017,biomass,Biomass,0.59
+Portugal,2018,biomass,Biomass,0.6
+Portugal,2019,biomass,Biomass,0.68
+Portugal,2020,biomass,Biomass,0.68
+Portugal,2021,biomass,Biomass,0.68
+Portugal,2022,biomass,Biomass,0.65
+Portugal,2023,biomass,Biomass,0.68
+Portugal,2024,biomass,Biomass,0.69
+Portugal,2025,biomass,Biomass,0.68
+Portugal,2014,coal,Fossil brown coal / lignite,0.0
+Portugal,2015,coal,Fossil brown coal / lignite,0.0
+Portugal,2016,coal,Fossil brown coal / lignite,0.0
+Portugal,2017,coal,Fossil brown coal / lignite,0.0
+Portugal,2018,coal,Fossil brown coal / lignite,0.0
+Portugal,2019,coal,Fossil brown coal / lignite,0.0
+Portugal,2020,coal,Fossil brown coal / lignite,0.0
+Portugal,2021,coal,Fossil brown coal / lignite,0.0
+Portugal,2022,coal,Fossil brown coal / lignite,0.0
+Portugal,2023,coal,Fossil brown coal / lignite,0.0
+Portugal,2024,coal,Fossil brown coal / lignite,0.0
+Portugal,2025,coal,Fossil brown coal / lignite,0.0
+Portugal,2014,Fossil coal-derived gas,Fossil coal-derived gas,0.0
+Portugal,2015,Fossil coal-derived gas,Fossil coal-derived gas,0.0
+Portugal,2016,Fossil coal-derived gas,Fossil coal-derived gas,0.0
+Portugal,2017,Fossil coal-derived gas,Fossil coal-derived gas,0.0
+Portugal,2018,Fossil coal-derived gas,Fossil coal-derived gas,0.0
+Portugal,2019,Fossil coal-derived gas,Fossil coal-derived gas,0.0
+Portugal,2020,Fossil coal-derived gas,Fossil coal-derived gas,0.0
+Portugal,2021,Fossil coal-derived gas,Fossil coal-derived gas,0.0
+Portugal,2022,Fossil coal-derived gas,Fossil coal-derived gas,0.0
+Portugal,2023,Fossil coal-derived gas,Fossil coal-derived gas,0.0
+Portugal,2024,Fossil coal-derived gas,Fossil coal-derived gas,0.0
+Portugal,2025,Fossil coal-derived gas,Fossil coal-derived gas,0.0
+Portugal,2014,coal,Fossil hard coal,1.76
+Portugal,2015,coal,Fossil hard coal,1.76
+Portugal,2016,coal,Fossil hard coal,1.76
+Portugal,2017,coal,Fossil hard coal,1.76
+Portugal,2018,coal,Fossil hard coal,1.76
+Portugal,2019,coal,Fossil hard coal,1.76
+Portugal,2020,coal,Fossil hard coal,1.76
+Portugal,2021,coal,Fossil hard coal,0.0
+Portugal,2022,coal,Fossil hard coal,0.0
+Portugal,2023,coal,Fossil hard coal,0.0
+Portugal,2024,coal,Fossil hard coal,0.0
+Portugal,2025,coal,Fossil hard coal,0.0
+Portugal,2014,oil,Fossil oil,0.0
+Portugal,2015,oil,Fossil oil,0.0
+Portugal,2016,oil,Fossil oil,0.0
+Portugal,2017,oil,Fossil oil,0.0
+Portugal,2018,oil,Fossil oil,0.0
+Portugal,2019,oil,Fossil oil,0.0
+Portugal,2020,oil,Fossil oil,0.0
+Portugal,2021,oil,Fossil oil,0.0
+Portugal,2022,oil,Fossil oil,0.0
+Portugal,2023,oil,Fossil oil,0.0
+Portugal,2024,oil,Fossil oil,0.0
+Portugal,2025,oil,Fossil oil,0.0
+Portugal,2014,oil,Fossil oil shale,0.0
+Portugal,2015,oil,Fossil oil shale,0.0
+Portugal,2016,oil,Fossil oil shale,0.0
+Portugal,2017,oil,Fossil oil shale,0.0
+Portugal,2018,oil,Fossil oil shale,0.0
+Portugal,2019,oil,Fossil oil shale,0.0
+Portugal,2020,oil,Fossil oil shale,0.0
+Portugal,2021,oil,Fossil oil shale,0.0
+Portugal,2022,oil,Fossil oil shale,0.0
+Portugal,2023,oil,Fossil oil shale,0.0
+Portugal,2024,oil,Fossil oil shale,0.0
+Portugal,2025,oil,Fossil oil shale,0.0
+Portugal,2014,Fossil peat,Fossil peat,0.0
+Portugal,2015,Fossil peat,Fossil peat,0.0
+Portugal,2016,Fossil peat,Fossil peat,0.0
+Portugal,2017,Fossil peat,Fossil peat,0.0
+Portugal,2018,Fossil peat,Fossil peat,0.0
+Portugal,2019,Fossil peat,Fossil peat,0.0
+Portugal,2020,Fossil peat,Fossil peat,0.0
+Portugal,2021,Fossil peat,Fossil peat,0.0
+Portugal,2022,Fossil peat,Fossil peat,0.0
+Portugal,2023,Fossil peat,Fossil peat,0.0
+Portugal,2024,Fossil peat,Fossil peat,0.0
+Portugal,2025,Fossil peat,Fossil peat,0.0
+Portugal,2014,gas,Fossil gas,4.72
+Portugal,2015,gas,Fossil gas,4.7
+Portugal,2016,gas,Fossil gas,4.66
+Portugal,2017,gas,Fossil gas,4.62
+Portugal,2018,gas,Fossil gas,4.61
+Portugal,2019,gas,Fossil gas,4.61
+Portugal,2020,gas,Fossil gas,4.58
+Portugal,2021,gas,Fossil gas,4.52
+Portugal,2022,gas,Fossil gas,4.58
+Portugal,2023,gas,Fossil gas,4.43
+Portugal,2024,gas,Fossil gas,4.42
+Portugal,2025,gas,Fossil gas,4.39
+Portugal,2014,Geothermal,Geothermal,0.0
+Portugal,2015,Geothermal,Geothermal,0.0
+Portugal,2016,Geothermal,Geothermal,0.0
+Portugal,2017,Geothermal,Geothermal,0.0
+Portugal,2018,Geothermal,Geothermal,0.0
+Portugal,2019,Geothermal,Geothermal,0.0
+Portugal,2020,Geothermal,Geothermal,0.0
+Portugal,2021,Geothermal,Geothermal,0.0
+Portugal,2022,Geothermal,Geothermal,0.0
+Portugal,2023,Geothermal,Geothermal,0.0
+Portugal,2024,Geothermal,Geothermal,0.0
+Portugal,2025,Geothermal,Geothermal,0.0
+Portugal,2014,Hydro water reservoir,Hydro water reservoir,1.44
+Portugal,2015,Hydro water reservoir,Hydro water reservoir,1.51
+Portugal,2016,Hydro water reservoir,Hydro water reservoir,1.52
+Portugal,2017,Hydro water reservoir,Hydro water reservoir,1.52
+Portugal,2018,Hydro water reservoir,Hydro water reservoir,1.52
+Portugal,2019,Hydro water reservoir,Hydro water reservoir,1.52
+Portugal,2020,Hydro water reservoir,Hydro water reservoir,1.52
+Portugal,2021,Hydro water reservoir,Hydro water reservoir,1.52
+Portugal,2022,Hydro water reservoir,Hydro water reservoir,1.63
+Portugal,2023,Hydro water reservoir,Hydro water reservoir,1.63
+Portugal,2024,Hydro water reservoir,Hydro water reservoir,1.79
+Portugal,2025,Hydro water reservoir,Hydro water reservoir,1.79
+Portugal,2014,Hydro pumped storage,Hydro pumped storage,1.25
+Portugal,2015,Hydro pumped storage,Hydro pumped storage,1.62
+Portugal,2016,Hydro pumped storage,Hydro pumped storage,2.56
+Portugal,2017,Hydro pumped storage,Hydro pumped storage,2.82
+Portugal,2018,Hydro pumped storage,Hydro pumped storage,2.82
+Portugal,2019,Hydro pumped storage,Hydro pumped storage,2.82
+Portugal,2020,Hydro pumped storage,Hydro pumped storage,2.82
+Portugal,2021,Hydro pumped storage,Hydro pumped storage,2.83
+Portugal,2022,Hydro pumped storage,Hydro pumped storage,3.71
+Portugal,2023,Hydro pumped storage,Hydro pumped storage,3.71
+Portugal,2024,Hydro pumped storage,Hydro pumped storage,3.71
+Portugal,2025,Hydro pumped storage,Hydro pumped storage,3.71
+Portugal,2014,Marine,Marine,0.0
+Portugal,2015,Marine,Marine,0.0
+Portugal,2016,Marine,Marine,0.0
+Portugal,2017,Marine,Marine,0.0
+Portugal,2018,Marine,Marine,0.0
+Portugal,2019,Marine,Marine,0.0
+Portugal,2020,Marine,Marine,0.0
+Portugal,2021,Marine,Marine,0.0
+Portugal,2022,Marine,Marine,0.0
+Portugal,2023,Marine,Marine,0.0
+Portugal,2024,Marine,Marine,0.0
+Portugal,2025,Marine,Marine,0.0
+Portugal,2014,Others,Others,0.17
+Portugal,2015,Others,Others,0.08
+Portugal,2016,Others,Others,0.06
+Portugal,2017,Others,Others,0.04
+Portugal,2018,Others,Others,0.04
+Portugal,2019,Others,Others,0.01
+Portugal,2020,Others,Others,0.03
+Portugal,2021,Others,Others,0.03
+Portugal,2022,Others,Others,0.03
+Portugal,2023,Others,Others,0.03
+Portugal,2024,Others,Others,0.03
+Portugal,2025,Others,Others,0.02
+Portugal,2014,other_renewable,Other renewables,0.0
+Portugal,2015,other_renewable,Other renewables,0.0
+Portugal,2016,other_renewable,Other renewables,0.0
+Portugal,2017,other_renewable,Other renewables,0.0
+Portugal,2018,other_renewable,Other renewables,0.0
+Portugal,2019,other_renewable,Other renewables,0.0
+Portugal,2020,other_renewable,Other renewables,0.0
+Portugal,2021,other_renewable,Other renewables,0.0
+Portugal,2022,other_renewable,Other renewables,0.0
+Portugal,2023,other_renewable,Other renewables,0.0
+Portugal,2024,other_renewable,Other renewables,0.0
+Portugal,2025,other_renewable,Other renewables,0.0
+Portugal,2014,waste,Waste,0.0
+Portugal,2015,waste,Waste,0.0
+Portugal,2016,waste,Waste,0.0
+Portugal,2017,waste,Waste,0.0
+Portugal,2018,waste,Waste,0.0
+Portugal,2019,waste,Waste,0.0
+Portugal,2020,waste,Waste,0.0
+Portugal,2021,waste,Waste,0.0
+Portugal,2022,waste,Waste,0.0
+Portugal,2023,waste,Waste,0.0
+Portugal,2024,waste,Waste,0.0
+Portugal,2025,waste,Waste,0.0
+Portugal,2014,wind,Wind offshore,0.0
+Portugal,2015,wind,Wind offshore,0.0
+Portugal,2016,wind,Wind offshore,0.0
+Portugal,2017,wind,Wind offshore,0.0
+Portugal,2018,wind,Wind offshore,0.0
+Portugal,2019,wind,Wind offshore,0.0
+Portugal,2020,wind,Wind offshore,0.02
+Portugal,2021,wind,Wind offshore,0.02
+Portugal,2022,wind,Wind offshore,0.02
+Portugal,2023,wind,Wind offshore,0.02
+Portugal,2024,wind,Wind offshore,0.02
+Portugal,2025,wind,Wind offshore,0.02
+Portugal,2014,wind,Wind onshore,4.49
+Portugal,2015,wind,Wind onshore,4.62
+Portugal,2016,wind,Wind onshore,5.03
+Portugal,2017,wind,Wind onshore,5.07
+Portugal,2018,wind,Wind onshore,5.13
+Portugal,2019,wind,Wind onshore,5.18
+Portugal,2020,wind,Wind onshore,5.18
+Portugal,2021,wind,Wind onshore,5.33
+Portugal,2022,wind,Wind onshore,5.33
+Portugal,2023,wind,Wind onshore,5.33
+Portugal,2024,wind,Wind onshore,5.37
+Portugal,2025,wind,Wind onshore,5.4
+Portugal,2014,solar,Solar AC,0.22
+Portugal,2015,solar,Solar AC,0.25
+Portugal,2016,solar,Solar AC,0.26
+Portugal,2017,solar,Solar AC,0.27
+Portugal,2018,solar,Solar AC,0.32
+Portugal,2019,solar,Solar AC,0.41
+Portugal,2020,solar,Solar AC,0.57
+Portugal,2021,solar,Solar AC,1.03
+Portugal,2022,solar,Solar AC,1.33
+Portugal,2023,solar,Solar AC,1.81
+Portugal,2024,solar,Solar AC,2.59
+Portugal,2025,solar,Solar AC,3.24
+Griekenland,2015,hydro,Hydro Run-of-River,0.3
+Griekenland,2016,hydro,Hydro Run-of-River,0.3
+Griekenland,2017,hydro,Hydro Run-of-River,0.3
+Griekenland,2018,hydro,Hydro Run-of-River,0.3
+Griekenland,2019,hydro,Hydro Run-of-River,0.3
+Griekenland,2020,hydro,Hydro Run-of-River,0.31
+Griekenland,2021,hydro,Hydro Run-of-River,0.32
+Griekenland,2022,hydro,Hydro Run-of-River,0.32
+Griekenland,2023,hydro,Hydro Run-of-River,0.33
+Griekenland,2024,hydro,Hydro Run-of-River,0.3
+Griekenland,2025,hydro,Hydro Run-of-River,0.31
+Griekenland,2015,biomass,Biomass,0.05
+Griekenland,2016,biomass,Biomass,0.05
+Griekenland,2017,biomass,Biomass,0.05
+Griekenland,2018,biomass,Biomass,0.05
+Griekenland,2019,biomass,Biomass,0.09
+Griekenland,2020,biomass,Biomass,0.1
+Griekenland,2021,biomass,Biomass,0.11
+Griekenland,2022,biomass,Biomass,0.13
+Griekenland,2023,biomass,Biomass,0.12
+Griekenland,2024,biomass,Biomass,0.15
+Griekenland,2025,biomass,Biomass,0.15
+Griekenland,2014,coal,Fossil brown coal / lignite,4.46
+Griekenland,2015,coal,Fossil brown coal / lignite,3.91
+Griekenland,2016,coal,Fossil brown coal / lignite,3.91
+Griekenland,2017,coal,Fossil brown coal / lignite,3.91
+Griekenland,2018,coal,Fossil brown coal / lignite,3.91
+Griekenland,2019,coal,Fossil brown coal / lignite,3.36
+Griekenland,2020,coal,Fossil brown coal / lignite,2.56
+Griekenland,2021,coal,Fossil brown coal / lignite,2.0
+Griekenland,2022,coal,Fossil brown coal / lignite,2.65
+Griekenland,2023,coal,Fossil brown coal / lignite,2.65
+Griekenland,2024,coal,Fossil brown coal / lignite,1.8
+Griekenland,2025,coal,Fossil brown coal / lignite,1.5
+Griekenland,2014,oil,Fossil oil,0.72
+Griekenland,2015,oil,Fossil oil,0.0
+Griekenland,2016,oil,Fossil oil,0.0
+Griekenland,2017,oil,Fossil oil,0.0
+Griekenland,2018,oil,Fossil oil,0.0
+Griekenland,2019,oil,Fossil oil,0.0
+Griekenland,2020,oil,Fossil oil,0.0
+Griekenland,2021,oil,Fossil oil,0.0
+Griekenland,2022,oil,Fossil oil,0.0
+Griekenland,2023,oil,Fossil oil,0.0
+Griekenland,2024,oil,Fossil oil,0.0
+Griekenland,2025,oil,Fossil oil,0.0
+Griekenland,2014,gas,Fossil gas,4.91
+Griekenland,2015,gas,Fossil gas,5.4
+Griekenland,2016,gas,Fossil gas,5.24
+Griekenland,2017,gas,Fossil gas,5.24
+Griekenland,2018,gas,Fossil gas,4.9
+Griekenland,2019,gas,Fossil gas,4.9
+Griekenland,2020,gas,Fossil gas,4.9
+Griekenland,2021,gas,Fossil gas,5.21
+Griekenland,2022,gas,Fossil gas,6.03
+Griekenland,2023,gas,Fossil gas,6.03
+Griekenland,2024,gas,Fossil gas,6.03
+Griekenland,2025,gas,Fossil gas,6.68
+Griekenland,2014,Geothermal,Geothermal,0.05
+Griekenland,2015,Geothermal,Geothermal,0.0
+Griekenland,2016,Geothermal,Geothermal,0.0
+Griekenland,2017,Geothermal,Geothermal,0.0
+Griekenland,2018,Geothermal,Geothermal,0.0
+Griekenland,2019,Geothermal,Geothermal,0.0
+Griekenland,2020,Geothermal,Geothermal,0.0
+Griekenland,2021,Geothermal,Geothermal,0.0
+Griekenland,2022,Geothermal,Geothermal,0.0
+Griekenland,2023,Geothermal,Geothermal,0.0
+Griekenland,2024,Geothermal,Geothermal,0.0
+Griekenland,2025,Geothermal,Geothermal,0.0
+Griekenland,2014,Hydro water reservoir,Hydro water reservoir,2.46
+Griekenland,2015,Hydro water reservoir,Hydro water reservoir,2.4
+Griekenland,2016,Hydro water reservoir,Hydro water reservoir,2.4
+Griekenland,2017,Hydro water reservoir,Hydro water reservoir,2.4
+Griekenland,2018,Hydro water reservoir,Hydro water reservoir,2.4
+Griekenland,2019,Hydro water reservoir,Hydro water reservoir,2.4
+Griekenland,2020,Hydro water reservoir,Hydro water reservoir,2.4
+Griekenland,2021,Hydro water reservoir,Hydro water reservoir,2.4
+Griekenland,2022,Hydro water reservoir,Hydro water reservoir,2.4
+Griekenland,2023,Hydro water reservoir,Hydro water reservoir,2.4
+Griekenland,2024,Hydro water reservoir,Hydro water reservoir,2.4
+Griekenland,2025,Hydro water reservoir,Hydro water reservoir,2.4
+Griekenland,2014,Hydro pumped storage,Hydro pumped storage,0.69
+Griekenland,2015,Hydro pumped storage,Hydro pumped storage,0.7
+Griekenland,2016,Hydro pumped storage,Hydro pumped storage,0.7
+Griekenland,2017,Hydro pumped storage,Hydro pumped storage,0.7
+Griekenland,2018,Hydro pumped storage,Hydro pumped storage,0.7
+Griekenland,2019,Hydro pumped storage,Hydro pumped storage,0.7
+Griekenland,2020,Hydro pumped storage,Hydro pumped storage,0.7
+Griekenland,2021,Hydro pumped storage,Hydro pumped storage,0.7
+Griekenland,2022,Hydro pumped storage,Hydro pumped storage,0.7
+Griekenland,2023,Hydro pumped storage,Hydro pumped storage,0.7
+Griekenland,2024,Hydro pumped storage,Hydro pumped storage,0.7
+Griekenland,2025,Hydro pumped storage,Hydro pumped storage,0.7
+Griekenland,2014,other_renewable,Other renewables,0.3
+Griekenland,2015,other_renewable,Other renewables,0.07
+Griekenland,2016,other_renewable,Other renewables,0.07
+Griekenland,2017,other_renewable,Other renewables,0.07
+Griekenland,2018,other_renewable,Other renewables,0.07
+Griekenland,2019,other_renewable,Other renewables,0.1
+Griekenland,2020,other_renewable,Other renewables,0.11
+Griekenland,2021,other_renewable,Other renewables,0.11
+Griekenland,2022,other_renewable,Other renewables,0.12
+Griekenland,2023,other_renewable,Other renewables,0.13
+Griekenland,2024,other_renewable,Other renewables,0.13
+Griekenland,2025,other_renewable,Other renewables,0.16
+Griekenland,2014,wind,Wind onshore,1.61
+Griekenland,2015,wind,Wind onshore,1.88
+Griekenland,2016,wind,Wind onshore,1.88
+Griekenland,2017,wind,Wind onshore,2.23
+Griekenland,2018,wind,Wind onshore,2.36
+Griekenland,2019,wind,Wind onshore,3.15
+Griekenland,2020,wind,Wind onshore,3.76
+Griekenland,2021,wind,Wind onshore,4.15
+Griekenland,2022,wind,Wind onshore,4.55
+Griekenland,2023,wind,Wind onshore,5.07
+Griekenland,2024,wind,Wind onshore,5.22
+Griekenland,2025,wind,Wind onshore,5.46
+Griekenland,2014,solar,Solar AC,2.43
+Griekenland,2015,solar,Solar AC,2.44
+Griekenland,2016,solar,Solar AC,2.44
+Griekenland,2017,solar,Solar AC,2.44
+Griekenland,2018,solar,Solar AC,2.44
+Griekenland,2019,solar,Solar AC,2.61
+Griekenland,2020,solar,Solar AC,3.06
+Griekenland,2021,solar,Solar AC,3.82
+Griekenland,2022,solar,Solar AC,5.1
+Griekenland,2023,solar,Solar AC,6.7
+Griekenland,2024,solar,Solar AC,9.0
+Griekenland,2025,solar,Solar AC,9.8
+Finland,2014,nuclear,Nuclear,2.75
+Finland,2015,nuclear,Nuclear,2.78
+Finland,2016,nuclear,Nuclear,2.78
+Finland,2017,nuclear,Nuclear,2.78
+Finland,2018,nuclear,Nuclear,2.78
+Finland,2019,nuclear,Nuclear,2.79
+Finland,2020,nuclear,Nuclear,2.79
+Finland,2021,nuclear,Nuclear,2.79
+Finland,2022,nuclear,Nuclear,2.79
+Finland,2023,nuclear,Nuclear,4.36
+Finland,2024,nuclear,Nuclear,4.36
+Finland,2025,nuclear,Nuclear,4.37
+Finland,2014,hydro,Hydro Run-of-River,3.26
+Finland,2015,hydro,Hydro Run-of-River,3.11
+Finland,2016,hydro,Hydro Run-of-River,3.11
+Finland,2017,hydro,Hydro Run-of-River,3.15
+Finland,2018,hydro,Hydro Run-of-River,3.15
+Finland,2019,hydro,Hydro Run-of-River,3.15
+Finland,2020,hydro,Hydro Run-of-River,3.15
+Finland,2021,hydro,Hydro Run-of-River,3.17
+Finland,2022,hydro,Hydro Run-of-River,3.17
+Finland,2023,hydro,Hydro Run-of-River,3.17
+Finland,2024,hydro,Hydro Run-of-River,3.2
+Finland,2025,hydro,Hydro Run-of-River,3.2
+Finland,2014,biomass,Biomass,2.05
+Finland,2015,biomass,Biomass,1.53
+Finland,2016,biomass,Biomass,1.66
+Finland,2017,biomass,Biomass,1.81
+Finland,2018,biomass,Biomass,1.8
+Finland,2019,biomass,Biomass,1.86
+Finland,2020,biomass,Biomass,1.86
+Finland,2021,biomass,Biomass,1.9
+Finland,2022,biomass,Biomass,1.83
+Finland,2023,biomass,Biomass,1.7
+Finland,2024,biomass,Biomass,1.94
+Finland,2025,biomass,Biomass,1.95
+Finland,2014,coal,Fossil hard coal,2.79
+Finland,2015,coal,Fossil hard coal,3.42
+Finland,2016,coal,Fossil hard coal,2.85
+Finland,2017,coal,Fossil hard coal,2.28
+Finland,2018,coal,Fossil hard coal,2.28
+Finland,2019,coal,Fossil hard coal,2.16
+Finland,2020,coal,Fossil hard coal,1.68
+Finland,2021,coal,Fossil hard coal,1.68
+Finland,2022,coal,Fossil hard coal,1.56
+Finland,2023,coal,Fossil hard coal,1.41
+Finland,2024,coal,Fossil hard coal,1.32
+Finland,2025,coal,Fossil hard coal,1.08
+Finland,2014,oil,Fossil oil,1.7
+Finland,2015,oil,Fossil oil,0.89
+Finland,2016,oil,Fossil oil,1.43
+Finland,2017,oil,Fossil oil,1.39
+Finland,2018,oil,Fossil oil,1.43
+Finland,2019,oil,Fossil oil,1.3
+Finland,2020,oil,Fossil oil,1.09
+Finland,2021,oil,Fossil oil,1.05
+Finland,2022,oil,Fossil oil,1.05
+Finland,2023,oil,Fossil oil,1.05
+Finland,2024,oil,Fossil oil,1.05
+Finland,2025,oil,Fossil oil,1.05
+Finland,2014,Fossil peat,Fossil peat,1.68
+Finland,2015,Fossil peat,Fossil peat,1.02
+Finland,2016,Fossil peat,Fossil peat,1.08
+Finland,2017,Fossil peat,Fossil peat,1.14
+Finland,2018,Fossil peat,Fossil peat,1.14
+Finland,2019,Fossil peat,Fossil peat,1.14
+Finland,2020,Fossil peat,Fossil peat,1.14
+Finland,2021,Fossil peat,Fossil peat,1.12
+Finland,2022,Fossil peat,Fossil peat,1.05
+Finland,2023,Fossil peat,Fossil peat,1.04
+Finland,2024,Fossil peat,Fossil peat,0.85
+Finland,2025,Fossil peat,Fossil peat,0.85
+Finland,2014,gas,Fossil gas,1.61
+Finland,2015,gas,Fossil gas,0.48
+Finland,2016,gas,Fossil gas,1.8
+Finland,2017,gas,Fossil gas,1.86
+Finland,2018,gas,Fossil gas,1.91
+Finland,2019,gas,Fossil gas,1.85
+Finland,2020,gas,Fossil gas,1.85
+Finland,2021,gas,Fossil gas,1.94
+Finland,2022,gas,Fossil gas,1.78
+Finland,2023,gas,Fossil gas,1.74
+Finland,2024,gas,Fossil gas,1.74
+Finland,2025,gas,Fossil gas,1.82
+Finland,2014,Others,Others,0.04
+Finland,2015,Others,Others,1.3
+Finland,2016,Others,Others,0.56
+Finland,2017,Others,Others,0.36
+Finland,2018,Others,Others,0.33
+Finland,2019,Others,Others,0.44
+Finland,2020,Others,Others,0.44
+Finland,2021,Others,Others,0.46
+Finland,2022,Others,Others,0.44
+Finland,2023,Others,Others,0.45
+Finland,2024,Others,Others,0.39
+Finland,2025,Others,Others,0.39
+Finland,2014,other_renewable,Other renewables,0.02
+Finland,2015,other_renewable,Other renewables,0.08
+Finland,2016,other_renewable,Other renewables,0.08
+Finland,2017,other_renewable,Other renewables,0.26
+Finland,2018,other_renewable,Other renewables,0.26
+Finland,2019,other_renewable,Other renewables,0.27
+Finland,2020,other_renewable,Other renewables,0.27
+Finland,2021,other_renewable,Other renewables,0.32
+Finland,2022,other_renewable,Other renewables,0.39
+Finland,2023,other_renewable,Other renewables,0.39
+Finland,2024,other_renewable,Other renewables,0.36
+Finland,2025,other_renewable,Other renewables,0.36
+Finland,2014,waste,Waste,0.07
+Finland,2015,waste,Waste,0.05
+Finland,2016,waste,Waste,0.13
+Finland,2017,waste,Waste,0.16
+Finland,2018,waste,Waste,0.16
+Finland,2019,waste,Waste,0.16
+Finland,2020,waste,Waste,0.16
+Finland,2021,waste,Waste,0.11
+Finland,2022,waste,Waste,0.11
+Finland,2023,waste,Waste,0.09
+Finland,2024,waste,Waste,0.09
+Finland,2025,waste,Waste,0.1
+Finland,2014,wind,Wind onshore,0.5
+Finland,2015,wind,Wind onshore,1.08
+Finland,2016,wind,Wind onshore,1.43
+Finland,2017,wind,Wind onshore,1.91
+Finland,2018,wind,Wind onshore,2.01
+Finland,2019,wind,Wind onshore,2.14
+Finland,2020,wind,Wind onshore,2.42
+Finland,2021,wind,Wind onshore,3.18
+Finland,2022,wind,Wind onshore,5.12
+Finland,2023,wind,Wind onshore,6.62
+Finland,2024,wind,Wind onshore,8.22
+Finland,2025,wind,Wind onshore,9.33
+Finland,2018,solar,Solar AC,0.0
+Finland,2019,solar,Solar AC,0.01
+Finland,2020,solar,Solar AC,0.01
+Finland,2021,solar,Solar AC,0.01
+Finland,2022,solar,Solar AC,0.02
+Finland,2023,solar,Solar AC,0.03
+Finland,2024,solar,Solar AC,0.05
+Finland,2025,solar,Solar AC,1.51
+Estland,2014,nuclear,Nuclear,0.0
+Estland,2015,nuclear,Nuclear,0.0
+Estland,2016,nuclear,Nuclear,0.0
+Estland,2017,nuclear,Nuclear,0.0
+Estland,2018,nuclear,Nuclear,0.0
+Estland,2019,nuclear,Nuclear,0.0
+Estland,2020,nuclear,Nuclear,0.0
+Estland,2023,nuclear,Nuclear,0.0
+Estland,2024,nuclear,Nuclear,0.0
+Estland,2025,nuclear,Nuclear,0.0
+Estland,2014,hydro,Hydro Run-of-River,0.01
+Estland,2015,hydro,Hydro Run-of-River,0.01
+Estland,2016,hydro,Hydro Run-of-River,0.01
+Estland,2017,hydro,Hydro Run-of-River,0.01
+Estland,2018,hydro,Hydro Run-of-River,0.01
+Estland,2019,hydro,Hydro Run-of-River,0.01
+Estland,2020,hydro,Hydro Run-of-River,0.01
+Estland,2021,hydro,Hydro Run-of-River,0.0
+Estland,2022,hydro,Hydro Run-of-River,0.01
+Estland,2023,hydro,Hydro Run-of-River,0.01
+Estland,2024,hydro,Hydro Run-of-River,0.01
+Estland,2025,hydro,Hydro Run-of-River,0.01
+Estland,2014,biomass,Biomass,0.08
+Estland,2015,biomass,Biomass,0.08
+Estland,2016,biomass,Biomass,0.09
+Estland,2017,biomass,Biomass,0.1
+Estland,2018,biomass,Biomass,0.16
+Estland,2019,biomass,Biomass,0.16
+Estland,2020,biomass,Biomass,0.18
+Estland,2021,biomass,Biomass,0.13
+Estland,2022,biomass,Biomass,0.15
+Estland,2023,biomass,Biomass,0.15
+Estland,2024,biomass,Biomass,0.15
+Estland,2025,biomass,Biomass,0.15
+Estland,2014,coal,Fossil brown coal / lignite,0.0
+Estland,2015,coal,Fossil brown coal / lignite,0.0
+Estland,2016,coal,Fossil brown coal / lignite,0.0
+Estland,2017,coal,Fossil brown coal / lignite,0.0
+Estland,2018,coal,Fossil brown coal / lignite,0.0
+Estland,2019,coal,Fossil brown coal / lignite,0.0
+Estland,2020,coal,Fossil brown coal / lignite,0.0
+Estland,2023,coal,Fossil brown coal / lignite,0.0
+Estland,2024,coal,Fossil brown coal / lignite,0.0
+Estland,2025,coal,Fossil brown coal / lignite,0.0
+Estland,2014,Fossil coal-derived gas,Fossil coal-derived gas,0.09
+Estland,2015,Fossil coal-derived gas,Fossil coal-derived gas,0.09
+Estland,2016,Fossil coal-derived gas,Fossil coal-derived gas,0.08
+Estland,2017,Fossil coal-derived gas,Fossil coal-derived gas,0.08
+Estland,2018,Fossil coal-derived gas,Fossil coal-derived gas,0.05
+Estland,2019,Fossil coal-derived gas,Fossil coal-derived gas,0.08
+Estland,2020,Fossil coal-derived gas,Fossil coal-derived gas,0.07
+Estland,2021,Fossil coal-derived gas,Fossil coal-derived gas,0.02
+Estland,2022,Fossil coal-derived gas,Fossil coal-derived gas,0.08
+Estland,2023,Fossil coal-derived gas,Fossil coal-derived gas,0.08
+Estland,2024,Fossil coal-derived gas,Fossil coal-derived gas,0.08
+Estland,2025,Fossil coal-derived gas,Fossil coal-derived gas,0.08
+Estland,2014,coal,Fossil hard coal,0.0
+Estland,2015,coal,Fossil hard coal,0.0
+Estland,2016,coal,Fossil hard coal,0.0
+Estland,2017,coal,Fossil hard coal,0.0
+Estland,2018,coal,Fossil hard coal,0.0
+Estland,2019,coal,Fossil hard coal,0.0
+Estland,2020,coal,Fossil hard coal,0.0
+Estland,2023,coal,Fossil hard coal,0.0
+Estland,2024,coal,Fossil hard coal,0.0
+Estland,2025,coal,Fossil hard coal,0.0
+Estland,2014,oil,Fossil oil,0.0
+Estland,2015,oil,Fossil oil,0.0
+Estland,2016,oil,Fossil oil,0.0
+Estland,2017,oil,Fossil oil,0.0
+Estland,2018,oil,Fossil oil,0.01
+Estland,2019,oil,Fossil oil,0.01
+Estland,2020,oil,Fossil oil,0.0
+Estland,2021,oil,Fossil oil,0.05
+Estland,2023,oil,Fossil oil,0.0
+Estland,2024,oil,Fossil oil,0.0
+Estland,2025,oil,Fossil oil,0.0
+Estland,2014,oil,Fossil oil shale,1.7
+Estland,2015,oil,Fossil oil shale,1.98
+Estland,2016,oil,Fossil oil shale,1.98
+Estland,2017,oil,Fossil oil shale,1.98
+Estland,2018,oil,Fossil oil shale,1.97
+Estland,2019,oil,Fossil oil shale,1.97
+Estland,2020,oil,Fossil oil shale,1.46
+Estland,2021,oil,Fossil oil shale,1.37
+Estland,2022,oil,Fossil oil shale,1.33
+Estland,2023,oil,Fossil oil shale,1.33
+Estland,2024,oil,Fossil oil shale,1.33
+Estland,2025,oil,Fossil oil shale,1.22
+Estland,2014,Fossil peat,Fossil peat,0.0
+Estland,2015,Fossil peat,Fossil peat,0.0
+Estland,2016,Fossil peat,Fossil peat,0.0
+Estland,2017,Fossil peat,Fossil peat,0.0
+Estland,2018,Fossil peat,Fossil peat,0.0
+Estland,2019,Fossil peat,Fossil peat,0.0
+Estland,2020,Fossil peat,Fossil peat,0.0
+Estland,2023,Fossil peat,Fossil peat,0.0
+Estland,2024,Fossil peat,Fossil peat,0.0
+Estland,2025,Fossil peat,Fossil peat,0.0
+Estland,2014,gas,Fossil gas,0.18
+Estland,2015,gas,Fossil gas,0.12
+Estland,2016,gas,Fossil gas,0.13
+Estland,2017,gas,Fossil gas,0.12
+Estland,2018,gas,Fossil gas,0.13
+Estland,2019,gas,Fossil gas,0.13
+Estland,2020,gas,Fossil gas,0.1
+Estland,2021,gas,Fossil gas,0.09
+Estland,2022,gas,Fossil gas,0.11
+Estland,2023,gas,Fossil gas,0.02
+Estland,2024,gas,Fossil gas,0.01
+Estland,2025,gas,Fossil gas,0.01
+Estland,2014,Geothermal,Geothermal,0.0
+Estland,2015,Geothermal,Geothermal,0.0
+Estland,2016,Geothermal,Geothermal,0.0
+Estland,2017,Geothermal,Geothermal,0.0
+Estland,2018,Geothermal,Geothermal,0.0
+Estland,2019,Geothermal,Geothermal,0.0
+Estland,2020,Geothermal,Geothermal,0.0
+Estland,2023,Geothermal,Geothermal,0.0
+Estland,2024,Geothermal,Geothermal,0.0
+Estland,2025,Geothermal,Geothermal,0.0
+Estland,2014,Hydro water reservoir,Hydro water reservoir,0.0
+Estland,2015,Hydro water reservoir,Hydro water reservoir,0.0
+Estland,2016,Hydro water reservoir,Hydro water reservoir,0.0
+Estland,2017,Hydro water reservoir,Hydro water reservoir,0.0
+Estland,2018,Hydro water reservoir,Hydro water reservoir,0.0
+Estland,2019,Hydro water reservoir,Hydro water reservoir,0.0
+Estland,2020,Hydro water reservoir,Hydro water reservoir,0.0
+Estland,2023,Hydro water reservoir,Hydro water reservoir,0.0
+Estland,2024,Hydro water reservoir,Hydro water reservoir,0.0
+Estland,2025,Hydro water reservoir,Hydro water reservoir,0.0
+Estland,2014,Hydro pumped storage,Hydro pumped storage,0.0
+Estland,2015,Hydro pumped storage,Hydro pumped storage,0.0
+Estland,2016,Hydro pumped storage,Hydro pumped storage,0.0
+Estland,2017,Hydro pumped storage,Hydro pumped storage,0.0
+Estland,2018,Hydro pumped storage,Hydro pumped storage,0.0
+Estland,2019,Hydro pumped storage,Hydro pumped storage,0.0
+Estland,2020,Hydro pumped storage,Hydro pumped storage,0.0
+Estland,2023,Hydro pumped storage,Hydro pumped storage,0.0
+Estland,2024,Hydro pumped storage,Hydro pumped storage,0.0
+Estland,2025,Hydro pumped storage,Hydro pumped storage,0.0
+Estland,2014,Marine,Marine,0.0
+Estland,2015,Marine,Marine,0.0
+Estland,2016,Marine,Marine,0.0
+Estland,2017,Marine,Marine,0.0
+Estland,2018,Marine,Marine,0.0
+Estland,2019,Marine,Marine,0.0
+Estland,2020,Marine,Marine,0.0
+Estland,2023,Marine,Marine,0.0
+Estland,2024,Marine,Marine,0.0
+Estland,2025,Marine,Marine,0.0
+Estland,2014,Others,Others,0.0
+Estland,2015,Others,Others,0.0
+Estland,2016,Others,Others,0.0
+Estland,2017,Others,Others,0.0
+Estland,2018,Others,Others,0.0
+Estland,2019,Others,Others,0.0
+Estland,2020,Others,Others,0.0
+Estland,2021,Others,Others,0.01
+Estland,2022,Others,Others,0.02
+Estland,2023,Others,Others,0.02
+Estland,2024,Others,Others,0.02
+Estland,2025,Others,Others,0.02
+Estland,2014,other_renewable,Other renewables,0.01
+Estland,2015,other_renewable,Other renewables,0.01
+Estland,2016,other_renewable,Other renewables,0.01
+Estland,2017,other_renewable,Other renewables,0.0
+Estland,2018,other_renewable,Other renewables,0.01
+Estland,2019,other_renewable,Other renewables,0.01
+Estland,2020,other_renewable,Other renewables,0.01
+Estland,2023,other_renewable,Other renewables,0.0
+Estland,2024,other_renewable,Other renewables,0.0
+Estland,2025,other_renewable,Other renewables,0.0
+Estland,2014,waste,Waste,0.02
+Estland,2015,waste,Waste,0.02
+Estland,2016,waste,Waste,0.02
+Estland,2017,waste,Waste,0.02
+Estland,2018,waste,Waste,0.02
+Estland,2019,waste,Waste,0.02
+Estland,2020,waste,Waste,0.02
+Estland,2021,waste,Waste,0.02
+Estland,2022,waste,Waste,0.02
+Estland,2023,waste,Waste,0.02
+Estland,2024,waste,Waste,0.02
+Estland,2025,waste,Waste,0.02
+Estland,2014,wind,Wind offshore,0.0
+Estland,2015,wind,Wind offshore,0.0
+Estland,2016,wind,Wind offshore,0.0
+Estland,2017,wind,Wind offshore,0.0
+Estland,2018,wind,Wind offshore,0.0
+Estland,2019,wind,Wind offshore,0.0
+Estland,2020,wind,Wind offshore,0.0
+Estland,2023,wind,Wind offshore,0.0
+Estland,2024,wind,Wind offshore,0.0
+Estland,2025,wind,Wind offshore,0.0
+Estland,2014,wind,Wind onshore,0.31
+Estland,2015,wind,Wind onshore,0.38
+Estland,2016,wind,Wind onshore,0.38
+Estland,2017,wind,Wind onshore,0.49
+Estland,2018,wind,Wind onshore,0.46
+Estland,2019,wind,Wind onshore,0.33
+Estland,2020,wind,Wind onshore,0.33
+Estland,2021,wind,Wind onshore,0.33
+Estland,2022,wind,Wind onshore,0.32
+Estland,2023,wind,Wind onshore,0.45
+Estland,2024,wind,Wind onshore,0.68
+Estland,2025,wind,Wind onshore,0.69
+Estland,2014,solar,Solar AC,0.0
+Estland,2015,solar,Solar AC,0.0
+Estland,2016,solar,Solar AC,0.0
+Estland,2017,solar,Solar AC,0.0
+Estland,2018,solar,Solar AC,0.03
+Estland,2019,solar,Solar AC,0.12
+Estland,2020,solar,Solar AC,0.16
+Estland,2021,solar,Solar AC,0.37
+Estland,2022,solar,Solar AC,0.51
+Estland,2023,solar,Solar AC,0.81
+Estland,2024,solar,Solar AC,1.17
+Estland,2025,solar,Solar AC,1.23
+Roemenie,2014,nuclear,Nuclear,1.3
+Roemenie,2015,nuclear,Nuclear,1.3
+Roemenie,2016,nuclear,Nuclear,1.3
+Roemenie,2017,nuclear,Nuclear,1.3
+Roemenie,2018,nuclear,Nuclear,1.3
+Roemenie,2019,nuclear,Nuclear,1.3
+Roemenie,2020,nuclear,Nuclear,1.3
+Roemenie,2021,nuclear,Nuclear,1.3
+Roemenie,2022,nuclear,Nuclear,1.3
+Roemenie,2023,nuclear,Nuclear,1.3
+Roemenie,2024,nuclear,Nuclear,1.3
+Roemenie,2025,nuclear,Nuclear,1.3
+Roemenie,2014,hydro,Hydro Run-of-River,2.67
+Roemenie,2015,hydro,Hydro Run-of-River,2.7
+Roemenie,2016,hydro,Hydro Run-of-River,2.68
+Roemenie,2017,hydro,Hydro Run-of-River,2.69
+Roemenie,2018,hydro,Hydro Run-of-River,2.77
+Roemenie,2019,hydro,Hydro Run-of-River,2.75
+Roemenie,2020,hydro,Hydro Run-of-River,2.75
+Roemenie,2021,hydro,Hydro Run-of-River,2.78
+Roemenie,2022,hydro,Hydro Run-of-River,2.78
+Roemenie,2023,hydro,Hydro Run-of-River,2.78
+Roemenie,2024,hydro,Hydro Run-of-River,2.78
+Roemenie,2025,hydro,Hydro Run-of-River,2.78
+Roemenie,2014,biomass,Biomass,0.09
+Roemenie,2015,biomass,Biomass,0.1
+Roemenie,2016,biomass,Biomass,0.12
+Roemenie,2017,biomass,Biomass,0.12
+Roemenie,2018,biomass,Biomass,0.12
+Roemenie,2019,biomass,Biomass,0.12
+Roemenie,2020,biomass,Biomass,0.12
+Roemenie,2021,biomass,Biomass,0.12
+Roemenie,2022,biomass,Biomass,0.12
+Roemenie,2023,biomass,Biomass,0.12
+Roemenie,2024,biomass,Biomass,0.12
+Roemenie,2025,biomass,Biomass,0.12
+Roemenie,2014,coal,Fossil brown coal / lignite,4.52
+Roemenie,2015,coal,Fossil brown coal / lignite,4.55
+Roemenie,2016,coal,Fossil brown coal / lignite,4.62
+Roemenie,2017,coal,Fossil brown coal / lignite,4.58
+Roemenie,2018,coal,Fossil brown coal / lignite,3.1
+Roemenie,2019,coal,Fossil brown coal / lignite,3.07
+Roemenie,2020,coal,Fossil brown coal / lignite,2.48
+Roemenie,2021,coal,Fossil brown coal / lignite,2.5
+Roemenie,2022,coal,Fossil brown coal / lignite,2.5
+Roemenie,2023,coal,Fossil brown coal / lignite,1.73
+Roemenie,2024,coal,Fossil brown coal / lignite,2.03
+Roemenie,2025,coal,Fossil brown coal / lignite,1.56
+Roemenie,2014,coal,Fossil hard coal,1.35
+Roemenie,2015,coal,Fossil hard coal,1.35
+Roemenie,2016,coal,Fossil hard coal,1.23
+Roemenie,2017,coal,Fossil hard coal,1.23
+Roemenie,2018,coal,Fossil hard coal,1.03
+Roemenie,2019,coal,Fossil hard coal,1.03
+Roemenie,2020,coal,Fossil hard coal,0.99
+Roemenie,2021,coal,Fossil hard coal,0.18
+Roemenie,2022,coal,Fossil hard coal,0.18
+Roemenie,2023,coal,Fossil hard coal,0.18
+Roemenie,2024,coal,Fossil hard coal,0.14
+Roemenie,2025,coal,Fossil hard coal,0.09
+Roemenie,2014,gas,Fossil gas,4.86
+Roemenie,2015,gas,Fossil gas,4.88
+Roemenie,2016,gas,Fossil gas,5.02
+Roemenie,2017,gas,Fossil gas,5.14
+Roemenie,2018,gas,Fossil gas,3.03
+Roemenie,2019,gas,Fossil gas,2.67
+Roemenie,2020,gas,Fossil gas,2.18
+Roemenie,2021,gas,Fossil gas,2.22
+Roemenie,2022,gas,Fossil gas,1.99
+Roemenie,2023,gas,Fossil gas,2.24
+Roemenie,2024,gas,Fossil gas,2.18
+Roemenie,2025,gas,Fossil gas,2.28
+Roemenie,2014,Hydro water reservoir,Hydro water reservoir,3.8
+Roemenie,2015,Hydro water reservoir,Hydro water reservoir,4.01
+Roemenie,2016,Hydro water reservoir,Hydro water reservoir,3.8
+Roemenie,2017,Hydro water reservoir,Hydro water reservoir,3.8
+Roemenie,2018,Hydro water reservoir,Hydro water reservoir,3.37
+Roemenie,2019,Hydro water reservoir,Hydro water reservoir,3.39
+Roemenie,2020,Hydro water reservoir,Hydro water reservoir,3.39
+Roemenie,2021,Hydro water reservoir,Hydro water reservoir,3.36
+Roemenie,2022,Hydro water reservoir,Hydro water reservoir,3.36
+Roemenie,2023,Hydro water reservoir,Hydro water reservoir,3.36
+Roemenie,2024,Hydro water reservoir,Hydro water reservoir,3.35
+Roemenie,2025,Hydro water reservoir,Hydro water reservoir,3.4
+Roemenie,2014,wind,Wind onshore,2.9
+Roemenie,2015,wind,Wind onshore,2.94
+Roemenie,2016,wind,Wind onshore,2.98
+Roemenie,2017,wind,Wind onshore,2.99
+Roemenie,2018,wind,Wind onshore,2.97
+Roemenie,2019,wind,Wind onshore,2.97
+Roemenie,2020,wind,Wind onshore,2.96
+Roemenie,2021,wind,Wind onshore,2.96
+Roemenie,2022,wind,Wind onshore,2.96
+Roemenie,2023,wind,Wind onshore,2.96
+Roemenie,2024,wind,Wind onshore,3.03
+Roemenie,2025,wind,Wind onshore,3.07
+Roemenie,2014,solar,Solar AC,1.1
+Roemenie,2015,solar,Solar AC,1.15
+Roemenie,2016,solar,Solar AC,1.21
+Roemenie,2017,solar,Solar AC,1.21
+Roemenie,2018,solar,Solar AC,1.15
+Roemenie,2019,solar,Solar AC,1.16
+Roemenie,2020,solar,Solar AC,1.14
+Roemenie,2021,solar,Solar AC,1.16
+Roemenie,2022,solar,Solar AC,1.18
+Roemenie,2023,solar,Solar AC,1.29
+Roemenie,2024,solar,Solar AC,1.59
+Roemenie,2025,solar,Solar AC,2.79
+Slovenie,2014,nuclear,Nuclear,0.7
+Slovenie,2015,nuclear,Nuclear,0.7
+Slovenie,2016,nuclear,Nuclear,0.7
+Slovenie,2017,nuclear,Nuclear,0.7
+Slovenie,2018,nuclear,Nuclear,0.7
+Slovenie,2019,nuclear,Nuclear,0.7
+Slovenie,2020,nuclear,Nuclear,0.7
+Slovenie,2021,nuclear,Nuclear,0.7
+Slovenie,2022,nuclear,Nuclear,0.7
+Slovenie,2023,nuclear,Nuclear,0.7
+Slovenie,2024,nuclear,Nuclear,0.7
+Slovenie,2025,nuclear,Nuclear,0.7
+Slovenie,2014,hydro,Hydro Run-of-River,1.05
+Slovenie,2015,hydro,Hydro Run-of-River,1.05
+Slovenie,2016,hydro,Hydro Run-of-River,1.05
+Slovenie,2017,hydro,Hydro Run-of-River,1.05
+Slovenie,2018,hydro,Hydro Run-of-River,1.05
+Slovenie,2019,hydro,Hydro Run-of-River,1.11
+Slovenie,2020,hydro,Hydro Run-of-River,1.12
+Slovenie,2021,hydro,Hydro Run-of-River,1.12
+Slovenie,2022,hydro,Hydro Run-of-River,1.13
+Slovenie,2023,hydro,Hydro Run-of-River,1.13
+Slovenie,2024,hydro,Hydro Run-of-River,1.15
+Slovenie,2025,hydro,Hydro Run-of-River,1.11
+Slovenie,2014,biomass,Biomass,0.02
+Slovenie,2015,biomass,Biomass,0.02
+Slovenie,2016,biomass,Biomass,0.02
+Slovenie,2017,biomass,Biomass,0.02
+Slovenie,2018,biomass,Biomass,0.02
+Slovenie,2019,biomass,Biomass,0.02
+Slovenie,2020,biomass,Biomass,0.02
+Slovenie,2021,biomass,Biomass,0.02
+Slovenie,2022,biomass,Biomass,0.01
+Slovenie,2023,biomass,Biomass,0.04
+Slovenie,2024,biomass,Biomass,0.03
+Slovenie,2025,biomass,Biomass,0.05
+Slovenie,2014,coal,Fossil brown coal / lignite,1.23
+Slovenie,2015,coal,Fossil brown coal / lignite,0.92
+Slovenie,2016,coal,Fossil brown coal / lignite,0.92
+Slovenie,2017,coal,Fossil brown coal / lignite,0.92
+Slovenie,2018,coal,Fossil brown coal / lignite,0.92
+Slovenie,2019,coal,Fossil brown coal / lignite,0.97
+Slovenie,2020,coal,Fossil brown coal / lignite,0.98
+Slovenie,2021,coal,Fossil brown coal / lignite,0.98
+Slovenie,2022,coal,Fossil brown coal / lignite,1.19
+Slovenie,2023,coal,Fossil brown coal / lignite,1.19
+Slovenie,2024,coal,Fossil brown coal / lignite,1.19
+Slovenie,2025,coal,Fossil brown coal / lignite,0.89
+Slovenie,2014,Fossil coal-derived gas,Fossil coal-derived gas,0.0
+Slovenie,2015,Fossil coal-derived gas,Fossil coal-derived gas,0.0
+Slovenie,2016,Fossil coal-derived gas,Fossil coal-derived gas,0.0
+Slovenie,2017,Fossil coal-derived gas,Fossil coal-derived gas,0.0
+Slovenie,2018,Fossil coal-derived gas,Fossil coal-derived gas,0.0
+Slovenie,2020,Fossil coal-derived gas,Fossil coal-derived gas,0.0
+Slovenie,2021,Fossil coal-derived gas,Fossil coal-derived gas,0.0
+Slovenie,2014,coal,Fossil hard coal,0.0
+Slovenie,2015,coal,Fossil hard coal,0.0
+Slovenie,2016,coal,Fossil hard coal,0.0
+Slovenie,2017,coal,Fossil hard coal,0.0
+Slovenie,2018,coal,Fossil hard coal,0.0
+Slovenie,2020,coal,Fossil hard coal,0.0
+Slovenie,2021,coal,Fossil hard coal,0.0
+Slovenie,2014,oil,Fossil oil,0.0
+Slovenie,2015,oil,Fossil oil,0.0
+Slovenie,2016,oil,Fossil oil,0.06
+Slovenie,2017,oil,Fossil oil,0.06
+Slovenie,2018,oil,Fossil oil,0.06
+Slovenie,2019,oil,Fossil oil,0.06
+Slovenie,2020,oil,Fossil oil,0.0
+Slovenie,2021,oil,Fossil oil,0.0
+Slovenie,2022,oil,Fossil oil,0.06
+Slovenie,2023,oil,Fossil oil,0.06
+Slovenie,2024,oil,Fossil oil,0.06
+Slovenie,2025,oil,Fossil oil,0.06
+Slovenie,2014,oil,Fossil oil shale,0.0
+Slovenie,2015,oil,Fossil oil shale,0.0
+Slovenie,2016,oil,Fossil oil shale,0.0
+Slovenie,2017,oil,Fossil oil shale,0.0
+Slovenie,2018,oil,Fossil oil shale,0.0
+Slovenie,2020,oil,Fossil oil shale,0.0
+Slovenie,2021,oil,Fossil oil shale,0.0
+Slovenie,2014,Fossil peat,Fossil peat,0.0
+Slovenie,2015,Fossil peat,Fossil peat,0.0
+Slovenie,2016,Fossil peat,Fossil peat,0.0
+Slovenie,2017,Fossil peat,Fossil peat,0.0
+Slovenie,2018,Fossil peat,Fossil peat,0.0
+Slovenie,2020,Fossil peat,Fossil peat,0.0
+Slovenie,2021,Fossil peat,Fossil peat,0.0
+Slovenie,2014,gas,Fossil gas,0.49
+Slovenie,2015,gas,Fossil gas,0.49
+Slovenie,2016,gas,Fossil gas,0.49
+Slovenie,2017,gas,Fossil gas,0.49
+Slovenie,2018,gas,Fossil gas,0.49
+Slovenie,2019,gas,Fossil gas,0.55
+Slovenie,2020,gas,Fossil gas,0.55
+Slovenie,2021,gas,Fossil gas,0.55
+Slovenie,2022,gas,Fossil gas,0.62
+Slovenie,2023,gas,Fossil gas,0.76
+Slovenie,2024,gas,Fossil gas,0.76
+Slovenie,2025,gas,Fossil gas,0.76
+Slovenie,2014,Geothermal,Geothermal,0.0
+Slovenie,2015,Geothermal,Geothermal,0.0
+Slovenie,2016,Geothermal,Geothermal,0.0
+Slovenie,2017,Geothermal,Geothermal,0.0
+Slovenie,2018,Geothermal,Geothermal,0.0
+Slovenie,2020,Geothermal,Geothermal,0.0
+Slovenie,2021,Geothermal,Geothermal,0.0
+Slovenie,2014,Hydro water reservoir,Hydro water reservoir,0.0
+Slovenie,2015,Hydro water reservoir,Hydro water reservoir,0.0
+Slovenie,2016,Hydro water reservoir,Hydro water reservoir,0.0
+Slovenie,2017,Hydro water reservoir,Hydro water reservoir,0.0
+Slovenie,2018,Hydro water reservoir,Hydro water reservoir,0.0
+Slovenie,2020,Hydro water reservoir,Hydro water reservoir,0.0
+Slovenie,2021,Hydro water reservoir,Hydro water reservoir,0.0
+Slovenie,2014,Hydro pumped storage,Hydro pumped storage,0.18
+Slovenie,2015,Hydro pumped storage,Hydro pumped storage,0.18
+Slovenie,2016,Hydro pumped storage,Hydro pumped storage,0.18
+Slovenie,2017,Hydro pumped storage,Hydro pumped storage,0.18
+Slovenie,2018,Hydro pumped storage,Hydro pumped storage,0.18
+Slovenie,2019,Hydro pumped storage,Hydro pumped storage,0.18
+Slovenie,2020,Hydro pumped storage,Hydro pumped storage,0.18
+Slovenie,2021,Hydro pumped storage,Hydro pumped storage,0.18
+Slovenie,2022,Hydro pumped storage,Hydro pumped storage,0.18
+Slovenie,2023,Hydro pumped storage,Hydro pumped storage,0.18
+Slovenie,2024,Hydro pumped storage,Hydro pumped storage,0.18
+Slovenie,2025,Hydro pumped storage,Hydro pumped storage,0.18
+Slovenie,2014,Marine,Marine,0.0
+Slovenie,2015,Marine,Marine,0.0
+Slovenie,2016,Marine,Marine,0.0
+Slovenie,2017,Marine,Marine,0.0
+Slovenie,2018,Marine,Marine,0.0
+Slovenie,2020,Marine,Marine,0.0
+Slovenie,2021,Marine,Marine,0.0
+Slovenie,2014,Others,Others,0.0
+Slovenie,2015,Others,Others,0.0
+Slovenie,2016,Others,Others,0.0
+Slovenie,2017,Others,Others,0.0
+Slovenie,2018,Others,Others,0.0
+Slovenie,2020,Others,Others,0.0
+Slovenie,2021,Others,Others,0.0
+Slovenie,2014,other_renewable,Other renewables,0.0
+Slovenie,2015,other_renewable,Other renewables,0.0
+Slovenie,2016,other_renewable,Other renewables,0.0
+Slovenie,2017,other_renewable,Other renewables,0.0
+Slovenie,2018,other_renewable,Other renewables,0.0
+Slovenie,2020,other_renewable,Other renewables,0.0
+Slovenie,2021,other_renewable,Other renewables,0.0
+Slovenie,2014,waste,Waste,0.04
+Slovenie,2015,waste,Waste,0.04
+Slovenie,2016,waste,Waste,0.04
+Slovenie,2017,waste,Waste,0.04
+Slovenie,2018,waste,Waste,0.04
+Slovenie,2019,waste,Waste,0.04
+Slovenie,2020,waste,Waste,0.0
+Slovenie,2021,waste,Waste,0.0
+Slovenie,2022,waste,Waste,0.03
+Slovenie,2023,waste,Waste,0.01
+Slovenie,2024,waste,Waste,0.01
+Slovenie,2025,waste,Waste,0.01
+Slovenie,2014,wind,Wind offshore,0.0
+Slovenie,2015,wind,Wind offshore,0.0
+Slovenie,2016,wind,Wind offshore,0.0
+Slovenie,2017,wind,Wind offshore,0.0
+Slovenie,2018,wind,Wind offshore,0.0
+Slovenie,2020,wind,Wind offshore,0.0
+Slovenie,2021,wind,Wind offshore,0.0
+Slovenie,2014,wind,Wind onshore,0.0
+Slovenie,2015,wind,Wind onshore,0.0
+Slovenie,2016,wind,Wind onshore,0.0
+Slovenie,2017,wind,Wind onshore,0.0
+Slovenie,2018,wind,Wind onshore,0.0
+Slovenie,2019,wind,Wind onshore,0.0
+Slovenie,2020,wind,Wind onshore,0.0
+Slovenie,2021,wind,Wind onshore,0.0
+Slovenie,2022,wind,Wind onshore,0.0
+Slovenie,2023,wind,Wind onshore,0.0
+Slovenie,2024,wind,Wind onshore,0.0
+Slovenie,2025,wind,Wind onshore,0.0
+Slovenie,2014,solar,Solar AC,0.26
+Slovenie,2015,solar,Solar AC,0.26
+Slovenie,2016,solar,Solar AC,0.27
+Slovenie,2017,solar,Solar AC,0.28
+Slovenie,2018,solar,Solar AC,0.28
+Slovenie,2019,solar,Solar AC,0.28
+Slovenie,2020,solar,Solar AC,0.46
+Slovenie,2021,solar,Solar AC,0.46
+Slovenie,2022,solar,Solar AC,0.7
+Slovenie,2023,solar,Solar AC,1.11
+Slovenie,2024,solar,Solar AC,1.41
+Slovenie,2025,solar,Solar AC,1.58

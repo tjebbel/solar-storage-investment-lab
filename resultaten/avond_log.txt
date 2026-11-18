@@ -1,0 +1,97 @@
+=== Start Sun Nov 15 17:37:32 CET 2026 ===
+== NL 2019
+Solar IRR -3.4% | capture rate 0.942 | portfolio IRR -6.8% | source live 2019 -> reports/live_2019/results.md
+   klaar
+== NL 2020
+Solar IRR -14.1% | capture rate 0.788 | portfolio IRR -16.1% | source live 2020 -> reports/live_2020/results.md
+   klaar
+== NL 2021
+Solar IRR 7.5% | capture rate 0.767 | portfolio IRR 4.2% | source live 2021 -> reports/live_2021/results.md
+   klaar
+== NL 2022
+Solar IRR 32.8% | capture rate 0.928 | portfolio IRR 25.1% | source live 2022 -> reports/live_2022/results.md
+   klaar
+== NL 2023
+Solar IRR 5.8% | capture rate 0.741 | portfolio IRR 4.1% | source live 2023 -> reports/live_2023/results.md
+   klaar
+== NL 2024
+Solar IRR -0.5% | capture rate 0.603 | portfolio IRR -0.1% | source live 2024 -> reports/live_2024/results.md
+   klaar
+== NL 2025
+Solar IRR 1.5% | capture rate 0.616 | portfolio IRR 1.9% | source live 2025 -> reports/live_2025/results.md
+   klaar
+== NL 2026
+Traceback (most recent call last):
+  File "<frozen runpy>", line 198, in _run_module_as_main
+  File "<frozen runpy>", line 88, in _run_code
+  File "/Users/tjebbelodeizen/Desktop/tjebbel/set_up/energy_dashboard/solar-storage-investment-lab/src/eti/__main__.py", line 24, in <module>
+    sys.exit(main())
+             ~~~~^^
+  File "/Users/tjebbelodeizen/Desktop/tjebbel/set_up/energy_dashboard/solar-storage-investment-lab/src/eti/__main__.py", line 17, in main
+    res = run(args.db, args.out, source=args.source, year=args.year, figures=not args.no_figures)
+  File "/Users/tjebbelodeizen/Desktop/tjebbel/set_up/energy_dashboard/solar-storage-investment-lab/src/eti/pipeline.py", line 160, in run
+    res = analyse(db, a)
+  File "/Users/tjebbelodeizen/Desktop/tjebbel/set_up/energy_dashboard/solar-storage-investment-lab/src/eti/pipeline.py", line 32, in analyse
+    monthly_cr = {k: (v[0] / v[1]) / (v[2] / v[3]) for k, v in sorted(by_month.items())}
+                      ~~~~~^~~~~~
+ZeroDivisionError: float division by zero
+   MISLUKT
+== Investeringsresultaten NL per jaar
+  -> fact_nl_jaar.csv: 7 rijen
+== NL uurdata alle jaren
+  -> fact_nl_uur_alle_jaren.csv: 69179 rijen
+== Our World in Data
+  -> fact_owid_energie.csv: 416 rijen
+== Landenvergelijking Energy-Charts
+  Nederland 2019: capture zon 0.942, neg 3
+  Nederland 2020: capture zon 0.788, neg 97
+  Nederland 2021: capture zon 0.767, neg 70
+  Nederland 2022: capture zon 0.928, neg 92
+  Nederland 2023: capture zon 0.741, neg 321
+  Nederland 2024: capture zon 0.603, neg 458
+  Nederland 2025: capture zon 0.616, neg 584
+  Nederland 2026 OVERGESLAGEN: mean requires at least one data point
+  Duitsland 2019: capture zon 0.928, neg 211
+  Duitsland 2020: capture zon 0.805, neg 298
+  Duitsland 2021: capture zon 0.785, neg 139
+  Duitsland 2022: capture zon 0.94, neg 83
+  Duitsland 2023: capture zon 0.76, neg 306
+  Duitsland 2024: capture zon 0.593, neg 471
+  Duitsland 2025: capture zon 0.517, neg 575
+  Duitsland 2026 OVERGESLAGEN: mean requires at least one data point
+  Belgie 2019 OVERGESLAGEN: IncompleteRead(71974 bytes read, 13093 more expected)
+  Belgie 2020 OVERGESLAGEN: IncompleteRead(73564 bytes read, 11674 more expected)
+  Belgie 2021 OVERGESLAGEN: IncompleteRead(73420 bytes read, 4320 more expected)
+  Belgie 2022 OVERGESLAGEN: IncompleteRead(71974 bytes read, 6062 more expected)
+  Belgie 2023: capture zon 0.785, neg 227
+  Belgie 2024 OVERGESLAGEN: IncompleteRead(71974 bytes read, 12538 more expected)
+  Belgie 2025: capture zon 0.515, neg 519
+  Belgie 2026 OVERGESLAGEN: IncompleteRead(71974 bytes read, 13847 more expected)
+  Frankrijk 2019: capture zon 0.957, neg 27
+  Frankrijk 2020 OVERGESLAGEN: IncompleteRead(71974 bytes read, 15680 more expected)
+  Frankrijk 2021 OVERGESLAGEN: IncompleteRead(71974 bytes read, 12827 more expected)
+  Frankrijk 2022: capture zon 1.058, neg 12
+  Frankrijk 2023: capture zon 0.864, neg 152
+  Frankrijk 2024: capture zon 0.677, neg 352
+  Frankrijk 2025: capture zon 0.588, neg 509
+  Frankrijk 2026 OVERGESLAGEN: IncompleteRead(399654 bytes read, 11973 more expected)
+  Spanje 2019: capture zon 1.018, neg 0
+  Spanje 2020: capture zon 0.968, neg 0
+  Spanje 2021: capture zon 0.914, neg 0
+  Spanje 2022: capture zon 0.903, neg 0
+  Spanje 2023 OVERGESLAGEN: IncompleteRead(381452 bytes read, 16166 more expected)
+  Spanje 2024 OVERGESLAGEN: IncompleteRead(398334 bytes read, 657 more expected)
+  Spanje 2025: capture zon 0.553, neg 555
+  Spanje 2026 OVERGESLAGEN: mean requires at least one data point
+  Denemarken (West) 2019: capture zon 0.965, neg 132
+  Denemarken (West) 2020: capture zon 0.966, neg 192
+  Denemarken (West) 2021: capture zon 0.84, neg 87
+  Denemarken (West) 2022: capture zon 1.011, neg 39
+  Denemarken (West) 2023: capture zon 0.783, neg 285
+  Denemarken (West) 2024: capture zon 0.665, neg 375
+  Denemarken (West) 2025: capture zon 0.625, neg 441
+  Denemarken (West) 2026 OVERGESLAGEN: mean requires at least one data point
+  -> fact_land_jaar.csv: 37 rijen
+  -> fact_land_maand.csv: 440 rijen
+powerbi/data
+=== Alles klaar Sun Nov 15 19:18:52 CET 2026 ===

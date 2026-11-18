@@ -1,0 +1,12 @@
+SAMENVATTING
+Data: 296 zone-jaren, 37 biedzones, 2019 tot 2026; hele jaren tot en met 2025.
+
+1. De capture rate van zon daalde tussen 2019 en 2025 met gemiddeld 0,35 (95%-interval 0,31 tot 0,39).
+   Dat gebeurde in 37 van de 37 zones; toeval is vrijwel uitgesloten (p = 7.3e-12).
+2. Zon en opslag bewegen tegengesteld. In 2025 is de rangcorrelatie tussen de capture rate van zon en de batterij-omzet -0,40
+   over 37 zones (p = 0,014). In 37 van de 37 zones ging zon omlaag terwijl de batterij-omzet steeg.
+3. Een model op prijsniveau, opwekmix en jaar verklaart 82% van de batterij-omzet in zones die het niet zag
+   (gemiddelde fout 7.194 euro per MW). Belangrijkste kenmerken, met de toename van de fout als ze worden geschud: gem_prijs (0,85), jaar (0,27), aandeel_gas_pct (0,07).
+
+Mediaan batterij-omzet over alle hele jaren: 28.712 euro per MW; mediaan capture rate: 0,86.
+Beperkingen: zones bewegen samen, dus de onzekerheid is groter dan de toets aangeeft; de batterij-omzet is dagmarkthandel zonder netkosten.

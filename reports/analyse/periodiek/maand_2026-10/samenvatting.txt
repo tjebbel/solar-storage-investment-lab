@@ -1,0 +1,6 @@
+Rapport okt 2026 (vergelijking met okt 2025)
+Prijs: 172 euro per MWh (+109%)
+Capture rate zon: 0,78 (was 0,91); capture-prijs 134 euro tegenover kosten 64 euro
+Negatieve uren: 16 (was 46); zonopwek in negatieve uren: 2%
+Dagspreiding: 168 euro per MWh (was 109)
+Batterij 2 uur, dagmarkt: 5.814 euro per MW (nodig voor 8%: 7.124)

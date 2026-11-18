@@ -1,0 +1,40 @@
+// ===== Maten voor het Solar + Storage-dashboard (plak per maat in Power BI: Nieuwe meting) =====
+// Tabel fact_markt_uur
+Gem prijs = AVERAGE ( fact_markt_uur[prijs_eur_mwh] )
+Zon MWh = SUM ( fact_markt_uur[zon_nl_mw] )
+Capture price = DIVIDE ( SUMX ( fact_markt_uur, fact_markt_uur[prijs_eur_mwh] * fact_markt_uur[zon_nl_mw] ), [Zon MWh] )
+Capture rate = DIVIDE ( [Capture price], [Gem prijs] )
+Negatieve uren = CALCULATE ( COUNTROWS ( fact_markt_uur ), fact_markt_uur[prijs_eur_mwh] < 0 )
+Dagspreiding = AVERAGEX ( VALUES ( fact_markt_uur[datum] ),
+    CALCULATE ( MAX ( fact_markt_uur[prijs_eur_mwh] ) - MIN ( fact_markt_uur[prijs_eur_mwh] ) ) )
+Netintensiteit g/kWh = AVERAGE ( fact_markt_uur[netfactor_kg_mwh] )
+
+// Tabel fact_kpi (kies de KPI via een filter op de visual, of gebruik deze vaste maten)
+KPI = SUM ( fact_kpi[waarde] )
+IRR zon voor belasting = CALCULATE ( [KPI], fact_kpi[kpi] = "IRR voor belasting" )
+IRR zon na belasting = CALCULATE ( [KPI], fact_kpi[kpi] = "IRR na belasting" )
+LCOE zon = CALCULATE ( [KPI], fact_kpi[kpi] = "LCOE" )
+Kans onder hurdle = CALCULATE ( [KPI], fact_kpi[kpi] = "Kans onder hurdle" )
+Break-even capture = CALCULATE ( [KPI], fact_kpi[kpi] = "Break-even capture rate (8%)" )
+Marge capture = [Capture rate] - [Break-even capture]
+
+// Tabel fact_regio_jaar + dim_regio (relatie op regio)
+LCOE regio = AVERAGE ( fact_regio_jaar[lcoe_eur_mwh] )
+Impact per € mln = AVERAGE ( fact_regio_jaar[t_co2_per_meur_jaar] )
+Financieringsaandeel = AVERAGE ( fact_regio_jaar[financieringsaandeel] )
+Hedge-kosten = SELECTEDVALUE ( dim_regio[fx_kosten] )
+// What-if-parameter "CO2-prijs" (Modelleren > Nieuwe parameter, 0-200, stap 10) maakt [CO2-prijs Value]
+Impactwaarde € per € mln = [Impact per € mln] * [CO2-prijs Value]
+
+// --- Mondiale context (Ember) ---
+Paneelprijs mediaan = MEDIAN ( fact_ember_zon_import[Commodity price] )
+NTC NL 2024 = CALCULATE ( SUM ( fact_ntc[ntc_heen_mw] ) + SUM ( fact_ntc[ntc_terug_mw] ), fact_ntc[jaar] = 2024, fact_ntc[scenario] = "Reference", FILTER ( fact_ntc, fact_ntc[van] = "NL" || fact_ntc[naar] = "NL" ) )
+NTC NL 2040 Needs = CALCULATE ( SUM ( fact_ntc[ntc_heen_mw] ) + SUM ( fact_ntc[ntc_terug_mw] ), fact_ntc[jaar] = 2040, fact_ntc[scenario] = "Needs", FILTER ( fact_ntc, fact_ntc[van] = "NL" || fact_ntc[naar] = "NL" ) )
+Zonaandeel NL laatste jaar =
+VAR j = CALCULATE ( MAX ( fact_ember_opwek_jaar[Year] ), fact_ember_opwek_jaar[ISO 3 code] = "NLD" )
+RETURN CALCULATE ( AVERAGE ( fact_ember_opwek_jaar[Share of generation (%)] ), fact_ember_opwek_jaar[ISO 3 code] = "NLD", fact_ember_opwek_jaar[Electricity source] = "Solar", fact_ember_opwek_jaar[Year] = j )
+
+// --- Herijking en batterij ---
+Batterij omzet per MW = AVERAGE ( fact_batterij_stapeling[omzet_per_mw] )
+Batterij cash yield = DIVIDE ( [Batterij omzet per MW] * 10 - 0.02 * 'Capex per MWh'[Capex per MWh Value] * 20, 'Capex per MWh'[Capex per MWh Value] * 20 )
+IRR zon herijkt = AVERAGE ( fact_herijking[irr_voor_belasting] )

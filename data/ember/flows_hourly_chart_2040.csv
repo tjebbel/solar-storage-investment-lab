@@ -1,0 +1,5521 @@
+Country From,Hour,Country To,Flow
+Albania,1,GR,16.38
+Albania,2,GR,17.79
+Albania,3,GR,18.77
+Albania,4,GR,19.03
+Albania,5,GR,18.39
+Albania,6,GR,15.02
+Albania,7,GR,10.69
+Albania,8,GR,7.01
+Albania,9,GR,9.23
+Albania,10,GR,12.4
+Albania,11,GR,14.46
+Albania,12,GR,15.04
+Albania,13,GR,14.29
+Albania,14,GR,12.04
+Albania,15,GR,12.36
+Albania,16,GR,14.58
+Albania,17,GR,11.48
+Albania,18,GR,5.74
+Albania,19,GR,3.54
+Albania,20,GR,2.67
+Albania,21,GR,4.58
+Albania,22,GR,8.07
+Albania,23,GR,11.76
+Albania,24,GR,15.22
+Albania,1,ME,6.92528228
+Albania,2,ME,6.713949725
+Albania,3,ME,6.738435989
+Albania,4,ME,6.38046511
+Albania,5,ME,6.395225275
+Albania,6,ME,7.12158489
+Albania,7,ME,5.675551236
+Albania,8,ME,1.922630082
+Albania,9,ME,-3.447096841
+Albania,10,ME,-6.341771291
+Albania,11,ME,-8.505826236
+Albania,12,ME,-8.785496154
+Albania,13,ME,-7.872989698
+Albania,14,ME,-6.547757967
+Albania,15,ME,-5.319952885
+Albania,16,ME,-5.264638049
+Albania,17,ME,-0.745250412
+Albania,18,ME,0.856335714
+Albania,19,ME,1.076725687
+Albania,20,ME,1.280259753
+Albania,21,ME,2.408067033
+Albania,22,ME,4.058510989
+Albania,23,ME,6.280367995
+Albania,24,ME,7.19358283
+Albania,1,MK,21.14288407
+Albania,2,MK,20.90304313
+Albania,3,MK,20.32274478
+Albania,4,MK,19.53680673
+Albania,5,MK,17.88582981
+Albania,6,MK,15.21828805
+Albania,7,MK,11.72498352
+Albania,8,MK,7.794954533
+Albania,9,MK,7.863587912
+Albania,10,MK,8.427030769
+Albania,11,MK,9.671334341
+Albania,12,MK,10.58638269
+Albania,13,MK,10.96479423
+Albania,14,MK,12.05787005
+Albania,15,MK,14.38746676
+Albania,16,MK,15.23106264
+Albania,17,MK,15.94551016
+Albania,18,MK,14.47095948
+Albania,19,MK,13.04029093
+Albania,20,MK,12.93311978
+Albania,21,MK,13.96331937
+Albania,22,MK,16.4293897
+Albania,23,MK,18.36209396
+Albania,24,MK,20.0413408
+Albania,1,XK,7.222964835
+Albania,2,XK,6.836292445
+Albania,3,XK,6.464290797
+Albania,4,XK,6.682258104
+Albania,5,XK,7.526875962
+Albania,6,XK,7.459286676
+Albania,7,XK,5.738959203
+Albania,8,XK,3.698459066
+Albania,9,XK,0.809528571
+Albania,10,XK,-1.236683104
+Albania,11,XK,-1.811292582
+Albania,12,XK,-1.809429945
+Albania,13,XK,-1.116004945
+Albania,14,XK,0.530612775
+Albania,15,XK,3.530563049
+Albania,16,XK,5.360874313
+Albania,17,XK,8.234018544
+Albania,18,XK,9.410758516
+Albania,19,XK,9.436981044
+Albania,20,XK,9.462742033
+Albania,21,XK,9.60153956
+Albania,22,XK,9.619333654
+Albania,23,XK,9.194681456
+Albania,24,XK,8.319206868
+Algeria,1,IT,0
+Algeria,2,IT,0
+Algeria,3,IT,0
+Algeria,4,IT,0
+Algeria,5,IT,0
+Algeria,6,IT,0
+Algeria,7,IT,0
+Algeria,8,IT,0
+Algeria,9,IT,0
+Algeria,10,IT,0
+Algeria,11,IT,0
+Algeria,12,IT,0
+Algeria,13,IT,0
+Algeria,14,IT,0
+Algeria,15,IT,0
+Algeria,16,IT,0
+Algeria,17,IT,0
+Algeria,18,IT,0
+Algeria,19,IT,0
+Algeria,20,IT,0
+Algeria,21,IT,0
+Algeria,22,IT,0
+Algeria,23,IT,0
+Algeria,24,IT,0
+Algeria,1,MA,-49.33294637
+Algeria,2,MA,-52.60723055
+Algeria,3,MA,-52.79752088
+Algeria,4,MA,-52.50450044
+Algeria,5,MA,-50.20234747
+Algeria,6,MA,-43.30480308
+Algeria,7,MA,-35.26867824
+Algeria,8,MA,-32.87878088
+Algeria,9,MA,-42.60636901
+Algeria,10,MA,-51.72299736
+Algeria,11,MA,-45.85373121
+Algeria,12,MA,-38.36399143
+Algeria,13,MA,-39.16811846
+Algeria,14,MA,-40.82901495
+Algeria,15,MA,-45.38449912
+Algeria,16,MA,-49.25440791
+Algeria,17,MA,-37.31247077
+Algeria,18,MA,-13.7278378
+Algeria,19,MA,7.953869011
+Algeria,20,MA,17.00118396
+Algeria,21,MA,3.713703736
+Algeria,22,MA,-16.49840659
+Algeria,23,MA,-27.95787319
+Algeria,24,MA,-38.77353802
+Algeria,1,TN,16.94157714
+Algeria,2,TN,16.32804857
+Algeria,3,TN,16.16121736
+Algeria,4,TN,16.03100945
+Algeria,5,TN,16.17794901
+Algeria,6,TN,17.29675736
+Algeria,7,TN,18.45310769
+Algeria,8,TN,18.11332813
+Algeria,9,TN,17.02391582
+Algeria,10,TN,15.84262396
+Algeria,11,TN,15.85700901
+Algeria,12,TN,15.73166396
+Algeria,13,TN,15.35699495
+Algeria,14,TN,15.13364154
+Algeria,15,TN,15.59325758
+Algeria,16,TN,17.39882022
+Algeria,17,TN,18.58753165
+Algeria,18,TN,19.57785626
+Algeria,19,TN,19.8766156
+Algeria,20,TN,18.4523567
+Algeria,21,TN,16.72129143
+Algeria,22,TN,16.5181589
+Algeria,23,TN,17.07096791
+Algeria,24,TN,17.63293714
+Austria,1,CH,0
+Austria,2,CH,-0.31
+Austria,3,CH,-0.46
+Austria,4,CH,-1
+Austria,5,CH,-1.96
+Austria,6,CH,-2.64
+Austria,7,CH,-1.89
+Austria,8,CH,-0.53
+Austria,9,CH,-0.01
+Austria,10,CH,-0.48
+Austria,11,CH,-1.07
+Austria,12,CH,-1.35
+Austria,13,CH,-2.03
+Austria,14,CH,-2.71
+Austria,15,CH,-3.39
+Austria,16,CH,-4
+Austria,17,CH,-3.33
+Austria,18,CH,-2.49
+Austria,19,CH,-1.85
+Austria,20,CH,-1.34
+Austria,21,CH,-0.93
+Austria,22,CH,0
+Austria,23,CH,0.24
+Austria,24,CH,0.12
+Austria,1,CZ,3.738344336
+Austria,2,CZ,3.865865348
+Austria,3,CZ,3.769449594
+Austria,4,CZ,4.044877708
+Austria,5,CZ,4.422074036
+Austria,6,CZ,5.109588442
+Austria,7,CZ,4.916523837
+Austria,8,CZ,4.75143605
+Austria,9,CZ,4.612504331
+Austria,10,CZ,4.355190012
+Austria,11,CZ,4.499717277
+Austria,12,CZ,4.954591579
+Austria,13,CZ,4.754517688
+Austria,14,CZ,4.69892262
+Austria,15,CZ,5.301686782
+Austria,16,CZ,6.011079956
+Austria,17,CZ,6.269836598
+Austria,18,CZ,6.252341532
+Austria,19,CZ,6.368105362
+Austria,20,CZ,6.413589356
+Austria,21,CZ,5.994725109
+Austria,22,CZ,5.333409647
+Austria,23,CZ,4.439359521
+Austria,24,CZ,4.068763851
+Austria,1,DE,-18.73985145
+Austria,2,DE,-18.39538536
+Austria,3,DE,-18.3404927
+Austria,4,DE,-18.72285448
+Austria,5,DE,-21.06916741
+Austria,6,DE,-23.90121731
+Austria,7,DE,-26.158022
+Austria,8,DE,-29.0005636
+Austria,9,DE,-27.98915513
+Austria,10,DE,-18.90630856
+Austria,11,DE,-14.7330569
+Austria,12,DE,-13.84397063
+Austria,13,DE,-14.87057762
+Austria,14,DE,-18.30607528
+Austria,15,DE,-25.06410027
+Austria,16,DE,-33.41808349
+Austria,17,DE,-30.44714709
+Austria,18,DE,-20.69365332
+Austria,19,DE,-16.76925611
+Austria,20,DE,-15.07946775
+Austria,21,DE,-14.17892667
+Austria,22,DE,-13.34657517
+Austria,23,DE,-13.12748863
+Austria,24,DE,-11.882697
+Austria,1,HU,2.288003698
+Austria,2,HU,2.092959908
+Austria,3,HU,1.931647417
+Austria,4,HU,1.972843474
+Austria,5,HU,2.153503625
+Austria,6,HU,1.931583269
+Austria,7,HU,1.579155093
+Austria,8,HU,1.151095079
+Austria,9,HU,1.650393215
+Austria,10,HU,1.108787553
+Austria,11,HU,1.385202788
+Austria,12,HU,1.693343443
+Austria,13,HU,1.769273043
+Austria,14,HU,2.227761794
+Austria,15,HU,3.056474833
+Austria,16,HU,3.805177133
+Austria,17,HU,3.726481398
+Austria,18,HU,3.39595326
+Austria,19,HU,3.419541515
+Austria,20,HU,3.483231455
+Austria,21,HU,3.17968377
+Austria,22,HU,2.665809427
+Austria,23,HU,2.15334739
+Austria,24,HU,1.971499616
+Austria,1,IT,4.741660649
+Austria,2,IT,4.262808762
+Austria,3,IT,3.648604022
+Austria,4,IT,3.43620688
+Austria,5,IT,3.141407694
+Austria,6,IT,2.760790232
+Austria,7,IT,4.037846549
+Austria,8,IT,4.109210328
+Austria,9,IT,4.221328943
+Austria,10,IT,3.830871622
+Austria,11,IT,2.931993623
+Austria,12,IT,2.278974283
+Austria,13,IT,2.424231102
+Austria,14,IT,2.612277924
+Austria,15,IT,2.321093272
+Austria,16,IT,2.11786809
+Austria,17,IT,3.491523692
+Austria,18,IT,3.901597561
+Austria,19,IT,3.65335761
+Austria,20,IT,3.913059868
+Austria,21,IT,4.255043831
+Austria,22,IT,4.600027795
+Austria,23,IT,4.711663682
+Austria,24,IT,4.416662062
+Austria,1,SI,5.713820478
+Austria,2,SI,5.420561727
+Austria,3,SI,5.224436403
+Austria,4,SI,5.034649183
+Austria,5,SI,5.002813145
+Austria,6,SI,4.452987702
+Austria,7,SI,4.255022061
+Austria,8,SI,4.150211242
+Austria,9,SI,5.036449698
+Austria,10,SI,4.309173747
+Austria,11,SI,4.461227217
+Austria,12,SI,5.060321403
+Austria,13,SI,4.823054343
+Austria,14,SI,4.871349529
+Austria,15,SI,5.488197781
+Austria,16,SI,6.433631837
+Austria,17,SI,6.363390723
+Austria,18,SI,5.75966281
+Austria,19,SI,5.66071466
+Austria,20,SI,5.937995741
+Austria,21,SI,5.784408338
+Austria,22,SI,5.399172771
+Austria,23,SI,5.177408629
+Austria,24,SI,4.83606045
+Austria,1,SK,0
+Austria,2,SK,0
+Austria,3,SK,0
+Austria,4,SK,0
+Austria,5,SK,0
+Austria,6,SK,0
+Austria,7,SK,0
+Austria,8,SK,0
+Austria,9,SK,0
+Austria,10,SK,0
+Austria,11,SK,0
+Austria,12,SK,0
+Austria,13,SK,0
+Austria,14,SK,0
+Austria,15,SK,0
+Austria,16,SK,0
+Austria,17,SK,0
+Austria,18,SK,0
+Austria,19,SK,0
+Austria,20,SK,0
+Austria,21,SK,0
+Austria,22,SK,0
+Austria,23,SK,0
+Austria,24,SK,0
+Baltic Hub,1,DE,0
+Baltic Hub,2,DE,0
+Baltic Hub,3,DE,0
+Baltic Hub,4,DE,0
+Baltic Hub,5,DE,0
+Baltic Hub,6,DE,0
+Baltic Hub,7,DE,0
+Baltic Hub,8,DE,0
+Baltic Hub,9,DE,0
+Baltic Hub,10,DE,0
+Baltic Hub,11,DE,0
+Baltic Hub,12,DE,0
+Baltic Hub,13,DE,0
+Baltic Hub,14,DE,0
+Baltic Hub,15,DE,0
+Baltic Hub,16,DE,0
+Baltic Hub,17,DE,0
+Baltic Hub,18,DE,0
+Baltic Hub,19,DE,0
+Baltic Hub,20,DE,0
+Baltic Hub,21,DE,0
+Baltic Hub,22,DE,0
+Baltic Hub,23,DE,0
+Baltic Hub,24,DE,0
+Baltic Hub,1,EE,22.91608626
+Baltic Hub,2,EE,22.73311618
+Baltic Hub,3,EE,22.54562503
+Baltic Hub,4,EE,22.58304286
+Baltic Hub,5,EE,22.87122033
+Baltic Hub,6,EE,23.37863614
+Baltic Hub,7,EE,22.95657302
+Baltic Hub,8,EE,21.74229078
+Baltic Hub,9,EE,20.5299384
+Baltic Hub,10,EE,19.21971093
+Baltic Hub,11,EE,19.96637082
+Baltic Hub,12,EE,19.69941508
+Baltic Hub,13,EE,20.10547656
+Baltic Hub,14,EE,20.94250525
+Baltic Hub,15,EE,22.06286404
+Baltic Hub,16,EE,23.66425647
+Baltic Hub,17,EE,25.07024737
+Baltic Hub,18,EE,26.52675891
+Baltic Hub,19,EE,26.60120812
+Baltic Hub,20,EE,26.40086728
+Baltic Hub,21,EE,25.29882076
+Baltic Hub,22,EE,24.447058
+Baltic Hub,23,EE,24.29194054
+Baltic Hub,24,EE,23.86631129
+Baltic Hub,1,LV,3.453966789
+Baltic Hub,2,LV,3.263531868
+Baltic Hub,3,LV,2.998612149
+Baltic Hub,4,LV,2.989385775
+Baltic Hub,5,LV,2.867637546
+Baltic Hub,6,LV,2.835604579
+Baltic Hub,7,LV,3.365433394
+Baltic Hub,8,LV,3.976434737
+Baltic Hub,9,LV,4.112921062
+Baltic Hub,10,LV,4.713337485
+Baltic Hub,11,LV,5.00958486
+Baltic Hub,12,LV,5.191780037
+Baltic Hub,13,LV,5.231907998
+Baltic Hub,14,LV,5.209817216
+Baltic Hub,15,LV,5.381157753
+Baltic Hub,16,LV,5.42056105
+Baltic Hub,17,LV,5.393008425
+Baltic Hub,18,LV,4.936449634
+Baltic Hub,19,LV,4.784610806
+Baltic Hub,20,LV,4.688747436
+Baltic Hub,21,LV,4.63596221
+Baltic Hub,22,LV,4.211122222
+Baltic Hub,23,LV,4.07990757
+Baltic Hub,24,LV,3.718139805
+Belgium,1,DE,-0.312024589
+Belgium,2,DE,-0.022767659
+Belgium,3,DE,0.100964937
+Belgium,4,DE,0.401266307
+Belgium,5,DE,0.667706529
+Belgium,6,DE,0.335219223
+Belgium,7,DE,-0.617348739
+Belgium,8,DE,-1.359620599
+Belgium,9,DE,-1.262992977
+Belgium,10,DE,0.348245822
+Belgium,11,DE,0.607683965
+Belgium,12,DE,0.930607668
+Belgium,13,DE,0.923453088
+Belgium,14,DE,0.90563408
+Belgium,15,DE,0.753985782
+Belgium,16,DE,0.221670053
+Belgium,17,DE,-0.633381692
+Belgium,18,DE,-0.670369495
+Belgium,19,DE,-0.858391868
+Belgium,20,DE,-1.002047404
+Belgium,21,DE,-0.829442621
+Belgium,22,DE,-0.820504232
+Belgium,23,DE,-0.63611048
+Belgium,24,DE,-0.025987932
+Belgium,1,FR,-6.866742384
+Belgium,2,FR,-7.779357272
+Belgium,3,FR,-7.450580968
+Belgium,4,FR,-9.265557254
+Belgium,5,FR,-12.79399758
+Belgium,6,FR,-10.68774896
+Belgium,7,FR,-5.681984908
+Belgium,8,FR,-3.378208388
+Belgium,9,FR,-3.262048142
+Belgium,10,FR,-5.054091375
+Belgium,11,FR,-5.875264477
+Belgium,12,FR,-6.684362163
+Belgium,13,FR,-8.128905989
+Belgium,14,FR,-7.747937852
+Belgium,15,FR,-8.475345492
+Belgium,16,FR,-9.26011728
+Belgium,17,FR,-9.187579037
+Belgium,18,FR,-12.19683816
+Belgium,19,FR,-13.53595931
+Belgium,20,FR,-13.71261268
+Belgium,21,FR,-12.81305297
+Belgium,22,FR,-9.834336182
+Belgium,23,FR,-8.455464264
+Belgium,24,FR,-8.821765991
+Belgium,1,LU,0.80710021
+Belgium,2,LU,0.889582572
+Belgium,3,LU,0.916852328
+Belgium,4,LU,0.985670344
+Belgium,5,LU,1.078953527
+Belgium,6,LU,1.007421286
+Belgium,7,LU,0.709672847
+Belgium,8,LU,0.507511021
+Belgium,9,LU,0.415219564
+Belgium,10,LU,0.586744973
+Belgium,11,LU,0.643240428
+Belgium,12,LU,0.660709162
+Belgium,13,LU,0.704792823
+Belgium,14,LU,0.712059379
+Belgium,15,LU,0.752143127
+Belgium,16,LU,0.70816486
+Belgium,17,LU,0.63086026
+Belgium,18,LU,0.670231431
+Belgium,19,LU,0.652721812
+Belgium,20,LU,0.654857441
+Belgium,21,LU,0.70501192
+Belgium,22,LU,0.658154738
+Belgium,23,LU,0.713988605
+Belgium,24,LU,0.882724671
+Belgium,1,NL,-3.6726712
+Belgium,2,NL,-2.717342339
+Belgium,3,NL,-2.233029188
+Belgium,4,NL,-1.290330048
+Belgium,5,NL,-0.411283064
+Belgium,6,NL,-3.198523442
+Belgium,7,NL,-6.732936288
+Belgium,8,NL,-9.803977871
+Belgium,9,NL,-7.356040666
+Belgium,10,NL,-3.717123745
+Belgium,11,NL,-2.79100949
+Belgium,12,NL,0.423557207
+Belgium,13,NL,1.010137255
+Belgium,14,NL,0.74396489
+Belgium,15,NL,-1.619751507
+Belgium,16,NL,-4.168819544
+Belgium,17,NL,-9.702090339
+Belgium,18,NL,-10.05492035
+Belgium,19,NL,-11.83615708
+Belgium,20,NL,-10.90433269
+Belgium,21,NL,-9.570989676
+Belgium,22,NL,-10.21821439
+Belgium,23,NL,-9.09161144
+Belgium,24,NL,-6.56776196
+Belgium,1,NW,-21.2632037
+Belgium,2,NW,-21.08570264
+Belgium,3,NW,-20.96657983
+Belgium,4,NW,-20.85075505
+Belgium,5,NW,-20.70645585
+Belgium,6,NW,-19.95191412
+Belgium,7,NW,-18.93191689
+Belgium,8,NW,-15.70719696
+Belgium,9,NW,-12.5071848
+Belgium,10,NW,-10.48149139
+Belgium,11,NW,-9.622610609
+Belgium,12,NW,-9.39790887
+Belgium,13,NW,-9.204255545
+Belgium,14,NW,-9.549959456
+Belgium,15,NW,-10.34639632
+Belgium,16,NW,-12.93970483
+Belgium,17,NW,-17.14296639
+Belgium,18,NW,-19.00190997
+Belgium,19,NW,-19.1129545
+Belgium,20,NW,-19.03862765
+Belgium,21,NW,-18.98810745
+Belgium,22,NW,-19.39649542
+Belgium,23,NW,-20.02577894
+Belgium,24,NW,-20.40740622
+Belgium,1,UK,-6.124412056
+Belgium,2,UK,-6.122185522
+Belgium,3,UK,-6.095597797
+Belgium,4,UK,-6.074355151
+Belgium,5,UK,-5.963577416
+Belgium,6,UK,-5.813303374
+Belgium,7,UK,-4.961702506
+Belgium,8,UK,-3.674870548
+Belgium,9,UK,-2.545629549
+Belgium,10,UK,-1.639054283
+Belgium,11,UK,-1.439380124
+Belgium,12,UK,-1.42330848
+Belgium,13,UK,-1.255341986
+Belgium,14,UK,-1.351438838
+Belgium,15,UK,-1.781910923
+Belgium,16,UK,-2.711327401
+Belgium,17,UK,-4.330694616
+Belgium,18,UK,-5.141741161
+Belgium,19,UK,-5.192333223
+Belgium,20,UK,-5.178414073
+Belgium,21,UK,-5.100130872
+Belgium,22,UK,-5.216827319
+Belgium,23,UK,-5.509978515
+Belgium,24,UK,-5.710207069
+Bosnia and Herzegovina,1,HR,8.79
+Bosnia and Herzegovina,2,HR,10.59
+Bosnia and Herzegovina,3,HR,12.41
+Bosnia and Herzegovina,4,HR,13.02
+Bosnia and Herzegovina,5,HR,14.06
+Bosnia and Herzegovina,6,HR,17.33
+Bosnia and Herzegovina,7,HR,15.6
+Bosnia and Herzegovina,8,HR,12.62
+Bosnia and Herzegovina,9,HR,7.45
+Bosnia and Herzegovina,10,HR,5.09
+Bosnia and Herzegovina,11,HR,5.38
+Bosnia and Herzegovina,12,HR,4.6
+Bosnia and Herzegovina,13,HR,3.84
+Bosnia and Herzegovina,14,HR,3.08
+Bosnia and Herzegovina,15,HR,3.3
+Bosnia and Herzegovina,16,HR,4.36
+Bosnia and Herzegovina,17,HR,7.29
+Bosnia and Herzegovina,18,HR,10.49
+Bosnia and Herzegovina,19,HR,9.79
+Bosnia and Herzegovina,20,HR,8.6
+Bosnia and Herzegovina,21,HR,7.96
+Bosnia and Herzegovina,22,HR,7.9
+Bosnia and Herzegovina,23,HR,8.45
+Bosnia and Herzegovina,24,HR,9.04
+Bosnia and Herzegovina,1,ME,-4.820464125
+Bosnia and Herzegovina,2,ME,-4.906385051
+Bosnia and Herzegovina,3,ME,-5.203464566
+Bosnia and Herzegovina,4,ME,-5.584049304
+Bosnia and Herzegovina,5,ME,-5.947296521
+Bosnia and Herzegovina,6,ME,-5.939424643
+Bosnia and Herzegovina,7,ME,-5.736265973
+Bosnia and Herzegovina,8,ME,-7.123720708
+Bosnia and Herzegovina,9,ME,-6.437130866
+Bosnia and Herzegovina,10,ME,-6.138446102
+Bosnia and Herzegovina,11,ME,-6.90165387
+Bosnia and Herzegovina,12,ME,-7.206058274
+Bosnia and Herzegovina,13,ME,-6.752428455
+Bosnia and Herzegovina,14,ME,-6.912661972
+Bosnia and Herzegovina,15,ME,-8.368165351
+Bosnia and Herzegovina,16,ME,-8.724774865
+Bosnia and Herzegovina,17,ME,-9.000880478
+Bosnia and Herzegovina,18,ME,-10.00641727
+Bosnia and Herzegovina,19,ME,-10.20970077
+Bosnia and Herzegovina,20,ME,-10.31250582
+Bosnia and Herzegovina,21,ME,-10.03927393
+Bosnia and Herzegovina,22,ME,-9.307600882
+Bosnia and Herzegovina,23,ME,-7.317570113
+Bosnia and Herzegovina,24,ME,-6.055043043
+Bosnia and Herzegovina,1,RS,2.66735788
+Bosnia and Herzegovina,2,RS,1.542330362
+Bosnia and Herzegovina,3,RS,-0.123056863
+Bosnia and Herzegovina,4,RS,-0.306658285
+Bosnia and Herzegovina,5,RS,-0.375062194
+Bosnia and Herzegovina,6,RS,-4.073271035
+Bosnia and Herzegovina,7,RS,-7.145386569
+Bosnia and Herzegovina,8,RS,-11.20355659
+Bosnia and Herzegovina,9,RS,-10.92017255
+Bosnia and Herzegovina,10,RS,-8.597231121
+Bosnia and Herzegovina,11,RS,-7.27365225
+Bosnia and Herzegovina,12,RS,-5.988087333
+Bosnia and Herzegovina,13,RS,-5.365720266
+Bosnia and Herzegovina,14,RS,-5.103843469
+Bosnia and Herzegovina,15,RS,-4.00296933
+Bosnia and Herzegovina,16,RS,0.416151892
+Bosnia and Herzegovina,17,RS,2.152829208
+Bosnia and Herzegovina,18,RS,0.849881131
+Bosnia and Herzegovina,19,RS,0.755826875
+Bosnia and Herzegovina,20,RS,0.359271456
+Bosnia and Herzegovina,21,RS,-0.028410277
+Bosnia and Herzegovina,22,RS,0.423412574
+Bosnia and Herzegovina,23,RS,1.132955698
+Bosnia and Herzegovina,24,RS,1.680974529
+Bulgaria,1,GR,-7.77
+Bulgaria,2,GR,-7.02
+Bulgaria,3,GR,-6.41
+Bulgaria,4,GR,-5.64
+Bulgaria,5,GR,-5.42
+Bulgaria,6,GR,-3.72
+Bulgaria,7,GR,0.4
+Bulgaria,8,GR,4.9
+Bulgaria,9,GR,8.65
+Bulgaria,10,GR,11.79
+Bulgaria,11,GR,12.85
+Bulgaria,12,GR,13.24
+Bulgaria,13,GR,12.03
+Bulgaria,14,GR,9.21
+Bulgaria,15,GR,5.42
+Bulgaria,16,GR,7.19
+Bulgaria,17,GR,1.82
+Bulgaria,18,GR,-3.66
+Bulgaria,19,GR,-5.08
+Bulgaria,20,GR,-5.23
+Bulgaria,21,GR,-6.69
+Bulgaria,22,GR,-10.21
+Bulgaria,23,GR,-9.16
+Bulgaria,24,GR,-8.56
+Bulgaria,1,MK,-1.255958682
+Bulgaria,2,MK,-1.360344041
+Bulgaria,3,MK,-1.51189429
+Bulgaria,4,MK,-1.82342305
+Bulgaria,5,MK,-1.91067897
+Bulgaria,6,MK,-1.277054954
+Bulgaria,7,MK,-0.003359219
+Bulgaria,8,MK,1.606821392
+Bulgaria,9,MK,2.168724069
+Bulgaria,10,MK,2.425250562
+Bulgaria,11,MK,2.648276892
+Bulgaria,12,MK,2.740920284
+Bulgaria,13,MK,2.771678726
+Bulgaria,14,MK,2.819041862
+Bulgaria,15,MK,2.090575608
+Bulgaria,16,MK,1.54836543
+Bulgaria,17,MK,0.869900899
+Bulgaria,18,MK,0.051368685
+Bulgaria,19,MK,-0.173794654
+Bulgaria,20,MK,-0.298525369
+Bulgaria,21,MK,-0.429225556
+Bulgaria,22,MK,-1.40438749
+Bulgaria,23,MK,-1.337216208
+Bulgaria,24,MK,-1.494255975
+Bulgaria,1,RO,-24.66054505
+Bulgaria,2,RO,-25.46016583
+Bulgaria,3,RO,-24.80525605
+Bulgaria,4,RO,-22.71856622
+Bulgaria,5,RO,-16.81388079
+Bulgaria,6,RO,-5.84235348
+Bulgaria,7,RO,0.494161635
+Bulgaria,8,RO,-1.956756428
+Bulgaria,9,RO,-10.4162277
+Bulgaria,10,RO,-17.49718864
+Bulgaria,11,RO,-19.17290638
+Bulgaria,12,RO,-19.62811718
+Bulgaria,13,RO,-18.54511139
+Bulgaria,14,RO,-12.7733613
+Bulgaria,15,RO,-7.111050257
+Bulgaria,16,RO,-3.770083188
+Bulgaria,17,RO,4.835244215
+Bulgaria,18,RO,13.28100025
+Bulgaria,19,RO,14.24310503
+Bulgaria,20,RO,11.67133405
+Bulgaria,21,RO,5.049201619
+Bulgaria,22,RO,-6.221176287
+Bulgaria,23,RO,-14.72481458
+Bulgaria,24,RO,-20.5284629
+Bulgaria,1,RS,-2.578879973
+Bulgaria,2,RS,-3.563930067
+Bulgaria,3,RS,-4.340989238
+Bulgaria,4,RS,-4.244511116
+Bulgaria,5,RS,-2.909140418
+Bulgaria,6,RS,1.029125775
+Bulgaria,7,RS,3.920087858
+Bulgaria,8,RS,5.792364813
+Bulgaria,9,RS,3.553290901
+Bulgaria,10,RS,1.315032097
+Bulgaria,11,RS,0.180223271
+Bulgaria,12,RS,-0.293598584
+Bulgaria,13,RS,0.179597251
+Bulgaria,14,RS,1.572794763
+Bulgaria,15,RS,3.301681627
+Bulgaria,16,RS,3.222140998
+Bulgaria,17,RS,5.431921218
+Bulgaria,18,RS,7.635467668
+Bulgaria,19,RS,8.534358657
+Bulgaria,20,RS,8.537793176
+Bulgaria,21,RS,7.479199987
+Bulgaria,22,RS,4.554212454
+Bulgaria,23,RS,1.784184302
+Bulgaria,24,RS,-0.802683468
+Bulgaria,1,TR,13.87108847
+Bulgaria,2,TR,13.00662392
+Bulgaria,3,TR,11.86575649
+Bulgaria,4,TR,10.87744904
+Bulgaria,5,TR,9.795904145
+Bulgaria,6,TR,8.94076574
+Bulgaria,7,TR,7.80416916
+Bulgaria,8,TR,10.87348792
+Bulgaria,9,TR,13.56957504
+Bulgaria,10,TR,14.44257643
+Bulgaria,11,TR,14.74747194
+Bulgaria,12,TR,14.82378486
+Bulgaria,13,TR,14.85148515
+Bulgaria,14,TR,14.85148515
+Bulgaria,15,TR,14.85148515
+Bulgaria,16,TR,14.640341
+Bulgaria,17,TR,14.01531553
+Bulgaria,18,TR,13.85933368
+Bulgaria,19,TR,13.94355311
+Bulgaria,20,TR,14.05464381
+Bulgaria,21,TR,14.13418235
+Bulgaria,22,TR,14.06166898
+Bulgaria,23,TR,14.24931835
+Bulgaria,24,TR,14.31933191
+Croatia,1,BA,-7.17
+Croatia,2,BA,-8.64
+Croatia,3,BA,-10.11
+Croatia,4,BA,-10.61
+Croatia,5,BA,-11.46
+Croatia,6,BA,-14.13
+Croatia,7,BA,-12.72
+Croatia,8,BA,-10.29
+Croatia,9,BA,-6.07
+Croatia,10,BA,-4.15
+Croatia,11,BA,-4.38
+Croatia,12,BA,-3.75
+Croatia,13,BA,-3.13
+Croatia,14,BA,-2.51
+Croatia,15,BA,-2.69
+Croatia,16,BA,-3.56
+Croatia,17,BA,-5.94
+Croatia,18,BA,-8.56
+Croatia,19,BA,-7.98
+Croatia,20,BA,-7.01
+Croatia,21,BA,-6.49
+Croatia,22,BA,-6.44
+Croatia,23,BA,-6.89
+Croatia,24,BA,-7.37
+Croatia,1,HU,0.94216726
+Croatia,2,HU,0.616508503
+Croatia,3,HU,0.362476747
+Croatia,4,HU,0.838539111
+Croatia,5,HU,3.241670213
+Croatia,6,HU,4.555768197
+Croatia,7,HU,0.879220216
+Croatia,8,HU,-3.271467418
+Croatia,9,HU,-6.906157396
+Croatia,10,HU,-8.884662196
+Croatia,11,HU,-9.541723346
+Croatia,12,HU,-8.800361173
+Croatia,13,HU,-7.565264488
+Croatia,14,HU,-5.084375919
+Croatia,15,HU,-0.787412549
+Croatia,16,HU,3.556365553
+Croatia,17,HU,7.981898042
+Croatia,18,HU,10.39214264
+Croatia,19,HU,10.24971342
+Croatia,20,HU,10.10257186
+Croatia,21,HU,9.053197792
+Croatia,22,HU,6.579238575
+Croatia,23,HU,4.573136926
+Croatia,24,HU,3.20148804
+Croatia,1,RS,-1.67680149
+Croatia,2,RS,-2.328297372
+Croatia,3,RS,-3.025178125
+Croatia,4,RS,-3.143345435
+Croatia,5,RS,-3.238539962
+Croatia,6,RS,-4.544189491
+Croatia,7,RS,-5.677483409
+Croatia,8,RS,-5.538249978
+Croatia,9,RS,-3.792017647
+Croatia,10,RS,-3.074423922
+Croatia,11,RS,-2.94758705
+Croatia,12,RS,-2.758732543
+Croatia,13,RS,-2.286364228
+Croatia,14,RS,-1.843833363
+Croatia,15,RS,-1.510225689
+Croatia,16,RS,-0.955546788
+Croatia,17,RS,-1.328770101
+Croatia,18,RS,-2.025659608
+Croatia,19,RS,-2.084897831
+Croatia,20,RS,-1.861800481
+Croatia,21,RS,-2.1881276
+Croatia,22,RS,-2.165927865
+Croatia,23,RS,-1.939992316
+Croatia,24,RS,-1.895940218
+Croatia,1,SI,5.888086808
+Croatia,2,SI,6.311437241
+Croatia,3,SI,6.907117263
+Croatia,4,SI,7.115442369
+Croatia,5,SI,7.676539349
+Croatia,6,SI,10.27140219
+Croatia,7,SI,9.78939496
+Croatia,8,SI,6.019882049
+Croatia,9,SI,-0.761573965
+Croatia,10,SI,-2.390264488
+Croatia,11,SI,-2.848492142
+Croatia,12,SI,-3.889292888
+Croatia,13,SI,-4.981358501
+Croatia,14,SI,-6.250315457
+Croatia,15,SI,-5.548231338
+Croatia,16,SI,-4.026839
+Croatia,17,SI,1.461554876
+Croatia,18,SI,4.831731286
+Croatia,19,SI,3.98625711
+Croatia,20,SI,2.98946007
+Croatia,21,SI,3.932797541
+Croatia,22,SI,6.532296908
+Croatia,23,SI,7.976927819
+Croatia,24,SI,8.064218477
+Cyprus,1,EG,0
+Cyprus,2,EG,0
+Cyprus,3,EG,0
+Cyprus,4,EG,0
+Cyprus,5,EG,0
+Cyprus,6,EG,0
+Cyprus,7,EG,0
+Cyprus,8,EG,0
+Cyprus,9,EG,0
+Cyprus,10,EG,0
+Cyprus,11,EG,0
+Cyprus,12,EG,0
+Cyprus,13,EG,0
+Cyprus,14,EG,0
+Cyprus,15,EG,0
+Cyprus,16,EG,0
+Cyprus,17,EG,0
+Cyprus,18,EG,0
+Cyprus,19,EG,0
+Cyprus,20,EG,0
+Cyprus,21,EG,0
+Cyprus,22,EG,0
+Cyprus,23,EG,0
+Cyprus,24,EG,0
+Cyprus,1,GR,-38.81
+Cyprus,2,GR,-39.36
+Cyprus,3,GR,-40.58
+Cyprus,4,GR,-43.89
+Cyprus,5,GR,-44.35
+Cyprus,6,GR,-38.33
+Cyprus,7,GR,-26.17
+Cyprus,8,GR,-21.83
+Cyprus,9,GR,-21.63
+Cyprus,10,GR,-18.03
+Cyprus,11,GR,-19.87
+Cyprus,12,GR,-25.8
+Cyprus,13,GR,-32.42
+Cyprus,14,GR,-37.91
+Cyprus,15,GR,-44.76
+Cyprus,16,GR,-46.76
+Cyprus,17,GR,-47.88
+Cyprus,18,GR,-47.43
+Cyprus,19,GR,-45.7
+Cyprus,20,GR,-44.68
+Cyprus,21,GR,-44.75
+Cyprus,22,GR,-43.37
+Cyprus,23,GR,-40.72
+Cyprus,24,GR,-38.9
+Cyprus,1,IL,28.70861415
+Cyprus,2,IL,29.35503475
+Cyprus,3,IL,30.70007321
+Cyprus,4,IL,35.57925907
+Cyprus,5,IL,36.30948723
+Cyprus,6,IL,32.00381195
+Cyprus,7,IL,26.76060398
+Cyprus,8,IL,26.03508613
+Cyprus,9,IL,17.56266003
+Cyprus,10,IL,13.96265302
+Cyprus,11,IL,16.8922375
+Cyprus,12,IL,23.96147775
+Cyprus,13,IL,36.33256332
+Cyprus,14,IL,43.13343929
+Cyprus,15,IL,41.49533091
+Cyprus,16,IL,38.61244973
+Cyprus,17,IL,46.80141332
+Cyprus,18,IL,45.4761478
+Cyprus,19,IL,42.44917308
+Cyprus,20,IL,39.31108956
+Cyprus,21,IL,32.90350412
+Cyprus,22,IL,28.24557376
+Cyprus,23,IL,25.51017363
+Cyprus,24,IL,24.11752376
+Czechia,1,AT,-7.72
+Czechia,2,AT,-7.99
+Czechia,3,AT,-7.79
+Czechia,4,AT,-8.36
+Czechia,5,AT,-9.14
+Czechia,6,AT,-10.56
+Czechia,7,AT,-10.16
+Czechia,8,AT,-9.82
+Czechia,9,AT,-9.53
+Czechia,10,AT,-9
+Czechia,11,AT,-9.3
+Czechia,12,AT,-10.24
+Czechia,13,AT,-9.82
+Czechia,14,AT,-9.71
+Czechia,15,AT,-10.96
+Czechia,16,AT,-12.42
+Czechia,17,AT,-12.96
+Czechia,18,AT,-12.92
+Czechia,19,AT,-13.16
+Czechia,20,AT,-13.25
+Czechia,21,AT,-12.39
+Czechia,22,AT,-11.02
+Czechia,23,AT,-9.17
+Czechia,24,AT,-8.41
+Czechia,1,DE,-28.03555958
+Czechia,2,DE,-27.91900206
+Czechia,3,DE,-27.58894669
+Czechia,4,DE,-28.25840659
+Czechia,5,DE,-30.5715519
+Czechia,6,DE,-33.33696034
+Czechia,7,DE,-33.35454451
+Czechia,8,DE,-32.97193836
+Czechia,9,DE,-32.46449386
+Czechia,10,DE,-28.58522695
+Czechia,11,DE,-27.02235169
+Czechia,12,DE,-27.70345446
+Czechia,13,DE,-27.03877528
+Czechia,14,DE,-28.68295664
+Czechia,15,DE,-31.94640646
+Czechia,16,DE,-35.55919188
+Czechia,17,DE,-35.49238698
+Czechia,18,DE,-34.26161951
+Czechia,19,DE,-33.51711066
+Czechia,20,DE,-32.90613702
+Czechia,21,DE,-31.63859401
+Czechia,22,DE,-29.95134242
+Czechia,23,DE,-27.78417591
+Czechia,24,DE,-25.57947038
+Czechia,1,PL,-4.545692909
+Czechia,2,PL,-4.137331173
+Czechia,3,PL,-4.108849116
+Czechia,4,PL,-4.652453898
+Czechia,5,PL,-5.481776914
+Czechia,6,PL,-5.044580829
+Czechia,7,PL,-4.331592248
+Czechia,8,PL,-2.344244377
+Czechia,9,PL,-1.473070012
+Czechia,10,PL,-0.809740943
+Czechia,11,PL,-0.392674837
+Czechia,12,PL,-0.478670287
+Czechia,13,PL,-0.238043999
+Czechia,14,PL,0.067155391
+Czechia,15,PL,-0.88385886
+Czechia,16,PL,-2.53150631
+Czechia,17,PL,-3.210804559
+Czechia,18,PL,-1.844720424
+Czechia,19,PL,-0.631629636
+Czechia,20,PL,-0.545307263
+Czechia,21,PL,-0.903984847
+Czechia,22,PL,-1.823331216
+Czechia,23,PL,-3.796498841
+Czechia,24,PL,-4.371473
+Czechia,1,SK,-2.776023266
+Czechia,2,SK,-3.061430288
+Czechia,3,SK,-3.459428915
+Czechia,4,SK,-4.038414663
+Czechia,5,SK,-7.789195055
+Czechia,6,SK,-11.1438811
+Czechia,7,SK,-11.84968935
+Czechia,8,SK,-9.323228365
+Czechia,9,SK,-4.36068544
+Czechia,10,SK,-1.84124824
+Czechia,11,SK,-1.338688444
+Czechia,12,SK,-1.161480039
+Czechia,13,SK,0.582101691
+Czechia,14,SK,0.984100318
+Czechia,15,SK,1.045857615
+Czechia,16,SK,0.282221583
+Czechia,17,SK,-4.980513307
+Czechia,18,SK,-7.715704842
+Czechia,19,SK,-7.617770175
+Czechia,20,SK,-7.59457336
+Czechia,21,SK,-7.446266956
+Czechia,22,SK,-4.90680164
+Czechia,23,SK,-3.898051726
+Czechia,24,SK,-4.896032538
+Denmark,1,DE,20.28191782
+Denmark,2,DE,20.32156183
+Denmark,3,DE,20.21551526
+Denmark,4,DE,19.91840757
+Denmark,5,DE,18.79980602
+Denmark,6,DE,16.14544243
+Denmark,7,DE,16.01192692
+Denmark,8,DE,14.08065249
+Denmark,9,DE,13.61615837
+Denmark,10,DE,15.77088175
+Denmark,11,DE,17.74774657
+Denmark,12,DE,18.56238764
+Denmark,13,DE,19.36344164
+Denmark,14,DE,18.24044576
+Denmark,15,DE,16.95103055
+Denmark,16,DE,15.80258726
+Denmark,17,DE,17.09579992
+Denmark,18,DE,17.91420698
+Denmark,19,DE,15.02506753
+Denmark,20,DE,14.41766482
+Denmark,21,DE,15.29035015
+Denmark,22,DE,16.68418091
+Denmark,23,DE,18.94400558
+Denmark,24,DE,19.83008445
+Denmark,1,NL,1.752384065
+Denmark,2,NL,1.768776718
+Denmark,3,NL,1.732701147
+Denmark,4,NL,1.554193549
+Denmark,5,NL,1.427685308
+Denmark,6,NL,1.116080846
+Denmark,7,NL,1.206781554
+Denmark,8,NL,1.246647238
+Denmark,9,NL,1.31090254
+Denmark,10,NL,0.978483019
+Denmark,11,NL,1.083611971
+Denmark,12,NL,1.268959192
+Denmark,13,NL,1.395673241
+Denmark,14,NL,1.195282807
+Denmark,15,NL,1.016497656
+Denmark,16,NL,1.007043119
+Denmark,17,NL,1.062172978
+Denmark,18,NL,1.220714627
+Denmark,19,NL,1.040903369
+Denmark,20,NL,1.017175745
+Denmark,21,NL,1.150684083
+Denmark,22,NL,1.127857146
+Denmark,23,NL,1.41295728
+Denmark,24,NL,1.475359329
+Denmark,1,NO,-6.747379803
+Denmark,2,NO,-6.654652954
+Denmark,3,NO,-6.637527007
+Denmark,4,NO,-6.560794016
+Denmark,5,NO,-6.701754155
+Denmark,6,NO,-7.194512769
+Denmark,7,NO,-7.067166639
+Denmark,8,NO,-5.551326478
+Denmark,9,NO,-4.072425867
+Denmark,10,NO,-3.204475352
+Denmark,11,NO,-2.612693723
+Denmark,12,NO,-2.482858829
+Denmark,13,NO,-2.590974971
+Denmark,14,NO,-2.971588494
+Denmark,15,NO,-3.333253141
+Denmark,16,NO,-4.301471604
+Denmark,17,NO,-6.321452457
+Denmark,18,NO,-7.84897087
+Denmark,19,NO,-8.503303462
+Denmark,20,NO,-8.364651944
+Denmark,21,NO,-8.301101604
+Denmark,22,NO,-8.079851826
+Denmark,23,NO,-7.966922149
+Denmark,24,NO,-7.677335654
+Denmark,1,NW,-7.803078659
+Denmark,2,NW,-7.906115985
+Denmark,3,NW,-7.676407222
+Denmark,4,NW,-7.741711254
+Denmark,5,NW,-7.687327708
+Denmark,6,NW,-7.632125197
+Denmark,7,NW,-6.951069004
+Denmark,8,NW,-5.536430151
+Denmark,9,NW,-4.371135723
+Denmark,10,NW,-4.07278484
+Denmark,11,NW,-3.701231915
+Denmark,12,NW,-3.434732766
+Denmark,13,NW,-3.43004908
+Denmark,14,NW,-3.688638855
+Denmark,15,NW,-4.161234551
+Denmark,16,NW,-4.652669283
+Denmark,17,NW,-6.046286007
+Denmark,18,NW,-7.257280851
+Denmark,19,NW,-7.698420334
+Denmark,20,NW,-7.897071109
+Denmark,21,NW,-7.733361985
+Denmark,22,NW,-7.754765746
+Denmark,23,NW,-7.763132942
+Denmark,24,NW,-7.905591772
+Denmark,1,PL,0
+Denmark,2,PL,0
+Denmark,3,PL,0
+Denmark,4,PL,0
+Denmark,5,PL,0
+Denmark,6,PL,0
+Denmark,7,PL,0
+Denmark,8,PL,0
+Denmark,9,PL,0
+Denmark,10,PL,0
+Denmark,11,PL,0
+Denmark,12,PL,0
+Denmark,13,PL,0
+Denmark,14,PL,0
+Denmark,15,PL,0
+Denmark,16,PL,0
+Denmark,17,PL,0
+Denmark,18,PL,0
+Denmark,19,PL,0
+Denmark,20,PL,0
+Denmark,21,PL,0
+Denmark,22,PL,0
+Denmark,23,PL,0
+Denmark,24,PL,0
+Denmark,1,SE,-2.009831757
+Denmark,2,SE,-1.552271397
+Denmark,3,SE,-1.450679157
+Denmark,4,SE,-1.439371652
+Denmark,5,SE,-1.324376279
+Denmark,6,SE,-1.062745389
+Denmark,7,SE,-0.986464867
+Denmark,8,SE,0.044657325
+Denmark,9,SE,0.967145208
+Denmark,10,SE,0.992679328
+Denmark,11,SE,1.28571457
+Denmark,12,SE,1.318910728
+Denmark,13,SE,1.658869747
+Denmark,14,SE,1.768698375
+Denmark,15,SE,1.515374229
+Denmark,16,SE,1.353485278
+Denmark,17,SE,0.025677254
+Denmark,18,SE,-1.940968516
+Denmark,19,SE,-2.303098471
+Denmark,20,SE,-2.821026861
+Denmark,21,SE,-3.024445285
+Denmark,22,SE,-3.436371211
+Denmark,23,SE,-2.954369122
+Denmark,24,SE,-2.906002072
+Denmark,1,UK,-9.674067745
+Denmark,2,UK,-9.870978379
+Denmark,3,UK,-9.924122789
+Denmark,4,UK,-10.13094014
+Denmark,5,UK,-9.96605881
+Denmark,6,UK,-9.377256635
+Denmark,7,UK,-5.662013962
+Denmark,8,UK,-1.277270418
+Denmark,9,UK,1.077425753
+Denmark,10,UK,1.464464454
+Denmark,11,UK,1.860459764
+Denmark,12,UK,2.044253001
+Denmark,13,UK,2.413742933
+Denmark,14,UK,1.971099317
+Denmark,15,UK,0.479561236
+Denmark,16,UK,-0.825988741
+Denmark,17,UK,-3.254894101
+Denmark,18,UK,-6.267182984
+Denmark,19,UK,-7.033767982
+Denmark,20,UK,-6.905402966
+Denmark,21,UK,-6.605944164
+Denmark,22,UK,-6.419940552
+Denmark,23,UK,-7.197872146
+Denmark,24,UK,-7.931488493
+Egypt,1,CY,0
+Egypt,2,CY,0
+Egypt,3,CY,0
+Egypt,4,CY,0
+Egypt,5,CY,0
+Egypt,6,CY,0
+Egypt,7,CY,0
+Egypt,8,CY,0
+Egypt,9,CY,0
+Egypt,10,CY,0
+Egypt,11,CY,0
+Egypt,12,CY,0
+Egypt,13,CY,0
+Egypt,14,CY,0
+Egypt,15,CY,0
+Egypt,16,CY,0
+Egypt,17,CY,0
+Egypt,18,CY,0
+Egypt,19,CY,0
+Egypt,20,CY,0
+Egypt,21,CY,0
+Egypt,22,CY,0
+Egypt,23,CY,0
+Egypt,24,CY,0
+Egypt,1,GR,14.85
+Egypt,2,GR,17.4
+Egypt,3,GR,18.72
+Egypt,4,GR,20.72
+Egypt,5,GR,21.9
+Egypt,6,GR,21.67
+Egypt,7,GR,3.07
+Egypt,8,GR,-28.66
+Egypt,9,GR,-45.98
+Egypt,10,GR,-52.29
+Egypt,11,GR,-53.62
+Egypt,12,GR,-54.33
+Egypt,13,GR,-53.76
+Egypt,14,GR,-49.31
+Egypt,15,GR,-44.55
+Egypt,16,GR,-51.7
+Egypt,17,GR,-56.17
+Egypt,18,GR,-36.94
+Egypt,19,GR,-20.21
+Egypt,20,GR,-7.82
+Egypt,21,GR,3.68
+Egypt,22,GR,9.54
+Egypt,23,GR,16.04
+Egypt,24,GR,12.97
+Egypt,1,LY,4.720557268
+Egypt,2,LY,4.854960075
+Egypt,3,LY,4.87804878
+Egypt,4,LY,4.87804878
+Egypt,5,LY,4.87804878
+Egypt,6,LY,4.87804878
+Egypt,7,LY,4.87804878
+Egypt,8,LY,4.87804878
+Egypt,9,LY,4.87804878
+Egypt,10,LY,4.87804878
+Egypt,11,LY,4.87804878
+Egypt,12,LY,4.847064907
+Egypt,13,LY,4.841932904
+Egypt,14,LY,4.845023005
+Egypt,15,LY,4.53541957
+Egypt,16,LY,2.398739391
+Egypt,17,LY,-0.574561054
+Egypt,18,LY,3.211694698
+Egypt,19,LY,4.184172641
+Egypt,20,LY,4.743032476
+Egypt,21,LY,4.641671301
+Egypt,22,LY,4.56781035
+Egypt,23,LY,4.647665896
+Egypt,24,LY,4.559156281
+Egypt,1,SA,2.032520325
+Egypt,2,SA,2.032520325
+Egypt,3,SA,2.032520325
+Egypt,4,SA,2.032520325
+Egypt,5,SA,2.032520325
+Egypt,6,SA,2.032520325
+Egypt,7,SA,2.032520325
+Egypt,8,SA,2.032520325
+Egypt,9,SA,2.032520325
+Egypt,10,SA,3.658536585
+Egypt,11,SA,3.658536585
+Egypt,12,SA,23.98373984
+Egypt,13,SA,34.14634146
+Egypt,14,SA,34.14634146
+Egypt,15,SA,34.14634146
+Egypt,16,SA,23.98373984
+Egypt,17,SA,23.98373984
+Egypt,18,SA,-15.44715447
+Egypt,19,SA,-25.6097561
+Egypt,20,SA,-25.6097561
+Egypt,21,SA,-25.6097561
+Egypt,22,SA,-16.66666667
+Egypt,23,SA,-16.66666667
+Egypt,24,SA,3.658536585
+Estonia,1,BW,-16.91917772
+Estonia,2,BW,-16.78408906
+Estonia,3,BW,-16.64566245
+Estonia,4,BW,-16.67328841
+Estonia,5,BW,-16.88605275
+Estonia,6,BW,-17.26068296
+Estonia,7,BW,-16.94906949
+Estonia,8,BW,-16.05255267
+Estonia,9,BW,-15.15746067
+Estonia,10,BW,-14.19010651
+Estonia,11,BW,-14.74137304
+Estonia,12,BW,-14.54427692
+Estonia,13,BW,-14.84407621
+Estonia,14,BW,-15.46206294
+Estonia,15,BW,-16.28923514
+Estonia,16,BW,-17.47155933
+Estonia,17,BW,-18.5096166
+Estonia,18,BW,-19.58497377
+Estonia,19,BW,-19.63994037
+Estonia,20,BW,-19.4920267
+Estonia,21,BW,-18.67837464
+Estonia,22,BW,-18.0495096
+Estonia,23,BW,-17.93498481
+Estonia,24,BW,-17.62073845
+Estonia,1,FI,5.74499414
+Estonia,2,FI,5.829454651
+Estonia,3,FI,5.80067106
+Estonia,4,FI,5.742795437
+Estonia,5,FI,5.046579614
+Estonia,6,FI,4.357352135
+Estonia,7,FI,2.663388248
+Estonia,8,FI,1.492669816
+Estonia,9,FI,0.994952763
+Estonia,10,FI,0.926237684
+Estonia,11,FI,1.580941728
+Estonia,12,FI,1.226395487
+Estonia,13,FI,1.006020878
+Estonia,14,FI,0.602091563
+Estonia,15,FI,0.318259472
+Estonia,16,FI,0.000347429
+Estonia,17,FI,0.513074805
+Estonia,18,FI,2.105397912
+Estonia,19,FI,2.405138106
+Estonia,20,FI,2.575871458
+Estonia,21,FI,3.277479694
+Estonia,22,FI,4.210188229
+Estonia,23,FI,5.462365252
+Estonia,24,FI,5.972071595
+Estonia,1,LV,-1.293619252
+Estonia,2,LV,-1.360788522
+Estonia,3,LV,-1.56437442
+Estonia,4,LV,-1.962204293
+Estonia,5,LV,-2.37182148
+Estonia,6,LV,-2.163255461
+Estonia,7,LV,-1.038234772
+Estonia,8,LV,-0.180325794
+Estonia,9,LV,0.778097206
+Estonia,10,LV,1.330574106
+Estonia,11,LV,1.523003363
+Estonia,12,LV,1.438735182
+Estonia,13,LV,1.524689261
+Estonia,14,LV,1.431883682
+Estonia,15,LV,1.265044488
+Estonia,16,LV,1.354620523
+Estonia,17,LV,0.719580588
+Estonia,18,LV,-0.194766427
+Estonia,19,LV,-0.231088985
+Estonia,20,LV,-0.048742259
+Estonia,21,LV,-0.350780589
+Estonia,22,LV,-0.536410722
+Estonia,23,LV,-0.722503358
+Estonia,24,LV,-1.04740113
+Estonia,1,RU,0
+Estonia,2,RU,0
+Estonia,3,RU,0
+Estonia,4,RU,0
+Estonia,5,RU,0
+Estonia,6,RU,0
+Estonia,7,RU,0
+Estonia,8,RU,0
+Estonia,9,RU,0
+Estonia,10,RU,0
+Estonia,11,RU,0
+Estonia,12,RU,0
+Estonia,13,RU,0
+Estonia,14,RU,0
+Estonia,15,RU,0
+Estonia,16,RU,0
+Estonia,17,RU,0
+Estonia,18,RU,0
+Estonia,19,RU,0
+Estonia,20,RU,0
+Estonia,21,RU,0
+Estonia,22,RU,0
+Estonia,23,RU,0
+Estonia,24,RU,0
+Finland,1,EE,-6.1259166
+Finland,2,EE,-6.215977274
+Finland,3,EE,-6.185285184
+Finland,4,EE,-6.123572111
+Finland,5,EE,-5.381193623
+Finland,6,EE,-4.646266841
+Finland,7,EE,-2.839984495
+Finland,8,EE,-1.59164145
+Finland,9,EE,-1.060923213
+Finland,10,EE,-0.987651974
+Finland,11,EE,-1.685766241
+Finland,12,EE,-1.307711773
+Finland,13,EE,-1.072725202
+Finland,14,EE,-0.642013309
+Finland,15,EE,-0.339361701
+Finland,16,EE,-0.000370466
+Finland,17,EE,-0.547094285
+Finland,18,EE,-2.244996549
+Finland,19,EE,-2.564611049
+Finland,20,EE,-2.746664895
+Finland,21,EE,-3.494793341
+Finland,22,EE,-4.489345216
+Finland,23,EE,-5.824547972
+Finland,24,EE,-6.36805045
+Finland,1,NO,0
+Finland,2,NO,0
+Finland,3,NO,0
+Finland,4,NO,0
+Finland,5,NO,0
+Finland,6,NO,0
+Finland,7,NO,0
+Finland,8,NO,0
+Finland,9,NO,0
+Finland,10,NO,0
+Finland,11,NO,0
+Finland,12,NO,0
+Finland,13,NO,0
+Finland,14,NO,0
+Finland,15,NO,0
+Finland,16,NO,0
+Finland,17,NO,0
+Finland,18,NO,0
+Finland,19,NO,0
+Finland,20,NO,0
+Finland,21,NO,0
+Finland,22,NO,0
+Finland,23,NO,0
+Finland,24,NO,0
+Finland,1,RU,0
+Finland,2,RU,0
+Finland,3,RU,0
+Finland,4,RU,0
+Finland,5,RU,0
+Finland,6,RU,0
+Finland,7,RU,0
+Finland,8,RU,0
+Finland,9,RU,0
+Finland,10,RU,0
+Finland,11,RU,0
+Finland,12,RU,0
+Finland,13,RU,0
+Finland,14,RU,0
+Finland,15,RU,0
+Finland,16,RU,0
+Finland,17,RU,0
+Finland,18,RU,0
+Finland,19,RU,0
+Finland,20,RU,0
+Finland,21,RU,0
+Finland,22,RU,0
+Finland,23,RU,0
+Finland,24,RU,0
+Finland,1,SE,1.17155637
+Finland,2,SE,0.322020846
+Finland,3,SE,-0.20470157
+Finland,4,SE,-0.328142615
+Finland,5,SE,-0.662936311
+Finland,6,SE,0.675366044
+Finland,7,SE,1.478639822
+Finland,8,SE,0.74549861
+Finland,9,SE,0.398636323
+Finland,10,SE,-0.495965489
+Finland,11,SE,-1.956195978
+Finland,12,SE,-2.584154657
+Finland,13,SE,-3.193676176
+Finland,14,SE,-3.833463759
+Finland,15,SE,-4.46917295
+Finland,16,SE,-3.589791524
+Finland,17,SE,-2.705866894
+Finland,18,SE,-0.850360036
+Finland,19,SE,1.112270405
+Finland,20,SE,1.780475425
+Finland,21,SE,1.428434018
+Finland,22,SE,1.175151829
+Finland,23,SE,2.550863924
+Finland,24,SE,2.339742933
+France,1,BE,2.954768336
+France,2,BE,3.347467731
+France,3,BE,3.205994852
+France,4,BE,3.98698155
+France,5,BE,5.505274091
+France,6,BE,4.598952524
+France,7,BE,2.444965626
+France,8,BE,1.453647541
+France,9,BE,1.403663633
+France,10,BE,2.174782208
+France,11,BE,2.528134081
+France,12,BE,2.876289886
+France,13,BE,3.497879006
+France,14,BE,3.333947913
+France,15,BE,3.646952383
+France,16,BE,3.984640722
+France,17,BE,3.95342742
+France,18,BE,5.248315604
+France,19,BE,5.824541206
+France,20,BE,5.900555384
+France,21,BE,5.513473654
+France,22,BE,4.231727876
+France,23,BE,3.638397464
+France,24,BE,3.796017582
+France,1,CH,6.13
+France,2,CH,6.71
+France,3,CH,6.87
+France,4,CH,7.72
+France,5,CH,8.46
+France,6,CH,7.55
+France,7,CH,6.59
+France,8,CH,5.62
+France,9,CH,4.64
+France,10,CH,4.98
+France,11,CH,4.8
+France,12,CH,4.8
+France,13,CH,5.19
+France,14,CH,5.62
+France,15,CH,6.58
+France,16,CH,7.49
+France,17,CH,7.7
+France,18,CH,5.94
+France,19,CH,5.04
+France,20,CH,5.46
+France,21,CH,5.55
+France,22,CH,4.94
+France,23,CH,5.12
+France,24,CH,6.25
+France,1,DE,0.216373534
+France,2,DE,1.15304306
+France,3,DE,1.459633658
+France,4,DE,2.386073943
+France,5,DE,3.645996601
+France,6,DE,2.457992339
+France,7,DE,-0.345474243
+France,8,DE,-2.899537052
+France,9,DE,-3.046015408
+France,10,DE,-0.499914913
+France,11,DE,0.205012077
+France,12,DE,0.924733367
+France,13,DE,1.331306844
+France,14,DE,1.252446401
+France,15,DE,1.18651191
+France,16,DE,0.385446972
+France,17,DE,0.262198986
+France,18,DE,1.565608357
+France,19,DE,1.271476639
+France,20,DE,1.17450093
+France,21,DE,1.118217071
+France,22,DE,0.617933619
+France,23,DE,0.820940255
+France,24,DE,1.653009545
+France,1,ES,-12.42135921
+France,2,ES,-12.01275296
+France,3,ES,-11.76527339
+France,4,ES,-11.39766887
+France,5,ES,-10.54598808
+France,6,ES,-11.59797637
+France,7,ES,-10.03537459
+France,8,ES,-12.30884343
+France,9,ES,-16.89266753
+France,10,ES,-17.43137615
+France,11,ES,-17.14949934
+France,12,ES,-17.14753602
+France,13,ES,-16.73856071
+France,14,ES,-16.92678817
+France,15,ES,-17.36923006
+France,16,ES,-17.8719668
+France,17,ES,-18.08142038
+France,18,ES,-16.33007189
+France,19,ES,-15.04271264
+France,20,ES,-13.349104
+France,21,ES,-13.31665636
+France,22,ES,-13.733826
+France,23,ES,-13.59865296
+France,24,ES,-12.9836438
+France,1,IE,-1.215862735
+France,2,IE,-1.190542341
+France,3,IE,-1.267797912
+France,4,IE,-1.276163989
+France,5,IE,-1.303749161
+France,6,IE,-1.378081797
+France,7,IE,-1.267963203
+France,8,IE,-1.094357053
+France,9,IE,-0.909894419
+France,10,IE,-0.698742592
+France,11,IE,-0.742599337
+France,12,IE,-0.6938448
+France,13,IE,-0.685178916
+France,14,IE,-0.750773509
+France,15,IE,-0.831340731
+France,16,IE,-0.957025176
+France,17,IE,-1.258460842
+France,18,IE,-1.417899531
+France,19,IE,-1.419184729
+France,20,IE,-1.389953906
+France,21,IE,-1.390425472
+France,22,IE,-1.361340166
+France,23,IE,-1.361394415
+France,24,IE,-1.312878387
+France,1,IT,8.540015984
+France,2,IT,8.635980833
+France,3,IT,8.49805359
+France,4,IT,8.99009615
+France,5,IT,9.302071085
+France,6,IT,8.964934317
+France,7,IT,8.72844687
+France,8,IT,7.727856926
+France,9,IT,6.765094022
+France,10,IT,6.633256218
+France,11,IT,6.217482817
+France,12,IT,6.0116648
+France,13,IT,6.737126595
+France,14,IT,7.463236784
+France,15,IT,8.592425033
+France,16,IT,9.460942004
+France,17,IT,9.679432655
+France,18,IT,8.90441428
+France,19,IT,8.116905453
+France,20,IT,8.232584174
+France,21,IT,8.260131552
+France,22,IT,7.911522555
+France,23,IT,7.933926637
+France,24,IT,8.210795257
+France,1,LU,0.424997849
+France,2,LU,0.428749602
+France,3,LU,0.400378944
+France,4,LU,0.366598273
+France,5,LU,0.336911604
+France,6,LU,0.312825137
+France,7,LU,0.303713425
+France,8,LU,0.310312619
+France,9,LU,0.30376509
+France,10,LU,0.304800807
+France,11,LU,0.310108273
+France,12,LU,0.319711596
+France,13,LU,0.318896031
+France,14,LU,0.324972984
+France,15,LU,0.329012088
+France,16,LU,0.32333373
+France,17,LU,0.34978733
+France,18,LU,0.364400123
+France,19,LU,0.380476224
+France,20,LU,0.382554357
+France,21,LU,0.391522679
+France,22,LU,0.376669573
+France,23,LU,0.384280508
+France,24,LU,0.407234195
+France,1,UK,-20.57799316
+France,2,UK,-19.99542427
+France,3,UK,-20.30234136
+France,4,UK,-19.2166714
+France,5,UK,-17.32603233
+France,6,UK,-17.3158508
+France,7,UK,-14.95938528
+France,8,UK,-12.06293754
+France,9,UK,-8.787095881
+France,10,UK,-5.138165197
+France,11,UK,-4.060483961
+France,12,UK,-3.264364279
+France,13,UK,-2.623215624
+France,14,UK,-2.96549425
+France,15,UK,-4.247787413
+France,16,UK,-8.137461828
+France,17,UK,-11.49297058
+France,18,UK,-13.41438614
+France,19,UK,-12.57833929
+France,20,UK,-12.43254944
+France,21,UK,-12.63990428
+France,22,UK,-14.56487365
+France,23,UK,-16.48815953
+France,24,UK,-17.26291491
+Germany,1,AT,5.53
+Germany,2,AT,5.43
+Germany,3,AT,5.41
+Germany,4,AT,5.53
+Germany,5,AT,6.22
+Germany,6,AT,7.05
+Germany,7,AT,7.72
+Germany,8,AT,8.56
+Germany,9,AT,8.26
+Germany,10,AT,5.58
+Germany,11,AT,4.35
+Germany,12,AT,4.09
+Germany,13,AT,4.39
+Germany,14,AT,5.4
+Germany,15,AT,7.4
+Germany,16,AT,9.86
+Germany,17,AT,8.99
+Germany,18,AT,6.11
+Germany,19,AT,4.95
+Germany,20,AT,4.45
+Germany,21,AT,4.18
+Germany,22,AT,3.94
+Germany,23,AT,3.87
+Germany,24,AT,3.51
+Germany,1,BE,0.106387052
+Germany,2,BE,0.007762799
+Germany,3,BE,-0.034424729
+Germany,4,BE,-0.136814664
+Germany,5,BE,-0.227659395
+Germany,6,BE,-0.114295431
+Germany,7,BE,0.21048954
+Germany,8,BE,0.463572526
+Germany,9,BE,0.430626636
+Germany,10,BE,-0.118736944
+Germany,11,BE,-0.207194265
+Germany,12,BE,-0.317297449
+Germany,13,BE,-0.314858043
+Germany,14,BE,-0.308782522
+Germany,15,BE,-0.257076933
+Germany,16,BE,-0.075580016
+Germany,17,BE,0.215956092
+Germany,18,BE,0.228567352
+Germany,19,BE,0.292674947
+Germany,20,BE,0.341655346
+Germany,21,BE,0.282804491
+Germany,22,BE,0.279756882
+Germany,23,BE,0.216886492
+Germany,24,BE,0.008860774
+Germany,1,BW,0
+Germany,2,BW,0
+Germany,3,BW,0
+Germany,4,BW,0
+Germany,5,BW,0
+Germany,6,BW,0
+Germany,7,BW,0
+Germany,8,BW,0
+Germany,9,BW,0
+Germany,10,BW,0
+Germany,11,BW,0
+Germany,12,BW,0
+Germany,13,BW,0
+Germany,14,BW,0
+Germany,15,BW,0
+Germany,16,BW,0
+Germany,17,BW,0
+Germany,18,BW,0
+Germany,19,BW,0
+Germany,20,BW,0
+Germany,21,BW,0
+Germany,22,BW,0
+Germany,23,BW,0
+Germany,24,BW,0
+Germany,1,CH,3.18
+Germany,2,CH,3.21
+Germany,3,CH,3.09
+Germany,4,CH,2.82
+Germany,5,CH,2.66
+Germany,6,CH,2.64
+Germany,7,CH,4.05
+Germany,8,CH,5.67
+Germany,9,CH,5.62
+Germany,10,CH,3.81
+Germany,11,CH,2.26
+Germany,12,CH,1.43
+Germany,13,CH,1.34
+Germany,14,CH,1.86
+Germany,15,CH,2.99
+Germany,16,CH,4.82
+Germany,17,CH,4.35
+Germany,18,CH,2.22
+Germany,19,CH,1.75
+Germany,20,CH,1.89
+Germany,21,CH,1.89
+Germany,22,CH,2.1
+Germany,23,CH,2.13
+Germany,24,CH,2.06
+Germany,1,CZ,4.003739402
+Germany,2,CZ,3.987093901
+Germany,3,CZ,3.939958915
+Germany,4,CZ,4.035564034
+Germany,5,CZ,4.365902759
+Germany,6,CZ,4.760828878
+Germany,7,CZ,4.763340062
+Germany,8,CZ,4.708700335
+Germany,9,CZ,4.636232527
+Germany,10,CZ,4.082237029
+Germany,11,CZ,3.859043865
+Germany,12,CZ,3.956311693
+Germany,13,CZ,3.861389307
+Germany,14,CZ,4.096193742
+Germany,15,CZ,4.562244815
+Germany,16,CZ,5.078184269
+Germany,17,CZ,5.068643906
+Germany,18,CZ,4.892878832
+Germany,19,CZ,4.786556025
+Germany,20,CZ,4.69930329
+Germany,21,CZ,4.518286325
+Germany,22,CZ,4.277331061
+Germany,23,CZ,3.967839469
+Germany,24,CZ,3.652986956
+Germany,1,DK,-6.990846471
+Germany,2,DK,-7.004511116
+Germany,3,DK,-6.967958592
+Germany,4,DK,-6.865550413
+Germany,5,DK,-6.479986691
+Germany,6,DK,-5.565070828
+Germany,7,DK,-5.51905021
+Germany,8,DK,-4.853371394
+Germany,9,DK,-4.693267842
+Germany,10,DK,-5.435965869
+Germany,11,DK,-6.117358947
+Germany,12,DK,-6.398152447
+Germany,13,DK,-6.674262701
+Germany,14,DK,-6.287184328
+Germany,15,DK,-5.842743924
+Germany,16,DK,-5.44689424
+Germany,17,DK,-5.892643566
+Germany,18,DK,-6.174735138
+Germany,19,DK,-5.178895864
+Germany,20,DK,-4.969534049
+Germany,21,DK,-5.270334458
+Germany,22,DK,-5.750765203
+Germany,23,DK,-6.529689928
+Germany,24,DK,-6.835106874
+Germany,1,FR,-0.1714476
+Germany,2,FR,-0.913635146
+Germany,3,FR,-1.156567917
+Germany,4,FR,-1.890650133
+Germany,5,FR,-2.888973319
+Germany,6,FR,-1.947636014
+Germany,7,FR,0.273742952
+Germany,8,FR,2.297502192
+Germany,9,FR,2.413567045
+Germany,10,FR,0.396116893
+Germany,11,FR,-0.162445138
+Germany,12,FR,-0.732729708
+Germany,13,FR,-1.054885776
+Germany,14,FR,-0.992399235
+Germany,15,FR,-0.940154812
+Germany,16,FR,-0.305416088
+Germany,17,FR,-0.20775825
+Germany,18,FR,-1.240538943
+Germany,19,FR,-1.007478198
+Germany,20,FR,-0.930637689
+Germany,21,FR,-0.886040125
+Germany,22,FR,-0.489631213
+Germany,23,FR,-0.650487303
+Germany,24,FR,-1.309792903
+Germany,1,GR,0
+Germany,2,GR,0
+Germany,3,GR,0
+Germany,4,GR,0
+Germany,5,GR,0
+Germany,6,GR,0
+Germany,7,GR,0
+Germany,8,GR,0
+Germany,9,GR,0
+Germany,10,GR,0
+Germany,11,GR,0
+Germany,12,GR,0
+Germany,13,GR,0
+Germany,14,GR,0
+Germany,15,GR,0
+Germany,16,GR,0
+Germany,17,GR,0
+Germany,18,GR,0
+Germany,19,GR,0
+Germany,20,GR,0
+Germany,21,GR,0
+Germany,22,GR,0
+Germany,23,GR,0
+Germany,24,GR,0
+Germany,1,LU,1.183364313
+Germany,2,LU,1.110208194
+Germany,3,LU,1.022899711
+Germany,4,LU,0.926347536
+Germany,5,LU,0.828712528
+Germany,6,LU,0.88102201
+Germany,7,LU,1.202081622
+Germany,8,LU,1.272576643
+Germany,9,LU,1.490622651
+Germany,10,LU,1.558636629
+Germany,11,LU,1.456979616
+Germany,12,LU,1.266731373
+Germany,13,LU,1.234880203
+Germany,14,LU,1.247019707
+Germany,15,LU,1.249375344
+Germany,16,LU,1.14839323
+Germany,17,LU,1.078364798
+Germany,18,LU,0.998193881
+Germany,19,LU,1.114100551
+Germany,20,LU,1.248651354
+Germany,21,LU,1.263660458
+Germany,22,LU,1.128635459
+Germany,23,LU,1.113203077
+Germany,24,LU,1.020234744
+Germany,1,MA,0
+Germany,2,MA,0
+Germany,3,MA,0
+Germany,4,MA,0
+Germany,5,MA,0
+Germany,6,MA,0
+Germany,7,MA,0
+Germany,8,MA,0
+Germany,9,MA,0
+Germany,10,MA,0
+Germany,11,MA,0
+Germany,12,MA,0
+Germany,13,MA,0
+Germany,14,MA,0
+Germany,15,MA,0
+Germany,16,MA,0
+Germany,17,MA,0
+Germany,18,MA,0
+Germany,19,MA,0
+Germany,20,MA,0
+Germany,21,MA,0
+Germany,22,MA,0
+Germany,23,MA,0
+Germany,24,MA,0
+Germany,1,NL,-0.850231158
+Germany,2,NL,-1.002785144
+Germany,3,NL,-1.310475857
+Germany,4,NL,-1.67759762
+Germany,5,NL,-1.409621251
+Germany,6,NL,-1.611994102
+Germany,7,NL,-0.941635631
+Germany,8,NL,0.259707424
+Germany,9,NL,0.180086191
+Germany,10,NL,-1.176190401
+Germany,11,NL,-1.723099403
+Germany,12,NL,-1.708377273
+Germany,13,NL,-1.90417179
+Germany,14,NL,-2.070965391
+Germany,15,NL,-2.149718237
+Germany,16,NL,-1.481209797
+Germany,17,NL,-1.318851653
+Germany,18,NL,-1.234526104
+Germany,19,NL,-1.023824576
+Germany,20,NL,-0.916011497
+Germany,21,NL,-1.220220455
+Germany,22,NL,-1.2486666
+Germany,23,NL,-1.51646268
+Germany,24,NL,-1.803527426
+Germany,1,NO,-2.549983074
+Germany,2,NO,-2.517710324
+Germany,3,NO,-2.53439406
+Germany,4,NO,-2.543005482
+Germany,5,NO,-2.539363114
+Germany,6,NO,-2.533470059
+Germany,7,NO,-2.416795746
+Germany,8,NO,-1.961617964
+Germany,9,NO,-1.6075667
+Germany,10,NO,-1.521697197
+Germany,11,NO,-1.503159007
+Germany,12,NO,-1.539855591
+Germany,13,NO,-1.587744273
+Germany,14,NO,-1.558642588
+Germany,15,NO,-1.615709173
+Germany,16,NO,-1.730262955
+Germany,17,NO,-2.217107976
+Germany,18,NO,-2.615380281
+Germany,19,NO,-2.70202753
+Germany,20,NO,-2.679666388
+Germany,21,NO,-2.660510303
+Germany,22,NO,-2.649580847
+Germany,23,NO,-2.674868115
+Germany,24,NO,-2.664802712
+Germany,1,PL,2.306459425
+Germany,2,PL,2.247127795
+Germany,3,PL,2.29684157
+Germany,4,PL,2.331550857
+Germany,5,PL,2.624475358
+Germany,6,PL,2.911547203
+Germany,7,PL,3.136709022
+Germany,8,PL,3.103959986
+Germany,9,PL,3.0564015
+Germany,10,PL,2.585836032
+Germany,11,PL,2.489728456
+Germany,12,PL,2.536778202
+Germany,13,PL,2.609093771
+Germany,14,PL,2.789473912
+Germany,15,PL,3.062474992
+Germany,16,PL,3.485774215
+Germany,17,PL,3.507810057
+Germany,18,PL,3.444298508
+Germany,19,PL,3.443614898
+Germany,20,PL,3.429794252
+Germany,21,PL,3.31996103
+Germany,22,PL,3.022411084
+Germany,23,PL,2.38656332
+Germany,24,PL,1.977992688
+Germany,1,SE,-1.72920672
+Germany,2,SE,-1.625697207
+Germany,3,SE,-1.671722405
+Germany,4,SE,-1.642474998
+Germany,5,SE,-1.459217546
+Germany,6,SE,-1.121328097
+Germany,7,SE,-1.284174911
+Germany,8,SE,-1.002050861
+Germany,9,SE,-0.823404025
+Germany,10,SE,-1.06859991
+Germany,11,SE,-1.311152166
+Germany,12,SE,-1.437676185
+Germany,13,SE,-1.46505294
+Germany,14,SE,-1.308585565
+Germany,15,SE,-1.205261944
+Germany,16,SE,-0.845742902
+Germany,17,SE,-1.221150015
+Germany,18,SE,-1.678526261
+Germany,19,SE,-1.384433366
+Germany,20,SE,-1.38117811
+Germany,21,SE,-1.569792008
+Germany,22,SE,-1.727730842
+Germany,23,SE,-1.805771487
+Germany,24,SE,-1.918182295
+Germany,1,UK,-4.66319965
+Germany,2,UK,-4.772336045
+Germany,3,UK,-4.777578574
+Germany,4,UK,-4.742578592
+Germany,5,UK,-4.632304075
+Germany,6,UK,-4.287259018
+Germany,7,UK,-3.234111187
+Germany,8,UK,-1.433149272
+Germany,9,UK,-0.824917095
+Germany,10,UK,-0.953199147
+Germany,11,UK,-1.120707775
+Germany,12,UK,-1.181454116
+Germany,13,UK,-1.273241145
+Germany,14,UK,-1.31215174
+Germany,15,UK,-1.583561124
+Germany,16,UK,-1.758505363
+Germany,17,UK,-2.500052321
+Germany,18,UK,-3.391624162
+Germany,19,UK,-3.458806878
+Germany,20,UK,-3.475105464
+Germany,21,UK,-3.449553825
+Germany,22,UK,-3.423315872
+Germany,23,UK,-3.851199455
+Germany,24,UK,-4.099378464
+Greece,1,AL,-3.54
+Greece,2,AL,-3.84
+Greece,3,AL,-4.05
+Greece,4,AL,-4.11
+Greece,5,AL,-3.97
+Greece,6,AL,-3.24
+Greece,7,AL,-2.31
+Greece,8,AL,-1.51
+Greece,9,AL,-1.99
+Greece,10,AL,-2.68
+Greece,11,AL,-3.12
+Greece,12,AL,-3.25
+Greece,13,AL,-3.09
+Greece,14,AL,-2.6
+Greece,15,AL,-2.67
+Greece,16,AL,-3.15
+Greece,17,AL,-2.48
+Greece,18,AL,-1.24
+Greece,19,AL,-0.76
+Greece,20,AL,-0.58
+Greece,21,AL,-0.99
+Greece,22,AL,-1.74
+Greece,23,AL,-2.54
+Greece,24,AL,-3.29
+Greece,1,BG,5.08438261
+Greece,2,BG,4.591506984
+Greece,3,BG,4.197593098
+Greece,4,BG,3.693299106
+Greece,5,BG,3.549437941
+Greece,6,BG,2.432365545
+Greece,7,BG,-0.259692047
+Greece,8,BG,-3.20440222
+Greece,9,BG,-5.659149954
+Greece,10,BG,-7.717505607
+Greece,11,BG,-8.412544176
+Greece,12,BG,-8.663043309
+Greece,13,BG,-7.871102728
+Greece,14,BG,-6.025945013
+Greece,15,BG,-3.544602449
+Greece,16,BG,-4.70611062
+Greece,17,BG,-1.189331373
+Greece,18,BG,2.394076852
+Greece,19,BG,3.32248834
+Greece,20,BG,3.420063193
+Greece,21,BG,4.379402784
+Greece,22,BG,6.682687917
+Greece,23,BG,5.995850877
+Greece,24,BG,5.60442548
+Greece,1,CY,8.38
+Greece,2,CY,8.5
+Greece,3,CY,8.76
+Greece,4,CY,9.48
+Greece,5,CY,9.58
+Greece,6,CY,8.28
+Greece,7,CY,5.65
+Greece,8,CY,4.71
+Greece,9,CY,4.67
+Greece,10,CY,3.89
+Greece,11,CY,4.29
+Greece,12,CY,5.57
+Greece,13,CY,7
+Greece,14,CY,8.19
+Greece,15,CY,9.67
+Greece,16,CY,10.1
+Greece,17,CY,10.34
+Greece,18,CY,10.24
+Greece,19,CY,9.87
+Greece,20,CY,9.65
+Greece,21,CY,9.67
+Greece,22,CY,9.37
+Greece,23,CY,8.79
+Greece,24,CY,8.4
+Greece,1,DE,0
+Greece,2,DE,0
+Greece,3,DE,0
+Greece,4,DE,0
+Greece,5,DE,0
+Greece,6,DE,0
+Greece,7,DE,0
+Greece,8,DE,0
+Greece,9,DE,0
+Greece,10,DE,0
+Greece,11,DE,0
+Greece,12,DE,0
+Greece,13,DE,0
+Greece,14,DE,0
+Greece,15,DE,0
+Greece,16,DE,0
+Greece,17,DE,0
+Greece,18,DE,0
+Greece,19,DE,0
+Greece,20,DE,0
+Greece,21,DE,0
+Greece,22,DE,0
+Greece,23,DE,0
+Greece,24,DE,0
+Greece,1,EG,-7.89
+Greece,2,EG,-9.24
+Greece,3,EG,-9.94
+Greece,4,EG,-11.01
+Greece,5,EG,-11.64
+Greece,6,EG,-11.52
+Greece,7,EG,-1.63
+Greece,8,EG,15.23
+Greece,9,EG,24.43
+Greece,10,EG,27.78
+Greece,11,EG,28.49
+Greece,12,EG,28.86
+Greece,13,EG,28.57
+Greece,14,EG,26.2
+Greece,15,EG,23.67
+Greece,16,EG,27.47
+Greece,17,EG,29.84
+Greece,18,EG,19.63
+Greece,19,EG,10.74
+Greece,20,EG,4.15
+Greece,21,EG,-1.96
+Greece,22,EG,-5.07
+Greece,23,EG,-8.52
+Greece,24,EG,-6.89
+Greece,1,IT,-4.177940895
+Greece,2,IT,-4.85386971
+Greece,3,IT,-5.364070622
+Greece,4,IT,-5.937883992
+Greece,5,IT,-6.244706584
+Greece,6,IT,-4.39664316
+Greece,7,IT,-4.29070408
+Greece,8,IT,-6.399962707
+Greece,9,IT,-10.33592255
+Greece,10,IT,-13.22016667
+Greece,11,IT,-14.73162281
+Greece,12,IT,-15.1337209
+Greece,13,IT,-14.34129604
+Greece,14,IT,-13.56735033
+Greece,15,IT,-12.68701205
+Greece,16,IT,-13.46629563
+Greece,17,IT,-10.25266659
+Greece,18,IT,-7.997657567
+Greece,19,IT,-7.481529264
+Greece,20,IT,-6.929865842
+Greece,21,IT,-6.039764288
+Greece,22,IT,-5.694327872
+Greece,23,IT,-4.551965591
+Greece,24,IT,-3.916903496
+Greece,1,LY,0
+Greece,2,LY,0
+Greece,3,LY,0
+Greece,4,LY,0
+Greece,5,LY,0
+Greece,6,LY,0
+Greece,7,LY,0
+Greece,8,LY,0
+Greece,9,LY,0
+Greece,10,LY,0
+Greece,11,LY,0
+Greece,12,LY,0
+Greece,13,LY,0
+Greece,14,LY,0
+Greece,15,LY,0
+Greece,16,LY,0
+Greece,17,LY,0
+Greece,18,LY,0
+Greece,19,LY,0
+Greece,20,LY,0
+Greece,21,LY,0
+Greece,22,LY,0
+Greece,23,LY,0
+Greece,24,LY,0
+Greece,1,MK,3.226623045
+Greece,2,MK,2.972160332
+Greece,3,MK,2.029069672
+Greece,4,MK,1.337559751
+Greece,5,MK,0.904648257
+Greece,6,MK,0.936557894
+Greece,7,MK,0.498414099
+Greece,8,MK,0.690200051
+Greece,9,MK,-0.391192652
+Greece,10,MK,-1.467356822
+Greece,11,MK,-1.418580922
+Greece,12,MK,-1.028394192
+Greece,13,MK,-0.428635422
+Greece,14,MK,0.698345507
+Greece,15,MK,1.65584797
+Greece,16,MK,0.457449683
+Greece,17,MK,2.077979672
+Greece,18,MK,3.846420502
+Greece,19,MK,3.950700431
+Greece,20,MK,4.294227565
+Greece,21,MK,4.405596563
+Greece,22,MK,4.748314118
+Greece,23,MK,4.210524322
+Greece,24,MK,3.380953172
+Greece,1,TR,6.957166918
+Greece,2,TR,6.837095626
+Greece,3,TR,6.166987397
+Greece,4,TR,5.746319275
+Greece,5,TR,5.167229488
+Greece,6,TR,4.203326223
+Greece,7,TR,3.595611694
+Greece,8,TR,5.19763852
+Greece,9,TR,6.342717614
+Greece,10,TR,6.87360258
+Greece,11,TR,7.068129643
+Greece,12,TR,7.127429806
+Greece,13,TR,7.127429806
+Greece,14,TR,7.107848955
+Greece,15,TR,7.127429806
+Greece,16,TR,7.034668698
+Greece,17,TR,6.679243141
+Greece,18,TR,6.717233433
+Greece,19,TR,6.793961978
+Greece,20,TR,6.856087182
+Greece,21,TR,6.835002967
+Greece,22,TR,6.915069215
+Greece,23,TR,6.923907626
+Greece,24,TR,6.956498499
+Hungary,1,AT,-3.05
+Hungary,2,AT,-2.79
+Hungary,3,AT,-2.57
+Hungary,4,AT,-2.63
+Hungary,5,AT,-2.87
+Hungary,6,AT,-2.57
+Hungary,7,AT,-2.1
+Hungary,8,AT,-1.53
+Hungary,9,AT,-2.2
+Hungary,10,AT,-1.48
+Hungary,11,AT,-1.85
+Hungary,12,AT,-2.26
+Hungary,13,AT,-2.36
+Hungary,14,AT,-2.97
+Hungary,15,AT,-4.07
+Hungary,16,AT,-5.07
+Hungary,17,AT,-4.96
+Hungary,18,AT,-4.52
+Hungary,19,AT,-4.56
+Hungary,20,AT,-4.64
+Hungary,21,AT,-4.24
+Hungary,22,AT,-3.55
+Hungary,23,AT,-2.87
+Hungary,24,AT,-2.63
+Hungary,1,HR,-0.43
+Hungary,2,HR,-0.28
+Hungary,3,HR,-0.17
+Hungary,4,HR,-0.38
+Hungary,5,HR,-1.48
+Hungary,6,HR,-2.07
+Hungary,7,HR,-0.4
+Hungary,8,HR,1.49
+Hungary,9,HR,3.14
+Hungary,10,HR,4.04
+Hungary,11,HR,4.34
+Hungary,12,HR,4.01
+Hungary,13,HR,3.44
+Hungary,14,HR,2.31
+Hungary,15,HR,0.36
+Hungary,16,HR,-1.62
+Hungary,17,HR,-3.63
+Hungary,18,HR,-4.73
+Hungary,19,HR,-4.67
+Hungary,20,HR,-4.6
+Hungary,21,HR,-4.12
+Hungary,22,HR,-3
+Hungary,23,HR,-2.08
+Hungary,24,HR,-1.46
+Hungary,1,RO,-9.105216736
+Hungary,2,RO,-8.562723569
+Hungary,3,RO,-8.2229626
+Hungary,4,RO,-8.156406465
+Hungary,5,RO,-9.455259438
+Hungary,6,RO,-12.95299179
+Hungary,7,RO,-13.62122494
+Hungary,8,RO,-11.0572889
+Hungary,9,RO,-6.169107202
+Hungary,10,RO,-3.684756857
+Hungary,11,RO,-2.790731599
+Hungary,12,RO,-2.068731548
+Hungary,13,RO,-1.741245875
+Hungary,14,RO,-1.686157189
+Hungary,15,RO,-3.729005449
+Hungary,16,RO,-6.286403216
+Hungary,17,RO,-11.21288137
+Hungary,18,RO,-14.70919368
+Hungary,19,RO,-15.67559633
+Hungary,20,RO,-15.86938993
+Hungary,21,RO,-15.54623064
+Hungary,22,RO,-14.23528201
+Hungary,23,RO,-12.32970752
+Hungary,24,RO,-10.90952395
+Hungary,1,RS,-2.04531016
+Hungary,2,RS,-2.666562749
+Hungary,3,RS,-3.160078352
+Hungary,4,RS,-3.8701846
+Hungary,5,RS,-5.207583242
+Hungary,6,RS,-7.017219494
+Hungary,7,RS,-6.144743523
+Hungary,8,RS,-3.449814996
+Hungary,9,RS,0.128405105
+Hungary,10,RS,1.613821086
+Hungary,11,RS,2.069313516
+Hungary,12,RS,2.112638829
+Hungary,13,RS,2.030388318
+Hungary,14,RS,1.597055954
+Hungary,15,RS,-0.004113241
+Hungary,16,RS,-1.860621465
+Hungary,17,RS,-4.941310855
+Hungary,18,RS,-7.742794156
+Hungary,19,RS,-7.760925858
+Hungary,20,RS,-7.411933211
+Hungary,21,RS,-6.803668068
+Hungary,22,RS,-5.657689097
+Hungary,23,RS,-4.193212484
+Hungary,24,RS,-3.120882054
+Hungary,1,SI,1.61198845
+Hungary,2,SI,2.054814182
+Hungary,3,SI,2.496313611
+Hungary,4,SI,2.143641938
+Hungary,5,SI,0.597066996
+Hungary,6,SI,0.906341374
+Hungary,7,SI,2.812662546
+Hungary,8,SI,3.663810764
+Hungary,9,SI,3.58800679
+Hungary,10,SI,3.773123472
+Hungary,11,SI,3.351418348
+Hungary,12,SI,2.535859937
+Hungary,13,SI,1.598025421
+Hungary,14,SI,0.151595936
+Hungary,15,SI,-2.573510113
+Hungary,16,SI,-4.459744735
+Hungary,17,SI,-5.275853539
+Hungary,18,SI,-5.579505306
+Hungary,19,SI,-5.918615647
+Hungary,20,SI,-5.666653549
+Hungary,21,SI,-3.626839417
+Hungary,22,SI,-1.621856697
+Hungary,23,SI,0.195776559
+Hungary,24,SI,1.379058196
+Hungary,1,SK,-7.071836024
+Hungary,2,SK,-5.95481659
+Hungary,3,SK,-5.243295646
+Hungary,4,SK,-4.19283456
+Hungary,5,SK,-0.76181969
+Hungary,6,SK,4.973605313
+Hungary,7,SK,6.310053777
+Hungary,8,SK,7.260866911
+Hungary,9,SK,6.224902447
+Hungary,10,SK,6.913564156
+Hungary,11,SK,8.077696553
+Hungary,12,SK,7.645548465
+Hungary,13,SK,5.73288055
+Hungary,14,SK,3.0500282
+Hungary,15,SK,1.25179046
+Hungary,16,SK,-0.660895277
+Hungary,17,SK,0.65097384
+Hungary,18,SK,2.516607332
+Hungary,19,SK,2.607743948
+Hungary,20,SK,2.167196164
+Hungary,21,SK,0.440886493
+Hungary,22,SK,-2.130262316
+Hungary,23,SK,-4.624441057
+Hungary,24,SK,-5.802531447
+Hungary,1,UA,-7.192482402
+Hungary,2,UA,-7.041970782
+Hungary,3,UA,-6.746730113
+Hungary,4,UA,-5.765242202
+Hungary,5,UA,-3.088944127
+Hungary,6,UA,-1.692707257
+Hungary,7,UA,0.367129413
+Hungary,8,UA,3.700849996
+Hungary,9,UA,6.989297089
+Hungary,10,UA,7.524757599
+Hungary,11,UA,7.66899822
+Hungary,12,UA,7.688460957
+Hungary,13,UA,7.534721406
+Hungary,14,UA,7.323572298
+Hungary,15,UA,6.318615177
+Hungary,16,UA,3.282970631
+Hungary,17,UA,0.365814014
+Hungary,18,UA,-0.766438462
+Hungary,19,UA,-1.103498368
+Hungary,20,UA,-1.489944286
+Hungary,21,UA,-2.694058052
+Hungary,22,UA,-4.298741721
+Hungary,23,UA,-6.238831852
+Hungary,24,UA,-7.157806161
+Ireland,1,FR,11.66899614
+Ireland,2,FR,11.42598879
+Ireland,3,FR,12.16743347
+Ireland,4,FR,12.2477252
+Ireland,5,FR,12.5124683
+Ireland,6,FR,13.22586071
+Ireland,7,FR,12.16901982
+Ireland,8,FR,10.50286999
+Ireland,9,FR,8.73252725
+Ireland,10,FR,6.706040392
+Ireland,11,FR,7.126946614
+Ireland,12,FR,6.659034823
+Ireland,13,FR,6.575865756
+Ireland,14,FR,7.20539657
+Ireland,15,FR,7.978624146
+Ireland,16,FR,9.184855138
+Ireland,17,FR,12.07782284
+Ireland,18,FR,13.60800334
+Ireland,19,FR,13.62033776
+Ireland,20,FR,13.33980086
+Ireland,21,FR,13.34432663
+Ireland,22,FR,13.06518629
+Ireland,23,FR,13.06570693
+Ireland,24,FR,12.6000842
+Ireland,1,UK,5.684219335
+Ireland,2,UK,3.889241164
+Ireland,3,UK,4.087906668
+Ireland,4,UK,4.934147609
+Ireland,5,UK,3.332793362
+Ireland,6,UK,5.012849718
+Ireland,7,UK,5.217579967
+Ireland,8,UK,1.08309749
+Ireland,9,UK,0.558346599
+Ireland,10,UK,1.905422928
+Ireland,11,UK,4.896367909
+Ireland,12,UK,6.862900876
+Ireland,13,UK,8.813268637
+Ireland,14,UK,9.021394639
+Ireland,15,UK,7.607135506
+Ireland,16,UK,8.292502005
+Ireland,17,UK,10.78823329
+Ireland,18,UK,12.88667323
+Ireland,19,UK,10.66067798
+Ireland,20,UK,9.352679314
+Ireland,21,UK,9.700859593
+Ireland,22,UK,20.21440808
+Ireland,23,UK,19.39725312
+Ireland,24,UK,15.20962437
+Israel,1,CY,-14.35
+Israel,2,CY,-14.68
+Israel,3,CY,-15.35
+Israel,4,CY,-17.79
+Israel,5,CY,-18.15
+Israel,6,CY,-16
+Israel,7,CY,-13.38
+Israel,8,CY,-13.02
+Israel,9,CY,-8.78
+Israel,10,CY,-6.98
+Israel,11,CY,-8.45
+Israel,12,CY,-11.98
+Israel,13,CY,-18.17
+Israel,14,CY,-21.57
+Israel,15,CY,-20.75
+Israel,16,CY,-19.31
+Israel,17,CY,-23.4
+Israel,18,CY,-22.74
+Israel,19,CY,-21.22
+Israel,20,CY,-19.66
+Israel,21,CY,-16.45
+Israel,22,CY,-14.12
+Israel,23,CY,-12.76
+Israel,24,CY,-12.06
+Israel,1,PS,16.63868104
+Israel,2,PS,15.83170144
+Israel,3,PS,15.54025371
+Israel,4,PS,16.40538997
+Israel,5,PS,17.76515021
+Israel,6,PS,18.93986793
+Israel,7,PS,20.53757768
+Israel,8,PS,22.54311621
+Israel,9,PS,24.27279979
+Israel,10,PS,25.30509327
+Israel,11,PS,25.80168098
+Israel,12,PS,25.92821655
+Israel,13,PS,26.50870508
+Israel,14,PS,26.82018764
+Israel,15,PS,27.37418846
+Israel,16,PS,28.48956518
+Israel,17,PS,30.02580872
+Israel,18,PS,29.93622198
+Israel,19,PS,29.00953784
+Israel,20,PS,27.58867864
+Israel,21,PS,25.69945357
+Israel,22,PS,23.44954815
+Israel,23,PS,20.88130859
+Israel,24,PS,18.37456161
+Italy,1,AT,-3.63
+Italy,2,AT,-3.27
+Italy,3,AT,-2.8
+Italy,4,AT,-2.63
+Italy,5,AT,-2.41
+Italy,6,AT,-2.12
+Italy,7,AT,-3.09
+Italy,8,AT,-3.15
+Italy,9,AT,-3.24
+Italy,10,AT,-2.94
+Italy,11,AT,-2.25
+Italy,12,AT,-1.75
+Italy,13,AT,-1.86
+Italy,14,AT,-2
+Italy,15,AT,-1.78
+Italy,16,AT,-1.62
+Italy,17,AT,-2.68
+Italy,18,AT,-2.99
+Italy,19,AT,-2.8
+Italy,20,AT,-3
+Italy,21,AT,-3.26
+Italy,22,AT,-3.53
+Italy,23,AT,-3.61
+Italy,24,AT,-3.39
+Italy,1,CH,-18.84
+Italy,2,CH,-17.05
+Italy,3,CH,-15.5
+Italy,4,CH,-14.68
+Italy,5,CH,-15.15
+Italy,6,CH,-16.46
+Italy,7,CH,-18.55
+Italy,8,CH,-18.49
+Italy,9,CH,-17.35
+Italy,10,CH,-15.13
+Italy,11,CH,-15.03
+Italy,12,CH,-14.07
+Italy,13,CH,-14.9
+Italy,14,CH,-16.64
+Italy,15,CH,-16.56
+Italy,16,CH,-19.35
+Italy,17,CH,-20.77
+Italy,18,CH,-21.8
+Italy,19,CH,-20.48
+Italy,20,CH,-19.84
+Italy,21,CH,-19.96
+Italy,22,CH,-19.32
+Italy,23,CH,-18.41
+Italy,24,CH,-17.69
+Italy,1,DZ,0
+Italy,2,DZ,0
+Italy,3,DZ,0
+Italy,4,DZ,0
+Italy,5,DZ,0
+Italy,6,DZ,0
+Italy,7,DZ,0
+Italy,8,DZ,0
+Italy,9,DZ,0
+Italy,10,DZ,0
+Italy,11,DZ,0
+Italy,12,DZ,0
+Italy,13,DZ,0
+Italy,14,DZ,0
+Italy,15,DZ,0
+Italy,16,DZ,0
+Italy,17,DZ,0
+Italy,18,DZ,0
+Italy,19,DZ,0
+Italy,20,DZ,0
+Italy,21,DZ,0
+Italy,22,DZ,0
+Italy,23,DZ,0
+Italy,24,DZ,0
+Italy,1,ES,0
+Italy,2,ES,0
+Italy,3,ES,0
+Italy,4,ES,0
+Italy,5,ES,0
+Italy,6,ES,0
+Italy,7,ES,0
+Italy,8,ES,0
+Italy,9,ES,0
+Italy,10,ES,0
+Italy,11,ES,0
+Italy,12,ES,0
+Italy,13,ES,0
+Italy,14,ES,0
+Italy,15,ES,0
+Italy,16,ES,0
+Italy,17,ES,0
+Italy,18,ES,0
+Italy,19,ES,0
+Italy,20,ES,0
+Italy,21,ES,0
+Italy,22,ES,0
+Italy,23,ES,0
+Italy,24,ES,0
+Italy,1,FR,-17.5749619
+Italy,2,FR,-17.77245317
+Italy,3,FR,-17.48860521
+Italy,4,FR,-18.50120628
+Italy,5,FR,-19.14323641
+Italy,6,FR,-18.44942437
+Italy,7,FR,-17.96274404
+Italy,8,FR,-15.90357574
+Italy,9,FR,-13.92225377
+Italy,10,FR,-13.6509376
+Italy,11,FR,-12.79529498
+Italy,12,FR,-12.37173092
+Italy,13,FR,-13.86469808
+Italy,14,FR,-15.35899961
+Italy,15,FR,-17.68281732
+Italy,16,FR,-19.47018549
+Italy,17,FR,-19.91982924
+Italy,18,FR,-18.32487691
+Italy,19,FR,-16.7042198
+Italy,20,FR,-16.94228131
+Italy,21,FR,-16.99897255
+Italy,22,FR,-16.2815512
+Italy,23,FR,-16.32765777
+Italy,24,FR,-16.89744072
+Italy,1,GR,2.24
+Italy,2,GR,2.6
+Italy,3,GR,2.88
+Italy,4,GR,3.19
+Italy,5,GR,3.35
+Italy,6,GR,2.36
+Italy,7,GR,2.3
+Italy,8,GR,3.43
+Italy,9,GR,5.55
+Italy,10,GR,7.09
+Italy,11,GR,7.91
+Italy,12,GR,8.12
+Italy,13,GR,7.7
+Italy,14,GR,7.28
+Italy,15,GR,6.81
+Italy,16,GR,7.23
+Italy,17,GR,5.5
+Italy,18,GR,4.29
+Italy,19,GR,4.02
+Italy,20,GR,3.72
+Italy,21,GR,3.24
+Italy,22,GR,3.06
+Italy,23,GR,2.44
+Italy,24,GR,2.1
+Italy,1,ME,1.275370652
+Italy,2,ME,1.276994835
+Italy,3,ME,1.302791021
+Italy,4,ME,1.500843934
+Italy,5,ME,1.763778854
+Italy,6,ME,1.518881898
+Italy,7,ME,1.729001866
+Italy,8,ME,3.097339249
+Italy,9,ME,3.88311031
+Italy,10,ME,4.656284275
+Italy,11,ME,5.696986954
+Italy,12,ME,5.940893243
+Italy,13,ME,5.552739817
+Italy,14,ME,5.19649974
+Italy,15,ME,5.530556329
+Italy,16,ME,5.532919205
+Italy,17,ME,4.631670753
+Italy,18,ME,4.186002226
+Italy,19,ME,4.148017249
+Italy,20,ME,4.004366643
+Italy,21,ME,3.534490656
+Italy,22,ME,3.110447521
+Italy,23,ME,2.263796829
+Italy,24,ME,1.624605911
+Italy,1,MT,2.467490837
+Italy,2,MT,2.435914705
+Italy,3,MT,2.416827054
+Italy,4,MT,2.402037218
+Italy,5,MT,2.394943622
+Italy,6,MT,2.393896768
+Italy,7,MT,2.435734235
+Italy,8,MT,2.475727755
+Italy,9,MT,2.445434625
+Italy,10,MT,2.385884295
+Italy,11,MT,2.336012718
+Italy,12,MT,2.3192814
+Italy,13,MT,2.332959709
+Italy,14,MT,2.378087766
+Italy,15,MT,2.448747011
+Italy,16,MT,2.510752895
+Italy,17,MT,2.560755108
+Italy,18,MT,2.590416697
+Italy,19,MT,2.590340242
+Italy,20,MT,2.573634287
+Italy,21,MT,2.57000207
+Italy,22,MT,2.569910091
+Italy,23,MT,2.549060728
+Italy,24,MT,2.51027869
+Italy,1,SI,0.882255709
+Italy,2,SI,1.519557956
+Italy,3,SI,1.900060549
+Italy,4,SI,2.332603291
+Italy,5,SI,2.72698947
+Italy,6,SI,2.289088304
+Italy,7,SI,0.935942043
+Italy,8,SI,0.390747625
+Italy,9,SI,0.241914591
+Italy,10,SI,0.286514659
+Italy,11,SI,1.508953767
+Italy,12,SI,2.359494779
+Italy,13,SI,1.863335249
+Italy,14,SI,1.996220287
+Italy,15,SI,3.496304288
+Italy,16,SI,4.448975898
+Italy,17,SI,4.173556781
+Italy,18,SI,3.616580271
+Italy,19,SI,3.635523196
+Italy,20,SI,3.815076105
+Italy,21,SI,3.199631179
+Italy,22,SI,2.136684732
+Italy,23,SI,1.158662101
+Italy,24,SI,0.985758404
+Italy,1,TN,0.576825367
+Italy,2,TN,0.623925475
+Italy,3,TN,0.528490627
+Italy,4,TN,0.562470617
+Italy,5,TN,0.569472919
+Italy,6,TN,0.524476263
+Italy,7,TN,0.419536382
+Italy,8,TN,0.304422798
+Italy,9,TN,0.308972984
+Italy,10,TN,0.371814031
+Italy,11,TN,0.332838387
+Italy,12,TN,0.340081072
+Italy,13,TN,0.36322805
+Italy,14,TN,0.377012858
+Italy,15,TN,0.392820826
+Italy,16,TN,0.282761104
+Italy,17,TN,0.252237606
+Italy,18,TN,0.177016854
+Italy,19,TN,0.246086817
+Italy,20,TN,0.203890097
+Italy,21,TN,0.237705586
+Italy,22,TN,0.287297343
+Italy,23,TN,0.36375685
+Italy,24,TN,0.469632898
+Kosovo,1,AL,-6.02
+Kosovo,2,AL,-5.7
+Kosovo,3,AL,-5.39
+Kosovo,4,AL,-5.57
+Kosovo,5,AL,-6.27
+Kosovo,6,AL,-6.22
+Kosovo,7,AL,-4.78
+Kosovo,8,AL,-3.08
+Kosovo,9,AL,-0.67
+Kosovo,10,AL,1.03
+Kosovo,11,AL,1.51
+Kosovo,12,AL,1.51
+Kosovo,13,AL,0.93
+Kosovo,14,AL,-0.44
+Kosovo,15,AL,-2.94
+Kosovo,16,AL,-4.47
+Kosovo,17,AL,-6.86
+Kosovo,18,AL,-7.84
+Kosovo,19,AL,-7.86
+Kosovo,20,AL,-7.89
+Kosovo,21,AL,-8
+Kosovo,22,AL,-8.02
+Kosovo,23,AL,-7.66
+Kosovo,24,AL,-6.93
+Kosovo,1,RS,6.019137363
+Kosovo,2,RS,5.696910371
+Kosovo,3,RS,5.386908997
+Kosovo,4,RS,5.56854842
+Kosovo,5,RS,6.272396635
+Kosovo,6,RS,6.21607223
+Kosovo,7,RS,4.782466003
+Kosovo,8,RS,3.082049222
+Kosovo,9,RS,0.674607143
+Kosovo,10,RS,-1.030569254
+Kosovo,11,RS,-1.509410485
+Kosovo,12,RS,-1.507858288
+Kosovo,13,RS,-0.930004121
+Kosovo,14,RS,0.442177312
+Kosovo,15,RS,2.942135875
+Kosovo,16,RS,4.467395261
+Kosovo,17,RS,6.86168212
+Kosovo,18,RS,7.842298764
+Kosovo,19,RS,7.86415087
+Kosovo,20,RS,7.885618361
+Kosovo,21,RS,8.001282967
+Kosovo,22,RS,8.016111378
+Kosovo,23,RS,7.662234547
+Kosovo,24,RS,6.93267239
+Latvia,1,BW,-4.896928339
+Latvia,2,BW,-4.626935541
+Latvia,3,BW,-4.251340476
+Latvia,4,BW,-4.238259606
+Latvia,5,BW,-4.065648694
+Latvia,6,BW,-4.020233335
+Latvia,7,BW,-4.771408404
+Latvia,8,BW,-5.637667397
+Latvia,9,BW,-5.831173529
+Latvia,10,BW,-6.682425545
+Latvia,11,BW,-7.102436001
+Latvia,12,BW,-7.360746744
+Latvia,13,BW,-7.417638938
+Latvia,14,BW,-7.386319305
+Latvia,15,BW,-7.629240671
+Latvia,16,BW,-7.685105458
+Latvia,17,BW,-7.64604219
+Latvia,18,BW,-6.998747118
+Latvia,19,BW,-6.783474677
+Latvia,20,BW,-6.647562527
+Latvia,21,BW,-6.57272525
+Latvia,22,BW,-5.970400126
+Latvia,23,BW,-5.784368011
+Latvia,24,BW,-5.271464751
+Latvia,1,EE,2.484123926
+Latvia,2,EE,2.613108394
+Latvia,3,EE,3.004052328
+Latvia,4,EE,3.768000997
+Latvia,5,EE,4.554584727
+Latvia,6,EE,4.154077515
+Latvia,7,EE,1.993711699
+Latvia,8,EE,0.346277793
+Latvia,9,EE,-1.494172172
+Latvia,10,EE,-2.555087957
+Latvia,11,EE,-2.924607906
+Latvia,12,EE,-2.762788574
+Latvia,13,EE,-2.927845319
+Latvia,14,EE,-2.749631709
+Latvia,15,EE,-2.429252096
+Latvia,16,EE,-2.601264048
+Latvia,17,EE,-1.381803302
+Latvia,18,EE,0.374007994
+Latvia,19,EE,0.443757833
+Latvia,20,EE,0.093599265
+Latvia,21,EE,0.673600407
+Latvia,22,EE,1.030064068
+Latvia,23,EE,1.387415869
+Latvia,24,EE,2.011313765
+Latvia,1,LT,8.93421628
+Latvia,2,LT,9.213711076
+Latvia,3,LT,9.216088913
+Latvia,4,LT,9.102386492
+Latvia,5,LT,8.458350212
+Latvia,6,LT,7.822585811
+Latvia,7,LT,7.733159531
+Latvia,8,LT,7.381452928
+Latvia,9,LT,7.225705076
+Latvia,10,LT,7.920561032
+Latvia,11,LT,8.415440443
+Latvia,12,LT,8.791576909
+Latvia,13,LT,8.865135943
+Latvia,14,LT,9.387921263
+Latvia,15,LT,10.13409233
+Latvia,16,LT,10.67026527
+Latvia,17,LT,9.884489447
+Latvia,18,LT,7.663468723
+Latvia,19,LT,7.405282965
+Latvia,20,LT,7.798193686
+Latvia,21,LT,7.586867803
+Latvia,22,LT,7.316652125
+Latvia,23,LT,8.288553806
+Latvia,24,LT,8.593143034
+Latvia,1,RU,0
+Latvia,2,RU,0
+Latvia,3,RU,0
+Latvia,4,RU,0
+Latvia,5,RU,0
+Latvia,6,RU,0
+Latvia,7,RU,0
+Latvia,8,RU,0
+Latvia,9,RU,0
+Latvia,10,RU,0
+Latvia,11,RU,0
+Latvia,12,RU,0
+Latvia,13,RU,0
+Latvia,14,RU,0
+Latvia,15,RU,0
+Latvia,16,RU,0
+Latvia,17,RU,0
+Latvia,18,RU,0
+Latvia,19,RU,0
+Latvia,20,RU,0
+Latvia,21,RU,0
+Latvia,22,RU,0
+Latvia,23,RU,0
+Latvia,24,RU,0
+Latvia,1,SE,0
+Latvia,2,SE,0
+Latvia,3,SE,0
+Latvia,4,SE,0
+Latvia,5,SE,0
+Latvia,6,SE,0
+Latvia,7,SE,0
+Latvia,8,SE,0
+Latvia,9,SE,0
+Latvia,10,SE,0
+Latvia,11,SE,0
+Latvia,12,SE,0
+Latvia,13,SE,0
+Latvia,14,SE,0
+Latvia,15,SE,0
+Latvia,16,SE,0
+Latvia,17,SE,0
+Latvia,18,SE,0
+Latvia,19,SE,0
+Latvia,20,SE,0
+Latvia,21,SE,0
+Latvia,22,SE,0
+Latvia,23,SE,0
+Latvia,24,SE,0
+Libya,1,EG,-31.39
+Libya,2,EG,-32.28
+Libya,3,EG,-32.43
+Libya,4,EG,-32.43
+Libya,5,EG,-32.43
+Libya,6,EG,-32.43
+Libya,7,EG,-32.43
+Libya,8,EG,-32.43
+Libya,9,EG,-32.43
+Libya,10,EG,-32.43
+Libya,11,EG,-32.43
+Libya,12,EG,-32.23
+Libya,13,EG,-32.19
+Libya,14,EG,-32.21
+Libya,15,EG,-30.15
+Libya,16,EG,-15.95
+Libya,17,EG,3.82
+Libya,18,EG,-21.35
+Libya,19,EG,-27.82
+Libya,20,EG,-31.53
+Libya,21,EG,-30.86
+Libya,22,EG,-30.37
+Libya,23,EG,-30.9
+Libya,24,EG,-30.31
+Libya,1,GR,0
+Libya,2,GR,0
+Libya,3,GR,0
+Libya,4,GR,0
+Libya,5,GR,0
+Libya,6,GR,0
+Libya,7,GR,0
+Libya,8,GR,0
+Libya,9,GR,0
+Libya,10,GR,0
+Libya,11,GR,0
+Libya,12,GR,0
+Libya,13,GR,0
+Libya,14,GR,0
+Libya,15,GR,0
+Libya,16,GR,0
+Libya,17,GR,0
+Libya,18,GR,0
+Libya,19,GR,0
+Libya,20,GR,0
+Libya,21,GR,0
+Libya,22,GR,0
+Libya,23,GR,0
+Libya,24,GR,0
+Libya,1,TN,-37.45521533
+Libya,2,TN,-40.39641855
+Libya,3,TN,-41.34677792
+Libya,4,TN,-41.8060202
+Libya,5,TN,-45.71309103
+Libya,6,TN,-48.84261323
+Libya,7,TN,-48.11843147
+Libya,8,TN,-47.57163313
+Libya,9,TN,-48.32763811
+Libya,10,TN,-48.13812964
+Libya,11,TN,-46.50033747
+Libya,12,TN,-45.65246807
+Libya,13,TN,-44.71046889
+Libya,14,TN,-43.38648463
+Libya,15,TN,-42.63488751
+Libya,16,TN,-37.32636323
+Libya,17,TN,-28.94118986
+Libya,18,TN,-20.34620842
+Libya,19,TN,-1.994432729
+Libya,20,TN,10.1677298
+Libya,21,TN,3.124069647
+Libya,22,TN,-9.912572765
+Libya,23,TN,-21.44190934
+Libya,24,TN,-29.98103356
+Lithuania,1,LV,-10.8068607
+Lithuania,2,LV,-11.14493863
+Lithuania,3,LV,-11.14781487
+Lithuania,4,LV,-11.01028
+Lithuania,5,LV,-10.23125136
+Lithuania,6,LV,-9.462228416
+Lithuania,7,LV,-9.354058061
+Lithuania,8,LV,-8.928632467
+Lithuania,9,LV,-8.740239296
+Lithuania,10,LV,-9.580739601
+Lithuania,11,LV,-10.17934755
+Lithuania,12,LV,-10.63432359
+Lithuania,13,LV,-10.72330087
+Lithuania,14,LV,-11.35566391
+Lithuania,15,LV,-12.25823516
+Lithuania,16,LV,-12.90679191
+Lithuania,17,LV,-11.9563146
+Lithuania,18,LV,-9.269759804
+Lithuania,19,LV,-8.957457367
+Lithuania,20,LV,-9.432723612
+Lithuania,21,LV,-9.177103051
+Lithuania,22,LV,-8.850249179
+Lithuania,23,LV,-10.02586501
+Lithuania,24,LV,-10.39429725
+Lithuania,1,PL,21.66650603
+Lithuania,2,PL,20.97057801
+Lithuania,3,PL,20.72348179
+Lithuania,4,PL,19.98472176
+Lithuania,5,PL,19.75874012
+Lithuania,6,PL,21.05140839
+Lithuania,7,PL,22.42394005
+Lithuania,8,PL,22.86642112
+Lithuania,9,PL,20.9949246
+Lithuania,10,PL,18.33479672
+Lithuania,11,PL,17.11038072
+Lithuania,12,PL,16.67629584
+Lithuania,13,PL,16.90885246
+Lithuania,14,PL,18.6672543
+Lithuania,15,PL,19.86659722
+Lithuania,16,PL,22.15238448
+Lithuania,17,PL,23.54339529
+Lithuania,18,PL,24.21248733
+Lithuania,19,PL,24.22796576
+Lithuania,20,PL,24.16459164
+Lithuania,21,PL,24.31610032
+Lithuania,22,PL,23.85861909
+Lithuania,23,PL,22.92911701
+Lithuania,24,PL,21.90484277
+Lithuania,1,RU,0
+Lithuania,2,RU,0
+Lithuania,3,RU,0
+Lithuania,4,RU,0
+Lithuania,5,RU,0
+Lithuania,6,RU,0
+Lithuania,7,RU,0
+Lithuania,8,RU,0
+Lithuania,9,RU,0
+Lithuania,10,RU,0
+Lithuania,11,RU,0
+Lithuania,12,RU,0
+Lithuania,13,RU,0
+Lithuania,14,RU,0
+Lithuania,15,RU,0
+Lithuania,16,RU,0
+Lithuania,17,RU,0
+Lithuania,18,RU,0
+Lithuania,19,RU,0
+Lithuania,20,RU,0
+Lithuania,21,RU,0
+Lithuania,22,RU,0
+Lithuania,23,RU,0
+Lithuania,24,RU,0
+Lithuania,1,SE,-1.875212221
+Lithuania,2,SE,-1.999308161
+Lithuania,3,SE,-3.054515901
+Lithuania,4,SE,-3.438351711
+Lithuania,5,SE,-3.73842636
+Lithuania,6,SE,-3.145959947
+Lithuania,7,SE,-4.313090073
+Lithuania,8,SE,-5.499444163
+Lithuania,9,SE,-7.628072233
+Lithuania,10,SE,-7.79685961
+Lithuania,11,SE,-8.42426199
+Lithuania,12,SE,-9.457492964
+Lithuania,13,SE,-9.830515445
+Lithuania,14,SE,-9.702981774
+Lithuania,15,SE,-9.17890803
+Lithuania,16,SE,-8.157688539
+Lithuania,17,SE,-6.687996578
+Lithuania,18,SE,-5.274363651
+Lithuania,19,SE,-2.727791016
+Lithuania,20,SE,-1.898483462
+Lithuania,21,SE,-1.51360801
+Lithuania,22,SE,-0.898152514
+Lithuania,23,SE,0.903587343
+Lithuania,24,SE,0.451029696
+Luxembourg,1,BE,-2.590859498
+Luxembourg,2,BE,-2.855634812
+Luxembourg,3,BE,-2.943173019
+Luxembourg,4,BE,-3.164084634
+Luxembourg,5,BE,-3.46353149
+Luxembourg,6,BE,-3.233906986
+Luxembourg,7,BE,-2.278109475
+Luxembourg,8,BE,-1.629153027
+Luxembourg,9,BE,-1.332889694
+Luxembourg,10,BE,-1.883500669
+Luxembourg,11,BE,-2.064855827
+Luxembourg,12,BE,-2.12093193
+Luxembourg,13,BE,-2.262444189
+Luxembourg,14,BE,-2.285770443
+Luxembourg,15,BE,-2.414442642
+Luxembourg,16,BE,-2.273268711
+Luxembourg,17,BE,-2.02511445
+Luxembourg,18,BE,-2.151499215
+Luxembourg,19,BE,-2.095291867
+Luxembourg,20,BE,-2.102147417
+Luxembourg,21,BE,-2.263147509
+Luxembourg,22,BE,-2.112732016
+Luxembourg,23,BE,-2.29196342
+Luxembourg,24,BE,-2.833620371
+Luxembourg,1,DE,-11.14127557
+Luxembourg,2,DE,-10.45251685
+Luxembourg,3,DE,-9.630514821
+Luxembourg,4,DE,-8.721484209
+Luxembourg,5,DE,-7.802258807
+Luxembourg,6,DE,-8.294748188
+Luxembourg,7,DE,-11.31749746
+Luxembourg,8,DE,-11.98120215
+Luxembourg,9,DE,-14.034087
+Luxembourg,10,DE,-14.67443289
+Luxembourg,11,DE,-13.71734065
+Luxembourg,12,DE,-11.92616943
+Luxembourg,13,DE,-11.62629334
+Luxembourg,14,DE,-11.74058575
+Luxembourg,15,DE,-11.76276387
+Luxembourg,16,DE,-10.81202575
+Luxembourg,17,DE,-10.15271395
+Luxembourg,18,DE,-9.397911511
+Luxembourg,19,DE,-10.48916307
+Luxembourg,20,DE,-11.75594757
+Luxembourg,21,DE,-11.89725702
+Luxembourg,22,DE,-10.626008
+Luxembourg,23,DE,-10.48071342
+Luxembourg,24,DE,-9.605424381
+Luxembourg,1,FR,-3.170519669
+Luxembourg,2,FR,-3.198508057
+Luxembourg,3,FR,-2.986860571
+Luxembourg,4,FR,-2.734853922
+Luxembourg,5,FR,-2.513388875
+Luxembourg,6,FR,-2.333701808
+Luxembourg,7,FR,-2.265727676
+Luxembourg,8,FR,-2.314958214
+Luxembourg,9,FR,-2.266113099
+Luxembourg,10,FR,-2.273839632
+Luxembourg,11,FR,-2.313433777
+Luxembourg,12,FR,-2.385075376
+Luxembourg,13,FR,-2.378991193
+Luxembourg,14,FR,-2.424325769
+Luxembourg,15,FR,-2.454457822
+Luxembourg,16,FR,-2.4120968
+Luxembourg,17,FR,-2.609442873
+Luxembourg,18,FR,-2.718455536
+Luxembourg,19,FR,-2.838384604
+Luxembourg,20,FR,-2.853887651
+Luxembourg,21,FR,-2.920792086
+Luxembourg,22,FR,-2.809986668
+Luxembourg,23,FR,-2.866764879
+Luxembourg,24,FR,-3.038001316
+Malta,1,IT,-94.61456532
+Malta,2,IT,-93.40379609
+Malta,3,IT,-92.67189072
+Malta,4,IT,-92.10478266
+Malta,5,IT,-91.83278266
+Malta,6,IT,-91.79264164
+Malta,7,IT,-93.39687607
+Malta,8,IT,-94.93040537
+Malta,9,IT,-93.76883211
+Malta,10,IT,-91.48540781
+Malta,11,IT,-89.57310989
+Malta,12,IT,-88.93155678
+Malta,13,IT,-89.45604396
+Malta,14,IT,-91.18645421
+Malta,15,IT,-93.89584371
+Malta,16,IT,-96.27342491
+Malta,17,IT,-98.19073199
+Malta,18,IT,-99.32808913
+Malta,19,IT,-99.32515751
+Malta,20,IT,-98.68457692
+Malta,21,IT,-98.54530159
+Malta,22,IT,-98.54177473
+Malta,23,IT,-97.74231746
+Malta,24,IT,-96.25524176
+Malta,1,TN,0
+Malta,2,TN,0
+Malta,3,TN,0
+Malta,4,TN,0
+Malta,5,TN,0
+Malta,6,TN,0
+Malta,7,TN,0
+Malta,8,TN,0
+Malta,9,TN,0
+Malta,10,TN,0
+Malta,11,TN,0
+Malta,12,TN,0
+Malta,13,TN,0
+Malta,14,TN,0
+Malta,15,TN,0
+Malta,16,TN,0
+Malta,17,TN,0
+Malta,18,TN,0
+Malta,19,TN,0
+Malta,20,TN,0
+Malta,21,TN,0
+Malta,22,TN,0
+Malta,23,TN,0
+Malta,24,TN,0
+Moldova,1,RO,-2.949168912
+Moldova,2,RO,-0.928644098
+Moldova,3,RO,-1.452033499
+Moldova,4,RO,-5.545382134
+Moldova,5,RO,-15.47684403
+Moldova,6,RO,-23.49995551
+Moldova,7,RO,-34.29358561
+Moldova,8,RO,-45.19015686
+Moldova,9,RO,-52.25052623
+Moldova,10,RO,-53.95549256
+Moldova,11,RO,-54.58939844
+Moldova,12,RO,-54.28371092
+Moldova,13,RO,-53.54470861
+Moldova,14,RO,-53.31560546
+Moldova,15,RO,-49.35645321
+Moldova,16,RO,-43.16229972
+Moldova,17,RO,-39.61019231
+Moldova,18,RO,-38.87115438
+Moldova,19,RO,-39.04787398
+Moldova,20,RO,-38.53609518
+Moldova,21,RO,-34.92363683
+Moldova,22,RO,-29.24131283
+Moldova,23,RO,-17.57979706
+Moldova,24,RO,-8.482161645
+Moldova,1,UA,-21.41375895
+Moldova,2,UA,-20.65112052
+Moldova,3,UA,-18.82967777
+Moldova,4,UA,-14.1813006
+Moldova,5,UA,-4.141263914
+Moldova,6,UA,3.185700106
+Moldova,7,UA,10.41977543
+Moldova,8,UA,16.70006895
+Moldova,9,UA,19.94755158
+Moldova,10,UA,19.29200035
+Moldova,11,UA,19.37338816
+Moldova,12,UA,18.89953084
+Moldova,13,UA,18.1348123
+Moldova,14,UA,16.42578235
+Moldova,15,UA,10.99007409
+Moldova,16,UA,3.50968894
+Moldova,17,UA,-1.316505849
+Moldova,18,UA,-3.009299716
+Moldova,19,UA,-3.543054945
+Moldova,20,UA,-3.843357675
+Moldova,21,UA,-7.351086317
+Moldova,22,UA,-12.2854408
+Moldova,23,UA,-18.92566235
+Moldova,24,UA,-20.95533002
+Montenegro,1,AL,-3.52
+Montenegro,2,AL,-3.41
+Montenegro,3,AL,-3.42
+Montenegro,4,AL,-3.24
+Montenegro,5,AL,-3.25
+Montenegro,6,AL,-3.62
+Montenegro,7,AL,-2.88
+Montenegro,8,AL,-0.98
+Montenegro,9,AL,1.75
+Montenegro,10,AL,3.22
+Montenegro,11,AL,4.32
+Montenegro,12,AL,4.46
+Montenegro,13,AL,4
+Montenegro,14,AL,3.32
+Montenegro,15,AL,2.7
+Montenegro,16,AL,2.67
+Montenegro,17,AL,0.38
+Montenegro,18,AL,-0.43
+Montenegro,19,AL,-0.55
+Montenegro,20,AL,-0.65
+Montenegro,21,AL,-1.22
+Montenegro,22,AL,-2.06
+Montenegro,23,AL,-3.19
+Montenegro,24,AL,-3.65
+Montenegro,1,BA,4.51
+Montenegro,2,BA,4.59
+Montenegro,3,BA,4.87
+Montenegro,4,BA,5.22
+Montenegro,5,BA,5.56
+Montenegro,6,BA,5.55
+Montenegro,7,BA,5.36
+Montenegro,8,BA,6.66
+Montenegro,9,BA,6.02
+Montenegro,10,BA,5.74
+Montenegro,11,BA,6.45
+Montenegro,12,BA,6.74
+Montenegro,13,BA,6.31
+Montenegro,14,BA,6.46
+Montenegro,15,BA,7.82
+Montenegro,16,BA,8.16
+Montenegro,17,BA,8.42
+Montenegro,18,BA,9.36
+Montenegro,19,BA,9.55
+Montenegro,20,BA,9.64
+Montenegro,21,BA,9.39
+Montenegro,22,BA,8.7
+Montenegro,23,BA,6.84
+Montenegro,24,BA,5.66
+Montenegro,1,IT,-5.585411321
+Montenegro,2,IT,-5.592524335
+Montenegro,3,IT,-5.705497225
+Montenegro,4,IT,-6.572858398
+Montenegro,5,IT,-7.724366528
+Montenegro,6,IT,-6.651854605
+Montenegro,7,IT,-7.572062741
+Montenegro,8,IT,-13.56461643
+Montenegro,9,IT,-17.00585493
+Montenegro,10,IT,-20.39192517
+Montenegro,11,IT,-24.9496218
+Montenegro,12,IT,-26.01779516
+Montenegro,13,IT,-24.31789989
+Montenegro,14,IT,-22.75776726
+Montenegro,15,IT,-24.22074859
+Montenegro,16,IT,-24.23109667
+Montenegro,17,IT,-20.28413169
+Montenegro,18,IT,-18.33235239
+Montenegro,19,IT,-18.1659994
+Montenegro,20,IT,-17.53688996
+Montenegro,21,IT,-15.4790955
+Montenegro,22,IT,-13.62202334
+Montenegro,23,IT,-9.914166062
+Montenegro,24,IT,-7.114866751
+Montenegro,1,RS,5.392394224
+Montenegro,2,RS,5.140055433
+Montenegro,3,RS,4.840403233
+Montenegro,4,RS,4.809249596
+Montenegro,5,RS,5.843309394
+Montenegro,6,RS,4.302655561
+Montenegro,7,RS,1.774116417
+Montenegro,8,RS,1.420614924
+Montenegro,9,RS,0.633952
+Montenegro,10,RS,1.713111229
+Montenegro,11,RS,3.876824762
+Montenegro,12,RS,4.245318932
+Montenegro,13,RS,3.719989123
+Montenegro,14,RS,3.771753012
+Montenegro,15,RS,6.108377936
+Montenegro,16,RS,8.977134281
+Montenegro,17,RS,10.45999191
+Montenegro,18,RS,10.48593553
+Montenegro,19,RS,10.49839997
+Montenegro,20,RS,10.07526713
+Montenegro,21,RS,9.42927135
+Montenegro,22,RS,8.554794095
+Montenegro,23,RS,7.330834914
+Montenegro,24,RS,6.323679506
+Morocco,1,DE,0
+Morocco,2,DE,0
+Morocco,3,DE,0
+Morocco,4,DE,0
+Morocco,5,DE,0
+Morocco,6,DE,0
+Morocco,7,DE,0
+Morocco,8,DE,0
+Morocco,9,DE,0
+Morocco,10,DE,0
+Morocco,11,DE,0
+Morocco,12,DE,0
+Morocco,13,DE,0
+Morocco,14,DE,0
+Morocco,15,DE,0
+Morocco,16,DE,0
+Morocco,17,DE,0
+Morocco,18,DE,0
+Morocco,19,DE,0
+Morocco,20,DE,0
+Morocco,21,DE,0
+Morocco,22,DE,0
+Morocco,23,DE,0
+Morocco,24,DE,0
+Morocco,1,DZ,24.18281685
+Morocco,2,DZ,25.78785811
+Morocco,3,DZ,25.88113769
+Morocco,4,DZ,25.73750022
+Morocco,5,DZ,24.60899386
+Morocco,6,DZ,21.22784465
+Morocco,7,DZ,17.28856777
+Morocco,8,DZ,16.11704945
+Morocco,9,DZ,20.88547501
+Morocco,10,DZ,25.35441047
+Morocco,11,DZ,22.47731922
+Morocco,12,DZ,18.80587815
+Morocco,13,DZ,19.20005807
+Morocco,14,DZ,20.01422301
+Morocco,15,DZ,22.24730349
+Morocco,16,DZ,24.1443176
+Morocco,17,DZ,18.29042685
+Morocco,18,DZ,6.729332256
+Morocco,19,DZ,-3.898955398
+Morocco,20,DZ,-8.333913704
+Morocco,21,DZ,-1.820443008
+Morocco,22,DZ,8.087454212
+Morocco,23,DZ,13.7048398
+Morocco,24,DZ,19.00663629
+Morocco,1,ES,-41.11077968
+Morocco,2,ES,-38.77407531
+Morocco,3,ES,-38.08566839
+Morocco,4,ES,-37.98459082
+Morocco,5,ES,-38.59022204
+Morocco,6,ES,-39.05882719
+Morocco,7,ES,-42.01643568
+Morocco,8,ES,-47.75543493
+Morocco,9,ES,-51.97034583
+Morocco,10,ES,-52.80179713
+Morocco,11,ES,-55.03315342
+Morocco,12,ES,-55.97017992
+Morocco,13,ES,-56.13191349
+Morocco,14,ES,-55.95302025
+Morocco,15,ES,-55.47682288
+Morocco,16,ES,-54.83158112
+Morocco,17,ES,-53.30465859
+Morocco,18,ES,-53.16683409
+Morocco,19,ES,-55.14576848
+Morocco,20,ES,-55.58652736
+Morocco,21,ES,-55.6231643
+Morocco,22,ES,-53.34552402
+Morocco,23,ES,-49.89426837
+Morocco,24,ES,-45.04927774
+Netherlands,1,BE,3.843727119
+Netherlands,2,BE,2.843903489
+Netherlands,3,BE,2.337033287
+Netherlands,4,BE,1.350427612
+Netherlands,5,BE,0.430438714
+Netherlands,6,BE,3.347495766
+Netherlands,7,BE,7.046525102
+Netherlands,8,BE,10.2606015
+Netherlands,9,BE,7.698650779
+Netherlands,10,BE,3.890250056
+Netherlands,11,BE,2.921001712
+Netherlands,12,BE,-0.443284529
+Netherlands,13,BE,-1.057184743
+Netherlands,14,BE,-0.778615309
+Netherlands,15,BE,1.695191988
+Netherlands,16,BE,4.362983742
+Netherlands,17,BE,10.15396852
+Netherlands,18,BE,10.52323171
+Netherlands,19,BE,12.38743015
+Netherlands,20,BE,11.41220572
+Netherlands,21,BE,10.0167618
+Netherlands,22,BE,10.69413123
+Netherlands,23,BE,9.515056356
+Netherlands,24,BE,6.873657722
+Netherlands,1,DE,2.60980201
+Netherlands,2,DE,3.078069603
+Netherlands,3,DE,4.022532572
+Netherlands,4,DE,5.149420367
+Netherlands,5,DE,4.326861395
+Netherlands,6,DE,4.948049018
+Netherlands,7,DE,2.890369919
+Netherlands,8,DE,-0.797177273
+Netherlands,9,DE,-0.552778263
+Netherlands,10,DE,3.610340603
+Netherlands,11,DE,5.289089022
+Netherlands,12,DE,5.243899142
+Netherlands,13,DE,5.844894438
+Netherlands,14,DE,6.356870823
+Netherlands,15,DE,6.598604302
+Netherlands,16,DE,4.546603906
+Netherlands,17,DE,4.048242247
+Netherlands,18,DE,3.789403244
+Netherlands,19,DE,3.142650572
+Netherlands,20,DE,2.811716111
+Netherlands,21,DE,3.745491758
+Netherlands,22,DE,3.832807786
+Netherlands,23,DE,4.654813356
+Netherlands,24,DE,5.535964493
+Netherlands,1,DK,-1.854046346
+Netherlands,2,DK,-1.871389997
+Netherlands,3,DK,-1.833221549
+Netherlands,4,DK,-1.644358065
+Netherlands,5,DK,-1.510510613
+Netherlands,6,DK,-1.180828824
+Netherlands,7,DK,-1.276791416
+Netherlands,8,DK,-1.318969855
+Netherlands,9,DK,-1.386952845
+Netherlands,10,DK,-1.035248438
+Netherlands,11,DK,-1.14647631
+Netherlands,12,DK,-1.342576208
+Netherlands,13,DK,-1.476641408
+Netherlands,14,DK,-1.264625583
+Netherlands,15,DK,-1.075468444
+Netherlands,16,DK,-1.065465415
+Netherlands,17,DK,-1.123793561
+Netherlands,18,DK,-1.291532798
+Netherlands,19,DK,-1.101290023
+Netherlands,20,DK,-1.076185872
+Netherlands,21,DK,-1.217439523
+Netherlands,22,DK,-1.193288311
+Netherlands,23,DK,-1.494928157
+Netherlands,24,DK,-1.56095038
+Netherlands,1,NO,-3.746512664
+Netherlands,2,NO,-3.711391277
+Netherlands,3,NO,-3.677474165
+Netherlands,4,NO,-3.62223393
+Netherlands,5,NO,-3.680325286
+Netherlands,6,NO,-3.759370258
+Netherlands,7,NO,-3.574561776
+Netherlands,8,NO,-3.197675674
+Netherlands,9,NO,-2.644068324
+Netherlands,10,NO,-2.136303628
+Netherlands,11,NO,-2.065262701
+Netherlands,12,NO,-2.046230882
+Netherlands,13,NO,-2.121634747
+Netherlands,14,NO,-2.12114886
+Netherlands,15,NO,-2.14391269
+Netherlands,16,NO,-2.471852156
+Netherlands,17,NO,-3.168404053
+Netherlands,18,NO,-3.898840885
+Netherlands,19,NO,-4.022255495
+Netherlands,20,NO,-4.057723073
+Netherlands,21,NO,-3.970401645
+Netherlands,22,NO,-3.932427367
+Netherlands,23,NO,-3.918556676
+Netherlands,24,NO,-3.825899688
+Netherlands,1,NW,-9.876148916
+Netherlands,2,NW,-9.381732387
+Netherlands,3,NW,-8.78457331
+Netherlands,4,NW,-7.793791529
+Netherlands,5,NW,-7.06683159
+Netherlands,6,NW,-6.843785244
+Netherlands,7,NW,-6.641819792
+Netherlands,8,NW,-5.776470514
+Netherlands,9,NW,-4.620562829
+Netherlands,10,NW,-3.862676916
+Netherlands,11,NW,-3.267203485
+Netherlands,12,NW,-3.369442515
+Netherlands,13,NW,-3.659115761
+Netherlands,14,NW,-3.295753142
+Netherlands,15,NW,-3.291541905
+Netherlands,16,NW,-4.156601874
+Netherlands,17,NW,-5.587969103
+Netherlands,18,NW,-7.822731597
+Netherlands,19,NW,-8.562218444
+Netherlands,20,NW,-9.203807147
+Netherlands,21,NW,-9.689991062
+Netherlands,22,NW,-9.891639
+Netherlands,23,NW,-10.76798248
+Netherlands,24,NW,-10.77101846
+Netherlands,1,UK,-10.18007404
+Netherlands,2,UK,-10.38008332
+Netherlands,3,UK,-10.60628092
+Netherlands,4,UK,-10.5515683
+Netherlands,5,UK,-10.14754454
+Netherlands,6,UK,-9.04921756
+Netherlands,7,UK,-5.929698254
+Netherlands,8,UK,-2.406960372
+Netherlands,9,UK,-0.195342202
+Netherlands,10,UK,0.24607777
+Netherlands,11,UK,0.203237035
+Netherlands,12,UK,-0.237379497
+Netherlands,13,UK,-0.097567232
+Netherlands,14,UK,-0.035769494
+Netherlands,15,UK,-0.479500019
+Netherlands,16,UK,-1.729373062
+Netherlands,17,UK,-3.696063187
+Netherlands,18,UK,-6.406431864
+Netherlands,19,UK,-6.288251242
+Netherlands,20,UK,-6.237721925
+Netherlands,21,UK,-6.229320074
+Netherlands,22,UK,-6.265982425
+Netherlands,23,UK,-7.229867718
+Netherlands,24,UK,-7.978011648
+North Hub,1,BE,37.77927354
+North Hub,2,BE,37.46389957
+North Hub,3,BE,37.25224882
+North Hub,4,BE,37.0464578
+North Hub,5,BE,36.79007504
+North Hub,6,BE,35.44944742
+North Hub,7,BE,33.63717327
+North Hub,8,BE,27.90767087
+North Hub,9,BE,22.22206788
+North Hub,10,BE,18.62292889
+North Hub,11,BE,17.09691745
+North Hub,12,BE,16.69767995
+North Hub,13,BE,16.35360753
+North Hub,14,BE,16.96783494
+North Hub,15,BE,18.3828995
+North Hub,16,BE,22.99054533
+North Hub,17,BE,30.45866586
+North Hub,18,BE,33.76153306
+North Hub,19,BE,33.95883079
+North Hub,20,BE,33.82677099
+North Hub,21,BE,33.73700952
+North Hub,22,BE,34.46261047
+North Hub,23,BE,35.5806863
+North Hub,24,BE,36.25874035
+North Hub,1,DK,14.01559954
+North Hub,2,DK,14.20067135
+North Hub,3,DK,13.78807702
+North Hub,4,DK,13.90537369
+North Hub,5,DK,13.80769199
+North Hub,6,DK,13.70853929
+North Hub,7,DK,12.4852515
+North Hub,8,DK,9.94432983
+North Hub,9,DK,7.851271339
+North Hub,10,DK,7.315384583
+North Hub,11,DK,6.648015046
+North Hub,12,DK,6.16933919
+North Hub,13,DK,6.160926527
+North Hub,14,DK,6.62539586
+North Hub,15,DK,7.474254664
+North Hub,16,DK,8.356951444
+North Hub,17,DK,10.86011395
+North Hub,18,DK,13.03525783
+North Hub,19,DK,13.82761615
+North Hub,20,DK,14.18442528
+North Hub,21,DK,13.89037704
+North Hub,22,DK,13.92882168
+North Hub,23,DK,13.94385053
+North Hub,24,DK,14.19972978
+North Hub,1,NL,16.76648537
+North Hub,2,NL,15.92712708
+North Hub,3,NL,14.91334539
+North Hub,4,NL,13.2313205
+North Hub,5,NL,11.99717921
+North Hub,6,NL,11.61851913
+North Hub,7,NL,11.27564755
+North Hub,8,NL,9.806566222
+North Hub,9,NL,7.844211315
+North Hub,10,NL,6.557567787
+North Hub,11,NL,5.546647777
+North Hub,12,NL,5.720216362
+North Hub,13,NL,6.211987222
+North Hub,14,NL,5.5951158
+North Hub,15,NL,5.58796649
+North Hub,16,NL,7.05655667
+North Hub,17,NL,9.486552198
+North Hub,18,NL,13.28045132
+North Hub,19,NL,14.53585922
+North Hub,20,NL,15.62506795
+North Hub,21,NL,16.45044994
+North Hub,22,NL,16.79278249
+North Hub,23,NL,18.2805284
+North Hub,24,NL,18.2856825
+North Hub,1,UK,-5.71563452
+North Hub,2,UK,-5.728241886
+North Hub,3,UK,-6.079471761
+North Hub,4,UK,-6.150888321
+North Hub,5,UK,-5.667043956
+North Hub,6,UK,-3.936222911
+North Hub,7,UK,-1.236581108
+North Hub,8,UK,4.257567116
+North Hub,9,UK,8.270466841
+North Hub,10,UK,9.730700358
+North Hub,11,UK,10.65870406
+North Hub,12,UK,10.42834178
+North Hub,13,UK,10.73828431
+North Hub,14,UK,10.02595253
+North Hub,15,UK,8.936609347
+North Hub,16,UK,5.929233516
+North Hub,17,UK,1.730799323
+North Hub,18,UK,-0.625048013
+North Hub,19,UK,-0.178738564
+North Hub,20,UK,-0.243942372
+North Hub,21,UK,-0.25339931
+North Hub,22,UK,-1.004088072
+North Hub,23,UK,-1.627478948
+North Hub,24,UK,-3.215214254
+North Macedonia,1,AL,-13.3
+North Macedonia,2,AL,-13.15
+North Macedonia,3,AL,-12.78
+North Macedonia,4,AL,-12.29
+North Macedonia,5,AL,-11.25
+North Macedonia,6,AL,-9.57
+North Macedonia,7,AL,-7.37
+North Macedonia,8,AL,-4.9
+North Macedonia,9,AL,-4.95
+North Macedonia,10,AL,-5.3
+North Macedonia,11,AL,-6.08
+North Macedonia,12,AL,-6.66
+North Macedonia,13,AL,-6.9
+North Macedonia,14,AL,-7.58
+North Macedonia,15,AL,-9.05
+North Macedonia,16,AL,-9.58
+North Macedonia,17,AL,-10.03
+North Macedonia,18,AL,-9.1
+North Macedonia,19,AL,-8.2
+North Macedonia,20,AL,-8.13
+North Macedonia,21,AL,-8.78
+North Macedonia,22,AL,-10.33
+North Macedonia,23,AL,-11.55
+North Macedonia,24,AL,-12.6
+North Macedonia,1,BG,2.393430697
+North Macedonia,2,BG,2.592353739
+North Macedonia,3,BG,2.881157043
+North Macedonia,4,BG,3.474825057
+North Macedonia,5,BG,3.641105208
+North Macedonia,6,BG,2.433633026
+North Macedonia,7,BG,0.006401531
+North Macedonia,8,BG,-3.062055861
+North Macedonia,9,BG,-4.132851527
+North Macedonia,10,BG,-4.621703901
+North Macedonia,11,BG,-5.046716342
+North Macedonia,12,BG,-5.223263183
+North Macedonia,13,BG,-5.281878326
+North Macedonia,14,BG,-5.372136378
+North Macedonia,15,BG,-3.983927103
+North Macedonia,16,BG,-2.95065865
+North Macedonia,17,BG,-1.657735676
+North Macedonia,18,BG,-0.097891268
+North Macedonia,19,BG,0.331193586
+North Macedonia,20,BG,0.568887967
+North Macedonia,21,BG,0.817958135
+North Macedonia,22,BG,2.676285593
+North Macedonia,23,BG,2.548279943
+North Macedonia,24,BG,2.847544405
+North Macedonia,1,GR,-9.4
+North Macedonia,2,GR,-8.65
+North Macedonia,3,GR,-5.91
+North Macedonia,4,GR,-3.89
+North Macedonia,5,GR,-2.63
+North Macedonia,6,GR,-2.73
+North Macedonia,7,GR,-1.45
+North Macedonia,8,GR,-2.01
+North Macedonia,9,GR,1.14
+North Macedonia,10,GR,4.27
+North Macedonia,11,GR,4.13
+North Macedonia,12,GR,2.99
+North Macedonia,13,GR,1.25
+North Macedonia,14,GR,-2.03
+North Macedonia,15,GR,-4.82
+North Macedonia,16,GR,-1.33
+North Macedonia,17,GR,-6.05
+North Macedonia,18,GR,-11.2
+North Macedonia,19,GR,-11.5
+North Macedonia,20,GR,-12.5
+North Macedonia,21,GR,-12.83
+North Macedonia,22,GR,-13.83
+North Macedonia,23,GR,-12.26
+North Macedonia,24,GR,-9.85
+North Macedonia,1,RS,-1.048863259
+North Macedonia,2,RS,-1.604644931
+North Macedonia,3,RS,-1.677462074
+North Macedonia,4,RS,-1.115024967
+North Macedonia,5,RS,0.022635116
+North Macedonia,6,RS,2.532548898
+North Macedonia,7,RS,1.844670762
+North Macedonia,8,RS,1.648820323
+North Macedonia,9,RS,-2.160552042
+North Macedonia,10,RS,-4.724603808
+North Macedonia,11,RS,-6.29054971
+North Macedonia,12,RS,-6.568499551
+North Macedonia,13,RS,-6.560381246
+North Macedonia,14,RS,-4.699483033
+North Macedonia,15,RS,-1.638723737
+North Macedonia,16,RS,-0.413146209
+North Macedonia,17,RS,3.649453141
+North Macedonia,18,RS,6.630790483
+North Macedonia,19,RS,7.518665595
+North Macedonia,20,RS,7.454831709
+North Macedonia,21,RS,7.00974454
+North Macedonia,22,RS,5.971906749
+North Macedonia,23,RS,4.025409237
+North Macedonia,24,RS,2.053845722
+Norway,1,DE,12.52081642
+Norway,2,DE,12.36235216
+Norway,3,DE,12.44427192
+Norway,4,DE,12.48655535
+Norway,5,DE,12.46867075
+Norway,6,DE,12.43973493
+Norway,7,DE,11.86684577
+Norway,8,DE,9.631851547
+Norway,9,DE,7.893404366
+Norway,10,DE,7.471771654
+Norway,11,DE,7.380746234
+Norway,12,DE,7.560932212
+Norway,13,DE,7.796073147
+Norway,14,DE,7.653179312
+Norway,15,DE,7.933385186
+Norway,16,DE,8.495862205
+Norway,17,DE,10.88634754
+Norway,18,DE,12.84192695
+Norway,19,DE,13.26737852
+Norway,20,DE,13.15758181
+Norway,21,DE,13.06352243
+Norway,22,DE,13.00985709
+Norway,23,DE,13.13402154
+Norway,24,DE,13.08459883
+Norway,1,DK,11.41960949
+Norway,2,DK,11.26267384
+Norway,3,DK,11.23368902
+Norway,4,DK,11.10382219
+Norway,5,DK,11.34239032
+Norway,6,DK,12.17636011
+Norway,7,DK,11.96083303
+Norway,8,DK,9.395347881
+Norway,9,DK,6.892381107
+Norway,10,DK,5.423417417
+Norway,11,DK,4.421856026
+Norway,12,DK,4.202116832
+Norway,13,DK,4.385098103
+Norway,14,DK,5.029267829
+Norway,15,DK,5.64136751
+Norway,16,DK,7.280029787
+Norway,17,DK,10.69874834
+Norway,18,DK,13.28399836
+Norway,19,DK,14.39142419
+Norway,20,DK,14.15676329
+Norway,21,DK,14.04920746
+Norway,22,DK,13.67475306
+Norway,23,DK,13.48362512
+Norway,24,DK,12.99351417
+Norway,1,FI,0
+Norway,2,FI,0
+Norway,3,FI,0
+Norway,4,FI,0
+Norway,5,FI,0
+Norway,6,FI,0
+Norway,7,FI,0
+Norway,8,FI,0
+Norway,9,FI,0
+Norway,10,FI,0
+Norway,11,FI,0
+Norway,12,FI,0
+Norway,13,FI,0
+Norway,14,FI,0
+Norway,15,FI,0
+Norway,16,FI,0
+Norway,17,FI,0
+Norway,18,FI,0
+Norway,19,FI,0
+Norway,20,FI,0
+Norway,21,FI,0
+Norway,22,FI,0
+Norway,23,FI,0
+Norway,24,FI,0
+Norway,1,NL,5.993106704
+Norway,2,NL,5.936924799
+Norway,3,NL,5.882669311
+Norway,4,NL,5.794304304
+Norway,5,NL,5.887230106
+Norway,6,NL,6.013674347
+Norway,7,NL,5.718045571
+Norway,8,NL,5.115159947
+Norway,9,NL,4.229582286
+Norway,10,NL,3.417336799
+Norway,11,NL,3.303696224
+Norway,12,NL,3.273251986
+Norway,13,NL,3.393871733
+Norway,14,NL,3.393094484
+Norway,15,NL,3.429508631
+Norway,16,NL,3.954096799
+Norway,17,NL,5.068335617
+Norway,18,NL,6.236778451
+Norway,19,NL,6.434198556
+Norway,20,NL,6.490934247
+Norway,21,NL,6.351250576
+Norway,22,NL,6.290505047
+Norway,23,NL,6.268316804
+Norway,24,NL,6.120098109
+Norway,1,RU,0
+Norway,2,RU,0
+Norway,3,RU,0
+Norway,4,RU,0
+Norway,5,RU,0
+Norway,6,RU,0
+Norway,7,RU,0
+Norway,8,RU,0
+Norway,9,RU,0
+Norway,10,RU,0
+Norway,11,RU,0
+Norway,12,RU,0
+Norway,13,RU,0
+Norway,14,RU,0
+Norway,15,RU,0
+Norway,16,RU,0
+Norway,17,RU,0
+Norway,18,RU,0
+Norway,19,RU,0
+Norway,20,RU,0
+Norway,21,RU,0
+Norway,22,RU,0
+Norway,23,RU,0
+Norway,24,RU,0
+Norway,1,SE,27.64419375
+Norway,2,SE,27.48820394
+Norway,3,SE,27.55601193
+Norway,4,SE,27.76338728
+Norway,5,SE,28.96988933
+Norway,6,SE,30.46882887
+Norway,7,SE,29.73129156
+Norway,8,SE,25.84739172
+Norway,9,SE,21.41781889
+Norway,10,SE,18.40898542
+Norway,11,SE,16.72749414
+Norway,12,SE,15.10266288
+Norway,13,SE,15.90817653
+Norway,14,SE,17.51344869
+Norway,15,SE,20.74970553
+Norway,16,SE,23.31427997
+Norway,17,SE,29.06711665
+Norway,18,SE,32.69641981
+Norway,19,SE,33.83794953
+Norway,20,SE,32.9005006
+Norway,21,SE,31.87010885
+Norway,22,SE,30.98914355
+Norway,23,SE,30.59028649
+Norway,24,SE,29.65039636
+Norway,1,UK,3.034684946
+Norway,2,UK,3.014626811
+Norway,3,UK,2.844140228
+Norway,4,UK,2.908105675
+Norway,5,UK,3.28211074
+Norway,6,UK,3.525897952
+Norway,7,UK,4.62860481
+Norway,8,UK,4.738428518
+Norway,9,UK,4.573140405
+Norway,10,UK,4.262208434
+Norway,11,UK,4.053683673
+Norway,12,UK,3.604105648
+Norway,13,UK,3.682023178
+Norway,14,UK,4.063711642
+Norway,15,UK,4.19823519
+Norway,16,UK,4.131160866
+Norway,17,UK,5.494490715
+Norway,18,UK,6.522354426
+Norway,19,UK,7.331642019
+Norway,20,UK,6.932095931
+Norway,21,UK,6.788414943
+Norway,22,UK,6.701206901
+Norway,23,UK,6.406419487
+Norway,24,UK,5.703676388
+Palestine,1,IL,-22.18490806
+Palestine,2,IL,-21.10893526
+Palestine,3,IL,-20.72033828
+Palestine,4,IL,-21.8738533
+Palestine,5,IL,-23.68686694
+Palestine,6,IL,-25.25315723
+Palestine,7,IL,-27.3834369
+Palestine,8,IL,-30.05748828
+Palestine,9,IL,-32.36373306
+Palestine,10,IL,-33.74012436
+Palestine,11,IL,-34.4022413
+Palestine,12,IL,-34.5709554
+Palestine,13,IL,-35.34494011
+Palestine,14,IL,-35.76025018
+Palestine,15,IL,-36.49891795
+Palestine,16,IL,-37.9860869
+Palestine,17,IL,-40.03441163
+Palestine,18,IL,-39.91496264
+Palestine,19,IL,-38.67938379
+Palestine,20,IL,-36.78490485
+Palestine,21,IL,-34.2659381
+Palestine,22,IL,-31.26606419
+Palestine,23,IL,-27.84174478
+Palestine,24,IL,-24.49941548
+Poland,1,CZ,4.559228117
+Poland,2,CZ,4.149650447
+Poland,3,CZ,4.121083583
+Poland,4,CZ,4.666306997
+Poland,5,CZ,5.498099397
+Poland,6,CZ,5.059601521
+Poland,7,CZ,4.344489952
+Poland,8,CZ,2.351224575
+Poland,9,CZ,1.47745621
+Poland,10,CZ,0.812152019
+Poland,11,CZ,0.393844061
+Poland,12,CZ,0.48009557
+Poland,13,CZ,0.238752796
+Poland,14,CZ,-0.067355353
+Poland,15,CZ,0.886490629
+Poland,16,CZ,2.539044097
+Poland,17,CZ,3.220365017
+Poland,18,CZ,1.850213245
+Poland,19,CZ,0.63351037
+Poland,20,CZ,0.546930964
+Poland,21,CZ,0.906676543
+Poland,22,CZ,1.828760348
+Poland,23,CZ,3.807803257
+Poland,24,CZ,4.384489453
+Poland,1,DE,-16.19871166
+Poland,2,DE,-15.78201413
+Poland,3,DE,-16.1311636
+Poland,4,DE,-16.37493365
+Poland,5,DE,-18.43219921
+Poland,6,DE,-20.44836043
+Poland,7,DE,-22.02971554
+Poland,8,DE,-21.7997127
+Poland,9,DE,-21.46570024
+Poland,10,DE,-18.16082773
+Poland,11,DE,-17.4858456
+Poland,12,DE,-17.81628508
+Poland,13,DE,-18.32417135
+Poland,14,DE,-19.59101604
+Poland,15,DE,-21.50835555
+Poland,16,DE,-24.48126805
+Poland,17,DE,-24.63603004
+Poland,18,DE,-24.18997612
+Poland,19,DE,-24.185175
+Poland,20,DE,-24.08810992
+Poland,21,DE,-23.31672991
+Poland,22,DE,-21.22697896
+Poland,23,DE,-16.76129684
+Poland,24,DE,-13.89182609
+Poland,1,DK,0
+Poland,2,DK,0
+Poland,3,DK,0
+Poland,4,DK,0
+Poland,5,DK,0
+Poland,6,DK,0
+Poland,7,DK,0
+Poland,8,DK,0
+Poland,9,DK,0
+Poland,10,DK,0
+Poland,11,DK,0
+Poland,12,DK,0
+Poland,13,DK,0
+Poland,14,DK,0
+Poland,15,DK,0
+Poland,16,DK,0
+Poland,17,DK,0
+Poland,18,DK,0
+Poland,19,DK,0
+Poland,20,DK,0
+Poland,21,DK,0
+Poland,22,DK,0
+Poland,23,DK,0
+Poland,24,DK,0
+Poland,1,LT,-8.909718197
+Poland,2,LT,-8.623538114
+Poland,3,LT,-8.521927003
+Poland,4,LT,-8.218133504
+Poland,5,LT,-8.125205151
+Poland,6,LT,-8.656777246
+Poland,7,LT,-9.221190829
+Poland,8,LT,-9.403148254
+Poland,9,LT,-8.633549936
+Poland,10,LT,-7.539649991
+Poland,11,LT,-7.03614465
+Poland,12,LT,-6.857639911
+Poland,13,LT,-6.953272034
+Poland,14,LT,-7.676363466
+Poland,15,LT,-8.169558235
+Poland,16,LT,-9.109521528
+Poland,17,LT,-9.681534122
+Poland,18,LT,-9.956678696
+Poland,19,LT,-9.963043746
+Poland,20,LT,-9.93698299
+Poland,21,LT,-9.999286515
+Poland,22,LT,-9.811160709
+Poland,23,LT,-9.428930108
+Poland,24,LT,-9.007727224
+Poland,1,SE,-8.408067434
+Poland,2,SE,-8.392232004
+Poland,3,SE,-8.393759719
+Poland,4,SE,-8.379019574
+Poland,5,SE,-8.411774783
+Poland,6,SE,-8.544805062
+Poland,7,SE,-8.652906723
+Poland,8,SE,-8.672540948
+Poland,9,SE,-8.420941333
+Poland,10,SE,-8.235272426
+Poland,11,SE,-8.000775913
+Poland,12,SE,-7.95596999
+Poland,13,SE,-8.170217516
+Poland,14,SE,-8.402270821
+Poland,15,SE,-8.495763608
+Poland,16,SE,-8.732237403
+Poland,17,SE,-8.755033229
+Poland,18,SE,-8.730558268
+Poland,19,SE,-8.809175118
+Poland,20,SE,-8.862713783
+Poland,21,SE,-8.842874407
+Poland,22,SE,-8.897263683
+Poland,23,SE,-8.613547
+Poland,24,SE,-8.294724724
+Poland,1,SK,1.367896365
+Poland,2,SK,1.058003887
+Poland,3,SK,0.80592332
+Poland,4,SK,0.962553107
+Poland,5,SK,1.339784878
+Poland,6,SK,0.046245852
+Poland,7,SK,-1.443260211
+Poland,8,SK,-2.573871306
+Poland,9,SK,-2.344135405
+Poland,10,SK,-1.920127189
+Poland,11,SK,-2.164429686
+Poland,12,SK,-1.948396037
+Poland,13,SK,-2.24222137
+Poland,14,SK,-2.256193654
+Poland,15,SK,-1.684373122
+Poland,16,SK,0.037888495
+Poland,17,SK,-0.79068104
+Poland,18,SK,-3.174161789
+Poland,19,SK,-4.670640475
+Poland,20,SK,-4.4951891
+Poland,21,SK,-3.438116851
+Poland,22,SK,-2.144815179
+Poland,23,SK,-0.068526283
+Poland,24,SK,0.766717599
+Poland,1,UA,-2.36843643
+Poland,2,UA,-2.42776146
+Poland,3,UA,-2.209185193
+Poland,4,UA,-1.525531971
+Poland,5,UA,-0.556141171
+Poland,6,UA,-0.515259545
+Poland,7,UA,-0.143462908
+Poland,8,UA,0.42309324
+Poland,9,UA,1.560241212
+Poland,10,UA,2.081154475
+Poland,11,UA,2.075648689
+Poland,12,UA,2.205669045
+Poland,13,UA,2.000312569
+Poland,14,UA,1.946463359
+Poland,15,UA,1.477152338
+Poland,16,UA,0.902198965
+Poland,17,UA,-0.44605422
+Poland,18,UA,-2.290497459
+Poland,19,UA,-2.982212561
+Poland,20,UA,-3.084827553
+Poland,21,UA,-2.571225014
+Poland,22,UA,-2.579208924
+Poland,23,UA,-2.247663823
+Poland,24,UA,-2.461861364
+Portugal,1,ES,30.14679494
+Portugal,2,ES,30.54586741
+Portugal,3,ES,33.33435721
+Portugal,4,ES,33.16329559
+Portugal,5,ES,30.85837526
+Portugal,6,ES,31.03647769
+Portugal,7,ES,28.25944669
+Portugal,8,ES,28.6540645
+Portugal,9,ES,11.49062186
+Portugal,10,ES,5.910241824
+Portugal,11,ES,2.259576138
+Portugal,12,ES,1.569031005
+Portugal,13,ES,1.394515764
+Portugal,14,ES,1.492403257
+Portugal,15,ES,1.333716771
+Portugal,16,ES,2.100333333
+Portugal,17,ES,7.367040358
+Portugal,18,ES,18.90375268
+Portugal,19,ES,32.60743197
+Portugal,20,ES,31.68366163
+Portugal,21,ES,36.36174889
+Portugal,22,ES,38.79815529
+Portugal,23,ES,31.33113547
+Portugal,24,ES,26.15630004
+Romania,1,BG,18.01167928
+Romania,2,BG,18.59570989
+Romania,3,BG,18.11737395
+Romania,4,BG,16.59328809
+Romania,5,BG,12.28059752
+Romania,6,BG,4.267164287
+Romania,7,BG,-0.360927987
+Romania,8,BG,1.429184519
+Romania,9,BG,7.607851011
+Romania,10,BG,12.77967497
+Romania,11,BG,14.00359318
+Romania,12,BG,14.33607209
+Romania,13,BG,13.54506147
+Romania,14,BG,9.329464807
+Romania,15,BG,5.193800718
+Romania,16,BG,2.753610235
+Romania,17,BG,-3.531587314
+Romania,18,BG,-9.700236415
+Romania,19,BG,-10.40294281
+Romania,20,BG,-8.524561208
+Romania,21,BG,-3.687858481
+Romania,22,BG,4.543850584
+Romania,23,BG,10.75477599
+Romania,24,BG,14.99367062
+Romania,1,HU,10.89399621
+Romania,2,HU,10.2449267
+Romania,3,HU,9.838417467
+Romania,4,HU,9.758785944
+Romania,5,HU,11.31280709
+Romania,6,HU,15.49769187
+Romania,7,HU,16.29720381
+Romania,8,HU,13.22956573
+Romania,9,HU,7.381068723
+Romania,10,HU,4.408651479
+Romania,11,HU,3.338989102
+Romania,12,HU,2.475147412
+Romania,13,HU,2.083325033
+Romania,14,HU,2.017413814
+Romania,15,HU,4.461592996
+Romania,16,HU,7.521408307
+Romania,17,HU,13.41572536
+Romania,18,HU,17.59891113
+Romania,19,HU,18.75516991
+Romania,20,HU,18.98703553
+Romania,21,HU,18.60038949
+Romania,22,HU,17.03189641
+Romania,23,HU,14.75195933
+Romania,24,HU,13.05277139
+Romania,1,MD,0.550947549
+Romania,2,MD,0.173484193
+Romania,3,MD,0.271260928
+Romania,4,MD,1.035957853
+Romania,5,MD,2.891299053
+Romania,6,MD,4.390132704
+Romania,7,MD,6.406539435
+Romania,8,MD,8.442177068
+Romania,9,MD,9.761156522
+Romania,10,MD,10.07966897
+Romania,11,MD,10.19809179
+Romania,12,MD,10.14098493
+Romania,13,MD,10.00292857
+Romania,14,MD,9.960128777
+Romania,15,MD,9.220501684
+Romania,16,MD,8.063343927
+Romania,17,MD,7.399758717
+Romania,18,MD,7.261695708
+Romania,19,MD,7.294709494
+Romania,20,MD,7.199101787
+Romania,21,MD,6.524242146
+Romania,22,MD,5.462701566
+Romania,23,MD,3.284161196
+Romania,24,MD,1.584590882
+Romania,1,RS,8.926344091
+Romania,2,RS,7.337831462
+Romania,3,RS,5.889121581
+Romania,4,RS,4.27052016
+Romania,5,RS,2.65291622
+Romania,6,RS,4.291123993
+Romania,7,RS,7.360175729
+Romania,8,RS,9.760216489
+Romania,9,RS,11.04978948
+Romania,10,RS,12.0751933
+Romania,11,RS,10.85875783
+Romania,12,RS,10.5167551
+Romania,13,RS,10.55539507
+Romania,14,RS,9.400679181
+Romania,15,RS,7.502981979
+Romania,16,RS,6.501966387
+Romania,17,RS,5.43620397
+Romania,18,RS,6.593283187
+Romania,19,RS,7.593683968
+Romania,20,RS,8.653766686
+Romania,21,RS,9.939245186
+Romania,22,RS,10.62846683
+Romania,23,RS,11.07238831
+Romania,24,RS,10.32998946
+Romania,1,UA,-4.143516225
+Romania,2,UA,-4.199823251
+Romania,3,UA,-3.767446992
+Romania,4,UA,-2.328751886
+Romania,5,UA,0.198209236
+Romania,6,UA,1.784692402
+Romania,7,UA,3.938043341
+Romania,8,UA,6.461149071
+Romania,9,UA,8.060406747
+Romania,10,UA,8.357461654
+Romania,11,UA,8.416770824
+Romania,12,UA,8.324613491
+Romania,13,UA,8.114094132
+Romania,14,UA,7.857154446
+Romania,15,UA,6.749086423
+Romania,16,UA,4.831622214
+Romania,17,UA,3.460062455
+Romania,18,UA,2.915679373
+Romania,19,UA,2.967721651
+Romania,20,UA,2.656679596
+Romania,21,UA,1.818233686
+Romania,22,UA,0.132006869
+Romania,23,UA,-1.985441746
+Romania,24,UA,-3.585483731
+Saudi Arabia,1,EG,-5.95
+Saudi Arabia,2,EG,-5.95
+Saudi Arabia,3,EG,-5.95
+Saudi Arabia,4,EG,-5.95
+Saudi Arabia,5,EG,-5.95
+Saudi Arabia,6,EG,-5.95
+Saudi Arabia,7,EG,-5.95
+Saudi Arabia,8,EG,-5.95
+Saudi Arabia,9,EG,-5.95
+Saudi Arabia,10,EG,-10.71
+Saudi Arabia,11,EG,-10.71
+Saudi Arabia,12,EG,-70.24
+Saudi Arabia,13,EG,-100
+Saudi Arabia,14,EG,-100
+Saudi Arabia,15,EG,-100
+Saudi Arabia,16,EG,-70.24
+Saudi Arabia,17,EG,-70.24
+Saudi Arabia,18,EG,45.24
+Saudi Arabia,19,EG,75
+Saudi Arabia,20,EG,75
+Saudi Arabia,21,EG,75
+Saudi Arabia,22,EG,48.81
+Saudi Arabia,23,EG,48.81
+Saudi Arabia,24,EG,-10.71
+Serbia,1,BA,-1.24
+Serbia,2,BA,-0.72
+Serbia,3,BA,0.06
+Serbia,4,BA,0.14
+Serbia,5,BA,0.17
+Serbia,6,BA,1.89
+Serbia,7,BA,3.32
+Serbia,8,BA,5.21
+Serbia,9,BA,5.08
+Serbia,10,BA,4
+Serbia,11,BA,3.38
+Serbia,12,BA,2.79
+Serbia,13,BA,2.5
+Serbia,14,BA,2.37
+Serbia,15,BA,1.86
+Serbia,16,BA,-0.19
+Serbia,17,BA,-1
+Serbia,18,BA,-0.4
+Serbia,19,BA,-0.35
+Serbia,20,BA,-0.17
+Serbia,21,BA,0.01
+Serbia,22,BA,-0.2
+Serbia,23,BA,-0.53
+Serbia,24,BA,-0.78
+Serbia,1,BG,1.973233919
+Serbia,2,BG,2.726946491
+Serbia,3,BG,3.321514492
+Serbia,4,BG,3.247694111
+Serbia,5,BG,2.225933199
+Serbia,6,BG,-0.787437146
+Serbia,7,BG,-2.999461164
+Serbia,8,BG,-4.432036713
+Serbia,9,BG,-2.718805916
+Serbia,10,BG,-1.006198801
+Serbia,11,BG,-0.137898109
+Serbia,12,BG,0.224647401
+Serbia,13,BG,-0.137419109
+Serbia,14,BG,-1.203426296
+Serbia,15,BG,-2.526286699
+Serbia,16,BG,-2.465426067
+Serbia,17,BG,-4.15624275
+Serbia,18,BG,-5.842289655
+Serbia,19,BG,-6.530077457
+Serbia,20,BG,-6.532705385
+Serbia,21,BG,-5.722721202
+Serbia,22,BG,-3.48466256
+Serbia,23,BG,-1.365171322
+Serbia,24,BG,0.614174471
+Serbia,1,HR,0.96
+Serbia,2,HR,1.33
+Serbia,3,HR,1.73
+Serbia,4,HR,1.79
+Serbia,5,HR,1.85
+Serbia,6,HR,2.59
+Serbia,7,HR,3.24
+Serbia,8,HR,3.16
+Serbia,9,HR,2.16
+Serbia,10,HR,1.75
+Serbia,11,HR,1.68
+Serbia,12,HR,1.57
+Serbia,13,HR,1.3
+Serbia,14,HR,1.05
+Serbia,15,HR,0.86
+Serbia,16,HR,0.55
+Serbia,17,HR,0.76
+Serbia,18,HR,1.16
+Serbia,19,HR,1.19
+Serbia,20,HR,1.06
+Serbia,21,HR,1.25
+Serbia,22,HR,1.24
+Serbia,23,HR,1.11
+Serbia,24,HR,1.08
+Serbia,1,HU,2.563610348
+Serbia,2,HU,3.342293991
+Serbia,3,HU,3.960870935
+Serbia,4,HU,4.850924562
+Serbia,5,HU,6.527232178
+Serbia,6,HU,8.795446706
+Serbia,7,HU,7.701877393
+Serbia,8,HU,4.324029477
+Serbia,9,HU,-0.160944125
+Serbia,10,HU,-2.022778021
+Serbia,11,HU,-2.593696373
+Serbia,12,HU,-2.648000715
+Serbia,13,HU,-2.544907176
+Serbia,14,HU,-2.001764451
+Serbia,15,HU,0.005155574
+Serbia,16,HU,2.332119859
+Serbia,17,HU,6.193483947
+Serbia,18,HU,9.704888584
+Serbia,19,HU,9.727615024
+Serbia,20,HU,9.290184468
+Serbia,21,HU,8.527779408
+Serbia,22,HU,7.091398948
+Serbia,23,HU,5.255810648
+Serbia,24,HU,3.911741939
+Serbia,1,ME,-2.682579955
+Serbia,2,ME,-2.557047779
+Serbia,3,ME,-2.407978376
+Serbia,4,ME,-2.392480228
+Serbia,5,ME,-2.906898865
+Serbia,6,ME,-2.140462489
+Serbia,7,ME,-0.882578116
+Serbia,8,ME,-0.706720051
+Serbia,9,ME,-0.315375111
+Serbia,10,ME,-0.852229576
+Serbia,11,ME,-1.928622419
+Serbia,12,ME,-2.111938964
+Serbia,13,ME,-1.850600649
+Serbia,14,ME,-1.876351877
+Serbia,15,ME,-3.038763771
+Serbia,16,ME,-4.465897609
+Serbia,17,ME,-5.203581835
+Serbia,18,ME,-5.21648813
+Serbia,19,ME,-5.222688874
+Serbia,20,ME,-5.012190969
+Serbia,21,ME,-4.690824384
+Serbia,22,ME,-4.255794032
+Serbia,23,ME,-3.646905248
+Serbia,24,ME,-3.145870865
+Serbia,1,MK,0.421134491
+Serbia,2,MK,0.644289252
+Serbia,3,MK,0.673526439
+Serbia,4,MK,0.447699419
+Serbia,5,MK,-0.009088342
+Serbia,6,MK,-1.016856754
+Serbia,7,MK,-0.74066326
+Serbia,8,MK,-0.662026342
+Serbia,9,MK,0.867494381
+Serbia,10,MK,1.897000014
+Serbia,11,MK,2.52575102
+Serbia,12,MK,2.637352092
+Serbia,13,MK,2.63409247
+Serbia,14,MK,1.886913642
+Serbia,15,MK,0.65797241
+Serbia,16,MK,0.165884463
+Serbia,17,MK,-1.465310731
+Serbia,18,MK,-2.662362845
+Serbia,19,MK,-3.018858156
+Serbia,20,MK,-2.993227883
+Serbia,21,MK,-2.814518641
+Serbia,22,MK,-2.397811043
+Serbia,23,MK,-1.6162628
+Serbia,24,MK,-0.824650176
+Serbia,1,RO,-9.351247086
+Serbia,2,RO,-7.687119651
+Serbia,3,RO,-6.169449717
+Serbia,4,RO,-4.473801233
+Serbia,5,RO,-2.779197712
+Serbia,6,RO,-4.495385829
+Serbia,7,RO,-7.710527528
+Serbia,8,RO,-10.22481265
+Serbia,9,RO,-11.57577062
+Serbia,10,RO,-12.6499847
+Serbia,11,RO,-11.37564567
+Serbia,12,RO,-11.01736326
+Serbia,13,RO,-11.05784254
+Serbia,14,RO,-9.848161006
+Serbia,15,RO,-7.8601315
+Serbia,16,RO,-6.811466554
+Serbia,17,RO,-5.69497277
+Serbia,18,RO,-6.907130127
+Serbia,19,RO,-7.955150995
+Serbia,20,RO,-9.065694722
+Serbia,21,RO,-10.4123633
+Serbia,22,RO,-11.13439259
+Serbia,23,RO,-11.59944517
+Serbia,24,RO,-10.82170739
+Serbia,1,XK,-1.823981019
+Serbia,2,XK,-1.726336476
+Serbia,3,XK,-1.632396666
+Serbia,4,XK,-1.687438915
+Serbia,5,XK,-1.900726253
+Serbia,6,XK,-1.883658251
+Serbia,7,XK,-1.449232122
+Serbia,8,XK,-0.93395431
+Serbia,9,XK,-0.204426407
+Serbia,10,XK,0.312293713
+Serbia,11,XK,0.457397117
+Serbia,12,XK,0.456926754
+Serbia,13,XK,0.281819431
+Serbia,14,XK,-0.133993125
+Serbia,15,XK,-0.891556326
+Serbia,16,XK,-1.35375614
+Serbia,17,XK,-2.079297612
+Serbia,18,XK,-2.376454171
+Serbia,19,XK,-2.383076021
+Serbia,20,XK,-2.389581321
+Serbia,21,XK,-2.424631202
+Serbia,22,XK,-2.42912466
+Serbia,23,XK,-2.321889257
+Serbia,24,XK,-2.100809815
+Slovakia,1,AT,0
+Slovakia,2,AT,0
+Slovakia,3,AT,0
+Slovakia,4,AT,0
+Slovakia,5,AT,0
+Slovakia,6,AT,0
+Slovakia,7,AT,0
+Slovakia,8,AT,0
+Slovakia,9,AT,0
+Slovakia,10,AT,0
+Slovakia,11,AT,0
+Slovakia,12,AT,0
+Slovakia,13,AT,0
+Slovakia,14,AT,0
+Slovakia,15,AT,0
+Slovakia,16,AT,0
+Slovakia,17,AT,0
+Slovakia,18,AT,0
+Slovakia,19,AT,0
+Slovakia,20,AT,0
+Slovakia,21,AT,0
+Slovakia,22,AT,0
+Slovakia,23,AT,0
+Slovakia,24,AT,0
+Slovakia,1,CZ,3.332685969
+Slovakia,2,CZ,3.675324301
+Slovakia,3,CZ,4.153131693
+Slovakia,4,CZ,4.848218692
+Slovakia,5,CZ,9.351125183
+Slovakia,6,CZ,13.37851041
+Slovakia,7,CZ,14.22585102
+Slovakia,8,CZ,11.19277088
+Slovakia,9,CZ,5.235112889
+Slovakia,10,CZ,2.210464966
+Slovakia,11,CZ,1.607129252
+Slovakia,12,CZ,1.394386091
+Slovakia,13,CZ,-0.698827767
+Slovakia,14,CZ,-1.18143726
+Slovakia,15,CZ,-1.255578454
+Slovakia,16,CZ,-0.338814131
+Slovakia,17,CZ,5.979231882
+Slovakia,18,CZ,9.262898328
+Slovakia,19,CZ,9.14532529
+Slovakia,20,CZ,9.117476928
+Slovakia,21,CZ,8.939431348
+Slovakia,22,CZ,5.890739166
+Slovakia,23,CZ,4.679709444
+Slovakia,24,CZ,5.877810587
+Slovakia,1,HU,13.16865808
+Slovakia,2,HU,11.08862583
+Slovakia,3,HU,9.763683339
+Slovakia,4,HU,7.807591199
+Slovakia,5,HU,1.418605152
+Slovakia,6,HU,-9.26148564
+Slovakia,7,HU,-11.75012265
+Slovakia,8,HU,-13.52065763
+Slovakia,9,HU,-11.59156004
+Slovakia,10,HU,-12.87393573
+Slovakia,11,HU,-15.04169831
+Slovakia,12,HU,-14.23698361
+Slovakia,13,HU,-10.6753527
+Slovakia,14,HU,-5.679540414
+Slovakia,15,HU,-2.330993041
+Slovakia,16,HU,1.230671059
+Slovakia,17,HU,-1.212196081
+Slovakia,18,HU,-4.686242917
+Slovakia,19,HU,-4.855950886
+Slovakia,20,HU,-4.035594883
+Slovakia,21,HU,-0.820986723
+Slovakia,22,HU,3.966819361
+Slovakia,23,HU,8.611297388
+Slovakia,24,HU,10.80505152
+Slovakia,1,PL,-1.637318834
+Slovakia,2,PL,-1.266389571
+Slovakia,3,PL,-0.96465892
+Slovakia,4,PL,-1.152138693
+Slovakia,5,PL,-1.603670476
+Slovakia,6,PL,-0.055354489
+Slovakia,7,PL,1.727526432
+Slovakia,8,PL,3.080824011
+Slovakia,9,PL,2.805839059
+Slovakia,10,PL,2.298317688
+Slovakia,11,PL,2.59073829
+Slovakia,12,PL,2.332154401
+Slovakia,13,PL,2.683851915
+Slovakia,14,PL,2.700576196
+Slovakia,15,PL,2.016129223
+Slovakia,16,PL,-0.045351057
+Slovakia,17,PL,0.946414503
+Slovakia,18,PL,3.79934841
+Slovakia,19,PL,5.590575289
+Slovakia,20,PL,5.380566807
+Slovakia,21,PL,4.11529237
+Slovakia,22,PL,2.567260488
+Slovakia,23,PL,0.082023299
+Slovakia,24,PL,-0.917731195
+Slovakia,1,UA,-4.290254029
+Slovakia,2,UA,-4.31629846
+Slovakia,3,UA,-4.112313371
+Slovakia,4,UA,-3.323677083
+Slovakia,5,UA,-2.234804925
+Slovakia,6,UA,-1.78044426
+Slovakia,7,UA,-0.642661418
+Slovakia,8,UA,1.263503899
+Slovakia,9,UA,3.600266738
+Slovakia,10,UA,4.057337499
+Slovakia,11,UA,3.951265973
+Slovakia,12,UA,4.069266997
+Slovakia,13,UA,4.151649795
+Slovakia,14,UA,4.27106057
+Slovakia,15,UA,3.747813947
+Slovakia,16,UA,1.662168974
+Slovakia,17,UA,-0.166747111
+Slovakia,18,UA,-1.032979092
+Slovakia,19,UA,-1.133885412
+Slovakia,20,UA,-1.413847679
+Slovakia,21,UA,-1.981846488
+Slovakia,22,UA,-2.84712077
+Slovakia,23,UA,-4.089307307
+Slovakia,24,UA,-4.527442896
+Slovenia,1,AT,-14.05
+Slovenia,2,AT,-13.33
+Slovenia,3,AT,-12.85
+Slovenia,4,AT,-12.38
+Slovenia,5,AT,-12.3
+Slovenia,6,AT,-10.95
+Slovenia,7,AT,-10.46
+Slovenia,8,AT,-10.21
+Slovenia,9,AT,-12.39
+Slovenia,10,AT,-10.6
+Slovenia,11,AT,-10.97
+Slovenia,12,AT,-12.44
+Slovenia,13,AT,-11.86
+Slovenia,14,AT,-11.98
+Slovenia,15,AT,-13.5
+Slovenia,16,AT,-15.82
+Slovenia,17,AT,-15.65
+Slovenia,18,AT,-14.16
+Slovenia,19,AT,-13.92
+Slovenia,20,AT,-14.6
+Slovenia,21,AT,-14.22
+Slovenia,22,AT,-13.28
+Slovenia,23,AT,-12.73
+Slovenia,24,AT,-11.89
+Slovenia,1,HR,-4.95
+Slovenia,2,HR,-5.3
+Slovenia,3,HR,-5.8
+Slovenia,4,HR,-5.98
+Slovenia,5,HR,-6.45
+Slovenia,6,HR,-8.63
+Slovenia,7,HR,-8.23
+Slovenia,8,HR,-5.06
+Slovenia,9,HR,0.64
+Slovenia,10,HR,2.01
+Slovenia,11,HR,2.39
+Slovenia,12,HR,3.27
+Slovenia,13,HR,4.19
+Slovenia,14,HR,5.25
+Slovenia,15,HR,4.66
+Slovenia,16,HR,3.38
+Slovenia,17,HR,-1.23
+Slovenia,18,HR,-4.06
+Slovenia,19,HR,-3.35
+Slovenia,20,HR,-2.51
+Slovenia,21,HR,-3.3
+Slovenia,22,HR,-5.49
+Slovenia,23,HR,-6.7
+Slovenia,24,HR,-6.78
+Slovenia,1,HU,-2.975494485
+Slovenia,2,HU,-3.792885903
+Slovenia,3,HU,-4.607829159
+Slovenia,4,HU,-3.956848925
+Slovenia,5,HU,-1.10209819
+Slovenia,6,HU,-1.672973377
+Slovenia,7,HU,-5.191762941
+Slovenia,8,HU,-6.762857838
+Slovenia,9,HU,-6.62293481
+Slovenia,10,HU,-6.96463308
+Slovenia,11,HU,-6.186227212
+Slovenia,12,HU,-4.680825882
+Slovenia,13,HU,-2.949720779
+Slovenia,14,HU,-0.279823886
+Slovenia,15,HU,4.75032259
+Slovenia,16,HU,8.232035327
+Slovenia,17,HU,9.738452599
+Slovenia,18,HU,10.29894927
+Slovenia,19,HU,10.92489727
+Slovenia,20,HU,10.45981216
+Slovenia,21,HU,6.694614148
+Slovenia,22,HU,2.993709823
+Slovenia,23,HU,-0.361374842
+Slovenia,24,HU,-2.545539367
+Slovenia,1,IT,-2.830666094
+Slovenia,2,IT,-4.875413263
+Slovenia,3,IT,-6.096233689
+Slovenia,4,IT,-7.4840219
+Slovenia,5,IT,-8.749387002
+Slovenia,6,IT,-7.344406597
+Slovenia,7,IT,-3.002915572
+Slovenia,8,IT,-1.253691014
+Slovenia,9,IT,-0.776168885
+Slovenia,10,IT,-0.919265608
+Slovenia,11,IT,-4.841390341
+Slovenia,12,IT,-7.570301677
+Slovenia,13,IT,-5.978402701
+Slovenia,14,IT,-6.404756609
+Slovenia,15,IT,-11.21768882
+Slovenia,16,IT,-14.27428024
+Slovenia,17,IT,-13.39061403
+Slovenia,18,IT,-11.60358732
+Slovenia,19,IT,-11.66436459
+Slovenia,20,IT,-12.24044964
+Slovenia,21,IT,-10.26583042
+Slovenia,22,IT,-6.855428608
+Slovenia,23,IT,-3.717499918
+Slovenia,24,IT,-3.162748469
+Spain,1,FR,36.00673187
+Spain,2,FR,34.8222741
+Spain,3,FR,34.10488636
+Spain,4,FR,33.0392834
+Spain,5,FR,30.57045198
+Spain,6,FR,33.61992987
+Spain,7,FR,29.09029809
+Spain,8,FR,35.6805739
+Spain,9,FR,48.96805093
+Spain,10,FR,50.52964629
+Spain,11,FR,49.71254871
+Spain,12,FR,49.70685748
+Spain,13,FR,48.52132985
+Spain,14,FR,49.066959
+Spain,15,FR,50.34949872
+Spain,16,FR,51.80681967
+Spain,17,FR,52.41397858
+Spain,18,FR,47.33721247
+Spain,19,FR,43.60544701
+Spain,20,FR,38.69605575
+Spain,21,FR,38.60199733
+Spain,22,FR,39.81127847
+Spain,23,FR,39.41944216
+Spain,24,FR,37.63666869
+Spain,1,IT,0
+Spain,2,IT,0
+Spain,3,IT,0
+Spain,4,IT,0
+Spain,5,IT,0
+Spain,6,IT,0
+Spain,7,IT,0
+Spain,8,IT,0
+Spain,9,IT,0
+Spain,10,IT,0
+Spain,11,IT,0
+Spain,12,IT,0
+Spain,13,IT,0
+Spain,14,IT,0
+Spain,15,IT,0
+Spain,16,IT,0
+Spain,17,IT,0
+Spain,18,IT,0
+Spain,19,IT,0
+Spain,20,IT,0
+Spain,21,IT,0
+Spain,22,IT,0
+Spain,23,IT,0
+Spain,24,IT,0
+Spain,1,MA,8.557754138
+Spain,2,MA,8.071338125
+Spain,3,MA,7.928037094
+Spain,4,MA,7.906996457
+Spain,5,MA,8.033066629
+Spain,6,MA,8.130613007
+Spain,7,MA,8.746278448
+Spain,8,MA,9.940927271
+Spain,9,MA,10.81831689
+Spain,10,MA,10.99139451
+Spain,11,MA,11.45588092
+Spain,12,MA,11.65093541
+Spain,13,MA,11.6846024
+Spain,14,MA,11.6473634
+Spain,15,MA,11.5482366
+Spain,16,MA,11.41392097
+Spain,17,MA,11.09607179
+Spain,18,MA,11.06738179
+Spain,19,MA,11.47932323
+Spain,20,MA,11.57107304
+Spain,21,MA,11.57869951
+Spain,22,MA,11.10457847
+Spain,23,MA,10.38615382
+Spain,24,MA,9.377604754
+Spain,1,PT,-10.33604398
+Spain,2,PT,-10.47286883
+Spain,3,PT,-11.42892247
+Spain,4,PT,-11.37027277
+Spain,5,PT,-10.58001438
+Spain,6,PT,-10.64107807
+Spain,7,PT,-9.688953151
+Spain,8,PT,-9.824250684
+Spain,9,PT,-3.939641781
+Spain,10,PT,-2.026368625
+Spain,11,PT,-0.774711819
+Spain,12,PT,-0.537953487
+Spain,13,PT,-0.478119691
+Spain,14,PT,-0.511681117
+Spain,15,PT,-0.457274322
+Spain,16,PT,-0.720114286
+Spain,17,PT,-2.525842409
+Spain,18,PT,-6.481286634
+Spain,19,PT,-11.17969096
+Spain,20,PT,-10.8629697
+Spain,21,PT,-12.46688533
+Spain,22,PT,-13.30222467
+Spain,23,PT,-10.74210359
+Spain,24,PT,-8.967874299
+Sweden,1,DE,5.772394724
+Sweden,2,DE,5.42686185
+Sweden,3,DE,5.580502016
+Sweden,4,DE,5.482869053
+Sweden,5,DE,4.871123601
+Sweden,6,DE,3.743189473
+Sweden,7,DE,4.286800643
+Sweden,8,DE,3.34502118
+Sweden,9,DE,2.748666769
+Sweden,10,DE,3.567173553
+Sweden,11,DE,4.376855444
+Sweden,12,DE,4.799214767
+Sweden,13,DE,4.890603168
+Sweden,14,DE,4.368287679
+Sweden,15,DE,4.023375345
+Sweden,16,DE,2.82323785
+Sweden,17,DE,4.076412507
+Sweden,18,DE,5.60321448
+Sweden,19,DE,4.621480918
+Sweden,20,DE,4.6106143
+Sweden,21,DE,5.24024051
+Sweden,22,DE,5.767467985
+Sweden,23,DE,6.027981317
+Sweden,24,DE,6.403228273
+Sweden,1,DK,2.312541613
+Sweden,2,DK,1.786066016
+Sweden,3,DK,1.669172509
+Sweden,4,DK,1.656161929
+Sweden,5,DK,1.523846584
+Sweden,6,DK,1.222810281
+Sweden,7,DK,1.135040805
+Sweden,8,DK,-0.051383367
+Sweden,9,DK,-1.112811325
+Sweden,10,DK,-1.142191254
+Sweden,11,DK,-1.47936186
+Sweden,12,DK,-1.517557841
+Sweden,13,DK,-1.908719627
+Sweden,14,DK,-2.03509004
+Sweden,15,DK,-1.743611599
+Sweden,16,DK,-1.55733982
+Sweden,17,DK,-0.029544621
+Sweden,18,DK,2.233306567
+Sweden,19,DK,2.649978554
+Sweden,20,DK,3.245914482
+Sweden,21,DK,3.479970676
+Sweden,22,DK,3.953938629
+Sweden,23,DK,3.399340025
+Sweden,24,DK,3.343688194
+Sweden,1,FI,-0.49881685
+Sweden,2,FI,-0.137107721
+Sweden,3,FI,0.087156363
+Sweden,4,FI,0.139714204
+Sweden,5,FI,0.282260257
+Sweden,6,FI,-0.2875525
+Sweden,7,FI,-0.629564635
+Sweden,8,FI,-0.317413039
+Sweden,9,FI,-0.169728508
+Sweden,10,FI,0.211168621
+Sweden,11,FI,0.832895062
+Sweden,12,FI,1.100262795
+Sweden,13,FI,1.359780486
+Sweden,14,FI,1.632184644
+Sweden,15,FI,1.902852334
+Sweden,16,FI,1.528435631
+Sweden,17,FI,1.152084556
+Sweden,18,FI,0.362060184
+Sweden,19,FI,-0.473574498
+Sweden,20,FI,-0.758078028
+Sweden,21,FI,-0.608188368
+Sweden,22,FI,-0.500347699
+Sweden,23,FI,-1.086088506
+Sweden,24,FI,-0.996198928
+Sweden,1,LT,0.366521927
+Sweden,2,LT,0.390777253
+Sweden,3,LT,0.597024188
+Sweden,4,LT,0.672047292
+Sweden,5,LT,0.730698754
+Sweden,6,LT,0.614897497
+Sweden,7,LT,0.843020361
+Sweden,8,LT,1.074900669
+Sweden,9,LT,1.490954305
+Sweden,10,LT,1.52394485
+Sweden,11,LT,1.64657456
+Sweden,12,LT,1.848525999
+Sweden,13,LT,1.92143557
+Sweden,14,LT,1.896508318
+Sweden,15,LT,1.794074836
+Sweden,16,LT,1.594471115
+Sweden,17,LT,1.307210653
+Sweden,18,LT,1.030907279
+Sweden,19,LT,0.533163771
+Sweden,20,LT,0.371070436
+Sweden,21,LT,0.295844128
+Sweden,22,LT,0.175549512
+Sweden,23,LT,-0.176611783
+Sweden,24,LT,-0.088156568
+Sweden,1,LV,0
+Sweden,2,LV,0
+Sweden,3,LV,0
+Sweden,4,LV,0
+Sweden,5,LV,0
+Sweden,6,LV,0
+Sweden,7,LV,0
+Sweden,8,LV,0
+Sweden,9,LV,0
+Sweden,10,LV,0
+Sweden,11,LV,0
+Sweden,12,LV,0
+Sweden,13,LV,0
+Sweden,14,LV,0
+Sweden,15,LV,0
+Sweden,16,LV,0
+Sweden,17,LV,0
+Sweden,18,LV,0
+Sweden,19,LV,0
+Sweden,20,LV,0
+Sweden,21,LV,0
+Sweden,22,LV,0
+Sweden,23,LV,0
+Sweden,24,LV,0
+Sweden,1,NO,-18.79393343
+Sweden,2,NO,-18.6878836
+Sweden,3,NO,-18.73398293
+Sweden,4,NO,-18.87496728
+Sweden,5,NO,-19.69520893
+Sweden,6,NO,-20.71426451
+Sweden,7,NO,-20.21284902
+Sweden,8,NO,-17.57237573
+Sweden,9,NO,-14.56092611
+Sweden,10,NO,-12.51536759
+Sweden,11,NO,-11.37220402
+Sweden,12,NO,-10.26756083
+Sweden,13,NO,-10.81519011
+Sweden,14,NO,-11.90653603
+Sweden,15,NO,-14.10670856
+Sweden,16,NO,-15.85023711
+Sweden,17,NO,-19.76130902
+Sweden,18,NO,-22.2286945
+Sweden,19,NO,-23.00476465
+Sweden,20,NO,-22.36743903
+Sweden,21,NO,-21.66692615
+Sweden,22,NO,-21.06800098
+Sweden,23,NO,-20.7968376
+Sweden,24,NO,-20.15785233
+Sweden,1,PL,3.996415516
+Sweden,2,PL,3.988888821
+Sweden,3,PL,3.989614955
+Sweden,4,PL,3.982608857
+Sweden,5,PL,3.998177645
+Sweden,6,PL,4.061407903
+Sweden,7,PL,4.112789408
+Sweden,8,PL,4.122121698
+Sweden,9,PL,4.002534573
+Sweden,10,PL,3.914284793
+Sweden,11,PL,3.802826897
+Sweden,12,PL,3.781530317
+Sweden,13,PL,3.883363722
+Sweden,14,PL,3.993660343
+Sweden,15,PL,4.038098144
+Sweden,16,PL,4.150495856
+Sweden,17,PL,4.161330878
+Sweden,18,PL,4.149697751
+Sweden,19,PL,4.187064911
+Sweden,20,PL,4.212512227
+Sweden,21,PL,4.203082428
+Sweden,22,PL,4.228934045
+Sweden,23,PL,4.094081446
+Sweden,24,PL,3.942542902
+Switzerland,1,AT,0
+Switzerland,2,AT,0.29
+Switzerland,3,AT,0.44
+Switzerland,4,AT,0.96
+Switzerland,5,AT,1.88
+Switzerland,6,AT,2.53
+Switzerland,7,AT,1.81
+Switzerland,8,AT,0.51
+Switzerland,9,AT,0.01
+Switzerland,10,AT,0.46
+Switzerland,11,AT,1.03
+Switzerland,12,AT,1.3
+Switzerland,13,AT,1.94
+Switzerland,14,AT,2.59
+Switzerland,15,AT,3.25
+Switzerland,16,AT,3.83
+Switzerland,17,AT,3.19
+Switzerland,18,AT,2.39
+Switzerland,19,AT,1.77
+Switzerland,20,AT,1.28
+Switzerland,21,AT,0.89
+Switzerland,22,AT,0
+Switzerland,23,AT,-0.23
+Switzerland,24,AT,-0.12
+Switzerland,1,DE,-10.3326338
+Switzerland,2,DE,-10.41950864
+Switzerland,3,DE,-10.0299511
+Switzerland,4,DE,-9.151572738
+Switzerland,5,DE,-8.629267472
+Switzerland,6,DE,-8.555948767
+Switzerland,7,DE,-13.15537196
+Switzerland,8,DE,-18.41151493
+Switzerland,9,DE,-18.24424784
+Switzerland,10,DE,-12.35563173
+Switzerland,11,DE,-7.321180921
+Switzerland,12,DE,-4.645081662
+Switzerland,13,DE,-4.362698833
+Switzerland,14,DE,-6.03201753
+Switzerland,15,DE,-9.705824892
+Switzerland,16,DE,-15.63906757
+Switzerland,17,DE,-14.10237988
+Switzerland,18,DE,-7.208695085
+Switzerland,19,DE,-5.66885805
+Switzerland,20,DE,-6.143401938
+Switzerland,21,DE,-6.141114259
+Switzerland,22,DE,-6.807547087
+Switzerland,23,DE,-6.910781584
+Switzerland,24,DE,-6.67109717
+Switzerland,1,FR,-15.75533013
+Switzerland,2,FR,-17.26101191
+Switzerland,3,FR,-17.67104364
+Switzerland,4,FR,-19.83996672
+Switzerland,5,FR,-21.74838167
+Switzerland,6,FR,-19.41308832
+Switzerland,7,FR,-16.95379216
+Switzerland,8,FR,-14.46155513
+Switzerland,9,FR,-11.93572946
+Switzerland,10,FR,-12.7970189
+Switzerland,11,FR,-12.34354435
+Switzerland,12,FR,-12.35514035
+Switzerland,13,FR,-13.3574776
+Switzerland,14,FR,-14.44130185
+Switzerland,15,FR,-16.9175753
+Switzerland,16,FR,-19.24650345
+Switzerland,17,FR,-19.8042254
+Switzerland,18,FR,-15.28650576
+Switzerland,19,FR,-12.96309013
+Switzerland,20,FR,-14.0288115
+Switzerland,21,FR,-14.27829396
+Switzerland,22,FR,-12.6994633
+Switzerland,23,FR,-13.1723778
+Switzerland,24,FR,-16.06507929
+Switzerland,1,IT,23.53967363
+Switzerland,2,IT,21.30630474
+Switzerland,3,IT,19.3610329
+Switzerland,4,IT,18.33935202
+Switzerland,5,IT,18.92982872
+Switzerland,6,IT,20.56675675
+Switzerland,7,IT,23.17529597
+Switzerland,8,IT,23.10100805
+Switzerland,9,IT,21.67692678
+Switzerland,10,IT,18.89915794
+Switzerland,11,IT,18.77747764
+Switzerland,12,IT,17.57879857
+Switzerland,13,IT,18.61413729
+Switzerland,14,IT,20.79715995
+Switzerland,15,IT,20.68591177
+Switzerland,16,IT,24.18289261
+Switzerland,17,IT,25.95398948
+Switzerland,18,IT,27.23852195
+Switzerland,19,IT,25.58609548
+Switzerland,20,IT,24.78682339
+Switzerland,21,IT,24.9399257
+Switzerland,22,IT,24.13525853
+Switzerland,23,IT,23.00672418
+Switzerland,24,IT,22.10473701
+Tunisia,1,DZ,-10.85998535
+Tunisia,2,DZ,-10.4666978
+Tunisia,3,DZ,-10.35975472
+Tunisia,4,DZ,-10.27628811
+Tunisia,5,DZ,-10.37048014
+Tunisia,6,DZ,-11.08766498
+Tunisia,7,DZ,-11.82891519
+Tunisia,8,DZ,-11.61110778
+Tunisia,9,DZ,-10.91276655
+Tunisia,10,DZ,-10.15552818
+Tunisia,11,DZ,-10.16474937
+Tunisia,12,DZ,-10.08439997
+Tunisia,13,DZ,-9.844227529
+Tunisia,14,DZ,-9.701052268
+Tunisia,15,DZ,-9.995677937
+Tunisia,16,DZ,-11.15308988
+Tunisia,17,DZ,-11.91508439
+Tunisia,18,DZ,-12.54990786
+Tunisia,19,DZ,-12.74142026
+Tunisia,20,DZ,-11.82843378
+Tunisia,21,DZ,-10.71877656
+Tunisia,22,DZ,-10.5885634
+Tunisia,23,DZ,-10.94292815
+Tunisia,24,DZ,-11.30316484
+Tunisia,1,IT,-5.104164976
+Tunisia,2,IT,-5.520940547
+Tunisia,3,IT,-4.676464497
+Tunisia,4,IT,-4.977143843
+Tunisia,5,IT,-5.039105241
+Tunisia,6,IT,-4.640942519
+Tunisia,7,IT,-3.712359115
+Tunisia,8,IT,-2.693751479
+Tunisia,9,IT,-2.734014793
+Tunisia,10,IT,-3.290077487
+Tunisia,11,IT,-2.945193012
+Tunisia,12,IT,-3.009281488
+Tunisia,13,IT,-3.214102564
+Tunisia,14,IT,-3.336080445
+Tunisia,15,IT,-3.475960693
+Tunisia,16,IT,-2.50207326
+Tunisia,17,IT,-2.231979431
+Tunisia,18,IT,-1.566372218
+Tunisia,19,IT,-2.177552832
+Tunisia,20,IT,-1.804165962
+Tunisia,21,IT,-2.103389687
+Tunisia,22,IT,-2.542213159
+Tunisia,23,IT,-3.21878177
+Tunisia,24,IT,-4.155649056
+Tunisia,1,LY,14.21377402
+Tunisia,2,LY,15.32992294
+Tunisia,3,LY,15.69057213
+Tunisia,4,LY,15.86484869
+Tunisia,5,LY,17.34753198
+Tunisia,6,LY,18.53514553
+Tunisia,7,LY,18.26032784
+Tunisia,8,LY,18.05282488
+Tunisia,9,LY,18.33971908
+Tunisia,10,LY,18.26780304
+Tunisia,11,LY,17.64628191
+Tunisia,12,LY,17.32452635
+Tunisia,13,LY,16.96704973
+Tunisia,14,LY,16.46461468
+Tunisia,15,LY,16.17939321
+Tunisia,16,LY,14.1648763
+Tunisia,17,LY,10.98281051
+Tunisia,18,LY,7.721125247
+Tunisia,19,LY,0.756861651
+Tunisia,20,LY,-3.858523105
+Tunisia,21,LY,-1.185544379
+Tunisia,22,LY,3.76169428
+Tunisia,23,LY,8.136929699
+Tunisia,24,LY,11.37741786
+Tunisia,1,MT,0
+Tunisia,2,MT,0
+Tunisia,3,MT,0
+Tunisia,4,MT,0
+Tunisia,5,MT,0
+Tunisia,6,MT,0
+Tunisia,7,MT,0
+Tunisia,8,MT,0
+Tunisia,9,MT,0
+Tunisia,10,MT,0
+Tunisia,11,MT,0
+Tunisia,12,MT,0
+Tunisia,13,MT,0
+Tunisia,14,MT,0
+Tunisia,15,MT,0
+Tunisia,16,MT,0
+Tunisia,17,MT,0
+Tunisia,18,MT,0
+Tunisia,19,MT,0
+Tunisia,20,MT,0
+Tunisia,21,MT,0
+Tunisia,22,MT,0
+Tunisia,23,MT,0
+Tunisia,24,MT,0
+Turkiye,1,BG,-53.88384369
+Turkiye,2,BG,-50.52573137
+Turkiye,3,BG,-46.09390022
+Turkiye,4,BG,-42.2547059
+Turkiye,5,BG,-38.05331995
+Turkiye,6,BG,-34.73143614
+Turkiye,7,BG,-30.31619558
+Turkiye,8,BG,-42.23931847
+Turkiye,9,BG,-52.71257995
+Turkiye,10,BG,-56.10385461
+Turkiye,11,BG,-57.28825638
+Turkiye,12,BG,-57.58470273
+Turkiye,13,BG,-57.69230769
+Turkiye,14,BG,-57.69230769
+Turkiye,15,BG,-57.69230769
+Turkiye,16,BG,-56.8720939
+Turkiye,17,BG,-54.44411031
+Turkiye,18,BG,-53.83818083
+Turkiye,19,BG,-54.16534094
+Turkiye,20,BG,-54.59688557
+Turkiye,21,BG,-54.90586221
+Turkiye,22,BG,-54.62417565
+Turkiye,23,BG,-55.3531213
+Turkiye,24,BG,-55.62509703
+Turkiye,1,GR,-41.3
+Turkiye,2,GR,-40.58
+Turkiye,3,GR,-36.61
+Turkiye,4,GR,-34.11
+Turkiye,5,GR,-30.67
+Turkiye,6,GR,-24.95
+Turkiye,7,GR,-21.34
+Turkiye,8,GR,-30.85
+Turkiye,9,GR,-37.65
+Turkiye,10,GR,-40.8
+Turkiye,11,GR,-41.96
+Turkiye,12,GR,-42.31
+Turkiye,13,GR,-42.31
+Turkiye,14,GR,-42.19
+Turkiye,15,GR,-42.31
+Turkiye,16,GR,-41.76
+Turkiye,17,GR,-39.65
+Turkiye,18,GR,-39.87
+Turkiye,19,GR,-40.33
+Turkiye,20,GR,-40.7
+Turkiye,21,GR,-40.57
+Turkiye,22,GR,-41.05
+Turkiye,23,GR,-41.1
+Turkiye,24,GR,-41.29
+Ukraine,1,HU,21.63629479
+Ukraine,2,HU,21.18352847
+Ukraine,3,HU,20.29539086
+Ukraine,4,HU,17.34289677
+Ukraine,5,HU,9.292105561
+Ukraine,6,HU,5.091971195
+Ukraine,7,HU,-1.104392025
+Ukraine,8,HU,-11.13282967
+Ukraine,9,HU,-21.02507642
+Ukraine,10,HU,-22.63583899
+Ukraine,11,HU,-23.06974101
+Ukraine,12,HU,-23.12828846
+Ukraine,13,HU,-22.66581194
+Ukraine,14,HU,-22.03063703
+Ukraine,15,HU,-19.00754329
+Ukraine,16,HU,-9.875772561
+Ukraine,17,HU,-1.100435065
+Ukraine,18,HU,2.305586247
+Ukraine,19,HU,3.319523726
+Ukraine,20,HU,4.48202331
+Ukraine,21,HU,8.10421645
+Ukraine,22,HU,12.93139669
+Ukraine,23,HU,18.76754054
+Ukraine,24,HU,21.53198235
+Ukraine,1,MD,10.05797769
+Ukraine,2,MD,9.699768731
+Ukraine,3,MD,8.844242591
+Ukraine,4,MD,6.660913919
+Ukraine,5,MD,1.945139111
+Ukraine,6,MD,-1.496313686
+Ukraine,7,MD,-4.894136946
+Ukraine,8,MD,-7.843971778
+Ukraine,9,MD,-9.369304529
+Ukraine,10,MD,-9.061394106
+Ukraine,11,MD,-9.099621712
+Ukraine,12,MD,-8.877052364
+Ukraine,13,MD,-8.517866384
+Ukraine,14,MD,-7.715140193
+Ukraine,15,MD,-5.162004496
+Ukraine,16,MD,-1.64849026
+Ukraine,17,MD,0.618358808
+Ukraine,18,MD,1.413458958
+Ukraine,19,MD,1.664162171
+Ukraine,20,MD,1.805213453
+Ukraine,21,MD,3.452782967
+Ukraine,22,MD,5.770434316
+Ukraine,23,MD,8.889326257
+Ukraine,24,MD,9.842655012
+Ukraine,1,PL,4.579694805
+Ukraine,2,PL,4.694407842
+Ukraine,3,PL,4.271760823
+Ukraine,4,PL,2.949824093
+Ukraine,5,PL,1.075374792
+Ukraine,6,PL,0.996324592
+Ukraine,7,PL,0.277405095
+Ukraine,8,PL,-0.818108475
+Ukraine,9,PL,-3.016939144
+Ukraine,10,PL,-4.024195971
+Ukraine,11,PL,-4.013549784
+Ukraine,12,PL,-4.264961871
+Ukraine,13,PL,-3.867877123
+Ukraine,14,PL,-3.763752331
+Ukraine,15,PL,-2.856275475
+Ukraine,16,PL,-1.744524725
+Ukraine,17,PL,0.86250666
+Ukraine,18,PL,4.428989177
+Ukraine,19,PL,5.766514652
+Ukraine,20,PL,5.964934732
+Ukraine,21,PL,4.971814186
+Ukraine,22,PL,4.987252165
+Ukraine,23,PL,4.346164502
+Ukraine,24,PL,4.760344655
+Ukraine,1,RO,10.41780428
+Ukraine,2,RO,10.55937379
+Ukraine,3,RO,9.472275058
+Ukraine,4,RO,5.855046787
+Ukraine,5,RO,-0.498346071
+Ukraine,6,RO,-4.487149351
+Ukraine,7,RO,-9.901195638
+Ukraine,8,RO,-16.2448951
+Ukraine,9,RO,-20.2658166
+Ukraine,10,RO,-21.01268465
+Ukraine,11,RO,-21.16180228
+Ukraine,12,RO,-20.9300964
+Ukraine,13,RO,-20.4007997
+Ukraine,14,RO,-19.75479104
+Ukraine,15,RO,-16.96883941
+Ukraine,16,RO,-12.14786955
+Ukraine,17,RO,-8.699435814
+Ukraine,18,RO,-7.330724775
+Ukraine,19,RO,-7.461571678
+Ukraine,20,RO,-6.679536547
+Ukraine,21,RO,-4.57148027
+Ukraine,22,RO,-0.331897269
+Ukraine,23,RO,4.991881868
+Ukraine,24,RO,9.014775308
+Ukraine,1,RU,0
+Ukraine,2,RU,0
+Ukraine,3,RU,0
+Ukraine,4,RU,0
+Ukraine,5,RU,0
+Ukraine,6,RU,0
+Ukraine,7,RU,0
+Ukraine,8,RU,0
+Ukraine,9,RU,0
+Ukraine,10,RU,0
+Ukraine,11,RU,0
+Ukraine,12,RU,0
+Ukraine,13,RU,0
+Ukraine,14,RU,0
+Ukraine,15,RU,0
+Ukraine,16,RU,0
+Ukraine,17,RU,0
+Ukraine,18,RU,0
+Ukraine,19,RU,0
+Ukraine,20,RU,0
+Ukraine,21,RU,0
+Ukraine,22,RU,0
+Ukraine,23,RU,0
+Ukraine,24,RU,0
+Ukraine,1,SK,6.930710373
+Ukraine,2,SK,6.972783966
+Ukraine,3,SK,6.643255328
+Ukraine,4,SK,5.369249251
+Ukraine,5,SK,3.610225774
+Ukraine,6,SK,2.876226773
+Ukraine,7,SK,1.03819031
+Ukraine,8,SK,-2.041133117
+Ukraine,9,SK,-5.816067266
+Ukraine,10,SK,-6.554444306
+Ukraine,11,SK,-6.383090576
+Ukraine,12,SK,-6.573715867
+Ukraine,13,SK,-6.706801532
+Ukraine,14,SK,-6.899704212
+Ukraine,15,SK,-6.054423077
+Ukraine,16,SK,-2.685158425
+Ukraine,17,SK,0.269372378
+Ukraine,18,SK,1.668730769
+Ukraine,19,SK,1.831740343
+Ukraine,20,SK,2.28400666
+Ukraine,21,SK,3.201582917
+Ukraine,22,SK,4.599394189
+Ukraine,23,SK,6.606090077
+Ukraine,24,SK,7.313878205
+United Kingdom,1,BE,3.554834424
+United Kingdom,2,BE,3.553542062
+United Kingdom,3,BE,3.538109567
+United Kingdom,4,BE,3.525779552
+United Kingdom,5,BE,3.461480073
+United Kingdom,6,BE,3.374255481
+United Kingdom,7,BE,2.879954959
+United Kingdom,8,BE,2.133030275
+United Kingdom,9,BE,1.477577189
+United Kingdom,10,BE,0.9513675
+United Kingdom,11,BE,0.835469261
+United Kingdom,12,BE,0.826140686
+United Kingdom,13,BE,0.728646745
+United Kingdom,14,BE,0.784424898
+United Kingdom,15,BE,1.034286758
+United Kingdom,16,BE,1.573754328
+United Kingdom,17,BE,2.513694729
+United Kingdom,18,BE,2.984456028
+United Kingdom,19,BE,3.013821525
+United Kingdom,20,BE,3.005742337
+United Kingdom,21,BE,2.960303883
+United Kingdom,22,BE,3.028038801
+United Kingdom,23,BE,3.198194557
+United Kingdom,24,BE,3.314414587
+United Kingdom,1,DE,7.938510629
+United Kingdom,2,DE,8.124301608
+United Kingdom,3,DE,8.133226355
+United Kingdom,4,DE,8.07364329
+United Kingdom,5,DE,7.885914801
+United Kingdom,6,DE,7.298519009
+United Kingdom,7,DE,5.505667345
+United Kingdom,8,DE,2.439756301
+United Kingdom,9,DE,1.404317554
+United Kingdom,10,DE,1.622701606
+United Kingdom,11,DE,1.907863968
+United Kingdom,12,DE,2.011276969
+United Kingdom,13,DE,2.167532837
+United Kingdom,14,DE,2.233773228
+United Kingdom,15,DE,2.695813552
+United Kingdom,16,DE,2.993634107
+United Kingdom,17,DE,4.256024493
+United Kingdom,18,DE,5.773813364
+United Kingdom,19,DE,5.888183484
+United Kingdom,20,DE,5.915929777
+United Kingdom,21,DE,5.872431327
+United Kingdom,22,DE,5.827764514
+United Kingdom,23,DE,6.556182472
+United Kingdom,24,DE,6.978676007
+United Kingdom,1,DK,5.676555535
+United Kingdom,2,DK,5.79209888
+United Kingdom,3,DK,5.823282991
+United Kingdom,4,DK,5.944639408
+United Kingdom,5,DK,5.847890235
+United Kingdom,6,DK,5.502392526
+United Kingdom,7,DK,3.322360101
+United Kingdom,8,DK,0.749477537
+United Kingdom,9,DK,-0.632212559
+United Kingdom,10,DK,-0.85931937
+United Kingdom,11,DK,-1.091681747
+United Kingdom,12,DK,-1.199528057
+United Kingdom,13,DK,-1.416337591
+United Kingdom,14,DK,-1.156602893
+United Kingdom,15,DK,-0.281397243
+United Kingdom,16,DK,0.484674191
+United Kingdom,17,DK,1.909908801
+United Kingdom,18,DK,3.677461559
+United Kingdom,19,DK,4.127278785
+United Kingdom,20,DK,4.051956681
+United Kingdom,21,DK,3.876240057
+United Kingdom,22,DK,3.767096741
+United Kingdom,23,DK,4.223571929
+United Kingdom,24,DK,4.654043789
+United Kingdom,1,FR,27.75781717
+United Kingdom,2,FR,26.97198541
+United Kingdom,3,FR,27.38598829
+United Kingdom,4,FR,25.92151952
+United Kingdom,5,FR,23.37122158
+United Kingdom,6,FR,23.35748763
+United Kingdom,7,FR,20.17883272
+United Kingdom,8,FR,16.27179153
+United Kingdom,9,FR,11.8529829
+United Kingdom,10,FR,6.930911535
+United Kingdom,11,FR,5.47721882
+United Kingdom,12,FR,4.403326707
+United Kingdom,13,FR,3.538476232
+United Kingdom,14,FR,4.000178569
+United Kingdom,15,FR,5.729873924
+United Kingdom,16,FR,10.9766864
+United Kingdom,17,FR,15.5029586
+United Kingdom,18,FR,18.0947712
+United Kingdom,19,FR,16.96702102
+United Kingdom,20,FR,16.77036393
+United Kingdom,21,FR,17.05006651
+United Kingdom,22,FR,19.64667288
+United Kingdom,23,FR,22.24100835
+United Kingdom,24,FR,23.28608199
+United Kingdom,1,IE,-0.798921616
+United Kingdom,2,IE,-0.546635985
+United Kingdom,3,IE,-0.574558582
+United Kingdom,4,IE,-0.693498429
+United Kingdom,5,IE,-0.468426797
+United Kingdom,6,IE,-0.704560074
+United Kingdom,7,IE,-0.733335076
+United Kingdom,8,IE,-0.152230227
+United Kingdom,9,IE,-0.078476065
+United Kingdom,10,IE,-0.267808731
+United Kingdom,11,IE,-0.688188462
+United Kingdom,12,IE,-0.964586258
+United Kingdom,13,IE,-1.238712021
+United Kingdom,14,IE,-1.267964299
+United Kingdom,15,IE,-1.069189036
+United Kingdom,16,IE,-1.165517851
+United Kingdom,17,IE,-1.516294898
+United Kingdom,18,IE,-1.811232324
+United Kingdom,19,IE,-1.498366895
+United Kingdom,20,IE,-1.314526627
+United Kingdom,21,IE,-1.363463647
+United Kingdom,22,IE,-2.841151373
+United Kingdom,23,IE,-2.726299584
+United Kingdom,24,IE,-2.137724983
+United Kingdom,1,NL,5.645929005
+United Kingdom,2,NL,5.756855327
+United Kingdom,3,NL,5.882305845
+United Kingdom,4,NL,5.851961909
+United Kingdom,5,NL,5.62788795
+United Kingdom,6,NL,5.01874934
+United Kingdom,7,NL,3.288645565
+United Kingdom,8,NL,1.334914394
+United Kingdom,9,NL,0.108337936
+United Kingdom,10,NL,-0.13647618
+United Kingdom,11,NL,-0.112716456
+United Kingdom,12,NL,0.131652067
+United Kingdom,13,NL,0.054111362
+United Kingdom,14,NL,0.019837972
+United Kingdom,15,NL,0.265933534
+United Kingdom,16,NL,0.959120483
+United Kingdom,17,NL,2.049858406
+United Kingdom,18,NL,3.553044833
+United Kingdom,19,NL,3.487501164
+United Kingdom,20,NL,3.459477307
+United Kingdom,21,NL,3.454817591
+United Kingdom,22,NL,3.475150747
+United Kingdom,23,NL,4.009727205
+United Kingdom,24,NL,4.424652234
+United Kingdom,1,NO,-1.052139392
+United Kingdom,2,NO,-1.045185143
+United Kingdom,3,NO,-0.986076652
+United Kingdom,4,NO,-1.00825377
+United Kingdom,5,NO,-1.137923066
+United Kingdom,6,NO,-1.222445227
+United Kingdom,7,NO,-1.604758826
+United Kingdom,8,NO,-1.642835217
+United Kingdom,9,NO,-1.585529059
+United Kingdom,10,NO,-1.477727498
+United Kingdom,11,NO,-1.405430993
+United Kingdom,12,NO,-1.2495602
+United Kingdom,13,NO,-1.27657457
+United Kingdom,14,NO,-1.408907736
+United Kingdom,15,NO,-1.455547676
+United Kingdom,16,NO,-1.432292696
+United Kingdom,17,NO,-1.904965499
+United Kingdom,18,NO,-2.26133063
+United Kingdom,19,NO,-2.541914405
+United Kingdom,20,NO,-2.403389917
+United Kingdom,21,NO,-2.35357505
+United Kingdom,22,NO,-2.323339616
+United Kingdom,23,NO,-2.221135448
+United Kingdom,24,NO,-1.977491145
+United Kingdom,1,NW,1.867215835
+United Kingdom,2,NW,1.871334481
+United Kingdom,3,NW,1.986076245
+United Kingdom,4,NW,2.009407011
+United Kingdom,5,NW,1.851341995
+United Kingdom,6,NW,1.28590758
+United Kingdom,7,NW,0.403973315
+United Kingdom,8,NW,-1.390886123
+United Kingdom,9,NW,-2.701842919
+United Kingdom,10,NW,-3.178880269
+United Kingdom,11,NW,-3.482045772
+United Kingdom,12,NW,-3.406789716
+United Kingdom,13,NW,-3.508043497
+United Kingdom,14,NW,-3.27533492
+United Kingdom,15,NW,-2.919462123
+United Kingdom,16,NW,-1.936995565
+United Kingdom,17,NW,-0.565427319
+United Kingdom,18,NW,0.204194223
+United Kingdom,19,NW,0.058391326
+United Kingdom,20,NW,0.079692475
+United Kingdom,21,NW,0.082781921
+United Kingdom,22,NW,0.328021174
+United Kingdom,23,NW,0.531674034
+United Kingdom,24,NW,1.050364391

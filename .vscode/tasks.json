@@ -1,0 +1,42 @@
+{
+  "version": "2.0.0",
+  "tasks": [
+    {
+      "label": "Analyse: test op de Mac",
+      "detail": "Bibliotheken in .venv, capture rates aanvullen, alle pakketten en tests, R-toets, verkenner op localhost:8501",
+      "type": "shell",
+      "command": "bash test_op_mac.sh",
+      "isBackground": false,
+      "problemMatcher": [],
+      "presentation": {
+        "reveal": "always",
+        "panel": "dedicated",
+        "clear": true
+      }
+    },
+    {
+      "label": "Analyse: alles draaien",
+      "detail": "run_analyse.sh: alle pakketten in volgorde en daarna de tests",
+      "type": "shell",
+      "command": "bash run_analyse.sh",
+      "problemMatcher": [],
+      "presentation": {
+        "reveal": "always",
+        "panel": "dedicated",
+        "clear": true
+      }
+    },
+    {
+      "label": "Analyse: verkenner starten",
+      "detail": "Streamlit op http://localhost:8501",
+      "type": "shell",
+      "command": "source .venv/bin/activate && streamlit run src/eti/verken_app.py --server.address localhost --server.port 8501",
+      "isBackground": true,
+      "problemMatcher": [],
+      "presentation": {
+        "reveal": "always",
+        "panel": "dedicated"
+      }
+    }
+  ]
+}

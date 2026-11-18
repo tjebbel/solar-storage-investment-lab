@@ -1,0 +1,210 @@
+iso3,land,continent,ember_regio,eu,oecd,g20,studieregio
+AFG,Afghanistan,Asia,Asia,False,False,False,Rest van de wereld
+ALB,Albania,Europe,Europe,False,False,False,Europa
+DZA,Algeria,Africa,Africa,False,False,False,Rest van de wereld
+ASM,American Samoa,Oceania,Oceania,False,False,False,Rest van de wereld
+AGO,Angola,Africa,Africa,False,False,False,Rest van de wereld
+ATG,Antigua and Barbuda,North America,Latin America and Caribbean,False,False,False,Rest van de wereld
+ARG,Argentina,South America,Latin America and Caribbean,False,False,True,Rest van de wereld
+ARM,Armenia,Asia,Asia,False,False,False,Rest van de wereld
+ABW,Aruba,South America,Latin America and Caribbean,False,False,False,Rest van de wereld
+AUS,Australia,Oceania,Oceania,False,True,True,Rest van de wereld
+AUT,Austria,Europe,Europe,True,True,False,Europa
+AZE,Azerbaijan,Asia,Asia,False,False,False,Rest van de wereld
+BHS,Bahamas,North America,Latin America and Caribbean,False,False,False,Rest van de wereld
+BHR,Bahrain,Asia,Middle East,False,False,False,Rest van de wereld
+BGD,Bangladesh,Asia,Asia,False,False,False,Rest van de wereld
+BRB,Barbados,North America,Latin America and Caribbean,False,False,False,Rest van de wereld
+BLR,Belarus,Europe,Europe,False,False,False,Europa
+BEL,Belgium,Europe,Europe,True,True,False,Europa
+BLZ,Belize,North America,Latin America and Caribbean,False,False,False,Rest van de wereld
+BEN,Benin,Africa,Africa,False,False,False,Rest van de wereld
+BTN,Bhutan,Asia,Asia,False,False,False,Rest van de wereld
+BOL,Bolivia,South America,Latin America and Caribbean,False,False,False,Rest van de wereld
+BIH,Bosnia Herzegovina,Europe,Europe,False,False,False,Europa
+BWA,Botswana,Africa,Africa,False,False,False,Rest van de wereld
+BRA,Brazil,South America,Latin America and Caribbean,False,False,True,Rest van de wereld
+BRN,Brunei Darussalam,Asia,Asia,False,False,False,Rest van de wereld
+BGR,Bulgaria,Europe,Europe,True,False,False,Europa
+BFA,Burkina Faso,Africa,Africa,False,False,False,Rest van de wereld
+BDI,Burundi,Africa,Africa,False,False,False,Rest van de wereld
+CPV,Cabo Verde,Africa,Africa,False,False,False,Rest van de wereld
+KHM,Cambodia,Asia,Asia,False,False,False,Rest van de wereld
+CMR,Cameroon,Africa,Africa,False,False,False,Rest van de wereld
+CAN,Canada,North America,North America,False,True,True,Rest van de wereld
+CYM,Cayman Islands,North America,Latin America and Caribbean,False,False,False,Rest van de wereld
+CAF,Central African Republic,Africa,Africa,False,False,False,Rest van de wereld
+TCD,Chad,Africa,Africa,False,False,False,Rest van de wereld
+CHL,Chile,South America,Latin America and Caribbean,False,True,False,Rest van de wereld
+CHN,China,Asia,Asia,False,False,True,China
+COL,Colombia,South America,Latin America and Caribbean,False,True,False,Rest van de wereld
+COM,Comoros,Africa,Africa,False,False,False,Rest van de wereld
+COG,Congo,Africa,Africa,False,False,False,Rest van de wereld
+COD,Congo (DRC),Africa,Africa,False,False,False,Rest van de wereld
+COK,Cook Islands (the),Oceania,Oceania,False,False,False,Rest van de wereld
+CRI,Costa Rica,North America,Latin America and Caribbean,False,True,False,Rest van de wereld
+CIV,Cote d'Ivoire,Africa,Africa,False,False,False,Rest van de wereld
+HRV,Croatia,Europe,Europe,True,False,False,Europa
+CUB,Cuba,North America,Latin America and Caribbean,False,False,False,Rest van de wereld
+CYP,Cyprus,Europe,Europe,True,False,False,Europa
+CZE,Czechia,Europe,Europe,True,True,False,Europa
+DNK,Denmark,Europe,Europe,True,True,False,Europa
+DJI,Djibouti,Africa,Africa,False,False,False,Rest van de wereld
+DMA,Dominica,North America,Latin America and Caribbean,False,False,False,Rest van de wereld
+DOM,Dominican Republic,North America,Latin America and Caribbean,False,False,False,Rest van de wereld
+ECU,Ecuador,South America,Latin America and Caribbean,False,False,False,Rest van de wereld
+EGY,Egypt,Africa,Africa,False,False,False,Rest van de wereld
+SLV,El Salvador,North America,Latin America and Caribbean,False,False,False,Rest van de wereld
+GNQ,Equatorial Guinea,Africa,Africa,False,False,False,Rest van de wereld
+ERI,Eritrea,Africa,Africa,False,False,False,Rest van de wereld
+EST,Estonia,Europe,Europe,True,True,False,Europa
+SWZ,Eswatini,Africa,Africa,False,False,False,Rest van de wereld
+ETH,Ethiopia,Africa,Africa,False,False,False,Rest van de wereld
+FLK,Falkland Islands (Malvinas),South America,Latin America and Caribbean,False,False,False,Rest van de wereld
+FRO,Faroe Islands,Europe,Europe,False,False,False,Europa
+FJI,Fiji,Oceania,Oceania,False,False,False,Rest van de wereld
+FIN,Finland,Europe,Europe,True,True,False,Europa
+FRA,France,Europe,Europe,True,True,True,Europa
+GUF,French Guiana,South America,Latin America and Caribbean,False,False,False,Rest van de wereld
+PYF,French Polynesia,Oceania,Oceania,False,False,False,Rest van de wereld
+GAB,Gabon,Africa,Africa,False,False,False,Rest van de wereld
+GMB,Gambia,Africa,Africa,False,False,False,Rest van de wereld
+GEO,Georgia,Asia,Asia,False,False,False,Rest van de wereld
+DEU,Germany,Europe,Europe,True,True,True,Europa
+GHA,Ghana,Africa,Africa,False,False,False,Rest van de wereld
+GRC,Greece,Europe,Europe,True,True,False,Europa
+GRL,Greenland,North America,North America,False,False,False,Rest van de wereld
+GRD,Grenada,North America,Latin America and Caribbean,False,False,False,Rest van de wereld
+GLP,Guadeloupe,North America,Latin America and Caribbean,False,False,False,Rest van de wereld
+GUM,Guam,Oceania,Oceania,False,False,False,Rest van de wereld
+GTM,Guatemala,North America,Latin America and Caribbean,False,False,False,Rest van de wereld
+GIN,Guinea,Africa,Africa,False,False,False,Rest van de wereld
+GNB,Guinea-Bissau,Africa,Africa,False,False,False,Rest van de wereld
+GUY,Guyana,South America,Latin America and Caribbean,False,False,False,Rest van de wereld
+HTI,Haiti,North America,Latin America and Caribbean,False,False,False,Rest van de wereld
+HND,Honduras,North America,Latin America and Caribbean,False,False,False,Rest van de wereld
+HKG,Hong Kong (SAR of China),Asia,Asia,False,False,False,Rest van de wereld
+HUN,Hungary,Europe,Europe,True,True,False,Europa
+ISL,Iceland,Europe,Europe,False,True,False,Europa
+IND,India,Asia,Asia,False,False,True,Rest van de wereld
+IDN,Indonesia,Asia,Asia,False,False,True,Rest van de wereld
+IRN,Iran,Asia,Middle East,False,False,False,Rest van de wereld
+IRQ,Iraq,Asia,Middle East,False,False,False,Rest van de wereld
+IRL,Ireland,Europe,Europe,True,True,False,Europa
+ISR,Israel,Asia,Middle East,False,True,False,Rest van de wereld
+ITA,Italy,Europe,Europe,True,True,True,Europa
+JAM,Jamaica,North America,Latin America and Caribbean,False,False,False,Rest van de wereld
+JPN,Japan,Asia,Asia,False,True,True,Rest van de wereld
+JOR,Jordan,Asia,Middle East,False,False,False,Rest van de wereld
+KAZ,Kazakhstan,Asia,Asia,False,False,False,Rest van de wereld
+KEN,Kenya,Africa,Africa,False,False,False,Rest van de wereld
+KIR,Kiribati,Oceania,Oceania,False,False,False,Rest van de wereld
+XKX,Kosovo,Europe,Europe,False,False,False,Europa
+KWT,Kuwait,Asia,Middle East,False,False,False,Rest van de wereld
+KGZ,Kyrgyzstan,Asia,Asia,False,False,False,Rest van de wereld
+LAO,Lao PDR,Asia,Asia,False,False,False,Rest van de wereld
+LVA,Latvia,Europe,Europe,True,True,False,Europa
+LBN,Lebanon,Asia,Middle East,False,False,False,Rest van de wereld
+LSO,Lesotho,Africa,Africa,False,False,False,Rest van de wereld
+LBR,Liberia,Africa,Africa,False,False,False,Rest van de wereld
+LBY,Libya,Africa,Africa,False,False,False,Rest van de wereld
+LTU,Lithuania,Europe,Europe,True,True,False,Europa
+LUX,Luxembourg,Europe,Europe,True,True,False,Europa
+MAC,Macao (SAR of China),Asia,Asia,False,False,False,Rest van de wereld
+MDG,Madagascar,Africa,Africa,False,False,False,Rest van de wereld
+MWI,Malawi,Africa,Africa,False,False,False,Rest van de wereld
+MYS,Malaysia,Asia,Asia,False,False,False,Rest van de wereld
+MDV,Maldives,Asia,Asia,False,False,False,Rest van de wereld
+MLI,Mali,Africa,Africa,False,False,False,Rest van de wereld
+MLT,Malta,Europe,Europe,True,False,False,Europa
+MTQ,Martinique,North America,Latin America and Caribbean,False,False,False,Rest van de wereld
+MRT,Mauritania,Africa,Africa,False,False,False,Rest van de wereld
+MUS,Mauritius,Africa,Africa,False,False,False,Rest van de wereld
+MEX,Mexico,North America,Latin America and Caribbean,False,True,True,Rest van de wereld
+MDA,Moldova,Europe,Europe,False,False,False,Europa
+MNG,Mongolia,Asia,Asia,False,False,False,Rest van de wereld
+MNE,Montenegro,Europe,Europe,False,False,False,Europa
+MSR,Montserrat,North America,Latin America and Caribbean,False,False,False,Rest van de wereld
+MAR,Morocco,Africa,Africa,False,False,False,Rest van de wereld
+MOZ,Mozambique,Africa,Africa,False,False,False,Rest van de wereld
+MMR,Myanmar,Asia,Asia,False,False,False,Rest van de wereld
+NAM,Namibia,Africa,Africa,False,False,False,Rest van de wereld
+NRU,Nauru,Oceania,Oceania,False,False,False,Rest van de wereld
+NPL,Nepal,Asia,Asia,False,False,False,Rest van de wereld
+NLD,Netherlands,Europe,Europe,True,True,False,Nederland
+NCL,New Caledonia,Oceania,Oceania,False,False,False,Rest van de wereld
+NZL,New Zealand,Oceania,Oceania,False,True,False,Rest van de wereld
+NIC,Nicaragua,North America,Latin America and Caribbean,False,False,False,Rest van de wereld
+NER,Niger,Africa,Africa,False,False,False,Rest van de wereld
+NGA,Nigeria,Africa,Africa,False,False,False,Rest van de wereld
+PRK,North Korea,Asia,Asia,False,False,False,Rest van de wereld
+MKD,North Macedonia,Europe,Europe,False,False,False,Europa
+NOR,Norway,Europe,Europe,False,True,False,Europa
+OMN,Oman,Asia,Middle East,False,False,False,Rest van de wereld
+PAK,Pakistan,Asia,Asia,False,False,False,Rest van de wereld
+PSE,Palestine (State of),Asia,Middle East,False,False,False,Rest van de wereld
+PAN,Panama,North America,Latin America and Caribbean,False,False,False,Rest van de wereld
+PNG,Papua New Guinea,Oceania,Oceania,False,False,False,Rest van de wereld
+PRY,Paraguay,South America,Latin America and Caribbean,False,False,False,Rest van de wereld
+PER,Peru,South America,Latin America and Caribbean,False,False,False,Rest van de wereld
+POL,Poland,Europe,Europe,True,True,False,Europa
+PRT,Portugal,Europe,Europe,True,True,False,Europa
+PRI,Puerto Rico,North America,Latin America and Caribbean,False,False,False,Rest van de wereld
+QAT,Qatar,Asia,Middle East,False,False,False,Rest van de wereld
+REU,Reunion,Africa,Africa,False,False,False,Rest van de wereld
+ROU,Romania,Europe,Europe,True,False,False,Europa
+RUS,Russia,Europe,Europe,False,False,True,Europa
+RWA,Rwanda,Africa,Africa,False,False,False,Rest van de wereld
+KNA,Saint Kitts and Nevis,North America,Latin America and Caribbean,False,False,False,Rest van de wereld
+LCA,Saint Lucia,North America,Latin America and Caribbean,False,False,False,Rest van de wereld
+SPM,Saint Pierre and Miquelon,North America,Latin America and Caribbean,False,False,False,Rest van de wereld
+VCT,Saint Vincent and the Grenadines,North America,Latin America and Caribbean,False,False,False,Rest van de wereld
+WSM,Samoa,Oceania,Oceania,False,False,False,Rest van de wereld
+STP,Sao Tome and Principe,Africa,Africa,False,False,False,Rest van de wereld
+SAU,Saudi Arabia,Asia,Middle East,False,False,True,Rest van de wereld
+SEN,Senegal,Africa,Africa,False,False,False,Rest van de wereld
+SRB,Serbia,Europe,Europe,False,False,False,Europa
+SYC,Seychelles,Africa,Africa,False,False,False,Rest van de wereld
+SLE,Sierra Leone,Africa,Africa,False,False,False,Rest van de wereld
+SGP,Singapore,Asia,Asia,False,False,False,Rest van de wereld
+SVK,Slovakia,Europe,Europe,True,True,False,Europa
+SVN,Slovenia,Europe,Europe,True,True,False,Europa
+SLB,Solomon Islands,Oceania,Oceania,False,False,False,Rest van de wereld
+SOM,Somalia,Africa,Africa,False,False,False,Rest van de wereld
+ZAF,South Africa,Africa,Africa,False,False,True,Rest van de wereld
+KOR,South Korea,Asia,Asia,False,True,True,Rest van de wereld
+SSD,South Sudan,Africa,Africa,False,False,False,Rest van de wereld
+ESP,Spain,Europe,Europe,True,True,False,Europa
+LKA,Sri Lanka,Asia,Asia,False,False,False,Rest van de wereld
+SDN,Sudan,Africa,Africa,False,False,False,Rest van de wereld
+SUR,Suriname,South America,Latin America and Caribbean,False,False,False,Rest van de wereld
+SWE,Sweden,Europe,Europe,True,True,False,Europa
+CHE,Switzerland,Europe,Europe,False,True,False,Europa
+SYR,Syria,Asia,Middle East,False,False,False,Rest van de wereld
+TWN,Taiwan (China),Asia,Asia,False,False,False,Rest van de wereld
+TJK,Tajikistan,Asia,Asia,False,False,False,Rest van de wereld
+TZA,Tanzania (the United Republic of),Africa,Africa,False,False,False,Rest van de wereld
+THA,Thailand,Asia,Asia,False,False,False,Rest van de wereld
+PHL,The Philippines,Asia,Asia,False,False,False,Rest van de wereld
+TGO,Togo,Africa,Africa,False,False,False,Rest van de wereld
+TON,Tonga,Oceania,Oceania,False,False,False,Rest van de wereld
+TTO,Trinidad and Tobago,North America,Latin America and Caribbean,False,False,False,Rest van de wereld
+TUN,Tunisia,Africa,Africa,False,False,False,Rest van de wereld
+TKM,Turkmenistan,Asia,Asia,False,False,False,Rest van de wereld
+TCA,Turks and Caicos Islands,North America,Latin America and Caribbean,False,False,False,Rest van de wereld
+TUR,Türkiye,Asia,Europe,False,True,True,Rest van de wereld
+UGA,Uganda,Africa,Africa,False,False,False,Rest van de wereld
+UKR,Ukraine,Europe,Europe,False,False,False,Europa
+ARE,United Arab Emirates,Asia,Middle East,False,False,False,Rest van de wereld
+GBR,United Kingdom,Europe,Europe,False,True,True,Europa
+USA,United States,North America,North America,False,True,True,VS
+URY,Uruguay,South America,Latin America and Caribbean,False,False,False,Rest van de wereld
+UZB,Uzbekistan,Asia,Asia,False,False,False,Rest van de wereld
+VUT,Vanuatu,Oceania,Oceania,False,False,False,Rest van de wereld
+VEN,Venezuela,South America,Latin America and Caribbean,False,False,False,Rest van de wereld
+VNM,Viet Nam,Asia,Asia,False,False,False,Rest van de wereld
+VGB,Virgin Islands (British),North America,Latin America and Caribbean,False,False,False,Rest van de wereld
+VIR,Virgin Islands (U.S.),North America,Latin America and Caribbean,False,False,False,Rest van de wereld
+YEM,Yemen,Asia,Middle East,False,False,False,Rest van de wereld
+ZMB,Zambia,Africa,Africa,False,False,False,Rest van de wereld
+ZWE,Zimbabwe,Africa,Africa,False,False,False,Rest van de wereld

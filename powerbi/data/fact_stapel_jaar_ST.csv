@@ -1,0 +1,25 @@
+jaar,strategie,sleutel,dagen,omzet_per_mw_jaar,standaardafwijking_dag,slechtste_maand_per_mw_jaar,aandeel_dagen_fcr,haalt_8pct,haalt_5pct,correlatie_fcr_dagmarkt,fcr_onafgetopt_per_mw_jaar
+2023,Dagmarkt,dagmarkt,327,47758.06,110.71,29804.382,,False,False,-0.057,
+2023,Dagmarkt met bijsturen,bijsturen,327,118372.852,380.87,43387.021,,True,True,-0.057,
+2023,Alleen FCR,fcr,327,116178.991,144.201,79199.786,,True,True,-0.057,202599.048
+2023,"Half FCR, half dagmarkt met bijsturen",half,327,117275.922,199.766,84161.946,,True,True,-0.057,
+2023,Per dag wisselen op gisteren,wissel,327,129070.489,283.144,99943.925,0.56,True,True,-0.057,
+2023,Achteraf de beste (bovengrens),achteraf,327,170354.643,289.675,141426.231,,True,True,-0.057,
+2024,Dagmarkt,dagmarkt,334,52195.091,104.75,20328.38,,False,False,0.106,
+2024,Dagmarkt met bijsturen,bijsturen,334,101108.385,457.595,51598.551,,True,True,0.106,
+2024,Alleen FCR,fcr,334,152282.998,190.844,74172.975,,True,True,0.106,154554.394
+2024,"Half FCR, half dagmarkt met bijsturen",half,334,126695.692,257.058,79558.556,,True,True,0.106,
+2024,Per dag wisselen op gisteren,wissel,334,139700.828,272.65,68960.961,0.746,True,True,0.106,
+2024,Achteraf de beste (bovengrens),achteraf,334,189786.033,330.138,114195.076,,True,True,0.106,
+2025,Dagmarkt,dagmarkt,264,59505.982,119.663,21447.627,,False,False,0.065,
+2025,Dagmarkt met bijsturen,bijsturen,264,74896.493,288.774,28634.491,,False,True,0.065,
+2025,Alleen FCR,fcr,264,159651.369,261.577,80397.82,,True,True,0.065,423293.995
+2025,"Half FCR, half dagmarkt met bijsturen",half,264,117273.931,201.026,78727.392,,True,True,0.065,
+2025,Per dag wisselen op gisteren,wissel,264,156991.472,290.308,88488.2,0.848,True,True,0.065,
+2025,Achteraf de beste (bovengrens),achteraf,264,174712.319,291.307,123497.055,,True,True,0.065,
+2026,Dagmarkt,dagmarkt,293,83642.376,167.94,22194.146,,False,True,0.165,
+2026,Dagmarkt met bijsturen,bijsturen,293,89437.743,463.635,12834.456,,True,True,0.165,
+2026,Alleen FCR,fcr,293,202298.381,197.972,102433.6,,True,True,0.165,202961.875
+2026,"Half FCR, half dagmarkt met bijsturen",half,293,145868.062,266.683,58548.774,,True,True,0.165,
+2026,Per dag wisselen op gisteren,wissel,293,193138.643,210.073,96941.56,0.928,True,True,0.165,
+2026,Achteraf de beste (bovengrens),achteraf,293,219572.389,342.675,106042.832,,True,True,0.165,

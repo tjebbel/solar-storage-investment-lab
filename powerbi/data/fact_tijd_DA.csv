@@ -1,0 +1,298 @@
+reeks,dimensie,sleutel,waarde,extra
+prijs,jaar,2019,41.192636145678726,
+prijs,jaar,2020,32.24050204918033,
+prijs,jaar,2021,102.9628002283105,
+prijs,jaar,2022,241.924401826484,
+prijs,jaar,2023,95.81734703196346,
+prijs,jaar,2024,77.28767531876137,
+prijs,jaar,2025,86.81152283105023,
+prijs,jaar,2026,121.02781761088578,
+prijs,groei jaar op jaar,2020,-0.21732365136426246,
+prijs,groei jaar op jaar,2021,2.193585511517436,
+prijs,groei jaar op jaar,2022,1.349629198992636,
+prijs,groei jaar op jaar,2023,-0.6039368236169629,
+prijs,groei jaar op jaar,2024,-0.19338535544112723,
+prijs,groei jaar op jaar,2025,0.1232259538536924,
+prijs,groei jaar op jaar,2026,0.3941446211746129,
+negatieve uren,jaar,2019,3.0,
+negatieve uren,jaar,2020,97.0,
+negatieve uren,jaar,2021,70.0,
+negatieve uren,jaar,2022,85.0,
+negatieve uren,jaar,2023,316.0,
+negatieve uren,jaar,2024,458.0,
+negatieve uren,jaar,2025,584.0,
+negatieve uren,jaar,2026,399.0,
+dagspreiding,jaar,2019,26.6186301369863,
+dagspreiding,jaar,2020,31.31065573770492,
+dagspreiding,jaar,2021,83.27602739726028,
+dagspreiding,jaar,2022,205.11076712328764,
+dagspreiding,jaar,2023,107.58295890410959,
+dagspreiding,jaar,2024,113.03571038251366,
+dagspreiding,jaar,2025,123.17249315068493,
+dagspreiding,jaar,2026,156.36934169278996,
+prijsindex (1 = jaargemiddelde),maand,1,1.150807791738008,"mediaan over hele jaren; laagste 0.52, hoogste 1.42"
+prijsindex (1 = jaargemiddelde),maand,2,0.9167923248371895,"mediaan over hele jaren; laagste 0.48, hoogste 1.45"
+prijsindex (1 = jaargemiddelde),maand,3,0.983783030457264,"mediaan over hele jaren; laagste 0.47, hoogste 1.09"
+prijsindex (1 = jaargemiddelde),maand,4,0.8068682184904838,"mediaan over hele jaren; laagste 0.52, hoogste 1.03"
+prijsindex (1 = jaargemiddelde),maand,5,0.7496906735022902,"mediaan over hele jaren; laagste 0.55, hoogste 0.98"
+prijsindex (1 = jaargemiddelde),maand,6,0.8703242788487734,"mediaan over hele jaren; laagste 0.74, hoogste 0.96"
+prijsindex (1 = jaargemiddelde),maand,7,0.9103443746827614,"mediaan over hele jaren; laagste 0.75, hoogste 1.27"
+prijsindex (1 = jaargemiddelde),maand,8,0.9531417459345279,"mediaan over hele jaren; laagste 0.84, hoogste 1.85"
+prijsindex (1 = jaargemiddelde),maand,9,1.0300060218899807,"mediaan over hele jaren; laagste 0.89, hoogste 1.41"
+prijsindex (1 = jaargemiddelde),maand,10,0.9485242227004596,"mediaan over hele jaren; laagste 0.64, hoogste 1.59"
+prijsindex (1 = jaargemiddelde),maand,11,1.0797267363301737,"mediaan over hele jaren; laagste 0.74, hoogste 1.81"
+prijsindex (1 = jaargemiddelde),maand,12,1.070118406501328,"mediaan over hele jaren; laagste 0.76, hoogste 2.31"
+aandeel jaren boven het jaargemiddelde,maand,1,0.7142857142857143,
+aandeel jaren boven het jaargemiddelde,maand,2,0.42857142857142855,
+aandeel jaren boven het jaargemiddelde,maand,3,0.42857142857142855,
+aandeel jaren boven het jaargemiddelde,maand,4,0.14285714285714285,
+aandeel jaren boven het jaargemiddelde,maand,5,0.0,
+aandeel jaren boven het jaargemiddelde,maand,6,0.0,
+aandeel jaren boven het jaargemiddelde,maand,7,0.2857142857142857,
+aandeel jaren boven het jaargemiddelde,maand,8,0.2857142857142857,
+aandeel jaren boven het jaargemiddelde,maand,9,0.7142857142857143,
+aandeel jaren boven het jaargemiddelde,maand,10,0.42857142857142855,
+aandeel jaren boven het jaargemiddelde,maand,11,0.7142857142857143,
+aandeel jaren boven het jaargemiddelde,maand,12,0.7142857142857143,
+prijsindex (1 = jaargemiddelde),weekdag,0,1.046614266841599,"mediaan over hele jaren; laagste 1.03, hoogste 1.07"
+prijsindex (1 = jaargemiddelde),weekdag,1,1.0786208985026449,"mediaan over hele jaren; laagste 1.06, hoogste 1.10"
+prijsindex (1 = jaargemiddelde),weekdag,2,1.0778986742073755,"mediaan over hele jaren; laagste 1.06, hoogste 1.14"
+prijsindex (1 = jaargemiddelde),weekdag,3,1.091751182467834,"mediaan over hele jaren; laagste 1.05, hoogste 1.12"
+prijsindex (1 = jaargemiddelde),weekdag,4,1.0421227305736258,"mediaan over hele jaren; laagste 1.03, hoogste 1.07"
+prijsindex (1 = jaargemiddelde),weekdag,5,0.8776688987294192,"mediaan over hele jaren; laagste 0.84, hoogste 0.93"
+prijsindex (1 = jaargemiddelde),weekdag,6,0.7733876790518519,"mediaan over hele jaren; laagste 0.68, hoogste 0.87"
+aandeel jaren boven het jaargemiddelde,weekdag,0,1.0,
+aandeel jaren boven het jaargemiddelde,weekdag,1,1.0,
+aandeel jaren boven het jaargemiddelde,weekdag,2,1.0,
+aandeel jaren boven het jaargemiddelde,weekdag,3,1.0,
+aandeel jaren boven het jaargemiddelde,weekdag,4,1.0,
+aandeel jaren boven het jaargemiddelde,weekdag,5,0.0,
+aandeel jaren boven het jaargemiddelde,weekdag,6,0.0,
+prijsindex (1 = jaargemiddelde),uur,0,0.9654207474943172,"mediaan over hele jaren; laagste 0.88, hoogste 1.02"
+prijsindex (1 = jaargemiddelde),uur,1,0.8867036259389833,"mediaan over hele jaren; laagste 0.81, hoogste 0.95"
+prijsindex (1 = jaargemiddelde),uur,2,0.8430166242383066,"mediaan over hele jaren; laagste 0.76, hoogste 0.92"
+prijsindex (1 = jaargemiddelde),uur,3,0.8055978271825117,"mediaan over hele jaren; laagste 0.71, hoogste 0.90"
+prijsindex (1 = jaargemiddelde),uur,4,0.7998668890519868,"mediaan over hele jaren; laagste 0.70, hoogste 0.90"
+prijsindex (1 = jaargemiddelde),uur,5,0.8579860302128304,"mediaan over hele jaren; laagste 0.76, hoogste 0.96"
+prijsindex (1 = jaargemiddelde),uur,6,1.0199428621779862,"mediaan over hele jaren; laagste 0.93, hoogste 1.11"
+prijsindex (1 = jaargemiddelde),uur,7,1.160732802979096,"mediaan over hele jaren; laagste 1.11, hoogste 1.27"
+prijsindex (1 = jaargemiddelde),uur,8,1.2085646971869846,"mediaan over hele jaren; laagste 1.17, hoogste 1.27"
+prijsindex (1 = jaargemiddelde),uur,9,1.1380171148502247,"mediaan over hele jaren; laagste 1.05, hoogste 1.17"
+prijsindex (1 = jaargemiddelde),uur,10,0.9831108038504954,"mediaan over hele jaren; laagste 0.82, hoogste 1.09"
+prijsindex (1 = jaargemiddelde),uur,11,0.8995318813885104,"mediaan over hele jaren; laagste 0.66, hoogste 1.05"
+prijsindex (1 = jaargemiddelde),uur,12,0.8083182859266728,"mediaan over hele jaren; laagste 0.55, hoogste 1.00"
+prijsindex (1 = jaargemiddelde),uur,13,0.7617022291804656,"mediaan over hele jaren; laagste 0.49, hoogste 0.97"
+prijsindex (1 = jaargemiddelde),uur,14,0.7737556945409039,"mediaan over hele jaren; laagste 0.53, hoogste 0.95"
+prijsindex (1 = jaargemiddelde),uur,15,0.8359536595491811,"mediaan over hele jaren; laagste 0.67, hoogste 0.96"
+prijsindex (1 = jaargemiddelde),uur,16,0.9231030396227028,"mediaan over hele jaren; laagste 0.85, hoogste 1.00"
+prijsindex (1 = jaargemiddelde),uur,17,1.1386461655855018,"mediaan over hele jaren; laagste 1.12, hoogste 1.19"
+prijsindex (1 = jaargemiddelde),uur,18,1.3064439806741914,"mediaan over hele jaren; laagste 1.18, hoogste 1.40"
+prijsindex (1 = jaargemiddelde),uur,19,1.3775192613489444,"mediaan over hele jaren; laagste 1.22, hoogste 1.53"
+prijsindex (1 = jaargemiddelde),uur,20,1.2732117305070056,"mediaan over hele jaren; laagste 1.17, hoogste 1.49"
+prijsindex (1 = jaargemiddelde),uur,21,1.1705494097140878,"mediaan over hele jaren; laagste 1.07, hoogste 1.33"
+prijsindex (1 = jaargemiddelde),uur,22,1.1131004658914168,"mediaan over hele jaren; laagste 1.02, hoogste 1.20"
+prijsindex (1 = jaargemiddelde),uur,23,0.9921020650173296,"mediaan over hele jaren; laagste 0.92, hoogste 1.07"
+aandeel jaren boven het jaargemiddelde,uur,0,0.14285714285714285,
+aandeel jaren boven het jaargemiddelde,uur,1,0.0,
+aandeel jaren boven het jaargemiddelde,uur,2,0.0,
+aandeel jaren boven het jaargemiddelde,uur,3,0.0,
+aandeel jaren boven het jaargemiddelde,uur,4,0.0,
+aandeel jaren boven het jaargemiddelde,uur,5,0.0,
+aandeel jaren boven het jaargemiddelde,uur,6,0.5714285714285714,
+aandeel jaren boven het jaargemiddelde,uur,7,1.0,
+aandeel jaren boven het jaargemiddelde,uur,8,1.0,
+aandeel jaren boven het jaargemiddelde,uur,9,1.0,
+aandeel jaren boven het jaargemiddelde,uur,10,0.42857142857142855,
+aandeel jaren boven het jaargemiddelde,uur,11,0.42857142857142855,
+aandeel jaren boven het jaargemiddelde,uur,12,0.0,
+aandeel jaren boven het jaargemiddelde,uur,13,0.0,
+aandeel jaren boven het jaargemiddelde,uur,14,0.0,
+aandeel jaren boven het jaargemiddelde,uur,15,0.0,
+aandeel jaren boven het jaargemiddelde,uur,16,0.0,
+aandeel jaren boven het jaargemiddelde,uur,17,1.0,
+aandeel jaren boven het jaargemiddelde,uur,18,1.0,
+aandeel jaren boven het jaargemiddelde,uur,19,1.0,
+aandeel jaren boven het jaargemiddelde,uur,20,1.0,
+aandeel jaren boven het jaargemiddelde,uur,21,1.0,
+aandeel jaren boven het jaargemiddelde,uur,22,1.0,
+aandeel jaren boven het jaargemiddelde,uur,23,0.42857142857142855,
+uurprofiel,uur 2019,0,0.8755545765838199,
+uurprofiel,uur 2019,1,0.8399067367376822,
+uurprofiel,uur 2019,2,0.8091671023315629,
+uurprofiel,uur 2019,3,0.7851715912730146,
+uurprofiel,uur 2019,4,0.7769988311453071,
+uurprofiel,uur 2019,5,0.8094251614892412,
+uurprofiel,uur 2019,6,0.9541424757720816,
+uurprofiel,uur 2019,7,1.1067126366392193,
+uurprofiel,uur 2019,8,1.1663695289255855,
+uurprofiel,uur 2019,9,1.150727020344567,
+uurprofiel,uur 2019,10,1.092752833390484,
+uurprofiel,uur 2019,11,1.0516150111721425,
+uurprofiel,uur 2019,12,0.9982187138631616,
+uurprofiel,uur 2019,13,0.9675296271271027,
+uurprofiel,uur 2019,14,0.9500261661667443,
+uurprofiel,uur 2019,15,0.9578377764938867,
+uurprofiel,uur 2019,16,0.9945333896551839,
+uurprofiel,uur 2019,17,1.1268252885159997,
+uurprofiel,uur 2019,18,1.1802648173849013,
+uurprofiel,uur 2019,19,1.2209656682975862,
+uurprofiel,uur 2019,20,1.166627588083264,
+uurprofiel,uur 2019,21,1.0735733181070604,
+uurprofiel,uur 2019,22,1.019784611254187,
+uurprofiel,uur 2019,23,0.9249285828806888,
+uurprofiel,uur 2022,0,0.9692579537847251,
+uurprofiel,uur 2022,1,0.89596901133914,
+uurprofiel,uur 2022,2,0.8654430030257386,
+uurprofiel,uur 2022,3,0.8340385362090169,
+uurprofiel,uur 2022,4,0.8329547605384255,
+uurprofiel,uur 2022,5,0.8827484203714796,
+uurprofiel,uur 2022,6,1.0282408308841111,
+uurprofiel,uur 2022,7,1.160732802979096,
+uurprofiel,uur 2022,8,1.1960587937165321,
+uurprofiel,uur 2022,9,1.1063550098785528,
+uurprofiel,uur 2022,10,0.9831108038504954,
+uurprofiel,uur 2022,11,0.8995318813885104,
+uurprofiel,uur 2022,12,0.8083182859266728,
+uurprofiel,uur 2022,13,0.7617022291804656,
+uurprofiel,uur 2022,14,0.7737556945409039,
+uurprofiel,uur 2022,15,0.8359536595491811,
+uurprofiel,uur 2022,16,0.9231030396227028,
+uurprofiel,uur 2022,17,1.1229944204616242,
+uurprofiel,uur 2022,18,1.2489480656661605,
+uurprofiel,uur 2022,19,1.3218191259566274,
+uurprofiel,uur 2022,20,1.2732117305070056,
+uurprofiel,uur 2022,21,1.1705494097140878,
+uurprofiel,uur 2022,22,1.1131004658914168,
+uurprofiel,uur 2022,23,0.9921020650173296,
+uurprofiel,uur 2025,0,1.0167399078784205,
+uurprofiel,uur 2025,1,0.9540208177338577,
+uurprofiel,uur 2025,2,0.921358339763357,
+uurprofiel,uur 2025,3,0.896111075884309,
+uurprofiel,uur 2025,4,0.8999676436489307,
+uurprofiel,uur 2025,5,0.960730361979018,
+uurprofiel,uur 2025,6,1.1129918862958428,
+uurprofiel,uur 2025,7,1.2657605713653473,
+uurprofiel,uur 2025,8,1.267421230905236,
+uurprofiel,uur 2025,9,1.046365733227711,
+uurprofiel,uur 2025,10,0.8180389326617337,
+uurprofiel,uur 2025,11,0.6582848735413178,
+uurprofiel,uur 2025,12,0.5454108355825815,
+uurprofiel,uur 2025,13,0.48855644255503716,
+uurprofiel,uur 2025,14,0.5255605574107998,
+uurprofiel,uur 2025,15,0.6742110466733855,
+uurprofiel,uur 2025,16,0.8504426229426281,
+uurprofiel,uur 2025,17,1.1353946947524247,
+uurprofiel,uur 2025,18,1.3758469609554338,
+uurprofiel,uur 2025,19,1.5086735297828204,
+uurprofiel,uur 2025,20,1.4791711019782083,
+uurprofiel,uur 2025,21,1.3288870943236681,
+uurprofiel,uur 2025,22,1.20122902060931,
+uurprofiel,uur 2025,23,1.068824717548622,
+uurprofiel,uur 2026,0,1.0770222726109009,
+uurprofiel,uur 2026,1,1.0260769652034394,
+uurprofiel,uur 2026,2,0.9860071595648845,
+uurprofiel,uur 2026,3,0.9665551689283957,
+uurprofiel,uur 2026,4,0.9680872398287264,
+uurprofiel,uur 2026,5,1.0074742831860855,
+uurprofiel,uur 2026,6,1.1341057061715383,
+uurprofiel,uur 2026,7,1.228740547168885,
+uurprofiel,uur 2026,8,1.1840892926571183,
+uurprofiel,uur 2026,9,0.9912263021923846,
+uurprofiel,uur 2026,10,0.7856107317145012,
+uurprofiel,uur 2026,11,0.6188641698474865,
+uurprofiel,uur 2026,12,0.5072325230253284,
+uurprofiel,uur 2026,13,0.4470423479201964,
+uurprofiel,uur 2026,14,0.47815869348906576,
+uurprofiel,uur 2026,15,0.6051425985865833,
+uurprofiel,uur 2026,16,0.8042158092089322,
+uurprofiel,uur 2026,17,1.0774785234341637,
+uurprofiel,uur 2026,18,1.3165209744559347,
+uurprofiel,uur 2026,19,1.4866798905686107,
+uurprofiel,uur 2026,20,1.5047798408735866,
+uurprofiel,uur 2026,21,1.3916302728375258,
+uurprofiel,uur 2026,22,1.2706816765309241,
+uurprofiel,uur 2026,23,1.1354606714123283,
+prijs,groei maand op maand,2025-12,-0.06519369968928235,
+prijs,groei maand op maand,2026-01,0.22805736964861723,
+prijs,groei maand op maand,2026-02,-0.13670106485241884,
+prijs,groei maand op maand,2026-03,0.06494888446674585,
+prijs,groei maand op maand,2026-04,-0.1462769841485385,
+prijs,groei maand op maand,2026-05,0.12399484244734493,
+prijs,groei maand op maand,2026-06,0.15974963328357306,
+prijs,groei maand op maand,2026-07,-0.038733999952412335,
+prijs,groei maand op maand,2026-08,0.18434263009399499,
+prijs,groei maand op maand,2026-09,0.21364146241290682,
+prijs,groei maand op maand,2026-10,0.1296443895974746,
+prijs,groei maand op maand,2026-11,0.48522429275401024,
+prijs,groei kwartaal op kwartaal,2025-01,0.07770692029787174,
+prijs,groei kwartaal op kwartaal,2025-04,-0.37941762948465874,
+prijs,groei kwartaal op kwartaal,2025-07,0.16078921090314924,
+prijs,groei kwartaal op kwartaal,2025-10,0.09905365846803926,
+prijs,groei kwartaal op kwartaal,2026-01,0.139381973774243,
+prijs,groei kwartaal op kwartaal,2026-04,-0.03561615143737906,
+prijs,groei kwartaal op kwartaal,2026-07,0.321535717948765,
+prijs,groei kwartaal op kwartaal,2026-10,0.5553683091824646,
+prijs,groei jaar op jaar (per maand),2025-12,-0.18782544357699604,
+prijs,groei jaar op jaar (per maand),2026-01,-0.07837464643953107,
+prijs,groei jaar op jaar (per maand),2026-02,-0.2612274188374516,
+prijs,groei jaar op jaar (per maand),2026-03,0.07954509639046803,
+prijs,groei jaar op jaar (per maand),2026-04,0.1293170637813139,
+prijs,groei jaar op jaar (per maand),2026-05,0.47918147618796425,
+prijs,groei jaar op jaar (per maand),2026-06,0.6271944726207943,
+prijs,groei jaar op jaar (per maand),2026-07,0.20976175240597872,
+prijs,groei jaar op jaar (per maand),2026-08,0.6828892331945089,
+prijs,groei jaar op jaar (per maand),2026-09,0.9594124840347955,
+prijs,groei jaar op jaar (per maand),2026-10,1.089412366191639,
+prijs,groei jaar op jaar (per maand),2026-11,1.7228326469170998,
+prijs,maand,2025-11,93.78262500000001,720 uren
+prijs,maand,2025-12,87.66858870967742,744 uren
+prijs,maand,2026-01,107.66205645161291,744 uren
+prijs,maand,2026-02,92.9445386904762,672 uren
+prijs,maand,2026-03,98.98118279569893,744 uren
+prijs,maand,2026-04,84.50251388888888,720 uren
+prijs,maand,2026-05,94.98038978494624,744 uren
+prijs,maand,2026-06,110.15347222222222,720 uren
+prijs,maand,2026-07,105.8867876344086,744 uren
+prijs,maand,2026-08,125.40623655913978,744 uren
+prijs,maand,2026-09,152.19820833333335,720 uren
+prijs,maand,2026-10,171.92985215053764,744 uren
+prijs,maand,2026-11,255.3543930635838,346 uren
+prijs alle zones,mediaan groei jaar op jaar,2026-01,0.07232215192268332,25 van 37 zones stijgen
+prijs alle zones,mediaan groei jaar op jaar,2026-02,-0.22979002370121437,13 van 37 zones stijgen
+prijs alle zones,mediaan groei jaar op jaar,2026-03,0.08334753605712453,26 van 37 zones stijgen
+prijs alle zones,mediaan groei jaar op jaar,2026-04,0.1046635459906533,30 van 37 zones stijgen
+prijs alle zones,mediaan groei jaar op jaar,2026-05,0.4183300444687523,36 van 37 zones stijgen
+prijs alle zones,mediaan groei jaar op jaar,2026-06,0.6170933691063141,35 van 37 zones stijgen
+prijs alle zones,mediaan groei jaar op jaar,2026-07,0.28397321781287777,36 van 37 zones stijgen
+prijs alle zones,mediaan groei jaar op jaar,2026-08,0.7724395030714579,34 van 37 zones stijgen
+prijs alle zones,mediaan groei jaar op jaar,2026-09,0.8302783255896378,36 van 37 zones stijgen
+prijs alle zones,mediaan groei jaar op jaar,2026-10,1.0387157545903505,35 van 37 zones stijgen
+prijs alle zones,mediaan groei jaar op jaar,2026-11,1.3865298116901186,34 van 37 zones stijgen
+prijs,breekpunt (verandering van het 12-maandsgemiddelde in zes maanden),2022-08,99.82723110812425,
+prijs,breekpunt (verandering van het 12-maandsgemiddelde in zes maanden),2022-08,99.82723110812425,
+prijs,breekpunt (verandering van het 12-maandsgemiddelde in zes maanden),2023-12,-97.41538466995219,
+prijs,afwijkende maand (z-score t.o.v. de twaalf maanden ervoor),2026-11,5.397298451738849,255 euro per MWh
+prijs,afwijkende maand (z-score t.o.v. de twaalf maanden ervoor),2021-09,4.85160979811851,136 euro per MWh
+prijs,afwijkende maand (z-score t.o.v. de twaalf maanden ervoor),2022-08,4.427853767926539,447 euro per MWh
+prijs,afwijkende maand (z-score t.o.v. de twaalf maanden ervoor),2026-09,4.065719722369696,152 euro per MWh
+prijs,afwijkende maand (z-score t.o.v. de twaalf maanden ervoor),2020-03,-3.980335905335574,25 euro per MWh
+capture rate zon,jaar,2019,0.9415913106726272,
+capture rate zon,jaar,2020,0.7881683518006299,
+capture rate zon,jaar,2021,0.7671864290602295,
+capture rate zon,jaar,2022,0.925995713849023,
+capture rate zon,jaar,2023,0.7401469414687698,
+capture rate zon,jaar,2024,0.6025540128661602,
+capture rate zon,jaar,2025,0.6153508132519347,
+capture rate zon,jaar,2026,0.5865423660766594,
+capture rate zon,maand (2023 en later),1,0.985734076629247,
+capture rate zon,maand (2023 en later),2,0.8954080010340761,
+capture rate zon,maand (2023 en later),3,0.6484061092069134,
+capture rate zon,maand (2023 en later),4,0.6314630589653643,
+capture rate zon,maand (2023 en later),5,0.5881091928838297,
+capture rate zon,maand (2023 en later),6,0.6665732106870588,
+capture rate zon,maand (2023 en later),7,0.6571513670457412,
+capture rate zon,maand (2023 en later),8,0.6367935190821024,
+capture rate zon,maand (2023 en later),9,0.6562027123790808,
+capture rate zon,maand (2023 en later),10,0.8104588299355668,
+capture rate zon,maand (2023 en later),11,0.9552896303268369,
+capture rate zon,maand (2023 en later),12,1.064772371753656,

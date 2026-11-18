@@ -1,0 +1,52 @@
+{
+ "doel": "verhouding_volgend_jaar",
+ "kenmerken": [
+  "verhouding",
+  "groei_verhouding",
+  "dagspreiding_tov_prijs",
+  "prijs_tov_mediaan",
+  "capture_zon",
+  "negatieve_uren",
+  "voorspel_ratio",
+  "aandeel_zon_pct",
+  "aandeel_wind_pct",
+  "aandeel_kern_pct",
+  "aandeel_gas_pct",
+  "aandeel_waterkracht_pct",
+  "log_vraag",
+  "regio"
+ ],
+ "model": "ridge",
+ "aanbevolen": "lat: gelijk aan dit jaar",
+ "instelling": {
+  "keuze__k": "all",
+  "model__alpha": 100.0
+ },
+ "getraind_op": "2026-11-18",
+ "doeljaren_training": [
+  2021,
+  2022,
+  2023,
+  2024
+ ],
+ "toetsjaar": 2025,
+ "sklearn": "1.9.1",
+ "toets": {
+  "rmse": 0.3324324552186853,
+  "mae": 0.22801774281771403,
+  "r2": 0.4393352801651461
+ },
+ "lat": {
+  "rmse": 0.26579822982453266,
+  "mae": 0.1845868164239378,
+  "r2": 0.6415731273092782
+ },
+ "rijen_training": 148,
+ "onvolledig_jaar": {
+  "jaar": 2026,
+  "rmse": 0.1792312232698296,
+  "mae": 0.12996022539102428,
+  "r2": 0.7930665329301197,
+  "lat_rmse": 0.1888617620045753
+ }
+}

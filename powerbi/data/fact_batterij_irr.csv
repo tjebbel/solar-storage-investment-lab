@@ -1,0 +1,49 @@
+jaar,strategie,capex_per_mwh,irr
+2023,Dagmarkt,300000,-0.03918488606810569
+2023,Dagmarkt,250000,-0.00852359995245933
+2023,Dagmarkt,200000,0.030836069732904436
+2023,"Gestapeld vooraf, onbalans plan op gisteren",300000,-0.06623433962464331
+2023,"Gestapeld vooraf, onbalans plan op gisteren",250000,-0.03605278477072715
+2023,"Gestapeld vooraf, onbalans plan op gisteren",200000,0.0017538224160671277
+2023,"Gestapeld vooraf, onbalans op dagmarktplan",300000,-0.010472059696912762
+2023,"Gestapeld vooraf, onbalans op dagmarktplan",250000,0.021376307755708698
+2023,"Gestapeld vooraf, onbalans op dagmarktplan",200000,0.06317158177495003
+2023,Onbalans perfect,300000,0.310084144026041
+2023,Onbalans perfect,250000,0.38338279888033866
+2023,Onbalans perfect,200000,0.4916188658773898
+2024,Dagmarkt,300000,-0.021214979737997047
+2024,Dagmarkt,250000,0.010114751309156421
+2024,Dagmarkt,200000,0.05090744689106941
+2024,"Gestapeld vooraf, onbalans plan op gisteren",300000,-0.0579473067820072
+2024,"Gestapeld vooraf, onbalans plan op gisteren",250000,-0.02769150003790854
+2024,"Gestapeld vooraf, onbalans plan op gisteren",200000,0.01051121607422829
+2024,"Gestapeld vooraf, onbalans op dagmarktplan",300000,-0.004881758242845532
+2024,"Gestapeld vooraf, onbalans op dagmarktplan",250000,0.027269606739282613
+2024,"Gestapeld vooraf, onbalans op dagmarktplan",200000,0.06962859019637108
+2024,Onbalans perfect,300000,0.3033007712662219
+2024,Onbalans perfect,250000,0.375397458821535
+2024,Onbalans perfect,200000,0.4817669685184955
+2025,Dagmarkt,300000,0.0035483814775943796
+2025,Dagmarkt,250000,0.03619786277413367
+2025,Dagmarkt,200000,0.07946026399731634
+2025,"Gestapeld vooraf, onbalans plan op gisteren",300000,-0.021316275447607027
+2025,"Gestapeld vooraf, onbalans plan op gisteren",250000,0.010008888989686968
+2025,"Gestapeld vooraf, onbalans plan op gisteren",200000,0.05079262927174567
+2025,"Gestapeld vooraf, onbalans op dagmarktplan",300000,-0.01657198294997215
+2025,"Gestapeld vooraf, onbalans op dagmarktplan",250000,0.014971370548009878
+2025,"Gestapeld vooraf, onbalans op dagmarktplan",200000,0.05618425354361535
+2025,Onbalans perfect,300000,0.17916258260607718
+2025,Onbalans perfect,250000,0.2309787185490131
+2025,Onbalans perfect,200000,0.305495768636465
+2026,Dagmarkt,300000,0.05727923169732092
+2026,Dagmarkt,250000,0.09415632620453834
+2026,Dagmarkt,200000,0.14460716441273683
+2026,"Gestapeld vooraf, onbalans plan op gisteren",300000,0.04387611314654351
+2026,"Gestapeld vooraf, onbalans plan op gisteren",250000,0.07953949764370918
+2026,"Gestapeld vooraf, onbalans plan op gisteren",200000,0.12797444447875025
+2026,"Gestapeld vooraf, onbalans op dagmarktplan",300000,0.044929576665163035
+2026,"Gestapeld vooraf, onbalans op dagmarktplan",250000,0.0806847085058689
+2026,"Gestapeld vooraf, onbalans op dagmarktplan",200000,0.12927290365099905
+2026,Onbalans perfect,300000,0.18691117063164708
+2026,Onbalans perfect,250000,0.23987364426255223
+2026,Onbalans perfect,200000,0.3162109331786632

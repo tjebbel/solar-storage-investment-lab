@@ -1,0 +1,12 @@
+land,jaar,maand,Gem prijs,Capture-prijs zon,Marge zon,Status zon,Prijs z-score,Prijs signaal
+Nederland,2026,1,107.66,107.51,40.12,Gedekt,1.11,Gewoon
+Nederland,2026,2,92.94,79.86,12.47,Gedekt,0.38,Gewoon
+Nederland,2026,3,98.98,55.82,-11.57,Kosten niet gedekt,1.24,Gewoon
+Nederland,2026,4,84.5,47.66,-19.73,Kosten niet gedekt,0.03,Gewoon
+Nederland,2026,5,94.98,55.4,-11.99,Kosten niet gedekt,0.79,Gewoon
+Nederland,2026,6,110.15,73.36,5.97,Gedekt,2.04,Let op
+Nederland,2026,7,105.89,63.02,-4.37,Kosten niet gedekt,1.35,Gewoon
+Nederland,2026,8,125.41,66.64,-0.75,Kosten niet gedekt,2.81,Let op
+Nederland,2026,9,152.2,99.71,32.32,Gedekt,4.07,Schok
+Nederland,2026,10,171.93,133.57,66.18,Gedekt,3.49,Schok
+Nederland,2026,11,255.35,238.13,170.74,Gedekt,5.4,Schok

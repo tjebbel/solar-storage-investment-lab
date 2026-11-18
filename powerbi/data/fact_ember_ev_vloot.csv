@@ -1,0 +1,62 @@
+Area,ISO 3 code,Area type,Latest available date,EV fleet (vehicles),EV fleet electricity demand (GWh per year),Oil displaced (thousand barrels of oil equivalent per year),Value of oil displaced (USD million per year),Brent price 6-month average (USD/bbl)
+Albania,ALB,Country or economy,2026-10-01,19057,64.1,130.0,13.1,100.91
+Australia,AUS,Country or economy,2026-10-01,733028,2541.1,5787.9,584.1,100.91
+Austria,AUT,Country or economy,2026-09-01,451215,1359.3,2327.0,234.8,100.91
+Belgium,BEL,Country or economy,2026-09-01,898246,2459.4,4600.9,464.3,100.91
+Brazil,BRA,Country or economy,2026-07-01,605716,1324.2,2454.5,247.7,100.91
+Bulgaria,BGR,Country or economy,2026-09-01,34561,103.8,180.1,18.2,100.91
+Canada,CAN,Country or economy,2026-06-01,1122728,3572.6,8270.2,834.6,100.91
+Chile,CHL,Country or economy,2026-09-01,34523,90.5,183.5,18.5,100.91
+China,CHN,Country or economy,2026-10-01,52901518,130087.5,311635.2,31447.6,100.91
+Colombia,COL,Country or economy,2026-10-01,94095,337.9,726.3,73.3,100.91
+Croatia,HRV,Country or economy,2026-09-01,25112,59.5,110.4,11.1,100.91
+Cyprus,CYP,Country or economy,2026-09-01,10068,25.6,43.9,4.4,100.91
+Czechia,CZE,Country or economy,2026-10-01,126974,291.5,517.1,52.2,100.91
+Denmark,DNK,Country or economy,2026-09-01,832642,3412.1,6575.0,663.5,100.91
+EU,,Region,2026-09-01,15097756,37470.9,67705.5,6832.3,100.91
+Ecuador,ECU,Country or economy,2026-10-01,19183,65.2,132.2,13.3,100.91
+Estonia,EST,Country or economy,2026-09-01,21995,48.8,81.9,8.3,100.91
+Finland,FIN,Country or economy,2026-10-01,429726,987.6,1441.9,145.5,100.91
+France,FRA,Country or economy,2026-10-01,2887838,7257.5,12757.8,1287.4,100.91
+Germany,DEU,Country or economy,2026-10-01,3806370,8756.2,17197.9,1735.5,100.91
+Greece,GRC,Country or economy,2026-09-01,81071,120.1,185.2,18.7,100.91
+Hong Kong (SAR of China),HKG,Country or economy,2026-08-01,175797,597.1,1211.2,122.2,100.91
+Hungary,HUN,Country or economy,2026-09-01,121956,355.1,608.4,61.4,100.91
+Iceland,ISL,Country or economy,2026-09-01,72136,183.6,363.1,36.6,100.91
+India,IND,Country or economy,2026-09-01,642644,1760.6,4261.6,430.0,100.91
+Indonesia,IDN,Country or economy,2026-09-01,317921,993.9,3039.6,306.7,100.91
+Ireland,IRL,Country or economy,2026-09-01,257898,840.8,1262.4,127.4,100.91
+Israel,ISR,Country or economy,2026-10-01,413190,1064.4,2181.6,220.2,100.91
+Italy,ITA,Country or economy,2026-10-01,980566,1464.0,2707.7,273.2,100.91
+Japan,JPN,Country or economy,2026-10-01,853927,1063.7,2315.6,233.7,100.91
+Latvia,LVA,Country or economy,2026-09-01,26459,80.9,143.9,14.5,100.91
+Lithuania,LTU,Country or economy,2026-09-01,55488,146.9,270.6,27.3,100.91
+Luxembourg,LUX,Country or economy,2026-09-01,66095,228.6,441.0,44.5,100.91
+Malaysia,MYS,Country or economy,2026-09-01,167258,539.6,1088.4,109.8,100.91
+Malta,MLT,Country or economy,2026-09-01,18368,49.5,100.4,10.1,100.91
+Mexico,MEX,Country or economy,2026-09-01,200342,500.1,1109.8,112.0,100.91
+Nepal,NPL,Country or economy,2026-10-01,66838,226.5,459.4,46.4,100.91
+Netherlands,NLD,Country or economy,2026-10-01,1415536,3279.2,5519.1,556.9,100.91
+New Zealand,NZL,Country or economy,2026-10-01,163762,436.9,886.2,89.4,100.91
+Norway,NOR,Country or economy,2026-10-01,1258230,3864.0,6665.9,672.7,100.91
+Peru,PER,Country or economy,2026-09-01,5411,11.9,24.1,2.4,100.91
+Poland,POL,Country or economy,2026-09-01,270491,389.0,660.4,66.6,100.91
+Portugal,PRT,Country or economy,2026-10-01,548591,1339.1,2233.3,225.4,100.91
+Romania,ROU,Country or economy,2026-09-01,91085,203.4,344.1,34.7,100.91
+Singapore,SGP,Country or economy,2026-09-01,72126,231.7,469.9,47.4,100.91
+Slovakia,SVK,Country or economy,2026-09-01,41584,52.6,94.7,9.6,100.91
+Slovenia,SVN,Country or economy,2026-09-01,43266,160.9,291.9,29.5,100.91
+South Africa,ZAF,Country or economy,2026-06-01,15617,33.2,70.4,7.1,100.91
+South Korea,KOR,Country or economy,2026-09-01,1106598,3063.9,6998.6,706.2,100.91
+Spain,ESP,Country or economy,2026-09-01,907848,1889.3,3296.8,332.7,100.91
+Sweden,SWE,Country or economy,2026-10-01,910313,2714.4,4798.8,484.3,100.91
+Switzerland,CHE,Country or economy,2026-10-01,463699,1246.6,2639.6,266.4,100.91
+Taiwan (China),TWN,Country or economy,2026-06-01,160907,520.6,1056.0,106.6,100.91
+Thailand,THA,Country or economy,2026-09-01,550830,1802.9,5042.8,508.9,100.91
+Türkiye,TUR,Country or economy,2026-08-01,509177,1248.0,2867.3,289.3,100.91
+Ukraine,UKR,Country or economy,2026-08-01,227920,774.2,1570.3,158.5,100.91
+United Kingdom,GBR,Country or economy,2026-10-01,3268554,9267.6,18709.0,1888.0,100.91
+United States,USA,Country or economy,2026-09-01,8845497,29503.2,62999.4,6357.4,100.91
+Uruguay,URY,Country or economy,2026-10-01,46823,159.0,322.6,32.6,100.91
+Viet Nam,VNM,Country or economy,2026-09-01,436843,1483.2,3878.6,391.4,100.91
+World,,Region,2026-09-01,90583358,235627.1,525173.1,52996.1,100.91

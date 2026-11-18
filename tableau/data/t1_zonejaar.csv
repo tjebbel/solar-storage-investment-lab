@@ -1,0 +1,297 @@
+Zone,Zonenaam,Regio,Landcode,Jaar,Heel jaar,Gemiddelde prijs,Capture rate zon,Negatieve uren,Dagspreiding,Batterij-omzet per MW,Segment,Segment stabiel (aandeel),Segment zekerheid
+AT,Oostenrijk,Noordwest-Europa,AUT,2019,1,40.0577,0.947613,68,27.1588,9461.19,Vlakke prijzen,1,stevig
+AT,Oostenrijk,Noordwest-Europa,AUT,2020,1,33.1457,0.878395,111,28.79,11032.8,Vlakke prijzen,1,stevig
+AT,Oostenrijk,Noordwest-Europa,AUT,2021,1,106.852,0.820864,64,74.079,27413,Zon houdt waarde,0.7255,grensgeval
+AT,Oostenrijk,Noordwest-Europa,AUT,2022,1,261.392,1.0552,0,167.913,57129,Batterijmarkt,1,stevig
+AT,Oostenrijk,Noordwest-Europa,AUT,2023,1,102.141,0.754893,111,90.6814,36821.2,Zon houdt waarde,0.5035,grensgeval
+AT,Oostenrijk,Noordwest-Europa,AUT,2024,1,81.9367,0.646724,307,102.835,43220.2,Middenveld,0.5945,grensgeval
+AT,Oostenrijk,Noordwest-Europa,AUT,2025,1,98.9419,0.49846,378,119.329,57899.4,Zonverzadigd,0.9345,stevig
+AT,Oostenrijk,Noordwest-Europa,AUT,2026,0,138.9,0.523183,251,148.215,73146.9,Batterijmarkt,0.9265,stevig
+BE,Belgie,Noordwest-Europa,BEL,2019,1,39.3458,0.920839,71,30.8366,10633.5,Vlakke prijzen,1,stevig
+BE,Belgie,Noordwest-Europa,BEL,2020,1,31.8828,0.771911,136,30.6981,12006.2,Vlakke prijzen,1,stevig
+BE,Belgie,Noordwest-Europa,BEL,2021,1,104.124,0.737353,159,84.6707,30379.5,Middenveld,0.5535,grensgeval
+BE,Belgie,Noordwest-Europa,BEL,2022,1,244.522,0.920249,113,200.248,74284.5,Batterijmarkt,1,stevig
+BE,Belgie,Noordwest-Europa,BEL,2023,1,97.2699,0.783463,221,91.4975,38019.4,Zon houdt waarde,0.602,grensgeval
+BE,Belgie,Noordwest-Europa,BEL,2024,1,70.3222,0.55612,404,92.3692,41731.6,Zonverzadigd,0.6905,grensgeval
+BE,Belgie,Noordwest-Europa,BEL,2025,1,82.5792,0.514177,519,111.221,54696,Zonverzadigd,0.8745,stevig
+BE,Belgie,Noordwest-Europa,BEL,2026,0,120.486,0.569403,299,147.592,75684.5,Batterijmarkt,0.685,grensgeval
+BG,Bulgarije,Midden- en Zuidoost-Europa,BGR,2019,1,47.4806,1.03844,0,44.8487,14920.7,Vlakke prijzen,1,stevig
+BG,Bulgarije,Midden- en Zuidoost-Europa,BGR,2020,1,39.2867,0.941639,0,32.8686,11571.1,Vlakke prijzen,1,stevig
+BG,Bulgarije,Midden- en Zuidoost-Europa,BGR,2021,1,108.697,0.928103,0,86.7899,37402.9,Zon houdt waarde,1,stevig
+BG,Bulgarije,Midden- en Zuidoost-Europa,BGR,2022,1,252.837,0.953625,0,241.66,91814.5,Batterijmarkt,1,stevig
+BG,Bulgarije,Midden- en Zuidoost-Europa,BGR,2023,1,103.844,0.795801,11,128.096,55387.4,Batterijmarkt,0.6595,grensgeval
+BG,Bulgarije,Midden- en Zuidoost-Europa,BGR,2024,1,102.57,0.708262,55,184.674,90105.1,Batterijmarkt,1,stevig
+BG,Bulgarije,Midden- en Zuidoost-Europa,BGR,2025,1,106.894,0.685772,170,166.31,80875.8,Batterijmarkt,1,stevig
+BG,Bulgarije,Midden- en Zuidoost-Europa,BGR,2026,0,137.282,0.773391,162,156.598,67673.9,Batterijmarkt,1,stevig
+CH,Zwitserland,Noordwest-Europa,CHE,2019,1,40.9137,0.910651,17,20.1314,6848.02,Vlakke prijzen,1,stevig
+CH,Zwitserland,Noordwest-Europa,CHE,2020,1,34.0036,0.843717,75,21.8136,8752.32,Vlakke prijzen,1,stevig
+CH,Zwitserland,Noordwest-Europa,CHE,2021,1,114.947,0.780216,41,57.8482,21281.5,Vlakke prijzen,0.574,grensgeval
+CH,Zwitserland,Noordwest-Europa,CHE,2022,1,281.64,1.0375,1,129.232,43317.8,Batterijmarkt,0.683,grensgeval
+CH,Zwitserland,Noordwest-Europa,CHE,2023,1,107.47,0.796295,76,63.5049,25149.7,Zon houdt waarde,0.426,grensgeval
+CH,Zwitserland,Noordwest-Europa,CHE,2024,1,75.9648,0.618681,292,62.5563,25560.7,Middenveld,0.4765,grensgeval
+CH,Zwitserland,Noordwest-Europa,CHE,2025,1,101.689,0.593621,303,79.502,38397,Zonverzadigd,0.286,grensgeval
+CH,Zwitserland,Noordwest-Europa,CHE,2026,0,138.253,0.610523,239,110.76,54035.6,Middenveld,0.6695,grensgeval
+CZ,Tsjechie,Midden- en Zuidoost-Europa,CZE,2019,1,40.2122,0.977629,58,28.646,10355,Vlakke prijzen,1,stevig
+CZ,Tsjechie,Midden- en Zuidoost-Europa,CZE,2020,1,33.6238,0.858861,119,29.0012,11388.6,Vlakke prijzen,1,stevig
+CZ,Tsjechie,Midden- en Zuidoost-Europa,CZE,2021,1,100.663,0.850077,33,78.3155,28638.3,Zon houdt waarde,0.821,stevig
+CZ,Tsjechie,Midden- en Zuidoost-Europa,CZE,2022,1,247.428,0.959066,8,187.355,69805.8,Batterijmarkt,1,stevig
+CZ,Tsjechie,Midden- en Zuidoost-Europa,CZE,2023,1,100.785,0.796027,134,94.6564,38655.9,Zon houdt waarde,0.643,grensgeval
+CZ,Tsjechie,Midden- en Zuidoost-Europa,CZE,2024,1,85.1074,0.62818,315,113.812,50200.6,Middenveld,0.428,grensgeval
+CZ,Tsjechie,Midden- en Zuidoost-Europa,CZE,2025,1,96.8375,0.56644,322,129.721,59886.4,Zonverzadigd,0.4315,grensgeval
+CZ,Tsjechie,Midden- en Zuidoost-Europa,CZE,2026,0,128.787,0.5772,271,155.543,78825.8,Batterijmarkt,0.8335,stevig
+DE-LU,Duitsland,Noordwest-Europa,DEU,2019,1,37.6681,0.928039,211,30.8175,10310.8,Vlakke prijzen,1,stevig
+DE-LU,Duitsland,Noordwest-Europa,DEU,2020,1,30.4717,0.806101,298,33.1223,12382.7,Vlakke prijzen,1,stevig
+DE-LU,Duitsland,Noordwest-Europa,DEU,2021,1,96.8498,0.784634,139,82.0311,29527,Zon houdt waarde,0.606,grensgeval
+DE-LU,Duitsland,Noordwest-Europa,DEU,2022,1,235.44,0.938605,70,190.45,75551.1,Batterijmarkt,1,stevig
+DE-LU,Duitsland,Noordwest-Europa,DEU,2023,1,95.1761,0.759086,300,99.3452,42132.8,Zon houdt waarde,0.476,grensgeval
+DE-LU,Duitsland,Noordwest-Europa,DEU,2024,1,78.5123,0.591959,457,112.006,52230.1,Zonverzadigd,0.5605,grensgeval
+DE-LU,Duitsland,Noordwest-Europa,DEU,2025,1,89.3281,0.515687,573,124.793,61173.3,Zonverzadigd,0.87,stevig
+DE-LU,Duitsland,Noordwest-Europa,DEU,2026,0,120.419,0.535387,461,158.562,82893.8,Zonverzadigd,0.788,grensgeval
+DK1,Denemarken (West),Noordwest-Europa,DNK,2019,1,38.4947,0.965001,132,26.8575,7530.14,Vlakke prijzen,1,stevig
+DK1,Denemarken (West),Noordwest-Europa,DNK,2020,1,24.9844,0.968304,192,31.9649,10822.4,Vlakke prijzen,1,stevig
+DK1,Denemarken (West),Noordwest-Europa,DNK,2021,1,88.1377,0.839678,87,77.4282,24721.6,Zon houdt waarde,0.7875,grensgeval
+DK1,Denemarken (West),Noordwest-Europa,DNK,2022,1,219.032,1.00915,38,182.276,65205.7,Batterijmarkt,1,stevig
+DK1,Denemarken (West),Noordwest-Europa,DNK,2023,1,86.8282,0.781319,281,94.1275,35399.6,Zon houdt waarde,0.595,grensgeval
+DK1,Denemarken (West),Noordwest-Europa,DNK,2024,1,70.6428,0.663186,375,100.87,40865.9,Middenveld,0.5415,grensgeval
+DK1,Denemarken (West),Noordwest-Europa,DNK,2025,1,81.1073,0.623384,441,115.089,52655,Middenveld,0.318,grensgeval
+DK1,Denemarken (West),Noordwest-Europa,DNK,2026,0,113.75,0.66771,195,142.768,71841.1,Batterijmarkt,0.969,stevig
+DK2,Denemarken (Oost),Noordwest-Europa,DNK,2019,1,39.8385,0.981053,95,26.3866,7854.29,Vlakke prijzen,1,stevig
+DK2,Denemarken (Oost),Noordwest-Europa,DNK,2020,1,28.4112,1.02005,89,36.913,14080.8,Vlakke prijzen,1,stevig
+DK2,Denemarken (Oost),Noordwest-Europa,DNK,2021,1,87.9095,0.863405,24,85.8487,30185.2,Zon houdt waarde,0.866,stevig
+DK2,Denemarken (Oost),Noordwest-Europa,DNK,2022,1,210.149,1.02578,5,200.105,67205.4,Batterijmarkt,1,stevig
+DK2,Denemarken (Oost),Noordwest-Europa,DNK,2023,1,81.2572,0.822896,231,98.0107,35555.1,Zon houdt waarde,0.7025,grensgeval
+DK2,Denemarken (Oost),Noordwest-Europa,DNK,2024,1,70.8599,0.673589,275,104.903,42800.7,Middenveld,0.574,grensgeval
+DK2,Denemarken (Oost),Noordwest-Europa,DNK,2025,1,82.4991,0.646264,265,119.626,53990.3,Middenveld,0.3955,grensgeval
+DK2,Denemarken (Oost),Noordwest-Europa,DNK,2026,0,116.149,0.673081,91,147.36,71955.6,Batterijmarkt,1,stevig
+EE,Estland,Baltische staten,EST,2019,1,45.865,0.994468,0,33.2091,12711.8,Vlakke prijzen,1,stevig
+EE,Estland,Baltische staten,EST,2020,1,33.6898,1.21568,5,46.4796,19640.9,Vlakke prijzen,1,stevig
+EE,Estland,Baltische staten,EST,2021,1,86.7287,0.954087,5,92.4715,33836.4,Zon houdt waarde,1,stevig
+EE,Estland,Baltische staten,EST,2022,1,192.813,1.05607,2,250.783,81203.8,Batterijmarkt,1,stevig
+EE,Estland,Baltische staten,EST,2023,1,90.7931,0.786356,129,123.161,44453.7,Batterijmarkt,0.5645,grensgeval
+EE,Estland,Baltische staten,EST,2024,1,87.262,0.738547,183,154.75,58615.8,Batterijmarkt,1,stevig
+EE,Estland,Baltische staten,EST,2025,1,80.4046,0.582921,201,165.461,62710.1,Batterijmarkt,1,stevig
+EE,Estland,Baltische staten,EST,2026,0,84.8151,0.585754,46,136.178,40776.4,Batterijmarkt,0.8295,stevig
+ES,Spanje,Iberie,ESP,2019,1,47.7028,1.01836,0,17.1363,4728.72,Vlakke prijzen,1,stevig
+ES,Spanje,Iberie,ESP,2020,1,33.9599,0.968679,0,17.2336,5414.98,Vlakke prijzen,1,stevig
+ES,Spanje,Iberie,ESP,2021,1,111.945,0.914707,0,50.697,16053.8,Vlakke prijzen,0.8735,stevig
+ES,Spanje,Iberie,ESP,2022,1,167.505,0.901935,0,95.9706,32583.7,Zon houdt waarde,1,stevig
+ES,Spanje,Iberie,ESP,2023,1,87.1057,0.835602,0,74.0019,32811.2,Zon houdt waarde,0.7735,grensgeval
+ES,Spanje,Iberie,ESP,2024,1,63.0489,0.672602,247,71.5241,33664.9,Middenveld,0.7355,grensgeval
+ES,Spanje,Iberie,ESP,2025,1,65.2849,0.552896,555,98.1616,51193.9,Zonverzadigd,0.7045,grensgeval
+ES,Spanje,Iberie,ESP,2026,0,88.3452,0.511076,717,135.891,77218.3,Zonverzadigd,0.887,stevig
+FI,Finland,Scandinavie,FIN,2019,1,44.0402,1.10228,0,29.0092,10672.9,Vlakke prijzen,1,stevig
+FI,Finland,Scandinavie,FIN,2020,1,28.0204,1.21213,9,40.031,16783.1,Vlakke prijzen,1,stevig
+FI,Finland,Scandinavie,FIN,2021,1,72.3444,0.975822,5,81.5889,31945.8,Zon houdt waarde,1,stevig
+FI,Finland,Scandinavie,FIN,2022,1,154.031,1.22563,27,206.773,74091.2,Batterijmarkt,1,stevig
+FI,Finland,Scandinavie,FIN,2023,1,56.4713,0.893831,467,77.1569,21793.1,Zon houdt waarde,0.976,stevig
+FI,Finland,Scandinavie,FIN,2024,1,45.5665,0.852802,725,81.779,22394.2,Zon houdt waarde,0.83,stevig
+FI,Finland,Scandinavie,FIN,2025,1,40.4904,0.890352,459,85.5738,24692.5,Zon houdt waarde,0.9625,stevig
+FI,Finland,Scandinavie,FIN,2026,0,57.4981,0.758201,60,73.7883,22431.8,Zon houdt waarde,0.515,grensgeval
+FR,Frankrijk,Noordwest-Europa,FRA,2019,1,39.4511,0.957051,27,27.3866,10343.3,Vlakke prijzen,1,stevig
+FR,Frankrijk,Noordwest-Europa,FRA,2020,1,32.2042,0.927198,102,27.0667,10965.5,Vlakke prijzen,1,stevig
+FR,Frankrijk,Noordwest-Europa,FRA,2021,1,109.176,0.863647,64,75.5844,28834.5,Zon houdt waarde,0.867,stevig
+FR,Frankrijk,Noordwest-Europa,FRA,2022,1,275.895,1.05655,4,177.517,59411.4,Batterijmarkt,1,stevig
+FR,Frankrijk,Noordwest-Europa,FRA,2023,1,96.8574,0.863088,147,84.7893,34997.2,Zon houdt waarde,0.8655,stevig
+FR,Frankrijk,Noordwest-Europa,FRA,2024,1,58.0195,0.676462,352,77.0648,32648.4,Middenveld,0.616,grensgeval
+FR,Frankrijk,Noordwest-Europa,FRA,2025,1,61.0706,0.588029,509,89.9414,41936.1,Zonverzadigd,0.578,grensgeval
+FR,Frankrijk,Noordwest-Europa,FRA,2026,0,97.3413,0.572773,516,136.505,70326.4,Zonverzadigd,0.63,grensgeval
+GR,Griekenland,Midden- en Zuidoost-Europa,GRC,2019,1,63.8194,0.979067,0,28.8699,6860.25,Vlakke prijzen,1,stevig
+GR,Griekenland,Midden- en Zuidoost-Europa,GRC,2020,1,45.0956,0.921255,2,37.9281,10665.4,Vlakke prijzen,1,stevig
+GR,Griekenland,Midden- en Zuidoost-Europa,GRC,2021,1,116.471,0.913666,5,77.8513,29337.9,Zon houdt waarde,1,stevig
+GR,Griekenland,Midden- en Zuidoost-Europa,GRC,2022,1,279.921,0.938886,1,213.225,72714.5,Batterijmarkt,1,stevig
+GR,Griekenland,Midden- en Zuidoost-Europa,GRC,2023,1,119.092,0.794646,0,122.665,47503.7,Batterijmarkt,0.5555,grensgeval
+GR,Griekenland,Midden- en Zuidoost-Europa,GRC,2024,1,100.892,0.70969,11,162.88,76460.9,Batterijmarkt,1,stevig
+GR,Griekenland,Midden- en Zuidoost-Europa,GRC,2025,1,103.597,0.577355,115,162.004,80371.8,Batterijmarkt,1,stevig
+GR,Griekenland,Midden- en Zuidoost-Europa,GRC,2026,0,121.981,0.4741,518,173.294,86347.5,Zonverzadigd,1,stevig
+HR,Kroatie,Midden- en Zuidoost-Europa,HRV,2019,1,49.2759,1.0497,35,41.1286,14092.8,Vlakke prijzen,1,stevig
+HR,Kroatie,Midden- en Zuidoost-Europa,HRV,2020,1,38.0339,0.917828,23,33.2525,12185.3,Vlakke prijzen,1,stevig
+HR,Kroatie,Midden- en Zuidoost-Europa,HRV,2021,1,114.699,0.895797,38,80.638,29254.5,Zon houdt waarde,0.983,stevig
+HR,Kroatie,Midden- en Zuidoost-Europa,HRV,2022,1,272.382,1.03816,5,197.873,73844.4,Batterijmarkt,1,stevig
+HR,Kroatie,Midden- en Zuidoost-Europa,HRV,2023,1,103.723,0.81887,94,106.636,46785.9,Zon houdt waarde,0.5525,grensgeval
+HR,Kroatie,Midden- en Zuidoost-Europa,HRV,2024,1,94.705,0.799802,194,148.521,70629.7,Batterijmarkt,1,stevig
+HR,Kroatie,Midden- en Zuidoost-Europa,HRV,2025,1,105.351,0.658955,257,146.658,72014.8,Batterijmarkt,0.964,stevig
+HR,Kroatie,Midden- en Zuidoost-Europa,HRV,2026,0,141.414,0.66574,217,163.725,82892,Batterijmarkt,1,stevig
+HU,Hongarije,Midden- en Zuidoost-Europa,HUN,2019,1,50.353,1.05386,0,42.5192,18223.8,Vlakke prijzen,1,stevig
+HU,Hongarije,Midden- en Zuidoost-Europa,HUN,2020,1,39.0056,0.891881,4,34.6102,15645.5,Vlakke prijzen,1,stevig
+HU,Hongarije,Midden- en Zuidoost-Europa,HUN,2021,1,113.859,0.905218,8,89.0046,37969.6,Zon houdt waarde,1,stevig
+HU,Hongarije,Midden- en Zuidoost-Europa,HUN,2022,1,271.651,1.0214,0,208.537,77749,Batterijmarkt,1,stevig
+HU,Hongarije,Midden- en Zuidoost-Europa,HUN,2023,1,106.814,0.806586,74,114.63,50165.1,Zon houdt waarde,0.4065,grensgeval
+HU,Hongarije,Midden- en Zuidoost-Europa,HUN,2024,1,100.83,0.633986,262,183.7,91172.7,Batterijmarkt,0.9295,stevig
+HU,Hongarije,Midden- en Zuidoost-Europa,HUN,2025,1,108.509,0.57657,281,163.302,80919.3,Batterijmarkt,0.7855,grensgeval
+HU,Hongarije,Midden- en Zuidoost-Europa,HUN,2026,0,147.858,0.582585,233,194.914,100085,Batterijmarkt,1,stevig
+IT-Centre-North,Italie (Midden-Noord),Italie,ITA,2019,1,52.232,0.977053,0,30.0145,10758.2,Vlakke prijzen,1,stevig
+IT-Centre-North,Italie (Midden-Noord),Italie,ITA,2020,1,38.7067,0.898045,0,29.2467,11489,Vlakke prijzen,1,stevig
+IT-Centre-North,Italie (Midden-Noord),Italie,ITA,2021,1,125.402,0.872775,0,61.7266,20982.6,Zon houdt waarde,0.523,grensgeval
+IT-Centre-North,Italie (Midden-Noord),Italie,ITA,2022,1,307.584,1.02339,0,164.818,56335,Batterijmarkt,1,stevig
+IT-Centre-North,Italie (Midden-Noord),Italie,ITA,2023,1,128.5,0.878002,0,83.3082,31210.7,Zon houdt waarde,0.922,stevig
+IT-Centre-North,Italie (Midden-Noord),Italie,ITA,2024,1,109.443,0.888296,0,76.291,31464.9,Zon houdt waarde,0.957,stevig
+IT-Centre-North,Italie (Midden-Noord),Italie,ITA,2025,1,116.783,0.831877,0,74.4945,30728.2,Zon houdt waarde,0.76,grensgeval
+IT-Centre-North,Italie (Midden-Noord),Italie,ITA,2026,0,161.068,0.844271,0,96.3406,37581.2,Zon houdt waarde,0.7925,grensgeval
+IT-North,Italie (Noord),Italie,ITA,2019,1,51.248,0.993782,0,28.3526,9959.76,Vlakke prijzen,1,stevig
+IT-North,Italie (Noord),Italie,ITA,2020,1,37.7907,0.915498,0,26.3816,10280.3,Vlakke prijzen,1,stevig
+IT-North,Italie (Noord),Italie,ITA,2021,1,125.214,0.875999,0,60.2314,20449,Zon houdt waarde,0.48,grensgeval
+IT-North,Italie (Noord),Italie,ITA,2022,1,307.815,1.02484,0,163.441,55520.2,Batterijmarkt,1,stevig
+IT-North,Italie (Noord),Italie,ITA,2023,1,127.769,0.883121,0,79.0901,28786.3,Zon houdt waarde,0.941,stevig
+IT-North,Italie (Noord),Italie,ITA,2024,1,107.412,0.902949,0,65.9688,24593.1,Zon houdt waarde,0.7675,grensgeval
+IT-North,Italie (Noord),Italie,ITA,2025,1,115.86,0.837833,0,68.2443,27289.5,Zon houdt waarde,0.674,grensgeval
+IT-North,Italie (Noord),Italie,ITA,2026,0,160.352,0.848304,0,93.3792,36014.9,Zon houdt waarde,0.816,stevig
+IT-Sicily,Italie (Sicilie),Italie,ITA,2019,1,62.7734,0.877477,0,72.1984,34118.1,Zon houdt waarde,0.921,stevig
+IT-Sicily,Italie (Sicilie),Italie,ITA,2020,1,46.2086,0.801341,0,49.1917,21252.7,Vlakke prijzen,0.95,stevig
+IT-Sicily,Italie (Sicilie),Italie,ITA,2021,1,129.032,0.846548,0,74.2667,24729.4,Zon houdt waarde,0.809,stevig
+IT-Sicily,Italie (Sicilie),Italie,ITA,2022,1,295.07,0.98332,0,175.332,59935.1,Batterijmarkt,1,stevig
+IT-Sicily,Italie (Sicilie),Italie,ITA,2023,1,126.06,0.844651,0,95.943,38064.4,Zon houdt waarde,0.802,stevig
+IT-Sicily,Italie (Sicilie),Italie,ITA,2024,1,112.209,0.861743,0,86.7275,36178.8,Zon houdt waarde,0.8635,stevig
+IT-Sicily,Italie (Sicilie),Italie,ITA,2025,1,116.07,0.797627,0,83.4207,35165.5,Zon houdt waarde,0.6485,grensgeval
+IT-Sicily,Italie (Sicilie),Italie,ITA,2026,0,160.162,0.739127,0,140.955,63170.3,Batterijmarkt,0.9245,stevig
+IT-South,Italie (Zuid),Italie,ITA,2019,1,50.8877,0.915236,0,32.5576,12276.9,Vlakke prijzen,1,stevig
+IT-South,Italie (Zuid),Italie,ITA,2020,1,39.0041,0.846609,0,31.1558,11828.6,Vlakke prijzen,1,stevig
+IT-South,Italie (Zuid),Italie,ITA,2021,1,123.587,0.847981,0,62.7902,20260,Zon houdt waarde,0.5135,grensgeval
+IT-South,Italie (Zuid),Italie,ITA,2022,1,295.813,0.983328,0,168.11,59054.3,Batterijmarkt,1,stevig
+IT-South,Italie (Zuid),Italie,ITA,2023,1,125.046,0.846728,0,92.2118,36583.5,Zon houdt waarde,0.809,stevig
+IT-South,Italie (Zuid),Italie,ITA,2024,1,109.142,0.869135,0,80.8305,34102.2,Zon houdt waarde,0.887,stevig
+IT-South,Italie (Zuid),Italie,ITA,2025,1,115.025,0.80225,0,79.5528,34070.6,Zon houdt waarde,0.6595,grensgeval
+IT-South,Italie (Zuid),Italie,ITA,2026,0,153.836,0.77661,0,114.736,50044.9,Zon houdt waarde,0.3505,grensgeval
+LT,Litouwen,Baltische staten,LTU,2019,1,46.1192,1.19967,0,33.4394,12914.8,Vlakke prijzen,1,stevig
+LT,Litouwen,Baltische staten,LTU,2020,1,34.0381,1.1865,5,45.3737,19288,Vlakke prijzen,1,stevig
+LT,Litouwen,Baltische staten,LTU,2021,1,90.4569,1.07803,5,92.1711,33709.6,Zon houdt waarde,1,stevig
+LT,Litouwen,Baltische staten,LTU,2022,1,230.226,1.15887,2,245.413,75105.6,Batterijmarkt,1,stevig
+LT,Litouwen,Baltische staten,LTU,2023,1,94.4457,0.902972,100,122.594,42582.3,Batterijmarkt,0.554,grensgeval
+LT,Litouwen,Baltische staten,LTU,2024,1,87.3405,0.766525,186,151.777,58006,Batterijmarkt,1,stevig
+LT,Litouwen,Baltische staten,LTU,2025,1,85.3221,0.572994,180,164.625,62484.9,Batterijmarkt,1,stevig
+LT,Litouwen,Baltische staten,LTU,2026,0,107.061,0.564885,71,145.615,58441.9,Batterijmarkt,1,stevig
+LV,Letland,Baltische staten,LVA,2019,1,46.2834,1.19671,0,33.4642,13035.6,Vlakke prijzen,1,stevig
+LV,Letland,Baltische staten,LVA,2020,1,34.0613,1.19621,5,45.4051,19081.8,Vlakke prijzen,1,stevig
+LV,Letland,Baltische staten,LVA,2021,1,88.7852,0.944863,5,90.8729,33434.7,Zon houdt waarde,1,stevig
+LV,Letland,Baltische staten,LVA,2022,1,226.904,1.12608,2,245.073,76726.9,Batterijmarkt,1,stevig
+LV,Letland,Baltische staten,LVA,2023,1,93.8985,0.897354,100,122.251,42546.5,Batterijmarkt,0.544,grensgeval
+LV,Letland,Baltische staten,LVA,2024,1,87.4225,0.719081,184,151.992,57960.1,Batterijmarkt,1,stevig
+LV,Letland,Baltische staten,LVA,2025,1,85.7453,0.646157,164,164.59,61388.7,Batterijmarkt,1,stevig
+LV,Letland,Baltische staten,LVA,2026,0,105.745,0.614073,64,145.449,59381.8,Batterijmarkt,1,stevig
+NL,Nederland,Noordwest-Europa,NLD,2019,1,41.1927,0.941592,3,26.7721,8707.2,Vlakke prijzen,1,stevig
+NL,Nederland,Noordwest-Europa,NLD,2020,1,32.2415,0.788146,97,31.7501,12101.5,Vlakke prijzen,1,stevig
+NL,Nederland,Noordwest-Europa,NLD,2021,1,102.971,0.767121,70,85.1201,29918.1,Zon houdt waarde,0.547,grensgeval
+NL,Nederland,Noordwest-Europa,NLD,2022,1,241.91,0.926048,86,207.561,82442.4,Batterijmarkt,1,stevig
+NL,Nederland,Noordwest-Europa,NLD,2023,1,95.8178,0.740144,315,108.943,47320.1,Middenveld,0.399,grensgeval
+NL,Nederland,Noordwest-Europa,NLD,2024,1,77.2892,0.602544,458,113.717,52710.1,Middenveld,0.307,grensgeval
+NL,Nederland,Noordwest-Europa,NLD,2025,1,86.8172,0.615303,584,123.819,61041.4,Batterijmarkt,0.315,grensgeval
+NL,Nederland,Noordwest-Europa,NLD,2026,0,121.035,0.586507,399,157.157,81873.7,Zonverzadigd,0.5815,grensgeval
+NO1,Noorwegen (Oslo),Scandinavie,NOR,2019,1,39.2854,0.945091,0,7.98334,1102.76,Vlakke prijzen,1,stevig
+NO1,Noorwegen (Oslo),Scandinavie,NOR,2020,1,9.28763,0.605875,5,3.70164,748.424,Vlakke prijzen,1,stevig
+NO1,Noorwegen (Oslo),Scandinavie,NOR,2021,1,74.6982,0.802063,5,35.9585,9018.34,Vlakke prijzen,1,stevig
+NO1,Noorwegen (Oslo),Scandinavie,NOR,2022,1,192.512,1.04506,0,90.0492,22081.2,Zon houdt waarde,1,stevig
+NO1,Noorwegen (Oslo),Scandinavie,NOR,2023,1,66.9439,0.799247,381,41.1457,12460.9,Vlakke prijzen,1,stevig
+NO1,Noorwegen (Oslo),Scandinavie,NOR,2024,1,42.0317,0.726625,231,39.7081,11939.8,Vlakke prijzen,1,stevig
+NO1,Noorwegen (Oslo),Scandinavie,NOR,2025,1,58.3663,0.805974,57,58.2756,19577.7,Vlakke prijzen,0.5525,grensgeval
+NO1,Noorwegen (Oslo),Scandinavie,NOR,2026,0,111.283,0.86996,13,67.2448,23135.8,Zon houdt waarde,0.7265,grensgeval
+NO2,Noorwegen (Zuid),Scandinavie,NOR,2019,1,39.2642,0.949624,0,7.92808,1047.82,Vlakke prijzen,1,stevig
+NO2,Noorwegen (Zuid),Scandinavie,NOR,2020,1,9.29009,0.60306,5,3.66926,733.176,Vlakke prijzen,1,stevig
+NO2,Noorwegen (Zuid),Scandinavie,NOR,2021,1,75.1078,0.815381,5,32.7333,8038.71,Vlakke prijzen,1,stevig
+NO2,Noorwegen (Zuid),Scandinavie,NOR,2022,1,211.281,1.07817,0,109.065,28498.5,Zon houdt waarde,0.725,grensgeval
+NO2,Noorwegen (Zuid),Scandinavie,NOR,2023,1,79.4391,0.865601,174,49.4536,14757.6,Vlakke prijzen,0.933,stevig
+NO2,Noorwegen (Zuid),Scandinavie,NOR,2024,1,50.1236,0.755526,206,46.9781,14523,Vlakke prijzen,1,stevig
+NO2,Noorwegen (Zuid),Scandinavie,NOR,2025,1,65.4116,0.808994,36,59.1932,22523.8,Vlakke prijzen,0.5135,grensgeval
+NO2,Noorwegen (Zuid),Scandinavie,NOR,2026,0,115.021,0.850181,55,77.1246,28798.5,Zon houdt waarde,0.8215,stevig
+NO3,Noorwegen (Midden),Scandinavie,NOR,2019,1,38.5391,0.973075,0,9.18107,1610.82,Vlakke prijzen,1,stevig
+NO3,Noorwegen (Midden),Scandinavie,NOR,2020,1,9.45541,0.711634,0,3.87131,720.676,Vlakke prijzen,1,stevig
+NO3,Noorwegen (Midden),Scandinavie,NOR,2021,1,41.0722,1.059,3,22.8075,5491.53,Vlakke prijzen,1,stevig
+NO3,Noorwegen (Midden),Scandinavie,NOR,2022,1,41.9397,0.69236,14,41.3901,7264.24,Vlakke prijzen,1,stevig
+NO3,Noorwegen (Midden),Scandinavie,NOR,2023,1,38.5556,0.857298,401,28.8837,6835.09,Vlakke prijzen,1,stevig
+NO3,Noorwegen (Midden),Scandinavie,NOR,2024,1,28.1658,0.958866,173,23.0215,4961.5,Vlakke prijzen,1,stevig
+NO3,Noorwegen (Midden),Scandinavie,NOR,2025,1,21.1143,0.688763,82,25.8279,4593.48,Vlakke prijzen,1,stevig
+NO3,Noorwegen (Midden),Scandinavie,NOR,2026,0,86.0057,0.939627,2,49.8694,9405.29,Vlakke prijzen,0.911,stevig
+NO4,Noorwegen (Noord),Scandinavie,NOR,2019,1,38.309,0.953239,0,8.47699,1435.43,Vlakke prijzen,1,stevig
+NO4,Noorwegen (Noord),Scandinavie,NOR,2020,1,8.87572,0.651566,0,3.17402,597.101,Vlakke prijzen,1,stevig
+NO4,Noorwegen (Noord),Scandinavie,NOR,2021,1,35.0337,0.863332,3,18.8873,4411.8,Vlakke prijzen,1,stevig
+NO4,Noorwegen (Noord),Scandinavie,NOR,2022,1,24.4723,0.520188,11,22.8796,5996.43,Vlakke prijzen,1,stevig
+NO4,Noorwegen (Noord),Scandinavie,NOR,2023,1,29.9476,0.766946,375,20.3986,4792.53,Vlakke prijzen,1,stevig
+NO4,Noorwegen (Noord),Scandinavie,NOR,2024,1,23.3431,1.08581,152,15.2999,2849.99,Vlakke prijzen,1,stevig
+NO4,Noorwegen (Noord),Scandinavie,NOR,2025,1,8.7163,0.532225,142,13.0861,2579.52,Vlakke prijzen,1,stevig
+NO4,Noorwegen (Noord),Scandinavie,NOR,2026,0,32.3759,0.700027,174,35.6674,7613.56,Vlakke prijzen,1,stevig
+NO5,Noorwegen (West),Scandinavie,NOR,2019,1,39.2669,0.951325,0,7.83216,1035.87,Vlakke prijzen,1,stevig
+NO5,Noorwegen (West),Scandinavie,NOR,2020,1,9.17191,0.562985,1,3.14451,694.686,Vlakke prijzen,1,stevig
+NO5,Noorwegen (West),Scandinavie,NOR,2021,1,74.599,0.801408,0,34.3671,8502.57,Vlakke prijzen,1,stevig
+NO5,Noorwegen (West),Scandinavie,NOR,2022,1,192.062,1.08171,0,86.4548,21075.3,Zon houdt waarde,1,stevig
+NO5,Noorwegen (West),Scandinavie,NOR,2023,1,67.0382,0.812458,374,36.3014,9984.67,Vlakke prijzen,1,stevig
+NO5,Noorwegen (West),Scandinavie,NOR,2024,1,41.0251,0.786562,142,30.5211,8497.64,Vlakke prijzen,1,stevig
+NO5,Noorwegen (West),Scandinavie,NOR,2025,1,46.9262,0.751181,34,36.2173,9766.97,Vlakke prijzen,1,stevig
+NO5,Noorwegen (West),Scandinavie,NOR,2026,0,110.273,0.92429,0,48.8622,12390.5,Vlakke prijzen,0.963,stevig
+PL,Polen,Midden- en Zuidoost-Europa,POL,2019,1,53.46,1.13072,0,22.7695,6159.68,Vlakke prijzen,1,stevig
+PL,Polen,Midden- en Zuidoost-Europa,POL,2020,1,46.6564,1.11774,0,22.8337,6319.4,Vlakke prijzen,1,stevig
+PL,Polen,Midden- en Zuidoost-Europa,POL,2021,1,87.0349,0.942296,0,51.676,18007.1,Vlakke prijzen,0.833,stevig
+PL,Polen,Midden- en Zuidoost-Europa,POL,2022,1,166.715,0.905399,0,145.337,58466.7,Batterijmarkt,1,stevig
+PL,Polen,Midden- en Zuidoost-Europa,POL,2023,1,111.657,0.90317,43,71.7406,24241.2,Zon houdt waarde,0.9945,stevig
+PL,Polen,Midden- en Zuidoost-Europa,POL,2024,1,96.251,0.750651,197,121.537,55335.4,Batterijmarkt,0.532,grensgeval
+PL,Polen,Midden- en Zuidoost-Europa,POL,2025,1,104.301,0.644983,310,144.321,63400.2,Batterijmarkt,0.816,stevig
+PL,Polen,Midden- en Zuidoost-Europa,POL,2026,0,129.661,0.589357,310,184.783,87759.5,Zonverzadigd,0.328,grensgeval
+PT,Portugal,Iberie,PRT,2019,1,47.8659,1.01863,0,16.6184,4406.22,Vlakke prijzen,1,stevig
+PT,Portugal,Iberie,PRT,2020,1,33.9862,0.97782,0,16.75,5127.13,Vlakke prijzen,1,stevig
+PT,Portugal,Iberie,PRT,2021,1,112.021,0.959573,0,49.8905,15793.7,Vlakke prijzen,0.9105,stevig
+PT,Portugal,Iberie,PRT,2022,1,167.874,0.899158,0,94.3285,31868.6,Zon houdt waarde,0.9955,stevig
+PT,Portugal,Iberie,PRT,2023,1,88.2777,0.827182,0,70.6948,30273.8,Zon houdt waarde,0.7155,grensgeval
+PT,Portugal,Iberie,PRT,2024,1,63.4602,0.673001,196,69.8641,32149.7,Middenveld,0.6955,grensgeval
+PT,Portugal,Iberie,PRT,2025,1,66.1838,0.533993,200,95.5074,48927.6,Middenveld,1,stevig
+PT,Portugal,Iberie,PRT,2026,0,88.7229,0.507429,573,131.551,73892.2,Zonverzadigd,0.902,stevig
+RO,Roemenie,Midden- en Zuidoost-Europa,ROU,2019,1,50.4041,1.04487,0,48.4804,20664.8,Vlakke prijzen,0.9795,stevig
+RO,Roemenie,Midden- en Zuidoost-Europa,ROU,2020,1,39.4894,0.921774,0,35.7147,15444,Vlakke prijzen,1,stevig
+RO,Roemenie,Midden- en Zuidoost-Europa,ROU,2021,0,111.736,0.900433,0,97.6061,42081.5,Zon houdt waarde,0.9675,stevig
+RO,Roemenie,Midden- en Zuidoost-Europa,ROU,2022,1,265.289,0.995055,0,239.013,89686.6,Batterijmarkt,1,stevig
+RO,Roemenie,Midden- en Zuidoost-Europa,ROU,2023,1,103.736,0.801721,32,128.74,55426.2,Batterijmarkt,0.673,grensgeval
+RO,Roemenie,Midden- en Zuidoost-Europa,ROU,2024,1,103.538,0.656731,85,188.752,93544.5,Batterijmarkt,1,stevig
+RO,Roemenie,Midden- en Zuidoost-Europa,ROU,2025,1,108.16,0.595609,196,164.884,80346.5,Batterijmarkt,1,stevig
+RO,Roemenie,Midden- en Zuidoost-Europa,ROU,2026,0,144.668,0.630517,184,181.835,88320.3,Batterijmarkt,1,stevig
+RS,Servie,Midden- en Zuidoost-Europa,SRB,2019,1,50.5056,1.06301,0,37.4456,17358,Vlakke prijzen,1,stevig
+RS,Servie,Midden- en Zuidoost-Europa,SRB,2020,1,39.0066,0.94302,0,31.2677,14406.3,Vlakke prijzen,1,stevig
+RS,Servie,Midden- en Zuidoost-Europa,SRB,2021,1,114.032,0.876122,0,77.7588,34835.2,Zon houdt waarde,0.9125,stevig
+RS,Servie,Midden- en Zuidoost-Europa,SRB,2022,1,273.64,1.05992,0,179.542,74116.7,Batterijmarkt,1,stevig
+RS,Servie,Midden- en Zuidoost-Europa,SRB,2023,1,103.459,0.844139,0,98.1652,45734.3,Zon houdt waarde,0.765,grensgeval
+RS,Servie,Midden- en Zuidoost-Europa,SRB,2024,1,101.777,0.727124,0,151.894,77633.5,Batterijmarkt,1,stevig
+RS,Servie,Midden- en Zuidoost-Europa,SRB,2025,1,107.865,0.598948,0,146.714,76232,Batterijmarkt,1,stevig
+RS,Servie,Midden- en Zuidoost-Europa,SRB,2026,0,128.152,0.593766,42,162.286,79233.3,Batterijmarkt,1,stevig
+SE1,Zweden (Noord),Scandinavie,SWE,2019,1,37.9419,0.959176,0,14.1882,3446.34,Vlakke prijzen,1,stevig
+SE1,Zweden (Noord),Scandinavie,SWE,2020,1,14.385,0.925292,9,11.3255,2761.75,Vlakke prijzen,1,stevig
+SE1,Zweden (Noord),Scandinavie,SWE,2021,1,42.4947,1.02713,12,24.1736,5874.95,Vlakke prijzen,1,stevig
+SE1,Zweden (Noord),Scandinavie,SWE,2022,1,59.0583,0.809689,29,61.1593,14492.1,Zon houdt waarde,0.3815,grensgeval
+SE1,Zweden (Noord),Scandinavie,SWE,2023,1,39.9748,0.825732,434,35.8602,9309.09,Vlakke prijzen,1,stevig
+SE1,Zweden (Noord),Scandinavie,SWE,2024,1,25.0505,0.72918,627,27.7344,6862.67,Vlakke prijzen,1,stevig
+SE1,Zweden (Noord),Scandinavie,SWE,2025,1,16.7143,0.680088,519,30.3261,6800.33,Vlakke prijzen,0.8305,stevig
+SE1,Zweden (Noord),Scandinavie,SWE,2026,0,41.913,0.733395,69,48.2846,13231.7,Vlakke prijzen,0.987,stevig
+SE2,Zweden (Noord-Midden),Scandinavie,SWE,2019,1,37.942,0.97182,0,14.1882,3446.34,Vlakke prijzen,1,stevig
+SE2,Zweden (Noord-Midden),Scandinavie,SWE,2020,1,14.3855,0.953548,9,11.3286,2761.75,Vlakke prijzen,1,stevig
+SE2,Zweden (Noord-Midden),Scandinavie,SWE,2021,1,42.5563,1.04157,12,24.313,5912.07,Vlakke prijzen,1,stevig
+SE2,Zweden (Noord-Midden),Scandinavie,SWE,2022,1,61.9467,0.864028,29,66.9831,16348,Zon houdt waarde,0.7005,grensgeval
+SE2,Zweden (Noord-Midden),Scandinavie,SWE,2023,1,39.9799,0.825629,434,35.8459,9292.87,Vlakke prijzen,1,stevig
+SE2,Zweden (Noord-Midden),Scandinavie,SWE,2024,1,24.6414,0.738633,723,27.9615,6819.66,Vlakke prijzen,1,stevig
+SE2,Zweden (Noord-Midden),Scandinavie,SWE,2025,1,16.5353,0.716125,678,31.6648,6440.99,Vlakke prijzen,0.984,stevig
+SE2,Zweden (Noord-Midden),Scandinavie,SWE,2026,0,43.5488,0.761818,111,50.7168,12114.5,Vlakke prijzen,0.872,stevig
+SE3,Zweden (Midden),Scandinavie,SWE,2019,1,38.3614,0.964913,0,16.04,4013.05,Vlakke prijzen,1,stevig
+SE3,Zweden (Midden),Scandinavie,SWE,2020,1,21.1876,1.11312,9,29.3663,11444.4,Vlakke prijzen,1,stevig
+SE3,Zweden (Midden),Scandinavie,SWE,2021,1,66.0022,0.897758,12,71.1379,29024.7,Zon houdt waarde,0.9635,stevig
+SE3,Zweden (Midden),Scandinavie,SWE,2022,1,129.214,1.21247,29,188.694,78357.6,Batterijmarkt,1,stevig
+SE3,Zweden (Midden),Scandinavie,SWE,2023,1,51.7045,0.783267,429,66.3419,21376.8,Zon houdt waarde,0.469,grensgeval
+SE3,Zweden (Midden),Scandinavie,SWE,2024,1,35.7681,0.600718,652,52.814,18146,Vlakke prijzen,0.3695,grensgeval
+SE3,Zweden (Midden),Scandinavie,SWE,2025,1,46.2389,0.589124,345,78.9439,31869.5,Zonverzadigd,0.4995,grensgeval
+SE3,Zweden (Midden),Scandinavie,SWE,2026,0,75.367,0.63383,90,90.5037,35436.4,Middenveld,0.8875,stevig
+SE4,Zweden (Zuid),Scandinavie,SWE,2019,1,39.804,0.980144,0,21.5128,6207.68,Vlakke prijzen,1,stevig
+SE4,Zweden (Zuid),Scandinavie,SWE,2020,1,25.8627,1.08022,10,35.3215,14216,Vlakke prijzen,1,stevig
+SE4,Zweden (Zuid),Scandinavie,SWE,2021,1,80.5194,0.894121,12,85.2553,32734.9,Zon houdt waarde,0.977,stevig
+SE4,Zweden (Zuid),Scandinavie,SWE,2022,1,152.111,1.17941,29,208.589,78820.2,Batterijmarkt,1,stevig
+SE4,Zweden (Zuid),Scandinavie,SWE,2023,1,64.8824,0.82059,368,87.0718,30368.2,Zon houdt waarde,0.7245,grensgeval
+SE4,Zweden (Zuid),Scandinavie,SWE,2024,1,49.7077,0.626585,632,89.2937,33507.1,Middenveld,0.534,grensgeval
+SE4,Zweden (Zuid),Scandinavie,SWE,2025,1,60.4333,0.57112,374,102.392,44551.5,Zonverzadigd,0.6365,grensgeval
+SE4,Zweden (Zuid),Scandinavie,SWE,2026,0,101.103,0.579233,91,125.768,53922.6,Batterijmarkt,0.6155,grensgeval
+SI,Slovenie,Midden- en Zuidoost-Europa,SVN,2019,1,48.7451,1.04326,35,38.7595,13567.7,Vlakke prijzen,1,stevig
+SI,Slovenie,Midden- en Zuidoost-Europa,SVN,2020,1,37.5496,0.910542,23,30.5981,11700.3,Vlakke prijzen,1,stevig
+SI,Slovenie,Midden- en Zuidoost-Europa,SVN,2021,1,115.044,0.861857,23,78.9804,29059,Zon houdt waarde,0.8635,stevig
+SI,Slovenie,Midden- en Zuidoost-Europa,SVN,2022,1,274.456,1.02125,0,188.915,69082.8,Batterijmarkt,1,stevig
+SI,Slovenie,Midden- en Zuidoost-Europa,SVN,2023,1,104.386,0.808489,96,97.8984,42197.9,Zon houdt waarde,0.6535,grensgeval
+SI,Slovenie,Midden- en Zuidoost-Europa,SVN,2024,1,91.3008,0.670908,219,138.387,64208.3,Batterijmarkt,0.879,stevig
+SI,Slovenie,Midden- en Zuidoost-Europa,SVN,2025,1,104.649,0.629863,268,142.731,68871.3,Batterijmarkt,0.872,stevig
+SI,Slovenie,Midden- en Zuidoost-Europa,SVN,2026,0,140.874,0.592583,233,160.619,79708.9,Batterijmarkt,1,stevig
+SK,Slowakije,Midden- en Zuidoost-Europa,SVK,2019,1,41.5056,0.985315,51,31.5105,11211.9,Vlakke prijzen,1,stevig
+SK,Slowakije,Midden- en Zuidoost-Europa,SVK,2020,1,34.0219,0.874013,115,29.9532,11571.4,Vlakke prijzen,1,stevig
+SK,Slowakije,Midden- en Zuidoost-Europa,SVK,2021,1,102.759,0.898037,24,82.0891,30647.4,Zon houdt waarde,0.992,stevig
+SK,Slowakije,Midden- en Zuidoost-Europa,SVK,2022,1,264.978,1.01341,2,204.618,71975.8,Batterijmarkt,1,stevig
+SK,Slowakije,Midden- en Zuidoost-Europa,SVK,2023,1,104.733,0.820618,90,101.161,43958.3,Zon houdt waarde,0.642,grensgeval
+SK,Slowakije,Midden- en Zuidoost-Europa,SVK,2024,1,92.9027,0.639239,288,140.95,65008,Batterijmarkt,0.7905,grensgeval
+SK,Slowakije,Midden- en Zuidoost-Europa,SVK,2025,1,102.698,0.553678,299,143.769,66192.4,Batterijmarkt,0.654,grensgeval
+SK,Slowakije,Midden- en Zuidoost-Europa,SVK,2026,0,138.971,0.555352,259,172.509,84748.8,Batterijmarkt,0.8885,stevig

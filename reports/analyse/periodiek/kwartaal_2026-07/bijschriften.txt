@@ -1,0 +1,9 @@
+1_markt_prijs.png
+Deze grafiek laat zien dat de dagmarktprijs in K3 2026 128 euro per MWh was, +60% tegenover K3 2025. De belangrijkste conclusie is: herzie de prijsaanname in lopende waarderingen.
+
+2_zon.png
+Deze grafiek laat zien dat zon in K3 2026 57% van de gemiddelde prijs ontving, -10 punten tegenover K3 2025; 13% van de zonopwek viel in uren met een negatieve prijs. De belangrijkste conclusie is: de marktwaarde van zon staat verder onder druk.
+
+3_opslag.png
+Deze grafiek laat zien dat een batterij van 2 uur in K3 2026 26.295 euro per MW verdiende op de dagmarkt, meer dan de 21.373 euro die voor 8% rendement nodig is; de dagspreiding was 181 euro per MWh. De belangrijkste conclusie is: de dagmarkt alleen dekt deze periode de kapitaalkosten.
+

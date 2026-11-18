@@ -1,0 +1,43 @@
+// Maten voor de signalering, met een toetsvraag. Niet in Power BI uitgevoerd: vergelijk de uitkomst met maten_verwacht.csv.
+// Plakken in: Power BI Desktop of Fabric > DAX-queryweergave > Uitvoeren. 'Model bijwerken met wijzigingen' voegt de maten toe.
+DEFINE
+    MEASURE fact_land_maand[Gem prijs] = AVERAGE ( fact_land_maand[gem_prijs] )
+    MEASURE fact_land_maand[Capture rate zon] = AVERAGE ( fact_land_maand[capture_zon] )
+    MEASURE fact_land_maand[Capture-prijs zon] = [Gem prijs] * [Capture rate zon]
+    MEASURE fact_land_maand[LCOE] = 67.39      // Nederland 2025; vervang door een parameter of door fact_regio_jaar[lcoe_eur_mwh]
+    MEASURE fact_land_maand[Marge zon] = [Capture-prijs zon] - [LCOE]
+    MEASURE fact_land_maand[Status zon] =
+        SWITCH ( TRUE (), ISBLANK ( [Marge zon] ), BLANK (), [Marge zon] < 0, "Kosten niet gedekt", [Marge zon] < 5.0, "Krap", "Gedekt" )
+    MEASURE fact_land_maand[Prijs z-score] =
+        // de gekozen maand tegenover de twaalf maanden ervoor, voor hetzelfde land
+        VAR p = MAXX ( fact_land_maand, fact_land_maand[jaar] * 12 + fact_land_maand[maand] )
+        VAR venster =
+            FILTER (
+                ALL ( fact_land_maand[jaar], fact_land_maand[maand] ),
+                fact_land_maand[jaar] * 12 + fact_land_maand[maand] >= p - 12
+                    && fact_land_maand[jaar] * 12 + fact_land_maand[maand] < p
+            )
+        VAR gem = CALCULATE ( AVERAGE ( fact_land_maand[gem_prijs] ), venster )
+        VAR sd = CALCULATE ( STDEV.S ( fact_land_maand[gem_prijs] ), venster )
+        RETURN DIVIDE ( [Gem prijs] - gem, sd )
+    MEASURE fact_land_maand[Prijs signaal] =
+        SWITCH ( TRUE (), ISBLANK ( [Prijs z-score] ), BLANK (), ABS ( [Prijs z-score] ) >= 3, "Schok", ABS ( [Prijs z-score] ) >= 2, "Let op", "Gewoon" )
+    MEASURE fact_nl_uur_alle_jaren[Dagen sinds laatste meting] =
+        DATEDIFF ( MAX ( fact_nl_uur_alle_jaren[timestamp_utc] ), UTCNOW (), DAY )
+
+// Toetsvraag: Nederland, 2026, per maand. Hoort gelijk te zijn aan maten_verwacht.csv (afronding op twee decimalen).
+EVALUATE
+SUMMARIZECOLUMNS (
+    fact_land_maand[land],
+    fact_land_maand[jaar],
+    fact_land_maand[maand],
+    TREATAS ( { "Nederland" }, fact_land_maand[land] ),
+    TREATAS ( { 2026 }, fact_land_maand[jaar] ),
+    "Gem prijs", ROUND ( [Gem prijs], 2 ),
+    "Capture-prijs zon", ROUND ( [Capture-prijs zon], 2 ),
+    "Marge zon", ROUND ( [Marge zon], 2 ),
+    "Status zon", [Status zon],
+    "Prijs z-score", ROUND ( [Prijs z-score], 2 ),
+    "Prijs signaal", [Prijs signaal]
+)
+ORDER BY fact_land_maand[maand]

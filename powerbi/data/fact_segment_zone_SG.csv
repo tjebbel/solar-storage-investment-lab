@@ -1,0 +1,297 @@
+biedzone,land,regio,jaar,capture_zon,negatieve_uren,dagspreiding,segment,aandeel_gelijk,grensgeval
+AT,Oostenrijk,Noordwest-Europa,2019,0.9476130046118338,68,27.15876712328767,Vlakke prijzen,1.0,False
+AT,Oostenrijk,Noordwest-Europa,2020,0.8783949373608932,111,28.79002732240437,Vlakke prijzen,1.0,False
+AT,Oostenrijk,Noordwest-Europa,2021,0.8208635503990336,64,74.07901369863013,Zon houdt waarde,0.7255,True
+AT,Oostenrijk,Noordwest-Europa,2022,1.055195397455553,0,167.9130684931507,Batterijmarkt,1.0,False
+AT,Oostenrijk,Noordwest-Europa,2023,0.7548927807633182,111,90.6813698630137,Zon houdt waarde,0.5035,True
+AT,Oostenrijk,Noordwest-Europa,2024,0.6467243824826634,307,102.83483606557375,Middenveld,0.5945,True
+AT,Oostenrijk,Noordwest-Europa,2025,0.4984601706381037,378,119.32857534246575,Zonverzadigd,0.9345,False
+AT,Oostenrijk,Noordwest-Europa,2026,0.5231830336424657,251,148.215329153605,Batterijmarkt,0.9265,False
+BE,Belgie,Noordwest-Europa,2019,0.920839093239147,71,30.8366301369863,Vlakke prijzen,1.0,False
+BE,Belgie,Noordwest-Europa,2020,0.7719114101030411,136,30.698060109289617,Vlakke prijzen,1.0,False
+BE,Belgie,Noordwest-Europa,2021,0.7373525933682423,159,84.67068493150686,Middenveld,0.5535,True
+BE,Belgie,Noordwest-Europa,2022,0.9202491100162392,113,200.2482739726028,Batterijmarkt,1.0,False
+BE,Belgie,Noordwest-Europa,2023,0.7834628466825637,221,91.49753424657534,Zon houdt waarde,0.602,True
+BE,Belgie,Noordwest-Europa,2024,0.5561196711332618,404,92.3692349726776,Zonverzadigd,0.6905,True
+BE,Belgie,Noordwest-Europa,2025,0.5141765479900421,519,111.22145205479453,Zonverzadigd,0.8745,False
+BE,Belgie,Noordwest-Europa,2026,0.5694026103842493,299,147.59169811320754,Batterijmarkt,0.685,True
+BG,Bulgarije,Midden- en Zuidoost-Europa,2019,1.038444715926343,0,44.84868493150685,Vlakke prijzen,1.0,False
+BG,Bulgarije,Midden- en Zuidoost-Europa,2020,0.9416390318787332,0,32.86857923497268,Vlakke prijzen,1.0,False
+BG,Bulgarije,Midden- en Zuidoost-Europa,2021,0.9281033634903908,0,86.78986301369864,Zon houdt waarde,1.0,False
+BG,Bulgarije,Midden- en Zuidoost-Europa,2022,0.9536248471588432,0,241.6599178082192,Batterijmarkt,1.0,False
+BG,Bulgarije,Midden- en Zuidoost-Europa,2023,0.7958013766491809,11,128.09594520547944,Batterijmarkt,0.6595,True
+BG,Bulgarije,Midden- en Zuidoost-Europa,2024,0.7082621126849401,55,184.673524590164,Batterijmarkt,1.0,False
+BG,Bulgarije,Midden- en Zuidoost-Europa,2025,0.6857715218249317,170,166.3097808219178,Batterijmarkt,1.0,False
+BG,Bulgarije,Midden- en Zuidoost-Europa,2026,0.7733906475021713,162,156.59780564263323,Batterijmarkt,1.0,False
+CH,Zwitserland,Noordwest-Europa,2019,0.9106505525124708,17,20.1313698630137,Vlakke prijzen,1.0,False
+CH,Zwitserland,Noordwest-Europa,2020,0.8437165722600855,75,21.81363387978142,Vlakke prijzen,1.0,False
+CH,Zwitserland,Noordwest-Europa,2021,0.7802155443258987,41,57.84821917808219,Vlakke prijzen,0.574,True
+CH,Zwitserland,Noordwest-Europa,2022,1.0375025972909615,1,129.23235616438356,Batterijmarkt,0.683,True
+CH,Zwitserland,Noordwest-Europa,2023,0.7962954164109822,76,63.50493150684932,Zon houdt waarde,0.426,True
+CH,Zwitserland,Noordwest-Europa,2024,0.6186813478892645,292,62.55631147540984,Middenveld,0.4765,True
+CH,Zwitserland,Noordwest-Europa,2025,0.5936208621665195,303,79.50197260273973,Zonverzadigd,0.286,True
+CH,Zwitserland,Noordwest-Europa,2026,0.6105232389867131,239,110.75959119496856,Middenveld,0.6695,True
+CZ,Tsjechie,Midden- en Zuidoost-Europa,2019,0.9776285878521191,58,28.64602739726028,Vlakke prijzen,1.0,False
+CZ,Tsjechie,Midden- en Zuidoost-Europa,2020,0.8588606162638543,119,29.00120218579235,Vlakke prijzen,1.0,False
+CZ,Tsjechie,Midden- en Zuidoost-Europa,2021,0.8500767593881561,33,78.31553424657534,Zon houdt waarde,0.821,False
+CZ,Tsjechie,Midden- en Zuidoost-Europa,2022,0.9590655962218648,8,187.35512328767123,Batterijmarkt,1.0,False
+CZ,Tsjechie,Midden- en Zuidoost-Europa,2023,0.7960271487082664,134,94.6564383561644,Zon houdt waarde,0.643,True
+CZ,Tsjechie,Midden- en Zuidoost-Europa,2024,0.6281797974451616,315,113.8115300546448,Middenveld,0.428,True
+CZ,Tsjechie,Midden- en Zuidoost-Europa,2025,0.5664399300131715,322,129.72065753424658,Zonverzadigd,0.4315,True
+CZ,Tsjechie,Midden- en Zuidoost-Europa,2026,0.5772002769545964,271,155.54253918495297,Batterijmarkt,0.8335,False
+DE-LU,Duitsland,Noordwest-Europa,2019,0.9280386717927036,211,30.8174794520548,Vlakke prijzen,1.0,False
+DE-LU,Duitsland,Noordwest-Europa,2020,0.8061010647701979,298,33.12232240437159,Vlakke prijzen,1.0,False
+DE-LU,Duitsland,Noordwest-Europa,2021,0.7846339061120287,139,82.03112328767124,Zon houdt waarde,0.606,True
+DE-LU,Duitsland,Noordwest-Europa,2022,0.93860523329514,70,190.45016438356168,Batterijmarkt,1.0,False
+DE-LU,Duitsland,Noordwest-Europa,2023,0.7590862275725277,300,99.34515068493153,Zon houdt waarde,0.476,True
+DE-LU,Duitsland,Noordwest-Europa,2024,0.5919587048654729,457,112.0063387978142,Zonverzadigd,0.5605,True
+DE-LU,Duitsland,Noordwest-Europa,2025,0.5156866551431876,573,124.79282191780824,Zonverzadigd,0.87,False
+DE-LU,Duitsland,Noordwest-Europa,2026,0.5353866659367024,461,158.5619182389937,Zonverzadigd,0.788,True
+DK1,Denemarken (West),Noordwest-Europa,2019,0.965000947218985,132,26.8574794520548,Vlakke prijzen,1.0,False
+DK1,Denemarken (West),Noordwest-Europa,2020,0.9683041461228924,192,31.964890710382512,Vlakke prijzen,1.0,False
+DK1,Denemarken (West),Noordwest-Europa,2021,0.8396784678057031,87,77.42824657534247,Zon houdt waarde,0.7875,True
+DK1,Denemarken (West),Noordwest-Europa,2022,1.0091503620564402,38,182.27624657534247,Batterijmarkt,1.0,False
+DK1,Denemarken (West),Noordwest-Europa,2023,0.7813193231872163,281,94.12753424657534,Zon houdt waarde,0.595,True
+DK1,Denemarken (West),Noordwest-Europa,2024,0.663186022679102,375,100.87049180327868,Middenveld,0.5415,True
+DK1,Denemarken (West),Noordwest-Europa,2025,0.6233836021051431,441,115.08890410958904,Middenveld,0.318,True
+DK1,Denemarken (West),Noordwest-Europa,2026,0.6677099866632529,195,142.7683713355049,Batterijmarkt,0.969,False
+DK2,Denemarken (Oost),Noordwest-Europa,2019,0.9810530271561058,95,26.3866301369863,Vlakke prijzen,1.0,False
+DK2,Denemarken (Oost),Noordwest-Europa,2020,1.0200543579874248,89,36.91300546448088,Vlakke prijzen,1.0,False
+DK2,Denemarken (Oost),Noordwest-Europa,2021,0.8634045975654704,24,85.8487397260274,Zon houdt waarde,0.866,False
+DK2,Denemarken (Oost),Noordwest-Europa,2022,1.025781860946868,5,200.10520547945205,Batterijmarkt,1.0,False
+DK2,Denemarken (Oost),Noordwest-Europa,2023,0.8228959445452384,231,98.01068493150684,Zon houdt waarde,0.7025,True
+DK2,Denemarken (Oost),Noordwest-Europa,2024,0.6735888891651667,275,104.90284153005464,Middenveld,0.574,True
+DK2,Denemarken (Oost),Noordwest-Europa,2025,0.6462638738131331,265,119.6259178082192,Middenveld,0.3955,True
+DK2,Denemarken (Oost),Noordwest-Europa,2026,0.67308058053912,91,147.35996742671009,Batterijmarkt,1.0,False
+EE,Estland,Baltische staten,2019,0.9944676575078152,0,33.20912328767123,Vlakke prijzen,1.0,False
+EE,Estland,Baltische staten,2020,1.2156798565994171,5,46.479590163934425,Vlakke prijzen,1.0,False
+EE,Estland,Baltische staten,2021,0.95408705575644,5,92.47145205479453,Zon houdt waarde,1.0,False
+EE,Estland,Baltische staten,2022,1.056066607222563,2,250.78290410958903,Batterijmarkt,1.0,False
+EE,Estland,Baltische staten,2023,0.7863562878181092,129,123.16106849315068,Batterijmarkt,0.5645,True
+EE,Estland,Baltische staten,2024,0.7385473334636047,183,154.7498087431694,Batterijmarkt,1.0,False
+EE,Estland,Baltische staten,2025,0.5829211347541489,201,165.46109589041097,Batterijmarkt,1.0,False
+EE,Estland,Baltische staten,2026,0.5857544376046872,46,136.17761755485893,Batterijmarkt,0.8295,False
+ES,Spanje,Iberie,2019,1.0183602910354352,0,17.136263736263736,Vlakke prijzen,1.0,False
+ES,Spanje,Iberie,2020,0.9686792257801348,0,17.233551912568306,Vlakke prijzen,1.0,False
+ES,Spanje,Iberie,2021,0.914706594874336,0,50.69701369863014,Vlakke prijzen,0.8735,False
+ES,Spanje,Iberie,2022,0.901934990269002,0,95.97057534246576,Zon houdt waarde,1.0,False
+ES,Spanje,Iberie,2023,0.8356018453395888,0,74.00186301369862,Zon houdt waarde,0.7735,True
+ES,Spanje,Iberie,2024,0.672602194281263,247,71.5241256830601,Middenveld,0.7355,True
+ES,Spanje,Iberie,2025,0.5528963834623511,555,98.16161643835616,Zonverzadigd,0.7045,True
+ES,Spanje,Iberie,2026,0.5110760596611609,717,135.89075471698112,Zonverzadigd,0.887,False
+FI,Finland,Scandinavie,2019,1.1022835397811157,0,29.009150684931505,Vlakke prijzen,1.0,False
+FI,Finland,Scandinavie,2020,1.2121253013909334,9,40.03103825136612,Vlakke prijzen,1.0,False
+FI,Finland,Scandinavie,2021,0.9758215371653948,5,81.58890410958904,Zon houdt waarde,1.0,False
+FI,Finland,Scandinavie,2022,1.2256337061758522,27,206.7729589041096,Batterijmarkt,1.0,False
+FI,Finland,Scandinavie,2023,0.893831059014335,467,77.15687671232877,Zon houdt waarde,0.976,False
+FI,Finland,Scandinavie,2024,0.8528015491593233,725,81.77898907103825,Zon houdt waarde,0.83,False
+FI,Finland,Scandinavie,2025,0.8903516916970038,459,85.57378082191781,Zon houdt waarde,0.9625,False
+FI,Finland,Scandinavie,2026,0.7582010028736196,60,73.78833855799373,Zon houdt waarde,0.515,True
+FR,Frankrijk,Noordwest-Europa,2019,0.9570505324216816,27,27.386602739726023,Vlakke prijzen,1.0,False
+FR,Frankrijk,Noordwest-Europa,2020,0.9271979369910264,102,27.06669398907104,Vlakke prijzen,1.0,False
+FR,Frankrijk,Noordwest-Europa,2021,0.863646980724598,64,75.58443835616438,Zon houdt waarde,0.867,False
+FR,Frankrijk,Noordwest-Europa,2022,1.0565500416059446,4,177.5174794520548,Batterijmarkt,1.0,False
+FR,Frankrijk,Noordwest-Europa,2023,0.8630879867395924,147,84.7892602739726,Zon houdt waarde,0.8655,False
+FR,Frankrijk,Noordwest-Europa,2024,0.6764619989618872,352,77.06478142076503,Middenveld,0.616,True
+FR,Frankrijk,Noordwest-Europa,2025,0.5880293363351206,509,89.94139726027397,Zonverzadigd,0.578,True
+FR,Frankrijk,Noordwest-Europa,2026,0.5727731389442057,516,136.50476340694007,Zonverzadigd,0.63,True
+GR,Griekenland,Midden- en Zuidoost-Europa,2019,0.9790670310884064,0,28.86991780821917,Vlakke prijzen,1.0,False
+GR,Griekenland,Midden- en Zuidoost-Europa,2020,0.921254974497412,2,37.92808743169399,Vlakke prijzen,1.0,False
+GR,Griekenland,Midden- en Zuidoost-Europa,2021,0.9136655606206632,5,77.8512602739726,Zon houdt waarde,1.0,False
+GR,Griekenland,Midden- en Zuidoost-Europa,2022,0.9388861261030969,1,213.2248767123288,Batterijmarkt,1.0,False
+GR,Griekenland,Midden- en Zuidoost-Europa,2023,0.7946459277909889,0,122.66545205479451,Batterijmarkt,0.5555,True
+GR,Griekenland,Midden- en Zuidoost-Europa,2024,0.7096904506093431,11,162.88005464480875,Batterijmarkt,1.0,False
+GR,Griekenland,Midden- en Zuidoost-Europa,2025,0.5773547562924337,115,162.00397260273974,Batterijmarkt,1.0,False
+GR,Griekenland,Midden- en Zuidoost-Europa,2026,0.4740995669924466,518,173.2935423197492,Zonverzadigd,1.0,False
+HR,Kroatie,Midden- en Zuidoost-Europa,2019,1.0497000143124775,35,41.12857534246575,Vlakke prijzen,1.0,False
+HR,Kroatie,Midden- en Zuidoost-Europa,2020,0.9178276429745518,23,33.252459016393445,Vlakke prijzen,1.0,False
+HR,Kroatie,Midden- en Zuidoost-Europa,2021,0.8957965013625948,38,80.63797260273972,Zon houdt waarde,0.983,False
+HR,Kroatie,Midden- en Zuidoost-Europa,2022,1.0381584547958551,5,197.8729589041096,Batterijmarkt,1.0,False
+HR,Kroatie,Midden- en Zuidoost-Europa,2023,0.8188700580767,94,106.636,Zon houdt waarde,0.5525,True
+HR,Kroatie,Midden- en Zuidoost-Europa,2024,0.7998018214945525,194,148.52144808743168,Batterijmarkt,1.0,False
+HR,Kroatie,Midden- en Zuidoost-Europa,2025,0.6589549754558472,257,146.65849315068493,Batterijmarkt,0.964,False
+HR,Kroatie,Midden- en Zuidoost-Europa,2026,0.6657400427531287,217,163.72457680250784,Batterijmarkt,1.0,False
+HU,Hongarije,Midden- en Zuidoost-Europa,2019,1.0538563877923643,0,42.51920547945205,Vlakke prijzen,1.0,False
+HU,Hongarije,Midden- en Zuidoost-Europa,2020,0.8918810292374738,4,34.610218579234974,Vlakke prijzen,1.0,False
+HU,Hongarije,Midden- en Zuidoost-Europa,2021,0.90521832244121,8,89.00460273972602,Zon houdt waarde,1.0,False
+HU,Hongarije,Midden- en Zuidoost-Europa,2022,1.021401903253276,0,208.5371780821918,Batterijmarkt,1.0,False
+HU,Hongarije,Midden- en Zuidoost-Europa,2023,0.8065861208328269,74,114.6302191780822,Zon houdt waarde,0.4065,True
+HU,Hongarije,Midden- en Zuidoost-Europa,2024,0.6339855861756638,262,183.69959016393443,Batterijmarkt,0.9295,False
+HU,Hongarije,Midden- en Zuidoost-Europa,2025,0.5765701485907451,281,163.30241095890412,Batterijmarkt,0.7855,True
+HU,Hongarije,Midden- en Zuidoost-Europa,2026,0.5825854500508716,233,194.9137304075235,Batterijmarkt,1.0,False
+IT-Centre-North,Italie (Midden-Noord),Italie,2019,0.9770528556453753,0,30.01454794520548,Vlakke prijzen,1.0,False
+IT-Centre-North,Italie (Midden-Noord),Italie,2020,0.8980448334627745,0,29.246666666666663,Vlakke prijzen,1.0,False
+IT-Centre-North,Italie (Midden-Noord),Italie,2021,0.8727745038325575,0,61.7266301369863,Zon houdt waarde,0.523,True
+IT-Centre-North,Italie (Midden-Noord),Italie,2022,1.023388975017369,0,164.8184383561644,Batterijmarkt,1.0,False
+IT-Centre-North,Italie (Midden-Noord),Italie,2023,0.8780016062697442,0,83.30816438356165,Zon houdt waarde,0.922,False
+IT-Centre-North,Italie (Midden-Noord),Italie,2024,0.8882960519787365,0,76.29103825136612,Zon houdt waarde,0.957,False
+IT-Centre-North,Italie (Midden-Noord),Italie,2025,0.8318772168091209,0,74.49454794520548,Zon houdt waarde,0.76,True
+IT-Centre-North,Italie (Midden-Noord),Italie,2026,0.844270927309055,0,96.34059561128528,Zon houdt waarde,0.7925,True
+IT-North,Italie (Noord),Italie,2019,0.9937823675426442,0,28.352602739726027,Vlakke prijzen,1.0,False
+IT-North,Italie (Noord),Italie,2020,0.9154980014699668,0,26.38158469945355,Vlakke prijzen,1.0,False
+IT-North,Italie (Noord),Italie,2021,0.8759994851022184,0,60.2313698630137,Zon houdt waarde,0.48,True
+IT-North,Italie (Noord),Italie,2022,1.024842728487105,0,163.4411506849315,Batterijmarkt,1.0,False
+IT-North,Italie (Noord),Italie,2023,0.8831214230505693,0,79.09008219178082,Zon houdt waarde,0.941,False
+IT-North,Italie (Noord),Italie,2024,0.9029487188880436,0,65.96879781420765,Zon houdt waarde,0.7675,True
+IT-North,Italie (Noord),Italie,2025,0.8378328630037306,0,68.24427397260274,Zon houdt waarde,0.674,True
+IT-North,Italie (Noord),Italie,2026,0.848303973460135,0,93.37924528301888,Zon houdt waarde,0.816,False
+IT-Sicily,Italie (Sicilie),Italie,2019,0.8774770891137306,0,72.19843835616439,Zon houdt waarde,0.921,False
+IT-Sicily,Italie (Sicilie),Italie,2020,0.8013409902550476,0,49.19169398907104,Vlakke prijzen,0.95,False
+IT-Sicily,Italie (Sicilie),Italie,2021,0.8465479940598868,0,74.26668493150684,Zon houdt waarde,0.809,False
+IT-Sicily,Italie (Sicilie),Italie,2022,0.983320220125121,0,175.3320821917808,Batterijmarkt,1.0,False
+IT-Sicily,Italie (Sicilie),Italie,2023,0.8446506243844891,0,95.9430410958904,Zon houdt waarde,0.802,False
+IT-Sicily,Italie (Sicilie),Italie,2024,0.8617428258132347,0,86.72745901639344,Zon houdt waarde,0.8635,False
+IT-Sicily,Italie (Sicilie),Italie,2025,0.7976265193643839,0,83.42071232876712,Zon houdt waarde,0.6485,True
+IT-Sicily,Italie (Sicilie),Italie,2026,0.7391266387675686,0,140.95455974842767,Batterijmarkt,0.9245,False
+IT-South,Italie (Zuid),Italie,2019,0.9152361097239172,0,32.55756164383562,Vlakke prijzen,1.0,False
+IT-South,Italie (Zuid),Italie,2020,0.8466087584810065,0,31.155765027322403,Vlakke prijzen,1.0,False
+IT-South,Italie (Zuid),Italie,2021,0.8479805744971372,0,62.790164383561645,Zon houdt waarde,0.5135,True
+IT-South,Italie (Zuid),Italie,2022,0.9833284191257836,0,168.10975342465753,Batterijmarkt,1.0,False
+IT-South,Italie (Zuid),Italie,2023,0.8467279475395909,0,92.21180821917808,Zon houdt waarde,0.809,False
+IT-South,Italie (Zuid),Italie,2024,0.86913471153378,0,80.83046448087431,Zon houdt waarde,0.887,False
+IT-South,Italie (Zuid),Italie,2025,0.8022498566494163,0,79.55276712328767,Zon houdt waarde,0.6595,True
+IT-South,Italie (Zuid),Italie,2026,0.7766099623951647,0,114.735736677116,Zon houdt waarde,0.3505,True
+LT,Litouwen,Baltische staten,2019,1.1996708242832996,0,33.43941828254847,Vlakke prijzen,1.0,False
+LT,Litouwen,Baltische staten,2020,1.1865000519702864,5,45.373715846994536,Vlakke prijzen,1.0,False
+LT,Litouwen,Baltische staten,2021,1.078027355081714,5,92.17109589041095,Zon houdt waarde,1.0,False
+LT,Litouwen,Baltische staten,2022,1.1588665732978587,2,245.41334246575343,Batterijmarkt,1.0,False
+LT,Litouwen,Baltische staten,2023,0.9029723476486216,100,122.59380821917809,Batterijmarkt,0.554,True
+LT,Litouwen,Baltische staten,2024,0.766525217464819,186,151.77688524590164,Batterijmarkt,1.0,False
+LT,Litouwen,Baltische staten,2025,0.5729942940901648,180,164.62468493150686,Batterijmarkt,1.0,False
+LT,Litouwen,Baltische staten,2026,0.5648850819464586,71,145.6148275862069,Batterijmarkt,1.0,False
+LV,Letland,Baltische staten,2019,1.1967064594740586,0,33.464214876033054,Vlakke prijzen,1.0,False
+LV,Letland,Baltische staten,2020,1.1962072114593256,5,45.405109289617485,Vlakke prijzen,1.0,False
+LV,Letland,Baltische staten,2021,0.9448633966983884,5,90.87293150684933,Zon houdt waarde,1.0,False
+LV,Letland,Baltische staten,2022,1.126077395548963,2,245.07298630136987,Batterijmarkt,1.0,False
+LV,Letland,Baltische staten,2023,0.8973535826843214,100,122.25065753424656,Batterijmarkt,0.544,True
+LV,Letland,Baltische staten,2024,0.7190805074062051,184,151.99161202185792,Batterijmarkt,1.0,False
+LV,Letland,Baltische staten,2025,0.646156666949635,164,164.58953424657534,Batterijmarkt,1.0,False
+LV,Letland,Baltische staten,2026,0.6140734971115649,64,145.44852664576803,Batterijmarkt,1.0,False
+NL,Nederland,Noordwest-Europa,2019,0.941591807236764,3,26.772109589041097,Vlakke prijzen,1.0,False
+NL,Nederland,Noordwest-Europa,2020,0.7881455771395797,97,31.750109289617487,Vlakke prijzen,1.0,False
+NL,Nederland,Noordwest-Europa,2021,0.7671213884225542,70,85.12008219178082,Zon houdt waarde,0.547,True
+NL,Nederland,Noordwest-Europa,2022,0.9260475319379516,86,207.56145205479453,Batterijmarkt,1.0,False
+NL,Nederland,Noordwest-Europa,2023,0.7401442282634895,315,108.94317808219178,Middenveld,0.399,True
+NL,Nederland,Noordwest-Europa,2024,0.6025441466098057,458,113.71680327868852,Middenveld,0.307,True
+NL,Nederland,Noordwest-Europa,2025,0.6153034946997125,584,123.81939726027396,Batterijmarkt,0.315,True
+NL,Nederland,Noordwest-Europa,2026,0.5865067101387564,399,157.1566352201258,Zonverzadigd,0.5815,True
+NO1,Noorwegen (Oslo),Scandinavie,2019,0.945091111104584,0,7.983342465753425,Vlakke prijzen,1.0,False
+NO1,Noorwegen (Oslo),Scandinavie,2020,0.6058747034932517,5,3.7016393442622952,Vlakke prijzen,1.0,False
+NO1,Noorwegen (Oslo),Scandinavie,2021,0.802062659266228,5,35.958465753424655,Vlakke prijzen,1.0,False
+NO1,Noorwegen (Oslo),Scandinavie,2022,1.0450559144898566,0,90.04923287671232,Zon houdt waarde,1.0,False
+NO1,Noorwegen (Oslo),Scandinavie,2023,0.7992469495104226,381,41.14572602739726,Vlakke prijzen,1.0,False
+NO1,Noorwegen (Oslo),Scandinavie,2024,0.7266248575614865,231,39.70806010928962,Vlakke prijzen,1.0,False
+NO1,Noorwegen (Oslo),Scandinavie,2025,0.8059741158711002,57,58.27561643835617,Vlakke prijzen,0.5525,True
+NO1,Noorwegen (Oslo),Scandinavie,2026,0.8699597368852671,13,67.24476489028213,Zon houdt waarde,0.7265,True
+NO2,Noorwegen (Zuid),Scandinavie,2019,0.9496236497533096,0,7.928082191780822,Vlakke prijzen,1.0,False
+NO2,Noorwegen (Zuid),Scandinavie,2020,0.603060213584467,5,3.669262295081967,Vlakke prijzen,1.0,False
+NO2,Noorwegen (Zuid),Scandinavie,2021,0.8153809779522143,5,32.733342465753424,Vlakke prijzen,1.0,False
+NO2,Noorwegen (Zuid),Scandinavie,2022,1.078166052849235,0,109.06523287671232,Zon houdt waarde,0.725,True
+NO2,Noorwegen (Zuid),Scandinavie,2023,0.8656012151585484,174,49.45358904109589,Vlakke prijzen,0.933,False
+NO2,Noorwegen (Zuid),Scandinavie,2024,0.7555261626746604,206,46.978060109289615,Vlakke prijzen,1.0,False
+NO2,Noorwegen (Zuid),Scandinavie,2025,0.8089939330160011,36,59.19320547945205,Vlakke prijzen,0.5135,True
+NO2,Noorwegen (Zuid),Scandinavie,2026,0.8501808611723917,55,77.12459119496856,Zon houdt waarde,0.8215,False
+NO3,Noorwegen (Midden),Scandinavie,2019,0.9730753437285842,0,9.181068493150685,Vlakke prijzen,1.0,False
+NO3,Noorwegen (Midden),Scandinavie,2020,0.711634123133751,0,3.871311475409836,Vlakke prijzen,1.0,False
+NO3,Noorwegen (Midden),Scandinavie,2021,1.058999954583434,3,22.807506849315068,Vlakke prijzen,1.0,False
+NO3,Noorwegen (Midden),Scandinavie,2022,0.6923604524117736,14,41.39008219178082,Vlakke prijzen,1.0,False
+NO3,Noorwegen (Midden),Scandinavie,2023,0.8572982874251541,401,28.883698630136987,Vlakke prijzen,1.0,False
+NO3,Noorwegen (Midden),Scandinavie,2024,0.9588664266938068,173,23.021475409836064,Vlakke prijzen,1.0,False
+NO3,Noorwegen (Midden),Scandinavie,2025,0.6887634438606272,82,25.82786301369863,Vlakke prijzen,1.0,False
+NO3,Noorwegen (Midden),Scandinavie,2026,0.9396272164156309,2,49.869404388714734,Vlakke prijzen,0.911,False
+NO4,Noorwegen (Noord),Scandinavie,2019,0.9532387063965746,0,8.476986301369863,Vlakke prijzen,1.0,False
+NO4,Noorwegen (Noord),Scandinavie,2020,0.6515662734546589,0,3.174016393442623,Vlakke prijzen,1.0,False
+NO4,Noorwegen (Noord),Scandinavie,2021,0.8633317884390619,3,18.88728767123288,Vlakke prijzen,1.0,False
+NO4,Noorwegen (Noord),Scandinavie,2022,0.5201879747540542,11,22.87964383561644,Vlakke prijzen,1.0,False
+NO4,Noorwegen (Noord),Scandinavie,2023,0.7669459248599604,375,20.398602739726027,Vlakke prijzen,1.0,False
+NO4,Noorwegen (Noord),Scandinavie,2024,1.0858129779944017,152,15.299918032786886,Vlakke prijzen,1.0,False
+NO4,Noorwegen (Noord),Scandinavie,2025,0.5322246528198622,142,13.08613698630137,Vlakke prijzen,1.0,False
+NO4,Noorwegen (Noord),Scandinavie,2026,0.7000273885074346,174,35.66736677115988,Vlakke prijzen,1.0,False
+NO5,Noorwegen (West),Scandinavie,2019,0.9513253385592972,0,7.832164383561644,Vlakke prijzen,1.0,False
+NO5,Noorwegen (West),Scandinavie,2020,0.5629850799498458,1,3.144508196721312,Vlakke prijzen,1.0,False
+NO5,Noorwegen (West),Scandinavie,2021,0.8014079388327099,0,34.367123287671234,Vlakke prijzen,1.0,False
+NO5,Noorwegen (West),Scandinavie,2022,1.081710701633486,0,86.45479452054795,Zon houdt waarde,1.0,False
+NO5,Noorwegen (West),Scandinavie,2023,0.8124584921623947,374,36.30142465753425,Vlakke prijzen,1.0,False
+NO5,Noorwegen (West),Scandinavie,2024,0.7865621655827312,142,30.521120218579235,Vlakke prijzen,1.0,False
+NO5,Noorwegen (West),Scandinavie,2025,0.7511808274575487,34,36.21728767123288,Vlakke prijzen,1.0,False
+NO5,Noorwegen (West),Scandinavie,2026,0.9242896037627326,0,48.86216300940439,Vlakke prijzen,0.963,False
+PL,Polen,Midden- en Zuidoost-Europa,2019,1.1307165125486305,0,22.7694794520548,Vlakke prijzen,1.0,False
+PL,Polen,Midden- en Zuidoost-Europa,2020,1.1177416173662291,0,22.833743169398907,Vlakke prijzen,1.0,False
+PL,Polen,Midden- en Zuidoost-Europa,2021,0.9422963972792504,0,51.676,Vlakke prijzen,0.833,False
+PL,Polen,Midden- en Zuidoost-Europa,2022,0.9053994945580958,0,145.33709589041095,Batterijmarkt,1.0,False
+PL,Polen,Midden- en Zuidoost-Europa,2023,0.9031701783539876,43,71.74057534246576,Zon houdt waarde,0.9945,False
+PL,Polen,Midden- en Zuidoost-Europa,2024,0.7506505375859066,197,121.53743169398908,Batterijmarkt,0.532,True
+PL,Polen,Midden- en Zuidoost-Europa,2025,0.6449832802853843,310,144.32134246575342,Batterijmarkt,0.816,False
+PL,Polen,Midden- en Zuidoost-Europa,2026,0.5893569996638739,310,184.78294670846395,Zonverzadigd,0.328,True
+PT,Portugal,Iberie,2019,1.0186284418066822,0,16.618438356164383,Vlakke prijzen,1.0,False
+PT,Portugal,Iberie,2020,0.9778201320572676,0,16.75002732240437,Vlakke prijzen,1.0,False
+PT,Portugal,Iberie,2021,0.9595727564270288,0,49.89052054794521,Vlakke prijzen,0.9105,False
+PT,Portugal,Iberie,2022,0.89915825540195,0,94.32854794520549,Zon houdt waarde,0.9955,False
+PT,Portugal,Iberie,2023,0.82718151948198,0,70.69476712328768,Zon houdt waarde,0.7155,True
+PT,Portugal,Iberie,2024,0.6730008160979403,196,69.86412568306011,Middenveld,0.6955,True
+PT,Portugal,Iberie,2025,0.5339927567776237,200,95.50742465753424,Middenveld,1.0,False
+PT,Portugal,Iberie,2026,0.5074286184000824,573,131.55147335423197,Zonverzadigd,0.902,False
+RO,Roemenie,Midden- en Zuidoost-Europa,2019,1.0448677716002073,0,48.480356164383565,Vlakke prijzen,0.9795,False
+RO,Roemenie,Midden- en Zuidoost-Europa,2020,0.9217736813841164,0,35.71469945355192,Vlakke prijzen,1.0,False
+RO,Roemenie,Midden- en Zuidoost-Europa,2021,0.9004334163623863,0,97.60612188365651,Zon houdt waarde,0.9675,False
+RO,Roemenie,Midden- en Zuidoost-Europa,2022,0.995055120098015,0,239.012794520548,Batterijmarkt,1.0,False
+RO,Roemenie,Midden- en Zuidoost-Europa,2023,0.8017212987784924,32,128.74027397260275,Batterijmarkt,0.673,True
+RO,Roemenie,Midden- en Zuidoost-Europa,2024,0.6567309998384323,85,188.751612021858,Batterijmarkt,1.0,False
+RO,Roemenie,Midden- en Zuidoost-Europa,2025,0.5956087051144566,196,164.88424657534247,Batterijmarkt,1.0,False
+RO,Roemenie,Midden- en Zuidoost-Europa,2026,0.630516920651064,184,181.83454545454543,Batterijmarkt,1.0,False
+RS,Servie,Midden- en Zuidoost-Europa,2019,1.0630133529022645,0,37.44561643835616,Vlakke prijzen,1.0,False
+RS,Servie,Midden- en Zuidoost-Europa,2020,0.943019659090165,0,31.267704918032788,Vlakke prijzen,1.0,False
+RS,Servie,Midden- en Zuidoost-Europa,2021,0.8761216942101623,0,77.75882191780822,Zon houdt waarde,0.9125,False
+RS,Servie,Midden- en Zuidoost-Europa,2022,1.059920116353087,0,179.54224657534246,Batterijmarkt,1.0,False
+RS,Servie,Midden- en Zuidoost-Europa,2023,0.8441392252670511,0,98.16523287671232,Zon houdt waarde,0.765,True
+RS,Servie,Midden- en Zuidoost-Europa,2024,0.7271244836837953,0,151.89371584699452,Batterijmarkt,1.0,False
+RS,Servie,Midden- en Zuidoost-Europa,2025,0.5989484135054749,0,146.71413698630138,Batterijmarkt,1.0,False
+RS,Servie,Midden- en Zuidoost-Europa,2026,0.593765874719216,42,162.2864263322884,Batterijmarkt,1.0,False
+SE1,Zweden (Noord),Scandinavie,2019,0.9591762876190246,0,14.188246575342466,Vlakke prijzen,1.0,False
+SE1,Zweden (Noord),Scandinavie,2020,0.9252917701787348,9,11.32549180327869,Vlakke prijzen,1.0,False
+SE1,Zweden (Noord),Scandinavie,2021,1.0271257586182814,12,24.17358904109589,Vlakke prijzen,1.0,False
+SE1,Zweden (Noord),Scandinavie,2022,0.8096892763058743,29,61.15934246575343,Zon houdt waarde,0.3815,True
+SE1,Zweden (Noord),Scandinavie,2023,0.8257322990586209,434,35.86021917808219,Vlakke prijzen,1.0,False
+SE1,Zweden (Noord),Scandinavie,2024,0.7291796060210636,627,27.734371584699453,Vlakke prijzen,1.0,False
+SE1,Zweden (Noord),Scandinavie,2025,0.68008757309377,519,30.326054794520548,Vlakke prijzen,0.8305,False
+SE1,Zweden (Noord),Scandinavie,2026,0.7333948219356898,69,48.28463949843261,Vlakke prijzen,0.987,False
+SE2,Zweden (Noord-Midden),Scandinavie,2019,0.9718201138723483,0,14.188246575342466,Vlakke prijzen,1.0,False
+SE2,Zweden (Noord-Midden),Scandinavie,2020,0.9535477890898388,9,11.328606557377048,Vlakke prijzen,1.0,False
+SE2,Zweden (Noord-Midden),Scandinavie,2021,1.0415734935114789,12,24.31295890410959,Vlakke prijzen,1.0,False
+SE2,Zweden (Noord-Midden),Scandinavie,2022,0.8640280750617247,29,66.98306849315068,Zon houdt waarde,0.7005,True
+SE2,Zweden (Noord-Midden),Scandinavie,2023,0.8256285063802137,434,35.8458904109589,Vlakke prijzen,1.0,False
+SE2,Zweden (Noord-Midden),Scandinavie,2024,0.7386331062920405,723,27.961475409836066,Vlakke prijzen,1.0,False
+SE2,Zweden (Noord-Midden),Scandinavie,2025,0.7161248240327934,678,31.66482191780822,Vlakke prijzen,0.984,False
+SE2,Zweden (Noord-Midden),Scandinavie,2026,0.7618181091744836,111,50.71680250783699,Vlakke prijzen,0.872,False
+SE3,Zweden (Midden),Scandinavie,2019,0.964913271547412,0,16.040027397260275,Vlakke prijzen,1.0,False
+SE3,Zweden (Midden),Scandinavie,2020,1.1131167176701762,9,29.36625683060109,Vlakke prijzen,1.0,False
+SE3,Zweden (Midden),Scandinavie,2021,0.8977575020258898,12,71.13794520547945,Zon houdt waarde,0.9635,False
+SE3,Zweden (Midden),Scandinavie,2022,1.2124748515221109,29,188.6939178082192,Batterijmarkt,1.0,False
+SE3,Zweden (Midden),Scandinavie,2023,0.7832667889733622,429,66.34194520547945,Zon houdt waarde,0.469,True
+SE3,Zweden (Midden),Scandinavie,2024,0.6007175954545122,652,52.81404371584699,Vlakke prijzen,0.3695,True
+SE3,Zweden (Midden),Scandinavie,2025,0.5891238367134268,345,78.94386301369863,Zonverzadigd,0.4995,True
+SE3,Zweden (Midden),Scandinavie,2026,0.6338298948499987,90,90.50369905956111,Middenveld,0.8875,False
+SE4,Zweden (Zuid),Scandinavie,2019,0.9801436324234972,0,21.512794520547946,Vlakke prijzen,1.0,False
+SE4,Zweden (Zuid),Scandinavie,2020,1.080219645464133,10,35.32147540983607,Vlakke prijzen,1.0,False
+SE4,Zweden (Zuid),Scandinavie,2021,0.8941208517215569,12,85.25528767123288,Zon houdt waarde,0.977,False
+SE4,Zweden (Zuid),Scandinavie,2022,1.1794133409388354,29,208.58898630136983,Batterijmarkt,1.0,False
+SE4,Zweden (Zuid),Scandinavie,2023,0.8205902439562605,368,87.07178082191781,Zon houdt waarde,0.7245,True
+SE4,Zweden (Zuid),Scandinavie,2024,0.626585368378884,632,89.29368852459017,Middenveld,0.534,True
+SE4,Zweden (Zuid),Scandinavie,2025,0.5711204221056705,374,102.392,Zonverzadigd,0.6365,True
+SE4,Zweden (Zuid),Scandinavie,2026,0.5792326164034517,91,125.76833855799372,Batterijmarkt,0.6155,True
+SI,Slovenie,Midden- en Zuidoost-Europa,2019,1.0432589385919475,35,38.75953424657534,Vlakke prijzen,1.0,False
+SI,Slovenie,Midden- en Zuidoost-Europa,2020,0.9105419151338217,23,30.59808743169399,Vlakke prijzen,1.0,False
+SI,Slovenie,Midden- en Zuidoost-Europa,2021,0.8618565344340944,23,78.98043835616438,Zon houdt waarde,0.8635,False
+SI,Slovenie,Midden- en Zuidoost-Europa,2022,1.0212512080984153,0,188.91512328767124,Batterijmarkt,1.0,False
+SI,Slovenie,Midden- en Zuidoost-Europa,2023,0.8084888086211368,96,97.89838356164384,Zon houdt waarde,0.6535,True
+SI,Slovenie,Midden- en Zuidoost-Europa,2024,0.6709082629719293,219,138.38737704918032,Batterijmarkt,0.879,False
+SI,Slovenie,Midden- en Zuidoost-Europa,2025,0.6298631718500122,268,142.73128767123288,Batterijmarkt,0.872,False
+SI,Slovenie,Midden- en Zuidoost-Europa,2026,0.5925826189442448,233,160.6185893416928,Batterijmarkt,1.0,False
+SK,Slowakije,Midden- en Zuidoost-Europa,2019,0.9853153287105751,51,31.510465753424658,Vlakke prijzen,1.0,False
+SK,Slowakije,Midden- en Zuidoost-Europa,2020,0.8740131957498664,115,29.95322404371585,Vlakke prijzen,1.0,False
+SK,Slowakije,Midden- en Zuidoost-Europa,2021,0.8980371753454354,24,82.08906849315069,Zon houdt waarde,0.992,False
+SK,Slowakije,Midden- en Zuidoost-Europa,2022,1.013410748193843,2,204.617698630137,Batterijmarkt,1.0,False
+SK,Slowakije,Midden- en Zuidoost-Europa,2023,0.8206184000750605,90,101.16123626373626,Zon houdt waarde,0.642,True
+SK,Slowakije,Midden- en Zuidoost-Europa,2024,0.6392393744550234,288,140.94997267759564,Batterijmarkt,0.7905,True
+SK,Slowakije,Midden- en Zuidoost-Europa,2025,0.5536778742369446,299,143.7686301369863,Batterijmarkt,0.654,True
+SK,Slowakije,Midden- en Zuidoost-Europa,2026,0.5553517455936675,259,172.50855799373042,Batterijmarkt,0.8885,False

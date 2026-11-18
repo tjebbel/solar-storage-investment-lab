@@ -1,0 +1,24 @@
+.venv/
+__pycache__/
+*.pyc
+.env
+data/*.db
+.DS_Store
+data/raw/
+reports/live_*/
+.venv/
+__pycache__/
+data/*.db
+_to_delete/
+data/ember_global/
+_to_delete_env.bak
+# analysepakketten
+data/*.db-journal
+resultaten/ml/*.joblib
+resultaten/kwaliteit/
+resultaten/*.log
+
+# Tableau
+tableau/*.twb
+tableau/Zon en opslag in Europa.twbx
+*.hyper

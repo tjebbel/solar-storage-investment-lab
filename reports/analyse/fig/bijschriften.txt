@@ -1,0 +1,30 @@
+01_capture_daling.png
+Deze grafiek laat zien dat de capture rate van zon tussen 2019 en 2025 in alle 37 biedzones is gedaald, gemiddeld met 0.35. De belangrijkste conclusie is: reken geen enkel zonproject meer door met de marktwaarde van voor 2023.
+
+02_jaar_tegen_land.png
+Deze grafiek laat zien dat het kalenderjaar 59% van de variatie in dagspreiding verklaart en het land 29%. De belangrijkste conclusie is: spreid een portefeuille over techniek en contractvorm, niet alleen over landen.
+
+03_uurprofiel.png
+Deze grafiek laat zien dat de prijs om 13 uur in 2025 op 49% van het jaargemiddelde lag, tegen 97% in 2019, en om 19 uur op 151%. De belangrijkste conclusie is: de waarde zit in verschuiven van middag naar avond, niet in meer middagproductie.
+
+04_rendement.png
+Deze grafiek laat zien dat wind in 73% van de zones meer oplevert dan de kapitaalkosten, zon in 25% en een batterij op dagmarkthandel in 8%. De belangrijkste conclusie is: zon vraagt een contract en opslag vraagt meer inkomstenbronnen.
+
+05_bijsturen.png
+Deze grafiek laat zien dat bijsturen op de onbalansprijs in 2023 73 duizend euro per MW extra opleverde en in 2026 nog 6 duizend, met een interval dat nul omvat. De belangrijkste conclusie is: neem deze inkomsten niet op in de basiscase en blijf meten.
+
+06_prijs_prognose.png
+Deze grafiek laat zien dat de Nederlandse dagmarktprijs eind 2026 weer het niveau van de crisis van 2022 nadert en dat het model voor 2027 148 tot 158 euro per MWh verwacht, met een brede marge. De belangrijkste conclusie is: toets elk plan ook op een terugkeer naar 87 euro.
+
+07_scenario_marge.png
+Deze grafiek laat zien dat zon zonder contract in 3 van de vijf scenario's in 2030 minder opbrengt dan het kost, en dat lagere kosten dat richting 2050 in de meeste scenario's goedmaken. De belangrijkste conclusie is: het rendement hangt aan de gasprijs en aan het tempo van flexibiliteit, niet aan de zon zelf.
+
+08_maand_uur.png
+Deze grafiek laat zien dat stroom van april tot augustus rond het middaguur 14% van de gemiddelde jaarprijs kost, met het dieptepunt in mei om 13 uur. De belangrijkste conclusie is: opslag en flexibele vraag verdienen hun geld in vijf maanden van het jaar.
+
+09_capture_per_maand.png
+Deze grafiek laat zien dat zon in mei 59% van de gemiddelde prijs ontvangt en alleen in jan, nov, dec ongeveer de volle prijs. De belangrijkste conclusie is: de maanden met de meeste opwek zijn de maanden met de laagste waarde per MWh.
+
+10_nederland_twee.png
+Deze grafiek laat zien dat de capture rate van zon in Nederland van 0.94 naar 0.59 ging, terwijl de dagmarktomzet van een batterij steeg van 9 naar 82 duizend euro per MW. De belangrijkste conclusie is: zon en opslag dekken elkaar af; samen in een portefeuille is het risico kleiner dan elk apart.
+

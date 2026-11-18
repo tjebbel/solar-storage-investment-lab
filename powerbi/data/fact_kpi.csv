@@ -1,0 +1,16 @@
+project,kpi,waarde
+Zon,IRR voor belasting,0.07198531672358513
+Zon,IRR na belasting,0.055355740040540696
+Zon,LCOE,76.48217972337717
+Zon,Capture price,77.42537890954162
+Zon,Capture rate,0.7889637771692498
+Zon,Kans onder hurdle,0.629
+Zon,IRR P10,0.037972305029630664
+Zon,IRR P90,0.10135545617341994
+Zon,Break-even capture rate (8%),0.828423280069319
+Batterij,Omzet perfecte voorkennis,473291.75045454554
+Batterij,Omzet naieve voorspelling,149994.2022792023
+Batterij,IRR,-0.039161578565835936
+Portefeuille,IRR,0.043310743123292916
+Impact,Vermeden t CO2 (uurfactor),2890.2919868395775
+Impact,Vermeden t CO2 (jaargemiddelde),3829.8670443473297

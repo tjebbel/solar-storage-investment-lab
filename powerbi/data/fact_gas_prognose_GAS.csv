@@ -1,0 +1,5 @@
+scenario,gas_2027_eur_mwh,stroom_2027_eur_mwh,laag,hoog,euro_stroom_per_euro_gas,sokkel_eur_mwh,marge_pct
+"termijnmarkt (85 nu, 66 eind 2027)",74.7083,153.5943,146.8094,160.3792,1.8076,18.5532,4.4174
+gas blijft op het niveau van nu (87),87.0,175.8125,168.0461,183.5788,1.8076,18.5532,4.4174
+gas terug naar begin 2026 (30),30.0,72.7805,69.5655,75.9956,1.8076,18.5532,4.4174
+"gasprijs die past bij EEX Duitse basislast 2027, slot 6 november 2026",69.7933,144.71,,,1.8076,18.5532,4.4174

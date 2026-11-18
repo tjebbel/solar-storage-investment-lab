@@ -1,0 +1,416 @@
+== /Users/tjebbelodeizen/projecten/tjebbel/set_up/energy_dashboard/solar-storage-investment-lab/.venv/bin/python -m eti.vs_dag ==
+  EIA Texas 2020 klaar
+  EIA Californie 2020 klaar
+  EIA Texas 2021 klaar
+  EIA Californie 2021 klaar
+  EIA Texas 2022 klaar
+  EIA Californie 2022 klaar
+  EIA Texas 2023 klaar
+  EIA Californie 2023 klaar
+  EIA Texas 2024 klaar
+  EIA Californie 2024 klaar
+  EIA Texas 2025 klaar
+  EIA Californie 2025 klaar
+  VS Texas (ERCOT): 2514 volle dagen, 2020-01-01 tot en met 2026-11-18
+  VS Californie (CAISO): 2493 volle dagen, 2020-01-01 tot en met 2026-11-15
+  -> fact_vs_dag.csv: 5007 rijen
+   klaar: 13:30:59
+== /Users/tjebbelodeizen/projecten/tjebbel/set_up/energy_dashboard/solar-storage-investment-lab/.venv/bin/python -m eti.zonprofiel ==
+/Users/tjebbelodeizen/projecten/tjebbel/set_up/energy_dashboard/solar-storage-investment-lab/src/eti/zonprofiel.py:29: DeprecationWarning: The 'generic' unit for NumPy timedelta is deprecated, and will raise an error in the future. This includes implicit conversion of bare integers (e.g. `+ 1`). Please use a specific unit instead.
+  begin = pd.Series(w.values, index=(pd.to_datetime(w.index) - pd.Timedelta(hours=1)).strftime("%Y-%m-%d %H:%M"))      # naar het begin van het uur
+ jaar  dekking  schaal_naar_ember  capture_gemeten  capture_instraling  capture_instraling_stempel  fout_door_stempel  correlatie_uur  correlatie_uur_stempel  negatieve_uren_met_zon  opbrengst_bij_negatieve_prijs
+ 2019    0.012             80.213            0.942               0.949                       0.950              0.002           0.928                   0.898                       2                            NaN
+ 2020    0.025             40.541            0.788               0.793                       0.804              0.011           0.970                   0.928                      54                          1.009
+ 2021    0.036             27.698            0.767               0.757                       0.760              0.003           0.955                   0.921                      45                          0.999
+ 2022    0.030             32.849            0.926               0.910                       0.921              0.011           0.956                   0.917                      60                          0.798
+ 2023    0.028             35.836            0.740               0.707                       0.723              0.017           0.952                   0.910                     181                          0.816
+ 2024    0.022             44.771            0.603               0.562                       0.595              0.033           0.931                   0.889                     376                          0.799
+ 2025    0.017             57.289            0.615               0.524                       0.560              0.036           0.855                   0.817                     469                          0.585
+ 2026      NaN                NaN            0.587               0.552                       0.589              0.037           0.889                   0.846                     353                          0.682
+   klaar: 13:30:59
+== /Users/tjebbelodeizen/projecten/tjebbel/set_up/energy_dashboard/solar-storage-investment-lab/.venv/bin/python -m eti.da ==
+  -> fact_profiel_DA.csv: 653 rijen
+  -> fact_waarden_DA.csv: 1370 rijen
+  -> fact_correlatie_DA.csv: 151 rijen
+  -> fact_segmentprofiel_DA.csv: 11 rijen
+  -> fact_gedragssegment_DA.csv: 37 rijen
+  -> fact_clusterkeuze_DA.csv: 5 rijen
+  -> fact_tijd_DA.csv: 297 rijen
+  -> fact_uitschieters_DA.csv: 180 rijen
+  -> fact_uitschieters_effect_DA.csv: 15 rijen
+  -> fact_zonejaar_DA.csv: 296 rijen
+  -> fact_zonejaar_schoon_DA.csv: 259 rijen
+  -> fact_drijfveren_DA.csv: 93 rijen
+  -> fact_tweelingen_DA.csv: 4 rijen
+   klaar: 13:31:25
+== /Users/tjebbelodeizen/projecten/tjebbel/set_up/energy_dashboard/solar-storage-investment-lab/.venv/bin/python -m eti.woordenboek ==
+  -> datawoordenboek.md en datawoordenboek.schema.json: 88 tabellen, 653 kolommen, 260 beschreven
+   klaar: 13:31:25
+== /Users/tjebbelodeizen/projecten/tjebbel/set_up/energy_dashboard/solar-storage-investment-lab/.venv/bin/python -m eti.sa ==
+/Users/tjebbelodeizen/projecten/tjebbel/set_up/energy_dashboard/solar-storage-investment-lab/src/eti/sa.py:248: DeprecationWarning: The 'generic' unit for NumPy timedelta is deprecated, and will raise an error in the future. This includes implicit conversion of bare integers (e.g. `+ 1`). Please use a specific unit instead.
+  for einde in pd.date_range(dag.datum.min() + pd.Timedelta(days=30), dag.datum.max(), freq="30D"):
+  -> fact_toetsen_SA.csv: 10 rijen
+  -> fact_abtest_SA.csv: 18 rijen
+  -> fact_abtest_dag_SA.csv: 1415 rijen
+  -> fact_regressie_SA.csv: 55 rijen
+  -> fact_regressie_voorspelling_SA.csv: 8 rijen
+  -> fact_cohort_SA.csv: 71 rijen
+  -> fact_cohort_overleving_SA.csv: 6 rijen
+  -> fact_cohort_duur_SA.csv: 25 rijen
+  -> fact_cohort_toets_SA.csv: 6 rijen
+  -> fact_cohort_maand_SA.csv: 504 rijen
+   klaar: 13:31:30
+== /Users/tjebbelodeizen/projecten/tjebbel/set_up/energy_dashboard/solar-storage-investment-lab/.venv/bin/python -m eti.prognose ==
+  -> fact_prognose_SA.csv: 200 rijen
+  -> fact_prognose_toets_SA.csv: 16 rijen
+  -> fact_prognose_jaar_SA.csv: 10 rijen
+  -> fact_decompositie_SA.csv: 376 rijen
+  -> fact_scenario_SA.csv: 30 rijen
+  aannames scenario's: {'tempo_eigen_zon_pp_per_jaar': 2.7688, 'tempo_buren_zon_pp_per_jaar': 1.4031, 'coef_eigen': -0.0023, 'coef_buren': -0.0104, 'capture_startjaar': 0.6153, 'startjaar': 2025.0}
+   klaar: 13:31:35
+== /Users/tjebbelodeizen/projecten/tjebbel/set_up/energy_dashboard/solar-storage-investment-lab/.venv/bin/python -m eti.vis ==
+  -> 01_capture_daling.png
+  -> 02_jaar_tegen_land.png
+  -> 03_uurprofiel.png
+  -> 04_rendement.png
+  -> 05_bijsturen.png
+  -> 06_prijs_prognose.png
+  -> 07_scenario_marge.png
+  -> 08_maand_uur.png
+  -> 09_capture_per_maand.png
+  -> 10_nederland_twee.png
+   klaar: 13:31:38
+== /Users/tjebbelodeizen/projecten/tjebbel/set_up/energy_dashboard/solar-storage-investment-lab/.venv/bin/python -m eti.rapport_grafieken ==
+  -> reports/analyse/periodiek/maand_2026-10: 3 grafieken | Prijs: 172 euro per MWh (+109%)
+  -> reports/analyse/periodiek/kwartaal_2026-07: 3 grafieken | Prijs: 128 euro per MWh (+60%)
+  -> reports/analyse/periodiek/jaar_2025: 3 grafieken | Prijs: 87 euro per MWh (+12%)
+   klaar: 13:31:40
+== /Users/tjebbelodeizen/projecten/tjebbel/set_up/energy_dashboard/solar-storage-investment-lab/.venv/bin/python -m eti.sql_run ==
+== 02_optimalisatie.sql ==
+traag                    query       30 rijen   16759.1 ms   <- raw_nl_uur
+snel                     query       30 rijen       0.5 ms   <- stg_nl_uur
+voorberekend             query       30 rijen       0.2 ms   <- mart_nl_dag
+
+== 04_dashboard.sql ==
+kerncijfers              query        2 rijen       0.4 ms   <- mart_zonejaar
+rangorde                 query        6 rijen       0.3 ms   <- mart_zonejaar
+verloop                  query       84 rijen       0.5 ms   <- mart_zonemaand
+maand_uur                query      288 rijen       4.5 ms   <- stg_nl_uur
+segmenten                query       23 rijen       0.3 ms   <- mart_zonejaar
+
+== 05_reconciliatie.sql ==
+rec_bronnen              tabel      288 rijen       4.0 ms   <- stg_land_jaar, stg_mix, raw_dim_land
+rec_vergelijk            tabel      182 rijen       1.9 ms   <- rec_bronnen
+a_niet_in_b              query       26 rijen       0.3 ms   <- rec_bronnen
+b_niet_in_a              query       16 rijen       0.3 ms   <- rec_bronnen
+waardeverschillen        query      100 rijen       0.4 ms   <- rec_vergelijk
+totalen                  query        7 rijen       0.3 ms   <- rec_vergelijk
+samenvatting             query        1 rijen       0.3 ms   <- rec_vergelijk
+oorzaken                 query        7 rijen       0.5 ms   <- rec_vergelijk
+
+Trage query 16759 ms, herschreven 0.5 ms (35944 keer sneller), voorberekend 0.2 ms.
+
+Kwaliteitscontroles: 11 ok
+   klaar: 13:31:58
+== /Users/tjebbelodeizen/projecten/tjebbel/set_up/energy_dashboard/solar-storage-investment-lab/.venv/bin/python -m eti.kwaliteit ==
+/Users/tjebbelodeizen/projecten/tjebbel/set_up/energy_dashboard/solar-storage-investment-lab/src/eti/kwaliteit.py:92: DeprecationWarning: The 'generic' unit for NumPy timedelta is deprecated, and will raise an error in the future. This includes implicit conversion of bare integers (e.g. `+ 1`). Please use a specific unit instead.
+  grens = t.max() - pd.Timedelta(days=dagen)
+/Users/tjebbelodeizen/projecten/tjebbel/set_up/energy_dashboard/solar-storage-investment-lab/src/eti/kwaliteit.py:92: DeprecationWarning: The 'generic' unit for NumPy timedelta is deprecated, and will raise an error in the future. This includes implicit conversion of bare integers (e.g. `+ 1`). Please use a specific unit instead.
+  grens = t.max() - pd.Timedelta(days=dagen)
+Datakwaliteit: 47 controles, 43 geslaagd, 0 kritiek, 4 waarschuwing.
+  [waarschuwing] fact_nl_uur_alle_jaren / versheid: laatste meting 3.1 dagen oud
+  [waarschuwing] fact_nl_uur_alle_jaren / verschuiving: prijs_eur_mwh: sterke verschuiving, PSI 2.36; mediaan laatste 30 dagen 221.4 tegen 80.3 daarvoor
+  [waarschuwing] fact_onbalans_nl / versheid: laatste meting 2.6 dagen oud
+  [waarschuwing] fact_onbalans_nl / verschuiving: prijs_tekort_eur_mwh: sterke verschuiving, PSI 2.87; mediaan laatste 30 dagen 223.4 tegen 89.0 daarvoor
+   klaar: 13:31:59
+== /Users/tjebbelodeizen/projecten/tjebbel/set_up/energy_dashboard/solar-storage-investment-lab/.venv/bin/python -m eti.ml_pijplijn ==
+                   model  cv_rmse  toets_rmse  toets_mae  toets_r2  gekozen  verbetering_op_de_lat_cv
+lat: gelijk aan dit jaar    0.219       0.266      0.185     0.642    False                     0.000
+                   ridge    0.231       0.332      0.228     0.439     True                    -0.056
+                bosmodel    0.242       0.348      0.243     0.385    False                    -0.107
+       gradient boosting    0.243       0.353      0.246     0.368    False                    -0.111
+            naaste buren    0.234       0.384      0.276     0.253    False                    -0.071
+belangrijkste kenmerken: verhouding (0.018), dagspreiding_tov_prijs (0.015), aandeel_gas_pct (0.004), voorspel_ratio (0.003)
+verslag: {'model': 'ridge', 'aanbevolen': 'lat: gelijk aan dit jaar', 'toetsjaar': 2025, 'toets': {'rmse': 0.3324324552186853, 'mae': 0.22801774281771403, 'r2': 0.4393352801651461}, 'lat': {'rmse': 0.26579822982453266, 'mae': 0.1845868164239378, 'r2': 0.6415731273092782}} {'jaar': 2026, 'rmse': 0.1792312232698296, 'mae': 0.12996022539102428, 'r2': 0.7930665329301197, 'lat_rmse': 0.1888617620045753}
+   klaar: 13:32:12
+== /Users/tjebbelodeizen/projecten/tjebbel/set_up/energy_dashboard/solar-storage-investment-lab/.venv/bin/python -m eti.rapport_auto alles ==
+/Users/tjebbelodeizen/projecten/tjebbel/set_up/energy_dashboard/solar-storage-investment-lab/src/eti/rapport_auto.py:125: DeprecationWarning: The 'generic' unit for NumPy timedelta is deprecated, and will raise an error in the future. This includes implicit conversion of bare integers (e.g. `+ 1`). Please use a specific unit instead.
+  week = vol[(vol.index < t) & (vol.index >= t - pd.Timedelta(days=7))]
+/Users/tjebbelodeizen/projecten/tjebbel/set_up/energy_dashboard/solar-storage-investment-lab/src/eti/rapport_auto.py:131: DeprecationWarning: The 'generic' unit for NumPy timedelta is deprecated, and will raise an error in the future. This includes implicit conversion of bare integers (e.g. `+ 1`). Please use a specific unit instead.
+  vorige = t - pd.Timedelta(days=7)
+/Users/tjebbelodeizen/projecten/tjebbel/set_up/energy_dashboard/solar-storage-investment-lab/src/eti/rapport_auto.py:133: DeprecationWarning: The 'generic' unit for NumPy timedelta is deprecated, and will raise an error in the future. This includes implicit conversion of bare integers (e.g. `+ 1`). Please use a specific unit instead.
+  ontbreekt = int((~d[(d.index <= t) & (d.index > t - pd.Timedelta(days=7))].volledig).sum())
+2026-11-18 13:32:14,180 INFO niet verstuurd: geen mailinstellingen (SMTP_HOST, RAPPORT_VAN, RAPPORT_AAN)
+2026-11-18 13:32:14,184 INFO niet verstuurd: geen mailinstellingen (SMTP_HOST, RAPPORT_VAN, RAPPORT_AAN)
+2026-11-18 13:32:14,810 INFO niet verstuurd: geen mailinstellingen (SMTP_HOST, RAPPORT_VAN, RAPPORT_AAN)
+2026-11-18 13:32:14,810 INFO geschreven: reports/analyse/periodiek/dag_2026-11-14/dagrapport.md
+2026-11-18 13:32:14,810 INFO geschreven: reports/analyse/periodiek/week_2026-W45/weekrapport.md
+2026-11-18 13:32:14,810 INFO geschreven: reports/analyse/periodiek/maand_2026-10/kpi_rapport.md
+   klaar: 13:32:14
+== /Users/tjebbelodeizen/projecten/tjebbel/set_up/energy_dashboard/solar-storage-investment-lab/.venv/bin/python src/eti/analyse_script.py ==
+2026-11-18 13:32:16,764 INFO gelezen fact_land_jaar.csv: 296 rijen, 19 kolommen, 7.4% lege cellen
+2026-11-18 13:32:16,765 INFO gelezen fact_flex_land.csv: 888 rijen, 7 kolommen, 4.9% lege cellen
+2026-11-18 13:32:16,821 INFO gelezen fact_ember_opwek_jaar.csv: 85398 rijen, 9 kolommen, 4.9% lege cellen
+2026-11-18 13:32:16,844 INFO opgeschoond: 296 zone-jaren, 37 zones, 7 hele jaren; 0 lege capture rates
+2026-11-18 13:32:16,854 INFO verkend: 258 zone-jaren; 7 van de 7 kolommen wijken af van een normale verdeling
+2026-11-18 13:32:17,288 INFO analyse: capture rate -0.35 (37 van 37 zones gedaald); rho zon-opslag -0.40; model R2 0.82
+2026-11-18 13:32:17,666 INFO grafieken bewaard: 1_capture_per_jaar.png, 2_zon_tegen_opslag.png, 3_correlaties.png
+SAMENVATTING
+Data: 296 zone-jaren, 37 biedzones, 2019 tot 2026; hele jaren tot en met 2025.
+
+1. De capture rate van zon daalde tussen 2019 en 2025 met gemiddeld 0,35 (95%-interval 0,31 tot 0,39).
+   Dat gebeurde in 37 van de 37 zones; toeval is vrijwel uitgesloten (p = 7.3e-12).
+2. Zon en opslag bewegen tegengesteld. In 2025 is de rangcorrelatie tussen de capture rate van zon en de batterij-omzet -0,40
+   over 37 zones (p = 0,014). In 37 van de 37 zones ging zon omlaag terwijl de batterij-omzet steeg.
+3. Een model op prijsniveau, opwekmix en jaar verklaart 82% van de batterij-omzet in zones die het niet zag
+   (gemiddelde fout 7.194 euro per MW). Belangrijkste kenmerken, met de toename van de fout als ze worden geschud: gem_prijs (0,85), jaar (0,27), aandeel_gas_pct (0,07).
+
+Mediaan batterij-omzet over alle hele jaren: 28.712 euro per MW; mediaan capture rate: 0,86.
+Beperkingen: zones bewegen samen, dus de onzekerheid is groter dan de toets aangeeft; de batterij-omzet is dagmarkthandel zonder netkosten.
+
+   klaar: 13:32:17
+== /Users/tjebbelodeizen/projecten/tjebbel/set_up/energy_dashboard/solar-storage-investment-lab/.venv/bin/python -m eti.verzadiging_gw ==
+/Users/tjebbelodeizen/projecten/tjebbel/set_up/energy_dashboard/solar-storage-investment-lab/src/eti/verzadiging_gw.py:152: DeprecationWarning: The 'generic' unit for NumPy timedelta is deprecated, and will raise an error in the future. This includes implicit conversion of bare integers (e.g. `+ 1`). Please use a specific unit instead.
+  laatste = x.datum > x.datum.max() - pd.Timedelta(days=365)
+/Users/tjebbelodeizen/projecten/tjebbel/set_up/energy_dashboard/solar-storage-investment-lab/src/eti/verzadiging_gw.py:170: DeprecationWarning: The 'generic' unit for NumPy timedelta is deprecated, and will raise an error in the future. This includes implicit conversion of bare integers (e.g. `+ 1`). Please use a specific unit instead.
+  schaal = anker / (a[a.datum > a.datum.max() - pd.Timedelta(days=365)].aangepast.mean() * 365)      # van achteraf bezien naar plan op gisteren
+                markt                        model                term   coef    se     p    n    r2
+     VS Texas (ERCOT)                        basis            vloot_gw -0.109 0.016 0.000 1972 0.370
+     VS Texas (ERCOT)              zonder schokken            vloot_gw -0.089 0.011 0.000 1879 0.356
+     VS Texas (ERCOT)                met tijdtrend            vloot_gw -0.088 0.033 0.010 1972 0.371
+     VS Texas (ERCOT)             met jaareffecten            vloot_gw -0.061 0.055 0.272 1972 0.395
+     VS Texas (ERCOT)                in logaritmen            ln_vloot -0.307 0.045 0.000 1972 0.359
+     VS Texas (ERCOT) als aandeel van de piekvraag           vloot_rel -0.097 0.014 0.000 1972 0.372
+     VS Texas (ERCOT)                 dagspreiding            vloot_gw -0.105 0.016 0.000 1972 0.373
+     VS Texas (ERCOT)                   piekpremie            vloot_gw -0.126 0.017 0.000 1972 0.370
+     VS Texas (ERCOT)                    daldiepte            vloot_gw -0.059 0.015 0.000 1972 0.387
+VS Californie (CAISO)                        basis            vloot_gw -0.085 0.011 0.000 2212 0.421
+VS Californie (CAISO)              zonder schokken            vloot_gw -0.085 0.012 0.000 2198 0.409
+VS Californie (CAISO)                met tijdtrend            vloot_gw -0.350 0.043 0.000 2212 0.498
+VS Californie (CAISO)             met jaareffecten            vloot_gw -0.202 0.075 0.009 2212 0.516
+VS Californie (CAISO)                in logaritmen            ln_vloot -0.130 0.040 0.002 2212 0.299
+VS Californie (CAISO) als aandeel van de piekvraag           vloot_rel -0.037 0.005 0.000 2212 0.422
+VS Californie (CAISO)                 dagspreiding            vloot_gw -0.069 0.010 0.000 2212 0.425
+VS Californie (CAISO)                   piekpremie            vloot_gw -0.092 0.009 0.000 2212 0.567
+VS Californie (CAISO)                    daldiepte            vloot_gw -0.041 0.012 0.001 2212 0.267
+ Texas min Californie   verschil tussen de markten      vloot_gw Texas  0.064 0.034 0.064 1921 0.333
+ Texas min Californie   verschil tussen de markten vloot_gw Californie -0.084 0.040 0.039 1921 0.333
+   klaar: 13:32:19
+== /Users/tjebbelodeizen/projecten/tjebbel/set_up/energy_dashboard/solar-storage-investment-lab/.venv/bin/python -m eti.gas ==
+ negatieve_uren   negatieve uren        259            0.562          0.025            0.505                   0.044        -0.654
+    capture_zon capture rate zon        259            0.649          0.043            0.534                   0.066         0.001
+
+             model                    term   coef    se      t     p    r2   n  landen
+  met jaareffecten          eigen zon (pp) -0.002 0.002 -1.120 0.274 0.744 199      25
+  met jaareffecten   zon bij de buren (pp) -0.010 0.004 -2.466 0.021 0.744 199      25
+   met de gasprijs          eigen zon (pp) -0.006 0.003 -1.871 0.074 0.570 199      25
+   met de gasprijs   zon bij de buren (pp) -0.023 0.004 -6.596 0.000 0.570 199      25
+   met de gasprijs gasprijs (euro per MWh)  0.001 0.000  9.336 0.000 0.570 199      25
+zonder jaar of gas          eigen zon (pp) -0.006 0.003 -1.964 0.061 0.501 199      25
+zonder jaar of gas   zon bij de buren (pp) -0.023 0.004 -6.656 0.000 0.501 199      25
+
+ jaar  maanden  gemeten  met_gasprijs  fout_met_gas_pct  vorig_jaar  fout_vorig_jaar_pct  gas_per_mwh_stroom
+ 2022       12  241.205       246.556             2.219     102.649              -57.443               1.890
+ 2023       12   96.135        91.054            -5.285     241.205              150.903               1.815
+ 2024       12   77.240        80.652             4.417      96.135               24.463               1.812
+ 2025       12   87.042        83.434            -4.145      77.240              -11.261               1.816
+ 2026       10  114.465       113.861            -0.527      86.305              -24.601               1.811
+
+                                                             scenario  gas_2027_eur_mwh  stroom_2027_eur_mwh    laag    hoog  euro_stroom_per_euro_gas  sokkel_eur_mwh  marge_pct
+                                   termijnmarkt (85 nu, 66 eind 2027)            74.708              153.594 146.809 160.379                     1.808          18.553      4.417
+                                 gas blijft op het niveau van nu (87)            87.000              175.812 168.046 183.579                     1.808          18.553      4.417
+                                       gas terug naar begin 2026 (30)            30.000               72.781  69.566  75.996                     1.808          18.553      4.417
+gasprijs die past bij EEX Duitse basislast 2027, slot 6 november 2026            69.793              144.710     NaN     NaN                     1.808          18.553      4.417
+
+   klaar: 13:32:21
+== /Users/tjebbelodeizen/projecten/tjebbel/set_up/energy_dashboard/solar-storage-investment-lab/.venv/bin/python -m eti.stapel ==
+jaar                                       2023      2024      2025      2026
+strategie                                                                    
+Achteraf de beste (bovengrens)         170355.0  189786.0  174712.0  219572.0
+Alleen FCR                             116179.0  152283.0  159651.0  202298.0
+Dagmarkt                                47758.0   52195.0   59506.0   83642.0
+Dagmarkt met bijsturen                 118373.0  101108.0   74896.0   89438.0
+Half FCR, half dagmarkt met bijsturen  117276.0  126696.0  117274.0  145868.0
+Per dag wisselen op gisteren           129070.0  139701.0  156991.0  193139.0
+ jaar  dagen  aandeel_dagen_fcr  correlatie_fcr_dagmarkt
+ 2023    327               0.56                    -0.06
+ 2024    334               0.75                     0.11
+ 2025    264               0.85                     0.07
+ 2026    293               0.93                     0.17
+ jaar  omzet_per_mw_jaar  fcr_onafgetopt_per_mw_jaar  slechtste_maand_per_mw_jaar
+ 2023           116179.0                    202599.0                      79200.0
+ 2024           152283.0                    154554.0                      74173.0
+ 2025           159651.0                    423294.0                      80398.0
+ 2026           202298.0                    202962.0                     102434.0
+   klaar: 13:32:23
+== /Users/tjebbelodeizen/projecten/tjebbel/set_up/energy_dashboard/solar-storage-investment-lab/.venv/bin/python -m eti.powerbi_toets ==
+dim_datum: 4383 dagen, 2019-01-01 tot en met 2030-12-31
+     land  jaar  maand  Gem prijs  Capture-prijs zon  Marge zon         Status zon  Prijs z-score Prijs signaal
+Nederland  2026      1     107.66             107.51      40.12             Gedekt           1.11        Gewoon
+Nederland  2026      2      92.94              79.86      12.47             Gedekt           0.38        Gewoon
+Nederland  2026      3      98.98              55.82     -11.57 Kosten niet gedekt           1.24        Gewoon
+Nederland  2026      4      84.50              47.66     -19.73 Kosten niet gedekt           0.03        Gewoon
+Nederland  2026      5      94.98              55.40     -11.99 Kosten niet gedekt           0.79        Gewoon
+Nederland  2026      6     110.15              73.36       5.97             Gedekt           2.04        Let op
+Nederland  2026      7     105.89              63.02      -4.37 Kosten niet gedekt           1.35        Gewoon
+Nederland  2026      8     125.41              66.64      -0.75 Kosten niet gedekt           2.81        Let op
+Nederland  2026      9     152.20              99.71      32.32             Gedekt           4.07         Schok
+Nederland  2026     10     171.93             133.57      66.18             Gedekt           3.49         Schok
+Nederland  2026     11     255.35             238.13     170.74             Gedekt           5.40         Schok
+   klaar: 13:32:23
+== /Users/tjebbelodeizen/projecten/tjebbel/set_up/energy_dashboard/solar-storage-investment-lab/.venv/bin/python -m eti.bronnen_toets ==
+ FIN      7                  4                3               1.424           1.354           1.437                0.000    structureel hoger in A                           0.000          2025                       0.978                   0.000
+ CHE      7                  0                7               1.624           1.519           1.705                0.000    structureel hoger in A                           0.000          2025                       7.883                   0.000
+ AUT      7                  0                7               0.550           0.362           1.007                0.857    structureel lager in A                           0.450          2025                      10.304                   4.637
+ SVN      7                  0                7               0.588           0.361           0.889                1.000    structureel lager in A                           0.412          2025                       1.505                   0.620
+ HUN      7                  1                6               0.742           0.730           0.757                1.000    structureel lager in A                           0.258          2025                      10.883                   2.808
+ ROU      7                  0                7               0.756           0.631           0.863                1.000    structureel lager in A                           0.244          2025                       4.960                   1.210
+ SVK      7                  0                7               0.851           0.832           0.953                1.000    structureel lager in A                           0.149          2025                       0.716                   0.107
+ PRT      7                  0                7               0.905           0.850           0.936                1.000    structureel lager in A                           0.095          2025                       8.854                   0.841
+ NLD      7                  7                0                 NaN             NaN             NaN                  NaN te weinig bruikbare jaren                           0.000          2025                      28.507                   0.000
+ NOR      7                  7                0                 NaN             NaN             NaN                  NaN te weinig bruikbare jaren                           0.000          2025                       0.537                   0.000
+ SRB      7                  7                0                 NaN             NaN             NaN                  NaN te weinig bruikbare jaren                           0.000          2025                       0.348                   0.000
+ LVA      7                  3                4               0.840           0.791           0.889                0.500       wisselend of gelijk                           0.000          2025                       0.820                   0.000
+ SWE      7                  3                4               0.855           0.844           1.020                0.750       wisselend of gelijk                           0.000          2025                       4.444                   0.000
+ HRV      7                  0                7               0.963           0.481           1.380                0.714       wisselend of gelijk                           0.000          2025                       1.314                   0.000
+ BEL      7                  0                7               0.981           0.896           1.064                0.714       wisselend of gelijk                           0.000          2025                      10.434                   0.000
+ BGR      7                  0                7               0.986           0.838           1.057                0.714       wisselend of gelijk                           0.000          2025                       6.933                   0.000
+ DNK      7                  0                7               1.036           0.904           1.084                0.429       wisselend of gelijk                           0.000          2025                       4.563                   0.000
+ LTU      7                  0                7               1.049           0.683           1.215                0.286       wisselend of gelijk                           0.000          2025                       1.650                   0.000
+ DEU      7                  0                7               1.056           0.953           1.082                0.286       wisselend of gelijk                           0.000          2025                      89.704                   0.000
+
+                 groep  land_jaren  mediane_fout_zonder_correctie  mediane_fout_met_correctie  aandeel_beter
+           alle landen          65                          0.128                       0.074          0.600
+structureel hoger in A          24                          0.147                       0.070          0.833
+structureel lager in A          18                          0.246                       0.021          0.889
+   wisselend of gelijk          23                          0.064                       0.089          0.130
+   klaar: 13:32:24
+== /Users/tjebbelodeizen/projecten/tjebbel/set_up/energy_dashboard/solar-storage-investment-lab/.venv/bin/python -m eti.segment_gevoeligheid ==
+  capture_hoog capture rate vanaf (zon houdt waarde)   0.75     0.8   0.600        296        16             0.054              2
+  capture_hoog capture rate vanaf (zon houdt waarde)   0.75     0.9   0.675        296         3             0.010              0
+  capture_hoog capture rate vanaf (zon houdt waarde)   0.75     1.1   0.825        296        21             0.071              2
+  capture_hoog capture rate vanaf (zon houdt waarde)   0.75     1.2   0.900        296        58             0.196              5
+
+Grensgevallen per jaar: {2019: 0, 2020: 0, 2021: 9, 2022: 4, 2023: 23, 2024: 16, 2025: 17, 2026: 11}
+Aandeel grensgevallen per segment: {'Batterijmarkt': 0.18, 'Middenveld': 0.88, 'Vlakke prijzen': 0.04, 'Zon houdt waarde': 0.49, 'Zonverzadigd': 0.67}
+       biedzone                  land                      regio  jaar  capture_zon  negatieve_uren  dagspreiding          segment  aandeel_gelijk  grensgeval
+             CH           Zwitserland           Noordwest-Europa  2025        0.594             303        79.502     Zonverzadigd           0.286        True
+             NL             Nederland           Noordwest-Europa  2025        0.615             584       123.819    Batterijmarkt           0.315        True
+            DK1     Denemarken (West)           Noordwest-Europa  2025        0.623             441       115.089       Middenveld           0.318        True
+            DK2     Denemarken (Oost)           Noordwest-Europa  2025        0.646             265       119.626       Middenveld           0.396        True
+             CZ              Tsjechie Midden- en Zuidoost-Europa  2025        0.566             322       129.721     Zonverzadigd           0.432        True
+            SE3       Zweden (Midden)                Scandinavie  2025        0.589             345        78.944     Zonverzadigd           0.500        True
+            NO2      Noorwegen (Zuid)                Scandinavie  2025        0.809              36        59.193   Vlakke prijzen           0.514        True
+            NO1      Noorwegen (Oslo)                Scandinavie  2025        0.806              57        58.276   Vlakke prijzen           0.552        True
+             FR             Frankrijk           Noordwest-Europa  2025        0.588             509        89.941     Zonverzadigd           0.578        True
+            SE4         Zweden (Zuid)                Scandinavie  2025        0.571             374       102.392     Zonverzadigd           0.636        True
+      IT-Sicily      Italie (Sicilie)                     Italie  2025        0.798               0        83.421 Zon houdt waarde           0.648        True
+             SK             Slowakije Midden- en Zuidoost-Europa  2025        0.554             299       143.769    Batterijmarkt           0.654        True
+       IT-South         Italie (Zuid)                     Italie  2025        0.802               0        79.553 Zon houdt waarde           0.660        True
+       IT-North        Italie (Noord)                     Italie  2025        0.838               0        68.244 Zon houdt waarde           0.674        True
+             ES                Spanje                     Iberie  2025        0.553             555        98.162     Zonverzadigd           0.704        True
+IT-Centre-North Italie (Midden-Noord)                     Italie  2025        0.832               0        74.495 Zon houdt waarde           0.760        True
+             HU             Hongarije Midden- en Zuidoost-Europa  2025        0.577             281       163.302    Batterijmarkt           0.786        True
+   klaar: 13:32:26
+== /Users/tjebbelodeizen/projecten/tjebbel/set_up/energy_dashboard/solar-storage-investment-lab/.venv/bin/python -m eti.batterij_bronnen ==
+ jaar  dagmarkt_per_mw  fcr_per_mw  fcr_dagen_in_data  afrr_capaciteit_50pct_per_mw  afrr_capaciteit_100pct_per_mw
+ 2022          82442.0         NaN                NaN                           NaN                            NaN
+ 2023          47320.0    116179.0              327.0                           NaN                            NaN
+ 2024          52710.0    152283.0              334.0                           NaN                            NaN
+ 2025          61041.0    159651.0              264.0                           NaN                            NaN
+ 2026          81874.0    201977.0              294.0                      118260.0                       236520.0
+
+2025, FCR-leden:
+biedzone  dagmarkt_per_mw  fcr_per_mw  fcr_gedeeld_door_dagmarkt
+      SI         68871.31   159651.37                       2.32
+   DE-LU         61173.28   159651.37                       2.61
+      NL         61041.40   159651.37                       2.62
+      AT         57899.40   159651.37                       2.76
+      BE         54696.02   159651.37                       2.92
+     DK1         52655.00   159651.37                       3.03
+      FR         41936.08   159651.37                       3.81
+      CH         38397.04   159651.37                       4.16
+
+2025: zones met dagmarkt boven de FCR-opbrengst: 0 van 37
+   klaar: 13:32:26
+== /Users/tjebbelodeizen/projecten/tjebbel/set_up/energy_dashboard/solar-storage-investment-lab/.venv/bin/python -m eti.batterij_irr ==
+                                                           400            0.169    NaN    NaN
+stapeling, vast transportrecht                             150            0.453    NaN    NaN
+                                                           200            0.321    NaN    NaN
+                                                           250            0.239    NaN    NaN
+                                                           280            0.203    NaN    NaN
+                                                           300            0.183    NaN    NaN
+                                                           350            0.141    NaN    NaN
+                                                           400            0.107    NaN    NaN
+tijdsafhankelijk transportrecht                            150           -0.066 -0.039 -0.037
+                                                           200           -0.131 -0.102 -0.109
+                                                           250              NaN -0.150 -0.161
+                                                           280              NaN -0.175 -0.187
+                                                           300              NaN -0.190 -0.203
+                                                           350              NaN -0.226 -0.238
+                                                           400              NaN -0.260 -0.270
+ cycli_per_dag                                                  netkosten  omzet_per_mw  levensduur_jaar  max_capex_per_kwh_voor_8pct  max_capex_per_kwh_voor_5pct
+           1.0                                             geen netkosten       87194.0               15                        286.0                        333.0
+           1.0                            tijdsafhankelijk transportrecht       87194.0               15                         77.0                         88.0
+           2.0                                             geen netkosten       95754.0               10                        262.0                        295.0
+           2.0                            tijdsafhankelijk transportrecht       95754.0               10                         94.0                        105.0
+           2.0                                             geen netkosten      101704.0                8                        246.0                        273.0
+           2.0                            tijdsafhankelijk transportrecht      101704.0                8                        100.0                        110.0
+           1.0                             stapeling, vast transportrecht      305000.0               15                        451.0                        518.0
+           1.0                 stapeling, tijdsafhankelijk transportrecht      242500.0               15                        586.0                        680.0
+           1.0 stapeling zonder capaciteitsvergoedingen, tijdsafhankelijk      126600.0               15                        206.0                        238.0
+   klaar: 13:32:27
+== /Users/tjebbelodeizen/projecten/tjebbel/set_up/energy_dashboard/solar-storage-investment-lab/.venv/bin/python -m eti.schokjaar ==
+IT-Centre-North           38.2          15.8              2.6              -0.1      25.0       1.1        0.1  12.0       10          0.7
+             AT           35.6          15.8              5.2               1.2      25.0       2.2       -1.2   9.6       10          0.7
+             HU           34.1          15.8              4.4              -0.1      25.0       1.9        0.1   7.2       10          0.7
+            SE4           33.8          15.8              0.3               2.9      25.0       0.1       -2.8  11.5       10          0.7
+       IT-South           33.2          15.8              2.6              -0.1      25.0       1.1        0.1   6.9       10          0.8
+            DK2           32.7          15.8              0.5              -2.7      25.0       0.2        2.6   4.9       10          0.8
+            DK1           32.0          15.8              0.5              -2.7      25.0       0.2        2.6   4.2       10          0.8
+             BE           31.6          15.8              7.0               5.9      25.0       3.0       -5.9   9.5       10          0.8
+            SE2           31.1          15.8              0.3               2.9      25.0       0.1       -2.8   8.8       10          0.8
+             RO           30.8          15.8              6.5               1.4      25.0       2.8       -1.4   4.5       10          0.8
+            SE1           29.4          15.8              0.3               2.9      25.0       0.1       -2.8   7.1       10          0.9
+             FR           28.9          15.8              1.2               0.3      25.0       0.5       -0.3   3.6       10          0.9
+            NO4           28.8          15.8              0.0               2.0      25.0       0.0       -2.0   5.8       10          0.9
+             NL           28.2          15.8             -2.5               1.3      25.0      -1.0       -1.3   5.4       10          0.9
+             CZ           26.9          15.8              0.3               0.1      25.0       0.1       -0.1   1.9       10          0.9
+            SE3           26.8          15.8              0.3               2.9      25.0       0.1       -2.8   4.5       10          0.9
+          DE-LU           25.9          15.8              1.6               0.5      25.0       0.7       -0.5   0.7       10          1.0
+             PL           21.5          15.8              1.6              -1.4      25.0       0.7        1.3  -5.5       10          1.2
+             ES           18.0          15.8              3.1              -1.0      25.0       1.3        1.0  -9.4       10          1.4
+             FI           17.9          15.8              0.4              -0.2      25.0       0.2        0.2  -7.5       10          1.4
+             PT           17.1          15.8              4.4              -0.7      25.0       1.9        0.7 -10.5       10          1.5
+             GR           11.9          15.8              0.2               1.3      25.0       0.1       -1.3 -11.9       10          2.1
+             CH            1.7           0.1              2.8               0.1       0.2       1.2       -0.1   0.5        5          0.1
+
+Gemiddeld over 28 zones met tien maanden: {'prijsstijging': 33.0, 'door_gas': 25.0, 'door_zon': 0.7, 'door_wind': -0.9, 'rest': 8.1} aandeel gas: 0.759
+   klaar: 13:32:27
+== /Users/tjebbelodeizen/projecten/tjebbel/set_up/energy_dashboard/solar-storage-investment-lab/.venv/bin/python -m unittest discover -s tests ==
+......./Users/tjebbelodeizen/projecten/tjebbel/set_up/energy_dashboard/solar-storage-investment-lab/src/eti/verzadiging_gw.py:163: DeprecationWarning: The 'generic' unit for NumPy timedelta is deprecated, and will raise an error in the future. This includes implicit conversion of bare integers (e.g. `+ 1`). Please use a specific unit instead.
+  laatste = x[x.datum > x.datum.max() - pd.Timedelta(days=365)]
+/Users/tjebbelodeizen/projecten/tjebbel/set_up/energy_dashboard/solar-storage-investment-lab/src/eti/verzadiging_gw.py:152: DeprecationWarning: The 'generic' unit for NumPy timedelta is deprecated, and will raise an error in the future. This includes implicit conversion of bare integers (e.g. `+ 1`). Please use a specific unit instead.
+  laatste = x.datum > x.datum.max() - pd.Timedelta(days=365)
+/Users/tjebbelodeizen/projecten/tjebbel/set_up/energy_dashboard/solar-storage-investment-lab/src/eti/verzadiging_gw.py:170: DeprecationWarning: The 'generic' unit for NumPy timedelta is deprecated, and will raise an error in the future. This includes implicit conversion of bare integers (e.g. `+ 1`). Please use a specific unit instead.
+  schaal = anker / (a[a.datum > a.datum.max() - pd.Timedelta(days=365)].aangepast.mean() * 365)      # van achteraf bezien naar plan op gisteren
+/Users/tjebbelodeizen/projecten/tjebbel/set_up/energy_dashboard/solar-storage-investment-lab/src/eti/verzadiging_gw.py:163: DeprecationWarning: The 'generic' unit for NumPy timedelta is deprecated, and will raise an error in the future. This includes implicit conversion of bare integers (e.g. `+ 1`). Please use a specific unit instead.
+  laatste = x[x.datum > x.datum.max() - pd.Timedelta(days=365)]
+/Users/tjebbelodeizen/projecten/tjebbel/set_up/energy_dashboard/solar-storage-investment-lab/src/eti/verzadiging_gw.py:152: DeprecationWarning: The 'generic' unit for NumPy timedelta is deprecated, and will raise an error in the future. This includes implicit conversion of bare integers (e.g. `+ 1`). Please use a specific unit instead.
+  laatste = x.datum > x.datum.max() - pd.Timedelta(days=365)
+/Users/tjebbelodeizen/projecten/tjebbel/set_up/energy_dashboard/solar-storage-investment-lab/src/eti/verzadiging_gw.py:170: DeprecationWarning: The 'generic' unit for NumPy timedelta is deprecated, and will raise an error in the future. This includes implicit conversion of bare integers (e.g. `+ 1`). Please use a specific unit instead.
+  schaal = anker / (a[a.datum > a.datum.max() - pd.Timedelta(days=365)].aangepast.mean() * 365)      # van achteraf bezien naar plan op gisteren
+/Users/tjebbelodeizen/projecten/tjebbel/set_up/energy_dashboard/solar-storage-investment-lab/.venv/lib/python3.13/site-packages/pandas/core/indexes/base.py:671: ResourceWarning: unclosed database in <sqlite3.Connection object at 0x1180a04f0>
+  result._references.add_index_reference(result)
+ResourceWarning: Enable tracemalloc to get the object allocation traceback
+......................../Users/tjebbelodeizen/projecten/tjebbel/set_up/energy_dashboard/solar-storage-investment-lab/src/eti/zonprofiel.py:29: DeprecationWarning: The 'generic' unit for NumPy timedelta is deprecated, and will raise an error in the future. This includes implicit conversion of bare integers (e.g. `+ 1`). Please use a specific unit instead.
+  begin = pd.Series(w.values, index=(pd.to_datetime(w.index) - pd.Timedelta(hours=1)).strftime("%Y-%m-%d %H:%M"))      # naar het begin van het uur
+.
+----------------------------------------------------------------------
+Ran 203 tests in 14.688s
+
+OK
+3 van 4 waarden kloppen; maanden in de export: 2 van 2
+ maand      maat verwacht power_bi  klopt
+     2 Gem prijs     20.0     21.0  False
+   klaar: 13:32:44

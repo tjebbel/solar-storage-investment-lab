@@ -1,0 +1,14 @@
+Issue Type,Summary,Description,Story Points,Labels,Sprint
+Epic,Data foundation,Reliable hourly market data in a star schema,,data,
+Story,Load day-ahead prices,"As an analyst I want hourly prices in the warehouse so that I can compute capture rates. Acceptance: 8,784 rows for 2024; rerun adds no duplicates.",3,data,Sprint 1
+Story,Parse ENTSO-E XML,"As an analyst I want to read ENTSO-E documents so that I can replace synthetic data. Acceptance: sample file gives 4 points; position 1 = start time.",3,data,Sprint 1
+Epic,Market analytics,Quantify solar cannibalisation,,analytics,
+Story,Capture rate by month,"As an investor I want the solar capture rate by month so that I can see seasonal value. Acceptance: matches SQL and Python within 0.001.",2,analytics,Sprint 1
+Story,Cannibalisation regression,"As an investor I want the price effect of extra solar so that I can stress future revenues. Acceptance: slope and R² reported.",2,analytics,Sprint 2
+Epic,Investment case,Return and risk of solar and storage,,finance,
+Story,Solar IRR and LCOE,"As an investment committee member I want IRR, NPV and LCOE so that I can compare with the hurdle rate. Acceptance: unit tests for NPV/IRR.",5,finance,Sprint 2
+Story,Monte Carlo risk,"As an investment committee member I want P10/P50/P90 and the probability below hurdle so that I see downside risk.",3,finance,Sprint 2
+Story,Battery arbitrage,"As an investor I want an upper bound for battery arbitrage so that I can judge whether storage is worth adding. Acceptance: O(n) equals brute force on 200 random days.",5,finance,Sprint 3
+Epic,Impact,Avoided emissions done honestly,,esg,
+Story,Hourly avoided emissions,"As an ESG analyst I want avoided CO2 with an hourly factor versus a yearly average so that I avoid overstating impact.",3,esg,Sprint 3
+Story,Power BI report,"As a stakeholder I want a one-page report with KPIs and the capture-rate chart so that I can decide quickly.",5,reporting,Sprint 4

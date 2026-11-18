@@ -1,0 +1,6 @@
+model,cv_rmse,toets_rmse,toets_mae,toets_r2,beste_instelling,gekozen,verbetering_op_de_lat_cv
+lat: gelijk aan dit jaar,0.21855989518171742,0.26579822982453266,0.1845868164239378,0.6415731273092782,,False,0.0
+ridge,0.23072133310224818,0.3324324552186853,0.22801774281771403,0.4393352801651461,"{""keuze__k"": ""all"", ""model__alpha"": 100.0}",True,-0.05564350179807409
+bosmodel,0.24193731772985816,0.34808231872293316,0.24259568471508713,0.38530409340572425,"{""keuze__k"": ""all"", ""model__max_depth"": 3, ""model__min_samples_leaf"": 2}",False,-0.10696117203343292
+gradient boosting,0.24281461687796113,0.35301493424437225,0.24623082408979147,0.3677591518816067,"{""keuze__k"": ""all"", ""model__learning_rate"": 0.03, ""model__max_depth"": 2, ""model__n_estimators"": 100}",False,-0.11097517079278241
+naaste buren,0.23398998880087393,0.38366273686100294,0.2757935386096413,0.2532149150891203,"{""keuze__k"": 8, ""model__n_neighbors"": 15}",False,-0.070598924868295

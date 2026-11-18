@@ -1,0 +1,11 @@
+inkomsten,netaansluiting,omzet_per_mw,netkosten_per_mw,na_netkosten_per_mw,capex_per_kw,daling_per_jaar,irr
+Dagmarkt met bijsturen (eigen model),"geen netkosten, zoals in de memo",87193.50716614419,0.0,87193.50716614419,560.0,0.0,0.08404988482594491
+Dagmarkt met bijsturen (eigen model),"tijdsafhankelijk transportrecht, zonder omzetverlies",87193.50716614419,57000.0,30193.50716614419,560.0,0.0,
+Dagmarkt met bijsturen (eigen model),vast transportrecht,87193.50716614419,150000.0,-62806.49283385581,560.0,0.0,
+Volledige stapeling (benchmark),vast transportrecht,305000.0,150000.0,155000.0,560.0,0.0,0.20305769488215444
+Volledige stapeling (benchmark),tijdsafhankelijk transportrecht,242500.0,57000.0,185500.0,560.0,0.0,0.2776841656863689
+"Volledige stapeling, jaar tot en met september 2026","vast transportrecht, netkosten uit dezelfde meting",279000.0,140000.0,139000.0,560.0,0.0,0.17022365137934684
+"Volledige stapeling, omzet daalt 10 procent per jaar in vijf jaar",vast transportrecht,305000.0,150000.0,155000.0,560.0,0.1,
+"Volledige stapeling, omzet daalt 10 procent per jaar in vijf jaar",tijdsafhankelijk transportrecht,242500.0,57000.0,185500.0,560.0,0.1,0.154214184731245
+Stapeling zonder capaciteitsvergoedingen,vast transportrecht,189100.0,150000.0,39100.0,560.0,0.0,
+Stapeling zonder capaciteitsvergoedingen,tijdsafhankelijk transportrecht,126600.0,57000.0,69600.0,560.0,0.0,0.01775984928011894

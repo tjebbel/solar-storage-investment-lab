@@ -1,0 +1,44 @@
+{
+ "Huidig beleid|standalone NL-tarief": {
+  "solar_irr": 0.09849940940737723,
+  "battery_irr": -0.11709077581763269,
+  "solar_rev_y1": 1548507.5781908324
+ },
+ "Huidig beleid|hybride achter 1 aansluiting": {
+  "solar_irr": 0.09849940940737723,
+  "battery_irr": -0.03309747651219366,
+  "solar_rev_y1": 1548507.5781908324
+ },
+ "Huidig beleid|fund": {
+  "net_irr": 0.07080428466200828,
+  "tvpi": 1.4642583879207725
+ },
+ "Orderly (Net Zero)|standalone NL-tarief": {
+  "solar_irr": 0.09339352443814278,
+  "battery_irr": -0.034245593398809435,
+  "solar_rev_y1": 1670115.2370999842
+ },
+ "Orderly (Net Zero)|hybride achter 1 aansluiting": {
+  "solar_irr": 0.09339352443814278,
+  "battery_irr": 0.018923741728067402,
+  "solar_rev_y1": 1670115.2370999842
+ },
+ "Orderly (Net Zero)|fund": {
+  "net_irr": 0.06550731375813484,
+  "tvpi": 1.4238942584414855
+ },
+ "Disorderly|standalone NL-tarief": {
+  "solar_irr": 0.07501914694905282,
+  "battery_irr": -0.017509442716836927,
+  "solar_rev_y1": 1751187.0097060855
+ },
+ "Disorderly|hybride achter 1 aansluiting": {
+  "solar_irr": 0.07501914694905282,
+  "battery_irr": 0.027740679234266288,
+  "solar_rev_y1": 1751187.0097060855
+ },
+ "Disorderly|fund": {
+  "net_irr": 0.04638774856925011,
+  "tvpi": 1.2862220504235002
+ }
+}

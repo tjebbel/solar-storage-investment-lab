@@ -1,0 +1,27 @@
+iso3,jaren,dekkingsgat_jaren,bruikbare_jaren,verhouding_mediaan,verhouding_min,verhouding_max,aandeel_jaren_lager,regime,geschat_ontbrekend_aandeel_zon,laatste_jaar,ember_zon_twh_laatste_jaar,geschat_ontbrekend_twh
+ESP,7,0,7,1.054,1.015,1.171,0.0,structureel hoger in A,0.0,2025,63.032,0.0
+FRA,7,0,7,1.057,1.0,1.074,0.0,structureel hoger in A,0.0,2025,32.013,0.0
+ITA,7,0,7,1.058,1.047,1.11,0.0,structureel hoger in A,0.0,2025,44.641,0.0
+CZE,7,0,7,1.089,0.982,1.208,0.14285714285714285,structureel hoger in A,0.0,2025,4.392,0.0
+POL,7,1,6,1.185,1.014,1.314,0.0,structureel hoger in A,0.0,2025,19.543,0.0
+GRC,7,0,7,1.19,1.044,1.244,0.0,structureel hoger in A,0.0,2025,11.38,0.0
+EST,7,1,6,1.271,0.778,1.335,0.16666666666666666,structureel hoger in A,0.0,2025,1.163,0.0
+FIN,7,4,3,1.424,1.354,1.437,0.0,structureel hoger in A,0.0,2025,0.978,0.0
+CHE,7,0,7,1.624,1.519,1.705,0.0,structureel hoger in A,0.0,2025,7.883,0.0
+AUT,7,0,7,0.55,0.362,1.007,0.8571428571428571,structureel lager in A,0.44999999999999996,2025,10.304,4.6368
+SVN,7,0,7,0.588,0.361,0.889,1.0,structureel lager in A,0.41200000000000003,2025,1.505,0.6200600000000001
+HUN,7,1,6,0.742,0.73,0.757,1.0,structureel lager in A,0.258,2025,10.883,2.807814
+ROU,7,0,7,0.756,0.631,0.863,1.0,structureel lager in A,0.244,2025,4.96,1.21024
+SVK,7,0,7,0.851,0.832,0.953,1.0,structureel lager in A,0.14900000000000002,2025,0.716,0.10668400000000001
+PRT,7,0,7,0.905,0.85,0.936,1.0,structureel lager in A,0.09499999999999997,2025,8.854,0.8411299999999997
+NLD,7,7,0,,,,,te weinig bruikbare jaren,0.0,2025,28.507,0.0
+NOR,7,7,0,,,,,te weinig bruikbare jaren,0.0,2025,0.537,0.0
+SRB,7,7,0,,,,,te weinig bruikbare jaren,0.0,2025,0.348,0.0
+LVA,7,3,4,0.8400000000000001,0.791,0.889,0.5,wisselend of gelijk,0.0,2025,0.82,0.0
+SWE,7,3,4,0.8554999999999999,0.844,1.02,0.75,wisselend of gelijk,0.0,2025,4.444,0.0
+HRV,7,0,7,0.963,0.481,1.38,0.7142857142857143,wisselend of gelijk,0.0,2025,1.314,0.0
+BEL,7,0,7,0.981,0.896,1.064,0.7142857142857143,wisselend of gelijk,0.0,2025,10.434,0.0
+BGR,7,0,7,0.986,0.838,1.057,0.7142857142857143,wisselend of gelijk,0.0,2025,6.933,0.0
+DNK,7,0,7,1.036,0.904,1.084,0.42857142857142855,wisselend of gelijk,0.0,2025,4.563,0.0
+LTU,7,0,7,1.049,0.683,1.215,0.2857142857142857,wisselend of gelijk,0.0,2025,1.65,0.0
+DEU,7,0,7,1.056,0.953,1.082,0.2857142857142857,wisselend of gelijk,0.0,2025,89.704,0.0

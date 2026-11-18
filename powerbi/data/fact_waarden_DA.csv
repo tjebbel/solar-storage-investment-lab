@@ -1,0 +1,1371 @@
+dataset,kolom,waarde,aantal
+dim_datum,datum,2019-01-01,1
+dim_datum,datum,2026-12-30,1
+dim_datum,datum,2027-01-05,1
+dim_datum,datum,2027-01-04,1
+dim_datum,datum,2027-01-03,1
+dim_datum,datum,2027-01-02,1
+dim_datum,datum,2027-01-01,1
+dim_datum,datum,2026-12-31,1
+dim_datum,datum,2026-12-29,1
+dim_datum,datum,2026-11-17,1
+dim_datum,datum,overig (4373 waarden),4373
+dim_datum,maandnaam,januari,372
+dim_datum,maandnaam,maart,372
+dim_datum,maandnaam,mei,372
+dim_datum,maandnaam,juli,372
+dim_datum,maandnaam,augustus,372
+dim_datum,maandnaam,oktober,372
+dim_datum,maandnaam,december,372
+dim_datum,maandnaam,april,360
+dim_datum,maandnaam,juni,360
+dim_datum,maandnaam,september,360
+dim_datum,maandnaam,overig (2 waarden),699
+dim_datum,jaarmaand,2019-01,31
+dim_datum,jaarmaand,2023-07,31
+dim_datum,jaarmaand,2027-01,31
+dim_datum,jaarmaand,2026-12,31
+dim_datum,jaarmaand,2026-10,31
+dim_datum,jaarmaand,2026-08,31
+dim_datum,jaarmaand,2026-07,31
+dim_datum,jaarmaand,2026-05,31
+dim_datum,jaarmaand,2026-03,31
+dim_datum,jaarmaand,2026-01,31
+dim_datum,jaarmaand,overig (134 waarden),4073
+dim_datum,jaarkwartaal,2030 K4,92
+dim_datum,jaarkwartaal,2022 K4,92
+dim_datum,jaarkwartaal,2028 K3,92
+dim_datum,jaarkwartaal,2027 K4,92
+dim_datum,jaarkwartaal,2027 K3,92
+dim_datum,jaarkwartaal,2029 K3,92
+dim_datum,jaarkwartaal,2026 K4,92
+dim_datum,jaarkwartaal,2026 K3,92
+dim_datum,jaarkwartaal,2029 K4,92
+dim_datum,jaarkwartaal,2025 K4,92
+dim_datum,jaarkwartaal,overig (38 waarden),3463
+dim_datum,weekdag,dinsdag,627
+dim_datum,weekdag,woensdag,626
+dim_datum,weekdag,donderdag,626
+dim_datum,weekdag,vrijdag,626
+dim_datum,weekdag,zaterdag,626
+dim_datum,weekdag,zondag,626
+dim_datum,weekdag,maandag,626
+dim_datum,feestdag,Nieuwjaarsdag,12
+dim_datum,feestdag,Eerste paasdag,12
+dim_datum,feestdag,Tweede paasdag,12
+dim_datum,feestdag,Koningsdag,12
+dim_datum,feestdag,Bevrijdingsdag,12
+dim_datum,feestdag,Hemelvaartsdag,12
+dim_datum,feestdag,Eerste pinksterdag,12
+dim_datum,feestdag,Tweede pinksterdag,12
+dim_datum,feestdag,Eerste kerstdag,12
+dim_datum,feestdag,Tweede kerstdag,12
+dim_datum,werkdag,True,3053
+dim_datum,werkdag,False,1330
+dim_datum,seizoen,zomerhalfjaar,2196
+dim_datum,seizoen,winterhalfjaar,2187
+dim_land,iso3,AFG,1
+dim_land,iso3,LBN,1
+dim_land,iso3,NCL,1
+dim_land,iso3,NZL,1
+dim_land,iso3,NIC,1
+dim_land,iso3,NER,1
+dim_land,iso3,NGA,1
+dim_land,iso3,PRK,1
+dim_land,iso3,MKD,1
+dim_land,iso3,NOR,1
+dim_land,iso3,overig (199 waarden),199
+dim_land,land,Afghanistan,1
+dim_land,land,Lebanon,1
+dim_land,land,New Caledonia,1
+dim_land,land,New Zealand,1
+dim_land,land,Nicaragua,1
+dim_land,land,Niger,1
+dim_land,land,Nigeria,1
+dim_land,land,North Korea,1
+dim_land,land,North Macedonia,1
+dim_land,land,Norway,1
+dim_land,land,overig (199 waarden),199
+dim_land,continent,Africa,55
+dim_land,continent,Asia,49
+dim_land,continent,Europe,42
+dim_land,continent,North America,33
+dim_land,continent,Oceania,15
+dim_land,continent,South America,15
+dim_land,ember_regio,Africa,55
+dim_land,ember_regio,Latin America and Caribbean,45
+dim_land,ember_regio,Europe,43
+dim_land,ember_regio,Asia,34
+dim_land,ember_regio,Oceania,15
+dim_land,ember_regio,Middle East,14
+dim_land,ember_regio,North America,3
+dim_land,eu,False,182
+dim_land,eu,True,27
+dim_land,oecd,False,171
+dim_land,oecd,True,38
+dim_land,g20,False,190
+dim_land,g20,True,19
+dim_land,studieregio,Rest van de wereld,165
+dim_land,studieregio,Europa,41
+dim_land,studieregio,China,1
+dim_land,studieregio,Nederland,1
+dim_land,studieregio,VS,1
+dim_markt,markt,Belgie,1
+dim_markt,markt,Noorwegen (Oslo),1
+dim_markt,markt,Noorwegen (Zuid),1
+dim_markt,markt,Oostenrijk,1
+dim_markt,markt,Polen,1
+dim_markt,markt,Portugal,1
+dim_markt,markt,Roemenie,1
+dim_markt,markt,Servie,1
+dim_markt,markt,Slovenie,1
+dim_markt,markt,Slowakije,1
+dim_markt,markt,overig (31 waarden),31
+dim_markt,studieregio,Europa,39
+dim_markt,studieregio,Rest van de wereld,1
+dim_markt,studieregio,Nederland,1
+dim_regio,regio,Nederland,1
+dim_regio,regio,Europa (Spanje),1
+dim_regio,regio,VS (Texas),1
+dim_regio,regio,China,1
+dim_regio,regio,India (RvdW),1
+fact_afrr_energie_nl,kwartier_utc,2023-01-01 00:00:00,1
+fact_afrr_energie_nl,kwartier_utc,2024-10-27 04:00:00,1
+fact_afrr_energie_nl,kwartier_utc,2024-10-27 06:15:00,1
+fact_afrr_energie_nl,kwartier_utc,2024-10-27 06:00:00,1
+fact_afrr_energie_nl,kwartier_utc,2024-10-27 05:45:00,1
+fact_afrr_energie_nl,kwartier_utc,2024-10-27 05:30:00,1
+fact_afrr_energie_nl,kwartier_utc,2024-10-27 05:15:00,1
+fact_afrr_energie_nl,kwartier_utc,2024-10-27 05:00:00,1
+fact_afrr_energie_nl,kwartier_utc,2024-10-27 04:45:00,1
+fact_afrr_energie_nl,kwartier_utc,2024-10-27 04:30:00,1
+fact_afrr_energie_nl,kwartier_utc,overig (95454 waarden),95454
+fact_australie,regio,Australie (Zuid),8
+fact_australie,regio,Australie (Victoria),8
+fact_australie,regio,Australie (Queensland),8
+fact_australie,regio,Australie (NSW),8
+fact_australie,regio,Australie (Tasmanie),8
+fact_australie_dagprofiel,regio,Australie (Zuid),8
+fact_australie_dagprofiel,regio,Australie (Victoria),8
+fact_australie_dagprofiel,regio,Australie (Queensland),8
+fact_australie_dagprofiel,regio,Australie (NSW),8
+fact_batterij_breakeven_BI,netkosten,geen netkosten,3
+fact_batterij_breakeven_BI,netkosten,tijdsafhankelijk transportrecht,3
+fact_batterij_breakeven_BI,netkosten,"stapeling, vast transportrecht",1
+fact_batterij_breakeven_BI,netkosten,"stapeling, tijdsafhankelijk transportrecht",1
+fact_batterij_breakeven_BI,netkosten,"stapeling zonder capaciteitsvergoedingen, tijdsafhankelijk",1
+fact_batterij_bronnen_BB,land,Italie (Sicilie),8
+fact_batterij_bronnen_BB,land,Oostenrijk,8
+fact_batterij_bronnen_BB,land,Denemarken (Oost),8
+fact_batterij_bronnen_BB,land,Denemarken (West),8
+fact_batterij_bronnen_BB,land,Griekenland,8
+fact_batterij_bronnen_BB,land,Zwitserland,8
+fact_batterij_bronnen_BB,land,Zweden (Zuid),8
+fact_batterij_bronnen_BB,land,Polen,8
+fact_batterij_bronnen_BB,land,Spanje,8
+fact_batterij_bronnen_BB,land,Portugal,8
+fact_batterij_bronnen_BB,land,overig (27 waarden),216
+fact_batterij_bronnen_BB,biedzone,IT-Sicily,8
+fact_batterij_bronnen_BB,biedzone,AT,8
+fact_batterij_bronnen_BB,biedzone,DK2,8
+fact_batterij_bronnen_BB,biedzone,DK1,8
+fact_batterij_bronnen_BB,biedzone,GR,8
+fact_batterij_bronnen_BB,biedzone,CH,8
+fact_batterij_bronnen_BB,biedzone,SE4,8
+fact_batterij_bronnen_BB,biedzone,PL,8
+fact_batterij_bronnen_BB,biedzone,ES,8
+fact_batterij_bronnen_BB,biedzone,PT,8
+fact_batterij_bronnen_BB,biedzone,overig (27 waarden),216
+fact_batterij_bronnen_BB,fcr_lid,False,232
+fact_batterij_bronnen_BB,fcr_lid,True,64
+fact_batterij_bronnen_BB,grootste_bron,dagmarkt,264
+fact_batterij_bronnen_BB,grootste_bron,FCR,32
+fact_batterij_irr,strategie,Dagmarkt,12
+fact_batterij_irr,strategie,"Gestapeld vooraf, onbalans plan op gisteren",12
+fact_batterij_irr,strategie,"Gestapeld vooraf, onbalans op dagmarktplan",12
+fact_batterij_irr,strategie,Onbalans perfect,12
+fact_batterij_irr_grid_BI,netkosten,geen netkosten,21
+fact_batterij_irr_grid_BI,netkosten,tijdsafhankelijk transportrecht,21
+fact_batterij_irr_grid_BI,netkosten,"stapeling, vast transportrecht",7
+fact_batterij_irr_grid_BI,netkosten,"stapeling, tijdsafhankelijk transportrecht",7
+fact_batterij_irr_grid_BI,netkosten,"stapeling zonder capaciteitsvergoedingen, tijdsafhankelijk",7
+fact_batterij_stapeling,strategie,Dagmarkt,4
+fact_batterij_stapeling,strategie,Dagmarkt zonder overslaan,4
+fact_batterij_stapeling,strategie,Dagmarkt perfect,4
+fact_batterij_stapeling,strategie,Onbalans op dagmarktplan,4
+fact_batterij_stapeling,strategie,Onbalans plan op gisteren,4
+fact_batterij_stapeling,strategie,"Onbalans plan op gisteren, verliesdagen overgeslagen (niet uitvoerbaar)",4
+fact_batterij_stapeling,strategie,"Gestapeld vooraf, onbalans plan op gisteren",4
+fact_batterij_stapeling,strategie,"Gestapeld vooraf, onbalans op dagmarktplan",4
+fact_batterij_stapeling,strategie,Gestapeld achteraf (bovengrens),4
+fact_batterij_stapeling,strategie,Onbalans perfect,4
+fact_batterij_volledige_case,inkomsten,Dagmarkt met bijsturen (eigen model),3
+fact_batterij_volledige_case,inkomsten,Volledige stapeling (benchmark),2
+fact_batterij_volledige_case,inkomsten,"Volledige stapeling, omzet daalt 10 procent per jaar in vijf jaar",2
+fact_batterij_volledige_case,inkomsten,Stapeling zonder capaciteitsvergoedingen,2
+fact_batterij_volledige_case,inkomsten,"Volledige stapeling, jaar tot en met september 2026",1
+fact_batterij_volledige_case,netaansluiting,vast transportrecht,4
+fact_batterij_volledige_case,netaansluiting,tijdsafhankelijk transportrecht,3
+fact_batterij_volledige_case,netaansluiting,"geen netkosten, zoals in de memo",1
+fact_batterij_volledige_case,netaansluiting,"tijdsafhankelijk transportrecht, zonder omzetverlies",1
+fact_batterij_volledige_case,netaansluiting,"vast transportrecht, netkosten uit dezelfde meting",1
+fact_bronnen_land_RC,iso3,ESP,1
+fact_bronnen_land_RC,iso3,FRA,1
+fact_bronnen_land_RC,iso3,LTU,1
+fact_bronnen_land_RC,iso3,DNK,1
+fact_bronnen_land_RC,iso3,BGR,1
+fact_bronnen_land_RC,iso3,BEL,1
+fact_bronnen_land_RC,iso3,HRV,1
+fact_bronnen_land_RC,iso3,SWE,1
+fact_bronnen_land_RC,iso3,LVA,1
+fact_bronnen_land_RC,iso3,SRB,1
+fact_bronnen_land_RC,iso3,overig (16 waarden),16
+fact_bronnen_land_RC,regime,structureel hoger in A,9
+fact_bronnen_land_RC,regime,wisselend of gelijk,8
+fact_bronnen_land_RC,regime,structureel lager in A,6
+fact_bronnen_land_RC,regime,te weinig bruikbare jaren,3
+fact_bronnen_toets_RC,groep,alle landen,1
+fact_bronnen_toets_RC,groep,structureel hoger in A,1
+fact_bronnen_toets_RC,groep,structureel lager in A,1
+fact_bronnen_toets_RC,groep,wisselend of gelijk,1
+fact_ember_capaciteit_maand,ISO 3 Code,DNK,650
+fact_ember_capaciteit_maand,ISO 3 Code,NLD,650
+fact_ember_capaciteit_maand,ISO 3 Code,DEU,650
+fact_ember_capaciteit_maand,ISO 3 Code,PRT,645
+fact_ember_capaciteit_maand,ISO 3 Code,TWN,645
+fact_ember_capaciteit_maand,ISO 3 Code,CHN,645
+fact_ember_capaciteit_maand,ISO 3 Code,PHL,640
+fact_ember_capaciteit_maand,ISO 3 Code,FRA,640
+fact_ember_capaciteit_maand,ISO 3 Code,USA,640
+fact_ember_capaciteit_maand,ISO 3 Code,GBR,636
+fact_ember_capaciteit_maand,ISO 3 Code,overig (22 waarden),10638
+fact_ember_capaciteit_maand,Area,Denmark,780
+fact_ember_capaciteit_maand,Area,Netherlands,780
+fact_ember_capaciteit_maand,Area,Germany,780
+fact_ember_capaciteit_maand,Area,China,774
+fact_ember_capaciteit_maand,Area,Portugal,774
+fact_ember_capaciteit_maand,Area,Taiwan (China),774
+fact_ember_capaciteit_maand,Area,France,768
+fact_ember_capaciteit_maand,Area,United States,768
+fact_ember_capaciteit_maand,Area,The Philippines,768
+fact_ember_capaciteit_maand,Area,United Kingdom,762
+fact_ember_capaciteit_maand,Area,overig (22 waarden),13173
+fact_ember_capaciteit_maand,Continent,Europe,12666
+fact_ember_capaciteit_maand,Continent,Asia,4712
+fact_ember_capaciteit_maand,Continent,South America,1755
+fact_ember_capaciteit_maand,Continent,North America,768
+fact_ember_capaciteit_maand,Continent,Oceania,650
+fact_ember_capaciteit_maand,Continent,Africa,350
+fact_ember_capaciteit_maand,Source,Solar,7650
+fact_ember_capaciteit_maand,Source,Wind,3911
+fact_ember_capaciteit_maand,Source,Wind and solar,3822
+fact_ember_capaciteit_maand,Source,Onshore wind,3674
+fact_ember_capaciteit_maand,Source,Offshore wind,1607
+fact_ember_capaciteit_maand,Source,Unknown wind,237
+fact_ember_china_provincie,Area,China,3308
+fact_ember_china_provincie,Province,China (total),105
+fact_ember_china_provincie,Province,Anhui,104
+fact_ember_china_provincie,Province,Inner Mongolia,104
+fact_ember_china_provincie,Province,Yunnan,104
+fact_ember_china_provincie,Province,Xinjiang,104
+fact_ember_china_provincie,Province,Shanxi,104
+fact_ember_china_provincie,Province,Shanghai,104
+fact_ember_china_provincie,Province,Shandong,104
+fact_ember_china_provincie,Province,Shaanxi,104
+fact_ember_china_provincie,Province,Qinghai,104
+fact_ember_china_provincie,Province,overig (22 waarden),2267
+fact_ember_china_provincie,Electricity source,Coal,480
+fact_ember_china_provincie,Electricity source,Gas,480
+fact_ember_china_provincie,Electricity source,Clean,480
+fact_ember_china_provincie,Electricity source,Fossil,480
+fact_ember_china_provincie,Electricity source,Total generation,480
+fact_ember_china_provincie,Electricity source,Wind,477
+fact_ember_china_provincie,Electricity source,Solar,431
+fact_ember_cleantech_export,Area,Maldives,630
+fact_ember_cleantech_export,Area,Pakistan,630
+fact_ember_cleantech_export,Area,Myanmar,630
+fact_ember_cleantech_export,Area,Namibia,630
+fact_ember_cleantech_export,Area,Nepal,630
+fact_ember_cleantech_export,Area,Netherlands,630
+fact_ember_cleantech_export,Area,New Zealand,630
+fact_ember_cleantech_export,Area,Nicaragua,630
+fact_ember_cleantech_export,Area,Nigeria,630
+fact_ember_cleantech_export,Area,North Macedonia,630
+fact_ember_cleantech_export,Area,overig (240 waarden),130903
+fact_ember_cleantech_export,Date,2024-08-01,1386
+fact_ember_cleantech_export,Date,2026-06-01,1386
+fact_ember_cleantech_export,Date,2026-04-01,1380
+fact_ember_cleantech_export,Date,2024-07-01,1380
+fact_ember_cleantech_export,Date,2026-03-01,1374
+fact_ember_cleantech_export,Date,2025-12-01,1374
+fact_ember_cleantech_export,Date,2023-03-01,1374
+fact_ember_cleantech_export,Date,2024-10-01,1374
+fact_ember_cleantech_export,Date,2026-07-01,1369
+fact_ember_cleantech_export,Date,2026-09-01,1368
+fact_ember_cleantech_export,Date,overig (95 waarden),123438
+fact_ember_cleantech_export,Area type,Country or economy,129013
+fact_ember_cleantech_export,Area type,Region,8190
+fact_ember_cleantech_export,Region,Africa,34061
+fact_ember_cleantech_export,Region,Latin America and Caribbean,27310
+fact_ember_cleantech_export,Region,Europe,26900
+fact_ember_cleantech_export,Region,Asia,20763
+fact_ember_cleantech_export,Region,Oceania,9819
+fact_ember_cleantech_export,Region,Middle East,8820
+fact_ember_cleantech_export,Region,North America,1340
+fact_ember_cleantech_export,Commodity category,Solar PV,22978
+fact_ember_cleantech_export,Commodity category,Batteries,22845
+fact_ember_cleantech_export,Commodity category,EVs,22845
+fact_ember_cleantech_export,Commodity category,Grid,22845
+fact_ember_cleantech_export,Commodity category,Heating and cooling systems,22845
+fact_ember_cleantech_export,Commodity category,Wind,22845
+fact_ember_doelen,COUNTRY_CODE,PHL,104
+fact_ember_doelen,COUNTRY_CODE,PAK,97
+fact_ember_doelen,COUNTRY_CODE,CAN,90
+fact_ember_doelen,COUNTRY_CODE,HUN,78
+fact_ember_doelen,COUNTRY_CODE,GBR,69
+fact_ember_doelen,COUNTRY_CODE,NLD,68
+fact_ember_doelen,COUNTRY_CODE,CYP,67
+fact_ember_doelen,COUNTRY_CODE,DNK,61
+fact_ember_doelen,COUNTRY_CODE,HRV,58
+fact_ember_doelen,COUNTRY_CODE,ESP,57
+fact_ember_doelen,COUNTRY_CODE,overig (79 waarden),1480
+fact_ember_doelen,FUEL_CATEGORY,Solar,308
+fact_ember_doelen,FUEL_CATEGORY,Hydro,289
+fact_ember_doelen,FUEL_CATEGORY,Wind,235
+fact_ember_doelen,FUEL_CATEGORY,Gas,213
+fact_ember_doelen,FUEL_CATEGORY,Bioenergy,207
+fact_ember_doelen,FUEL_CATEGORY,Coal,181
+fact_ember_doelen,FUEL_CATEGORY,Other Renewables,155
+fact_ember_doelen,FUEL_CATEGORY,Nuclear,153
+fact_ember_doelen,FUEL_CATEGORY,Other Fossil,127
+fact_ember_doelen,FUEL_CATEGORY,Offshore Wind,66
+fact_ember_doelen,FUEL_CATEGORY,overig (15 waarden),295
+fact_ember_doelen,METRIC,capacity_total_gw,931
+fact_ember_doelen,METRIC,generation_twh,640
+fact_ember_doelen,METRIC,share_of_generation_pct,608
+fact_ember_doelen,METRIC,capacity_additional_mw,28
+fact_ember_doelen,METRIC,demand_twh,17
+fact_ember_doelen,METRIC,share_of_consumption_pct,4
+fact_ember_doelen,METRIC,import_twh,1
+fact_ember_elektrificatie,COUNTRY_CODE,AUT,4240
+fact_ember_elektrificatie,COUNTRY_CODE,LVA,4240
+fact_ember_elektrificatie,COUNTRY_CODE,SWE,4240
+fact_ember_elektrificatie,COUNTRY_CODE,ESP,4240
+fact_ember_elektrificatie,COUNTRY_CODE,SVN,4240
+fact_ember_elektrificatie,COUNTRY_CODE,SVK,4240
+fact_ember_elektrificatie,COUNTRY_CODE,ROU,4240
+fact_ember_elektrificatie,COUNTRY_CODE,PRT,4240
+fact_ember_elektrificatie,COUNTRY_CODE,POL,4240
+fact_ember_elektrificatie,COUNTRY_CODE,NOR,4240
+fact_ember_elektrificatie,COUNTRY_CODE,overig (19 waarden),80520
+fact_ember_elektrificatie,COUNTRY_OR_REGION,Austria,4240
+fact_ember_elektrificatie,COUNTRY_OR_REGION,Belgium,4240
+fact_ember_elektrificatie,COUNTRY_OR_REGION,Sweden,4240
+fact_ember_elektrificatie,COUNTRY_OR_REGION,Spain,4240
+fact_ember_elektrificatie,COUNTRY_OR_REGION,Slovenia,4240
+fact_ember_elektrificatie,COUNTRY_OR_REGION,Slovakia,4240
+fact_ember_elektrificatie,COUNTRY_OR_REGION,Romania,4240
+fact_ember_elektrificatie,COUNTRY_OR_REGION,Portugal,4240
+fact_ember_elektrificatie,COUNTRY_OR_REGION,Poland,4240
+fact_ember_elektrificatie,COUNTRY_OR_REGION,Norway,4240
+fact_ember_elektrificatie,COUNTRY_OR_REGION,overig (20 waarden),84760
+fact_ember_elektrificatie,SECTOR_NAME,All sectors,6240
+fact_ember_elektrificatie,SECTOR_NAME,Industry,6240
+fact_ember_elektrificatie,SECTOR_NAME,Other sectors,6240
+fact_ember_elektrificatie,SECTOR_NAME,Transport,6240
+fact_ember_elektrificatie,SECTOR_NAME,Buildings,6240
+fact_ember_elektrificatie,SECTOR_NAME,Non-metallic minerals,6000
+fact_ember_elektrificatie,SECTOR_NAME,Rail,6000
+fact_ember_elektrificatie,SECTOR_NAME,Other transport,6000
+fact_ember_elektrificatie,SECTOR_NAME,Unspecified other sectors,6000
+fact_ember_elektrificatie,SECTOR_NAME,Agriculture and forestry,6000
+fact_ember_elektrificatie,SECTOR_NAME,overig (11 waarden),65960
+fact_ember_elektrificatie,PARENT_SECTOR_NAME,Industry,48000
+fact_ember_elektrificatie,PARENT_SECTOR_NAME,All sectors,24960
+fact_ember_elektrificatie,PARENT_SECTOR_NAME,Transport,18000
+fact_ember_elektrificatie,PARENT_SECTOR_NAME,Other sectors,17960
+fact_ember_elektrificatie,PARENT_SECTOR_NAME,Buildings,12000
+fact_ember_elektrificatie,FUEL,Coal,15895
+fact_ember_elektrificatie,FUEL,Electricity,15895
+fact_ember_elektrificatie,FUEL,Gas,15895
+fact_ember_elektrificatie,FUEL,Heat,15895
+fact_ember_elektrificatie,FUEL,Oil,15895
+fact_ember_elektrificatie,FUEL,Other,15895
+fact_ember_elektrificatie,FUEL,Other fossil,15895
+fact_ember_elektrificatie,FUEL,Renewables,15895
+fact_ember_ev_verkoop,Area,Switzerland,2096
+fact_ember_ev_verkoop,Area,Sweden,2000
+fact_ember_ev_verkoop,Area,Ireland,1896
+fact_ember_ev_verkoop,Area,Norway,1834
+fact_ember_ev_verkoop,Area,Indonesia,1608
+fact_ember_ev_verkoop,Area,Luxembourg,1608
+fact_ember_ev_verkoop,Area,Brazil,1575
+fact_ember_ev_verkoop,Area,Taiwan (China),1392
+fact_ember_ev_verkoop,Area,Belgium,1320
+fact_ember_ev_verkoop,Area,Ukraine,1148
+fact_ember_ev_verkoop,Area,overig (49 waarden),29934
+fact_ember_ev_verkoop,ISO 3 code,CHE,2096
+fact_ember_ev_verkoop,ISO 3 code,SWE,2000
+fact_ember_ev_verkoop,ISO 3 code,IRL,1896
+fact_ember_ev_verkoop,ISO 3 code,NOR,1834
+fact_ember_ev_verkoop,ISO 3 code,IDN,1608
+fact_ember_ev_verkoop,ISO 3 code,LUX,1608
+fact_ember_ev_verkoop,ISO 3 code,BRA,1575
+fact_ember_ev_verkoop,ISO 3 code,TWN,1392
+fact_ember_ev_verkoop,ISO 3 code,BEL,1320
+fact_ember_ev_verkoop,ISO 3 code,UKR,1148
+fact_ember_ev_verkoop,ISO 3 code,overig (47 waarden),28929
+fact_ember_ev_verkoop,Date,2024-09-01,433
+fact_ember_ev_verkoop,Date,2024-11-01,433
+fact_ember_ev_verkoop,Date,2024-02-01,433
+fact_ember_ev_verkoop,Date,2024-03-01,433
+fact_ember_ev_verkoop,Date,2024-04-01,433
+fact_ember_ev_verkoop,Date,2024-05-01,433
+fact_ember_ev_verkoop,Date,2024-06-01,433
+fact_ember_ev_verkoop,Date,2024-07-01,433
+fact_ember_ev_verkoop,Date,2024-08-01,433
+fact_ember_ev_verkoop,Date,2025-12-01,433
+fact_ember_ev_verkoop,Date,overig (252 waarden),42081
+fact_ember_ev_verkoop,Drivetrain,Battery electric,6327
+fact_ember_ev_verkoop,Drivetrain,Electric vehicle (BEV+PHEV),6327
+fact_ember_ev_verkoop,Drivetrain,All drivetrains,6327
+fact_ember_ev_verkoop,Drivetrain,Plug-in hybrid,5646
+fact_ember_ev_verkoop,Drivetrain,Hybrid,5625
+fact_ember_ev_verkoop,Drivetrain,Petrol,4966
+fact_ember_ev_verkoop,Drivetrain,Diesel,4966
+fact_ember_ev_verkoop,Drivetrain,Other,4610
+fact_ember_ev_verkoop,Drivetrain,Combustion (unspecified),1361
+fact_ember_ev_verkoop,Drivetrain,Ethanol/petrol blend,256
+fact_ember_ev_vloot,Area,Albania,1
+fact_ember_ev_vloot,Area,Lithuania,1
+fact_ember_ev_vloot,Area,Malaysia,1
+fact_ember_ev_vloot,Area,Malta,1
+fact_ember_ev_vloot,Area,Mexico,1
+fact_ember_ev_vloot,Area,Nepal,1
+fact_ember_ev_vloot,Area,Netherlands,1
+fact_ember_ev_vloot,Area,New Zealand,1
+fact_ember_ev_vloot,Area,Norway,1
+fact_ember_ev_vloot,Area,Peru,1
+fact_ember_ev_vloot,Area,overig (51 waarden),51
+fact_ember_ev_vloot,ISO 3 code,ALB,1
+fact_ember_ev_vloot,ISO 3 code,SVK,1
+fact_ember_ev_vloot,ISO 3 code,MYS,1
+fact_ember_ev_vloot,ISO 3 code,MLT,1
+fact_ember_ev_vloot,ISO 3 code,MEX,1
+fact_ember_ev_vloot,ISO 3 code,NPL,1
+fact_ember_ev_vloot,ISO 3 code,NLD,1
+fact_ember_ev_vloot,ISO 3 code,NZL,1
+fact_ember_ev_vloot,ISO 3 code,NOR,1
+fact_ember_ev_vloot,ISO 3 code,PER,1
+fact_ember_ev_vloot,ISO 3 code,overig (49 waarden),49
+fact_ember_ev_vloot,Area type,Country or economy,59
+fact_ember_ev_vloot,Area type,Region,2
+fact_ember_ev_vloot,Latest available date,2026-09-01,33
+fact_ember_ev_vloot,Latest available date,2026-10-01,21
+fact_ember_ev_vloot,Latest available date,2026-06-01,3
+fact_ember_ev_vloot,Latest available date,2026-08-01,3
+fact_ember_ev_vloot,Latest available date,2026-07-01,1
+fact_ember_india_staat,State,Andaman and Nicobar,468
+fact_ember_india_staat,State,Andhra Pradesh,468
+fact_ember_india_staat,State,Maharashtra,468
+fact_ember_india_staat,State,Manipur,468
+fact_ember_india_staat,State,Meghalaya,468
+fact_ember_india_staat,State,Mizoram,468
+fact_ember_india_staat,State,Nagaland,468
+fact_ember_india_staat,State,Odisha,468
+fact_ember_india_staat,State,Puducherry,468
+fact_ember_india_staat,State,Punjab,468
+fact_ember_india_staat,State,overig (28 waarden),12534
+fact_ember_india_staat,State type,state,13338
+fact_ember_india_staat,State type,Union territory,3408
+fact_ember_india_staat,State type,total,468
+fact_ember_india_staat,Category,Power sector emissions,7064
+fact_ember_india_staat,Category,Electricity generation,6841
+fact_ember_india_staat,Category,Capacity,3309
+fact_ember_india_staat,Subcategory,Fuel,9915
+fact_ember_india_staat,Subcategory,Aggregate fuel,6630
+fact_ember_india_staat,Subcategory,Total,446
+fact_ember_india_staat,Subcategory,CO2 intensity,223
+fact_ember_india_staat,Variable,Clean,1115
+fact_ember_india_staat,Variable,Bioenergy,1115
+fact_ember_india_staat,Variable,Wind,1115
+fact_ember_india_staat,Variable,Solar,1115
+fact_ember_india_staat,Variable,Other Renewables,1115
+fact_ember_india_staat,Variable,Hydro,1115
+fact_ember_india_staat,Variable,Wind and Solar,1115
+fact_ember_india_staat,Variable,Renewables,1115
+fact_ember_india_staat,Variable,"Hydro, Bioenergy and Other Renewables",1115
+fact_ember_india_staat,Variable,Coal,1085
+fact_ember_india_staat,Variable,overig (8 waarden),6094
+fact_ember_india_staat,Unit,%,6618
+fact_ember_india_staat,Unit,GWh,3532
+fact_ember_india_staat,Unit,ktCO2,3532
+fact_ember_india_staat,Unit,MW,3309
+fact_ember_india_staat,Unit,gCO2/kWh,223
+fact_ember_opwek,land,Israel,260
+fact_ember_opwek,land,Nigeria,260
+fact_ember_opwek,land,Latvia,260
+fact_ember_opwek,land,Germany,260
+fact_ember_opwek,land,New Zealand,260
+fact_ember_opwek,land,Georgia,260
+fact_ember_opwek,land,Netherlands,260
+fact_ember_opwek,land,Türkiye,260
+fact_ember_opwek,land,Uzbekistan,260
+fact_ember_opwek,land,France,260
+fact_ember_opwek,land,overig (214 waarden),52051
+fact_ember_opwek,iso3,LVA,260
+fact_ember_opwek,iso3,GEO,260
+fact_ember_opwek,iso3,CRI,260
+fact_ember_opwek,iso3,DNK,260
+fact_ember_opwek,iso3,PRT,260
+fact_ember_opwek,iso3,POL,260
+fact_ember_opwek,iso3,ECU,260
+fact_ember_opwek,iso3,PER,260
+fact_ember_opwek,iso3,PRY,260
+fact_ember_opwek,iso3,ETH,260
+fact_ember_opwek,iso3,overig (199 waarden),48515
+fact_ember_opwek,bron,Other fossil,5675
+fact_ember_opwek,bron,Solar,5658
+fact_ember_opwek,bron,Bioenergy,5634
+fact_ember_opwek,bron,Hydro,5605
+fact_ember_opwek,bron,Coal,5565
+fact_ember_opwek,bron,Gas,5493
+fact_ember_opwek,bron,Wind,5458
+fact_ember_opwek,bron,Net imports,5303
+fact_ember_opwek,bron,Nuclear,5266
+fact_ember_opwek,bron,Other renewables,4994
+fact_ember_opwek_jaar,Area,United Kingdom,559
+fact_ember_opwek_jaar,Area,Germany,524
+fact_ember_opwek_jaar,Area,China,518
+fact_ember_opwek_jaar,Area,Mexico,518
+fact_ember_opwek_jaar,Area,India,518
+fact_ember_opwek_jaar,Area,Japan,518
+fact_ember_opwek_jaar,Area,South Korea,518
+fact_ember_opwek_jaar,Area,Taiwan (China),518
+fact_ember_opwek_jaar,Area,Brazil,513
+fact_ember_opwek_jaar,Area,Canada,513
+fact_ember_opwek_jaar,Area,overig (214 waarden),80181
+fact_ember_opwek_jaar,ISO 3 code,GBR,559
+fact_ember_opwek_jaar,ISO 3 code,DEU,524
+fact_ember_opwek_jaar,ISO 3 code,IND,518
+fact_ember_opwek_jaar,ISO 3 code,MEX,518
+fact_ember_opwek_jaar,ISO 3 code,TWN,518
+fact_ember_opwek_jaar,ISO 3 code,CHN,518
+fact_ember_opwek_jaar,ISO 3 code,KOR,518
+fact_ember_opwek_jaar,ISO 3 code,JPN,518
+fact_ember_opwek_jaar,ISO 3 code,CAN,513
+fact_ember_opwek_jaar,ISO 3 code,BRA,513
+fact_ember_opwek_jaar,ISO 3 code,overig (199 waarden),75085
+fact_ember_opwek_jaar,Area type,Country or economy,80302
+fact_ember_opwek_jaar,Area type,Region,5096
+fact_ember_opwek_jaar,Electricity source,Fossil,6306
+fact_ember_opwek_jaar,Electricity source,Total generation,6306
+fact_ember_opwek_jaar,Electricity source,Demand,6306
+fact_ember_opwek_jaar,Electricity source,Other fossil,6300
+fact_ember_opwek_jaar,Electricity source,Clean,6299
+fact_ember_opwek_jaar,Electricity source,Solar,6238
+fact_ember_opwek_jaar,Electricity source,Bioenergy,6234
+fact_ember_opwek_jaar,Electricity source,Hydro,6230
+fact_ember_opwek_jaar,Electricity source,Coal,6190
+fact_ember_opwek_jaar,Electricity source,Gas,6123
+fact_ember_opwek_jaar,Electricity source,overig (4 waarden),22866
+fact_ember_opwek_maand,Area,Australia,2251
+fact_ember_opwek_maand,Area,United States,2146
+fact_ember_opwek_maand,Area,Canada,1400
+fact_ember_opwek_maand,Area,Ireland,1392
+fact_ember_opwek_maand,Area,Austria,994
+fact_ember_opwek_maand,Area,Romania,994
+fact_ember_opwek_maand,Area,Portugal,994
+fact_ember_opwek_maand,Area,Poland,994
+fact_ember_opwek_maand,Area,Czechia,994
+fact_ember_opwek_maand,Area,Denmark,994
+fact_ember_opwek_maand,Area,overig (22 waarden),18184
+fact_ember_opwek_maand,ISO 3 code,AUS,2251
+fact_ember_opwek_maand,ISO 3 code,USA,2146
+fact_ember_opwek_maand,ISO 3 code,CAN,1400
+fact_ember_opwek_maand,ISO 3 code,IRL,1392
+fact_ember_opwek_maand,ISO 3 code,AUT,994
+fact_ember_opwek_maand,ISO 3 code,ROU,994
+fact_ember_opwek_maand,ISO 3 code,PRT,994
+fact_ember_opwek_maand,ISO 3 code,POL,994
+fact_ember_opwek_maand,ISO 3 code,CZE,994
+fact_ember_opwek_maand,ISO 3 code,DNK,994
+fact_ember_opwek_maand,ISO 3 code,overig (22 waarden),18184
+fact_ember_opwek_maand,Date,2025-05-01,219
+fact_ember_opwek_maand,Date,2024-08-01,219
+fact_ember_opwek_maand,Date,2025-06-01,219
+fact_ember_opwek_maand,Date,2025-02-01,219
+fact_ember_opwek_maand,Date,2025-01-01,219
+fact_ember_opwek_maand,Date,2024-12-01,219
+fact_ember_opwek_maand,Date,2024-11-01,219
+fact_ember_opwek_maand,Date,2024-10-01,219
+fact_ember_opwek_maand,Date,2024-09-01,219
+fact_ember_opwek_maand,Date,2024-07-01,219
+fact_ember_opwek_maand,Date,overig (325 waarden),29147
+fact_ember_opwek_maand,Electricity source,Clean,4641
+fact_ember_opwek_maand,Electricity source,Total generation,4641
+fact_ember_opwek_maand,Electricity source,Fossil,4558
+fact_ember_opwek_maand,Electricity source,Wind,4548
+fact_ember_opwek_maand,Electricity source,Gas,4421
+fact_ember_opwek_maand,Electricity source,Solar,4408
+fact_ember_opwek_maand,Electricity source,Coal,4120
+fact_ember_prijs_dag,land,Germany,4338
+fact_ember_prijs_dag,land,Luxembourg,4338
+fact_ember_prijs_dag,land,Austria,4336
+fact_ember_prijs_dag,land,Latvia,4334
+fact_ember_prijs_dag,land,Sweden,4334
+fact_ember_prijs_dag,land,Spain,4334
+fact_ember_prijs_dag,land,Slovenia,4334
+fact_ember_prijs_dag,land,Belgium,4334
+fact_ember_prijs_dag,land,Poland,4334
+fact_ember_prijs_dag,land,Norway,4334
+fact_ember_prijs_dag,land,overig (24 waarden),80075
+fact_ember_prijs_dag,iso3,DEU,4338
+fact_ember_prijs_dag,iso3,LUX,4338
+fact_ember_prijs_dag,iso3,AUT,4336
+fact_ember_prijs_dag,iso3,LVA,4334
+fact_ember_prijs_dag,iso3,SWE,4334
+fact_ember_prijs_dag,iso3,ESP,4334
+fact_ember_prijs_dag,iso3,SVN,4334
+fact_ember_prijs_dag,iso3,BEL,4334
+fact_ember_prijs_dag,iso3,POL,4334
+fact_ember_prijs_dag,iso3,NOR,4334
+fact_ember_prijs_dag,iso3,overig (24 waarden),80075
+fact_ember_prijs_dag,datum,2026-10-25,35
+fact_ember_prijs_dag,datum,2026-11-08,34
+fact_ember_prijs_dag,datum,2026-11-02,34
+fact_ember_prijs_dag,datum,2026-11-03,34
+fact_ember_prijs_dag,datum,2026-11-04,34
+fact_ember_prijs_dag,datum,2026-11-05,34
+fact_ember_prijs_dag,datum,2026-11-07,34
+fact_ember_prijs_dag,datum,2026-11-01,34
+fact_ember_prijs_dag,datum,2026-11-09,34
+fact_ember_prijs_dag,datum,2026-11-10,34
+fact_ember_prijs_dag,datum,overig (4328 waarden),123084
+fact_ember_prijs_maand,land,Austria,143
+fact_ember_prijs_maand,land,Lithuania,143
+fact_ember_prijs_maand,land,Sweden,143
+fact_ember_prijs_maand,land,Spain,143
+fact_ember_prijs_maand,land,Slovenia,143
+fact_ember_prijs_maand,land,Slovakia,143
+fact_ember_prijs_maand,land,Romania,143
+fact_ember_prijs_maand,land,Belgium,143
+fact_ember_prijs_maand,land,Poland,143
+fact_ember_prijs_maand,land,Norway,143
+fact_ember_prijs_maand,land,overig (24 waarden),2647
+fact_ember_prijs_maand,iso3,AUT,143
+fact_ember_prijs_maand,iso3,LTU,143
+fact_ember_prijs_maand,iso3,SWE,143
+fact_ember_prijs_maand,iso3,ESP,143
+fact_ember_prijs_maand,iso3,SVN,143
+fact_ember_prijs_maand,iso3,SVK,143
+fact_ember_prijs_maand,iso3,ROU,143
+fact_ember_prijs_maand,iso3,BEL,143
+fact_ember_prijs_maand,iso3,POL,143
+fact_ember_prijs_maand,iso3,NOR,143
+fact_ember_prijs_maand,iso3,overig (24 waarden),2647
+fact_ember_prijs_maand,datum,2026-11-01,34
+fact_ember_prijs_maand,datum,2026-10-01,33
+fact_ember_prijs_maand,datum,2026-09-01,32
+fact_ember_prijs_maand,datum,2026-08-01,32
+fact_ember_prijs_maand,datum,2026-07-01,32
+fact_ember_prijs_maand,datum,2023-12-01,31
+fact_ember_prijs_maand,datum,2024-06-01,31
+fact_ember_prijs_maand,datum,2024-05-01,31
+fact_ember_prijs_maand,datum,2024-04-01,31
+fact_ember_prijs_maand,datum,2024-03-01,31
+fact_ember_prijs_maand,datum,overig (133 waarden),3759
+fact_ember_vs_staat,Area,United States,8119
+fact_ember_vs_staat,State,California,173
+fact_ember_vs_staat,State,US (total),173
+fact_ember_vs_staat,State,Colorado,169
+fact_ember_vs_staat,State,Washington,168
+fact_ember_vs_staat,State,Pennsylvania,168
+fact_ember_vs_staat,State,Texas,166
+fact_ember_vs_staat,State,Arizona,165
+fact_ember_vs_staat,State,Illinois,165
+fact_ember_vs_staat,State,New York,165
+fact_ember_vs_staat,State,Tennessee,164
+fact_ember_vs_staat,State,overig (43 waarden),6443
+fact_ember_vs_staat,Electricity source,Fossil,1310
+fact_ember_vs_staat,Electricity source,Total generation,1310
+fact_ember_vs_staat,Electricity source,Clean,1292
+fact_ember_vs_staat,Electricity source,Gas,1279
+fact_ember_vs_staat,Electricity source,Coal,1239
+fact_ember_vs_staat,Electricity source,Wind,923
+fact_ember_vs_staat,Electricity source,Solar,766
+fact_ember_zon_import,Area,World,231
+fact_ember_zon_import,Area,G20,231
+fact_ember_zon_import,Area,South Korea,231
+fact_ember_zon_import,Area,Singapore,231
+fact_ember_zon_import,Area,Viet Nam,231
+fact_ember_zon_import,Area,India,231
+fact_ember_zon_import,Area,ASEAN,231
+fact_ember_zon_import,Area,Asia,231
+fact_ember_zon_import,Area,Japan,231
+fact_ember_zon_import,Area,Europe,231
+fact_ember_zon_import,Area,overig (234 waarden),29314
+fact_ember_zon_import,Date,2025-12-01,407
+fact_ember_zon_import,Date,2025-07-01,406
+fact_ember_zon_import,Date,2025-11-01,404
+fact_ember_zon_import,Date,2024-12-01,399
+fact_ember_zon_import,Date,2025-08-01,397
+fact_ember_zon_import,Date,2024-11-01,397
+fact_ember_zon_import,Date,2025-06-01,395
+fact_ember_zon_import,Date,2025-01-01,394
+fact_ember_zon_import,Date,2025-04-01,393
+fact_ember_zon_import,Date,2025-10-01,392
+fact_ember_zon_import,Date,overig (107 waarden),27640
+fact_ember_zon_import,Region,Africa,7480
+fact_ember_zon_import,Region,Europe,6540
+fact_ember_zon_import,Region,Asia,5489
+fact_ember_zon_import,Region,Latin America and Caribbean,4965
+fact_ember_zon_import,Region,Middle East,2201
+fact_ember_zon_import,Region,Oceania,1641
+fact_ember_zon_import,Region,North America,408
+fact_ember_zon_import,Commodity type,Panels,21844
+fact_ember_zon_import,Commodity type,Cells,7516
+fact_ember_zon_import,Commodity type,Wafers,2264
+fact_fcr_nl,vanaf_utc,2023-01-01 00:00:00,1
+fact_fcr_nl,vanaf_utc,2025-08-10 10:00:00,1
+fact_fcr_nl,vanaf_utc,2025-08-04 10:00:00,1
+fact_fcr_nl,vanaf_utc,2025-08-04 06:00:00,1
+fact_fcr_nl,vanaf_utc,2025-08-04 02:00:00,1
+fact_fcr_nl,vanaf_utc,2025-08-03 22:00:00,1
+fact_fcr_nl,vanaf_utc,2025-08-03 18:00:00,1
+fact_fcr_nl,vanaf_utc,2025-08-03 14:00:00,1
+fact_fcr_nl,vanaf_utc,2025-08-03 10:00:00,1
+fact_fcr_nl,vanaf_utc,2025-08-03 06:00:00,1
+fact_fcr_nl,vanaf_utc,overig (8245 waarden),8245
+fact_flex_land,land,Nederland,24
+fact_flex_land,land,Slovenie,24
+fact_flex_land,land,Letland,24
+fact_flex_land,land,Kroatie,24
+fact_flex_land,land,Bulgarije,24
+fact_flex_land,land,Slowakije,24
+fact_flex_land,land,Servie,24
+fact_flex_land,land,Denemarken (Oost),24
+fact_flex_land,land,Noorwegen (Oslo),24
+fact_flex_land,land,Noorwegen (Midden),24
+fact_flex_land,land,overig (27 waarden),648
+fact_gas_henryhub,datum,2026-11-11,1
+fact_gas_henryhub,datum,2015-08-11,1
+fact_gas_henryhub,datum,2015-08-31,1
+fact_gas_henryhub,datum,2015-08-28,1
+fact_gas_henryhub,datum,2015-08-27,1
+fact_gas_henryhub,datum,2015-08-26,1
+fact_gas_henryhub,datum,2015-08-25,1
+fact_gas_henryhub,datum,2015-08-24,1
+fact_gas_henryhub,datum,2015-08-21,1
+fact_gas_henryhub,datum,2015-08-20,1
+fact_gas_henryhub,datum,overig (4249 waarden),4249
+fact_gasprijs_maand,periode,2018-01,1
+fact_gasprijs_maand,periode,2024-09,1
+fact_gasprijs_maand,periode,2024-07,1
+fact_gasprijs_maand,periode,2024-06,1
+fact_gasprijs_maand,periode,2024-05,1
+fact_gasprijs_maand,periode,2024-04,1
+fact_gasprijs_maand,periode,2024-03,1
+fact_gasprijs_maand,periode,2024-02,1
+fact_gasprijs_maand,periode,2024-01,1
+fact_gasprijs_maand,periode,2023-12,1
+fact_gasprijs_maand,periode,overig (97 waarden),97
+fact_gasprijs_maand,voorlopig,False,105
+fact_gasprijs_maand,voorlopig,True,2
+fact_gasprijs_maand,bron,FRED (IMF PNGASEUUSDM; Fed EXUSEU),105
+fact_gasprijs_maand,bron,"IMF-reeks oktober 2026 (28,98 dollar per MMBtu, via cbonds), koers 1,1198",1
+fact_gasprijs_maand,bron,"gemiddelde van de dagprijzen tot half november, indicatie",1
+fact_grensstromen_nl,land,Belgium,95
+fact_grensstromen_nl,land,Germany,95
+fact_grensstromen_nl,land,Norway,95
+fact_grensstromen_nl,land,United Kingdom,95
+fact_grensstromen_nl,land,sum,95
+fact_grensstromen_nl,land,Denmark,91
+fact_herijking,methode,Opwekdata Energy-Charts,8
+fact_herijking,methode,"Instralingsprofiel, niet afschakelen",8
+fact_herijking,methode,"Instralingsprofiel, afschakelen bij negatieve prijs",8
+fact_importpotentieel,land,Albania,8
+fact_importpotentieel,land,Portugal,8
+fact_importpotentieel,land,Malta,8
+fact_importpotentieel,land,Moldova,8
+fact_importpotentieel,land,Montenegro,8
+fact_importpotentieel,land,Morocco,8
+fact_importpotentieel,land,Netherlands,8
+fact_importpotentieel,land,North Macedonia,8
+fact_importpotentieel,land,Norway,8
+fact_importpotentieel,land,Palestine,8
+fact_importpotentieel,land,overig (36 waarden),288
+fact_importpotentieel,scenario,Huidig (2024),92
+fact_importpotentieel,scenario,Reference,92
+fact_importpotentieel,scenario,Projects,92
+fact_importpotentieel,scenario,Needs,92
+fact_instraling_wereld,locatie,Australie (Zuid),11
+fact_instraling_wereld,locatie,Brazilie,11
+fact_instraling_wereld,locatie,Zuid-Afrika,11
+fact_instraling_wereld,locatie,Vietnam,11
+fact_instraling_wereld,locatie,VK,11
+fact_instraling_wereld,locatie,Texas,11
+fact_instraling_wereld,locatie,Spanje,11
+fact_instraling_wereld,locatie,Saoedi-Arabie,11
+fact_instraling_wereld,locatie,Polen,11
+fact_instraling_wereld,locatie,Nigeria,11
+fact_instraling_wereld,locatie,overig (14 waarden),154
+fact_kernenergie_land_jaar,land,Nederland,12
+fact_kernenergie_land_jaar,land,Belgie,8
+fact_kernenergie_land_jaar,land,Bulgarije,8
+fact_kernenergie_land_jaar,land,Zwitserland,8
+fact_kernenergie_land_jaar,land,Tsjechie,8
+fact_kernenergie_land_jaar,land,Spanje,8
+fact_kernenergie_land_jaar,land,Finland,8
+fact_kernenergie_land_jaar,land,Frankrijk,8
+fact_kernenergie_land_jaar,land,Hongarije,8
+fact_kernenergie_land_jaar,land,Roemenie,8
+fact_kernenergie_land_jaar,land,overig (4 waarden),29
+fact_kernenergie_land_jaar,biedzone,NL,12
+fact_kernenergie_land_jaar,biedzone,BE,8
+fact_kernenergie_land_jaar,biedzone,BG,8
+fact_kernenergie_land_jaar,biedzone,CH,8
+fact_kernenergie_land_jaar,biedzone,CZ,8
+fact_kernenergie_land_jaar,biedzone,ES,8
+fact_kernenergie_land_jaar,biedzone,FI,8
+fact_kernenergie_land_jaar,biedzone,FR,8
+fact_kernenergie_land_jaar,biedzone,HU,8
+fact_kernenergie_land_jaar,biedzone,RO,8
+fact_kernenergie_land_jaar,biedzone,overig (4 waarden),29
+fact_kernenergie_verband,verband,aandeel kernenergie en dagspreiding,1
+fact_kernenergie_verband,verband,aandeel kernenergie en batterij-omzet 2 uur,1
+fact_kernenergie_verband,verband,aandeel kernenergie en capture rate zon,1
+fact_kernenergie_verband,verband,aandeel kernenergie en negatieve uren,1
+fact_klimaatscenario,scenario,Basis,1
+fact_klimaatscenario,scenario,Orderly,1
+fact_klimaatscenario,scenario,Fysiek,1
+fact_klimaatscenario,scenario,Disorderly,1
+fact_kpi,project,Zon,9
+fact_kpi,project,Batterij,3
+fact_kpi,project,Impact,2
+fact_kpi,project,Portefeuille,1
+fact_kpi,kpi,IRR,2
+fact_kpi,kpi,IRR voor belasting,1
+fact_kpi,kpi,IRR na belasting,1
+fact_kpi,kpi,LCOE,1
+fact_kpi,kpi,Capture price,1
+fact_kpi,kpi,Capture rate,1
+fact_kpi,kpi,Kans onder hurdle,1
+fact_kpi,kpi,IRR P10,1
+fact_kpi,kpi,IRR P90,1
+fact_kpi,kpi,Break-even capture rate (8%),1
+fact_kpi,kpi,overig (4 waarden),4
+fact_kwartier_batterij,land,Nederland,2
+fact_kwartier_batterij,land,Oostenrijk,2
+fact_kwartier_batterij,land,Roemenie,2
+fact_kwartier_batterij,land,Estland,2
+fact_kwartier_batterij,land,Finland,2
+fact_kwartier_batterij,land,Griekenland,2
+fact_kwartier_batterij,land,Portugal,2
+fact_kwartier_batterij,land,Hongarije,2
+fact_kwartier_batterij,land,Tsjechie,2
+fact_kwartier_batterij,land,Zweden (Midden),2
+fact_kwartier_batterij,land,overig (9 waarden),18
+fact_land_jaar,land,Nederland,8
+fact_land_jaar,land,Slovenie,8
+fact_land_jaar,land,Letland,8
+fact_land_jaar,land,Kroatie,8
+fact_land_jaar,land,Bulgarije,8
+fact_land_jaar,land,Slowakije,8
+fact_land_jaar,land,Servie,8
+fact_land_jaar,land,Denemarken (Oost),8
+fact_land_jaar,land,Noorwegen (Oslo),8
+fact_land_jaar,land,Noorwegen (Midden),8
+fact_land_jaar,land,overig (27 waarden),216
+fact_land_jaar,biedzone,NL,8
+fact_land_jaar,biedzone,SI,8
+fact_land_jaar,biedzone,LV,8
+fact_land_jaar,biedzone,HR,8
+fact_land_jaar,biedzone,BG,8
+fact_land_jaar,biedzone,SK,8
+fact_land_jaar,biedzone,RS,8
+fact_land_jaar,biedzone,DK2,8
+fact_land_jaar,biedzone,NO1,8
+fact_land_jaar,biedzone,NO3,8
+fact_land_jaar,biedzone,overig (27 waarden),216
+fact_land_jaar,iso3,NOR,40
+fact_land_jaar,iso3,ITA,32
+fact_land_jaar,iso3,SWE,32
+fact_land_jaar,iso3,DNK,16
+fact_land_jaar,iso3,NLD,8
+fact_land_jaar,iso3,GRC,8
+fact_land_jaar,iso3,SVK,8
+fact_land_jaar,iso3,BGR,8
+fact_land_jaar,iso3,HRV,8
+fact_land_jaar,iso3,LVA,8
+fact_land_jaar,iso3,overig (16 waarden),128
+fact_land_jaar,capture_bron,opwek (Energy-Charts),235
+fact_land_jaar,capture_bron,"instraling (Open-Meteo, proxy)",61
+fact_land_maand,land,Nederland,95
+fact_land_maand,land,Slovenie,95
+fact_land_maand,land,Letland,95
+fact_land_maand,land,Kroatie,95
+fact_land_maand,land,Bulgarije,95
+fact_land_maand,land,Slowakije,95
+fact_land_maand,land,Servie,95
+fact_land_maand,land,Denemarken (Oost),95
+fact_land_maand,land,Noorwegen (Oslo),95
+fact_land_maand,land,Noorwegen (Midden),95
+fact_land_maand,land,overig (27 waarden),2565
+fact_land_profiel_maand,land,Austria,36
+fact_land_profiel_maand,land,Serbia,36
+fact_land_profiel_maand,land,Belgium,36
+fact_land_profiel_maand,land,North Macedonia,36
+fact_land_profiel_maand,land,Norway,36
+fact_land_profiel_maand,land,Poland,36
+fact_land_profiel_maand,land,Portugal,36
+fact_land_profiel_maand,land,Romania,36
+fact_land_profiel_maand,land,Russia,36
+fact_land_profiel_maand,land,Slovakia,36
+fact_land_profiel_maand,land,overig (36 waarden),1204
+fact_land_profiel_uur,land,Austria,72
+fact_land_profiel_uur,land,Italy,72
+fact_land_profiel_uur,land,Sweden,72
+fact_land_profiel_uur,land,Spain,72
+fact_land_profiel_uur,land,Belgium,72
+fact_land_profiel_uur,land,Slovakia,72
+fact_land_profiel_uur,land,Romania,72
+fact_land_profiel_uur,land,Portugal,72
+fact_land_profiel_uur,land,Poland,72
+fact_land_profiel_uur,land,Netherlands,72
+fact_land_profiel_uur,land,overig (35 waarden),2040
+fact_markt_uur,timestamp_utc,2024-01-01T00:00Z,1
+fact_markt_uur,timestamp_utc,2024-09-01T03:00Z,1
+fact_markt_uur,timestamp_utc,2024-08-31T21:00Z,1
+fact_markt_uur,timestamp_utc,2024-08-31T22:00Z,1
+fact_markt_uur,timestamp_utc,2024-08-31T23:00Z,1
+fact_markt_uur,timestamp_utc,2024-09-01T00:00Z,1
+fact_markt_uur,timestamp_utc,2024-09-01T01:00Z,1
+fact_markt_uur,timestamp_utc,2024-09-01T02:00Z,1
+fact_markt_uur,timestamp_utc,2024-09-01T04:00Z,1
+fact_markt_uur,timestamp_utc,2024-08-31T01:00Z,1
+fact_markt_uur,timestamp_utc,overig (8760 waarden),8760
+fact_markt_uur,datum,2024-01-01,24
+fact_markt_uur,datum,2024-08-14,24
+fact_markt_uur,datum,2024-09-05,24
+fact_markt_uur,datum,2024-09-04,24
+fact_markt_uur,datum,2024-09-03,24
+fact_markt_uur,datum,2024-09-02,24
+fact_markt_uur,datum,2024-09-01,24
+fact_markt_uur,datum,2024-08-30,24
+fact_markt_uur,datum,2024-08-29,24
+fact_markt_uur,datum,2024-08-28,24
+fact_markt_uur,datum,overig (356 waarden),8530
+fact_nl_uur_alle_jaren,timestamp_utc,2019-01-01 00:00,1
+fact_nl_uur_alle_jaren,timestamp_utc,2024-04-01 04:00,1
+fact_nl_uur_alle_jaren,timestamp_utc,2024-03-31 14:00,1
+fact_nl_uur_alle_jaren,timestamp_utc,2024-03-31 15:00,1
+fact_nl_uur_alle_jaren,timestamp_utc,2024-03-31 16:00,1
+fact_nl_uur_alle_jaren,timestamp_utc,2024-03-31 17:00,1
+fact_nl_uur_alle_jaren,timestamp_utc,2024-03-31 18:00,1
+fact_nl_uur_alle_jaren,timestamp_utc,2024-03-31 19:00,1
+fact_nl_uur_alle_jaren,timestamp_utc,2024-03-31 20:00,1
+fact_nl_uur_alle_jaren,timestamp_utc,2024-03-31 21:00,1
+fact_nl_uur_alle_jaren,timestamp_utc,overig (69000 waarden),69000
+fact_ntc,scenario,Reference,363
+fact_ntc,scenario,Projects,244
+fact_ntc,scenario,Needs,244
+fact_ntc,grens,AL-GR,7
+fact_ntc,grens,IT-TN,7
+fact_ntc,grens,IT-MT,7
+fact_ntc,grens,IT-ME,7
+fact_ntc,grens,IL-PS,7
+fact_ntc,grens,IE-UK,7
+fact_ntc,grens,HU-UA,7
+fact_ntc,grens,HU-SK,7
+fact_ntc,grens,HU-SI,7
+fact_ntc,grens,HU-RS,7
+fact_ntc,grens,overig (113 waarden),781
+fact_ntc,van,DE,70
+fact_ntc,van,AT,49
+fact_ntc,van,BE,42
+fact_ntc,van,DK,42
+fact_ntc,van,AL,35
+fact_ntc,van,BG,35
+fact_ntc,van,HU,35
+fact_ntc,van,BW,29
+fact_ntc,van,FR,28
+fact_ntc,van,LT,28
+fact_ntc,van,overig (29 waarden),458
+fact_ntc,naar,UK,63
+fact_ntc,naar,RS,56
+fact_ntc,naar,SE,49
+fact_ntc,naar,UA,42
+fact_ntc,naar,IT,42
+fact_ntc,naar,GR,35
+fact_ntc,naar,DE,35
+fact_ntc,naar,TN,28
+fact_ntc,naar,NO,28
+fact_ntc,naar,PL,28
+fact_ntc,naar,overig (30 waarden),445
+fact_onbalans_nl,timestamp_utc,2023-01-01 00:00,1
+fact_onbalans_nl,timestamp_utc,2025-08-01 06:00,1
+fact_onbalans_nl,timestamp_utc,2025-08-01 09:30,1
+fact_onbalans_nl,timestamp_utc,2025-08-01 09:15,1
+fact_onbalans_nl,timestamp_utc,2025-08-01 09:00,1
+fact_onbalans_nl,timestamp_utc,2025-08-01 08:45,1
+fact_onbalans_nl,timestamp_utc,2025-08-01 08:30,1
+fact_onbalans_nl,timestamp_utc,2025-08-01 08:15,1
+fact_onbalans_nl,timestamp_utc,2025-08-01 08:00,1
+fact_onbalans_nl,timestamp_utc,2025-08-01 07:45,1
+fact_onbalans_nl,timestamp_utc,overig (135826 waarden),135826
+fact_onbalans_regel,regel,Dagmarktregel,192
+fact_onbalans_regel,regel,Kwantielregel,72
+fact_onbalans_regel,regel,Dagmarkt met bijsturen,36
+fact_onbalans_regel,variant,10/90,36
+fact_onbalans_regel,variant,25/75,36
+fact_onbalans_regel,variant,33/67,36
+fact_onbalans_regel,variant,marge 0,24
+fact_onbalans_regel,variant,marge 10,24
+fact_onbalans_regel,variant,marge 20,24
+fact_onbalans_regel,variant,marge 30,24
+fact_onbalans_regel,variant,marge 40,24
+fact_onbalans_regel,variant,marge 50,24
+fact_onbalans_regel,variant,marge 75,24
+fact_onbalans_regel,variant,overig (1 waarden),24
+fact_onbalans_regel,vooraf_gekozen,False,240
+fact_onbalans_regel,vooraf_gekozen,True,60
+fact_onzekerheid_land,land,Nederland,8
+fact_onzekerheid_land,land,Duitsland,8
+fact_onzekerheid_land,land,Roemenie,8
+fact_onzekerheid_land,land,Estland,8
+fact_onzekerheid_land,land,Griekenland,8
+fact_onzekerheid_land,land,Portugal,8
+fact_onzekerheid_land,land,Hongarije,8
+fact_onzekerheid_land,land,Tsjechie,8
+fact_onzekerheid_land,land,Zwitserland,8
+fact_onzekerheid_land,land,Oostenrijk,8
+fact_onzekerheid_land,land,overig (10 waarden),68
+fact_owid_co2,country,Afghanistan,26
+fact_owid_co2,country,Palau,26
+fact_owid_co2,country,New Caledonia,26
+fact_owid_co2,country,New Zealand,26
+fact_owid_co2,country,Nicaragua,26
+fact_owid_co2,country,Niger,26
+fact_owid_co2,country,Nigeria,26
+fact_owid_co2,country,Niue,26
+fact_owid_co2,country,North Korea,26
+fact_owid_co2,country,North Macedonia,26
+fact_owid_co2,country,overig (213 waarden),5538
+fact_owid_co2,iso_code,AFG,26
+fact_owid_co2,iso_code,PLW,26
+fact_owid_co2,iso_code,NCL,26
+fact_owid_co2,iso_code,NZL,26
+fact_owid_co2,iso_code,NIC,26
+fact_owid_co2,iso_code,NER,26
+fact_owid_co2,iso_code,NGA,26
+fact_owid_co2,iso_code,NIU,26
+fact_owid_co2,iso_code,PRK,26
+fact_owid_co2,iso_code,MKD,26
+fact_owid_co2,iso_code,overig (213 waarden),5538
+fact_owid_energie,country,Belgium,26
+fact_owid_energie,country,Brazil,26
+fact_owid_energie,country,China,26
+fact_owid_energie,country,Denmark,26
+fact_owid_energie,country,European Union (27),26
+fact_owid_energie,country,France,26
+fact_owid_energie,country,Germany,26
+fact_owid_energie,country,India,26
+fact_owid_energie,country,Italy,26
+fact_owid_energie,country,Japan,26
+fact_owid_energie,country,overig (6 waarden),156
+fact_owid_energie,iso_code,BEL,26
+fact_owid_energie,iso_code,BRA,26
+fact_owid_energie,iso_code,CHN,26
+fact_owid_energie,iso_code,DNK,26
+fact_owid_energie,iso_code,FRA,26
+fact_owid_energie,iso_code,DEU,26
+fact_owid_energie,iso_code,IND,26
+fact_owid_energie,iso_code,ITA,26
+fact_owid_energie,iso_code,JPN,26
+fact_owid_energie,iso_code,NLD,26
+fact_owid_energie,iso_code,overig (4 waarden),104
+fact_paneel_kannibalisatie,steekproef,alle zones,7
+fact_paneel_kannibalisatie,steekproef,alleen opwekdata,7
+fact_paneel_kannibalisatie,specificatie,eigen zonaandeel,2
+fact_paneel_kannibalisatie,specificatie,jaareffecten,2
+fact_paneel_kannibalisatie,specificatie,landeffecten,2
+fact_paneel_kannibalisatie,specificatie,zonaandeel + jaareffecten,2
+fact_paneel_kannibalisatie,specificatie,zonaandeel + landeffecten,2
+fact_paneel_kannibalisatie,specificatie,zonaandeel + land- en jaareffecten,2
+fact_paneel_kannibalisatie,specificatie,"eigen zonaandeel, alleen 2025",2
+fact_prijsmodel_coef,variabele,constante,8
+fact_prijsmodel_coef,variabele,straling,8
+fact_prijsmodel_coef,variabele,wind,8
+fact_prijsmodel_coef,variabele,temperatuur,8
+fact_prijsmodel_coef,variabele,weekend,8
+fact_prijsmodel_coef,variabele,prijs_gisteren,8
+fact_regio_jaar,regio,Nederland,3
+fact_regio_jaar,regio,Europa (Spanje),3
+fact_regio_jaar,regio,VS (Texas),3
+fact_regio_jaar,regio,China,3
+fact_regio_jaar,regio,India (RvdW),3
+fact_ruimtelijk_paneel,steekproef,alle zones,4
+fact_ruimtelijk_paneel,steekproef,alleen opwekdata,4
+fact_ruimtelijk_paneel,specificatie,eigen + buren,2
+fact_ruimtelijk_paneel,specificatie,eigen + buren + landeffecten,2
+fact_ruimtelijk_paneel,specificatie,eigen + buren + jaareffecten,2
+fact_ruimtelijk_paneel,specificatie,eigen + buren + land- en jaareffecten,2
+fact_schokjaar_model_SJ,coefficient,gas,1
+fact_schokjaar_model_SJ,coefficient,zon,1
+fact_schokjaar_model_SJ,coefficient,wind,1
+fact_schokjaar_model_SJ,schatjaren,2019-2025,3
+fact_schokjaar_zone_SJ,biedzone,NO3,1
+fact_schokjaar_zone_SJ,biedzone,RO,1
+fact_schokjaar_zone_SJ,biedzone,GR,1
+fact_schokjaar_zone_SJ,biedzone,PT,1
+fact_schokjaar_zone_SJ,biedzone,FI,1
+fact_schokjaar_zone_SJ,biedzone,ES,1
+fact_schokjaar_zone_SJ,biedzone,PL,1
+fact_schokjaar_zone_SJ,biedzone,DE-LU,1
+fact_schokjaar_zone_SJ,biedzone,SE3,1
+fact_schokjaar_zone_SJ,biedzone,CZ,1
+fact_schokjaar_zone_SJ,biedzone,overig (19 waarden),19
+fact_segment_drempel_SG,drempel,capture_laag,4
+fact_segment_drempel_SG,drempel,negatief_uren,4
+fact_segment_drempel_SG,drempel,spreiding_hoog,4
+fact_segment_drempel_SG,drempel,spreiding_laag,4
+fact_segment_drempel_SG,drempel,capture_hoog,4
+fact_segment_drempel_SG,omschrijving,capture rate onder (zonverzadigd),4
+fact_segment_drempel_SG,omschrijving,negatieve uren vanaf (zonverzadigd),4
+fact_segment_drempel_SG,omschrijving,dagspreiding vanaf (batterijmarkt),4
+fact_segment_drempel_SG,omschrijving,dagspreiding onder (vlakke prijzen),4
+fact_segment_drempel_SG,omschrijving,capture rate vanaf (zon houdt waarde),4
+fact_segment_zone_SG,biedzone,AT,8
+fact_segment_zone_SG,biedzone,LT,8
+fact_segment_zone_SG,biedzone,NL,8
+fact_segment_zone_SG,biedzone,NO1,8
+fact_segment_zone_SG,biedzone,NO2,8
+fact_segment_zone_SG,biedzone,NO3,8
+fact_segment_zone_SG,biedzone,NO4,8
+fact_segment_zone_SG,biedzone,NO5,8
+fact_segment_zone_SG,biedzone,PL,8
+fact_segment_zone_SG,biedzone,PT,8
+fact_segment_zone_SG,biedzone,overig (27 waarden),216
+fact_segment_zone_SG,land,Oostenrijk,8
+fact_segment_zone_SG,land,Litouwen,8
+fact_segment_zone_SG,land,Nederland,8
+fact_segment_zone_SG,land,Noorwegen (Oslo),8
+fact_segment_zone_SG,land,Noorwegen (Zuid),8
+fact_segment_zone_SG,land,Noorwegen (Midden),8
+fact_segment_zone_SG,land,Noorwegen (Noord),8
+fact_segment_zone_SG,land,Noorwegen (West),8
+fact_segment_zone_SG,land,Polen,8
+fact_segment_zone_SG,land,Portugal,8
+fact_segment_zone_SG,land,overig (27 waarden),216
+fact_segment_zone_SG,regio,Midden- en Zuidoost-Europa,80
+fact_segment_zone_SG,regio,Scandinavie,80
+fact_segment_zone_SG,regio,Noordwest-Europa,64
+fact_segment_zone_SG,regio,Italie,32
+fact_segment_zone_SG,regio,Baltische staten,24
+fact_segment_zone_SG,regio,Iberie,16
+fact_segment_zone_SG,segment,Vlakke prijzen,113
+fact_segment_zone_SG,segment,Batterijmarkt,76
+fact_segment_zone_SG,segment,Zon houdt waarde,72
+fact_segment_zone_SG,segment,Zonverzadigd,18
+fact_segment_zone_SG,segment,Middenveld,17
+fact_segment_zone_SG,grensgeval,False,216
+fact_segment_zone_SG,grensgeval,True,80
+fact_stromen_maand,van,Germany,492
+fact_stromen_maand,van,Italy,324
+fact_stromen_maand,van,Serbia,276
+fact_stromen_maand,van,Greece,276
+fact_stromen_maand,van,United Kingdom,264
+fact_stromen_maand,van,France,264
+fact_stromen_maand,van,Hungary,252
+fact_stromen_maand,van,Poland,240
+fact_stromen_maand,van,Norway,240
+fact_stromen_maand,van,Sweden,240
+fact_stromen_maand,van,overig (40 waarden),4632
+fact_stromen_maand,naar,DE,480
+fact_stromen_maand,naar,IT,324
+fact_stromen_maand,naar,GR,276
+fact_stromen_maand,naar,RS,276
+fact_stromen_maand,naar,FR,264
+fact_stromen_maand,naar,UK,264
+fact_stromen_maand,naar,HU,252
+fact_stromen_maand,naar,SE,240
+fact_stromen_maand,naar,PL,240
+fact_stromen_maand,naar,AT,240
+fact_stromen_maand,naar,overig (40 waarden),4644
+fact_stromen_uur,van,Germany,984
+fact_stromen_uur,van,Italy,648
+fact_stromen_uur,van,Serbia,552
+fact_stromen_uur,van,Greece,552
+fact_stromen_uur,van,United Kingdom,528
+fact_stromen_uur,van,France,528
+fact_stromen_uur,van,Hungary,504
+fact_stromen_uur,van,Poland,480
+fact_stromen_uur,van,Norway,480
+fact_stromen_uur,van,Sweden,480
+fact_stromen_uur,van,overig (40 waarden),9264
+fact_stromen_uur,naar,DE,960
+fact_stromen_uur,naar,IT,648
+fact_stromen_uur,naar,GR,552
+fact_stromen_uur,naar,RS,552
+fact_stromen_uur,naar,FR,528
+fact_stromen_uur,naar,UK,528
+fact_stromen_uur,naar,HU,504
+fact_stromen_uur,naar,SE,480
+fact_stromen_uur,naar,PL,480
+fact_stromen_uur,naar,AT,480
+fact_stromen_uur,naar,overig (40 waarden),9288
+fact_studieregio_jaar,studieregio,China,41
+fact_studieregio_jaar,studieregio,Europa,41
+fact_studieregio_jaar,studieregio,Rest van de wereld,41
+fact_studieregio_jaar,studieregio,Nederland,36
+fact_studieregio_jaar,studieregio,VS,26
+fact_tech_land,land,Nederland,16
+fact_tech_land,land,Portugal,16
+fact_tech_land,land,Italie (Midden-Noord),16
+fact_tech_land,land,Italie (Zuid),16
+fact_tech_land,land,Denemarken (Oost),16
+fact_tech_land,land,Slowakije,16
+fact_tech_land,land,Bulgarije,16
+fact_tech_land,land,Kroatie,16
+fact_tech_land,land,Litouwen,16
+fact_tech_land,land,Slovenie,16
+fact_tech_land,land,overig (27 waarden),378
+fact_tech_land,technologie,wind,293
+fact_tech_land,technologie,zon,245
+fact_uk_prijs,timestamp_utc,2019-01-07 23:30,1
+fact_uk_prijs,timestamp_utc,2024-04-22 17:00,1
+fact_uk_prijs,timestamp_utc,2024-04-22 10:00,1
+fact_uk_prijs,timestamp_utc,2024-04-22 10:30,1
+fact_uk_prijs,timestamp_utc,2024-04-22 11:00,1
+fact_uk_prijs,timestamp_utc,2024-04-22 11:30,1
+fact_uk_prijs,timestamp_utc,2024-04-22 12:00,1
+fact_uk_prijs,timestamp_utc,2024-04-22 12:30,1
+fact_uk_prijs,timestamp_utc,2024-04-22 13:00,1
+fact_uk_prijs,timestamp_utc,2024-04-22 13:30,1
+fact_uk_prijs,timestamp_utc,overig (135804 waarden),135804
+fact_verbanden,verband,Batterij-omzet en dagspreiding,1
+fact_verbanden,verband,Batterij-omzet en gemiddelde prijs,1
+fact_verbanden,verband,Capture rate zon en negatieve uren,1
+fact_verbanden,verband,Capture rate zon en eigen zonaandeel,1
+fact_verbanden,verband,Capture rate wind en eigen windaandeel,1
+fact_verbanden,verband,Voorspelratio batterij en dagspreiding,1
+fact_verbanden,verband,Batterij-omzet en capture rate zon,1
+fact_vermogen_land,land,Duitsland,359
+fact_vermogen_land,land,Zwitserland,294
+fact_vermogen_land,land,Nederland,240
+fact_vermogen_land,land,Portugal,240
+fact_vermogen_land,land,Oostenrijk,240
+fact_vermogen_land,land,Spanje,240
+fact_vermogen_land,land,Estland,219
+fact_vermogen_land,land,Italie (Noord),214
+fact_vermogen_land,land,Slovenie,190
+fact_vermogen_land,land,Tsjechie,180
+fact_vermogen_land,land,overig (10 waarden),1240
+fact_vermogen_land,technologie,wind,402
+fact_vermogen_land,technologie,coal,348
+fact_vermogen_land,technologie,oil,272
+fact_vermogen_land,technologie,solar,271
+fact_vermogen_land,technologie,gas,230
+fact_vermogen_land,technologie,hydro,225
+fact_vermogen_land,technologie,biomass,222
+fact_vermogen_land,technologie,nuclear,201
+fact_vermogen_land,technologie,waste,200
+fact_vermogen_land,technologie,Hydro water reservoir,195
+fact_vermogen_land,technologie,overig (17 waarden),1090
+fact_vermogen_land,naam_bron,Wind onshore,264
+fact_vermogen_land,naam_bron,Fossil gas,230
+fact_vermogen_land,naam_bron,Hydro Run-of-River,225
+fact_vermogen_land,naam_bron,Biomass,222
+fact_vermogen_land,naam_bron,Solar AC,221
+fact_vermogen_land,naam_bron,Fossil oil,205
+fact_vermogen_land,naam_bron,Nuclear,201
+fact_vermogen_land,naam_bron,Hydro water reservoir,195
+fact_vermogen_land,naam_bron,Hydro pumped storage,191
+fact_vermogen_land,naam_bron,Fossil hard coal,181
+fact_vermogen_land,naam_bron,overig (26 waarden),1521
+fact_vollasturen_schatting,locatie,De Bilt,8
+fact_vollasturen_schatting,locatie,Den Helder,8
+fact_vollasturen_schatting,locatie,Eindhoven,8
+fact_vollasturen_schatting,locatie,Groningen,8
+fact_vollasturen_schatting,locatie,Vlissingen,8
+fact_vs_dag,markt,VS Texas (ERCOT),2514
+fact_vs_dag,markt,VS Californie (CAISO),2493
+fact_vs_dag,datum,2020-01-01,2
+fact_vs_dag,datum,2024-08-08,2
+fact_vs_dag,datum,2024-08-01,2
+fact_vs_dag,datum,2024-08-02,2
+fact_vs_dag,datum,2024-08-03,2
+fact_vs_dag,datum,2024-08-04,2
+fact_vs_dag,datum,2024-08-05,2
+fact_vs_dag,datum,2024-08-06,2
+fact_vs_dag,datum,2024-08-07,2
+fact_vs_dag,datum,2024-08-09,2
+fact_vs_dag,datum,overig (2504 waarden),4987
+fact_vs_halfjaar,markt,VS Texas (ERCOT),7
+fact_vs_halfjaar,markt,VS Californie (CAISO),7
+fact_vs_opwek_jaar,markt,VS Californie (CAISO),58
+fact_vs_opwek_jaar,markt,VS Texas (ERCOT),54
+fact_vs_opwek_jaar,brandstof,COL,14
+fact_vs_opwek_jaar,brandstof,NG,14
+fact_vs_opwek_jaar,brandstof,NUC,14
+fact_vs_opwek_jaar,brandstof,OTH,14
+fact_vs_opwek_jaar,brandstof,SUN,14
+fact_vs_opwek_jaar,brandstof,WAT,14
+fact_vs_opwek_jaar,brandstof,WND,14
+fact_vs_opwek_jaar,brandstof,OIL,7
+fact_vs_opwek_jaar,brandstof,BAT,3
+fact_vs_opwek_jaar,brandstof,UES,2
+fact_vs_opwek_jaar,brandstof,overig (1 waarden),2
+fact_weer_uur,locatie,De Bilt,69048
+fact_weer_uur,locatie,Groningen,69048
+fact_weer_uur,locatie,Vlissingen,69048
+fact_weer_uur,locatie,Eindhoven,69048
+fact_weer_uur,locatie,Den Helder,69048
+fact_weer_uur,timestamp_utc,2019-01-01 00:00,5
+fact_weer_uur,timestamp_utc,2024-04-02 05:00,5
+fact_weer_uur,timestamp_utc,2024-04-01 15:00,5
+fact_weer_uur,timestamp_utc,2024-04-01 16:00,5
+fact_weer_uur,timestamp_utc,2024-04-01 17:00,5
+fact_weer_uur,timestamp_utc,2024-04-01 18:00,5
+fact_weer_uur,timestamp_utc,2024-04-01 19:00,5
+fact_weer_uur,timestamp_utc,2024-04-01 20:00,5
+fact_weer_uur,timestamp_utc,2024-04-01 21:00,5
+fact_weer_uur,timestamp_utc,2024-04-01 22:00,5
+fact_weer_uur,timestamp_utc,overig (69038 waarden),345190
+fact_wereld_markten,markt,Verenigd Koninkrijk,8
+fact_wereld_markten,markt,Japan (systeemprijs),8
+fact_wereld_markten,markt,VS Texas (ERCOT),7
+fact_wereld_markten,markt,VS Californie (CAISO),7
+fact_wereldbeeld,wereldbeeld,Huidig beleid,1
+fact_wereldbeeld,wereldbeeld,Orderly (Net Zero),1
+fact_wereldbeeld,wereldbeeld,Disorderly,1
+fact_worldbank,land,St. Lucia,173
+fact_worldbank,land,Madagascar,173
+fact_worldbank,land,Bhutan,173
+fact_worldbank,land,Antigua and Barbuda,173
+fact_worldbank,land,Burundi,173
+fact_worldbank,land,Seychelles,173
+fact_worldbank,land,Sierra Leone,173
+fact_worldbank,land,Dominica,173
+fact_worldbank,land,St. Kitts and Nevis,173
+fact_worldbank,land,St. Vincent and the Grenadines,173
+fact_worldbank,land,overig (255 waarden),39032
+fact_worldbank,iso3,BDI,173
+fact_worldbank,iso3,DMA,173
+fact_worldbank,iso3,ATG,173
+fact_worldbank,iso3,GRD,173
+fact_worldbank,iso3,SYC,173
+fact_worldbank,iso3,MDV,173
+fact_worldbank,iso3,SLE,173
+fact_worldbank,iso3,BLZ,173
+fact_worldbank,iso3,MDG,173
+fact_worldbank,iso3,BTN,173
+fact_worldbank,iso3,overig (251 waarden),38452
+fact_worldbank,indicator,bevolking,6890
+fact_worldbank,indicator,bbp_per_hoofd_usd,6676
+fact_worldbank,indicator,toegang_elektriciteit_pct,6550
+fact_worldbank,indicator,co2_per_hoofd_t,6275
+fact_worldbank,indicator,hernieuwbaar_in_eindverbruik_pct,5710
+fact_worldbank,indicator,hernieuwbaar_in_opwek_pct,5501
+fact_worldbank,indicator,rente_leningen_pct,3160

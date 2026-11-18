@@ -1,0 +1,2761 @@
+Country From,Month,Country To,Flow
+Albania,Jan,GR,15.75
+Albania,Feb,GR,15.95
+Albania,Mar,GR,14.01
+Albania,Apr,GR,16.31
+Albania,May,GR,18.91
+Albania,Jun,GR,16.55
+Albania,Jul,GR,3.19
+Albania,Aug,GR,-4.49
+Albania,Sep,GR,4.42
+Albania,Oct,GR,15.79
+Albania,Nov,GR,15.53
+Albania,Dec,GR,13.9
+Albania,Jan,ME,4.961579597
+Albania,Feb,ME,0.76925878
+Albania,Mar,ME,-6.924840524
+Albania,Apr,ME,-9.064760625
+Albania,May,ME,-10.82859355
+Albania,Jun,ME,-0.271472083
+Albania,Jul,ME,5.932606922
+Albania,Aug,ME,6.926737164
+Albania,Sep,ME,1.539457153
+Albania,Oct,ME,5.747237097
+Albania,Nov,ME,6.839319583
+Albania,Dec,ME,3.427987691
+Albania,Jan,MK,19.98304859
+Albania,Feb,MK,19.83948609
+Albania,Mar,MK,15.7678744
+Albania,Apr,MK,13.04360667
+Albania,May,MK,14.09183058
+Albania,Jun,MK,16.87488007
+Albania,Jul,MK,9.961453226
+Albania,Aug,MK,4.471270497
+Albania,Sep,MK,7.280663403
+Albania,Oct,MK,17.7656131
+Albania,Nov,MK,17.90851201
+Albania,Dec,MK,17.98782531
+Albania,Jan,XK,11.30057617
+Albania,Feb,XK,10.56195454
+Albania,Mar,XK,1.154199126
+Albania,Apr,XK,-3.964637639
+Albania,May,XK,0.74325625
+Albania,Jun,XK,6.767449236
+Albania,Jul,XK,6.896775739
+Albania,Aug,XK,6.024462298
+Albania,Sep,XK,3.475905
+Albania,Oct,XK,7.758095833
+Albania,Nov,XK,7.309010764
+Albania,Dec,XK,6.842647775
+Algeria,Jan,IT,0
+Algeria,Feb,IT,0
+Algeria,Mar,IT,0
+Algeria,Apr,IT,0
+Algeria,May,IT,0
+Algeria,Jun,IT,0
+Algeria,Jul,IT,0
+Algeria,Aug,IT,0
+Algeria,Sep,IT,0
+Algeria,Oct,IT,0
+Algeria,Nov,IT,0
+Algeria,Dec,IT,0
+Algeria,Jan,MA,-27.51469745
+Algeria,Feb,MA,-31.47015714
+Algeria,Mar,MA,-29.09339645
+Algeria,Apr,MA,-64.00605256
+Algeria,May,MA,-47.9731343
+Algeria,Jun,MA,-16.76111744
+Algeria,Jul,MA,-47.26729161
+Algeria,Aug,MA,-50.0966643
+Algeria,Sep,MA,-29.53260811
+Algeria,Oct,MA,-6.879416237
+Algeria,Nov,MA,-40.50260467
+Algeria,Dec,MA,-22.47192935
+Algeria,Jan,TN,16.78326454
+Algeria,Feb,TN,14.30088512
+Algeria,Mar,TN,14.87111559
+Algeria,Apr,TN,14.87032889
+Algeria,May,TN,19.04136892
+Algeria,Jun,TN,19.282765
+Algeria,Jul,TN,17.23193989
+Algeria,Aug,TN,19.68594204
+Algeria,Sep,TN,19.68004278
+Algeria,Oct,TN,17.87044215
+Algeria,Nov,TN,16.56319878
+Algeria,Dec,TN,13.45665369
+Austria,Jan,CH,-6.26
+Austria,Feb,CH,0.38
+Austria,Mar,CH,3.11
+Austria,Apr,CH,0.74
+Austria,May,CH,0.23
+Austria,Jun,CH,-1.86
+Austria,Jul,CH,-2.13
+Austria,Aug,CH,-2.58
+Austria,Sep,CH,-4.8
+Austria,Oct,CH,-1.46
+Austria,Nov,CH,-0.01
+Austria,Dec,CH,-1.91
+Austria,Jan,CZ,3.572549498
+Austria,Feb,CZ,4.420009418
+Austria,Mar,CZ,5.038100555
+Austria,Apr,CZ,4.605280424
+Austria,May,CZ,6.514775057
+Austria,Jun,CZ,6.755263758
+Austria,Jul,CZ,6.654044108
+Austria,Aug,CZ,6.114674523
+Austria,Sep,CZ,5.298091042
+Austria,Oct,CZ,4.294353833
+Austria,Nov,CZ,2.448462256
+Austria,Dec,CZ,3.640271139
+Austria,Jan,DE,-17.40335175
+Austria,Feb,DE,5.00989225
+Austria,Mar,DE,-9.279771287
+Austria,Apr,DE,-3.79294874
+Austria,May,DE,-30.5059027
+Austria,Jun,DE,-18.51936413
+Austria,Jul,DE,-24.83976225
+Austria,Aug,DE,-24.94034034
+Austria,Sep,DE,-39.94000499
+Austria,Oct,DE,-22.70108812
+Austria,Nov,DE,-32.56473842
+Austria,Dec,DE,-17.00769526
+Austria,Jan,HU,-2.486886825
+Austria,Feb,HU,-2.268046584
+Austria,Mar,HU,1.824116928
+Austria,Apr,HU,2.63130733
+Austria,May,HU,5.380267486
+Austria,Jun,HU,5.144125698
+Austria,Jul,HU,5.583573785
+Austria,Aug,HU,5.677683853
+Austria,Sep,HU,4.950880813
+Austria,Oct,HU,0.809233104
+Austria,Nov,HU,1.104059074
+Austria,Dec,HU,-0.852511075
+Austria,Jan,IT,-6.304640215
+Austria,Feb,IT,-2.697080847
+Austria,Mar,IT,6.006477387
+Austria,Apr,IT,4.640509819
+Austria,May,IT,5.438389404
+Austria,Jun,IT,6.230942932
+Austria,Jul,IT,7.891081977
+Austria,Aug,IT,7.82337109
+Austria,Sep,IT,7.490367412
+Austria,Oct,IT,3.97295582
+Austria,Nov,IT,4.12896715
+Austria,Dec,IT,-2.2362512
+Austria,Jan,SI,-4.263409355
+Austria,Feb,SI,-3.355194066
+Austria,Mar,SI,5.642929731
+Austria,Apr,SI,6.359901376
+Austria,May,SI,9.585391457
+Austria,Jun,SI,9.525886683
+Austria,Jul,SI,10.21897965
+Austria,Aug,SI,10.04948159
+Austria,Sep,SI,9.408804243
+Austria,Oct,SI,4.464067657
+Austria,Nov,SI,4.48920712
+Austria,Dec,SI,-0.513534078
+Austria,Jan,SK,0
+Austria,Feb,SK,0
+Austria,Mar,SK,0
+Austria,Apr,SK,0
+Austria,May,SK,0
+Austria,Jun,SK,0
+Austria,Jul,SK,0
+Austria,Aug,SK,0
+Austria,Sep,SK,0
+Austria,Oct,SK,0
+Austria,Nov,SK,0
+Austria,Dec,SK,0
+Baltic Hub,Jan,DE,0
+Baltic Hub,Feb,DE,0
+Baltic Hub,Mar,DE,0
+Baltic Hub,Apr,DE,0
+Baltic Hub,May,DE,0
+Baltic Hub,Jun,DE,0
+Baltic Hub,Jul,DE,0
+Baltic Hub,Aug,DE,0
+Baltic Hub,Sep,DE,0
+Baltic Hub,Oct,DE,0
+Baltic Hub,Nov,DE,0
+Baltic Hub,Dec,DE,0
+Baltic Hub,Jan,EE,24.16774881
+Baltic Hub,Feb,EE,25.36343853
+Baltic Hub,Mar,EE,21.17735908
+Baltic Hub,Apr,EE,17.53271957
+Baltic Hub,May,EE,22.28564627
+Baltic Hub,Jun,EE,22.99077494
+Baltic Hub,Jul,EE,14.02927646
+Baltic Hub,Aug,EE,18.95725272
+Baltic Hub,Sep,EE,18.95833349
+Baltic Hub,Oct,EE,24.81639725
+Baltic Hub,Nov,EE,36.21956515
+Baltic Hub,Dec,EE,29.28643122
+Baltic Hub,Jan,LV,6.15675827
+Baltic Hub,Feb,LV,1.866671693
+Baltic Hub,Mar,LV,5.581138172
+Baltic Hub,Apr,LV,2.866175679
+Baltic Hub,May,LV,2.647489397
+Baltic Hub,Jun,LV,3.300290278
+Baltic Hub,Jul,LV,6.594847312
+Baltic Hub,Aug,LV,3.920229182
+Baltic Hub,Sep,LV,6.153311975
+Baltic Hub,Oct,LV,5.581382676
+Baltic Hub,Nov,LV,1.060156235
+Baltic Hub,Dec,LV,5.182666389
+Belgium,Jan,DE,3.47319124
+Belgium,Feb,DE,1.856580137
+Belgium,Mar,DE,0.612236443
+Belgium,Apr,DE,-1.955977267
+Belgium,May,DE,-2.914122386
+Belgium,Jun,DE,-3.090420184
+Belgium,Jul,DE,-1.005741446
+Belgium,Aug,DE,-1.630180774
+Belgium,Sep,DE,-0.222722604
+Belgium,Oct,DE,0.00791182
+Belgium,Nov,DE,0.593455425
+Belgium,Dec,DE,3.004332206
+Belgium,Jan,FR,-9.186577708
+Belgium,Feb,FR,-14.15296984
+Belgium,Mar,FR,-9.583086226
+Belgium,Apr,FR,-10.49575293
+Belgium,May,FR,0.203610217
+Belgium,Jun,FR,-8.638581779
+Belgium,Jul,FR,-2.032576669
+Belgium,Aug,FR,-4.686961873
+Belgium,Sep,FR,-8.852787158
+Belgium,Oct,FR,-10.38809734
+Belgium,Nov,FR,-7.610706334
+Belgium,Dec,FR,-18.9681572
+Belgium,Jan,LU,1.565530131
+Belgium,Feb,LU,1.153890804
+Belgium,Mar,LU,0.876793326
+Belgium,Apr,LU,0.257113047
+Belgium,May,LU,0.114301823
+Belgium,Jun,LU,-0.007950844
+Belgium,Jul,LU,0.485272345
+Belgium,Aug,LU,0.288938797
+Belgium,Sep,LU,0.787814991
+Belgium,Oct,LU,0.859403835
+Belgium,Nov,LU,0.986366919
+Belgium,Dec,LU,1.494952787
+Belgium,Jan,NL,-5.34944912
+Belgium,Feb,NL,3.389159996
+Belgium,Mar,NL,-5.963691082
+Belgium,Apr,NL,-7.304817517
+Belgium,May,NL,-15.00654285
+Belgium,Jun,NL,-9.827483611
+Belgium,Jul,NL,-7.170732201
+Belgium,Aug,NL,-11.68004595
+Belgium,Sep,NL,-4.5313728
+Belgium,Oct,NL,-3.418793999
+Belgium,Nov,NL,2.083186809
+Belgium,Dec,NL,3.200296232
+Belgium,Jan,NW,-19.89227027
+Belgium,Feb,NW,-16.65240536
+Belgium,Mar,NW,-17.53412589
+Belgium,Apr,NW,-12.88737604
+Belgium,May,NW,-15.24368641
+Belgium,Jun,NW,-10.87630951
+Belgium,Jul,NW,-14.29919394
+Belgium,Aug,NW,-15.14108402
+Belgium,Sep,NW,-18.47305628
+Belgium,Oct,NW,-18.94075394
+Belgium,Nov,NW,-19.78481866
+Belgium,Dec,NW,-18.53204808
+Belgium,Jan,UK,-5.590773358
+Belgium,Feb,UK,-4.306322613
+Belgium,Mar,UK,-4.709240011
+Belgium,Apr,UK,-2.990526287
+Belgium,May,UK,-3.946825943
+Belgium,Jun,UK,-2.263857793
+Belgium,Jul,UK,-3.470695688
+Belgium,Aug,UK,-4.128115649
+Belgium,Sep,UK,-4.472075153
+Belgium,Oct,UK,-5.070672676
+Belgium,Nov,UK,-5.00614946
+Belgium,Dec,UK,-4.169052458
+Bosnia and Herzegovina,Jan,HR,14.9
+Bosnia and Herzegovina,Feb,HR,18.75
+Bosnia and Herzegovina,Mar,HR,15.07
+Bosnia and Herzegovina,Apr,HR,6.5
+Bosnia and Herzegovina,May,HR,3.09
+Bosnia and Herzegovina,Jun,HR,6.12
+Bosnia and Herzegovina,Jul,HR,5.58
+Bosnia and Herzegovina,Aug,HR,1.94
+Bosnia and Herzegovina,Sep,HR,1.52
+Bosnia and Herzegovina,Oct,HR,10.3
+Bosnia and Herzegovina,Nov,HR,11.16
+Bosnia and Herzegovina,Dec,HR,11.32
+Bosnia and Herzegovina,Jan,ME,-11.85542312
+Bosnia and Herzegovina,Feb,ME,-10.85975219
+Bosnia and Herzegovina,Mar,ME,-7.128998364
+Bosnia and Herzegovina,Apr,ME,-3.235839328
+Bosnia and Herzegovina,May,ME,-7.445761605
+Bosnia and Herzegovina,Jun,ME,-8.496749985
+Bosnia and Herzegovina,Jul,ME,-7.346194566
+Bosnia and Herzegovina,Aug,ME,-5.517498147
+Bosnia and Herzegovina,Sep,ME,-3.230437138
+Bosnia and Herzegovina,Oct,ME,-7.531399769
+Bosnia and Herzegovina,Nov,ME,-6.558063548
+Bosnia and Herzegovina,Dec,ME,-8.399867411
+Bosnia and Herzegovina,Jan,RS,-6.155430412
+Bosnia and Herzegovina,Feb,RS,-1.755272155
+Bosnia and Herzegovina,Mar,RS,-0.340085359
+Bosnia and Herzegovina,Apr,RS,-5.265894785
+Bosnia and Herzegovina,May,RS,3.652758186
+Bosnia and Herzegovina,Jun,RS,2.292253627
+Bosnia and Herzegovina,Jul,RS,-1.268818372
+Bosnia and Herzegovina,Aug,RS,-1.907822953
+Bosnia and Herzegovina,Sep,RS,-0.576692944
+Bosnia and Herzegovina,Oct,RS,-5.381586277
+Bosnia and Herzegovina,Nov,RS,-7.818362664
+Bosnia and Herzegovina,Dec,RS,-4.798334526
+Bulgaria,Jan,GR,-1.78
+Bulgaria,Feb,GR,-5.28
+Bulgaria,Mar,GR,8.27
+Bulgaria,Apr,GR,12.65
+Bulgaria,May,GR,3.35
+Bulgaria,Jun,GR,-1.13
+Bulgaria,Jul,GR,-9.33
+Bulgaria,Aug,GR,-9.09
+Bulgaria,Sep,GR,-1.88
+Bulgaria,Oct,GR,0.48
+Bulgaria,Nov,GR,2.24
+Bulgaria,Dec,GR,2.9
+Bulgaria,Jan,MK,1.138747026
+Bulgaria,Feb,MK,-0.173267523
+Bulgaria,Mar,MK,2.810283855
+Bulgaria,Apr,MK,3.418891227
+Bulgaria,May,MK,0.443708835
+Bulgaria,Jun,MK,-1.387597406
+Bulgaria,Jul,MK,-3.564119114
+Bulgaria,Aug,MK,-1.722849085
+Bulgaria,Sep,MK,0.098921067
+Bulgaria,Oct,MK,0.313586004
+Bulgaria,Nov,MK,0.904585625
+Bulgaria,Dec,MK,1.499265688
+Bulgaria,Jan,RO,-4.72149093
+Bulgaria,Feb,RO,-1.534411073
+Bulgaria,Mar,RO,-15.81587851
+Bulgaria,Apr,RO,-22.92184241
+Bulgaria,May,RO,-12.25942925
+Bulgaria,Jun,RO,-12.37031715
+Bulgaria,Jul,RO,-11.43082865
+Bulgaria,Aug,RO,-4.691815758
+Bulgaria,Sep,RO,-6.033079208
+Bulgaria,Oct,RO,-4.100086789
+Bulgaria,Nov,RO,-6.901787083
+Bulgaria,Dec,RO,-8.334304567
+Bulgaria,Jan,RS,8.692301216
+Bulgaria,Feb,RS,2.78624892
+Bulgaria,Mar,RS,-0.533462552
+Bulgaria,Apr,RS,-2.397007609
+Bulgaria,May,RS,-2.534635899
+Bulgaria,Jun,RS,-1.623071576
+Bulgaria,Jul,RS,-0.775383442
+Bulgaria,Aug,RS,3.158140282
+Bulgaria,Sep,RS,2.34645281
+Bulgaria,Oct,RS,5.222531473
+Bulgaria,Nov,RS,4.03829609
+Bulgaria,Dec,RS,6.279710246
+Bulgaria,Jan,TR,12.12843285
+Bulgaria,Feb,TR,12.56549704
+Bulgaria,Mar,TR,14.12937669
+Bulgaria,Apr,TR,14.13589625
+Bulgaria,May,TR,13.90740352
+Bulgaria,Jun,TR,13.21890615
+Bulgaria,Jul,TR,13.69662872
+Bulgaria,Aug,TR,11.3162254
+Bulgaria,Sep,TR,13.27361916
+Bulgaria,Oct,TR,13.34856691
+Bulgaria,Nov,TR,13.30346688
+Bulgaria,Dec,TR,13.1810464
+Croatia,Jan,BA,-12.14
+Croatia,Feb,BA,-15.29
+Croatia,Mar,BA,-12.28
+Croatia,Apr,BA,-5.3
+Croatia,May,BA,-2.52
+Croatia,Jun,BA,-4.99
+Croatia,Jul,BA,-4.55
+Croatia,Aug,BA,-1.58
+Croatia,Sep,BA,-1.24
+Croatia,Oct,BA,-8.39
+Croatia,Nov,BA,-9.1
+Croatia,Dec,BA,-9.23
+Croatia,Jan,HU,11.3260547
+Croatia,Feb,HU,10.38602475
+Croatia,Mar,HU,0.220091097
+Croatia,Apr,HU,-6.092616514
+Croatia,May,HU,-1.18420165
+Croatia,Jun,HU,-0.053025405
+Croatia,Jul,HU,0.629739011
+Croatia,Aug,HU,-1.624101375
+Croatia,Sep,HU,-3.974315114
+Croatia,Oct,HU,-2.617407743
+Croatia,Nov,HU,-1.110834962
+Croatia,Dec,HU,7.845520274
+Croatia,Jan,RS,-5.040845439
+Croatia,Feb,RS,-4.004597915
+Croatia,Mar,RS,-3.355412095
+Croatia,Apr,RS,-2.358117393
+Croatia,May,RS,0.348486706
+Croatia,Jun,RS,-1.203864148
+Croatia,Jul,RS,-2.214642507
+Croatia,Aug,RS,-1.840319368
+Croatia,Sep,RS,-0.610927534
+Croatia,Oct,RS,-3.825005116
+Croatia,Nov,RS,-4.160685224
+Croatia,Dec,RS,-3.738898411
+Croatia,Jan,SI,27.12022334
+Croatia,Feb,SI,25.88619114
+Croatia,Mar,SI,7.494884918
+Croatia,Apr,SI,-9.141620903
+Croatia,May,SI,-18.29663348
+Croatia,Jun,SI,-5.235158928
+Croatia,Jul,SI,-9.082043261
+Croatia,Aug,SI,-13.56771725
+Croatia,Sep,SI,-6.742805162
+Croatia,Oct,SI,8.311867545
+Croatia,Nov,SI,11.12322161
+Croatia,Dec,SI,18.69035477
+Cyprus,Jan,EG,0
+Cyprus,Feb,EG,0
+Cyprus,Mar,EG,0
+Cyprus,Apr,EG,0
+Cyprus,May,EG,0
+Cyprus,Jun,EG,0
+Cyprus,Jul,EG,0
+Cyprus,Aug,EG,0
+Cyprus,Sep,EG,0
+Cyprus,Oct,EG,0
+Cyprus,Nov,EG,0
+Cyprus,Dec,EG,0
+Cyprus,Jan,GR,-40.39
+Cyprus,Feb,GR,-37.27
+Cyprus,Mar,GR,-32.63
+Cyprus,Apr,GR,-29.12
+Cyprus,May,GR,-25.05
+Cyprus,Jun,GR,-37.38
+Cyprus,Jul,GR,-47.08
+Cyprus,Aug,GR,-47.19
+Cyprus,Sep,GR,-43.16
+Cyprus,Oct,GR,-36.85
+Cyprus,Nov,GR,-34.38
+Cyprus,Dec,GR,-36.27
+Cyprus,Jan,IL,34.30629946
+Cyprus,Feb,IL,32.4813631
+Cyprus,Mar,IL,35.01676781
+Cyprus,Apr,IL,34.0349491
+Cyprus,May,IL,28.01970376
+Cyprus,Jun,IL,30.91102028
+Cyprus,Jul,IL,28.34297991
+Cyprus,Aug,IL,28.35937554
+Cyprus,Sep,IL,36.02401035
+Cyprus,Oct,IL,32.78301882
+Cyprus,Nov,IL,31.94856896
+Cyprus,Dec,IL,29.04669993
+Czechia,Jan,AT,-7.38
+Czechia,Feb,AT,-9.13
+Czechia,Mar,AT,-10.41
+Czechia,Apr,AT,-9.52
+Czechia,May,AT,-13.46
+Czechia,Jun,AT,-13.96
+Czechia,Jul,AT,-13.75
+Czechia,Aug,AT,-12.64
+Czechia,Sep,AT,-10.95
+Czechia,Oct,AT,-8.87
+Czechia,Nov,AT,-5.06
+Czechia,Dec,AT,-7.52
+Czechia,Jan,DE,-23.41312829
+Czechia,Feb,DE,-19.50625498
+Czechia,Mar,DE,-26.05425727
+Czechia,Apr,DE,-22.40017289
+Czechia,May,DE,-37.37804755
+Czechia,Jun,DE,-38.41236421
+Czechia,Jul,DE,-38.52011274
+Czechia,Aug,DE,-36.61094504
+Czechia,Sep,DE,-35.90832602
+Czechia,Oct,DE,-31.78271507
+Czechia,Nov,DE,-30.85971068
+Czechia,Dec,DE,-24.14968159
+Czechia,Jan,PL,-4.538677055
+Czechia,Feb,PL,-2.724907994
+Czechia,Mar,PL,0.336914609
+Czechia,Apr,PL,3.780412717
+Czechia,May,PL,-4.651506825
+Czechia,Jun,PL,-7.16764974
+Czechia,Jul,PL,0.181873824
+Czechia,Aug,PL,-0.053413936
+Czechia,Sep,PL,-3.286225564
+Czechia,Oct,PL,-3.933169754
+Czechia,Nov,PL,-6.998830208
+Czechia,Dec,PL,-0.281056719
+Czechia,Jan,SK,-15.91161737
+Czechia,Feb,SK,-16.93342125
+Czechia,Mar,SK,-10.06578816
+Czechia,Apr,SK,5.649613477
+Czechia,May,SK,-9.009856582
+Czechia,Jun,SK,-16.24645176
+Czechia,Jul,SK,9.002805402
+Czechia,Aug,SK,15.83598013
+Czechia,Sep,SK,10.98405145
+Czechia,Oct,SK,-10.10241961
+Czechia,Nov,SK,-4.910013281
+Czechia,Dec,SK,-13.49750113
+Denmark,Jan,DE,21.9196475
+Denmark,Feb,DE,14.7499481
+Denmark,Mar,DE,15.11153719
+Denmark,Apr,DE,12.10418872
+Denmark,May,DE,11.58943193
+Denmark,Jun,DE,13.17828053
+Denmark,Jul,DE,13.10229186
+Denmark,Aug,DE,18.97858357
+Denmark,Sep,DE,26.53574937
+Denmark,Oct,DE,22.35545317
+Denmark,Nov,DE,21.14975624
+Denmark,Dec,DE,17.59970578
+Denmark,Jan,NL,0.087423139
+Denmark,Feb,NL,-0.222157562
+Denmark,Mar,NL,0.747108061
+Denmark,Apr,NL,1.575176805
+Denmark,May,NL,1.382513647
+Denmark,Jun,NL,2.749064408
+Denmark,Jul,NL,1.362183126
+Denmark,Aug,NL,1.768742069
+Denmark,Sep,NL,2.66825046
+Denmark,Oct,NL,1.682502205
+Denmark,Nov,NL,1.633512045
+Denmark,Dec,NL,-0.229322931
+Denmark,Jan,NO,-7.576831912
+Denmark,Feb,NO,-5.639925816
+Denmark,Mar,NO,-4.367836675
+Denmark,Apr,NO,-7.496999525
+Denmark,May,NO,-5.584289647
+Denmark,Jun,NO,-6.604615163
+Denmark,Jul,NO,-7.456953833
+Denmark,Aug,NO,-6.647493911
+Denmark,Sep,NO,-6.231091393
+Denmark,Oct,NO,-5.288061067
+Denmark,Nov,NO,-1.313661579
+Denmark,Dec,NO,-6.597873549
+Denmark,Jan,NW,-8.937942929
+Denmark,Feb,NW,-8.517659905
+Denmark,Mar,NW,-7.521381792
+Denmark,Apr,NW,-3.808781353
+Denmark,May,NW,-4.528877114
+Denmark,Jun,NW,-3.932591127
+Denmark,Jul,NW,-5.288513664
+Denmark,Aug,NW,-5.264983301
+Denmark,Sep,NW,-5.21320679
+Denmark,Oct,NW,-6.721013928
+Denmark,Nov,NW,-6.726997313
+Denmark,Dec,NW,-8.917895495
+Denmark,Jan,PL,0
+Denmark,Feb,PL,0
+Denmark,Mar,PL,0
+Denmark,Apr,PL,0
+Denmark,May,PL,0
+Denmark,Jun,PL,0
+Denmark,Jul,PL,0
+Denmark,Aug,PL,0
+Denmark,Sep,PL,0
+Denmark,Oct,PL,0
+Denmark,Nov,PL,0
+Denmark,Dec,PL,0
+Denmark,Jan,SE,-2.521492499
+Denmark,Feb,SE,0.072313587
+Denmark,Mar,SE,2.114696794
+Denmark,Apr,SE,-1.518187827
+Denmark,May,SE,1.401337899
+Denmark,Jun,SE,-1.994792831
+Denmark,Jul,SE,-0.947669233
+Denmark,Aug,SE,-0.798380597
+Denmark,Sep,SE,-2.679906562
+Denmark,Oct,SE,-0.68413406
+Denmark,Nov,SE,0.669215121
+Denmark,Dec,SE,-2.301984344
+Denmark,Jan,UK,-12.09705909
+Denmark,Feb,UK,-11.22729977
+Denmark,Mar,UK,-7.25081035
+Denmark,Apr,UK,0.541449005
+Denmark,May,UK,-2.02973372
+Denmark,Jun,UK,6.178562432
+Denmark,Jul,UK,-2.240278404
+Denmark,Aug,UK,-1.746962916
+Denmark,Sep,UK,-0.360953844
+Denmark,Oct,UK,-5.842004441
+Denmark,Nov,UK,-7.036428756
+Denmark,Dec,UK,-10.69640867
+Egypt,Jan,CY,0
+Egypt,Feb,CY,0
+Egypt,Mar,CY,0
+Egypt,Apr,CY,0
+Egypt,May,CY,0
+Egypt,Jun,CY,0
+Egypt,Jul,CY,0
+Egypt,Aug,CY,0
+Egypt,Sep,CY,0
+Egypt,Oct,CY,0
+Egypt,Nov,CY,0
+Egypt,Dec,CY,0
+Egypt,Jan,GR,-1.24
+Egypt,Feb,GR,-20.98
+Egypt,Mar,GR,-18.6
+Egypt,Apr,GR,-16.22
+Egypt,May,GR,-15.53
+Egypt,Jun,GR,-27.43
+Egypt,Jul,GR,-39.62
+Egypt,Aug,GR,-25.71
+Egypt,Sep,GR,-18.57
+Egypt,Oct,GR,-8.45
+Egypt,Nov,GR,-0.82
+Egypt,Dec,GR,-4.17
+Egypt,Jan,LY,4.646951083
+Egypt,Feb,LY,4.570447941
+Egypt,Mar,LY,4.597290711
+Egypt,Apr,LY,4.663511856
+Egypt,May,LY,4.581820089
+Egypt,Jun,LY,4.170059536
+Egypt,Jul,LY,3.367661727
+Egypt,Aug,LY,3.999959295
+Egypt,Sep,LY,4.466987833
+Egypt,Oct,LY,4.354801583
+Egypt,Nov,LY,4.466614273
+Egypt,Dec,LY,4.613243552
+Egypt,Jan,SA,3.250395591
+Egypt,Feb,SA,3.25203252
+Egypt,Mar,SA,3.25203252
+Egypt,Apr,SA,3.25203252
+Egypt,May,SA,3.25203252
+Egypt,Jun,SA,3.25203252
+Egypt,Jul,SA,3.25203252
+Egypt,Aug,SA,3.25203252
+Egypt,Sep,SA,3.25203252
+Egypt,Oct,SA,3.25203252
+Egypt,Nov,SA,3.25203252
+Egypt,Dec,SA,3.253728643
+Estonia,Jan,BW,-17.84329281
+Estonia,Feb,BW,-18.72608259
+Estonia,Mar,BW,-15.63545789
+Estonia,Apr,BW,-12.94458377
+Estonia,May,BW,-16.45371751
+Estonia,Jun,BW,-16.97432112
+Estonia,Jul,BW,-10.35795637
+Estonia,Aug,BW,-13.99633096
+Estonia,Sep,BW,-13.99712891
+Estonia,Oct,BW,-18.32219649
+Estonia,Nov,BW,-26.74127042
+Estonia,Dec,BW,-21.62246767
+Estonia,Jan,FI,-0.763157809
+Estonia,Feb,FI,3.075447845
+Estonia,Mar,FI,-3.77844011
+Estonia,Apr,FI,-0.078184099
+Estonia,May,FI,5.174411601
+Estonia,Jun,FI,8.475415846
+Estonia,Jul,FI,-1.160032307
+Estonia,Aug,FI,2.347656042
+Estonia,Sep,FI,1.147126493
+Estonia,Oct,FI,4.017376331
+Estonia,Nov,FI,12.54931077
+Estonia,Dec,FI,4.326025231
+Estonia,Jan,LV,0.964177415
+Estonia,Feb,LV,-2.481731415
+Estonia,Mar,LV,2.036000026
+Estonia,Apr,LV,-0.690053619
+Estonia,May,LV,-0.574844862
+Estonia,Jun,LV,-1.304234505
+Estonia,Jul,LV,1.761169211
+Estonia,Aug,LV,0.341795562
+Estonia,Sep,LV,0.822156481
+Estonia,Oct,LV,1.083143419
+Estonia,Nov,LV,-3.788532495
+Estonia,Dec,LV,-0.394028987
+Estonia,Jan,RU,0
+Estonia,Feb,RU,0
+Estonia,Mar,RU,0
+Estonia,Apr,RU,0
+Estonia,May,RU,0
+Estonia,Jun,RU,0
+Estonia,Jul,RU,0
+Estonia,Aug,RU,0
+Estonia,Sep,RU,0
+Estonia,Oct,RU,0
+Estonia,Nov,RU,0
+Estonia,Dec,RU,0
+Finland,Jan,EE,0.81375907
+Finland,Feb,EE,-3.279365748
+Finland,Mar,EE,4.028969992
+Finland,Apr,EE,0.083368104
+Finland,May,EE,-5.517501524
+Finland,Jun,EE,-9.037379213
+Finland,Jul,EE,1.236948374
+Finland,Aug,EE,-2.50331763
+Finland,Sep,EE,-1.223186839
+Finland,Oct,EE,-4.283748904
+Finland,Nov,EE,-13.38139419
+Finland,Dec,EE,-4.612862803
+Finland,Jan,NO,0
+Finland,Feb,NO,0
+Finland,Mar,NO,0
+Finland,Apr,NO,0
+Finland,May,NO,0
+Finland,Jun,NO,0
+Finland,Jul,NO,0
+Finland,Aug,NO,0
+Finland,Sep,NO,0
+Finland,Oct,NO,0
+Finland,Nov,NO,0
+Finland,Dec,NO,0
+Finland,Jan,RU,0
+Finland,Feb,RU,0
+Finland,Mar,RU,0
+Finland,Apr,RU,0
+Finland,May,RU,0
+Finland,Jun,RU,0
+Finland,Jul,RU,0
+Finland,Aug,RU,0
+Finland,Sep,RU,0
+Finland,Oct,RU,0
+Finland,Nov,RU,0
+Finland,Dec,RU,0
+Finland,Jan,SE,25.85788544
+Finland,Feb,SE,11.41774905
+Finland,Mar,SE,7.578112843
+Finland,Apr,SE,-2.147336546
+Finland,May,SE,-8.405167559
+Finland,Jun,SE,-10.74890619
+Finland,Jul,SE,-18.54881191
+Finland,Aug,SE,-18.07355106
+Finland,Sep,SE,-1.628735664
+Finland,Oct,SE,-1.333808137
+Finland,Nov,SE,2.3523182
+Finland,Dec,SE,9.94843192
+France,Jan,BE,3.952996547
+France,Feb,BE,6.090041655
+France,Mar,BE,4.123614687
+France,Apr,BE,4.516336376
+France,May,BE,-0.087613746
+France,Jun,BE,3.717193173
+France,Jul,BE,0.874620431
+France,Aug,BE,2.016805897
+France,Sep,BE,3.809366031
+France,Oct,BE,4.470012037
+France,Nov,BE,3.274897009
+France,Dec,BE,8.162023148
+France,Jan,CH,8.06
+France,Feb,CH,7
+France,Mar,CH,8.08
+France,Apr,CH,2.52
+France,May,CH,2.59
+France,Jun,CH,-0.65
+France,Jul,CH,2.82
+France,Aug,CH,1.92
+France,Sep,CH,9.85
+France,Oct,CH,9.08
+France,Nov,CH,11.79
+France,Dec,CH,10.03
+France,Jan,DE,6.759112624
+France,Feb,DE,4.785413126
+France,Mar,DE,3.001026157
+France,Apr,DE,-1.573107837
+France,May,DE,-6.022280991
+France,Jun,DE,-4.514616833
+France,Jul,DE,-2.158313851
+France,Aug,DE,-3.315404967
+France,Sep,DE,0.715726075
+France,Oct,DE,2.225820691
+France,Nov,DE,1.294405743
+France,Dec,DE,8.357545768
+France,Jan,ES,-14.94663682
+France,Feb,ES,-17.17148152
+France,Mar,ES,-16.37499387
+France,Apr,ES,-16.61525854
+France,May,ES,-15.30030874
+France,Jun,ES,-14.28610442
+France,Jul,ES,-12.88666765
+France,Aug,ES,-10.41697211
+France,Sep,ES,-12.61846144
+France,Oct,ES,-10.95624835
+France,Nov,ES,-15.75987315
+France,Dec,ES,-16.06421911
+France,Jan,IE,-1.621586146
+France,Feb,IE,-1.441896033
+France,Mar,IE,-1.686861981
+France,Apr,IE,-0.991264515
+France,May,IE,-1.165282292
+France,Jun,IE,-0.338837949
+France,Jul,IE,-0.626837934
+France,Aug,IE,-1.321869688
+France,Sep,IE,-0.897784752
+France,Oct,IE,-0.705916299
+France,Nov,IE,-1.698977455
+France,Dec,IE,-1.099376567
+France,Jan,IT,4.241207967
+France,Feb,IT,3.869915986
+France,Mar,IT,8.67646846
+France,Apr,IT,5.305727319
+France,May,IT,7.563284744
+France,Jun,IT,7.062267432
+France,Jul,IT,10.11133185
+France,Aug,IT,9.427006534
+France,Sep,IT,11.27721345
+France,Oct,IT,10.19348367
+France,Nov,IT,11.05038674
+France,Dec,IT,8.151227443
+France,Jan,LU,0.354763184
+France,Feb,LU,0.353688318
+France,Mar,LU,0.334674581
+France,Apr,LU,0.352490198
+France,May,LU,0.342646756
+France,Jun,LU,0.379342458
+France,Jul,LU,0.362321098
+France,Aug,LU,0.334895187
+France,Sep,LU,0.367737042
+France,Oct,LU,0.352246573
+France,Nov,LU,0.362477952
+France,Dec,LU,0.331863527
+France,Jan,UK,-14.93841402
+France,Feb,UK,-8.121758592
+France,Mar,UK,-14.19643354
+France,Apr,UK,-6.000344222
+France,May,UK,-14.21383765
+France,Jun,UK,-3.314021187
+France,Jul,UK,-15.26240014
+France,Aug,UK,-14.6049828
+France,Sep,UK,-14.95220611
+France,Oct,UK,-14.63242722
+France,Nov,UK,-14.63587078
+France,Dec,UK,-10.28282181
+Germany,Jan,AT,5.14
+Germany,Feb,AT,-1.48
+Germany,Mar,AT,2.74
+Germany,Apr,AT,1.12
+Germany,May,AT,9
+Germany,Jun,AT,5.47
+Germany,Jul,AT,7.33
+Germany,Aug,AT,7.36
+Germany,Sep,AT,11.79
+Germany,Oct,AT,6.7
+Germany,Nov,AT,9.61
+Germany,Dec,AT,5.02
+Germany,Jan,BE,-1.184209799
+Germany,Feb,BE,-0.633014493
+Germany,Mar,BE,-0.208746465
+Germany,Apr,BE,0.666904667
+Germany,May,BE,0.99359121
+Germany,Jun,BE,1.053701225
+Germany,Jul,BE,0.342914857
+Germany,Aug,BE,0.555821984
+Germany,Sep,BE,0.075938891
+Germany,Oct,BE,-0.002697592
+Germany,Nov,BE,-0.202342941
+Germany,Dec,BE,-1.024348903
+Germany,Jan,BW,0
+Germany,Feb,BW,0
+Germany,Mar,BW,0
+Germany,Apr,BW,0
+Germany,May,BW,0
+Germany,Jun,BW,0
+Germany,Jul,BW,0
+Germany,Aug,BW,0
+Germany,Sep,BW,0
+Germany,Oct,BW,0
+Germany,Nov,BW,0
+Germany,Dec,BW,0
+Germany,Jan,CH,0.41
+Germany,Feb,CH,-0.69
+Germany,Mar,CH,3.62
+Germany,Apr,CH,1.63
+Germany,May,CH,4.84
+Germany,Jun,CH,2.63
+Germany,Jul,CH,2.79
+Germany,Aug,CH,2.22
+Germany,Sep,CH,5.05
+Germany,Oct,CH,3.77
+Germany,Nov,CH,6.26
+Germany,Dec,CH,2.13
+Germany,Jan,CZ,3.3436131
+Germany,Feb,CZ,2.78567515
+Germany,Mar,CZ,3.720790952
+Germany,Apr,CZ,3.198953621
+Germany,May,CZ,5.337933824
+Germany,Jun,CZ,5.485643891
+Germany,Jul,CZ,5.501031385
+Germany,Aug,CZ,5.22838443
+Germany,Sep,CZ,5.128043881
+Germany,Oct,CZ,4.538868158
+Germany,Nov,CZ,4.40705452
+Germany,Dec,CZ,3.448799781
+Germany,Jan,DK,-7.555345195
+Germany,Feb,DK,-5.084066682
+Germany,Mar,DK,-5.208700545
+Germany,Apr,DK,-4.17211655
+Germany,May,DK,-3.994688273
+Germany,Jun,DK,-4.542338487
+Germany,Jul,DK,-4.516146434
+Germany,Aug,DK,-6.541608398
+Germany,Sep,DK,-9.146440267
+Germany,Oct,DK,-7.705560305
+Germany,Nov,DK,-7.289976226
+Germany,Dec,DK,-6.066331702
+Germany,Jan,FR,-5.355708786
+Germany,Feb,FR,-3.791811226
+Germany,Mar,FR,-2.377918975
+Germany,Apr,FR,1.246481297
+Germany,May,FR,4.771866518
+Germany,Jun,FR,3.57724074
+Germany,Jul,FR,1.710180182
+Germany,Aug,FR,2.62702288
+Germany,Sep,FR,-0.567118887
+Germany,Oct,FR,-1.763670484
+Germany,Nov,FR,-1.0256465
+Germany,Dec,FR,-6.622257061
+Germany,Jan,GR,0
+Germany,Feb,GR,0
+Germany,Mar,GR,0
+Germany,Apr,GR,0
+Germany,May,GR,0
+Germany,Jun,GR,0
+Germany,Jul,GR,0
+Germany,Aug,GR,0
+Germany,Sep,GR,0
+Germany,Oct,GR,0
+Germany,Nov,GR,0
+Germany,Dec,GR,0
+Germany,Jan,LU,1.070273777
+Germany,Feb,LU,1.339136915
+Germany,Mar,LU,1.066630236
+Germany,Apr,LU,1.231764978
+Germany,May,LU,1.218685168
+Germany,Jun,LU,1.266438026
+Germany,Jul,LU,1.050450841
+Germany,Aug,LU,1.216490218
+Germany,Sep,LU,1.14466742
+Germany,Oct,LU,1.269178046
+Germany,Nov,LU,1.088267374
+Germany,Dec,LU,1.075829695
+Germany,Jan,MA,0
+Germany,Feb,MA,0
+Germany,Mar,MA,0
+Germany,Apr,MA,0
+Germany,May,MA,0
+Germany,Jun,MA,0
+Germany,Jul,MA,0
+Germany,Aug,MA,0
+Germany,Sep,MA,0
+Germany,Oct,MA,0
+Germany,Nov,MA,0
+Germany,Dec,MA,0
+Germany,Jan,NL,-7.424060376
+Germany,Feb,NL,-3.721713901
+Germany,Mar,NL,-2.039622966
+Germany,Apr,NL,2.072617542
+Germany,May,NL,0.616113754
+Germany,Jun,NL,3.681881566
+Germany,Jul,NL,0.115617452
+Germany,Aug,NL,-0.339854191
+Germany,Sep,NL,-0.618348349
+Germany,Oct,NL,-1.481691956
+Germany,Nov,NL,-1.095427994
+Germany,Dec,NL,-5.260468292
+Germany,Jan,NO,-3.102329242
+Germany,Feb,NO,-2.124617183
+Germany,Mar,NO,-1.730903487
+Germany,Apr,NO,-2.419860051
+Germany,May,NO,-1.976365395
+Germany,Jun,NO,-2.269810285
+Germany,Jul,NO,-2.309374621
+Germany,Aug,NO,-2.374021314
+Germany,Sep,NO,-2.520857352
+Germany,Oct,NO,-2.300177105
+Germany,Nov,NO,-1.046725008
+Germany,Dec,NO,-2.363400622
+Germany,Jan,PL,0.509186983
+Germany,Feb,PL,0.87736095
+Germany,Mar,PL,2.430195466
+Germany,Apr,PL,3.069183963
+Germany,May,PL,4.073137612
+Germany,Jun,PL,3.820143262
+Germany,Jul,PL,4.360018004
+Germany,Aug,PL,3.972852755
+Germany,Sep,PL,3.457259951
+Germany,Oct,PL,2.399326814
+Germany,Nov,PL,2.401657056
+Germany,Dec,PL,2.53119517
+Germany,Jan,SE,-1.753824446
+Germany,Feb,SE,-0.916398139
+Germany,Mar,SE,0.14874705
+Germany,Apr,SE,-1.526070165
+Germany,May,SE,-0.700237623
+Germany,Jun,SE,-1.65534308
+Germany,Jul,SE,-1.570091508
+Germany,Aug,SE,-1.815168149
+Germany,Sep,SE,-3.006483423
+Germany,Oct,SE,-1.642689993
+Germany,Nov,SE,-1.310072427
+Germany,Dec,SE,-1.099322686
+Germany,Jan,UK,-5.487839891
+Germany,Feb,UK,-4.266000864
+Germany,Mar,UK,-3.879524188
+Germany,Apr,UK,-0.635651403
+Germany,May,UK,-1.375984315
+Germany,Jun,UK,0.70624135
+Germany,Jul,UK,-2.08015031
+Germany,Aug,UK,-2.767326647
+Germany,Sep,UK,-4.021334403
+Germany,Oct,UK,-3.467759736
+Germany,Nov,UK,-3.657749684
+Germany,Dec,UK,-4.203891775
+Greece,Jan,AL,-3.4
+Greece,Feb,AL,-3.45
+Greece,Mar,AL,-3.03
+Greece,Apr,AL,-3.52
+Greece,May,AL,-4.08
+Greece,Jun,AL,-3.57
+Greece,Jul,AL,-0.69
+Greece,Aug,AL,0.97
+Greece,Sep,AL,-0.95
+Greece,Oct,AL,-3.41
+Greece,Nov,AL,-3.35
+Greece,Dec,AL,-3
+Greece,Jan,BG,1.167542117
+Greece,Feb,BG,3.452942636
+Greece,Mar,BG,-5.409014303
+Greece,Apr,BG,-8.275730787
+Greece,May,BG,-2.195419192
+Greece,Jun,BG,0.737226467
+Greece,Jul,BG,6.103417114
+Greece,Aug,BG,5.951419186
+Greece,Sep,BG,1.23349706
+Greece,Oct,BG,-0.313551856
+Greece,Nov,BG,-1.468506584
+Greece,Dec,BG,-1.898209206
+Greece,Jan,CY,8.72
+Greece,Feb,CY,8.05
+Greece,Mar,CY,7.05
+Greece,Apr,CY,6.29
+Greece,May,CY,5.41
+Greece,Jun,CY,8.07
+Greece,Jul,CY,10.17
+Greece,Aug,CY,10.19
+Greece,Sep,CY,9.32
+Greece,Oct,CY,7.96
+Greece,Nov,CY,7.43
+Greece,Dec,CY,7.83
+Greece,Jan,DE,0
+Greece,Feb,DE,0
+Greece,Mar,DE,0
+Greece,Apr,DE,0
+Greece,May,DE,0
+Greece,Jun,DE,0
+Greece,Jul,DE,0
+Greece,Aug,DE,0
+Greece,Sep,DE,0
+Greece,Oct,DE,0
+Greece,Nov,DE,0
+Greece,Dec,DE,0
+Greece,Jan,EG,0.66
+Greece,Feb,EG,11.15
+Greece,Mar,EG,9.88
+Greece,Apr,EG,8.62
+Greece,May,EG,8.25
+Greece,Jun,EG,14.57
+Greece,Jul,EG,21.05
+Greece,Aug,EG,13.66
+Greece,Sep,EG,9.86
+Greece,Oct,EG,4.49
+Greece,Nov,EG,0.44
+Greece,Dec,EG,2.22
+Greece,Jan,IT,-6.921988128
+Greece,Feb,IT,-11.16168516
+Greece,Mar,IT,-12.29234891
+Greece,Apr,IT,-13.33188538
+Greece,May,IT,-14.66816309
+Greece,Jun,IT,-11.73518476
+Greece,Jul,IT,-7.399423524
+Greece,Aug,IT,-1.145589758
+Greece,Sep,IT,-3.601671826
+Greece,Oct,IT,-7.427781126
+Greece,Nov,IT,-2.431138484
+Greece,Dec,IT,-9.09765459
+Greece,Jan,LY,0
+Greece,Feb,LY,0
+Greece,Mar,LY,0
+Greece,Apr,LY,0
+Greece,May,LY,0
+Greece,Jun,LY,0
+Greece,Jul,LY,0
+Greece,Aug,LY,0
+Greece,Sep,LY,0
+Greece,Oct,LY,0
+Greece,Nov,LY,0
+Greece,Dec,LY,0
+Greece,Jan,MK,4.308232087
+Greece,Feb,MK,4.169597443
+Greece,Mar,MK,0.942423666
+Greece,Apr,MK,0.000503495
+Greece,May,MK,-0.476578198
+Greece,Jun,MK,0.266938865
+Greece,Jul,MK,2.360551119
+Greece,Aug,MK,4.078497715
+Greece,Sep,MK,1.287586033
+Greece,Oct,MK,0.549371589
+Greece,Nov,MK,1.212998455
+Greece,Dec,MK,2.207607683
+Greece,Jan,TR,6.129758998
+Greece,Feb,TR,6.433918303
+Greece,Mar,TR,6.66086396
+Greece,Apr,TR,6.767784407
+Greece,May,TR,6.755368898
+Greece,Jun,TR,6.392572549
+Greece,Jul,TR,6.606698353
+Greece,Aug,TR,5.618612935
+Greece,Sep,TR,6.437349622
+Greece,Oct,TR,6.554112497
+Greece,Nov,TR,6.3848092
+Greece,Dec,TR,6.446364506
+Hungary,Jan,AT,3.31
+Hungary,Feb,AT,3.02
+Hungary,Mar,AT,-2.43
+Hungary,Apr,AT,-3.51
+Hungary,May,AT,-7.17
+Hungary,Jun,AT,-6.85
+Hungary,Jul,AT,-7.44
+Hungary,Aug,AT,-7.56
+Hungary,Sep,AT,-6.6
+Hungary,Oct,AT,-1.08
+Hungary,Nov,AT,-1.47
+Hungary,Dec,AT,1.14
+Hungary,Jan,HR,-5.16
+Hungary,Feb,HR,-4.73
+Hungary,Mar,HR,-0.1
+Hungary,Apr,HR,2.77
+Hungary,May,HR,0.54
+Hungary,Jun,HR,0.02
+Hungary,Jul,HR,-0.29
+Hungary,Aug,HR,0.74
+Hungary,Sep,HR,1.81
+Hungary,Oct,HR,1.19
+Hungary,Nov,HR,0.51
+Hungary,Dec,HR,-3.57
+Hungary,Jan,RO,-20.07472613
+Hungary,Feb,RO,-17.03904669
+Hungary,Mar,RO,-9.049998646
+Hungary,Apr,RO,-2.844008792
+Hungary,May,RO,-0.370434589
+Hungary,Jun,RO,-5.160581537
+Hungary,Jul,RO,-7.336568211
+Hungary,Aug,RO,-6.340864588
+Hungary,Sep,RO,-2.723112765
+Hungary,Oct,RO,-12.22439375
+Hungary,Nov,RO,-12.2758781
+Hungary,Dec,RO,-14.95264083
+Hungary,Jan,RS,-9.601697668
+Hungary,Feb,RS,-8.65637541
+Hungary,Mar,RS,-2.857979798
+Hungary,Apr,RS,1.612965243
+Hungary,May,RS,0.584643976
+Hungary,Jun,RS,-1.70465999
+Hungary,Jul,RS,-2.750833829
+Hungary,Aug,RS,-1.250344491
+Hungary,Sep,RS,1.284040761
+Hungary,Oct,RS,-3.135850743
+Hungary,Nov,RS,-3.641973196
+Hungary,Dec,RS,-6.983539561
+Hungary,Jan,SI,2.287597448
+Hungary,Feb,SI,3.842410265
+Hungary,Mar,SI,2.561543352
+Hungary,Apr,SI,0.615933229
+Hungary,May,SI,-6.573056782
+Hungary,Jun,SI,-3.500127584
+Hungary,Jul,SI,-4.142665044
+Hungary,Aug,SI,-4.989977724
+Hungary,Sep,SI,-0.982482707
+Hungary,Oct,SI,4.403607856
+Hungary,Nov,SI,4.21225387
+Hungary,Dec,SI,1.793649174
+Hungary,Jan,SK,9.73766801
+Hungary,Feb,SK,6.733873242
+Hungary,Mar,SK,0.893655662
+Hungary,Apr,SK,-3.821475661
+Hungary,May,SK,3.059327391
+Hungary,Jun,SK,8.915197637
+Hungary,Jul,SK,0.33198417
+Hungary,Aug,SK,-6.985260831
+Hungary,Sep,SK,-5.620033341
+Hungary,Oct,SK,2.971074597
+Hungary,Nov,SK,-4.721647793
+Hungary,Dec,SK,3.466273743
+Hungary,Jan,UA,0.94334797
+Hungary,Feb,UA,1.693284384
+Hungary,Mar,UA,-4.517552244
+Hungary,Apr,UA,-4.318986001
+Hungary,May,UA,-4.28788817
+Hungary,Jun,UA,-1.061554249
+Hungary,Jul,UA,8.338901684
+Hungary,Aug,UA,7.480244237
+Hungary,Sep,UA,5.42339148
+Hungary,Oct,UA,-3.385739148
+Hungary,Nov,UA,-2.106485455
+Hungary,Dec,UA,-2.481941231
+Ireland,Jan,FR,15.56284433
+Ireland,Feb,FR,13.8383049
+Ireland,Mar,FR,16.18931593
+Ireland,Apr,FR,9.513460248
+Ireland,May,FR,11.18356059
+Ireland,Jun,FR,3.251928529
+Ireland,Jul,FR,6.015950015
+Ireland,Aug,FR,12.68637638
+Ireland,Sep,FR,8.61630717
+Ireland,Oct,FR,6.774888586
+Ireland,Nov,FR,16.30559174
+Ireland,Dec,FR,10.55104375
+Ireland,Jan,UK,19.21057889
+Ireland,Feb,UK,21.5604523
+Ireland,Mar,UK,24.30153353
+Ireland,Apr,UK,18.41900514
+Ireland,May,UK,-2.404508718
+Ireland,Jun,UK,0.541985285
+Ireland,Jul,UK,-9.192753742
+Ireland,Aug,UK,10.47369522
+Ireland,Sep,UK,-2.413143018
+Ireland,Oct,UK,-15.56097998
+Ireland,Nov,UK,16.16613026
+Ireland,Dec,UK,15.19260279
+Israel,Jan,CY,-17.15
+Israel,Feb,CY,-16.24
+Israel,Mar,CY,-17.51
+Israel,Apr,CY,-17.02
+Israel,May,CY,-14.01
+Israel,Jun,CY,-15.46
+Israel,Jul,CY,-14.17
+Israel,Aug,CY,-14.18
+Israel,Sep,CY,-18.01
+Israel,Oct,CY,-16.39
+Israel,Nov,CY,-15.97
+Israel,Dec,CY,-14.52
+Israel,Jan,PS,30.41111604
+Israel,Feb,PS,27.22270119
+Israel,Mar,PS,23.26406018
+Israel,Apr,PS,18.53919031
+Israel,May,PS,18.9973169
+Israel,Jun,PS,24.44207375
+Israel,Jul,PS,24.76943387
+Israel,Aug,PS,23.5844122
+Israel,Sep,PS,20.76042962
+Israel,Oct,PS,21.99856542
+Israel,Nov,PS,20.69933972
+Israel,Dec,PS,25.29451419
+Italy,Jan,AT,4.83
+Italy,Feb,AT,2.07
+Italy,Mar,AT,-4.6
+Italy,Apr,AT,-3.56
+Italy,May,AT,-4.17
+Italy,Jun,AT,-4.78
+Italy,Jul,AT,-6.05
+Italy,Aug,AT,-6
+Italy,Sep,AT,-5.74
+Italy,Oct,AT,-3.05
+Italy,Nov,AT,-3.16
+Italy,Dec,AT,1.71
+Italy,Jan,CH,1.62
+Italy,Feb,CH,5.09
+Italy,Mar,CH,-14.73
+Italy,Apr,CH,-19.07
+Italy,May,CH,-22.47
+Italy,Jun,CH,-27.91
+Italy,Jul,CH,-30.4
+Italy,Aug,CH,-30.31
+Italy,Sep,CH,-31.37
+Italy,Oct,CH,-21.05
+Italy,Nov,CH,-18.93
+Italy,Dec,CH,0.44
+Italy,Jan,DZ,0
+Italy,Feb,DZ,0
+Italy,Mar,DZ,0
+Italy,Apr,DZ,0
+Italy,May,DZ,0
+Italy,Jun,DZ,0
+Italy,Jul,DZ,0
+Italy,Aug,DZ,0
+Italy,Sep,DZ,0
+Italy,Oct,DZ,0
+Italy,Nov,DZ,0
+Italy,Dec,DZ,0
+Italy,Jan,ES,0
+Italy,Feb,ES,0
+Italy,Mar,ES,0
+Italy,Apr,ES,0
+Italy,May,ES,0
+Italy,Jun,ES,0
+Italy,Jul,ES,0
+Italy,Aug,ES,0
+Italy,Sep,ES,0
+Italy,Oct,ES,0
+Italy,Nov,ES,0
+Italy,Dec,ES,0
+Italy,Jan,FR,-8.728211817
+Italy,Feb,FR,-7.96410992
+Italy,Mar,FR,-17.85577485
+Italy,Apr,FR,-10.91894391
+Italy,May,FR,-15.56489373
+Italy,Jun,FR,-14.53382304
+Italy,Jul,FR,-20.80865801
+Italy,Aug,FR,-19.40034784
+Italy,Sep,FR,-23.20798897
+Italy,Oct,FR,-20.9777227
+Italy,Nov,FR,-22.74118998
+Italy,Dec,FR,-16.77485288
+Italy,Jan,GR,3.71
+Italy,Feb,GR,5.99
+Italy,Mar,GR,6.6
+Italy,Apr,GR,7.15
+Italy,May,GR,7.87
+Italy,Jun,GR,6.3
+Italy,Jul,GR,3.97
+Italy,Aug,GR,0.61
+Italy,Sep,GR,1.93
+Italy,Oct,GR,3.99
+Italy,Nov,GR,1.3
+Italy,Dec,GR,4.88
+Italy,Jan,ME,2.480063913
+Italy,Feb,ME,3.686073214
+Italy,Mar,ME,4.78197588
+Italy,Apr,ME,4.43307629
+Italy,May,ME,6.103911107
+Italy,Jun,ME,5.190466813
+Italy,Jul,ME,4.357487062
+Italy,Aug,ME,2.968575432
+Italy,Sep,ME,1.66873688
+Italy,Oct,ME,2.329757737
+Italy,Nov,ME,0.265279573
+Italy,Dec,ME,3.153952828
+Italy,Jan,MT,2.385630334
+Italy,Feb,MT,2.457119744
+Italy,Mar,MT,2.426787467
+Italy,Apr,MT,2.387310602
+Italy,May,MT,2.441139938
+Italy,Jun,MT,2.539595198
+Italy,Jul,MT,2.550865956
+Italy,Aug,MT,2.527454867
+Italy,Sep,MT,2.500630751
+Italy,Oct,MT,2.511825558
+Italy,Nov,MT,2.403488023
+Italy,Dec,MT,2.412572817
+Italy,Jan,SI,4.377181659
+Italy,Feb,SI,1.066735772
+Italy,Mar,SI,-0.750612079
+Italy,Apr,SI,1.281957355
+Italy,May,SI,5.083851782
+Italy,Jun,SI,4.503830814
+Italy,Jul,SI,3.995810159
+Italy,Aug,SI,2.885566331
+Italy,Sep,SI,0.66697128
+Italy,Oct,SI,-0.029109063
+Italy,Nov,SI,-0.150018908
+Italy,Dec,SI,2.856633795
+Italy,Jan,TN,1.145197023
+Italy,Feb,TN,0.253751509
+Italy,Mar,TN,0.148458901
+Italy,Apr,TN,-0.170330057
+Italy,May,TN,0.019317924
+Italy,Jun,TN,0.114465292
+Italy,Jul,TN,0.332435043
+Italy,Aug,TN,0.030790483
+Italy,Sep,TN,0.076496128
+Italy,Oct,TN,0.101383104
+Italy,Nov,TN,1.674279412
+Italy,Dec,TN,0.840031065
+Kosovo,Jan,AL,-9.42
+Kosovo,Feb,AL,-8.8
+Kosovo,Mar,AL,-0.96
+Kosovo,Apr,AL,3.3
+Kosovo,May,AL,-0.62
+Kosovo,Jun,AL,-5.64
+Kosovo,Jul,AL,-5.75
+Kosovo,Aug,AL,-5.02
+Kosovo,Sep,AL,-2.9
+Kosovo,Oct,AL,-6.47
+Kosovo,Nov,AL,-6.09
+Kosovo,Dec,AL,-5.7
+Kosovo,Jan,RS,9.417146812
+Kosovo,Feb,RS,8.801628782
+Kosovo,Mar,RS,0.961832605
+Kosovo,Apr,RS,-3.303864699
+Kosovo,May,RS,0.619380208
+Kosovo,Jun,RS,5.63954103
+Kosovo,Jul,RS,5.747313116
+Kosovo,Aug,RS,5.020385249
+Kosovo,Sep,RS,2.8965875
+Kosovo,Oct,RS,6.465079861
+Kosovo,Nov,RS,6.090842303
+Kosovo,Dec,RS,5.702206479
+Latvia,Jan,BW,-8.728863332
+Latvia,Feb,BW,-2.646509962
+Latvia,Mar,BW,-7.912766785
+Latvia,Apr,BW,-4.063576104
+Latvia,May,BW,-3.75352939
+Latvia,Jun,BW,-4.679050488
+Latvia,Jul,BW,-9.349972559
+Latvia,Aug,BW,-5.557980881
+Latvia,Sep,BW,-8.723977281
+Latvia,Oct,BW,-7.913113435
+Latvia,Nov,BW,-1.503057043
+Latvia,Dec,BW,-7.347825693
+Latvia,Jan,EE,-1.851500108
+Latvia,Feb,EE,4.76564366
+Latvia,Mar,EE,-3.909710196
+Latvia,Apr,EE,1.325102963
+Latvia,May,EE,1.103868757
+Latvia,Jun,EE,2.504508288
+Latvia,Jul,EE,-3.38195537
+Latvia,Aug,EE,-0.656346551
+Latvia,Sep,EE,-1.578778749
+Latvia,Oct,EE,-2.079949319
+Latvia,Nov,EE,7.275080515
+Latvia,Dec,EE,0.756649866
+Latvia,Jan,LT,15.86877571
+Latvia,Feb,LT,6.065789469
+Latvia,Mar,LT,11.03044888
+Latvia,Apr,LT,8.567383822
+Latvia,May,LT,7.37338625
+Latvia,Jun,LT,3.758136027
+Latvia,Jul,LT,9.33662808
+Latvia,Aug,LT,3.7525389
+Latvia,Sep,LT,8.105636377
+Latvia,Oct,LT,11.26190363
+Latvia,Nov,LT,1.275273577
+Latvia,Dec,LT,15.09020563
+Latvia,Jan,RU,0
+Latvia,Feb,RU,0
+Latvia,Mar,RU,0
+Latvia,Apr,RU,0
+Latvia,May,RU,0
+Latvia,Jun,RU,0
+Latvia,Jul,RU,0
+Latvia,Aug,RU,0
+Latvia,Sep,RU,0
+Latvia,Oct,RU,0
+Latvia,Nov,RU,0
+Latvia,Dec,RU,0
+Latvia,Jan,SE,0
+Latvia,Feb,SE,0
+Latvia,Mar,SE,0
+Latvia,Apr,SE,0
+Latvia,May,SE,0
+Latvia,Jun,SE,0
+Latvia,Jul,SE,0
+Latvia,Aug,SE,0
+Latvia,Sep,SE,0
+Latvia,Oct,SE,0
+Latvia,Nov,SE,0
+Latvia,Dec,SE,0
+Libya,Jan,EG,-30.9
+Libya,Feb,EG,-30.39
+Libya,Mar,EG,-30.57
+Libya,Apr,EG,-31.01
+Libya,May,EG,-30.46
+Libya,Jun,EG,-27.73
+Libya,Jul,EG,-22.39
+Libya,Aug,EG,-26.59
+Libya,Sep,EG,-29.7
+Libya,Oct,EG,-28.95
+Libya,Nov,EG,-29.7
+Libya,Dec,EG,-30.67
+Libya,Jan,GR,0
+Libya,Feb,GR,0
+Libya,Mar,GR,0
+Libya,Apr,GR,0
+Libya,May,GR,0
+Libya,Jun,GR,0
+Libya,Jul,GR,0
+Libya,Aug,GR,0
+Libya,Sep,GR,0
+Libya,Oct,GR,0
+Libya,Nov,GR,0
+Libya,Dec,GR,0
+Libya,Jan,TN,-53.78719518
+Libya,Feb,TN,-55.63805321
+Libya,Mar,TN,-49.26378742
+Libya,Apr,TN,-54.59740071
+Libya,May,TN,-23.79934757
+Libya,Jun,TN,-13.8629101
+Libya,Jul,TN,10.48893236
+Libya,Aug,TN,6.804478894
+Libya,Sep,TN,-24.21385755
+Libya,Oct,TN,-40.50144435
+Libya,Nov,TN,-52.48093863
+Libya,Dec,TN,-55.96976506
+Lithuania,Jan,LV,-19.19492915
+Lithuania,Feb,LV,-7.337201133
+Lithuania,Mar,LV,-13.34247133
+Lithuania,Apr,LV,-10.36313881
+Lithuania,May,LV,-8.918874984
+Lithuania,Jun,LV,-4.545855088
+Lithuania,Jul,LV,-11.29361948
+Lithuania,Aug,LV,-4.539084782
+Lithuania,Sep,LV,-9.804607417
+Lithuania,Oct,LV,-13.62243983
+Lithuania,Nov,LV,-1.542575584
+Lithuania,Dec,LV,-18.25316793
+Lithuania,Jan,PL,16.34969077
+Lithuania,Feb,PL,10.980214
+Lithuania,Mar,PL,18.46522766
+Lithuania,Apr,PL,20.28001387
+Lithuania,May,PL,24.80147476
+Lithuania,Jun,PL,25.14045748
+Lithuania,Jul,PL,24.40346374
+Lithuania,Aug,PL,25.10998491
+Lithuania,Sep,PL,24.50829422
+Lithuania,Oct,PL,19.98591035
+Lithuania,Nov,PL,23.20987397
+Lithuania,Dec,PL,20.68629904
+Lithuania,Jan,RU,0
+Lithuania,Feb,RU,0
+Lithuania,Mar,RU,0
+Lithuania,Apr,RU,0
+Lithuania,May,RU,0
+Lithuania,Jun,RU,0
+Lithuania,Jul,RU,0
+Lithuania,Aug,RU,0
+Lithuania,Sep,RU,0
+Lithuania,Oct,RU,0
+Lithuania,Nov,RU,0
+Lithuania,Dec,RU,0
+Lithuania,Jan,SE,2.519295865
+Lithuania,Feb,SE,1.589273011
+Lithuania,Mar,SE,-6.698504295
+Lithuania,Apr,SE,-8.736227558
+Lithuania,May,SE,-4.643106642
+Lithuania,Jun,SE,-7.99768642
+Lithuania,Jul,SE,-15.10338552
+Lithuania,Aug,SE,-10.78088335
+Lithuania,Sep,SE,-6.361470666
+Lithuania,Oct,SE,-5.459929026
+Lithuania,Nov,SE,6.490390625
+Lithuania,Dec,SE,-1.460151771
+Luxembourg,Jan,BE,-5.025483278
+Luxembourg,Feb,BE,-3.704086447
+Luxembourg,Mar,BE,-2.814580255
+Luxembourg,Apr,BE,-0.825354488
+Luxembourg,May,BE,-0.366918457
+Luxembourg,Jun,BE,0.025522876
+Luxembourg,Jul,BE,-1.557765005
+Luxembourg,Aug,BE,-0.927517818
+Luxembourg,Sep,BE,-2.528952323
+Luxembourg,Oct,BE,-2.758758528
+Luxembourg,Nov,BE,-3.166320699
+Luxembourg,Dec,BE,-4.798924072
+Luxembourg,Jan,DE,-10.07653767
+Luxembourg,Feb,DE,-12.60786152
+Luxembourg,Mar,DE,-10.04223403
+Luxembourg,Apr,DE,-11.59696376
+Luxembourg,May,DE,-11.47381845
+Luxembourg,Jun,DE,-11.92340759
+Luxembourg,Jul,DE,-9.889906394
+Luxembourg,Aug,DE,-11.45315318
+Luxembourg,Sep,DE,-10.77694757
+Luxembourg,Oct,DE,-11.94920465
+Luxembourg,Nov,DE,-10.24594587
+Luxembourg,Dec,DE,-10.12884617
+Luxembourg,Jan,FR,-2.646563166
+Luxembourg,Feb,FR,-2.638544574
+Luxembourg,Mar,FR,-2.496700495
+Luxembourg,Apr,FR,-2.629606501
+Luxembourg,May,FR,-2.55617359
+Luxembourg,Jun,FR,-2.829926616
+Luxembourg,Jul,FR,-2.702945836
+Luxembourg,Aug,FR,-2.498346238
+Luxembourg,Sep,FR,-2.743349236
+Luxembourg,Oct,FR,-2.627789035
+Luxembourg,Nov,FR,-2.704115984
+Luxembourg,Dec,FR,-2.475729801
+Malta,Jan,IT,-91.4756698
+Malta,Feb,IT,-94.21689153
+Malta,Mar,IT,-93.0538172
+Malta,Apr,IT,-91.54009877
+Malta,May,IT,-93.60415472
+Malta,Jun,IT,-97.37936698
+Malta,Jul,IT,-97.81153793
+Malta,Aug,IT,-96.91385275
+Malta,Sep,IT,-95.88529691
+Malta,Oct,IT,-96.31455556
+Malta,Nov,IT,-92.16041296
+Malta,Dec,IT,-92.50876433
+Malta,Jan,TN,0
+Malta,Feb,TN,0
+Malta,Mar,TN,0
+Malta,Apr,TN,0
+Malta,May,TN,0
+Malta,Jun,TN,0
+Malta,Jul,TN,0
+Malta,Aug,TN,0
+Malta,Sep,TN,0
+Malta,Oct,TN,0
+Malta,Nov,TN,0
+Malta,Dec,TN,0
+Moldova,Jan,RO,-47.42195124
+Moldova,Feb,RO,-45.20481327
+Moldova,Mar,RO,-15.61583619
+Moldova,Apr,RO,-13.94411371
+Moldova,May,RO,-8.756511533
+Moldova,Jun,RO,-23.67880108
+Moldova,Jul,RO,-55.45601379
+Moldova,Aug,RO,-54.29058255
+Moldova,Sep,RO,-42.18965179
+Moldova,Oct,RO,-23.52939187
+Moldova,Nov,RO,-29.70063898
+Moldova,Dec,RO,-35.80600144
+Moldova,Jan,UA,17.88192544
+Moldova,Feb,UA,13.31042281
+Moldova,Mar,UA,-14.65888892
+Moldova,Apr,UA,-19.83279606
+Moldova,May,UA,-22.62914317
+Moldova,Jun,UA,-11.14486944
+Moldova,Jul,UA,21.65453573
+Moldova,Aug,UA,18.57786082
+Moldova,Sep,UA,8.465476613
+Moldova,Oct,UA,-10.25769181
+Moldova,Nov,UA,-3.840617921
+Moldova,Dec,UA,6.244184755
+Montenegro,Jan,AL,-2.52
+Montenegro,Feb,AL,-0.39
+Montenegro,Mar,AL,3.52
+Montenegro,Apr,AL,4.6
+Montenegro,May,AL,5.5
+Montenegro,Jun,AL,0.14
+Montenegro,Jul,AL,-3.01
+Montenegro,Aug,AL,-3.52
+Montenegro,Sep,AL,-0.78
+Montenegro,Oct,AL,-2.92
+Montenegro,Nov,AL,-3.47
+Montenegro,Dec,AL,-1.74
+Montenegro,Jan,BA,11.09
+Montenegro,Feb,BA,10.15
+Montenegro,Mar,BA,6.67
+Montenegro,Apr,BA,3.03
+Montenegro,May,BA,6.96
+Montenegro,Jun,BA,7.94
+Montenegro,Jul,BA,6.87
+Montenegro,Aug,BA,5.16
+Montenegro,Sep,BA,3.02
+Montenegro,Oct,BA,7.04
+Montenegro,Nov,BA,6.13
+Montenegro,Dec,BA,7.85
+Montenegro,Jan,IT,-10.86129513
+Montenegro,Feb,IT,-16.14294246
+Montenegro,Mar,IT,-20.94238422
+Montenegro,Apr,IT,-19.41439883
+Montenegro,May,IT,-26.73172237
+Montenegro,Jun,IT,-22.73134641
+Montenegro,Jul,IT,-19.08336022
+Montenegro,Aug,IT,-13.00070281
+Montenegro,Sep,IT,-7.308135752
+Montenegro,Oct,IT,-10.20303801
+Montenegro,Nov,IT,-1.161776403
+Montenegro,Dec,IT,-13.8125523
+Montenegro,Jan,RS,10.85212527
+Montenegro,Feb,RS,10.03894289
+Montenegro,Mar,RS,6.461522536
+Montenegro,Apr,RS,0.989066096
+Montenegro,May,RS,8.314430401
+Montenegro,Jun,RS,7.860246122
+Montenegro,Jul,RS,6.002362419
+Montenegro,Aug,RS,1.898362023
+Montenegro,Sep,RS,1.750978039
+Montenegro,Oct,RS,4.088690403
+Montenegro,Nov,RS,3.379782325
+Montenegro,Dec,RS,8.415434367
+Morocco,Jan,DE,0
+Morocco,Feb,DE,0
+Morocco,Mar,DE,0
+Morocco,Apr,DE,0
+Morocco,May,DE,0
+Morocco,Jun,DE,0
+Morocco,Jul,DE,0
+Morocco,Aug,DE,0
+Morocco,Sep,DE,0
+Morocco,Oct,DE,0
+Morocco,Nov,DE,0
+Morocco,Dec,DE,0
+Morocco,Jan,DZ,13.48759679
+Morocco,Feb,DZ,15.42654762
+Morocco,Mar,DZ,14.26146885
+Morocco,Apr,DZ,31.37551596
+Morocco,May,DZ,23.5162423
+Morocco,Jun,DZ,8.216234041
+Morocco,Jul,DZ,23.17024099
+Morocco,Aug,DZ,24.55718838
+Morocco,Sep,DZ,14.47676868
+Morocco,Oct,DZ,3.372262861
+Morocco,Nov,DZ,19.85421797
+Morocco,Dec,DZ,11.01565164
+Morocco,Jan,ES,-30.22955863
+Morocco,Feb,ES,-44.86858876
+Morocco,Mar,ES,-50.70234588
+Morocco,Apr,ES,-39.87532587
+Morocco,May,ES,-51.8663064
+Morocco,Jun,ES,-51.9963146
+Morocco,Jul,ES,-54.1355633
+Morocco,Aug,ES,-57.75962566
+Morocco,Sep,ES,-49.93764875
+Morocco,Oct,ES,-51.3377355
+Morocco,Nov,ES,-53.04710822
+Morocco,Dec,ES,-55.3030111
+Netherlands,Jan,BE,5.598601545
+Netherlands,Feb,BE,-3.547011283
+Netherlands,Mar,BE,6.241452036
+Netherlands,Apr,BE,7.645041895
+Netherlands,May,BE,15.70547772
+Netherlands,Jun,BE,10.28520203
+Netherlands,Jul,BE,7.504711509
+Netherlands,Aug,BE,12.22404809
+Netherlands,Sep,BE,4.74242304
+Netherlands,Oct,BE,3.578025501
+Netherlands,Nov,BE,-2.180211948
+Netherlands,Dec,BE,-3.349351125
+Netherlands,Jan,DE,22.78830587
+Netherlands,Feb,DE,11.42387729
+Netherlands,Mar,DE,6.260664605
+Netherlands,Apr,DE,-6.361942133
+Netherlands,May,DE,-1.891173829
+Netherlands,Jun,DE,-11.30161112
+Netherlands,Jul,DE,-0.354890144
+Netherlands,Aug,DE,1.043189424
+Netherlands,Sep,DE,1.898032962
+Netherlands,Oct,DE,4.548083904
+Netherlands,Nov,DE,3.362438737
+Netherlands,Dec,DE,16.14711551
+Netherlands,Jan,DK,-0.092494879
+Netherlands,Feb,DK,0.235045744
+Netherlands,Mar,DK,-0.790450563
+Netherlands,Apr,DK,-1.666558638
+Netherlands,May,DK,-1.462718377
+Netherlands,Jun,DK,-2.908547803
+Netherlands,Jul,DK,-1.441208407
+Netherlands,Aug,DK,-1.871353338
+Netherlands,Sep,DK,-2.823045538
+Netherlands,Oct,DK,-1.780110381
+Netherlands,Nov,DK,-1.72827812
+Netherlands,Dec,DK,0.242626803
+Netherlands,Jan,NO,-4.155006656
+Netherlands,Feb,NO,-2.354334291
+Netherlands,Mar,NO,-2.60088485
+Netherlands,Apr,NO,-3.864800818
+Netherlands,May,NO,-3.351008985
+Netherlands,Jun,NO,-4.037352892
+Netherlands,Jul,NO,-3.85085912
+Netherlands,Aug,NO,-3.615223155
+Netherlands,Sep,NO,-3.655821918
+Netherlands,Oct,NO,-3.155589732
+Netherlands,Nov,NO,-1.221594254
+Netherlands,Dec,NO,-2.789499876
+Netherlands,Jan,NW,-9.698925209
+Netherlands,Feb,NW,-7.804477149
+Netherlands,Mar,NW,-8.97549467
+Netherlands,Apr,NW,-4.61511171
+Netherlands,May,NW,-4.999615822
+Netherlands,Jun,NW,-2.261970786
+Netherlands,Jul,NW,-3.463571218
+Netherlands,Aug,NW,-3.283526771
+Netherlands,Sep,NW,-4.813203957
+Netherlands,Oct,NW,-8.626649783
+Netherlands,Nov,NW,-11.22454508
+Netherlands,Dec,NW,-12.3590427
+Netherlands,Jan,UK,-8.021229493
+Netherlands,Feb,UK,-7.370022841
+Netherlands,Mar,UK,-6.945088203
+Netherlands,Apr,UK,-1.928079538
+Netherlands,May,UK,-2.097799851
+Netherlands,Jun,UK,0.378630004
+Netherlands,Jul,UK,-2.983508552
+Netherlands,Aug,UK,-4.83180891
+Netherlands,Sep,UK,-6.902976408
+Netherlands,Oct,UK,-7.324272472
+Netherlands,Nov,UK,-7.204045538
+Netherlands,Dec,UK,-5.81623121
+North Hub,Jan,BE,35.34347554
+North Hub,Feb,BE,29.5870644
+North Hub,Mar,BE,31.15365623
+North Hub,Apr,BE,22.89757045
+North Hub,May,BE,27.0841312
+North Hub,Jun,BE,19.32441969
+North Hub,Jul,BE,25.40600969
+North Hub,Aug,BE,26.90183301
+North Hub,Sep,BE,32.82189535
+North Hub,Oct,BE,33.65287444
+North Hub,Nov,BE,35.15256153
+North Hub,Dec,BE,32.92670869
+North Hub,Jan,DK,16.05400052
+North Hub,Feb,DK,15.29910379
+North Hub,Mar,DK,13.50962611
+North Hub,Apr,DK,6.841191344
+North Hub,May,DK,8.134600556
+North Hub,Jun,DK,7.063573853
+North Hub,Jul,DK,9.499031461
+North Hub,Aug,DK,9.456767098
+North Hub,Sep,DK,9.363768056
+North Hub,Oct,DK,12.07203513
+North Hub,Nov,DK,12.08278227
+North Hub,Dec,DK,16.01799206
+North Hub,Jan,NL,16.46561722
+North Hub,Feb,NL,13.24946121
+North Hub,Mar,NL,15.2374677
+North Hub,Apr,NL,7.83495709
+North Hub,May,NL,8.487719883
+North Hub,Jun,NL,3.840089939
+North Hub,Jul,NL,5.880016254
+North Hub,Aug,NL,5.574359402
+North Hub,Sep,NL,8.17125323
+North Hub,Oct,NL,14.64524265
+North Hub,Nov,NL,19.05562305
+North Hub,Dec,NL,20.98163062
+North Hub,Jan,UK,-1.504009583
+North Hub,Feb,UK,0.414796183
+North Hub,Mar,UK,-0.548224447
+North Hub,Apr,UK,3.478713404
+North Hub,May,UK,1.709478979
+North Hub,Jun,UK,5.806528085
+North Hub,Jul,UK,1.950122343
+North Hub,Aug,UK,-2.025272115
+North Hub,Sep,UK,-1.359266441
+North Hub,Oct,UK,-1.387521505
+North Hub,Nov,UK,6.288953924
+North Hub,Dec,UK,7.01461395
+North Macedonia,Jan,AL,-12.57
+North Macedonia,Feb,AL,-12.48
+North Macedonia,Mar,AL,-9.92
+North Macedonia,Apr,AL,-8.2
+North Macedonia,May,AL,-8.86
+North Macedonia,Jun,AL,-10.61
+North Macedonia,Jul,AL,-6.27
+North Macedonia,Aug,AL,-2.81
+North Macedonia,Sep,AL,-4.58
+North Macedonia,Oct,AL,-11.17
+North Macedonia,Nov,AL,-11.26
+North Macedonia,Dec,AL,-11.31
+North Macedonia,Jan,BG,-2.170065088
+North Macedonia,Feb,BG,0.330189054
+North Macedonia,Mar,BG,-5.355446592
+North Macedonia,Apr,BG,-6.515245545
+North Macedonia,May,BG,-0.845558345
+North Macedonia,Jun,BG,2.644289396
+North Macedonia,Jul,BG,6.792000575
+North Macedonia,Aug,BG,3.283165238
+North Macedonia,Sep,BG,-0.188509958
+North Macedonia,Oct,BG,-0.597588422
+North Macedonia,Nov,BG,-1.723832984
+North Macedonia,Dec,BG,-2.857091217
+North Macedonia,Jan,GR,-12.55
+North Macedonia,Feb,GR,-12.14
+North Macedonia,Mar,GR,-2.74
+North Macedonia,Apr,GR,0
+North Macedonia,May,GR,1.39
+North Macedonia,Jun,GR,-0.78
+North Macedonia,Jul,GR,-6.87
+North Macedonia,Aug,GR,-11.88
+North Macedonia,Sep,GR,-3.75
+North Macedonia,Oct,GR,-1.6
+North Macedonia,Nov,GR,-3.53
+North Macedonia,Dec,GR,-6.43
+North Macedonia,Jan,RS,6.553745937
+North Macedonia,Feb,RS,1.454418333
+North Macedonia,Mar,RS,-6.018778234
+North Macedonia,Apr,RS,-9.016701039
+North Macedonia,May,RS,-3.411610409
+North Macedonia,Jun,RS,0.326715977
+North Macedonia,Jul,RS,4.497610781
+North Macedonia,Aug,RS,4.896184317
+North Macedonia,Sep,RS,0.588128581
+North Macedonia,Oct,RS,2.41092632
+North Macedonia,Nov,RS,0.704075908
+North Macedonia,Dec,RS,2.806027414
+Norway,Jan,DE,15.23292264
+Norway,Feb,DE,10.43220325
+Norway,Mar,DE,8.499007317
+Norway,Apr,DE,11.88189199
+Norway,May,DE,9.704263744
+Norway,Jun,DE,11.14512413
+Norway,Jul,DE,11.33939122
+Norway,Aug,DE,11.65681661
+Norway,Sep,DE,12.37780456
+Norway,Oct,DE,11.29422997
+Norway,Nov,DE,5.13958379
+Norway,Dec,DE,11.60466735
+Norway,Jan,DK,12.82341652
+Norway,Feb,DK,9.545297916
+Norway,Mar,DK,7.392349416
+Norway,Apr,DK,12.68830412
+Norway,May,DK,9.451136428
+Norway,Jun,DK,11.17798734
+Norway,Jul,DK,12.62052875
+Norway,Aug,DK,11.25055752
+Norway,Sep,DK,10.54581667
+Norway,Oct,DK,8.94978408
+Norway,Nov,DK,2.223307814
+Norway,Dec,DK,11.16657749
+Norway,Jan,FI,0
+Norway,Feb,FI,0
+Norway,Mar,FI,0
+Norway,Apr,FI,0
+Norway,May,FI,0
+Norway,Jun,FI,0
+Norway,Jul,FI,0
+Norway,Aug,FI,0
+Norway,Sep,FI,0
+Norway,Oct,FI,0
+Norway,Nov,FI,0
+Norway,Dec,FI,0
+Norway,Jan,NL,6.646553871
+Norway,Feb,NL,3.766109418
+Norway,Mar,NL,4.16050387
+Norway,Apr,NL,6.182326279
+Norway,May,NL,5.360439485
+Norway,Jun,NL,6.458349099
+Norway,Jul,NL,6.160024449
+Norway,Aug,NL,5.783089522
+Norway,Sep,NL,5.848033308
+Norway,Oct,NL,5.047837195
+Norway,Nov,NL,1.954122506
+Norway,Dec,NL,4.462221781
+Norway,Jan,RU,0
+Norway,Feb,RU,0
+Norway,Mar,RU,0
+Norway,Apr,RU,0
+Norway,May,RU,0
+Norway,Jun,RU,0
+Norway,Jul,RU,0
+Norway,Aug,RU,0
+Norway,Sep,RU,0
+Norway,Oct,RU,0
+Norway,Nov,RU,0
+Norway,Dec,RU,0
+Norway,Jan,SE,28.65461647
+Norway,Feb,SE,22.07328356
+Norway,Mar,SE,27.98752934
+Norway,Apr,SE,31.08869683
+Norway,May,SE,23.51919137
+Norway,Jun,SE,28.3912447
+Norway,Jul,SE,28.62875796
+Norway,Aug,SE,31.90402902
+Norway,Sep,SE,29.01047189
+Norway,Oct,SE,25.29738982
+Norway,Nov,SE,15.47123567
+Norway,Dec,SE,20.48652164
+Norway,Jan,UK,-0.185186647
+Norway,Feb,UK,-0.983333986
+Norway,Mar,UK,-1.598554655
+Norway,Apr,UK,11.95057654
+Norway,May,UK,7.557831116
+Norway,Jun,UK,13.41968174
+Norway,Jul,UK,11.02099189
+Norway,Aug,UK,8.820401288
+Norway,Sep,UK,9.922258866
+Norway,Oct,UK,2.248307736
+Norway,Nov,UK,-3.886619736
+Norway,Dec,UK,-2.446674701
+Palestine,Jan,IL,-40.54815472
+Palestine,Feb,IL,-36.29693492
+Palestine,Mar,IL,-31.01874691
+Palestine,Apr,IL,-24.71892042
+Palestine,May,IL,-25.32975587
+Palestine,Jun,IL,-32.58943167
+Palestine,Jul,IL,-33.02591183
+Palestine,Aug,IL,-31.44588293
+Palestine,Sep,IL,-27.68057282
+Palestine,Oct,IL,-29.33142056
+Palestine,Nov,IL,-27.59911963
+Palestine,Dec,IL,-33.72601892
+Poland,Jan,CZ,4.552191374
+Poland,Feb,CZ,2.733021652
+Poland,Mar,CZ,-0.337917802
+Poland,Apr,CZ,-3.791669235
+Poland,May,CZ,4.665357104
+Poland,Jun,CZ,7.18899206
+Poland,Jul,CZ,-0.18241537
+Poland,Aug,CZ,0.053572981
+Poland,Sep,CZ,3.296010596
+Poland,Oct,CZ,3.94488112
+Poland,Nov,CZ,7.019669853
+Poland,Dec,CZ,0.281893591
+Poland,Jan,DE,-3.576118889
+Poland,Feb,DE,-6.161876031
+Poland,Mar,DE,-17.06773387
+Poland,Apr,DE,-21.55547395
+Poland,May,DE,-28.60643506
+Poland,Jun,DE,-26.82960669
+Poland,Jul,DE,-30.62125166
+Poland,Aug,DE,-27.90211507
+Poland,Sep,DE,-24.28100685
+Poland,Oct,DE,-16.85093734
+Poland,Nov,DE,-16.86730308
+Poland,Dec,DE,-17.77707437
+Poland,Jan,DK,0
+Poland,Feb,DK,0
+Poland,Mar,DK,0
+Poland,Apr,DK,0
+Poland,May,DK,0
+Poland,Jun,DK,0
+Poland,Jul,DK,0
+Poland,Aug,DK,0
+Poland,Sep,DK,0
+Poland,Oct,DK,0
+Poland,Nov,DK,0
+Poland,Dec,DK,0
+Poland,Jan,LT,-6.723333112
+Poland,Feb,LT,-4.515292516
+Poland,Mar,LT,-7.59328591
+Poland,Apr,LT,-8.339563766
+Poland,May,LT,-10.19888258
+Poland,Jun,LT,-10.33827933
+Poland,Jul,LT,-10.03521217
+Poland,Aug,LT,-10.32574838
+Poland,Sep,LT,-10.07832064
+Poland,Oct,LT,-8.218622279
+Poland,Nov,LT,-9.544383217
+Poland,Dec,LT,-8.506636684
+Poland,Jan,SE,-7.092092738
+Poland,Feb,SE,-4.755860964
+Poland,Mar,SE,-8.667086322
+Poland,Apr,SE,-8.950517139
+Poland,May,SE,-9.035743989
+Poland,Jun,SE,-9.140298238
+Poland,Jul,SE,-9.29896768
+Poland,Aug,SE,-9.192713352
+Poland,Sep,SE,-9.100995817
+Poland,Oct,SE,-8.973817242
+Poland,Nov,SE,-8.498602231
+Poland,Dec,SE,-9.042025537
+Poland,Jan,SK,-3.67753997
+Poland,Feb,SK,-5.126465801
+Poland,Mar,SK,-5.925431999
+Poland,Apr,SK,-3.771444871
+Poland,May,SK,0.855471068
+Poland,Jun,SK,1.242769703
+Poland,Jul,SK,-0.62523284
+Poland,Aug,SK,2.674145754
+Poland,Sep,SK,3.38437118
+Poland,Oct,SK,-1.976312427
+Poland,Nov,SK,3.874430775
+Poland,Dec,SK,-6.644623632
+Poland,Jan,UA,-1.521450678
+Poland,Feb,UA,-1.683430884
+Poland,Mar,UA,-5.188106429
+Poland,Apr,UA,-4.931985321
+Poland,May,UA,-3.756556532
+Poland,Jun,UA,-0.620725047
+Poland,Jul,UA,4.434741264
+Poland,Aug,UA,5.918665144
+Poland,Sep,UA,5.49737946
+Poland,Oct,UA,-2.836170701
+Poland,Nov,UA,2.490325924
+Poland,Dec,UA,-4.766142226
+Portugal,Jan,ES,21.87693841
+Portugal,Feb,ES,28.24469455
+Portugal,Mar,ES,29.00796294
+Portugal,Apr,ES,15.77495976
+Portugal,May,ES,18.21328536
+Portugal,Jun,ES,21.61237685
+Portugal,Jul,ES,20.0340008
+Portugal,Aug,ES,25.22276597
+Portugal,Sep,ES,20.34297275
+Portugal,Oct,ES,14.0120568
+Portugal,Nov,ES,14.30023221
+Portugal,Dec,ES,20.09830393
+Romania,Jan,BG,3.44850368
+Romania,Feb,BG,1.120710028
+Romania,Mar,BG,11.55167215
+Romania,Apr,BG,16.74175786
+Romania,May,BG,8.954096814
+Romania,Jun,BG,9.035087615
+Romania,Jul,BG,8.3488998
+Romania,Aug,BG,3.426829396
+Romania,Sep,BG,4.406467398
+Romania,Oct,BG,2.994639742
+Romania,Nov,BG,5.040958144
+Romania,Dec,BG,6.087246676
+Romania,Jan,HU,24.01853758
+Romania,Feb,HU,20.38647903
+Romania,Mar,HU,10.82793016
+Romania,Apr,HU,3.402732949
+Romania,May,HU,0.443208891
+Romania,Jun,HU,6.174411585
+Romania,Jul,HU,8.777885095
+Romania,Aug,HU,7.586568973
+Romania,Sep,HU,3.258086105
+Romania,Oct,HU,14.62595597
+Romania,Nov,HU,14.68755477
+Romania,Dec,HU,17.89018507
+Romania,Jan,MD,8.859108645
+Romania,Feb,MD,8.444915098
+Romania,Mar,MD,2.917264807
+Romania,Apr,MD,2.604962788
+Romania,May,MD,1.635843422
+Romania,Jun,MD,4.42354365
+Romania,Jul,MD,10.35998811
+Romania,Aug,MD,10.14226865
+Romania,Sep,MD,7.88163918
+Romania,Oct,MD,4.395631842
+Romania,Nov,MD,5.548510355
+Romania,Dec,MD,6.689080659
+Romania,Jan,RS,16.85421227
+Romania,Feb,RS,4.781571025
+Romania,Mar,RS,7.307437751
+Romania,Apr,RS,8.858978212
+Romania,May,RS,2.25717671
+Romania,Jun,RS,3.236130697
+Romania,Jul,RS,4.343102232
+Romania,Aug,RS,8.418817609
+Romania,Sep,RS,7.781959493
+Romania,Oct,RS,11.21720224
+Romania,Nov,RS,11.39117802
+Romania,Dec,RS,12.8906152
+Romania,Jan,UA,7.462303347
+Romania,Feb,UA,6.490095943
+Romania,Mar,UA,-2.116169548
+Romania,Apr,UA,-3.822304632
+Romania,May,UA,-4.609447433
+Romania,Jun,UA,0.167344422
+Romania,Jul,UA,9.002081786
+Romania,Aug,UA,8.571689421
+Romania,Sep,UA,5.559456832
+Romania,Oct,UA,0.624603691
+Romania,Nov,UA,2.020706932
+Romania,Dec,UA,4.335819941
+Saudi Arabia,Jan,EG,-9.52
+Saudi Arabia,Feb,EG,-9.52
+Saudi Arabia,Mar,EG,-9.52
+Saudi Arabia,Apr,EG,-9.52
+Saudi Arabia,May,EG,-9.52
+Saudi Arabia,Jun,EG,-9.52
+Saudi Arabia,Jul,EG,-9.52
+Saudi Arabia,Aug,EG,-9.52
+Saudi Arabia,Sep,EG,-9.52
+Saudi Arabia,Oct,EG,-9.52
+Saudi Arabia,Nov,EG,-9.52
+Saudi Arabia,Dec,EG,-9.53
+Serbia,Jan,BA,2.86
+Serbia,Feb,BA,0.82
+Serbia,Mar,BA,0.16
+Serbia,Apr,BA,2.45
+Serbia,May,BA,-1.7
+Serbia,Jun,BA,-1.07
+Serbia,Jul,BA,0.59
+Serbia,Aug,BA,0.89
+Serbia,Sep,BA,0.27
+Serbia,Oct,BA,2.5
+Serbia,Nov,BA,3.64
+Serbia,Dec,BA,2.23
+Serbia,Jan,BG,-6.650927446
+Serbia,Feb,BG,-2.131902582
+Serbia,Mar,BG,0.40817968
+Serbia,Apr,BG,1.834074004
+Serbia,May,BG,1.939380499
+Serbia,Jun,BG,1.241895676
+Serbia,Jul,BG,0.593285815
+Serbia,Aug,BG,-2.416455822
+Serbia,Sep,BG,-1.795391923
+Serbia,Oct,BG,-3.996027869
+Serbia,Nov,BG,-3.089908372
+Serbia,Dec,BG,-4.804929809
+Serbia,Jan,HR,2.88
+Serbia,Feb,HR,2.28
+Serbia,Mar,HR,1.91
+Serbia,Apr,HR,1.35
+Serbia,May,HR,-0.2
+Serbia,Jun,HR,0.69
+Serbia,Jul,HR,1.26
+Serbia,Aug,HR,1.05
+Serbia,Sep,HR,0.35
+Serbia,Oct,HR,2.18
+Serbia,Nov,HR,2.37
+Serbia,Dec,HR,2.13
+Serbia,Jan,HU,12.03485515
+Serbia,Feb,HU,10.84997963
+Serbia,Mar,HU,3.582217861
+Serbia,Apr,HU,-2.0217053
+Serbia,May,HU,-0.732798075
+Serbia,Jun,HU,2.136636329
+Serbia,Jul,HU,3.447920129
+Serbia,Aug,HU,1.567193151
+Serbia,Sep,HU,-1.609428363
+Serbia,Oct,HU,3.930503829
+Serbia,Nov,HU,4.564882313
+Serbia,Dec,HU,8.753231972
+Serbia,Jan,ME,-5.398658277
+Serbia,Feb,ME,-4.994120577
+Serbia,Mar,ME,-3.214444292
+Serbia,Apr,ME,-0.492035406
+Serbia,May,ME,-4.136219164
+Serbia,Jun,ME,-3.910273955
+Serbia,Jul,ME,-2.986023729
+Serbia,Aug,ME,-0.944387168
+Serbia,Sep,ME,-0.871067358
+Serbia,Oct,ME,-2.034020226
+Serbia,Nov,ME,-1.681356359
+Serbia,Dec,ME,-4.186466086
+Serbia,Jan,MK,-2.631428293
+Serbia,Feb,MK,-0.583970997
+Serbia,Mar,MK,2.416630655
+Serbia,Apr,MK,3.620342084
+Serbia,May,MK,1.36981327
+Serbia,Jun,MK,-0.131181415
+Serbia,Jul,MK,-1.805858874
+Serbia,Aug,MK,-1.965892188
+Serbia,Sep,MK,-0.236142536
+Serbia,Oct,MK,-0.968023447
+Serbia,Nov,MK,-0.282697145
+Serbia,Dec,MK,-1.126662522
+Serbia,Jan,RO,-17.6564898
+Serbia,Feb,RO,-5.009178635
+Serbia,Mar,RO,-7.655279169
+Serbia,Apr,RO,-9.280674523
+Serbia,May,RO,-2.364620601
+Serbia,Jun,RO,-3.390173786
+Serbia,Jul,RO,-4.549838285
+Serbia,Aug,RO,-8.819561831
+Serbia,Sep,RO,-8.152388626
+Serbia,Oct,RO,-11.7511524
+Serbia,Nov,RO,-11.9334096
+Serbia,Dec,RO,-13.50422151
+Serbia,Jan,XK,-2.853680852
+Serbia,Feb,XK,-2.667160237
+Serbia,Mar,XK,-0.291464426
+Serbia,Apr,XK,1.001171121
+Serbia,May,XK,-0.187690972
+Serbia,Jun,XK,-1.708951827
+Serbia,Jul,XK,-1.741610035
+Serbia,Aug,XK,-1.521328863
+Serbia,Sep,XK,-0.877753788
+Serbia,Oct,XK,-1.959115109
+Serbia,Nov,XK,-1.845709789
+Serbia,Dec,XK,-1.727941357
+Slovakia,Jan,AT,0
+Slovakia,Feb,AT,0
+Slovakia,Mar,AT,0
+Slovakia,Apr,AT,0
+Slovakia,May,AT,0
+Slovakia,Jun,AT,0
+Slovakia,Jul,AT,0
+Slovakia,Aug,AT,0
+Slovakia,Sep,AT,0
+Slovakia,Oct,AT,0
+Slovakia,Nov,AT,0
+Slovakia,Dec,AT,0
+Slovakia,Jan,CZ,19.10229809
+Slovakia,Feb,CZ,20.32899943
+Slovakia,Mar,CZ,12.08423264
+Slovakia,Apr,CZ,-6.782503517
+Slovakia,May,CZ,10.81656014
+Slovakia,Jun,CZ,19.50427523
+Slovakia,Jul,CZ,-10.80809502
+Slovakia,Aug,CZ,-19.01149369
+Slovakia,Sep,CZ,-13.1866309
+Slovakia,Oct,CZ,12.12820962
+Slovakia,Nov,CZ,5.894594823
+Slovakia,Dec,CZ,16.20409065
+Slovakia,Jan,HU,-18.13277628
+Slovakia,Feb,HU,-12.53932839
+Slovakia,Mar,HU,-1.664100499
+Slovakia,Apr,HU,7.116073699
+Slovakia,May,HU,-5.696856689
+Slovakia,Jun,HU,-16.60123184
+Slovakia,Jul,HU,-0.618196746
+Slovakia,Aug,HU,13.00744406
+Slovakia,Sep,HU,10.46521684
+Slovakia,Oct,HU,-5.532518763
+Slovakia,Nov,HU,8.792308692
+Slovakia,Dec,HU,-6.454642552
+Slovakia,Jan,PL,4.401872547
+Slovakia,Feb,PL,6.136180505
+Slovakia,Mar,PL,7.092512021
+Slovakia,Apr,PL,4.514273067
+Slovakia,May,PL,-1.023965651
+Slovakia,Jun,PL,-1.487547078
+Slovakia,Jul,PL,0.748379432
+Slovakia,Aug,PL,-3.200848632
+Slovakia,Sep,PL,-4.050960889
+Slovakia,Oct,PL,2.365569236
+Slovakia,Nov,PL,-4.637543196
+Slovakia,Dec,PL,7.95335648
+Slovakia,Jan,UA,-0.88343746
+Slovakia,Feb,UA,0.456898973
+Slovakia,Mar,UA,-3.80403188
+Slovakia,Apr,UA,-3.382367833
+Slovakia,May,UA,-4.053535468
+Slovakia,Jun,UA,-2.898122251
+Slovakia,Jul,UA,6.204394866
+Slovakia,Aug,UA,6.415942812
+Slovakia,Sep,UA,5.262530664
+Slovakia,Oct,UA,-3.762004925
+Slovakia,Nov,UA,-0.933508306
+Slovakia,Dec,UA,-2.197234508
+Slovenia,Jan,AT,10.48
+Slovenia,Feb,AT,8.25
+Slovenia,Mar,AT,-13.88
+Slovenia,Apr,AT,-15.64
+Slovenia,May,AT,-23.57
+Slovenia,Jun,AT,-23.43
+Slovenia,Jul,AT,-25.13
+Slovenia,Aug,AT,-24.71
+Slovenia,Sep,AT,-23.14
+Slovenia,Oct,AT,-10.98
+Slovenia,Nov,AT,-11.04
+Slovenia,Dec,AT,1.26
+Slovenia,Jan,HR,-22.79
+Slovenia,Feb,HR,-21.75
+Slovenia,Mar,HR,-6.3
+Slovenia,Apr,HR,7.68
+Slovenia,May,HR,15.37
+Slovenia,Jun,HR,4.4
+Slovenia,Jul,HR,7.63
+Slovenia,Aug,HR,11.4
+Slovenia,Sep,HR,5.67
+Slovenia,Oct,HR,-6.98
+Slovenia,Nov,HR,-9.35
+Slovenia,Dec,HR,-15.71
+Slovenia,Jan,HU,-4.222569704
+Slovenia,Feb,HU,-7.092526347
+Slovenia,Mar,HU,-4.728233704
+Slovenia,Apr,HU,-1.136922493
+Slovenia,May,HU,12.13289972
+Slovenia,Jun,HU,6.460722672
+Slovenia,Jul,HU,7.646752675
+Slovenia,Aug,HU,9.210767734
+Slovenia,Sep,HU,1.813519121
+Slovenia,Oct,HU,-8.128414873
+Slovenia,Nov,HU,-7.775203452
+Slovenia,Dec,HU,-3.310813565
+Slovenia,Jan,IT,-14.0439326
+Slovenia,Feb,IT,-3.42255964
+Slovenia,Mar,IT,2.40829517
+Slovenia,Apr,IT,-4.113085565
+Slovenia,May,IT,-16.31124256
+Slovenia,Jun,IT,-14.45027904
+Slovenia,Jul,IT,-12.82032434
+Slovenia,Aug,IT,-9.258171633
+Slovenia,Sep,IT,-2.139938536
+Slovenia,Oct,IT,0.093394734
+Slovenia,Nov,IT,0.481326934
+Slovenia,Dec,IT,-9.165343275
+Spain,Jan,FR,43.32694477
+Spain,Feb,FR,49.77627012
+Spain,Mar,FR,47.4674312
+Spain,Apr,FR,48.16390456
+Spain,May,FR,44.35216027
+Spain,Jun,FR,41.41220963
+Spain,Jul,FR,37.35555661
+Spain,Aug,FR,30.19646365
+Spain,Sep,FR,36.57808701
+Spain,Oct,FR,31.75970441
+Spain,Nov,FR,45.68433432
+Spain,Dec,FR,46.56656493
+Spain,Jan,IT,0
+Spain,Feb,IT,0
+Spain,Mar,IT,0
+Spain,Apr,IT,0
+Spain,May,IT,0
+Spain,Jun,IT,0
+Spain,Jul,IT,0
+Spain,Aug,IT,0
+Spain,Sep,IT,0
+Spain,Oct,IT,0
+Spain,Nov,IT,0
+Spain,Dec,IT,0
+Spain,Jan,MA,6.292683632
+Spain,Feb,MA,9.339991946
+Spain,Mar,MA,10.55436588
+Spain,Apr,MA,8.300578039
+Spain,May,MA,10.7966597
+Spain,Jun,MA,10.82372263
+Spain,Jul,MA,11.26903563
+Spain,Aug,MA,12.02343228
+Spain,Sep,MA,10.39518402
+Spain,Oct,MA,10.68663066
+Spain,Nov,MA,11.04245926
+Spain,Dec,MA,11.51205537
+Spain,Jan,PT,-7.500664599
+Spain,Feb,PT,-9.683895275
+Spain,Mar,PT,-9.945587294
+Spain,Apr,PT,-5.40855763
+Spain,May,PT,-6.244554981
+Spain,Jun,PT,-7.409957778
+Spain,Jul,PT,-6.868800274
+Spain,Aug,PT,-8.647805475
+Spain,Sep,PT,-6.974733515
+Spain,Oct,PT,-4.804133761
+Spain,Nov,PT,-4.902936757
+Spain,Dec,PT,-6.890847061
+Sweden,Jan,DE,5.854573002
+Sweden,Feb,DE,3.0590974
+Sweden,Mar,DE,-0.496543692
+Sweden,Apr,DE,5.094289344
+Sweden,May,DE,2.337515759
+Sweden,Jun,DE,5.525824964
+Sweden,Jul,DE,5.241240294
+Sweden,Aug,DE,6.059349022
+Sweden,Sep,DE,10.03616794
+Sweden,Oct,DE,5.483586742
+Sweden,Nov,DE,4.373251086
+Sweden,Dec,DE,3.669731559
+Sweden,Jan,DK,2.901265894
+Sweden,Feb,DK,-0.083205063
+Sweden,Mar,DK,-2.433200847
+Sweden,Apr,DK,1.746848965
+Sweden,May,DK,-1.612399742
+Sweden,Jun,DK,2.295237606
+Sweden,Jul,DK,1.090401984
+Sweden,Aug,DK,0.918628311
+Sweden,Sep,DK,3.083539417
+Sweden,Oct,DK,0.787174586
+Sweden,Nov,DK,-0.770008639
+Sweden,Dec,DK,2.648696622
+Sweden,Jan,FI,-11.00958459
+Sweden,Feb,FI,-4.861367119
+Sweden,Mar,FI,-3.226554414
+Sweden,Apr,FI,0.914277519
+Sweden,May,FI,3.578691826
+Sweden,Jun,FI,4.576592013
+Sweden,Jul,FI,7.897579804
+Sweden,Aug,FI,7.695226657
+Sweden,Sep,FI,0.693471364
+Sweden,Oct,FI,0.567899241
+Sweden,Nov,FI,-1.001553135
+Sweden,Dec,FI,-4.235771833
+Sweden,Jan,LT,-0.492412093
+Sweden,Feb,LT,-0.310633324
+Sweden,Mar,LT,1.309264452
+Sweden,Apr,LT,1.707550176
+Sweden,May,LT,0.907524159
+Sweden,Jun,LT,1.563197703
+Sweden,Jul,LT,2.95205092
+Sweden,Aug,LT,2.107190905
+Sweden,Sep,LT,1.243389127
+Sweden,Oct,LT,1.067177189
+Sweden,Nov,LT,-1.268587337
+Sweden,Dec,LT,0.285395773
+Sweden,Jan,LV,0
+Sweden,Feb,LV,0
+Sweden,Mar,LV,0
+Sweden,Apr,LV,0
+Sweden,May,LV,0
+Sweden,Jun,LV,0
+Sweden,Jul,LV,0
+Sweden,Aug,LV,0
+Sweden,Sep,LV,0
+Sweden,Oct,LV,0
+Sweden,Nov,LV,0
+Sweden,Dec,LV,0
+Sweden,Jan,NO,-19.48087036
+Sweden,Feb,NO,-15.00654444
+Sweden,Mar,NO,-19.02735048
+Sweden,Apr,NO,-21.13568238
+Sweden,May,NO,-15.98954634
+Sweden,Jun,NO,-19.30181679
+Sweden,Jul,NO,-19.46329042
+Sweden,Aug,NO,-21.6899868
+Sweden,Sep,NO,-19.72279903
+Sweden,Oct,NO,-17.19845638
+Sweden,Nov,NO,-10.51813541
+Sweden,Dec,NO,-13.92778272
+Sweden,Jan,PL,3.370923185
+Sweden,Feb,PL,2.260495256
+Sweden,Mar,PL,4.119529074
+Sweden,Apr,PL,4.2542458
+Sweden,May,PL,4.294754741
+Sweden,Jun,PL,4.344450134
+Sweden,Jul,PL,4.419866873
+Sweden,Aug,PL,4.369363419
+Sweden,Sep,PL,4.325769408
+Sweden,Oct,PL,4.265320508
+Sweden,Nov,PL,4.039447362
+Sweden,Dec,PL,4.297740406
+Switzerland,Jan,AT,6
+Switzerland,Feb,AT,-0.36
+Switzerland,Mar,AT,-2.98
+Switzerland,Apr,AT,-0.7
+Switzerland,May,AT,-0.22
+Switzerland,Jun,AT,1.78
+Switzerland,Jul,AT,2.04
+Switzerland,Aug,AT,2.47
+Switzerland,Sep,AT,4.6
+Switzerland,Oct,AT,1.4
+Switzerland,Nov,AT,0.01
+Switzerland,Dec,AT,1.83
+Switzerland,Jan,DE,-1.344504264
+Switzerland,Feb,DE,2.226793042
+Switzerland,Mar,DE,-11.75198085
+Switzerland,Apr,DE,-5.292188058
+Switzerland,May,DE,-15.71565385
+Switzerland,Jun,DE,-8.518915842
+Switzerland,Jul,DE,-9.046048572
+Switzerland,Aug,DE,-7.210790042
+Switzerland,Sep,DE,-16.40063744
+Switzerland,Oct,DE,-12.24844847
+Switzerland,Nov,DE,-20.31333884
+Switzerland,Dec,DE,-6.914828434
+Switzerland,Jan,FR,-20.71718901
+Switzerland,Feb,FR,-17.99060838
+Switzerland,Mar,FR,-20.78483162
+Switzerland,Apr,FR,-6.486308382
+Switzerland,May,FR,-6.647045123
+Switzerland,Jun,FR,1.679728055
+Switzerland,Jul,FR,-7.249941516
+Switzerland,Aug,FR,-4.924977381
+Switzerland,Sep,FR,-25.32777744
+Switzerland,Oct,FR,-23.34168881
+Switzerland,Nov,FR,-30.30899397
+Switzerland,Dec,FR,-25.79829738
+Switzerland,Jan,IT,-2.021826553
+Switzerland,Feb,IT,-6.356277779
+Switzerland,Mar,IT,18.4100853
+Switzerland,Apr,IT,23.82176283
+Switzerland,May,IT,28.07226332
+Switzerland,Jun,IT,34.87429416
+Switzerland,Jul,IT,37.9809673
+Switzerland,Aug,IT,37.86810911
+Switzerland,Sep,IT,39.19811938
+Switzerland,Oct,IT,26.30448741
+Switzerland,Nov,IT,23.65610521
+Switzerland,Dec,IT,-0.54567761
+Tunisia,Jan,DZ,-10.75850291
+Tunisia,Feb,DZ,-9.167234051
+Tunisia,Mar,DZ,-9.532766405
+Tunisia,Apr,DZ,-9.532262108
+Tunisia,May,DZ,-12.20600572
+Tunisia,Jun,DZ,-12.36074679
+Tunisia,Jul,DZ,-11.04611532
+Tunisia,Aug,DZ,-12.61919362
+Tunisia,Sep,DZ,-12.61541204
+Tunisia,Oct,DZ,-11.45541163
+Tunisia,Nov,DZ,-10.61743511
+Tunisia,Dec,DZ,-8.626060055
+Tunisia,Jan,IT,-10.13352545
+Tunisia,Feb,IT,-2.245375534
+Tunisia,Mar,IT,-1.31367094
+Tunisia,Apr,IT,1.507202635
+Tunisia,May,IT,-0.170938861
+Tunisia,Jun,IT,-1.012871083
+Tunisia,Jul,IT,-2.941623932
+Tunisia,Aug,IT,-0.2724563
+Tunisia,Sep,IT,-0.676892664
+Tunisia,Oct,IT,-0.897110491
+Tunisia,Nov,IT,-14.81522628
+Tunisia,Dec,IT,-7.43319796
+Tunisia,Jan,LY,20.41155099
+Tunisia,Feb,LY,21.11392788
+Tunisia,Mar,LY,18.69497574
+Tunisia,Apr,LY,20.7190136
+Tunisia,May,LY,9.031547284
+Tunisia,Jun,LY,5.260796652
+Tunisia,Jul,LY,-3.980415357
+Tunisia,Aug,LY,-2.582212503
+Tunisia,Sep,LY,9.188848504
+Tunisia,Oct,LY,15.36977888
+Tunisia,Nov,LY,19.91584338
+Tunisia,Dec,LY,21.23980828
+Tunisia,Jan,MT,0
+Tunisia,Feb,MT,0
+Tunisia,Mar,MT,0
+Tunisia,Apr,MT,0
+Tunisia,May,MT,0
+Tunisia,Jun,MT,0
+Tunisia,Jul,MT,0
+Tunisia,Aug,MT,0
+Tunisia,Sep,MT,0
+Tunisia,Oct,MT,0
+Tunisia,Nov,MT,0
+Tunisia,Dec,MT,0
+Turkiye,Jan,BG,-47.11429685
+Turkiye,Feb,BG,-48.81212311
+Turkiye,Mar,BG,-54.88719405
+Turkiye,Apr,BG,-54.91252003
+Turkiye,May,BG,-54.02491367
+Turkiye,Jun,BG,-51.35036619
+Turkiye,Jul,BG,-53.20613463
+Turkiye,Aug,BG,-43.9591833
+Turkiye,Sep,BG,-51.56290518
+Turkiye,Oct,BG,-51.85404837
+Turkiye,Nov,BG,-51.67885212
+Turkiye,Dec,BG,-51.20329562
+Turkiye,Jan,GR,-36.39
+Turkiye,Feb,GR,-38.19
+Turkiye,Mar,GR,-39.54
+Turkiye,Apr,GR,-40.17
+Turkiye,May,GR,-40.1
+Turkiye,Jun,GR,-37.95
+Turkiye,Jul,GR,-39.22
+Turkiye,Aug,GR,-33.35
+Turkiye,Sep,GR,-38.21
+Turkiye,Oct,GR,-38.9
+Turkiye,Nov,GR,-37.9
+Turkiye,Dec,GR,-38.26
+Ukraine,Jan,HU,-2.837762213
+Ukraine,Feb,HU,-5.093707296
+Ukraine,Mar,HU,13.58961852
+Ukraine,Apr,HU,12.99229516
+Ukraine,May,HU,12.89874723
+Ukraine,Jun,HU,3.19334819
+Ukraine,Jul,HU,-25.08493243
+Ukraine,Aug,HU,-22.50193471
+Ukraine,Sep,HU,-16.31454764
+Ukraine,Oct,HU,10.18491895
+Ukraine,Nov,HU,6.336691246
+Ukraine,Dec,HU,7.466130484
+Ukraine,Jan,MD,-8.399086191
+Ukraine,Feb,MD,-6.25186526
+Ukraine,Mar,MD,6.885235704
+Ukraine,Apr,MD,9.315404209
+Ukraine,May,MD,10.62883997
+Ukraine,Jun,MD,5.234711406
+Ukraine,Jul,MD,-10.17106981
+Ukraine,Aug,MD,-8.725964932
+Ukraine,Sep,MD,-3.976208712
+Ukraine,Oct,MD,4.818006761
+Ukraine,Nov,MD,1.803926599
+Ukraine,Dec,MD,-2.932874658
+Ukraine,Jan,PL,2.941932357
+Ukraine,Feb,PL,3.255143173
+Ukraine,Mar,PL,10.03191125
+Ukraine,Apr,PL,9.536666162
+Ukraine,May,PL,7.263814312
+Ukraine,Jun,PL,1.200256524
+Ukraine,Jul,PL,-8.575176971
+Ukraine,Aug,PL,-11.44454615
+Ukraine,Sep,PL,-10.62993283
+Ukraine,Oct,PL,5.484122801
+Ukraine,Nov,PL,-4.815384764
+Ukraine,Dec,PL,9.215985923
+Ukraine,Jan,RO,-18.76203966
+Ukraine,Feb,RO,-16.31767456
+Ukraine,Mar,RO,5.320563254
+Ukraine,Apr,RO,9.610200463
+Ukraine,May,RO,11.58926829
+Ukraine,Jun,RO,-0.420744444
+Ukraine,Jul,RO,-22.63341593
+Ukraine,Aug,RO,-21.55130519
+Ukraine,Sep,RO,-13.97782222
+Ukraine,Oct,RO,-1.570405099
+Ukraine,Nov,RO,-5.080547096
+Ukraine,Dec,RO,-10.90130244
+Ukraine,Jan,RU,0
+Ukraine,Feb,RU,0
+Ukraine,Mar,RU,0
+Ukraine,Apr,RU,0
+Ukraine,May,RU,0
+Ukraine,Jun,RU,0
+Ukraine,Jul,RU,0
+Ukraine,Aug,RU,0
+Ukraine,Sep,RU,0
+Ukraine,Oct,RU,0
+Ukraine,Nov,RU,0
+Ukraine,Dec,RU,0
+Ukraine,Jan,SK,1.427153061
+Ukraine,Feb,SK,-0.738099522
+Ukraine,Mar,SK,6.145240591
+Ukraine,Apr,SK,5.46406149
+Ukraine,May,SK,6.548302297
+Ukraine,Jun,SK,4.681784764
+Ukraine,Jul,SK,-10.02291789
+Ukraine,Aug,SK,-10.36466398
+Ukraine,Sep,SK,-8.501379082
+Ukraine,Oct,SK,6.077347955
+Ukraine,Nov,SK,1.508040236
+Ukraine,Dec,SK,3.549532474
+United Kingdom,Jan,BE,3.245090861
+United Kingdom,Feb,BE,2.49954832
+United Kingdom,Mar,BE,2.733416424
+United Kingdom,Apr,BE,1.735811649
+United Kingdom,May,BE,2.290883206
+United Kingdom,Jun,BE,1.31402648
+United Kingdom,Jul,BE,2.014519662
+United Kingdom,Aug,BE,2.396110432
+United Kingdom,Sep,BE,2.595757202
+United Kingdom,Oct,BE,2.943205261
+United Kingdom,Nov,BE,2.905753609
+United Kingdom,Dec,BE,2.419871664
+United Kingdom,Jan,DE,9.342356874
+United Kingdom,Feb,DE,7.262329676
+United Kingdom,Mar,DE,6.604401766
+United Kingdom,Apr,DE,1.082116529
+United Kingdom,May,DE,2.342440156
+United Kingdom,Jun,DE,-1.202287032
+United Kingdom,Jul,DE,3.541194156
+United Kingdom,Aug,DE,4.711025401
+United Kingdom,Sep,DE,6.845815812
+United Kingdom,Oct,DE,5.903424598
+United Kingdom,Nov,DE,6.226858579
+United Kingdom,Dec,DE,7.156596766
+United Kingdom,Jan,DK,7.098319917
+United Kingdom,Feb,DK,6.587961996
+United Kingdom,Mar,DK,4.254635042
+United Kingdom,Apr,DK,-0.317711786
+United Kingdom,May,DK,1.191008424
+United Kingdom,Jun,DK,-3.625460737
+United Kingdom,Jul,DK,1.314551966
+United Kingdom,Aug,DK,1.025083995
+United Kingdom,Sep,DK,0.211800723
+United Kingdom,Oct,DK,3.427975028
+United Kingdom,Nov,DK,4.128840076
+United Kingdom,Dec,DK,6.276445385
+United Kingdom,Jan,FR,20.15054442
+United Kingdom,Feb,FR,10.95550418
+United Kingdom,Mar,FR,19.14968111
+United Kingdom,Apr,FR,8.093911618
+United Kingdom,May,FR,19.17315764
+United Kingdom,Jun,FR,4.470309301
+United Kingdom,Jul,FR,20.58757185
+United Kingdom,Aug,FR,19.70077642
+United Kingdom,Sep,FR,20.16914868
+United Kingdom,Oct,FR,19.73779641
+United Kingdom,Nov,FR,19.74244145
+United Kingdom,Dec,FR,13.87057939
+United Kingdom,Jan,IE,-2.70006237
+United Kingdom,Feb,IE,-3.030338975
+United Kingdom,Mar,IE,-3.415600154
+United Kingdom,Apr,IE,-2.588806041
+United Kingdom,May,IE,0.337955641
+United Kingdom,Jun,IE,-0.076176469
+United Kingdom,Jul,IE,1.292048959
+United Kingdom,Aug,IE,-1.472086318
+United Kingdom,Sep,IE,0.339169199
+United Kingdom,Oct,IE,2.187108298
+United Kingdom,Nov,IE,-2.272162657
+United Kingdom,Dec,IE,-2.135332586
+United Kingdom,Jan,NL,4.448621106
+United Kingdom,Feb,NL,4.087458062
+United Kingdom,Mar,NL,3.85178681
+United Kingdom,Apr,NL,1.069324264
+United Kingdom,May,NL,1.163452149
+United Kingdom,Jun,NL,-0.209990429
+United Kingdom,Jul,NL,1.65467141
+United Kingdom,Aug,NL,2.679749671
+United Kingdom,Sep,NL,3.82843136
+United Kingdom,Oct,NL,4.062084638
+United Kingdom,Nov,NL,3.995406073
+United Kingdom,Dec,NL,3.225716074
+United Kingdom,Jan,NO,0.064205072
+United Kingdom,Feb,NO,0.340926469
+United Kingdom,Mar,NO,0.554226337
+United Kingdom,Apr,NO,-4.143320497
+United Kingdom,May,NO,-2.620335217
+United Kingdom,Jun,NO,-4.652666107
+United Kingdom,Jul,NO,-3.821029174
+United Kingdom,Aug,NO,-3.058074171
+United Kingdom,Sep,NO,-3.440093321
+United Kingdom,Oct,NO,-0.779498754
+United Kingdom,Nov,NO,1.347509148
+United Kingdom,Dec,NO,0.848273504
+United Kingdom,Jan,NW,0.491338363
+United Kingdom,Feb,NW,-0.135507965
+United Kingdom,Mar,NW,0.179097065
+United Kingdom,Apr,NW,-1.136445785
+United Kingdom,May,NW,-0.558462269
+United Kingdom,Jun,NW,-1.89690946
+United Kingdom,Jul,NW,-0.637077005
+United Kingdom,Aug,NW,0.661627358
+United Kingdom,Sep,NW,0.444052854
+United Kingdom,Oct,NW,0.453283379
+United Kingdom,Nov,NW,-2.054511064
+United Kingdom,Dec,NW,-2.291573788

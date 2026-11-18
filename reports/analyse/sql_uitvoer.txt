@@ -1,0 +1,160 @@
+SQLite 3.48.0; database: data/analyse.db; parameters: {'maand': '2025-06', 'jaar': 2025, 'jaar_van': 2019, 'jaar_tot': 2025, 'regio': '', 'segment': '', 'zone': '', 'niveau': 'regio', 'tolerantie_pp': 0.5, 'tolerantie_rel': 0.1}
+
+== 03_pijplijn.sql ==
+stg_nl_uur               tabel    69010 rijen     277.9 ms   <- raw_nl_uur
+afgekeurd_nl_uur         tabel        0 rijen     139.4 ms   <- raw_nl_uur
+stg_land_jaar            tabel      296 rijen       2.9 ms   <- raw_land_jaar
+stg_batterij             tabel      296 rijen       2.6 ms   <- raw_flex_land
+stg_mix                  tabel     5916 rijen      83.8 ms   <- raw_ember_opwek_jaar
+mart_zonejaar            tabel      296 rijen       3.0 ms   <- stg_land_jaar, stg_batterij, stg_mix, raw_dim_zone
+mart_nl_dag              tabel     2876 rijen      47.0 ms   <- stg_nl_uur
+mart_zonemaand           tabel     3515 rijen      12.8 ms   <- raw_land_maand, stg_land_jaar, raw_dim_zone
+mart_nl_maand            tabel       95 rijen       3.8 ms   <- mart_nl_dag
+kwaliteit                tabel       11 rijen      15.4 ms   <- stg_nl_uur, afgekeurd_nl_uur, stg_land_jaar, stg_batterij, mart_zonejaar, mart_nl_dag, mart_zonemaand
+
+== 01_analyse.sql ==
+analyse_zones            query       37 rijen       1.8 ms   <- raw_land_jaar, raw_flex_land, raw_dim_zone
+                         Regio Land of zone  Jaar  Batterij-omzet (euro per MW)  Verandering batterij-omzet (%) IRR batterij op de dagmarkt  Capture rate zon  Verandering sinds 2019  Negatieve uren  Dagspreiding (euro per MWh)       Segment  Rang in de regio
+    Midden- en Zuidoost-Europa    Hongarije  2025                         80919                           -11.2                        5.5%              0.58                   -0.48             281                          163 Batterijmarkt                 1
+    Midden- en Zuidoost-Europa    Bulgarije  2025                         80876                           -10.2                        5.5%              0.69                   -0.35             170                          166 Batterijmarkt                 2
+    Midden- en Zuidoost-Europa  Griekenland  2025                         80372                             5.1                        5.4%              0.58                   -0.40             115                          162 Batterijmarkt                 3
+    Midden- en Zuidoost-Europa     Roemenie  2025                         80346                           -14.1                        5.4%              0.60                   -0.45             196                          165 Batterijmarkt                 4
+    Midden- en Zuidoost-Europa       Servie  2025                         76232                            -1.8                        4.4%              0.60                   -0.46               0                          147 Batterijmarkt                 5
+    Midden- en Zuidoost-Europa      Kroatie  2025                         72015                             2.0                        3.3%              0.66                   -0.39             257                          147 Batterijmarkt                 6
+    Midden- en Zuidoost-Europa     Slovenie  2025                         68871                             7.3                        2.5%              0.63                   -0.41             268                          143 Batterijmarkt                 7
+    Midden- en Zuidoost-Europa    Slowakije  2025                         66192                             1.8                        1.8%              0.55                   -0.43             299                          144 Batterijmarkt                 8
+
+== 02_optimalisatie.sql ==
+traag                    query       30 rijen   16759.1 ms   <- raw_nl_uur
+           dag  gem_prijs  dagspreiding  negatieve_uren
+    2025-06-01  38.722083        135.31               9
+    2025-06-02  85.997083        228.26               0
+    2025-06-03  57.405000        133.79               6
+    2025-06-04  78.904167        127.88               0
+    2025-06-05  75.817083        118.60               0
+    2025-06-06  49.753750        133.49               7
+    2025-06-07  65.395000        128.61               4
+    2025-06-08  29.562917        183.12               9
+snel                     query       30 rijen       0.5 ms   <- stg_nl_uur
+           dag  gem_prijs  dagspreiding  negatieve_uren
+    2025-06-01  38.722083        135.31               9
+    2025-06-02  85.997083        228.26               0
+    2025-06-03  57.405000        133.79               6
+    2025-06-04  78.904167        127.88               0
+    2025-06-05  75.817083        118.60               0
+    2025-06-06  49.753750        133.49               7
+    2025-06-07  65.395000        128.61               4
+    2025-06-08  29.562917        183.12               9
+voorberekend             query       30 rijen       0.2 ms   <- mart_nl_dag
+           dag  gem_prijs  dagspreiding  negatieve_uren
+    2025-06-01  38.722083        135.31               9
+    2025-06-02  85.997083        228.26               0
+    2025-06-03  57.405000        133.79               6
+    2025-06-04  78.904167        127.88               0
+    2025-06-05  75.817083        118.60               0
+    2025-06-06  49.753750        133.49               7
+    2025-06-07  65.395000        128.61               4
+    2025-06-08  29.562917        183.12               9
+
+== 04_dashboard.sql ==
+kerncijfers              query        2 rijen       0.4 ms   <- mart_zonejaar
+     Jaar  Zones  Capture rate zon (gemiddeld)  Batterij-omzet (euro per MW)  Dagspreiding (euro per MWh)  Negatieve uren (gemiddeld)      Periode
+     2025     37                         0.645                         46980                          106                         265 gekozen jaar
+     2024     37                         0.727                         42251                           99                         265  jaar ervoor
+rangorde                 query        6 rijen       0.3 ms   <- mart_zonejaar
+                         Groep  Zones  Capture rate zon  Batterij-omzet (euro per MW)  Negatieve uren
+    Midden- en Zuidoost-Europa     10             0.609                         72911             222
+              Baltische staten      3             0.601                         62195             182
+              Noordwest-Europa      8             0.574                         52724             447
+                        Iberie      2             0.543                         50061             378
+                        Italie      4             0.817                         31813               0
+                   Scandinavie     10             0.703                         17340             273
+verloop                  query       84 rijen       0.5 ms   <- mart_zonemaand
+      Maand  Prijs (euro per MWh)  Prijs een jaar eerder  Verandering (%)  Capture rate zon  Negatieve uren
+    2019-01                  58.3                    NaN              NaN              1.08               0
+    2019-02                  46.9                    NaN              NaN              0.93               0
+    2019-03                  40.5                    NaN              NaN              0.95               0
+    2019-04                  40.8                    NaN              NaN              0.96               0
+    2019-05                  40.2                    NaN              NaN              0.98               0
+    2019-06                  36.2                    NaN              NaN              0.95               2
+    2019-07                  39.6                    NaN              NaN              1.00               0
+    2019-08                  37.4                    NaN              NaN              0.97               0
+maand_uur                query      288 rijen       4.5 ms   <- stg_nl_uur
+     Maand  Uur (UTC)  Prijs (1 = jaargemiddelde)  Uren
+         1          0                       1.053    31
+         1          1                       0.985    31
+         1          2                       0.958    31
+         1          3                       0.919    31
+         1          4                       0.983    31
+         1          5                       1.160    31
+         1          6                       1.478    31
+         1          7                       1.781    31
+segmenten                query       23 rijen       0.3 ms   <- mart_zonejaar
+     Jaar          Segment  Zones  Aandeel (%)
+     2019   Vlakke prijzen     36         97.3
+     2019 Zon houdt waarde      1          2.7
+     2020   Vlakke prijzen     37        100.0
+     2021 Zon houdt waarde     25         67.6
+     2021   Vlakke prijzen     11         29.7
+     2021       Middenveld      1          2.7
+     2022    Batterijmarkt     28         75.7
+     2022 Zon houdt waarde      7         18.9
+
+== 05_reconciliatie.sql ==
+rec_bronnen              tabel      288 rijen       4.0 ms   <- stg_land_jaar, stg_mix, raw_dim_land
+rec_vergelijk            tabel      182 rijen       1.9 ms   <- rec_bronnen
+a_niet_in_b              query       26 rijen       0.3 ms   <- rec_bronnen
+    Land  Jaar  Zon in A (%)                             Soort verschil
+     AUT  2026        16.492 tijdsverschil: B publiceert het jaar later
+     BEL  2026        23.170 tijdsverschil: B publiceert het jaar later
+     BGR  2026        23.320 tijdsverschil: B publiceert het jaar later
+     CHE  2026        23.831 tijdsverschil: B publiceert het jaar later
+     CZE  2026         8.070 tijdsverschil: B publiceert het jaar later
+     DEU  2026        21.333 tijdsverschil: B publiceert het jaar later
+     DNK  2026        16.236 tijdsverschil: B publiceert het jaar later
+     ESP  2026        28.163 tijdsverschil: B publiceert het jaar later
+b_niet_in_a              query       16 rijen       0.3 ms   <- rec_bronnen
+    Land  Jaren  Van  Tot                Soort verschil
+     BIH      7 2019 2025 land heeft geen biedzone in A
+     BLR      7 2019 2025 land heeft geen biedzone in A
+     CYP      7 2019 2025 land heeft geen biedzone in A
+     GBR      7 2019 2025 land heeft geen biedzone in A
+     IRL      7 2019 2025 land heeft geen biedzone in A
+     ISL      7 2019 2025 land heeft geen biedzone in A
+     LUX      7 2019 2025 land heeft geen biedzone in A
+     MDA      7 2019 2025 land heeft geen biedzone in A
+waardeverschillen        query      100 rijen       0.4 ms   <- rec_vergelijk
+    Land  Jaar  Zon in A (%)  Zon in B (%)  Verschil (procentpunt)  A gedeeld door B  Zones in A              Categorie
+     NLD  2025         0.630        21.111                  -20.48             0.030           1       dekkingsgat in A
+     NLD  2024         0.704        17.835                  -17.13             0.039           1       dekkingsgat in A
+     NLD  2023         0.776        16.347                  -15.57             0.047           1       dekkingsgat in A
+     NLD  2022         0.649        13.888                  -13.24             0.047           1       dekkingsgat in A
+     NLD  2021         0.499         9.347                   -8.85             0.053           1       dekkingsgat in A
+     NLD  2020         0.258         7.027                   -6.77             0.037           1       dekkingsgat in A
+     HUN  2025        20.388        27.123                   -6.73             0.752           1 structureel lager in A
+     CHE  2025        18.565        12.123                    6.44             1.531           1 structureel hoger in A
+totalen                  query        7 rijen       0.3 ms   <- rec_vergelijk
+     Jaar  Landen in beide  Verschil alle landen (%)  Landen zonder dekkingsgat  Verschil zonder dekkingsgat (%)
+     2019               26                      -9.3                         18                              4.6
+     2020               26                      -6.9                         21                              1.4
+     2021               26                      -8.0                         20                              1.6
+     2022               26                     -11.7                         21                             -1.9
+     2023               26                     -10.3                         22                             -1.2
+     2024               26                      -5.9                         23                              0.8
+     2025               26                      -6.3                         23                              0.5
+samenvatting             query        1 rijen       0.3 ms   <- rec_vergelijk
+     Rijen in A  Rijen in B  In beide  Sluit aan  Dekkingsgat  Wijkt af  Alleen in A  Alleen in B  Afwijkend zonder dekkingsgat (%)
+            208         288       182         82           34        66           26          106                              44.6
+oorzaken                 query        7 rijen       0.5 ms   <- rec_vergelijk
+                     Soort  Aantal                                                      Oorzaak                                                    Oplossing
+               alleen in B     106 land heeft geen biedzone in de eigen tabel (bijvoorbeeld ...           buiten de vergelijking laten, of de zone toevoegen
+                 sluit aan      82                                                         geen                                                   geen actie
+          dekkingsgat in A      34      de bron van A meet in dat land en jaar (bijna) geen zon A niet gebruiken voor het niveau; Ember voor het niveau, ...
+    structureel hoger in A      32 A schat zon achter de meter mee, of rekent met een kleine...                  Ember voor het niveau; noemer van A nalopen
+             tijdsverschil      26 Ember publiceert een jaar pas na afloop; A loopt tot vandaag                            het lopende jaar niet vergelijken
+    structureel lager in A      24 A telt een deel van de zon niet mee; vaak kleinschalig, a... Ember voor het niveau; de verhouding A/B per land als cor...
+                 wisselend      10               herziening, of ongewogen gemiddelde over zones    per geval nalopen; gewogen gemiddelde naar opwek per zone
+
+Trage query 16759 ms, herschreven 0.5 ms (35944 keer sneller), voorberekend 0.2 ms.
+
+Kwaliteitscontroles: 11 ok

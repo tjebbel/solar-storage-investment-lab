@@ -1,0 +1,44 @@
+r/hypothesetoets.R, uitgevoerd op 18 november 2026
+=================================================
+
+Hoe: R 4.6.0 (2026-04-24) via webR, R in de browser, in het browservenster van de Claude-app op de Mac.
+Het script is onveranderd gedraaid. De drie invoertabellen zijn ingekort tot de rijen en kolommen die het script
+gebruikt (fact_tech_land: zon en wind 2023-2025; fact_flex_land: 2 uur opslag 2023-2025; fact_land_jaar: 2019 en
+2025) en afgerond op 12 significante cijfers. Dat verandert de uitkomst met minder dan 1e-13.
+
+Uitvoer van R (print(uit, digits = 3)):
+
+                                     toets  n schatting aandeel_boven        p
+1            Zon: IRR boven kapitaalkosten 36    0.0149        0.2500 1.00e+00
+2           Wind: IRR boven kapitaalkosten 37    0.0858        0.7297 1.33e-02
+3 Batterij 2 uur: IRR boven kapitaalkosten 37   -0.0635        0.0811 1.00e+00
+4     Capture rate zon 2025 lager dan 2019 37   -0.3509        0.0000 5.94e-08
+    p_holm h0_verworpen
+1 1.00e+00        FALSE
+2 3.99e-02         TRUE
+3 1.00e+00        FALSE
+4 2.38e-07         TRUE
+
+Dezelfde uitkomst met 15 cijfers (n, schatting, aandeel_boven, p, p_holm, H0 verworpen):
+
+1 Zon       36  0.0149391670525    0.25               0.999701848360474   1                   FALSE
+2 Wind      37  0.0857900004089    0.72972972972973   0.0132881929010064  0.0398645787030193  TRUE
+3 Batterij  37 -0.0634566546977    0.0810810810810811 0.999999905028295   1                   FALSE
+4 Capture   37 -0.350924027995703  0                  5.94150461725968e-08 2.37660184690387e-07 TRUE
+
+Controle 1: tegen een naberekening in Python van wat R doet (wilcox.test met exact = FALSE en
+continuiteitscorrectie, Holm over vier toetsen), op dezelfde ingekorte data:
+grootste absolute verschil 5,6e-16, grootste relatieve verschil 2,4e-15. Zelfde beslissingen.
+
+Controle 2: tegen de Python-toetsen zelf (powerbi/data/fact_toetsen_SA.csv):
+
+toets      n (R/Py)  schatting (R/Py)      p R          p Python     Holm R (4 toetsen)  Holm Python (familie)
+zon        36/36     0,0149 / 0,0149       0,99970      0,99969      1                   1
+wind       37/37     0,0858 / 0,0858       0,0133       0,0127       0,040               0,059
+batterij   37/37     -0,0635 / -0,0635     1,0000       1,0000       1                   1
+capture    37/37     -0,3509 / -0,3509     5,9e-08      7,3e-12      2,4e-07             5,1e-11
+
+Aantallen, schattingen en aandelen zijn gelijk. De p-waarden verschillen zoals verwacht: R gebruikt hier de
+normale benadering met continuiteitscorrectie, Python de exacte verdeling. Voor wind verandert de beslissing:
+met Holm over vier toetsen is wind net significant (0,040), in de volledige familie van Python net niet (0,059).
+De conclusie over wind is dus een grensgeval; die over zon, batterij en de daling van de capture rate niet.

@@ -1,0 +1,3309 @@
+Area,Province,Year,Electricity source,Generation (TWh),Share of generation (%),Emissions (MtCO2e)
+China,Anhui,2011,Wind,0.2,0.121,0.003
+China,Anhui,2011,Coal,161.953,97.916,161.13
+China,Anhui,2011,Gas,0.0,0.0,0.0
+China,Anhui,2011,Clean,3.447,2.084,0.172
+China,Anhui,2011,Fossil,161.953,97.916,161.13
+China,Anhui,2011,Total generation,165.4,100.0,161.302
+China,Anhui,2012,Solar,0.01,0.006,0.0
+China,Anhui,2012,Wind,0.46,0.254,0.006
+China,Anhui,2012,Coal,175.886,97.298,174.432
+China,Anhui,2012,Gas,0.0,0.0,0.0
+China,Anhui,2012,Clean,4.884,2.702,0.28
+China,Anhui,2012,Fossil,175.886,97.298,174.432
+China,Anhui,2012,Total generation,180.77,100.0,174.712
+China,Anhui,2013,Solar,0.03,0.015,0.001
+China,Anhui,2013,Wind,0.86,0.435,0.011
+China,Anhui,2013,Coal,191.849,96.996,189.807
+China,Anhui,2013,Gas,0.0,0.0,0.0
+China,Anhui,2013,Clean,5.941,3.004,0.432
+China,Anhui,2013,Fossil,191.849,96.996,189.807
+China,Anhui,2013,Total generation,197.79,100.0,190.24
+China,Anhui,2014,Solar,0.1,0.049,0.005
+China,Anhui,2014,Wind,1.3,0.641,0.017
+China,Anhui,2014,Coal,195.324,96.361,192.781
+China,Anhui,2014,Gas,0.0,0.0,0.0
+China,Anhui,2014,Clean,7.376,3.639,0.551
+China,Anhui,2014,Fossil,195.324,96.361,192.781
+China,Anhui,2014,Total generation,202.7,100.0,193.332
+China,Anhui,2015,Solar,0.37,0.179,0.018
+China,Anhui,2015,Wind,2.1,1.018,0.027
+China,Anhui,2015,Coal,196.709,95.365,193.55
+China,Anhui,2015,Gas,0.0,0.0,0.0
+China,Anhui,2015,Clean,9.561,4.635,0.666
+China,Anhui,2015,Fossil,196.709,95.365,193.55
+China,Anhui,2015,Total generation,206.27,100.0,194.216
+China,Anhui,2016,Solar,2.1,0.947,0.101
+China,Anhui,2016,Wind,3.402,1.533,0.043
+China,Anhui,2016,Coal,209.084,94.245,205.044
+China,Anhui,2016,Gas,0.0,0.0,0.0
+China,Anhui,2016,Clean,12.769,5.756,0.929
+China,Anhui,2016,Fossil,209.084,94.245,205.044
+China,Anhui,2016,Total generation,221.853,100.0,205.973
+China,Anhui,2017,Solar,6.27,2.574,0.301
+China,Anhui,2017,Wind,4.084,1.676,0.052
+China,Anhui,2017,Coal,225.073,92.385,220.109
+China,Anhui,2017,Gas,0.0,0.0,0.0
+China,Anhui,2017,Clean,18.553,7.615,1.482
+China,Anhui,2017,Fossil,225.073,92.385,220.109
+China,Anhui,2017,Total generation,243.626,100.0,221.591
+China,Anhui,2018,Solar,10.382,3.879,0.498
+China,Anhui,2018,Wind,4.987,1.863,0.064
+China,Anhui,2018,Coal,242.954,90.775,237.006
+China,Anhui,2018,Gas,0.171,0.064,0.081
+China,Anhui,2018,Clean,24.521,9.162,1.953
+China,Anhui,2018,Fossil,243.124,90.838,237.087
+China,Anhui,2018,Total generation,267.645,100.0,239.04
+China,Anhui,2019,Solar,12.522,4.4,0.601
+China,Anhui,2019,Wind,4.691,1.648,0.061
+China,Anhui,2019,Coal,257.122,90.355,250.14
+China,Anhui,2019,Gas,0.315,0.111,0.149
+China,Anhui,2019,Clean,27.131,9.534,2.315
+China,Anhui,2019,Fossil,257.437,90.466,250.289
+China,Anhui,2019,Total generation,284.568,100.0,252.603
+China,Anhui,2020,Solar,12.978,4.695,0.623
+China,Anhui,2020,Wind,5.696,2.061,0.074
+China,Anhui,2020,Coal,245.944,88.977,238.613
+China,Anhui,2020,Gas,0.313,0.113,0.148
+China,Anhui,2020,Clean,30.155,10.909,2.49
+China,Anhui,2020,Fossil,246.257,89.091,238.761
+China,Anhui,2020,Total generation,276.412,100.0,241.251
+China,Anhui,2021,Solar,15.5,5.135,0.744
+China,Anhui,2021,Wind,10.699,3.544,0.143
+China,Anhui,2021,Coal,262.302,86.892,253.995
+China,Anhui,2021,Gas,0.289,0.096,0.137
+China,Anhui,2021,Clean,39.281,13.012,2.753
+China,Anhui,2021,Fossil,262.591,86.987,254.131
+China,Anhui,2021,Total generation,301.873,100.0,256.884
+China,Anhui,2022,Solar,20.614,6.313,0.989
+China,Anhui,2022,Wind,11.688,3.58,0.157
+China,Anhui,2022,Coal,280.262,85.832,270.992
+China,Anhui,2022,Gas,0.376,0.115,0.177
+China,Anhui,2022,Clean,45.887,14.053,3.114
+China,Anhui,2022,Fossil,280.638,85.947,271.169
+China,Anhui,2022,Total generation,326.525,100.0,274.283
+China,Anhui,2023,Solar,27.047,7.679,1.298
+China,Anhui,2023,Wind,13.944,3.959,0.187
+China,Anhui,2023,Coal,295.62,83.928,285.288
+China,Anhui,2023,Gas,0.477,0.135,0.226
+China,Anhui,2023,Clean,55.817,15.847,3.494
+China,Anhui,2023,Fossil,296.415,84.153,285.736
+China,Anhui,2023,Total generation,352.232,100.0,289.23
+China,Anhui,2024,Solar,42.5,11.097,2.04
+China,Anhui,2024,Wind,16.161,4.22,0.215
+China,Anhui,2024,Coal,304.952,79.627,293.779
+China,Anhui,2024,Gas,2.908,0.759,1.374
+China,Anhui,2024,Clean,74.35,19.414,4.329
+China,Anhui,2024,Fossil,308.626,80.586,295.689
+China,Anhui,2024,Total generation,382.975,100.0,300.018
+China,Anhui,2025,Solar,56.958,14.449,2.734
+China,Anhui,2025,Wind,22.318,5.662,0.298
+China,Anhui,2025,Coal,294.001,74.581,282.568
+China,Anhui,2025,Gas,4.328,1.098,2.046
+China,Anhui,2025,Clean,94.935,24.083,5.186
+China,Anhui,2025,Fossil,299.267,75.917,285.271
+China,Anhui,2025,Total generation,394.202,100.0,290.457
+China,Beijing,2011,Wind,0.31,1.167,0.004
+China,Beijing,2011,Coal,15.548,58.539,15.469
+China,Beijing,2011,Gas,10.008,37.681,4.73
+China,Beijing,2011,Clean,1.004,3.78,0.071
+China,Beijing,2011,Fossil,25.556,96.22,20.199
+China,Beijing,2011,Total generation,26.56,100.0,20.27
+China,Beijing,2012,Wind,0.31,1.058,0.004
+China,Beijing,2012,Coal,15.752,53.743,15.622
+China,Beijing,2012,Gas,12.308,41.992,5.817
+China,Beijing,2012,Clean,1.25,4.265,0.076
+China,Beijing,2012,Fossil,28.06,95.735,21.439
+China,Beijing,2012,Total generation,29.31,100.0,21.515
+China,Beijing,2013,Wind,0.32,0.949,0.004
+China,Beijing,2013,Coal,17.891,53.058,17.701
+China,Beijing,2013,Gas,14.741,43.716,6.967
+China,Beijing,2013,Clean,1.088,3.227,0.078
+China,Beijing,2013,Fossil,32.632,96.773,24.668
+China,Beijing,2013,Total generation,33.72,100.0,24.746
+China,Beijing,2014,Solar,0.02,0.054,0.001
+China,Beijing,2014,Wind,0.3,0.813,0.004
+China,Beijing,2014,Coal,14.141,38.302,13.957
+China,Beijing,2014,Gas,21.23,57.503,10.034
+China,Beijing,2014,Clean,1.549,4.196,0.143
+China,Beijing,2014,Fossil,35.371,95.804,23.991
+China,Beijing,2014,Total generation,36.92,100.0,24.135
+China,Beijing,2015,Solar,0.04,0.095,0.002
+China,Beijing,2015,Wind,0.3,0.71,0.004
+China,Beijing,2015,Coal,6.067,14.363,5.97
+China,Beijing,2015,Gas,34.271,81.134,16.198
+China,Beijing,2015,Clean,1.902,4.503,0.221
+China,Beijing,2015,Fossil,40.338,95.497,22.168
+China,Beijing,2015,Total generation,42.24,100.0,22.389
+China,Beijing,2016,Solar,0.108,0.248,0.005
+China,Beijing,2016,Wind,0.322,0.738,0.004
+China,Beijing,2016,Coal,0.709,1.626,0.695
+China,Beijing,2016,Gas,40.043,91.832,18.926
+China,Beijing,2016,Clean,2.853,6.543,0.318
+China,Beijing,2016,Fossil,40.752,93.458,19.621
+China,Beijing,2016,Total generation,43.605,100.001,19.939
+China,Beijing,2017,Solar,0.2,0.51,0.01
+China,Beijing,2017,Wind,0.342,0.872,0.004
+China,Beijing,2017,Coal,0.29,0.739,0.284
+China,Beijing,2017,Gas,35.965,91.701,16.998
+China,Beijing,2017,Clean,2.965,7.56,0.342
+China,Beijing,2017,Fossil,36.255,92.44,17.282
+China,Beijing,2017,Total generation,39.22,100.0,17.624
+China,Beijing,2018,Solar,0.3,0.682,0.014
+China,Beijing,2018,Wind,0.299,0.679,0.004
+China,Beijing,2018,Coal,0.0,0.0,0.0
+China,Beijing,2018,Gas,40.61,92.264,19.194
+China,Beijing,2018,Clean,3.405,7.736,0.461
+China,Beijing,2018,Fossil,40.61,92.264,19.194
+China,Beijing,2018,Total generation,44.015,100.0,19.655
+China,Beijing,2019,Solar,0.497,1.081,0.024
+China,Beijing,2019,Wind,0.299,0.65,0.004
+China,Beijing,2019,Coal,0.0,0.0,0.0
+China,Beijing,2019,Gas,41.754,90.798,19.735
+China,Beijing,2019,Clean,4.232,9.203,0.61
+China,Beijing,2019,Fossil,41.754,90.798,19.735
+China,Beijing,2019,Total generation,45.986,100.001,20.345
+China,Beijing,2020,Solar,0.598,1.32,0.029
+China,Beijing,2020,Wind,0.4,0.883,0.005
+China,Beijing,2020,Coal,0.0,0.0,0.0
+China,Beijing,2020,Gas,40.902,90.286,19.332
+China,Beijing,2020,Clean,4.401,9.715,0.591
+China,Beijing,2020,Fossil,40.902,90.286,19.332
+China,Beijing,2020,Total generation,45.303,100.001,19.923
+China,Beijing,2021,Solar,0.598,1.279,0.029
+China,Beijing,2021,Wind,0.4,0.856,0.005
+China,Beijing,2021,Coal,0.0,0.0,0.0
+China,Beijing,2021,Gas,42.168,90.201,19.93
+China,Beijing,2021,Clean,4.581,9.799,0.597
+China,Beijing,2021,Fossil,42.168,90.201,19.93
+China,Beijing,2021,Total generation,46.749,100.0,20.527
+China,Beijing,2022,Solar,0.89,1.929,0.043
+China,Beijing,2022,Wind,0.499,1.081,0.007
+China,Beijing,2022,Coal,0.0,0.0,0.0
+China,Beijing,2022,Gas,41.792,90.565,19.753
+China,Beijing,2022,Clean,4.354,9.435,0.555
+China,Beijing,2022,Fossil,41.792,90.565,19.753
+China,Beijing,2022,Total generation,46.146,100.0,20.308
+China,Beijing,2023,Solar,1.097,2.345,0.053
+China,Beijing,2023,Wind,0.497,1.062,0.007
+China,Beijing,2023,Coal,0.0,0.0,0.0
+China,Beijing,2023,Gas,41.779,89.308,19.747
+China,Beijing,2023,Clean,5.001,10.69,0.685
+China,Beijing,2023,Fossil,41.779,89.308,19.747
+China,Beijing,2023,Total generation,46.781,100.0,20.432
+China,Beijing,2024,Solar,1.217,2.731,0.058
+China,Beijing,2024,Wind,0.444,0.996,0.006
+China,Beijing,2024,Coal,0.0,0.0,0.0
+China,Beijing,2024,Gas,39.093,87.72,18.477
+China,Beijing,2024,Clean,5.472,12.279,0.759
+China,Beijing,2024,Fossil,39.093,87.72,18.477
+China,Beijing,2024,Total generation,44.566,100.001,19.236
+China,Beijing,2025,Solar,2.294,4.976,0.11
+China,Beijing,2025,Wind,0.519,1.126,0.007
+China,Beijing,2025,Coal,0.0,0.0,0.0
+China,Beijing,2025,Gas,38.371,83.226,18.136
+China,Beijing,2025,Clean,7.734,16.775,0.956
+China,Beijing,2025,Fossil,38.371,83.226,18.136
+China,Beijing,2025,Total generation,46.105,100.001,19.092
+China,China (total),2011,Solar,2.61,0.056,0.125
+China,China (total),2011,Wind,74.1,1.576,0.944
+China,China (total),2011,Coal,3702.292,78.737,3683.462
+China,China (total),2011,Gas,108.767,2.313,51.408
+China,China (total),2011,Clean,872.274,18.551,22.769
+China,China (total),2011,Fossil,3829.845,81.449,3748.02
+China,China (total),2011,Total generation,4702.119,100.0,3770.789
+China,China (total),2012,Solar,3.595,0.072,0.173
+China,China (total),2012,Wind,103.05,2.07,1.312
+China,China (total),2012,Coal,3759.652,75.522,3728.571
+China,China (total),2012,Gas,110.252,2.215,52.11
+China,China (total),2012,Clean,1090.974,21.915,28.111
+China,China (total),2012,Fossil,3887.266,78.085,3792.834
+China,China (total),2012,Total generation,4978.24,100.0,3820.945
+China,China (total),2013,Solar,8.374,0.154,0.402
+China,China (total),2013,Wind,138.264,2.551,1.762
+China,China (total),2013,Coal,4090.2,75.452,4046.664
+China,China (total),2013,Gas,116.388,2.147,55.01
+China,China (total),2013,Clean,1195.508,22.053,31.035
+China,China (total),2013,Fossil,4225.447,77.947,4114.875
+China,China (total),2013,Total generation,5420.955,100.0,4145.91
+China,China (total),2014,Solar,23.512,0.407,1.129
+China,China (total),2014,Wind,159.763,2.763,2.034
+China,China (total),2014,Coal,4218.029,72.96,4163.119
+China,China (total),2014,Gas,133.283,2.305,62.995
+China,China (total),2014,Clean,1409.326,24.377,37.003
+China,China (total),2014,Fossil,4371.941,75.623,4240.554
+China,China (total),2014,Total generation,5781.267,100.0,4277.557
+China,China (total),2015,Solar,39.481,0.681,1.895
+China,China (total),2015,Wind,185.591,3.2,2.363
+China,China (total),2015,Coal,4058.84,69.994,3993.667
+China,China (total),2015,Gas,166.907,2.878,78.887
+China,China (total),2015,Clean,1549.938,26.729,40.979
+China,China (total),2015,Fossil,4248.88,73.271,4088.748
+China,China (total),2015,Total generation,5798.818,100.0,4129.727
+China,China (total),2016,Solar,66.528,1.09,3.193
+China,China (total),2016,Wind,240.86,3.947,3.078
+China,China (total),2016,Coal,4165.506,68.26,4085.02
+China,China (total),2016,Gas,188.28,3.085,88.989
+China,China (total),2016,Clean,1720.915,28.201,46.034
+China,China (total),2016,Fossil,4381.465,71.799,4193.384
+China,China (total),2016,Total generation,6102.38,100.0,4239.418
+China,China (total),2017,Solar,117.8,1.793,5.654
+China,China (total),2017,Wind,304.6,4.635,3.911
+China,China (total),2017,Coal,4443.197,67.612,4345.202
+China,China (total),2017,Gas,203.2,3.092,96.041
+China,China (total),2017,Clean,1892.59,28.799,52.104
+China,China (total),2017,Fossil,4679.057,71.201,4464.105
+China,China (total),2017,Total generation,6571.647,100.0,4516.209
+China,China (total),2018,Solar,176.9,2.48,8.491
+China,China (total),2018,Wind,365.8,5.128,4.721
+China,China (total),2018,Coal,4776.274,66.958,4659.351
+China,China (total),2018,Gas,215.5,3.021,101.855
+China,China (total),2018,Clean,2102.021,29.468,58.773
+China,China (total),2018,Fossil,5031.212,70.532,4788.812
+China,China (total),2018,Total generation,7133.233,100.0,4847.585
+China,China (total),2019,Solar,224.0,2.998,10.752
+China,China (total),2019,Wind,405.3,5.425,5.242
+China,China (total),2019,Coal,4865.086,65.115,4732.975
+China,China (total),2019,Gas,232.5,3.112,109.889
+China,China (total),2019,Clean,2328.076,31.159,66.423
+China,China (total),2019,Fossil,5143.452,68.841,4874.971
+China,China (total),2019,Total generation,7471.528,100.0,4941.394
+China,China (total),2020,Solar,261.1,3.371,12.533
+China,China (total),2020,Wind,466.5,6.023,6.048
+China,China (total),2020,Coal,4930.977,63.662,4783.999
+China,China (total),2020,Gas,252.5,3.26,119.342
+China,China (total),2020,Clean,2506.028,32.354,73.279
+China,China (total),2020,Fossil,5239.532,67.646,4942.58
+China,China (total),2020,Total generation,7745.56,100.0,5015.859
+China,China (total),2021,Solar,327.0,3.849,15.696
+China,China (total),2021,Wind,655.8,7.719,8.772
+China,China (total),2021,Coal,5341.047,62.867,5171.88
+China,China (total),2021,Gas,287.1,3.379,135.696
+China,China (total),2021,Clean,2793.985,32.886,81.792
+China,China (total),2021,Fossil,5701.864,67.114,5359.177
+China,China (total),2021,Total generation,8495.849,100.0,5440.97
+China,China (total),2022,Solar,427.27,4.855,20.509
+China,China (total),2022,Wind,762.67,8.666,10.221
+China,China (total),2022,Coal,5422.278,61.614,5242.92
+China,China (total),2022,Gas,275.624,3.132,130.272
+China,China (total),2022,Clean,3020.62,34.324,89.554
+China,China (total),2022,Fossil,5779.797,65.676,5430.519
+China,China (total),2022,Total generation,8800.417,100.0,5520.073
+China,China (total),2023,Solar,584.15,6.213,28.039
+China,China (total),2023,Wind,885.87,9.421,11.88
+China,China (total),2023,Coal,5761.32,61.273,5559.956
+China,China (total),2023,Gas,297.8,3.167,140.753
+China,China (total),2023,Clean,3255.615,34.624,99.359
+China,China (total),2023,Fossil,6147.127,65.376,5762.314
+China,China (total),2023,Total generation,9402.742,100.0,5861.673
+China,China (total),2024,Solar,839.04,8.369,40.274
+China,China (total),2024,Wind,997.04,9.946,13.291
+China,China (total),2024,Coal,5836.352,58.218,5622.508
+China,China (total),2024,Gas,320.719,3.199,151.586
+China,China (total),2024,Clean,3774.923,37.655,117.515
+China,China (total),2024,Fossil,6250.085,62.345,5839.204
+China,China (total),2024,Total generation,10025.008,100.0,5956.718
+China,China (total),2025,Solar,1173.24,11.168,56.316
+China,China (total),2025,Wind,1127.92,10.736,15.036
+China,China (total),2025,Coal,5755.915,54.788,5532.085
+China,China (total),2025,Gas,337.61,3.214,159.569
+China,China (total),2025,Clean,4315.19,41.075,139.049
+China,China (total),2025,Fossil,6190.551,58.925,5759.572
+China,China (total),2025,Total generation,10505.74,100.0,5898.621
+China,Chongqing,2011,Wind,0.1,0.187,0.001
+China,Chongqing,2011,Coal,38.544,72.18,38.348
+China,Chongqing,2011,Gas,0.0,0.0,0.0
+China,Chongqing,2011,Clean,14.856,27.82,0.387
+China,Chongqing,2011,Fossil,38.544,72.18,38.348
+China,Chongqing,2011,Total generation,53.4,100.0,38.736
+China,Chongqing,2012,Wind,0.08,0.146,0.001
+China,Chongqing,2012,Coal,33.331,60.956,33.056
+China,Chongqing,2012,Gas,0.0,0.0,0.0
+China,Chongqing,2012,Clean,21.349,39.044,0.567
+China,Chongqing,2012,Fossil,33.331,60.956,33.056
+China,Chongqing,2012,Total generation,54.68,100.0,33.622
+China,Chongqing,2013,Wind,0.12,0.203,0.002
+China,Chongqing,2013,Coal,40.695,68.835,40.262
+China,Chongqing,2013,Gas,0.0,0.0,0.0
+China,Chongqing,2013,Clean,18.425,31.165,0.545
+China,Chongqing,2013,Fossil,40.695,68.835,40.262
+China,Chongqing,2013,Total generation,59.12,100.0,40.807
+China,Chongqing,2014,Wind,0.2,0.297,0.003
+China,Chongqing,2014,Coal,41.429,61.467,40.89
+China,Chongqing,2014,Gas,1.166,1.73,0.551
+China,Chongqing,2014,Clean,24.804,36.801,0.697
+China,Chongqing,2014,Fossil,42.596,63.199,41.441
+China,Chongqing,2014,Total generation,67.4,100.0,42.138
+China,Chongqing,2015,Wind,0.3,0.44,0.004
+China,Chongqing,2015,Coal,42.39,62.155,41.71
+China,Chongqing,2015,Gas,2.103,3.084,0.994
+China,Chongqing,2015,Clean,23.706,34.76,0.67
+China,Chongqing,2015,Fossil,44.494,65.24,42.704
+China,Chongqing,2015,Total generation,68.2,100.0,43.374
+China,Chongqing,2016,Solar,0.0,0.0,0.0
+China,Chongqing,2016,Wind,0.492,0.734,0.006
+China,Chongqing,2016,Coal,42.269,63.081,41.453
+China,Chongqing,2016,Gas,1.845,2.753,0.872
+China,Chongqing,2016,Clean,22.893,34.165,0.646
+China,Chongqing,2016,Fossil,44.114,65.835,42.325
+China,Chongqing,2016,Total generation,67.007,100.0,42.97
+China,Chongqing,2017,Solar,0.021,0.03,0.001
+China,Chongqing,2017,Wind,0.734,1.05,0.009
+China,Chongqing,2017,Coal,44.782,64.073,43.794
+China,Chongqing,2017,Gas,1.788,2.558,0.845
+China,Chongqing,2017,Clean,23.322,33.369,0.65
+China,Chongqing,2017,Fossil,46.57,66.631,44.64
+China,Chongqing,2017,Total generation,69.892,100.0,45.29
+China,Chongqing,2018,Solar,0.201,0.263,0.01
+China,Chongqing,2018,Wind,0.798,1.044,0.01
+China,Chongqing,2018,Coal,51.585,67.466,50.322
+China,Chongqing,2018,Gas,1.834,2.399,0.867
+China,Chongqing,2018,Clean,23.043,30.137,0.707
+China,Chongqing,2018,Fossil,53.418,69.863,51.189
+China,Chongqing,2018,Total generation,76.461,100.0,51.896
+China,Chongqing,2019,Solar,0.319,0.417,0.015
+China,Chongqing,2019,Wind,1.098,1.435,0.014
+China,Chongqing,2019,Coal,52.526,68.646,51.1
+China,Chongqing,2019,Gas,1.834,2.397,0.867
+China,Chongqing,2019,Clean,22.157,28.957,0.73
+China,Chongqing,2019,Fossil,54.36,71.043,51.967
+China,Chongqing,2019,Total generation,76.517,100.0,52.697
+China,Chongqing,2020,Solar,0.4,0.508,0.019
+China,Chongqing,2020,Wind,1.399,1.776,0.018
+China,Chongqing,2020,Coal,51.218,65.015,49.691
+China,Chongqing,2020,Gas,1.901,2.413,0.899
+China,Chongqing,2020,Clean,25.66,32.572,0.802
+China,Chongqing,2020,Fossil,53.119,67.428,50.59
+China,Chongqing,2020,Total generation,78.779,100.0,51.391
+China,Chongqing,2021,Solar,0.501,0.532,0.024
+China,Chongqing,2021,Wind,2.3,2.444,0.031
+China,Chongqing,2021,Coal,64.464,68.493,62.423
+China,Chongqing,2021,Gas,2.106,2.238,0.996
+China,Chongqing,2021,Clean,27.546,29.268,0.916
+China,Chongqing,2021,Fossil,66.571,70.732,63.418
+China,Chongqing,2021,Total generation,94.117,100.0,64.334
+China,Chongqing,2022,Solar,0.602,0.624,0.029
+China,Chongqing,2022,Wind,3.397,3.519,0.046
+China,Chongqing,2022,Coal,71.33,73.897,68.97
+China,Chongqing,2022,Gas,2.299,2.382,1.087
+China,Chongqing,2022,Clean,22.897,23.721,0.864
+China,Chongqing,2022,Fossil,73.629,76.279,70.057
+China,Chongqing,2022,Total generation,96.526,100.0,70.92
+China,Chongqing,2023,Solar,0.707,0.669,0.034
+China,Chongqing,2023,Wind,3.985,3.772,0.053
+China,Chongqing,2023,Coal,78.674,74.462,75.925
+China,Chongqing,2023,Gas,3.479,3.293,1.644
+China,Chongqing,2023,Clean,23.503,22.245,0.904
+China,Chongqing,2023,Fossil,82.153,77.755,77.569
+China,Chongqing,2023,Total generation,105.657,100.0,78.473
+China,Chongqing,2024,Solar,1.636,1.392,0.079
+China,Chongqing,2024,Wind,4.73,4.024,0.063
+China,Chongqing,2024,Coal,85.915,73.091,82.767
+China,Chongqing,2024,Gas,4.823,4.103,2.28
+China,Chongqing,2024,Clean,26.808,22.806,1.03
+China,Chongqing,2024,Fossil,90.738,77.194,85.046
+China,Chongqing,2024,Total generation,117.546,100.0,86.077
+China,Chongqing,2025,Solar,5.218,4.445,0.25
+China,Chongqing,2025,Wind,5.849,4.983,0.078
+China,Chongqing,2025,Coal,77.112,65.689,74.113
+China,Chongqing,2025,Gas,7.53,6.415,3.559
+China,Chongqing,2025,Clean,32.748,27.897,1.255
+China,Chongqing,2025,Fossil,84.642,72.104,77.672
+China,Chongqing,2025,Total generation,117.39,100.0,78.927
+China,Fujian,2011,Wind,2.2,1.393,0.028
+China,Fujian,2011,Coal,113.815,72.08,113.236
+China,Fujian,2011,Gas,13.016,8.243,6.152
+China,Fujian,2011,Clean,31.069,19.676,0.797
+China,Fujian,2011,Fossil,126.831,80.324,119.388
+China,Fujian,2011,Total generation,157.9,100.0,120.185
+China,Fujian,2012,Solar,0.002,0.001,0.0
+China,Fujian,2012,Wind,2.8,1.726,0.036
+China,Fujian,2012,Coal,100.428,61.915,99.598
+China,Fujian,2012,Gas,10.885,6.711,5.145
+China,Fujian,2012,Clean,50.889,31.374,1.29
+China,Fujian,2012,Fossil,111.313,68.626,104.742
+China,Fujian,2012,Total generation,162.202,100.0,106.033
+China,Fujian,2013,Solar,0.013,0.007,0.001
+China,Fujian,2013,Wind,3.6,2.012,0.046
+China,Fujian,2013,Coal,116.167,64.929,114.93
+China,Fujian,2013,Gas,11.146,6.23,5.268
+China,Fujian,2013,Clean,51.6,28.841,1.206
+China,Fujian,2013,Fossil,127.313,71.159,120.198
+China,Fujian,2013,Total generation,178.913,100.0,121.404
+China,Fujian,2014,Solar,0.05,0.027,0.002
+China,Fujian,2014,Wind,3.8,2.065,0.048
+China,Fujian,2014,Coal,116.337,63.209,114.823
+China,Fujian,2014,Gas,10.473,5.69,4.95
+China,Fujian,2014,Clean,57.24,31.1,1.313
+China,Fujian,2014,Fossil,126.81,68.9,119.773
+China,Fujian,2014,Total generation,184.05,100.0,121.085
+China,Fujian,2015,Solar,0.1,0.053,0.005
+China,Fujian,2015,Wind,4.4,2.337,0.056
+China,Fujian,2015,Coal,100.286,53.259,98.676
+China,Fujian,2015,Gas,9.655,5.127,4.563
+China,Fujian,2015,Clean,78.359,41.614,1.506
+China,Fujian,2015,Fossil,109.941,58.386,103.239
+China,Fujian,2015,Total generation,188.3,100.0,104.745
+China,Fujian,2016,Solar,0.1,0.056,0.005
+China,Fujian,2016,Wind,4.917,2.731,0.063
+China,Fujian,2016,Coal,81.156,45.072,79.588
+China,Fujian,2016,Gas,7.946,4.413,3.756
+China,Fujian,2016,Clean,90.956,50.515,1.578
+China,Fujian,2016,Fossil,89.102,49.485,83.344
+China,Fujian,2016,Total generation,180.059,100.0,84.922
+China,Fujian,2017,Solar,0.624,0.303,0.03
+China,Fujian,2017,Wind,6.475,3.147,0.083
+China,Fujian,2017,Coal,101.344,49.254,99.109
+China,Fujian,2017,Gas,9.18,4.462,4.339
+China,Fujian,2017,Clean,94.946,46.144,1.485
+China,Fujian,2017,Fossil,110.813,53.856,103.65
+China,Fujian,2017,Total generation,205.759,100.0,105.135
+China,Fujian,2018,Solar,1.405,0.592,0.067
+China,Fujian,2018,Wind,7.181,3.027,0.093
+China,Fujian,2018,Coal,127.244,53.64,124.129
+China,Fujian,2018,Gas,9.793,4.128,4.628
+China,Fujian,2018,Clean,99.542,41.962,1.528
+China,Fujian,2018,Fossil,137.678,58.038,129.207
+China,Fujian,2018,Total generation,237.221,100.0,130.734
+China,Fujian,2019,Solar,1.616,0.667,0.078
+China,Fujian,2019,Wind,8.684,3.583,0.112
+China,Fujian,2019,Coal,127.848,52.753,124.376
+China,Fujian,2019,Gas,9.718,4.01,4.593
+China,Fujian,2019,Clean,104.12,42.962,1.715
+China,Fujian,2019,Fossil,138.232,57.038,129.436
+China,Fujian,2019,Total generation,242.353,100.0,131.151
+China,Fujian,2020,Solar,1.928,0.752,0.093
+China,Fujian,2020,Wind,12.191,4.754,0.158
+China,Fujian,2020,Coal,142.223,55.465,137.983
+China,Fujian,2020,Gas,11.102,4.33,5.247
+China,Fujian,2020,Clean,102.303,39.897,1.701
+China,Fujian,2020,Fossil,154.118,60.104,143.786
+China,Fujian,2020,Total generation,256.421,100.0,145.487
+China,Fujian,2021,Solar,2.504,0.879,0.12
+China,Fujian,2021,Wind,15.199,5.334,0.203
+China,Fujian,2021,Coal,156.38,54.881,151.427
+China,Fujian,2021,Gas,10.423,3.658,4.926
+China,Fujian,2021,Clean,116.438,40.863,1.864
+China,Fujian,2021,Fossil,168.506,59.137,157.545
+China,Fujian,2021,Total generation,284.944,100.0,159.409
+China,Fujian,2022,Solar,3.892,1.32,0.187
+China,Fujian,2022,Wind,23.076,7.827,0.309
+China,Fujian,2022,Coal,145.492,49.348,140.68
+China,Fujian,2022,Gas,9.358,3.174,4.423
+China,Fujian,2022,Clean,137.547,46.654,2.18
+China,Fujian,2022,Fossil,157.279,53.346,146.803
+China,Fujian,2022,Total generation,294.826,100.0,148.983
+China,Fujian,2023,Solar,7.064,2.24,0.339
+China,Fujian,2023,Wind,21.508,6.821,0.288
+China,Fujian,2023,Coal,163.531,51.861,157.815
+China,Fujian,2023,Gas,9.536,3.024,4.507
+China,Fujian,2023,Clean,139.532,44.25,2.372
+China,Fujian,2023,Fossil,175.794,55.75,164.231
+China,Fujian,2023,Total generation,315.326,100.0,166.604
+China,Fujian,2024,Solar,14.112,4.122,0.677
+China,Fujian,2024,Wind,24.788,7.241,0.33
+China,Fujian,2024,Coal,175.116,51.154,168.699
+China,Fujian,2024,Gas,9.826,2.87,4.644
+China,Fujian,2024,Clean,154.432,45.112,3.11
+China,Fujian,2024,Fossil,187.897,54.888,175.412
+China,Fujian,2024,Total generation,342.328,100.0,178.523
+China,Fujian,2025,Solar,21.985,6.051,1.055
+China,Fujian,2025,Wind,24.747,6.811,0.33
+China,Fujian,2025,Coal,177.861,48.953,170.944
+China,Fujian,2025,Gas,8.864,2.44,4.19
+China,Fujian,2025,Clean,173.422,47.731,3.607
+China,Fujian,2025,Fossil,189.909,52.269,177.363
+China,Fujian,2025,Total generation,363.331,100.0,180.97
+China,Gansu,2011,Wind,7.1,6.654,0.09
+China,Gansu,2011,Coal,71.4,66.917,71.037
+China,Gansu,2011,Gas,0.0,0.0,0.0
+China,Gansu,2011,Clean,35.3,33.083,0.767
+China,Gansu,2011,Fossil,71.4,66.917,71.037
+China,Gansu,2011,Total generation,106.7,100.0,71.804
+China,Gansu,2012,Solar,0.31,0.28,0.015
+China,Gansu,2012,Wind,9.4,8.491,0.12
+China,Gansu,2012,Coal,66.6,60.157,66.049
+China,Gansu,2012,Gas,0.0,0.0,0.0
+China,Gansu,2012,Clean,44.11,39.843,0.96
+China,Gansu,2012,Fossil,66.6,60.157,66.049
+China,Gansu,2012,Total generation,110.71,100.0,67.01
+China,Gansu,2013,Solar,1.89,1.582,0.091
+China,Gansu,2013,Wind,11.9,9.959,0.152
+China,Gansu,2013,Coal,70.1,58.666,69.354
+China,Gansu,2013,Gas,0.0,0.0,0.0
+China,Gansu,2013,Clean,49.39,41.334,1.097
+China,Gansu,2013,Fossil,70.1,58.666,69.354
+China,Gansu,2013,Total generation,119.49,100.0,70.451
+China,Gansu,2014,Solar,4.0,3.223,0.192
+China,Gansu,2014,Wind,11.5,9.267,0.146
+China,Gansu,2014,Coal,73.028,58.846,72.077
+China,Gansu,2014,Gas,0.0,0.0,0.0
+China,Gansu,2014,Clean,51.072,41.154,1.207
+China,Gansu,2014,Fossil,73.028,58.846,72.077
+China,Gansu,2014,Total generation,124.1,100.0,73.284
+China,Gansu,2015,Solar,5.91,4.812,0.284
+China,Gansu,2015,Wind,12.7,10.341,0.162
+China,Gansu,2015,Coal,70.467,57.379,69.336
+China,Gansu,2015,Gas,0.0,0.0,0.0
+China,Gansu,2015,Clean,52.343,42.621,1.282
+China,Gansu,2015,Fossil,70.467,57.379,69.336
+China,Gansu,2015,Total generation,122.81,100.0,70.618
+China,Gansu,2016,Solar,5.98,5.153,0.287
+China,Gansu,2016,Wind,13.382,11.531,0.171
+China,Gansu,2016,Coal,70.218,60.503,68.861
+China,Gansu,2016,Gas,0.0,0.0,0.0
+China,Gansu,2016,Clean,45.839,39.497,1.148
+China,Gansu,2016,Fossil,70.218,60.503,68.861
+China,Gansu,2016,Total generation,116.057,100.0,70.009
+China,Gansu,2017,Solar,7.317,5.82,0.351
+China,Gansu,2017,Wind,18.729,14.896,0.24
+China,Gansu,2017,Coal,70.528,56.095,68.973
+China,Gansu,2017,Gas,0.0,0.0,0.0
+China,Gansu,2017,Clean,55.201,43.905,1.366
+China,Gansu,2017,Fossil,70.528,56.095,68.973
+China,Gansu,2017,Total generation,125.729,100.0,70.339
+China,Gansu,2018,Solar,9.49,6.447,0.456
+China,Gansu,2018,Wind,22.937,15.581,0.296
+China,Gansu,2018,Coal,79.724,54.157,77.772
+China,Gansu,2018,Gas,0.0,0.0,0.0
+China,Gansu,2018,Clean,67.484,45.843,1.673
+China,Gansu,2018,Fossil,79.724,54.157,77.772
+China,Gansu,2018,Total generation,147.208,100.0,79.445
+China,Gansu,2019,Solar,11.785,7.798,0.566
+China,Gansu,2019,Wind,22.758,15.059,0.294
+China,Gansu,2019,Coal,78.168,51.724,76.045
+China,Gansu,2019,Gas,0.196,0.13,0.093
+China,Gansu,2019,Clean,72.763,48.147,1.856
+China,Gansu,2019,Fossil,78.363,51.853,76.137
+China,Gansu,2019,Total generation,151.126,100.0,77.993
+China,Gansu,2020,Solar,13.285,8.141,0.638
+China,Gansu,2020,Wind,24.584,15.064,0.319
+China,Gansu,2020,Coal,86.619,53.078,84.037
+China,Gansu,2020,Gas,0.403,0.247,0.19
+China,Gansu,2020,Clean,76.171,46.675,1.958
+China,Gansu,2020,Fossil,87.022,53.325,84.228
+China,Gansu,2020,Total generation,163.193,100.0,86.186
+China,Gansu,2021,Solar,14.991,8.428,0.72
+China,Gansu,2021,Wind,28.798,16.191,0.385
+China,Gansu,2021,Coal,100.217,56.343,97.042
+China,Gansu,2021,Gas,0.382,0.215,0.18
+China,Gansu,2021,Clean,77.271,43.443,2.011
+China,Gansu,2021,Fossil,100.598,56.557,97.223
+China,Gansu,2021,Total generation,177.869,100.0,99.234
+China,Gansu,2022,Solar,17.955,9.628,0.862
+China,Gansu,2022,Wind,34.766,18.643,0.466
+China,Gansu,2022,Coal,104.026,55.782,100.585
+China,Gansu,2022,Gas,0.402,0.216,0.19
+China,Gansu,2022,Clean,82.059,44.003,2.164
+China,Gansu,2022,Fossil,104.428,55.998,100.775
+China,Gansu,2022,Total generation,186.487,100.0,102.939
+China,Gansu,2023,Solar,24.913,12.277,1.196
+China,Gansu,2023,Wind,43.541,21.457,0.584
+China,Gansu,2023,Coal,103.51,51.011,99.892
+China,Gansu,2023,Gas,0.355,0.175,0.168
+China,Gansu,2023,Clean,99.053,48.814,2.648
+China,Gansu,2023,Fossil,103.865,51.186,100.06
+China,Gansu,2023,Total generation,202.918,100.0,102.708
+China,Gansu,2024,Solar,34.047,15.534,1.634
+China,Gansu,2024,Wind,45.417,20.721,0.605
+China,Gansu,2024,Coal,106.806,48.729,102.892
+China,Gansu,2024,Gas,0.35,0.16,0.165
+China,Gansu,2024,Clean,112.026,51.111,3.18
+China,Gansu,2024,Fossil,107.156,48.889,103.058
+China,Gansu,2024,Total generation,219.182,100.0,106.238
+China,Gansu,2025,Solar,41.519,16.659,1.993
+China,Gansu,2025,Wind,52.944,21.243,0.706
+China,Gansu,2025,Coal,124.465,49.941,119.625
+China,Gansu,2025,Gas,0.328,0.132,0.155
+China,Gansu,2025,Clean,124.433,49.928,3.615
+China,Gansu,2025,Fossil,124.793,50.072,119.78
+China,Gansu,2025,Total generation,249.226,100.0,123.395
+China,Guangdong,2011,Wind,1.6,0.433,0.02
+China,Guangdong,2011,Coal,262.273,70.961,260.939
+China,Guangdong,2011,Gas,34.506,9.336,16.309
+China,Guangdong,2011,Clean,69.271,18.742,1.755
+China,Guangdong,2011,Fossil,300.329,81.258,279.733
+China,Guangdong,2011,Total generation,369.6,100.0,281.488
+China,Guangdong,2012,Solar,0.003,0.001,0.0
+China,Guangdong,2012,Wind,2.4,0.659,0.031
+China,Guangdong,2012,Coal,246.487,67.641,244.449
+China,Guangdong,2012,Gas,30.848,8.465,14.58
+China,Guangdong,2012,Clean,84.309,23.136,2.108
+China,Guangdong,2012,Fossil,280.094,76.864,260.961
+China,Guangdong,2012,Total generation,364.403,100.0,263.068
+China,Guangdong,2013,Solar,0.007,0.002,0.0
+China,Guangdong,2013,Wind,3.1,0.823,0.039
+China,Guangdong,2013,Coal,260.236,69.063,257.466
+China,Guangdong,2013,Gas,27.374,7.265,12.938
+China,Guangdong,2013,Clean,86.436,22.939,2.256
+China,Guangdong,2013,Fossil,290.371,77.061,272.337
+China,Guangdong,2013,Total generation,376.807,100.0,274.593
+China,Guangdong,2014,Solar,0.09,0.024,0.004
+China,Guangdong,2014,Wind,3.4,0.893,0.043
+China,Guangdong,2014,Coal,256.188,67.313,252.853
+China,Guangdong,2014,Gas,28.351,7.449,13.4
+China,Guangdong,2014,Clean,93.278,24.509,2.442
+China,Guangdong,2014,Fossil,287.312,75.491,268.194
+China,Guangdong,2014,Total generation,380.59,100.0,270.635
+China,Guangdong,2015,Solar,0.35,0.092,0.017
+China,Guangdong,2015,Wind,4.2,1.108,0.053
+China,Guangdong,2015,Coal,241.603,63.756,237.723
+China,Guangdong,2015,Gas,33.377,8.808,15.775
+China,Guangdong,2015,Clean,101.099,26.679,2.845
+China,Guangdong,2015,Fossil,277.851,73.321,255.509
+China,Guangdong,2015,Total generation,378.95,100.0,258.354
+China,Guangdong,2016,Solar,0.809,0.198,0.039
+China,Guangdong,2016,Wind,4.918,1.204,0.063
+China,Guangdong,2016,Coal,247.401,60.572,242.621
+China,Guangdong,2016,Gas,37.35,9.145,17.653
+China,Guangdong,2016,Clean,120.516,29.507,3.447
+China,Guangdong,2016,Fossil,287.922,70.493,262.494
+China,Guangdong,2016,Total generation,408.438,100.0,265.94
+China,Guangdong,2017,Solar,2.042,0.484,0.098
+China,Guangdong,2017,Wind,6.176,1.465,0.079
+China,Guangdong,2017,Coal,258.673,61.363,252.968
+China,Guangdong,2017,Gas,40.576,9.626,19.178
+China,Guangdong,2017,Clean,118.979,28.225,3.492
+China,Guangdong,2017,Fossil,302.566,71.776,274.468
+China,Guangdong,2017,Total generation,421.545,100.0,277.96
+China,Guangdong,2018,Solar,3.811,0.833,0.183
+China,Guangdong,2018,Wind,6.283,1.373,0.081
+China,Guangdong,2018,Coal,282.254,61.679,275.344
+China,Guangdong,2018,Gas,45.785,10.005,21.64
+China,Guangdong,2018,Clean,125.79,27.488,3.782
+China,Guangdong,2018,Fossil,331.826,72.512,299.635
+China,Guangdong,2018,Total generation,457.616,100.0,303.418
+China,Guangdong,2019,Solar,5.342,1.104,0.256
+China,Guangdong,2019,Wind,7.386,1.526,0.096
+China,Guangdong,2019,Coal,270.93,55.991,263.573
+China,Guangdong,2019,Gas,53.986,11.157,25.516
+China,Guangdong,2019,Clean,155.137,32.061,4.481
+China,Guangdong,2019,Fossil,328.749,67.939,291.772
+China,Guangdong,2019,Total generation,483.886,100.0,296.253
+China,Guangdong,2020,Solar,7.459,1.471,0.358
+China,Guangdong,2020,Wind,10.293,2.03,0.133
+China,Guangdong,2020,Coal,276.953,54.61,268.698
+China,Guangdong,2020,Gas,61.868,12.199,29.242
+China,Guangdong,2020,Clean,163.76,32.29,4.827
+China,Guangdong,2020,Fossil,343.388,67.71,301.136
+China,Guangdong,2020,Total generation,507.148,100.0,305.963
+China,Guangdong,2021,Solar,10.301,1.665,0.494
+China,Guangdong,2021,Wind,13.699,2.214,0.183
+China,Guangdong,2021,Coal,362.618,58.605,351.133
+China,Guangdong,2021,Gas,76.951,12.436,36.37
+China,Guangdong,2021,Clean,173.566,28.051,5.619
+China,Guangdong,2021,Fossil,445.187,71.949,391.435
+China,Guangdong,2021,Total generation,618.752,100.0,397.055
+China,Guangdong,2022,Solar,13.596,2.198,0.653
+China,Guangdong,2022,Wind,26.872,4.345,0.36
+China,Guangdong,2022,Coal,342.109,55.317,330.793
+China,Guangdong,2022,Gas,80.585,13.03,38.088
+China,Guangdong,2022,Clean,189.433,30.63,5.888
+China,Guangdong,2022,Fossil,429.017,69.37,373.307
+China,Guangdong,2022,Total generation,618.45,100.0,379.195
+China,Guangdong,2023,Solar,21.192,3.072,1.017
+China,Guangdong,2023,Wind,33.477,4.854,0.449
+China,Guangdong,2023,Coal,378.336,54.852,365.113
+China,Guangdong,2023,Gas,92.218,13.37,43.586
+China,Guangdong,2023,Clean,213.572,30.964,6.826
+China,Guangdong,2023,Fossil,476.171,69.036,412.631
+China,Guangdong,2023,Total generation,689.743,100.0,419.457
+China,Guangdong,2024,Solar,33.275,4.644,1.597
+China,Guangdong,2024,Wind,39.035,5.448,0.52
+China,Guangdong,2024,Coal,365.336,50.99,351.95
+China,Guangdong,2024,Gas,103.429,14.436,48.885
+China,Guangdong,2024,Clean,242.815,33.89,7.67
+China,Guangdong,2024,Fossil,473.674,66.11,404.272
+China,Guangdong,2024,Total generation,716.489,100.0,411.942
+China,Guangdong,2025,Solar,51.347,6.873,2.465
+China,Guangdong,2025,Wind,39.58,5.298,0.528
+China,Guangdong,2025,Coal,368.693,49.35,354.355
+China,Guangdong,2025,Gas,112.875,15.108,53.35
+China,Guangdong,2025,Clean,260.183,34.826,8.982
+China,Guangdong,2025,Fossil,486.914,65.174,411.447
+China,Guangdong,2025,Total generation,747.097,100.0,420.429
+China,Guangxi,2011,Wind,0.01,0.01,0.0
+China,Guangxi,2011,Coal,63.49,60.346,63.167
+China,Guangxi,2011,Gas,0.0,0.0,0.0
+China,Guangxi,2011,Clean,41.72,39.654,1.044
+China,Guangxi,2011,Fossil,63.49,60.346,63.167
+China,Guangxi,2011,Total generation,105.21,100.0,64.212
+China,Guangxi,2012,Wind,0.08,0.068,0.001
+China,Guangxi,2012,Coal,64.442,54.994,63.91
+China,Guangxi,2012,Gas,0.0,0.0,0.0
+China,Guangxi,2012,Clean,52.738,45.006,1.318
+China,Guangxi,2012,Fossil,64.442,54.994,63.91
+China,Guangxi,2012,Total generation,117.18,100.0,65.228
+China,Guangxi,2013,Solar,0.03,0.025,0.001
+China,Guangxi,2013,Wind,0.23,0.189,0.003
+China,Guangxi,2013,Coal,75.154,61.622,74.354
+China,Guangxi,2013,Gas,0.0,0.0,0.0
+China,Guangxi,2013,Clean,46.806,38.378,1.193
+China,Guangxi,2013,Fossil,75.154,61.622,74.354
+China,Guangxi,2013,Total generation,121.96,100.0,75.546
+China,Guangxi,2014,Solar,0.04,0.031,0.002
+China,Guangxi,2014,Wind,0.2,0.154,0.003
+China,Guangxi,2014,Coal,65.947,50.83,65.089
+China,Guangxi,2014,Gas,0.151,0.116,0.072
+China,Guangxi,2014,Clean,63.641,49.053,1.588
+China,Guangxi,2014,Fossil,66.099,50.947,65.16
+China,Guangxi,2014,Total generation,129.74,100.0,66.748
+China,Guangxi,2015,Solar,0.05,0.038,0.002
+China,Guangxi,2015,Wind,0.6,0.455,0.008
+China,Guangxi,2015,Coal,53.737,40.725,52.875
+China,Guangxi,2015,Gas,0.246,0.186,0.116
+China,Guangxi,2015,Clean,77.967,59.088,1.939
+China,Guangxi,2015,Fossil,53.983,40.912,52.991
+China,Guangxi,2015,Total generation,131.95,100.0,54.93
+China,Guangxi,2016,Solar,0.111,0.089,0.005
+China,Guangxi,2016,Wind,1.278,1.027,0.016
+China,Guangxi,2016,Coal,56.185,45.149,55.099
+China,Guangxi,2016,Gas,0.219,0.176,0.104
+China,Guangxi,2016,Clean,68.039,54.675,1.621
+China,Guangxi,2016,Fossil,56.404,45.325,55.203
+China,Guangxi,2016,Total generation,124.443,100.0,56.824
+China,Guangxi,2017,Solar,0.411,0.309,0.02
+China,Guangxi,2017,Wind,2.49,1.875,0.032
+China,Guangxi,2017,Coal,60.43,45.505,59.098
+China,Guangxi,2017,Gas,0.408,0.307,0.193
+China,Guangxi,2017,Clean,71.96,54.188,1.711
+China,Guangxi,2017,Fossil,60.838,45.812,59.29
+China,Guangxi,2017,Total generation,132.798,100.0,61.001
+China,Guangxi,2018,Solar,0.91,0.569,0.044
+China,Guangxi,2018,Wind,4.188,2.618,0.054
+China,Guangxi,2018,Coal,79.821,49.898,77.867
+China,Guangxi,2018,Gas,0.679,0.424,0.321
+China,Guangxi,2018,Clean,79.468,49.678,2.002
+China,Guangxi,2018,Fossil,80.499,50.322,78.187
+China,Guangxi,2018,Total generation,159.967,100.0,80.189
+China,Guangxi,2019,Solar,1.415,0.787,0.068
+China,Guangxi,2019,Wind,6.089,3.385,0.079
+China,Guangxi,2019,Coal,96.457,53.628,93.838
+China,Guangxi,2019,Gas,0.832,0.463,0.393
+China,Guangxi,2019,Clean,82.575,45.91,2.307
+China,Guangxi,2019,Fossil,97.289,54.09,94.231
+China,Guangxi,2019,Total generation,179.864,100.0,96.538
+China,Guangxi,2020,Solar,1.714,0.895,0.082
+China,Guangxi,2020,Wind,10.592,5.533,0.137
+China,Guangxi,2020,Coal,101.019,52.77,98.008
+China,Guangxi,2020,Gas,1.249,0.652,0.59
+China,Guangxi,2020,Clean,88.537,46.249,2.483
+China,Guangxi,2020,Fossil,102.897,53.751,99.038
+China,Guangxi,2020,Total generation,191.434,100.0,101.522
+China,Guangxi,2021,Solar,2.904,1.436,0.139
+China,Guangxi,2021,Wind,16.099,7.96,0.215
+China,Guangxi,2021,Coal,108.754,53.77,105.31
+China,Guangxi,2021,Gas,1.498,0.741,0.708
+China,Guangxi,2021,Clean,88.466,43.739,2.447
+China,Guangxi,2021,Fossil,113.792,56.261,108.495
+China,Guangxi,2021,Total generation,202.258,100.0,110.943
+China,Guangxi,2022,Solar,4.316,2.095,0.207
+China,Guangxi,2022,Wind,19.88,9.65,0.266
+China,Guangxi,2022,Coal,97.258,47.209,94.041
+China,Guangxi,2022,Gas,1.299,0.631,0.614
+China,Guangxi,2022,Clean,101.009,49.03,2.756
+China,Guangxi,2022,Fossil,105.006,50.97,99.169
+China,Guangxi,2022,Total generation,206.015,100.0,101.925
+China,Guangxi,2023,Solar,8.335,3.562,0.4
+China,Guangxi,2023,Wind,24.403,10.428,0.327
+China,Guangxi,2023,Coal,125.298,53.543,120.918
+China,Guangxi,2023,Gas,1.476,0.631,0.698
+China,Guangxi,2023,Clean,98.534,42.106,2.848
+China,Guangxi,2023,Fossil,135.48,57.894,127.71
+China,Guangxi,2023,Total generation,234.014,100.0,130.558
+China,Guangxi,2024,Solar,17.277,6.848,0.829
+China,Guangxi,2024,Wind,31.637,12.539,0.422
+China,Guangxi,2024,Coal,106.4,42.171,102.501
+China,Guangxi,2024,Gas,1.158,0.459,0.547
+China,Guangxi,2024,Clean,137.334,54.431,3.776
+China,Guangxi,2024,Fossil,114.974,45.569,108.24
+China,Guangxi,2024,Total generation,252.308,100.0,112.016
+China,Guangxi,2025,Solar,24.241,9.119,1.164
+China,Guangxi,2025,Wind,34.629,13.026,0.462
+China,Guangxi,2025,Coal,96.104,36.151,92.367
+China,Guangxi,2025,Gas,0.899,0.338,0.425
+China,Guangxi,2025,Clean,162.456,61.11,4.526
+China,Guangxi,2025,Fossil,103.387,38.89,97.261
+China,Guangxi,2025,Total generation,265.843,100.0,101.787
+China,Guizhou,2011,Wind,0.1,0.071,0.001
+China,Guizhou,2011,Coal,102.2,72.175,101.68
+China,Guizhou,2011,Gas,0.0,0.0,0.0
+China,Guizhou,2011,Clean,39.4,27.825,0.944
+China,Guizhou,2011,Fossil,102.2,72.175,101.68
+China,Guizhou,2011,Total generation,141.6,100.0,102.625
+China,Guizhou,2012,Wind,0.49,0.304,0.006
+China,Guizhou,2012,Coal,104.6,64.933,103.735
+China,Guizhou,2012,Gas,0.0,0.0,0.0
+China,Guizhou,2012,Clean,56.49,35.067,1.35
+China,Guizhou,2012,Fossil,104.6,64.933,103.735
+China,Guizhou,2012,Total generation,161.09,100.0,105.086
+China,Guizhou,2013,Wind,1.2,0.717,0.015
+China,Guizhou,2013,Coal,124.0,74.074,122.68
+China,Guizhou,2013,Gas,0.0,0.0,0.0
+China,Guizhou,2013,Clean,43.4,25.926,1.028
+China,Guizhou,2013,Fossil,124.0,74.074,122.68
+China,Guizhou,2013,Total generation,167.4,100.0,123.708
+China,Guizhou,2014,Wind,1.8,0.976,0.023
+China,Guizhou,2014,Coal,109.323,59.254,107.9
+China,Guizhou,2014,Gas,0.0,0.0,0.0
+China,Guizhou,2014,Clean,75.177,40.746,1.8
+China,Guizhou,2014,Fossil,109.323,59.254,107.9
+China,Guizhou,2014,Total generation,184.5,100.0,109.699
+China,Guizhou,2015,Solar,0.02,0.01,0.001
+China,Guizhou,2015,Wind,3.3,1.709,0.042
+China,Guizhou,2015,Coal,106.816,55.311,105.101
+China,Guizhou,2015,Gas,0.0,0.0,0.0
+China,Guizhou,2015,Clean,86.304,44.689,2.093
+China,Guizhou,2015,Fossil,106.816,55.311,105.101
+China,Guizhou,2015,Total generation,193.12,100.0,107.194
+China,Guizhou,2016,Solar,0.112,0.062,0.005
+China,Guizhou,2016,Wind,5.41,2.99,0.069
+China,Guizhou,2016,Coal,108.724,60.098,106.623
+China,Guizhou,2016,Gas,0.0,0.0,0.0
+China,Guizhou,2016,Clean,72.188,39.902,1.756
+China,Guizhou,2016,Fossil,108.724,60.098,106.623
+China,Guizhou,2016,Total generation,180.912,100.0,108.379
+China,Guizhou,2017,Solar,0.627,0.332,0.03
+China,Guizhou,2017,Wind,6.276,3.327,0.081
+China,Guizhou,2017,Coal,112.988,59.902,110.497
+China,Guizhou,2017,Gas,0.0,0.0,0.0
+China,Guizhou,2017,Clean,75.633,40.098,1.852
+China,Guizhou,2017,Fossil,112.988,59.902,110.497
+China,Guizhou,2017,Total generation,188.622,100.0,112.348
+China,Guizhou,2018,Solar,1.601,0.815,0.077
+China,Guizhou,2018,Wind,6.781,3.45,0.088
+China,Guizhou,2018,Coal,122.4,62.272,119.403
+China,Guizhou,2018,Gas,0.0,0.0,0.0
+China,Guizhou,2018,Clean,74.156,37.728,1.863
+China,Guizhou,2018,Fossil,122.4,62.272,119.403
+China,Guizhou,2018,Total generation,196.556,100.0,121.266
+China,Guizhou,2019,Solar,2.0,0.956,0.096
+China,Guizhou,2019,Wind,7.786,3.723,0.101
+China,Guizhou,2019,Coal,132.713,63.456,129.109
+China,Guizhou,2019,Gas,0.0,0.0,0.0
+China,Guizhou,2019,Clean,76.428,36.544,1.94
+China,Guizhou,2019,Fossil,132.713,63.456,129.109
+China,Guizhou,2019,Total generation,209.141,100.0,131.049
+China,Guizhou,2020,Solar,4.505,2.076,0.216
+China,Guizhou,2020,Wind,9.694,4.468,0.126
+China,Guizhou,2020,Coal,131.783,60.737,127.855
+China,Guizhou,2020,Gas,0.0,0.0,0.0
+China,Guizhou,2020,Clean,85.189,39.263,2.227
+China,Guizhou,2020,Fossil,131.783,60.737,127.855
+China,Guizhou,2020,Total generation,216.973,100.0,130.082
+China,Guizhou,2021,Solar,8.305,3.643,0.399
+China,Guizhou,2021,Wind,10.53,4.619,0.141
+China,Guizhou,2021,Coal,143.179,62.807,138.644
+China,Guizhou,2021,Gas,0.0,0.0,0.0
+China,Guizhou,2021,Clean,84.786,37.193,2.347
+China,Guizhou,2021,Fossil,143.179,62.807,138.644
+China,Guizhou,2021,Total generation,227.965,100.0,140.99
+China,Guizhou,2022,Solar,11.015,4.963,0.529
+China,Guizhou,2022,Wind,10.889,4.906,0.146
+China,Guizhou,2022,Coal,140.778,63.427,136.122
+China,Guizhou,2022,Gas,0.0,0.0,0.0
+China,Guizhou,2022,Clean,81.174,36.573,2.373
+China,Guizhou,2022,Fossil,140.778,63.427,136.122
+China,Guizhou,2022,Total generation,221.952,100.0,138.495
+China,Guizhou,2023,Solar,13.602,5.862,0.653
+China,Guizhou,2023,Wind,12.453,5.367,0.167
+China,Guizhou,2023,Coal,166.468,71.742,160.65
+China,Guizhou,2023,Gas,0.0,0.0,0.0
+China,Guizhou,2023,Clean,65.568,28.258,2.132
+China,Guizhou,2023,Fossil,166.468,71.742,160.65
+China,Guizhou,2023,Total generation,232.036,100.0,162.782
+China,Guizhou,2024,Solar,17.168,6.944,0.824
+China,Guizhou,2024,Wind,13.218,5.346,0.176
+China,Guizhou,2024,Coal,161.827,65.451,155.897
+China,Guizhou,2024,Gas,0.0,0.0,0.0
+China,Guizhou,2024,Clean,85.424,34.55,2.677
+China,Guizhou,2024,Fossil,161.827,65.451,155.897
+China,Guizhou,2024,Total generation,247.251,100.0,158.575
+China,Guizhou,2025,Solar,23.429,8.938,1.125
+China,Guizhou,2025,Wind,15.172,5.788,0.202
+China,Guizhou,2025,Coal,151.323,57.73,145.439
+China,Guizhou,2025,Gas,0.0,0.0,0.0
+China,Guizhou,2025,Clean,110.799,42.27,3.425
+China,Guizhou,2025,Fossil,151.323,57.73,145.439
+China,Guizhou,2025,Total generation,262.122,100.0,148.864
+China,Hainan,2011,Wind,0.53,2.8,0.007
+China,Hainan,2011,Coal,11.425,60.354,11.367
+China,Hainan,2011,Gas,1.459,7.707,0.69
+China,Hainan,2011,Clean,4.605,24.326,0.408
+China,Hainan,2011,Fossil,14.325,75.674,13.065
+China,Hainan,2011,Total generation,18.93,100.0,13.473
+China,Hainan,2012,Solar,0.03,0.142,0.001
+China,Hainan,2012,Wind,0.47,2.227,0.006
+China,Hainan,2012,Coal,13.802,65.412,13.688
+China,Hainan,2012,Gas,1.544,7.318,0.73
+China,Hainan,2012,Clean,4.427,20.981,0.416
+China,Hainan,2012,Fossil,16.673,79.019,15.347
+China,Hainan,2012,Total generation,21.1,100.0,15.763
+China,Hainan,2013,Solar,0.05,0.216,0.002
+China,Hainan,2013,Wind,0.6,2.592,0.008
+China,Hainan,2013,Coal,15.688,67.767,15.521
+China,Hainan,2013,Gas,1.454,6.281,0.687
+China,Hainan,2013,Clean,4.601,19.875,0.424
+China,Hainan,2013,Fossil,18.549,80.125,17.193
+China,Hainan,2013,Total generation,23.15,100.0,17.618
+China,Hainan,2014,Solar,0.17,0.689,0.008
+China,Hainan,2014,Wind,0.5,2.027,0.006
+China,Hainan,2014,Coal,16.65,67.491,16.433
+China,Hainan,2014,Gas,1.494,6.056,0.706
+China,Hainan,2014,Clean,4.866,19.724,0.465
+China,Hainan,2014,Fossil,19.804,80.276,18.301
+China,Hainan,2014,Total generation,24.67,100.0,18.766
+China,Hainan,2015,Solar,0.19,0.745,0.009
+China,Hainan,2015,Wind,0.6,2.354,0.008
+China,Hainan,2015,Coal,18.225,71.499,17.933
+China,Hainan,2015,Gas,1.617,6.344,0.764
+China,Hainan,2015,Clean,3.837,15.053,0.442
+China,Hainan,2015,Fossil,21.653,84.947,19.965
+China,Hainan,2015,Total generation,25.49,100.0,20.407
+China,Hainan,2016,Solar,0.304,1.111,0.015
+China,Hainan,2016,Wind,0.59,2.156,0.008
+China,Hainan,2016,Coal,15.253,55.739,14.958
+China,Hainan,2016,Gas,1.27,4.641,0.6
+China,Hainan,2016,Clean,9.29,33.948,0.425
+China,Hainan,2016,Fossil,18.075,66.051,16.645
+China,Hainan,2016,Total generation,27.365,99.999,17.07
+China,Hainan,2017,Solar,0.301,1.073,0.014
+China,Hainan,2017,Wind,0.598,2.132,0.008
+China,Hainan,2017,Coal,14.584,51.987,14.263
+China,Hainan,2017,Gas,1.216,4.335,0.575
+China,Hainan,2017,Clean,10.787,38.452,0.434
+China,Hainan,2017,Fossil,17.266,61.547,15.863
+China,Hainan,2017,Total generation,28.053,99.999,16.297
+China,Hainan,2018,Solar,0.61,1.974,0.029
+China,Hainan,2018,Wind,0.499,1.615,0.006
+China,Hainan,2018,Coal,16.525,53.478,16.12
+China,Hainan,2018,Gas,1.241,4.016,0.587
+China,Hainan,2018,Clean,11.378,36.822,0.456
+China,Hainan,2018,Fossil,19.522,63.177,17.936
+China,Hainan,2018,Total generation,30.9,99.999,18.392
+China,Hainan,2019,Solar,1.298,3.925,0.062
+China,Hainan,2019,Wind,0.499,1.509,0.006
+China,Hainan,2019,Coal,16.408,49.612,15.963
+China,Hainan,2019,Gas,1.269,3.837,0.6
+China,Hainan,2019,Clean,13.556,40.988,0.474
+China,Hainan,2019,Fossil,19.517,59.012,17.85
+China,Hainan,2019,Total generation,33.073,100.001,18.324
+China,Hainan,2020,Solar,1.507,4.51,0.072
+China,Hainan,2020,Wind,0.6,1.796,0.008
+China,Hainan,2020,Coal,15.01,44.923,14.562
+China,Hainan,2020,Gas,2.468,7.386,1.166
+China,Hainan,2020,Clean,13.99,41.871,0.512
+China,Hainan,2020,Fossil,19.423,58.131,17.09
+China,Hainan,2020,Total generation,33.412,99.999,17.603
+China,Hainan,2021,Solar,1.599,4.201,0.077
+China,Hainan,2021,Wind,0.5,1.314,0.007
+China,Hainan,2021,Coal,17.161,45.092,16.617
+China,Hainan,2021,Gas,4.392,11.54,2.076
+China,Hainan,2021,Clean,14.486,38.063,0.562
+China,Hainan,2021,Fossil,23.572,61.937,20.107
+China,Hainan,2021,Total generation,38.058,100.0,20.669
+China,Hainan,2022,Solar,2.222,5.669,0.107
+China,Hainan,2022,Wind,0.499,1.273,0.007
+China,Hainan,2022,Coal,15.092,38.507,14.593
+China,Hainan,2022,Gas,6.124,15.625,2.894
+China,Hainan,2022,Clean,16.214,41.37,0.561
+China,Hainan,2022,Fossil,22.978,58.628,18.721
+China,Hainan,2022,Total generation,39.193,100.0,19.282
+China,Hainan,2023,Solar,4.225,8.976,0.203
+China,Hainan,2023,Wind,0.498,1.058,0.007
+China,Hainan,2023,Coal,17.659,37.516,17.042
+China,Hainan,2023,Gas,9.723,20.656,4.595
+China,Hainan,2023,Clean,18.245,38.761,0.711
+China,Hainan,2023,Fossil,28.826,61.24,22.648
+China,Hainan,2023,Total generation,47.071,100.001,23.359
+China,Hainan,2024,Solar,7.13,14.161,0.342
+China,Hainan,2024,Wind,0.461,0.916,0.006
+China,Hainan,2024,Coal,17.427,34.613,16.788
+China,Hainan,2024,Gas,10.508,20.87,4.967
+China,Hainan,2024,Clean,21.09,41.888,0.877
+China,Hainan,2024,Fossil,29.259,58.113,22.681
+China,Hainan,2024,Total generation,50.349,100.001,23.558
+China,Hainan,2025,Solar,8.872,16.879,0.426
+China,Hainan,2025,Wind,3.399,6.467,0.045
+China,Hainan,2025,Coal,15.048,28.629,14.463
+China,Hainan,2025,Gas,9.698,18.451,4.584
+China,Hainan,2025,Clean,26.651,50.704,1.018
+China,Hainan,2025,Fossil,25.91,49.295,19.861
+China,Hainan,2025,Total generation,52.561,99.999,20.88
+China,Hebei,2011,Wind,8.9,3.957,0.113
+China,Hebei,2011,Coal,208.737,92.813,207.675
+China,Hebei,2011,Gas,0.0,0.0,0.0
+China,Hebei,2011,Clean,12.17,5.411,0.68
+China,Hebei,2011,Fossil,212.73,94.589,210.471
+China,Hebei,2011,Total generation,224.9,100.0,211.151
+China,Hebei,2012,Wind,12.7,5.486,0.162
+China,Hebei,2012,Coal,211.221,91.24,209.475
+China,Hebei,2012,Gas,0.0,0.0,0.0
+China,Hebei,2012,Clean,16.068,6.941,0.73
+China,Hebei,2012,Fossil,215.432,93.059,212.423
+China,Hebei,2012,Total generation,231.5,100.0,213.153
+China,Hebei,2013,Solar,0.11,0.045,0.005
+China,Hebei,2013,Wind,15.5,6.344,0.197
+China,Hebei,2013,Coal,220.118,90.098,217.775
+China,Hebei,2013,Gas,0.0,0.0,0.0
+China,Hebei,2013,Clean,19.272,7.888,0.798
+China,Hebei,2013,Fossil,225.038,92.112,221.219
+China,Hebei,2013,Total generation,244.31,100.0,222.017
+China,Hebei,2014,Solar,0.58,0.243,0.028
+China,Hebei,2014,Wind,16.4,6.883,0.209
+China,Hebei,2014,Coal,212.576,89.213,209.809
+China,Hebei,2014,Gas,0.0,0.0,0.0
+China,Hebei,2014,Clean,20.707,8.69,0.826
+China,Hebei,2014,Fossil,217.573,91.31,213.307
+China,Hebei,2014,Total generation,238.28,100.0,214.133
+China,Hebei,2015,Solar,1.63,0.708,0.078
+China,Hebei,2015,Wind,16.8,7.3,0.214
+China,Hebei,2015,Coal,202.054,87.8,198.809
+China,Hebei,2015,Gas,0.0,0.0,0.0
+China,Hebei,2015,Clean,22.16,9.629,0.923
+China,Hebei,2015,Fossil,207.97,90.371,202.951
+China,Hebei,2015,Total generation,230.13,100.0,203.874
+China,Hebei,2016,Solar,3.991,1.494,0.192
+China,Hebei,2016,Wind,21.78,8.152,0.278
+China,Hebei,2016,Coal,228.14,85.388,223.732
+China,Hebei,2016,Gas,0.0,0.0,0.0
+China,Hebei,2016,Clean,30.834,11.54,1.312
+China,Hebei,2016,Fossil,236.347,88.46,229.477
+China,Hebei,2016,Total generation,267.181,100.0,230.789
+China,Hebei,2017,Solar,7.802,2.633,0.375
+China,Hebei,2017,Wind,26.199,8.843,0.336
+China,Hebei,2017,Coal,246.664,83.259,241.223
+China,Hebei,2017,Gas,0.0,0.0,0.0
+China,Hebei,2017,Clean,39.555,13.351,1.747
+China,Hebei,2017,Fossil,256.706,86.649,248.253
+China,Hebei,2017,Total generation,296.26,100.0,250.0
+China,Hebei,2018,Solar,12.602,4.006,0.605
+China,Hebei,2018,Wind,28.226,8.972,0.364
+China,Hebei,2018,Coal,255.769,81.301,249.507
+China,Hebei,2018,Gas,1.429,0.454,0.676
+China,Hebei,2018,Clean,45.837,14.57,1.988
+China,Hebei,2018,Fossil,268.758,85.43,258.275
+China,Hebei,2018,Total generation,314.594,100.0,260.263
+China,Hebei,2019,Solar,17.559,5.335,0.843
+China,Hebei,2019,Wind,31.741,9.643,0.411
+China,Hebei,2019,Coal,256.891,78.045,249.915
+China,Hebei,2019,Gas,4.486,1.363,2.12
+China,Hebei,2019,Clean,54.028,16.414,2.219
+China,Hebei,2019,Fossil,275.129,83.586,261.662
+China,Hebei,2019,Total generation,329.158,100.0,263.881
+China,Hebei,2020,Solar,21.079,6.117,1.012
+China,Hebei,2020,Wind,36.774,10.671,0.477
+China,Hebei,2020,Coal,257.151,74.619,249.486
+China,Hebei,2020,Gas,6.845,1.986,3.235
+China,Hebei,2020,Clean,63.006,18.283,2.563
+China,Hebei,2020,Fossil,281.614,81.717,265.054
+China,Hebei,2020,Total generation,344.621,100.0,267.617
+China,Hebei,2021,Solar,27.911,8.012,1.34
+China,Hebei,2021,Wind,51.097,14.668,0.683
+China,Hebei,2021,Coal,236.841,67.989,229.34
+China,Hebei,2021,Gas,5.889,1.691,2.783
+China,Hebei,2021,Clean,85.062,24.419,3.237
+China,Hebei,2021,Fossil,263.288,75.581,246.514
+China,Hebei,2021,Total generation,348.35,100.0,249.751
+China,Hebei,2022,Solar,44.181,11.713,2.121
+China,Hebei,2022,Wind,58.637,15.545,0.786
+China,Hebei,2022,Coal,233.408,61.878,225.688
+China,Hebei,2022,Gas,5.95,1.577,2.812
+China,Hebei,2022,Clean,111.328,29.514,4.354
+China,Hebei,2022,Fossil,265.882,70.487,247.066
+China,Hebei,2022,Total generation,377.209,100.0,251.42
+China,Hebei,2023,Solar,55.274,13.469,2.653
+China,Hebei,2023,Wind,64.732,15.774,0.868
+China,Hebei,2023,Coal,249.133,60.708,240.426
+China,Hebei,2023,Gas,5.856,1.427,2.768
+China,Hebei,2023,Clean,131.258,31.984,5.12
+China,Hebei,2023,Fossil,279.123,68.016,260.087
+China,Hebei,2023,Total generation,410.381,100.0,265.207
+China,Hebei,2024,Solar,70.929,16.453,3.405
+China,Hebei,2024,Wind,65.597,15.216,0.874
+China,Hebei,2024,Coal,250.105,58.015,240.941
+China,Hebei,2024,Gas,5.728,1.329,2.707
+China,Hebei,2024,Clean,148.423,34.429,5.913
+China,Hebei,2024,Fossil,282.68,65.571,262.441
+China,Hebei,2024,Total generation,431.104,100.0,268.354
+China,Hebei,2025,Solar,93.674,20.173,4.496
+China,Hebei,2025,Wind,81.935,17.645,1.092
+China,Hebei,2025,Coal,240.052,51.697,230.717
+China,Hebei,2025,Gas,6.253,1.347,2.955
+China,Hebei,2025,Clean,189.694,40.852,7.371
+China,Hebei,2025,Fossil,274.65,59.148,253.514
+China,Hebei,2025,Total generation,464.344,100.0,260.885
+China,Heilongjiang,2011,Wind,4.4,5.269,0.056
+China,Heilongjiang,2011,Coal,76.736,91.899,76.346
+China,Heilongjiang,2011,Gas,0.0,0.0,0.0
+China,Heilongjiang,2011,Clean,6.764,8.101,0.27
+China,Heilongjiang,2011,Fossil,76.736,91.899,76.346
+China,Heilongjiang,2011,Total generation,83.5,100.0,76.616
+China,Heilongjiang,2012,Wind,5.1,6.064,0.065
+China,Heilongjiang,2012,Coal,76.295,90.719,75.664
+China,Heilongjiang,2012,Gas,0.0,0.0,0.0
+China,Heilongjiang,2012,Clean,7.805,9.281,0.316
+China,Heilongjiang,2012,Fossil,76.295,90.719,75.664
+China,Heilongjiang,2012,Total generation,84.1,100.0,75.981
+China,Heilongjiang,2013,Wind,6.9,8.175,0.088
+China,Heilongjiang,2013,Coal,73.693,87.314,72.908
+China,Heilongjiang,2013,Gas,0.0,0.0,0.0
+China,Heilongjiang,2013,Clean,10.707,12.686,0.366
+China,Heilongjiang,2013,Fossil,73.693,87.314,72.908
+China,Heilongjiang,2013,Total generation,84.4,100.0,73.274
+China,Heilongjiang,2014,Solar,0.02,0.022,0.001
+China,Heilongjiang,2014,Wind,7.2,8.052,0.092
+China,Heilongjiang,2014,Coal,78.985,88.33,77.956
+China,Heilongjiang,2014,Gas,0.0,0.0,0.0
+China,Heilongjiang,2014,Clean,10.435,11.67,0.4
+China,Heilongjiang,2014,Fossil,78.985,88.33,77.956
+China,Heilongjiang,2014,Total generation,89.42,100.0,78.356
+China,Heilongjiang,2015,Solar,0.02,0.022,0.001
+China,Heilongjiang,2015,Wind,7.2,8.043,0.092
+China,Heilongjiang,2015,Coal,78.917,88.156,77.65
+China,Heilongjiang,2015,Gas,0.0,0.0,0.0
+China,Heilongjiang,2015,Clean,10.603,11.844,0.479
+China,Heilongjiang,2015,Fossil,78.917,88.156,77.65
+China,Heilongjiang,2015,Total generation,89.52,100.0,78.129
+China,Heilongjiang,2016,Solar,0.133,0.146,0.006
+China,Heilongjiang,2016,Wind,8.654,9.53,0.111
+China,Heilongjiang,2016,Coal,78.511,86.456,76.994
+China,Heilongjiang,2016,Gas,0.0,0.0,0.0
+China,Heilongjiang,2016,Clean,12.3,13.545,0.588
+China,Heilongjiang,2016,Fossil,78.511,86.456,76.994
+China,Heilongjiang,2016,Total generation,90.811,100.0,77.582
+China,Heilongjiang,2017,Solar,0.629,0.662,0.03
+China,Heilongjiang,2017,Wind,10.758,11.323,0.138
+China,Heilongjiang,2017,Coal,79.723,83.907,77.965
+China,Heilongjiang,2017,Gas,0.0,0.0,0.0
+China,Heilongjiang,2017,Clean,15.29,16.093,0.714
+China,Heilongjiang,2017,Fossil,79.723,83.907,77.965
+China,Heilongjiang,2017,Total generation,95.013,100.0,78.679
+China,Heilongjiang,2018,Solar,2.013,1.938,0.097
+China,Heilongjiang,2018,Wind,12.466,11.999,0.161
+China,Heilongjiang,2018,Coal,84.826,81.651,82.749
+China,Heilongjiang,2018,Gas,0.0,0.0,0.0
+China,Heilongjiang,2018,Clean,19.063,18.349,0.863
+China,Heilongjiang,2018,Fossil,84.826,81.651,82.749
+China,Heilongjiang,2018,Total generation,103.889,100.0,83.613
+China,Heilongjiang,2019,Solar,3.173,2.874,0.152
+China,Heilongjiang,2019,Wind,13.974,12.657,0.181
+China,Heilongjiang,2019,Coal,87.96,79.67,85.571
+China,Heilongjiang,2019,Gas,0.0,0.0,0.0
+China,Heilongjiang,2019,Clean,22.445,20.33,1.116
+China,Heilongjiang,2019,Fossil,87.96,79.67,85.571
+China,Heilongjiang,2019,Total generation,110.405,100.0,86.687
+China,Heilongjiang,2020,Solar,4.283,3.742,0.206
+China,Heilongjiang,2020,Wind,14.09,12.312,0.183
+China,Heilongjiang,2020,Coal,88.779,77.575,86.132
+China,Heilongjiang,2020,Gas,0.0,0.0,0.0
+China,Heilongjiang,2020,Clean,25.325,22.129,1.428
+China,Heilongjiang,2020,Fossil,89.117,77.87,86.369
+China,Heilongjiang,2020,Total generation,114.443,100.0,87.797
+China,Heilongjiang,2021,Solar,5.092,4.267,0.244
+China,Heilongjiang,2021,Wind,16.199,13.574,0.217
+China,Heilongjiang,2021,Coal,89.052,74.623,86.232
+China,Heilongjiang,2021,Gas,0.0,0.0,0.0
+China,Heilongjiang,2021,Clean,29.354,24.598,1.777
+China,Heilongjiang,2021,Fossil,89.982,75.402,86.883
+China,Heilongjiang,2021,Total generation,119.337,100.0,88.66
+China,Heilongjiang,2022,Solar,7.073,5.862,0.339
+China,Heilongjiang,2022,Wind,22.775,18.874,0.305
+China,Heilongjiang,2022,Coal,80.368,66.603,77.71
+China,Heilongjiang,2022,Gas,0.0,0.0,0.0
+China,Heilongjiang,2022,Clean,39.263,32.538,2.149
+China,Heilongjiang,2022,Fossil,81.404,67.461,78.435
+China,Heilongjiang,2022,Total generation,120.668,100.0,80.584
+China,Heilongjiang,2023,Solar,7.695,5.833,0.369
+China,Heilongjiang,2023,Wind,26.782,20.3,0.359
+China,Heilongjiang,2023,Coal,86.065,65.235,83.057
+China,Heilongjiang,2023,Gas,0.0,0.0,0.0
+China,Heilongjiang,2023,Clean,45.091,34.178,2.424
+China,Heilongjiang,2023,Fossil,86.839,65.822,83.599
+China,Heilongjiang,2023,Total generation,131.93,100.0,86.023
+China,Heilongjiang,2024,Solar,8.405,6.187,0.403
+China,Heilongjiang,2024,Wind,31.615,23.272,0.421
+China,Heilongjiang,2024,Coal,84.197,61.977,81.112
+China,Heilongjiang,2024,Gas,0.0,0.0,0.0
+China,Heilongjiang,2024,Clean,50.948,37.502,2.545
+China,Heilongjiang,2024,Fossil,84.904,62.497,81.607
+China,Heilongjiang,2024,Total generation,135.853,100.0,84.152
+China,Heilongjiang,2025,Solar,9.532,6.584,0.458
+China,Heilongjiang,2025,Wind,36.925,25.504,0.492
+China,Heilongjiang,2025,Coal,85.857,59.302,82.518
+China,Heilongjiang,2025,Gas,0.0,0.0,0.0
+China,Heilongjiang,2025,Clean,58.184,40.188,2.933
+China,Heilongjiang,2025,Fossil,86.596,59.812,83.035
+China,Heilongjiang,2025,Total generation,144.78,100.0,85.968
+China,Henan,2011,Wind,0.17,0.065,0.002
+China,Henan,2011,Coal,245.24,94.407,243.993
+China,Henan,2011,Gas,4.39,1.69,2.075
+China,Henan,2011,Clean,10.139,3.903,0.276
+China,Henan,2011,Fossil,249.631,96.097,246.068
+China,Henan,2011,Total generation,259.77,100.0,246.344
+China,Henan,2012,Wind,0.33,0.144,0.004
+China,Henan,2012,Coal,212.754,92.651,210.996
+China,Henan,2012,Gas,3.598,1.567,1.7
+China,Henan,2012,Clean,13.278,5.782,0.345
+China,Henan,2012,Fossil,216.352,94.218,212.696
+China,Henan,2012,Total generation,229.63,100.0,213.041
+China,Henan,2013,Solar,0.002,0.001,0.0
+China,Henan,2013,Wind,0.49,0.174,0.006
+China,Henan,2013,Coal,265.024,94.284,262.203
+China,Henan,2013,Gas,3.841,1.366,1.815
+China,Henan,2013,Clean,12.228,4.35,0.337
+China,Henan,2013,Fossil,268.864,95.65,264.018
+China,Henan,2013,Total generation,281.092,100.0,264.354
+China,Henan,2014,Solar,0.05,0.019,0.002
+China,Henan,2014,Wind,0.7,0.262,0.009
+China,Henan,2014,Coal,253.284,94.703,249.986
+China,Henan,2014,Gas,3.402,1.272,1.608
+China,Henan,2014,Clean,10.764,4.025,0.337
+China,Henan,2014,Fossil,256.686,95.975,251.594
+China,Henan,2014,Total generation,267.45,100.0,251.931
+China,Henan,2015,Solar,0.31,0.121,0.015
+China,Henan,2015,Wind,1.2,0.469,0.015
+China,Henan,2015,Coal,239.483,93.581,235.638
+China,Henan,2015,Gas,3.487,1.363,1.648
+China,Henan,2015,Clean,12.94,5.056,0.414
+China,Henan,2015,Fossil,242.97,94.944,237.286
+China,Henan,2015,Total generation,255.91,100.0,237.699
+China,Henan,2016,Solar,1.2,0.454,0.058
+China,Henan,2016,Wind,2.008,0.76,0.026
+China,Henan,2016,Coal,247.859,93.824,243.07
+China,Henan,2016,Gas,3.649,1.381,1.725
+China,Henan,2016,Clean,12.667,4.795,0.43
+China,Henan,2016,Fossil,251.508,95.205,244.795
+China,Henan,2016,Total generation,264.175,100.0,245.225
+China,Henan,2017,Solar,4.473,1.642,0.215
+China,Henan,2017,Wind,2.989,1.097,0.038
+China,Henan,2017,Coal,250.817,92.056,245.285
+China,Henan,2017,Gas,3.718,1.365,1.757
+China,Henan,2017,Clean,17.928,6.58,0.697
+China,Henan,2017,Fossil,254.534,93.42,247.042
+China,Henan,2017,Total generation,272.463,100.0,247.739
+China,Henan,2018,Solar,8.411,2.78,0.404
+China,Henan,2018,Wind,5.683,1.878,0.073
+China,Henan,2018,Coal,268.407,88.699,261.836
+China,Henan,2018,Gas,4.718,1.559,2.23
+China,Henan,2018,Clean,29.172,9.64,1.092
+China,Henan,2018,Fossil,273.432,90.36,264.281
+China,Henan,2018,Total generation,302.604,100.0,265.372
+China,Henan,2019,Solar,10.171,3.531,0.488
+China,Henan,2019,Wind,8.784,3.05,0.114
+China,Henan,2019,Coal,246.586,85.617,239.89
+China,Henan,2019,Gas,6.06,2.104,2.864
+China,Henan,2019,Clean,34.825,12.092,1.366
+China,Henan,2019,Fossil,253.187,87.909,243.133
+China,Henan,2019,Total generation,288.012,100.0,244.499
+China,Henan,2020,Solar,11.174,3.86,0.536
+China,Henan,2020,Wind,13.89,4.799,0.18
+China,Henan,2020,Coal,240.714,83.162,233.539
+China,Henan,2020,Gas,6.826,2.358,3.226
+China,Henan,2020,Clean,41.35,14.286,1.716
+China,Henan,2020,Fossil,248.103,85.715,237.159
+China,Henan,2020,Total generation,289.453,100.0,238.876
+China,Henan,2021,Solar,13.597,4.49,0.653
+China,Henan,2021,Wind,32.798,10.83,0.439
+China,Henan,2021,Coal,235.571,77.787,228.11
+China,Henan,2021,Gas,5.697,1.881,2.692
+China,Henan,2021,Clean,60.827,20.085,2.221
+China,Henan,2021,Fossil,242.016,79.915,231.326
+China,Henan,2021,Total generation,302.842,100.0,233.547
+China,Henan,2022,Solar,20.628,6.02,0.99
+China,Henan,2022,Wind,38.159,11.136,0.511
+China,Henan,2022,Coal,259.452,75.715,250.87
+China,Henan,2022,Gas,6.319,1.844,2.987
+China,Henan,2022,Clean,75.713,22.095,3.02
+China,Henan,2022,Fossil,266.954,77.905,254.684
+China,Henan,2022,Total generation,342.667,100.0,257.704
+China,Henan,2023,Solar,33.225,9.415,1.595
+China,Henan,2023,Wind,40.533,11.485,0.544
+China,Henan,2023,Coal,254.572,72.136,245.674
+China,Henan,2023,Gas,5.751,1.63,2.718
+China,Henan,2023,Clean,91.448,25.913,3.726
+China,Henan,2023,Fossil,261.458,74.087,249.187
+China,Henan,2023,Total generation,352.906,100.0,252.913
+China,Henan,2024,Solar,43.323,11.362,2.079
+China,Henan,2024,Wind,43.978,11.534,0.586
+China,Henan,2024,Coal,266.848,69.986,257.071
+China,Henan,2024,Gas,5.916,1.552,2.796
+China,Henan,2024,Clean,107.298,28.141,4.42
+China,Henan,2024,Fossil,273.988,71.859,260.724
+China,Henan,2024,Total generation,381.286,100.0,265.144
+China,Henan,2025,Solar,55.068,13.882,2.643
+China,Henan,2025,Wind,52.796,13.31,0.704
+China,Henan,2025,Coal,259.371,65.386,249.285
+China,Henan,2025,Gas,5.48,1.381,2.59
+China,Henan,2025,Clean,130.622,32.929,5.313
+China,Henan,2025,Fossil,266.053,67.071,252.716
+China,Henan,2025,Total generation,396.675,100.0,258.029
+China,Hubei,2011,Wind,0.15,0.071,0.002
+China,Hubei,2011,Coal,91.927,43.744,91.46
+China,Hubei,2011,Gas,1.041,0.495,0.492
+China,Hubei,2011,Clean,117.182,55.761,2.879
+China,Hubei,2011,Fossil,92.968,44.239,91.952
+China,Hubei,2011,Total generation,210.15,100.0,94.831
+China,Hubei,2012,Solar,0.01,0.004,0.0
+China,Hubei,2012,Wind,0.2,0.089,0.003
+China,Hubei,2012,Coal,84.714,37.733,84.013
+China,Hubei,2012,Gas,0.92,0.41,0.435
+China,Hubei,2012,Clean,138.877,61.858,3.468
+China,Hubei,2012,Fossil,85.633,38.142,84.448
+China,Hubei,2012,Total generation,224.51,100.0,87.916
+China,Hubei,2013,Solar,0.02,0.009,0.001
+China,Hubei,2013,Wind,0.56,0.251,0.007
+China,Hubei,2013,Coal,103.246,46.199,102.147
+China,Hubei,2013,Gas,0.94,0.421,0.444
+China,Hubei,2013,Clean,119.294,53.38,3.107
+China,Hubei,2013,Fossil,104.186,46.62,102.591
+China,Hubei,2013,Total generation,223.48,100.0,105.698
+China,Hubei,2014,Solar,0.06,0.025,0.003
+China,Hubei,2014,Wind,1.3,0.543,0.017
+China,Hubei,2014,Coal,97.46,40.683,96.191
+China,Hubei,2014,Gas,0.78,0.326,0.368
+China,Hubei,2014,Clean,141.321,58.992,3.679
+China,Hubei,2014,Fossil,98.239,41.008,96.559
+China,Hubei,2014,Total generation,239.56,100.0,100.239
+China,Hubei,2015,Solar,0.23,0.098,0.011
+China,Hubei,2015,Wind,2.1,0.891,0.027
+China,Hubei,2015,Coal,99.982,42.432,98.377
+China,Hubei,2015,Gas,1.332,0.565,0.63
+China,Hubei,2015,Clean,134.315,57.003,3.553
+China,Hubei,2015,Fossil,101.315,42.997,99.006
+China,Hubei,2015,Total generation,235.63,100.0,102.559
+China,Hubei,2016,Solar,1.109,0.456,0.053
+China,Hubei,2016,Wind,3.442,1.414,0.044
+China,Hubei,2016,Coal,97.886,40.205,95.994
+China,Hubei,2016,Gas,1.703,0.699,0.805
+China,Hubei,2016,Clean,143.877,59.095,3.807
+China,Hubei,2016,Fossil,99.588,40.904,96.799
+China,Hubei,2016,Total generation,243.466,100.0,100.606
+China,Hubei,2017,Solar,2.85,1.103,0.137
+China,Hubei,2017,Wind,4.782,1.851,0.061
+China,Hubei,2017,Coal,100.668,38.969,98.448
+China,Hubei,2017,Gas,1.944,0.753,0.919
+China,Hubei,2017,Clean,155.713,60.278,4.171
+China,Hubei,2017,Fossil,102.613,39.722,99.367
+China,Hubei,2017,Total generation,258.326,100.0,103.538
+China,Hubei,2018,Solar,4.907,1.754,0.236
+China,Hubei,2018,Wind,6.382,2.282,0.082
+China,Hubei,2018,Coal,118.883,42.501,115.973
+China,Hubei,2018,Gas,2.229,0.797,1.053
+China,Hubei,2018,Clean,158.279,56.585,4.321
+China,Hubei,2018,Fossil,121.441,43.415,117.257
+China,Hubei,2018,Total generation,279.72,100.0,121.578
+China,Hubei,2019,Solar,5.711,1.963,0.274
+China,Hubei,2019,Wind,7.386,2.538,0.096
+China,Hubei,2019,Coal,139.248,47.858,135.466
+China,Hubei,2019,Gas,2.466,0.848,1.166
+China,Hubei,2019,Clean,148.533,51.049,4.198
+China,Hubei,2019,Fossil,142.429,48.951,137.132
+China,Hubei,2019,Total generation,290.962,100.0,141.33
+China,Hubei,2020,Solar,6.496,2.2,0.312
+China,Hubei,2020,Wind,8.195,2.776,0.106
+China,Hubei,2020,Coal,117.708,39.87,114.199
+China,Hubei,2020,Gas,2.013,0.682,0.952
+China,Hubei,2020,Clean,174.911,59.246,4.8
+China,Hubei,2020,Fossil,120.32,40.755,115.57
+China,Hubei,2020,Total generation,295.23,100.0,120.37
+China,Hubei,2021,Solar,8.306,2.578,0.399
+China,Hubei,2021,Wind,13.399,4.159,0.179
+China,Hubei,2021,Coal,139.918,43.435,135.486
+China,Hubei,2021,Gas,2.452,0.761,1.159
+China,Hubei,2021,Clean,178.353,55.366,4.945
+China,Hubei,2021,Fossil,143.782,44.634,137.634
+China,Hubei,2021,Total generation,322.135,100.0,142.579
+China,Hubei,2022,Solar,12.924,4.213,0.62
+China,Hubei,2022,Wind,16.383,5.34,0.22
+China,Hubei,2022,Coal,149.914,48.867,144.955
+China,Hubei,2022,Gas,3.047,0.993,1.44
+China,Hubei,2022,Clean,150.956,49.207,4.518
+China,Hubei,2022,Fossil,155.822,50.793,148.398
+China,Hubei,2022,Total generation,306.778,100.0,152.916
+China,Hubei,2023,Solar,22.668,7.223,1.088
+China,Hubei,2023,Wind,16.836,5.365,0.226
+China,Hubei,2023,Coal,140.843,44.878,135.92
+China,Hubei,2023,Gas,2.512,0.8,1.187
+China,Hubei,2023,Clean,168.07,53.554,5.207
+China,Hubei,2023,Fossil,145.763,46.446,138.793
+China,Hubei,2023,Total generation,313.833,100.0,144.0
+China,Hubei,2024,Solar,34.857,10.106,1.673
+China,Hubei,2024,Wind,17.101,4.958,0.228
+China,Hubei,2024,Coal,157.822,45.758,152.039
+China,Hubei,2024,Gas,2.922,0.847,1.381
+China,Hubei,2024,Clean,181.613,52.656,5.959
+China,Hubei,2024,Fossil,163.294,47.344,155.206
+China,Hubei,2024,Total generation,344.908,100.0,161.165
+China,Hubei,2025,Solar,42.874,12.045,2.058
+China,Hubei,2025,Wind,17.881,5.024,0.238
+China,Hubei,2025,Coal,146.869,41.262,141.158
+China,Hubei,2025,Gas,2.669,0.75,1.262
+China,Hubei,2025,Clean,204.085,57.337,6.692
+China,Hubei,2025,Fossil,151.854,42.663,144.041
+China,Hubei,2025,Total generation,355.939,100.0,150.732
+China,Hunan,2011,Wind,0.05,0.042,0.001
+China,Hunan,2011,Coal,89.358,74.248,88.904
+China,Hunan,2011,Gas,0.0,0.0,0.0
+China,Hunan,2011,Clean,30.992,25.752,0.855
+China,Hunan,2011,Fossil,89.358,74.248,88.904
+China,Hunan,2011,Total generation,120.35,100.0,89.758
+China,Hunan,2012,Wind,0.27,0.222,0.003
+China,Hunan,2012,Coal,75.902,62.538,75.274
+China,Hunan,2012,Gas,0.0,0.0,0.0
+China,Hunan,2012,Clean,45.468,37.462,1.211
+China,Hunan,2012,Fossil,75.902,62.538,75.274
+China,Hunan,2012,Total generation,121.37,100.0,76.486
+China,Hunan,2013,Solar,0.003,0.002,0.0
+China,Hunan,2013,Wind,0.5,0.391,0.006
+China,Hunan,2013,Coal,82.975,64.924,82.092
+China,Hunan,2013,Gas,0.0,0.0,0.0
+China,Hunan,2013,Clean,44.446,34.777,1.255
+China,Hunan,2013,Fossil,83.357,65.223,82.359
+China,Hunan,2013,Total generation,127.803,100.0,83.615
+China,Hunan,2014,Solar,0.02,0.016,0.001
+China,Hunan,2014,Wind,0.8,0.634,0.01
+China,Hunan,2014,Coal,74.752,59.271,73.779
+China,Hunan,2014,Gas,0.0,0.0,0.0
+China,Hunan,2014,Clean,50.673,40.178,1.425
+China,Hunan,2014,Fossil,75.447,59.822,74.266
+China,Hunan,2014,Total generation,126.12,100.0,75.69
+China,Hunan,2015,Solar,0.08,0.064,0.004
+China,Hunan,2015,Wind,2.2,1.756,0.028
+China,Hunan,2015,Coal,68.788,54.907,67.683
+China,Hunan,2015,Gas,0.0,0.0,0.0
+China,Hunan,2015,Clean,55.41,44.229,1.54
+China,Hunan,2015,Fossil,69.87,55.771,68.441
+China,Hunan,2015,Total generation,125.28,100.0,69.981
+China,Hunan,2016,Solar,0.211,0.166,0.01
+China,Hunan,2016,Wind,3.836,3.022,0.049
+China,Hunan,2016,Coal,68.482,53.947,67.159
+China,Hunan,2016,Gas,0.0,0.0,0.0
+China,Hunan,2016,Clean,57.012,44.911,1.598
+China,Hunan,2016,Fossil,69.931,55.088,68.173
+China,Hunan,2016,Total generation,126.943,100.0,69.771
+China,Hunan,2017,Solar,0.618,0.464,0.03
+China,Hunan,2017,Wind,4.981,3.74,0.064
+China,Hunan,2017,Coal,75.559,56.737,73.892
+China,Hunan,2017,Gas,0.0,0.0,0.0
+China,Hunan,2017,Clean,55.996,42.047,1.625
+China,Hunan,2017,Fossil,77.177,57.952,75.025
+China,Hunan,2017,Total generation,133.173,100.0,76.651
+China,Hunan,2018,Solar,2.015,1.409,0.097
+China,Hunan,2018,Wind,5.983,4.185,0.077
+China,Hunan,2018,Coal,86.929,60.806,84.801
+China,Hunan,2018,Gas,0.0,0.0,0.0
+China,Hunan,2018,Clean,54.042,37.802,1.692
+China,Hunan,2018,Fossil,88.92,62.198,86.194
+China,Hunan,2018,Total generation,142.962,100.0,87.886
+China,Hunan,2019,Solar,2.634,1.712,0.126
+China,Hunan,2019,Wind,7.486,4.866,0.097
+China,Hunan,2019,Coal,87.089,56.612,84.724
+China,Hunan,2019,Gas,0.0,0.0,0.0
+China,Hunan,2019,Clean,64.63,42.012,1.994
+China,Hunan,2019,Fossil,89.206,57.988,86.206
+China,Hunan,2019,Total generation,153.836,100.0,88.2
+China,Hunan,2020,Solar,3.027,1.989,0.145
+China,Hunan,2020,Wind,9.893,6.5,0.128
+China,Hunan,2020,Coal,81.46,53.518,79.032
+China,Hunan,2020,Gas,0.0,0.0,0.0
+China,Hunan,2020,Clean,68.665,45.112,2.016
+China,Hunan,2020,Fossil,83.545,54.888,80.491
+China,Hunan,2020,Total generation,152.21,100.0,82.508
+China,Hunan,2021,Solar,3.814,2.238,0.183
+China,Hunan,2021,Wind,14.999,8.8,0.201
+China,Hunan,2021,Coal,96.878,56.842,93.809
+China,Hunan,2021,Gas,0.0,0.0,0.0
+China,Hunan,2021,Clean,70.705,41.485,2.102
+China,Hunan,2021,Fossil,99.729,58.514,95.806
+China,Hunan,2021,Total generation,170.435,100.0,97.908
+China,Hunan,2022,Solar,5.365,3.115,0.258
+China,Hunan,2022,Wind,18.182,10.558,0.244
+China,Hunan,2022,Coal,96.783,56.202,93.582
+China,Hunan,2022,Gas,0.0,0.0,0.0
+China,Hunan,2022,Clean,72.479,42.089,2.215
+China,Hunan,2022,Fossil,99.726,57.911,95.642
+China,Hunan,2022,Total generation,172.205,100.0,97.857
+China,Hunan,2023,Solar,8.766,4.978,0.421
+China,Hunan,2023,Wind,20.822,11.825,0.279
+China,Hunan,2023,Coal,106.157,60.288,102.447
+China,Hunan,2023,Gas,0.0,0.0,0.0
+China,Hunan,2023,Clean,67.789,38.498,2.185
+China,Hunan,2023,Fossil,108.295,61.502,103.943
+China,Hunan,2023,Total generation,176.083,100.0,106.128
+China,Hunan,2024,Solar,12.911,6.968,0.62
+China,Hunan,2024,Wind,22.688,12.245,0.302
+China,Hunan,2024,Coal,99.296,53.591,95.658
+China,Hunan,2024,Gas,0.0,0.0,0.0
+China,Hunan,2024,Clean,84.256,45.474,2.632
+China,Hunan,2024,Fossil,101.029,54.526,96.871
+China,Hunan,2024,Total generation,185.285,100.0,99.503
+China,Hunan,2025,Solar,27.046,14.516,1.298
+China,Hunan,2025,Wind,22.072,11.847,0.294
+China,Hunan,2025,Coal,96.431,51.757,92.681
+China,Hunan,2025,Gas,0.779,0.418,0.368
+China,Hunan,2025,Clean,87.473,46.949,3.124
+China,Hunan,2025,Fossil,98.842,53.051,94.191
+China,Hunan,2025,Total generation,186.315,100.0,97.315
+China,Inner Mongolia,2011,Wind,22.7,7.243,0.289
+China,Inner Mongolia,2011,Coal,288.067,91.917,286.602
+China,Inner Mongolia,2011,Gas,0.833,0.266,0.394
+China,Inner Mongolia,2011,Clean,24.5,7.817,0.332
+China,Inner Mongolia,2011,Fossil,288.9,92.183,286.996
+China,Inner Mongolia,2011,Total generation,313.4,100.0,287.328
+China,Inner Mongolia,2012,Solar,0.17,0.051,0.008
+China,Inner Mongolia,2012,Wind,28.4,8.494,0.362
+China,Inner Mongolia,2012,Coal,301.97,90.31,299.473
+China,Inner Mongolia,2012,Gas,0.86,0.257,0.407
+China,Inner Mongolia,2012,Clean,31.54,9.433,0.456
+China,Inner Mongolia,2012,Fossil,302.83,90.567,299.88
+China,Inner Mongolia,2012,Total generation,334.37,100.0,300.335
+China,Inner Mongolia,2013,Solar,0.62,0.171,0.03
+China,Inner Mongolia,2013,Wind,36.8,10.157,0.469
+China,Inner Mongolia,2013,Coal,320.389,88.427,316.979
+China,Inner Mongolia,2013,Gas,0.784,0.216,0.37
+China,Inner Mongolia,2013,Clean,41.147,11.357,0.614
+China,Inner Mongolia,2013,Fossil,321.173,88.643,317.349
+China,Inner Mongolia,2013,Total generation,362.32,100.0,317.964
+China,Inner Mongolia,2014,Solar,2.47,0.64,0.119
+China,Inner Mongolia,2014,Wind,38.6,9.998,0.491
+China,Inner Mongolia,2014,Coal,340.588,88.219,336.154
+China,Inner Mongolia,2014,Gas,0.755,0.196,0.357
+China,Inner Mongolia,2014,Clean,44.727,11.585,0.73
+China,Inner Mongolia,2014,Fossil,341.343,88.415,336.511
+China,Inner Mongolia,2014,Total generation,386.07,100.0,337.241
+China,Inner Mongolia,2015,Solar,5.7,1.453,0.274
+China,Inner Mongolia,2015,Wind,40.8,10.4,0.519
+China,Inner Mongolia,2015,Coal,341.202,86.975,335.723
+China,Inner Mongolia,2015,Gas,0.814,0.207,0.385
+China,Inner Mongolia,2015,Clean,50.284,12.818,0.922
+China,Inner Mongolia,2015,Fossil,342.016,87.182,336.108
+China,Inner Mongolia,2015,Total generation,392.3,100.0,337.03
+China,Inner Mongolia,2016,Solar,8.253,2.119,0.396
+China,Inner Mongolia,2016,Wind,45.632,11.718,0.583
+China,Inner Mongolia,2016,Coal,333.013,85.518,326.579
+China,Inner Mongolia,2016,Gas,0.766,0.197,0.362
+China,Inner Mongolia,2016,Clean,55.627,14.285,1.058
+China,Inner Mongolia,2016,Fossil,333.78,85.715,326.941
+China,Inner Mongolia,2016,Total generation,389.406,100.0,327.999
+China,Inner Mongolia,2017,Solar,11.353,2.615,0.545
+China,Inner Mongolia,2017,Wind,54.888,12.644,0.705
+China,Inner Mongolia,2017,Coal,364.997,84.082,356.947
+China,Inner Mongolia,2017,Gas,0.784,0.181,0.371
+China,Inner Mongolia,2017,Clean,68.313,15.737,1.338
+China,Inner Mongolia,2017,Fossil,365.782,84.263,357.318
+China,Inner Mongolia,2017,Total generation,434.095,100.0,358.656
+China,Inner Mongolia,2018,Solar,12.992,2.611,0.624
+China,Inner Mongolia,2018,Wind,63.028,12.668,0.813
+China,Inner Mongolia,2018,Coal,416.977,83.811,406.769
+China,Inner Mongolia,2018,Gas,0.788,0.158,0.373
+China,Inner Mongolia,2018,Clean,79.754,16.03,1.58
+China,Inner Mongolia,2018,Fossil,417.765,83.97,407.142
+China,Inner Mongolia,2018,Total generation,497.519,100.0,408.722
+China,Inner Mongolia,2019,Solar,16.273,2.975,0.781
+China,Inner Mongolia,2019,Wind,66.476,12.153,0.86
+China,Inner Mongolia,2019,Coal,458.109,83.748,445.669
+China,Inner Mongolia,2019,Gas,0.839,0.153,0.397
+China,Inner Mongolia,2019,Clean,88.058,16.098,1.871
+China,Inner Mongolia,2019,Fossil,458.948,83.902,446.065
+China,Inner Mongolia,2019,Total generation,547.006,100.0,447.936
+China,Inner Mongolia,2020,Solar,18.789,3.228,0.902
+China,Inner Mongolia,2020,Wind,72.548,12.464,0.941
+China,Inner Mongolia,2020,Coal,484.472,83.235,470.031
+China,Inner Mongolia,2020,Gas,0.861,0.148,0.407
+China,Inner Mongolia,2020,Clean,96.72,16.617,2.103
+China,Inner Mongolia,2020,Fossil,485.333,83.383,470.438
+China,Inner Mongolia,2020,Total generation,582.053,100.0,472.541
+China,Inner Mongolia,2021,Solar,21.195,3.468,1.017
+China,Inner Mongolia,2021,Wind,96.694,15.822,1.293
+China,Inner Mongolia,2021,Coal,487.171,79.713,471.741
+China,Inner Mongolia,2021,Gas,0.709,0.116,0.335
+China,Inner Mongolia,2021,Clean,123.273,20.171,2.567
+China,Inner Mongolia,2021,Fossil,487.88,79.829,472.076
+China,Inner Mongolia,2021,Total generation,611.153,100.0,474.643
+China,Inner Mongolia,2022,Solar,24.42,3.696,1.172
+China,Inner Mongolia,2022,Wind,107.588,16.283,1.442
+China,Inner Mongolia,2022,Coal,523.048,79.159,505.747
+China,Inner Mongolia,2022,Gas,0.726,0.11,0.343
+China,Inner Mongolia,2022,Clean,136.542,20.665,2.905
+China,Inner Mongolia,2022,Fossil,524.213,79.335,506.397
+China,Inner Mongolia,2022,Total generation,660.755,100.0,509.302
+China,Inner Mongolia,2023,Solar,29.096,3.823,1.397
+China,Inner Mongolia,2023,Wind,134.94,17.73,1.81
+China,Inner Mongolia,2023,Coal,589.565,77.463,568.959
+China,Inner Mongolia,2023,Gas,0.701,0.092,0.331
+China,Inner Mongolia,2023,Clean,169.036,22.21,3.554
+China,Inner Mongolia,2023,Fossil,592.061,77.791,570.547
+China,Inner Mongolia,2023,Total generation,761.097,100.0,574.101
+China,Inner Mongolia,2024,Solar,41.438,4.986,1.989
+China,Inner Mongolia,2024,Wind,169.245,20.364,2.256
+China,Inner Mongolia,2024,Coal,611.165,73.536,588.772
+China,Inner Mongolia,2024,Gas,0.679,0.082,0.321
+China,Inner Mongolia,2024,Clean,216.749,26.079,4.629
+China,Inner Mongolia,2024,Fossil,614.365,73.921,590.858
+China,Inner Mongolia,2024,Total generation,831.115,100.0,595.486
+China,Inner Mongolia,2025,Solar,68.089,7.813,3.268
+China,Inner Mongolia,2025,Wind,210.053,24.103,2.8
+China,Inner Mongolia,2025,Coal,583.903,67.0,561.197
+China,Inner Mongolia,2025,Gas,0.605,0.069,0.286
+China,Inner Mongolia,2025,Clean,284.455,32.64,6.475
+China,Inner Mongolia,2025,Fossil,587.041,67.36,563.256
+China,Inner Mongolia,2025,Total generation,871.496,100.0,569.731
+China,Jiangsu,2011,Wind,2.7,0.687,0.034
+China,Jiangsu,2011,Coal,352.978,89.771,351.183
+China,Jiangsu,2011,Gas,12.9,3.281,6.097
+China,Jiangsu,2011,Clean,21.365,5.434,0.451
+China,Jiangsu,2011,Fossil,371.835,94.566,361.45
+China,Jiangsu,2011,Total generation,393.2,100.0,361.901
+China,Jiangsu,2012,Solar,0.42,0.101,0.02
+China,Jiangsu,2012,Wind,3.7,0.89,0.047
+China,Jiangsu,2012,Coal,372.292,89.532,369.215
+China,Jiangsu,2012,Gas,14.975,3.601,7.078
+China,Jiangsu,2012,Clean,22.949,5.519,0.52
+China,Jiangsu,2012,Fossil,392.871,94.481,380.215
+China,Jiangsu,2012,Total generation,415.82,100.0,380.735
+China,Jiangsu,2013,Solar,0.6,0.136,0.029
+China,Jiangsu,2013,Wind,4.7,1.067,0.06
+China,Jiangsu,2013,Coal,392.868,89.167,388.686
+China,Jiangsu,2013,Gas,16.901,3.836,7.988
+China,Jiangsu,2013,Clean,25.102,5.697,0.653
+China,Jiangsu,2013,Fossil,415.498,94.303,400.685
+China,Jiangsu,2013,Total generation,440.6,100.0,401.338
+China,Jiangsu,2014,Solar,1.39,0.32,0.067
+China,Jiangsu,2014,Wind,5.7,1.311,0.073
+China,Jiangsu,2014,Coal,384.583,88.432,379.576
+China,Jiangsu,2014,Gas,16.886,3.883,7.981
+China,Jiangsu,2014,Clean,27.582,6.342,0.84
+China,Jiangsu,2014,Fossil,407.308,93.658,391.645
+China,Jiangsu,2014,Total generation,434.89,100.0,392.485
+China,Jiangsu,2015,Solar,3.12,0.705,0.15
+China,Jiangsu,2015,Wind,6.4,1.446,0.081
+China,Jiangsu,2015,Coal,382.916,86.531,376.767
+China,Jiangsu,2015,Gas,22.136,5.002,10.462
+China,Jiangsu,2015,Clean,30.426,6.876,1.072
+China,Jiangsu,2015,Fossil,412.094,93.124,392.159
+China,Jiangsu,2015,Total generation,442.52,100.0,393.231
+China,Jiangsu,2016,Solar,4.655,0.982,0.223
+China,Jiangsu,2016,Wind,9.637,2.033,0.123
+China,Jiangsu,2016,Coal,402.403,84.891,394.628
+China,Jiangsu,2016,Gas,27.919,5.89,13.196
+China,Jiangsu,2016,Clean,35.2,7.426,1.368
+China,Jiangsu,2016,Fossil,438.823,92.574,413.774
+China,Jiangsu,2016,Total generation,474.023,100.0,415.143
+China,Jiangsu,2017,Solar,8.162,1.669,0.392
+China,Jiangsu,2017,Wind,11.954,2.444,0.153
+China,Jiangsu,2017,Coal,401.118,82.007,392.271
+China,Jiangsu,2017,Gas,34.862,7.127,16.477
+China,Jiangsu,2017,Clean,44.25,9.047,1.763
+China,Jiangsu,2017,Fossil,444.876,90.953,414.976
+China,Jiangsu,2017,Total generation,489.126,100.0,416.739
+China,Jiangsu,2018,Solar,12.001,2.349,0.576
+China,Jiangsu,2018,Wind,17.253,3.377,0.223
+China,Jiangsu,2018,Coal,401.493,78.589,391.664
+China,Jiangsu,2018,Gas,37.805,7.4,17.868
+China,Jiangsu,2018,Clean,60.988,11.938,2.135
+China,Jiangsu,2018,Fossil,449.889,88.062,416.946
+China,Jiangsu,2018,Total generation,510.877,100.0,419.082
+China,Jiangsu,2019,Solar,15.423,2.993,0.74
+China,Jiangsu,2019,Wind,18.366,3.564,0.238
+China,Jiangsu,2019,Coal,387.589,75.216,377.064
+China,Jiangsu,2019,Gas,39.662,7.697,18.746
+China,Jiangsu,2019,Clean,75.183,14.59,2.503
+China,Jiangsu,2019,Fossil,440.119,85.41,404.817
+China,Jiangsu,2019,Total generation,515.302,100.0,407.32
+China,Jiangsu,2020,Solar,16.647,3.194,0.799
+China,Jiangsu,2020,Wind,22.884,4.391,0.297
+China,Jiangsu,2020,Coal,377.7,72.474,366.442
+China,Jiangsu,2020,Gas,43.385,8.325,20.505
+China,Jiangsu,2020,Clean,84.824,16.276,2.89
+China,Jiangsu,2020,Fossil,436.327,83.724,397.617
+China,Jiangsu,2020,Total generation,521.151,100.0,400.507
+China,Jiangsu,2021,Solar,19.485,3.251,0.935
+China,Jiangsu,2021,Wind,41.597,6.941,0.556
+China,Jiangsu,2021,Coal,416.891,69.565,403.687
+China,Jiangsu,2021,Gas,45.876,7.655,21.683
+China,Jiangsu,2021,Clean,120.0,20.024,3.55
+China,Jiangsu,2021,Fossil,479.284,79.976,436.932
+China,Jiangsu,2021,Total generation,599.285,100.0,440.482
+China,Jiangsu,2022,Solar,25.428,4.186,1.221
+China,Jiangsu,2022,Wind,51.247,8.436,0.687
+China,Jiangsu,2022,Coal,402.399,66.242,389.089
+China,Jiangsu,2022,Gas,48.297,7.951,22.827
+China,Jiangsu,2022,Clean,139.561,22.974,3.957
+China,Jiangsu,2022,Fossil,467.908,77.026,423.964
+China,Jiangsu,2022,Total generation,607.469,100.0,427.921
+China,Jiangsu,2023,Solar,35.817,5.613,1.719
+China,Jiangsu,2023,Wind,53.487,8.382,0.717
+China,Jiangsu,2023,Coal,424.325,66.495,409.494
+China,Jiangsu,2023,Gas,48.507,7.601,22.926
+China,Jiangsu,2023,Clean,150.395,23.568,4.592
+China,Jiangsu,2023,Fossil,487.736,76.432,442.853
+China,Jiangsu,2023,Total generation,638.131,100.0,447.446
+China,Jiangsu,2024,Solar,57.981,8.53,2.783
+China,Jiangsu,2024,Wind,55.971,8.234,0.746
+China,Jiangsu,2024,Coal,437.351,64.339,421.327
+China,Jiangsu,2024,Gas,50.153,7.378,23.705
+China,Jiangsu,2024,Clean,177.241,26.074,5.831
+China,Jiangsu,2024,Fossil,502.515,73.926,455.539
+China,Jiangsu,2024,Total generation,679.757,100.0,461.37
+China,Jiangsu,2025,Solar,92.448,12.926,4.437
+China,Jiangsu,2025,Wind,56.734,7.933,0.756
+China,Jiangsu,2025,Coal,438.899,61.367,421.832
+China,Jiangsu,2025,Gas,47.486,6.64,22.444
+China,Jiangsu,2025,Clean,214.235,29.955,7.65
+China,Jiangsu,2025,Fossil,500.964,70.045,454.481
+China,Jiangsu,2025,Total generation,715.199,100.0,462.131
+China,Jiangxi,2011,Wind,0.22,0.296,0.003
+China,Jiangxi,2011,Coal,65.446,88.178,65.114
+China,Jiangxi,2011,Gas,0.0,0.0,0.0
+China,Jiangxi,2011,Clean,7.997,10.775,0.246
+China,Jiangxi,2011,Fossil,66.223,89.225,65.657
+China,Jiangxi,2011,Total generation,74.22,100.0,65.904
+China,Jiangxi,2012,Solar,0.01,0.013,0.0
+China,Jiangxi,2012,Wind,0.32,0.421,0.004
+China,Jiangxi,2012,Coal,60.11,79.165,59.613
+China,Jiangxi,2012,Gas,0.0,0.0,0.0
+China,Jiangxi,2012,Clean,15.23,20.058,0.424
+China,Jiangxi,2012,Fossil,60.7,79.942,60.026
+China,Jiangxi,2012,Total generation,75.93,100.0,60.45
+China,Jiangxi,2013,Solar,0.04,0.047,0.002
+China,Jiangxi,2013,Wind,0.51,0.599,0.006
+China,Jiangxi,2013,Coal,71.199,83.616,70.441
+China,Jiangxi,2013,Gas,0.0,0.0,0.0
+China,Jiangxi,2013,Clean,13.257,15.569,0.397
+China,Jiangxi,2013,Fossil,71.893,84.431,70.927
+China,Jiangxi,2013,Total generation,85.15,100.0,71.324
+China,Jiangxi,2014,Solar,0.1,0.114,0.005
+China,Jiangxi,2014,Wind,0.6,0.684,0.008
+China,Jiangxi,2014,Coal,72.412,82.568,71.47
+China,Jiangxi,2014,Gas,0.0,0.0,0.0
+China,Jiangxi,2014,Clean,14.51,16.545,0.449
+China,Jiangxi,2014,Fossil,73.19,83.455,72.014
+China,Jiangxi,2014,Total generation,87.7,100.0,72.463
+China,Jiangxi,2015,Solar,0.24,0.245,0.012
+China,Jiangxi,2015,Wind,1.1,1.121,0.014
+China,Jiangxi,2015,Coal,78.109,79.589,76.855
+China,Jiangxi,2015,Gas,0.0,0.0,0.0
+China,Jiangxi,2015,Clean,19.143,19.506,0.598
+China,Jiangxi,2015,Fossil,78.997,80.494,77.477
+China,Jiangxi,2015,Total generation,98.14,100.0,78.074
+China,Jiangxi,2016,Solar,1.116,1.179,0.054
+China,Jiangxi,2016,Wind,1.868,1.973,0.024
+China,Jiangxi,2016,Coal,81.076,85.617,79.509
+China,Jiangxi,2016,Gas,0.0,0.0,0.0
+China,Jiangxi,2016,Clean,12.702,13.413,0.509
+China,Jiangxi,2016,Fossil,81.994,86.586,80.152
+China,Jiangxi,2016,Total generation,94.696,100.0,80.661
+China,Jiangxi,2017,Solar,3.041,2.786,0.146
+China,Jiangxi,2017,Wind,3.088,2.829,0.04
+China,Jiangxi,2017,Coal,91.574,83.896,89.555
+China,Jiangxi,2017,Gas,0.0,0.0,0.0
+China,Jiangxi,2017,Clean,16.144,14.79,0.713
+China,Jiangxi,2017,Fossil,93.008,85.21,90.558
+China,Jiangxi,2017,Total generation,109.151,100.0,91.27
+China,Jiangxi,2018,Solar,5.207,4.295,0.25
+China,Jiangxi,2018,Wind,4.088,3.372,0.053
+China,Jiangxi,2018,Coal,100.602,82.978,98.139
+China,Jiangxi,2018,Gas,0.0,0.0,0.0
+China,Jiangxi,2018,Clean,17.99,14.838,0.827
+China,Jiangxi,2018,Fossil,103.25,85.162,99.993
+China,Jiangxi,2018,Total generation,121.24,100.0,100.82
+China,Jiangxi,2019,Solar,5.645,4.39,0.271
+China,Jiangxi,2019,Wind,5.09,3.959,0.066
+China,Jiangxi,2019,Coal,104.492,81.269,101.654
+China,Jiangxi,2019,Gas,0.0,0.0,0.0
+China,Jiangxi,2019,Clean,20.673,16.078,0.951
+China,Jiangxi,2019,Fossil,107.903,83.922,104.042
+China,Jiangxi,2019,Total generation,128.576,100.0,104.993
+China,Jiangxi,2020,Solar,6.24,4.554,0.3
+China,Jiangxi,2020,Wind,7.095,5.178,0.092
+China,Jiangxi,2020,Coal,109.544,79.951,106.279
+China,Jiangxi,2020,Gas,0.0,0.0,0.0
+China,Jiangxi,2020,Clean,23.321,17.021,1.239
+China,Jiangxi,2020,Fossil,113.693,82.979,109.183
+China,Jiangxi,2020,Total generation,137.014,100.0,110.423
+China,Jiangxi,2021,Solar,8.018,5.402,0.385
+China,Jiangxi,2021,Wind,10.399,7.006,0.139
+China,Jiangxi,2021,Coal,116.047,78.184,112.371
+China,Jiangxi,2021,Gas,0.0,0.0,0.0
+China,Jiangxi,2021,Clean,28.284,19.056,1.457
+China,Jiangxi,2021,Fossil,120.143,80.944,115.239
+China,Jiangxi,2021,Total generation,148.428,100.0,116.696
+China,Jiangxi,2022,Solar,10.409,6.335,0.5
+China,Jiangxi,2022,Wind,12.787,7.783,0.171
+China,Jiangxi,2022,Coal,125.326,76.278,121.18
+China,Jiangxi,2022,Gas,0.0,0.0,0.0
+China,Jiangxi,2022,Clean,35.005,21.305,1.679
+China,Jiangxi,2022,Fossil,129.297,78.695,123.96
+China,Jiangxi,2022,Total generation,164.302,100.0,125.638
+China,Jiangxi,2023,Solar,15.601,8.813,0.749
+China,Jiangxi,2023,Wind,12.455,7.036,0.167
+China,Jiangxi,2023,Coal,134.378,75.912,129.681
+China,Jiangxi,2023,Gas,0.0,0.0,0.0
+China,Jiangxi,2023,Clean,39.604,22.373,1.95
+China,Jiangxi,2023,Fossil,137.414,77.627,131.806
+China,Jiangxi,2023,Total generation,177.018,100.0,133.756
+China,Jiangxi,2024,Solar,22.572,12.125,1.083
+China,Jiangxi,2024,Wind,13.385,7.19,0.178
+China,Jiangxi,2024,Coal,134.258,72.12,129.338
+China,Jiangxi,2024,Gas,0.0,0.0,0.0
+China,Jiangxi,2024,Clean,49.212,26.435,2.351
+China,Jiangxi,2024,Fossil,136.947,73.565,131.221
+China,Jiangxi,2024,Total generation,186.159,100.0,133.572
+China,Jiangxi,2025,Solar,30.625,15.441,1.47
+China,Jiangxi,2025,Wind,13.708,6.911,0.183
+China,Jiangxi,2025,Coal,140.445,70.811,134.984
+China,Jiangxi,2025,Gas,0.0,0.0,0.0
+China,Jiangxi,2025,Clean,54.941,27.701,2.738
+China,Jiangxi,2025,Fossil,143.397,72.299,137.05
+China,Jiangxi,2025,Total generation,198.338,100.0,139.788
+China,Jilin,2011,Wind,4.0,5.666,0.051
+China,Jilin,2011,Coal,57.985,82.132,57.69
+China,Jilin,2011,Gas,0.0,0.0,0.0
+China,Jilin,2011,Clean,12.098,17.136,0.389
+China,Jilin,2011,Fossil,58.502,82.864,58.052
+China,Jilin,2011,Total generation,70.6,100.0,58.441
+China,Jilin,2012,Wind,4.4,6.162,0.056
+China,Jilin,2012,Coal,57.827,80.99,57.349
+China,Jilin,2012,Gas,0.0,0.0,0.0
+China,Jilin,2012,Clean,13.143,18.408,0.439
+China,Jilin,2012,Fossil,58.257,81.592,57.65
+China,Jilin,2012,Total generation,71.4,100.0,58.089
+China,Jilin,2013,Solar,0.003,0.004,0.0
+China,Jilin,2013,Wind,5.8,7.503,0.074
+China,Jilin,2013,Coal,57.697,74.637,57.083
+China,Jilin,2013,Gas,0.0,0.0,0.0
+China,Jilin,2013,Clean,19.175,24.805,0.574
+China,Jilin,2013,Fossil,58.128,75.195,57.385
+China,Jilin,2013,Total generation,77.303,100.0,57.959
+China,Jilin,2014,Solar,0.05,0.066,0.002
+China,Jilin,2014,Wind,5.8,7.647,0.074
+China,Jilin,2014,Coal,61.52,81.107,60.719
+China,Jilin,2014,Gas,0.0,0.0,0.0
+China,Jilin,2014,Clean,13.858,18.27,0.476
+China,Jilin,2014,Fossil,61.992,81.73,61.05
+China,Jilin,2014,Total generation,75.85,100.0,61.526
+China,Jilin,2015,Solar,0.1,0.142,0.005
+China,Jilin,2015,Wind,6.0,8.523,0.076
+China,Jilin,2015,Coal,57.277,81.359,56.358
+China,Jilin,2015,Gas,0.0,0.0,0.0
+China,Jilin,2015,Clean,12.641,17.956,0.494
+China,Jilin,2015,Fossil,57.759,82.044,56.695
+China,Jilin,2015,Total generation,70.4,100.0,57.188
+China,Jilin,2016,Solar,0.311,0.42,0.015
+China,Jilin,2016,Wind,8.039,10.861,0.103
+China,Jilin,2016,Coal,55.747,75.313,54.67
+China,Jilin,2016,Gas,0.0,0.0,0.0
+China,Jilin,2016,Clean,17.758,23.991,0.662
+China,Jilin,2016,Fossil,56.262,76.009,55.03
+China,Jilin,2016,Total generation,74.02,100.0,55.692
+China,Jilin,2017,Solar,1.334,1.727,0.064
+China,Jilin,2017,Wind,8.666,11.218,0.111
+China,Jilin,2017,Coal,58.754,76.057,57.458
+China,Jilin,2017,Gas,0.0,0.0,0.0
+China,Jilin,2017,Clean,17.757,22.986,0.738
+China,Jilin,2017,Fossil,59.493,77.013,57.975
+China,Jilin,2017,Total generation,77.25,100.0,58.713
+China,Jilin,2018,Solar,2.387,2.845,0.115
+China,Jilin,2018,Wind,10.47,12.477,0.135
+China,Jilin,2018,Coal,62.28,74.218,60.756
+China,Jilin,2018,Gas,0.0,0.0,0.0
+China,Jilin,2018,Clean,20.636,24.592,0.83
+China,Jilin,2018,Fossil,63.279,75.409,61.455
+China,Jilin,2018,Total generation,83.915,100.0,62.285
+China,Jilin,2019,Solar,3.98,4.264,0.191
+China,Jilin,2019,Wind,11.479,12.299,0.148
+China,Jilin,2019,Coal,69.643,74.616,67.751
+China,Jilin,2019,Gas,0.0,0.0,0.0
+China,Jilin,2019,Clean,22.552,24.162,0.952
+China,Jilin,2019,Fossil,70.783,75.837,68.55
+China,Jilin,2019,Total generation,93.335,100.0,69.502
+China,Jilin,2020,Solar,4.495,4.509,0.216
+China,Jilin,2020,Wind,12.991,13.03,0.168
+China,Jilin,2020,Coal,71.219,71.435,69.096
+China,Jilin,2020,Gas,0.0,0.0,0.0
+China,Jilin,2020,Clean,26.752,26.833,1.078
+China,Jilin,2020,Fossil,72.945,73.166,70.304
+China,Jilin,2020,Total generation,99.697,100.0,71.382
+China,Jilin,2021,Solar,5.191,5.193,0.249
+China,Jilin,2021,Wind,13.799,13.803,0.185
+China,Jilin,2021,Coal,68.535,68.557,66.364
+China,Jilin,2021,Gas,0.0,0.0,0.0
+China,Jilin,2021,Clean,29.477,29.486,1.183
+China,Jilin,2021,Fossil,70.491,70.514,67.734
+China,Jilin,2021,Total generation,99.968,100.0,68.917
+China,Jilin,2022,Solar,5.89,5.676,0.283
+China,Jilin,2022,Wind,20.078,19.347,0.269
+China,Jilin,2022,Coal,63.317,61.012,61.223
+China,Jilin,2022,Gas,0.0,0.0,0.0
+China,Jilin,2022,Clean,38.438,37.039,1.416
+China,Jilin,2022,Fossil,65.34,62.961,62.639
+China,Jilin,2022,Total generation,103.778,100.0,64.054
+China,Jilin,2023,Solar,6.187,5.402,0.297
+China,Jilin,2023,Wind,27.988,24.437,0.375
+China,Jilin,2023,Coal,66.749,58.28,64.416
+China,Jilin,2023,Gas,0.0,0.0,0.0
+China,Jilin,2023,Clean,46.054,40.211,1.615
+China,Jilin,2023,Fossil,68.478,59.79,65.626
+China,Jilin,2023,Total generation,114.531,100.0,67.241
+China,Jilin,2024,Solar,7.618,6.604,0.366
+China,Jilin,2024,Wind,30.202,26.183,0.403
+China,Jilin,2024,Coal,63.042,54.653,60.732
+China,Jilin,2024,Gas,0.0,0.0,0.0
+China,Jilin,2024,Clean,50.799,44.039,1.736
+China,Jilin,2024,Fossil,64.55,55.961,61.788
+China,Jilin,2024,Total generation,115.349,100.0,63.524
+China,Jilin,2025,Solar,8.57,7.522,0.411
+China,Jilin,2025,Wind,32.461,28.49,0.433
+China,Jilin,2025,Coal,60.06,52.713,57.724
+China,Jilin,2025,Gas,0.0,0.0,0.0
+China,Jilin,2025,Clean,52.412,46.0,1.838
+China,Jilin,2025,Fossil,61.527,54.0,58.751
+China,Jilin,2025,Total generation,113.938,100.0,60.589
+China,Liaoning,2011,Wind,6.6,4.638,0.084
+China,Liaoning,2011,Coal,129.82,91.23,129.16
+China,Liaoning,2011,Gas,0.806,0.566,0.381
+China,Liaoning,2011,Clean,10.765,7.565,0.197
+China,Liaoning,2011,Fossil,131.535,92.435,130.177
+China,Liaoning,2011,Total generation,142.3,100.0,130.375
+China,Liaoning,2012,Solar,0.0,0.0,0.0
+China,Liaoning,2012,Wind,7.9,5.309,0.101
+China,Liaoning,2012,Coal,132.804,89.25,131.706
+China,Liaoning,2012,Gas,0.794,0.534,0.375
+China,Liaoning,2012,Clean,14.424,9.694,0.283
+China,Liaoning,2012,Fossil,134.376,90.306,132.626
+China,Liaoning,2012,Total generation,148.8,100.0,132.908
+China,Liaoning,2013,Solar,0.016,0.01,0.001
+China,Liaoning,2013,Wind,10.0,6.361,0.127
+China,Liaoning,2013,Coal,131.297,83.514,129.9
+China,Liaoning,2013,Gas,0.683,0.434,0.323
+China,Liaoning,2013,Clean,24.482,15.572,0.394
+China,Liaoning,2013,Fossil,132.734,84.428,130.75
+China,Liaoning,2013,Total generation,157.216,100.0,131.144
+China,Liaoning,2014,Solar,0.07,0.043,0.003
+China,Liaoning,2014,Wind,10.4,6.429,0.132
+China,Liaoning,2014,Coal,133.427,82.479,131.69
+China,Liaoning,2014,Gas,0.662,0.409,0.313
+China,Liaoning,2014,Clean,26.842,16.593,0.347
+China,Liaoning,2014,Fossil,134.928,83.407,132.591
+China,Liaoning,2014,Total generation,161.77,100.0,132.937
+China,Liaoning,2015,Solar,0.14,0.086,0.007
+China,Liaoning,2015,Wind,11.2,6.916,0.143
+China,Liaoning,2015,Coal,131.025,80.91,128.921
+China,Liaoning,2015,Gas,0.743,0.459,0.351
+China,Liaoning,2015,Clean,29.223,18.046,0.354
+China,Liaoning,2015,Fossil,132.717,81.954,129.936
+China,Liaoning,2015,Total generation,161.94,100.0,130.29
+China,Liaoning,2016,Solar,0.398,0.225,0.019
+China,Liaoning,2016,Wind,12.684,7.178,0.162
+China,Liaoning,2016,Coal,137.934,78.061,135.269
+China,Liaoning,2016,Gas,0.816,0.462,0.386
+China,Liaoning,2016,Clean,36.83,20.843,0.472
+China,Liaoning,2016,Fossil,139.869,79.156,136.438
+China,Liaoning,2016,Total generation,176.7,100.0,136.91
+China,Liaoning,2017,Solar,1.226,0.669,0.059
+China,Liaoning,2017,Wind,14.942,8.151,0.192
+China,Liaoning,2017,Coal,138.471,75.536,135.417
+China,Liaoning,2017,Gas,0.805,0.439,0.381
+China,Liaoning,2017,Clean,42.924,23.415,0.6
+China,Liaoning,2017,Fossil,140.393,76.585,136.579
+China,Liaoning,2017,Total generation,183.317,100.0,137.179
+China,Liaoning,2018,Solar,3.2,1.624,0.154
+China,Liaoning,2018,Wind,16.454,8.349,0.212
+China,Liaoning,2018,Coal,141.944,72.022,138.469
+China,Liaoning,2018,Gas,0.724,0.367,0.342
+China,Liaoning,2018,Clean,53.258,27.023,0.769
+China,Liaoning,2018,Fossil,143.826,72.977,139.622
+China,Liaoning,2018,Total generation,197.084,100.0,140.391
+China,Liaoning,2019,Solar,4.179,2.029,0.201
+China,Liaoning,2019,Wind,18.266,8.869,0.236
+China,Liaoning,2019,Coal,145.049,70.431,141.11
+China,Liaoning,2019,Gas,0.732,0.355,0.346
+China,Liaoning,2019,Clean,58.95,28.624,0.927
+China,Liaoning,2019,Fossil,146.995,71.376,142.306
+China,Liaoning,2019,Total generation,205.944,100.0,143.233
+China,Liaoning,2020,Solar,5.092,2.414,0.244
+China,Liaoning,2020,Wind,19.386,9.191,0.251
+China,Liaoning,2020,Coal,146.819,69.609,142.443
+China,Liaoning,2020,Gas,0.751,0.356,0.355
+China,Liaoning,2020,Clean,62.049,29.418,1.117
+China,Liaoning,2020,Fossil,148.87,70.581,143.708
+China,Liaoning,2020,Total generation,210.92,100.0,144.825
+China,Liaoning,2021,Solar,5.488,2.477,0.263
+China,Liaoning,2021,Wind,22.699,10.247,0.304
+China,Liaoning,2021,Coal,145.68,65.762,141.066
+China,Liaoning,2021,Gas,0.624,0.282,0.295
+China,Liaoning,2021,Clean,74.091,33.446,1.393
+China,Liaoning,2021,Fossil,147.435,66.554,142.153
+China,Liaoning,2021,Total generation,221.526,100.0,143.546
+China,Liaoning,2022,Solar,7.525,3.404,0.361
+China,Liaoning,2022,Wind,25.472,11.523,0.341
+China,Liaoning,2022,Coal,134.858,61.009,130.398
+China,Liaoning,2022,Gas,0.571,0.258,0.27
+China,Liaoning,2022,Clean,84.64,38.291,1.66
+China,Liaoning,2022,Fossil,136.407,61.71,131.352
+China,Liaoning,2022,Total generation,221.047,100.0,133.011
+China,Liaoning,2023,Solar,11.125,4.765,0.534
+China,Liaoning,2023,Wind,32.962,14.117,0.442
+China,Liaoning,2023,Coal,130.883,56.054,126.308
+China,Liaoning,2023,Gas,0.513,0.22,0.242
+China,Liaoning,2023,Clean,101.228,43.354,1.99
+China,Liaoning,2023,Fossil,132.266,56.646,127.16
+China,Liaoning,2023,Total generation,233.494,100.0,129.15
+China,Liaoning,2024,Solar,13.172,5.654,0.632
+China,Liaoning,2024,Wind,37.885,16.262,0.505
+China,Liaoning,2024,Coal,121.541,52.17,117.088
+China,Liaoning,2024,Gas,0.468,0.201,0.221
+China,Liaoning,2024,Clean,109.428,46.97,2.146
+China,Liaoning,2024,Fossil,123.545,53.03,118.384
+China,Liaoning,2024,Total generation,232.973,100.0,120.53
+China,Liaoning,2025,Solar,16.471,6.607,0.791
+China,Liaoning,2025,Wind,43.206,17.33,0.576
+China,Liaoning,2025,Coal,125.62,50.388,120.735
+China,Liaoning,2025,Gas,0.461,0.185,0.218
+China,Liaoning,2025,Clean,120.697,48.413,2.533
+China,Liaoning,2025,Fossil,128.61,51.587,122.723
+China,Liaoning,2025,Total generation,249.307,100.0,125.256
+China,Ningxia,2011,Wind,1.3,1.304,0.017
+China,Ningxia,2011,Coal,95.199,95.485,94.715
+China,Ningxia,2011,Gas,0.892,0.895,0.421
+China,Ningxia,2011,Clean,3.0,3.009,0.057
+China,Ningxia,2011,Fossil,96.7,96.991,95.563
+China,Ningxia,2011,Total generation,99.7,100.0,95.62
+China,Ningxia,2012,Solar,0.78,0.771,0.037
+China,Ningxia,2012,Wind,3.3,3.262,0.042
+China,Ningxia,2012,Coal,93.893,92.798,93.117
+China,Ningxia,2012,Gas,0.82,0.81,0.388
+China,Ningxia,2012,Clean,5.98,5.91,0.125
+China,Ningxia,2012,Fossil,95.2,94.09,93.845
+China,Ningxia,2012,Total generation,101.18,100.0,93.97
+China,Ningxia,2013,Solar,1.05,0.936,0.05
+China,Ningxia,2013,Wind,6.1,5.439,0.078
+China,Ningxia,2013,Coal,101.776,90.75,100.693
+China,Ningxia,2013,Gas,0.793,0.707,0.375
+China,Ningxia,2013,Clean,9.05,8.07,0.174
+China,Ningxia,2013,Fossil,103.1,91.93,101.439
+China,Ningxia,2013,Total generation,112.15,100.0,101.613
+China,Ningxia,2014,Solar,2.59,2.218,0.124
+China,Ningxia,2014,Wind,7.1,6.079,0.09
+China,Ningxia,2014,Coal,102.687,87.924,101.35
+China,Ningxia,2014,Gas,1.963,1.681,0.928
+China,Ningxia,2014,Clean,11.569,9.906,0.276
+China,Ningxia,2014,Fossil,105.221,90.094,102.678
+China,Ningxia,2014,Total generation,116.79,100.0,102.954
+China,Ningxia,2015,Solar,3.59,3.079,0.172
+China,Ningxia,2015,Wind,8.8,7.548,0.112
+China,Ningxia,2015,Coal,98.616,84.584,97.032
+China,Ningxia,2015,Gas,3.217,2.759,1.521
+China,Ningxia,2015,Clean,14.139,12.127,0.357
+China,Ningxia,2015,Fossil,102.451,87.873,98.985
+China,Ningxia,2015,Total generation,116.59,100.0,99.342
+China,Ningxia,2016,Solar,5.514,5.021,0.265
+China,Ningxia,2016,Wind,12.686,11.552,0.162
+China,Ningxia,2016,Coal,86.763,79.006,85.087
+China,Ningxia,2016,Gas,2.763,2.516,1.306
+China,Ningxia,2016,Clean,19.722,17.959,0.491
+China,Ningxia,2016,Fossil,90.096,82.041,86.792
+China,Ningxia,2016,Total generation,109.819,100.0,87.283
+China,Ningxia,2017,Solar,7.627,5.588,0.366
+China,Ningxia,2017,Wind,15.442,11.314,0.198
+China,Ningxia,2017,Coal,108.09,79.196,105.706
+China,Ningxia,2017,Gas,2.993,2.193,1.414
+China,Ningxia,2017,Clean,24.773,18.151,0.635
+China,Ningxia,2017,Fossil,111.711,81.849,107.56
+China,Ningxia,2017,Total generation,136.484,100.0,108.196
+China,Ningxia,2018,Solar,9.697,5.974,0.465
+China,Ningxia,2018,Wind,18.648,11.489,0.241
+China,Ningxia,2018,Coal,128.218,78.995,125.079
+China,Ningxia,2018,Gas,2.913,1.795,1.377
+China,Ningxia,2018,Clean,30.482,18.78,0.794
+China,Ningxia,2018,Fossil,131.83,81.22,126.945
+China,Ningxia,2018,Total generation,162.312,100.0,127.739
+China,Ningxia,2019,Solar,11.488,6.539,0.551
+China,Ningxia,2019,Wind,18.565,10.567,0.24
+China,Ningxia,2019,Coal,139.718,79.525,135.924
+China,Ningxia,2019,Gas,2.846,1.62,1.345
+China,Ningxia,2019,Clean,32.413,18.449,0.888
+China,Ningxia,2019,Fossil,143.277,81.551,137.768
+China,Ningxia,2019,Total generation,175.69,100.0,138.656
+China,Ningxia,2020,Solar,13.584,7.206,0.652
+China,Ningxia,2020,Wind,19.387,10.284,0.251
+China,Ningxia,2020,Coal,149.527,79.321,145.07
+China,Ningxia,2020,Gas,2.868,1.521,1.356
+China,Ningxia,2020,Clean,35.371,18.764,0.997
+China,Ningxia,2020,Fossil,153.139,81.237,146.946
+China,Ningxia,2020,Total generation,188.509,100.0,147.943
+China,Ningxia,2021,Solar,18.297,8.796,0.878
+China,Ningxia,2021,Wind,28.098,13.508,0.376
+China,Ningxia,2021,Coal,156.213,75.098,151.265
+China,Ningxia,2021,Gas,2.536,1.219,1.199
+China,Ningxia,2021,Clean,48.564,23.347,1.336
+China,Ningxia,2021,Fossil,159.447,76.653,152.952
+China,Ningxia,2021,Total generation,208.011,100.0,154.288
+China,Ningxia,2022,Solar,22.048,9.962,1.058
+China,Ningxia,2022,Wind,27.473,12.413,0.368
+China,Ningxia,2022,Coal,166.091,75.045,160.597
+China,Ningxia,2022,Gas,2.685,1.213,1.269
+China,Ningxia,2022,Clean,51.593,23.311,1.525
+China,Ningxia,2022,Fossil,169.728,76.688,162.532
+China,Ningxia,2022,Total generation,221.321,100.0,164.058
+China,Ningxia,2023,Solar,28.198,12.199,1.354
+China,Ningxia,2023,Wind,29.289,12.671,0.393
+China,Ningxia,2023,Coal,168.3,72.812,162.418
+China,Ningxia,2023,Gas,2.521,1.091,1.191
+China,Ningxia,2023,Clean,59.492,25.738,1.857
+China,Ningxia,2023,Fossil,171.652,74.262,164.191
+China,Ningxia,2023,Total generation,231.144,100.0,166.048
+China,Ningxia,2024,Solar,33.932,14.342,1.629
+China,Ningxia,2024,Wind,27.347,11.559,0.365
+China,Ningxia,2024,Coal,169.72,71.737,163.501
+China,Ningxia,2024,Gas,2.51,1.061,1.186
+China,Ningxia,2024,Clean,63.583,26.875,2.112
+China,Ningxia,2024,Fossil,173.003,73.125,165.229
+China,Ningxia,2024,Total generation,236.586,100.0,167.341
+China,Ningxia,2025,Solar,43.944,17.588,2.109
+China,Ningxia,2025,Wind,30.095,12.045,0.401
+China,Ningxia,2025,Coal,170.458,68.225,163.83
+China,Ningxia,2025,Gas,2.416,0.967,1.142
+China,Ningxia,2025,Clean,76.179,30.49,2.634
+China,Ningxia,2025,Fossil,173.667,69.51,165.527
+China,Ningxia,2025,Total generation,249.846,100.0,168.161
+China,Qinghai,2011,Wind,0.003,0.006,0.0
+China,Qinghai,2011,Coal,12.2,24.947,12.138
+China,Qinghai,2011,Gas,0.0,0.0,0.0
+China,Qinghai,2011,Clean,36.703,75.053,0.881
+China,Qinghai,2011,Fossil,12.2,24.947,12.138
+China,Qinghai,2011,Total generation,48.903,100.0,13.019
+China,Qinghai,2012,Solar,1.5,2.529,0.072
+China,Qinghai,2012,Wind,0.02,0.034,0.0
+China,Qinghai,2012,Coal,12.0,20.229,11.901
+China,Qinghai,2012,Gas,0.0,0.0,0.0
+China,Qinghai,2012,Clean,47.32,79.771,1.171
+China,Qinghai,2012,Fossil,12.0,20.229,11.901
+China,Qinghai,2012,Total generation,59.32,100.0,13.072
+China,Qinghai,2013,Solar,2.8,4.731,0.134
+China,Qinghai,2013,Wind,0.08,0.135,0.001
+China,Qinghai,2013,Coal,13.6,22.981,13.455
+China,Qinghai,2013,Gas,0.0,0.0,0.0
+China,Qinghai,2013,Clean,45.58,77.019,1.16
+China,Qinghai,2013,Fossil,13.6,22.981,13.455
+China,Qinghai,2013,Total generation,59.18,100.0,14.615
+China,Qinghai,2014,Solar,5.82,9.762,0.279
+China,Qinghai,2014,Wind,0.4,0.671,0.005
+China,Qinghai,2014,Coal,13.1,21.972,12.929
+China,Qinghai,2014,Gas,0.0,0.0,0.0
+China,Qinghai,2014,Clean,46.52,78.028,1.252
+China,Qinghai,2014,Fossil,13.1,21.972,12.929
+China,Qinghai,2014,Total generation,59.62,100.0,14.181
+China,Qinghai,2015,Solar,7.55,13.165,0.362
+China,Qinghai,2015,Wind,0.7,1.221,0.009
+China,Qinghai,2015,Coal,12.0,20.924,11.807
+China,Qinghai,2015,Gas,0.0,0.0,0.0
+China,Qinghai,2015,Clean,45.35,79.076,1.262
+China,Qinghai,2015,Fossil,12.0,20.924,11.807
+China,Qinghai,2015,Total generation,57.35,100.0,13.069
+China,Qinghai,2016,Solar,8.964,17.007,0.43
+China,Qinghai,2016,Wind,0.984,1.867,0.013
+China,Qinghai,2016,Coal,14.821,28.12,14.535
+China,Qinghai,2016,Gas,0.0,0.0,0.0
+China,Qinghai,2016,Clean,37.885,71.879,1.113
+China,Qinghai,2016,Fossil,14.821,28.12,14.535
+China,Qinghai,2016,Total generation,52.706,99.999,15.648
+China,Qinghai,2017,Solar,11.305,19.365,0.543
+China,Qinghai,2017,Wind,1.793,3.071,0.023
+China,Qinghai,2017,Coal,16.134,27.637,15.778
+China,Qinghai,2017,Gas,0.0,0.0,0.0
+China,Qinghai,2017,Clean,42.245,72.363,1.265
+China,Qinghai,2017,Fossil,16.134,27.637,15.778
+China,Qinghai,2017,Total generation,58.379,100.0,17.043
+China,Qinghai,2018,Solar,13.068,16.859,0.627
+China,Qinghai,2018,Wind,3.789,4.888,0.049
+China,Qinghai,2018,Coal,12.324,15.899,12.022
+China,Qinghai,2018,Gas,0.0,0.0,0.0
+China,Qinghai,2018,Clean,65.189,84.101,1.836
+China,Qinghai,2018,Fossil,12.324,15.899,12.022
+China,Qinghai,2018,Total generation,77.512,100.0,13.858
+China,Qinghai,2019,Solar,15.776,18.376,0.757
+China,Qinghai,2019,Wind,6.588,7.674,0.085
+China,Qinghai,2019,Coal,10.68,12.44,10.39
+China,Qinghai,2019,Gas,0.0,0.0,0.0
+China,Qinghai,2019,Clean,75.172,87.56,2.11
+China,Qinghai,2019,Fossil,10.68,12.44,10.39
+China,Qinghai,2019,Total generation,85.852,100.0,12.5
+China,Qinghai,2020,Solar,16.665,18.009,0.8
+China,Qinghai,2020,Wind,8.194,8.855,0.106
+China,Qinghai,2020,Coal,10.44,11.282,10.129
+China,Qinghai,2020,Gas,0.0,0.0,0.0
+China,Qinghai,2020,Clean,82.095,88.718,2.28
+China,Qinghai,2020,Fossil,10.44,11.282,10.129
+China,Qinghai,2020,Total generation,92.535,100.0,12.409
+China,Qinghai,2021,Solar,21.064,21.775,1.011
+China,Qinghai,2021,Wind,12.999,13.438,0.174
+China,Qinghai,2021,Coal,14.978,15.483,14.504
+China,Qinghai,2021,Gas,0.0,0.0,0.0
+China,Qinghai,2021,Clean,81.757,84.516,2.33
+China,Qinghai,2021,Fossil,14.978,15.483,14.504
+China,Qinghai,2021,Total generation,96.735,100.0,16.833
+China,Qinghai,2022,Solar,25.539,26.191,1.226
+China,Qinghai,2022,Wind,15.583,15.981,0.209
+China,Qinghai,2022,Coal,15.975,16.383,15.447
+China,Qinghai,2022,Gas,0.0,0.0,0.0
+China,Qinghai,2022,Clean,81.535,83.617,2.405
+China,Qinghai,2022,Fossil,15.975,16.383,15.447
+China,Qinghai,2022,Total generation,97.51,100.0,17.852
+China,Qinghai,2023,Solar,28.952,29.259,1.39
+China,Qinghai,2023,Wind,16.035,16.205,0.215
+China,Qinghai,2023,Coal,16.104,16.275,15.541
+China,Qinghai,2023,Gas,0.0,0.0,0.0
+China,Qinghai,2023,Clean,82.846,83.725,2.539
+China,Qinghai,2023,Fossil,16.104,16.275,15.541
+China,Qinghai,2023,Total generation,98.951,100.0,18.08
+China,Qinghai,2024,Solar,34.992,31.035,1.68
+China,Qinghai,2024,Wind,16.127,14.303,0.215
+China,Qinghai,2024,Coal,13.062,11.585,12.583
+China,Qinghai,2024,Gas,0.0,0.0,0.0
+China,Qinghai,2024,Clean,99.687,88.415,3.107
+China,Qinghai,2024,Fossil,13.062,11.585,12.583
+China,Qinghai,2024,Total generation,112.749,100.0,15.69
+China,Qinghai,2025,Solar,40.686,34.003,1.953
+China,Qinghai,2025,Wind,19.439,16.246,0.259
+China,Qinghai,2025,Coal,13.98,11.684,13.436
+China,Qinghai,2025,Gas,0.0,0.0,0.0
+China,Qinghai,2025,Clean,105.675,88.316,3.355
+China,Qinghai,2025,Fossil,13.98,11.684,13.436
+China,Qinghai,2025,Total generation,119.655,100.0,16.792
+China,Shaanxi,2011,Wind,0.1,0.085,0.001
+China,Shaanxi,2011,Coal,108.4,91.942,107.849
+China,Shaanxi,2011,Gas,0.0,0.0,0.0
+China,Shaanxi,2011,Clean,9.5,8.058,0.227
+China,Shaanxi,2011,Fossil,108.4,91.942,107.849
+China,Shaanxi,2011,Total generation,117.9,100.0,108.076
+China,Shaanxi,2012,Solar,0.03,0.024,0.001
+China,Shaanxi,2012,Wind,0.26,0.211,0.003
+China,Shaanxi,2012,Coal,114.9,93.195,113.95
+China,Shaanxi,2012,Gas,0.0,0.0,0.0
+China,Shaanxi,2012,Clean,8.39,6.805,0.199
+China,Shaanxi,2012,Fossil,114.9,93.195,113.95
+China,Shaanxi,2012,Total generation,123.29,100.0,114.149
+China,Shaanxi,2013,Solar,0.08,0.064,0.004
+China,Shaanxi,2013,Wind,0.68,0.543,0.009
+China,Shaanxi,2013,Coal,117.4,93.725,116.15
+China,Shaanxi,2013,Gas,0.0,0.0,0.0
+China,Shaanxi,2013,Clean,7.86,6.275,0.183
+China,Shaanxi,2013,Fossil,117.4,93.725,116.15
+China,Shaanxi,2013,Total generation,125.26,100.0,116.333
+China,Shaanxi,2014,Solar,0.09,0.068,0.004
+China,Shaanxi,2014,Wind,1.3,0.981,0.017
+China,Shaanxi,2014,Coal,124.0,93.592,122.386
+China,Shaanxi,2014,Gas,0.0,0.0,0.0
+China,Shaanxi,2014,Clean,8.49,6.408,0.191
+China,Shaanxi,2014,Fossil,124.0,93.592,122.386
+China,Shaanxi,2014,Total generation,132.49,100.0,122.577
+China,Shaanxi,2015,Solar,0.56,0.424,0.027
+China,Shaanxi,2015,Wind,1.8,1.362,0.023
+China,Shaanxi,2015,Coal,121.5,91.934,119.549
+China,Shaanxi,2015,Gas,0.0,0.0,0.0
+China,Shaanxi,2015,Clean,10.66,8.066,0.249
+China,Shaanxi,2015,Fossil,121.5,91.934,119.549
+China,Shaanxi,2015,Total generation,132.16,100.0,119.798
+China,Shaanxi,2016,Solar,2.16,1.261,0.104
+China,Shaanxi,2016,Wind,3.705,2.164,0.047
+China,Shaanxi,2016,Coal,155.258,90.673,152.258
+China,Shaanxi,2016,Gas,0.0,0.0,0.0
+China,Shaanxi,2016,Clean,15.97,9.327,0.394
+China,Shaanxi,2016,Fossil,155.258,90.673,152.258
+China,Shaanxi,2016,Total generation,171.228,100.0,152.652
+China,Shaanxi,2017,Solar,4.121,2.29,0.198
+China,Shaanxi,2017,Wind,5.121,2.846,0.066
+China,Shaanxi,2017,Coal,158.849,88.267,155.346
+China,Shaanxi,2017,Gas,0.0,0.0,0.0
+China,Shaanxi,2017,Clean,21.115,11.733,0.568
+China,Shaanxi,2017,Fossil,158.849,88.267,155.346
+China,Shaanxi,2017,Total generation,179.964,100.0,155.914
+China,Shaanxi,2018,Solar,7.092,3.778,0.34
+China,Shaanxi,2018,Wind,7.18,3.825,0.093
+China,Shaanxi,2018,Coal,161.177,85.859,157.231
+China,Shaanxi,2018,Gas,0.0,0.0,0.0
+China,Shaanxi,2018,Clean,26.545,14.141,0.781
+China,Shaanxi,2018,Fossil,161.177,85.859,157.231
+China,Shaanxi,2018,Total generation,187.722,100.0,158.012
+China,Shaanxi,2019,Solar,9.393,4.489,0.451
+China,Shaanxi,2019,Wind,8.285,3.959,0.107
+China,Shaanxi,2019,Coal,177.429,84.788,172.611
+China,Shaanxi,2019,Gas,0.0,0.0,0.0
+China,Shaanxi,2019,Clean,31.832,15.212,1.047
+China,Shaanxi,2019,Fossil,177.429,84.788,172.611
+China,Shaanxi,2019,Total generation,209.261,100.0,173.657
+China,Shaanxi,2020,Solar,11.863,5.004,0.569
+China,Shaanxi,2020,Wind,9.494,4.005,0.123
+China,Shaanxi,2020,Coal,202.433,85.396,196.399
+China,Shaanxi,2020,Gas,0.0,0.0,0.0
+China,Shaanxi,2020,Clean,34.62,14.604,1.3
+China,Shaanxi,2020,Fossil,202.433,85.396,196.399
+China,Shaanxi,2020,Total generation,237.053,100.0,197.699
+China,Shaanxi,2021,Solar,14.06,5.206,0.675
+China,Shaanxi,2021,Wind,17.599,6.516,0.235
+China,Shaanxi,2021,Coal,224.562,83.143,217.449
+China,Shaanxi,2021,Gas,0.0,0.0,0.0
+China,Shaanxi,2021,Clean,45.122,16.706,1.568
+China,Shaanxi,2021,Fossil,224.97,83.294,217.735
+China,Shaanxi,2021,Total generation,270.092,100.0,219.303
+China,Shaanxi,2022,Solar,16.857,5.926,0.809
+China,Shaanxi,2022,Wind,19.979,7.024,0.268
+China,Shaanxi,2022,Coal,236.856,83.269,229.021
+China,Shaanxi,2022,Gas,0.0,0.0,0.0
+China,Shaanxi,2022,Clean,46.808,16.456,1.692
+China,Shaanxi,2022,Fossil,237.639,83.544,229.569
+China,Shaanxi,2022,Total generation,284.447,100.0,231.261
+China,Shaanxi,2023,Solar,19.593,6.343,0.94
+China,Shaanxi,2023,Wind,21.914,7.095,0.294
+China,Shaanxi,2023,Coal,254.013,82.237,245.135
+China,Shaanxi,2023,Gas,0.0,0.0,0.0
+China,Shaanxi,2023,Clean,54.317,17.585,1.932
+China,Shaanxi,2023,Fossil,254.563,82.415,245.52
+China,Shaanxi,2023,Total generation,308.88,100.0,247.452
+China,Shaanxi,2024,Solar,27.589,8.25,1.324
+China,Shaanxi,2024,Wind,21.969,6.569,0.293
+China,Shaanxi,2024,Coal,274.635,82.124,264.572
+China,Shaanxi,2024,Gas,0.0,0.0,0.0
+China,Shaanxi,2024,Clean,59.287,17.729,2.261
+China,Shaanxi,2024,Fossil,275.129,82.272,264.918
+China,Shaanxi,2024,Total generation,334.415,100.0,267.178
+China,Shaanxi,2025,Solar,39.008,10.965,1.872
+China,Shaanxi,2025,Wind,26.198,7.364,0.349
+China,Shaanxi,2025,Coal,277.939,78.128,267.131
+China,Shaanxi,2025,Gas,0.0,0.0,0.0
+China,Shaanxi,2025,Clean,77.082,21.668,2.975
+China,Shaanxi,2025,Fossil,278.667,78.332,267.64
+China,Shaanxi,2025,Total generation,355.749,100.0,270.616
+China,Shandong,2011,Wind,4.2,1.324,0.053
+China,Shandong,2011,Coal,309.193,97.473,307.621
+China,Shandong,2011,Gas,0.0,0.0,0.0
+China,Shandong,2011,Clean,8.017,2.527,0.909
+China,Shandong,2011,Fossil,309.193,97.473,307.621
+China,Shandong,2011,Total generation,317.21,100.0,308.529
+China,Shandong,2012,Solar,0.07,0.021,0.003
+China,Shandong,2012,Wind,6.3,1.906,0.08
+China,Shandong,2012,Coal,320.171,96.848,317.524
+China,Shandong,2012,Gas,0.0,0.0,0.0
+China,Shandong,2012,Clean,10.419,3.152,0.99
+China,Shandong,2012,Fossil,320.171,96.848,317.524
+China,Shandong,2012,Total generation,330.59,100.0,318.514
+China,Shandong,2013,Solar,0.1,0.028,0.005
+China,Shandong,2013,Wind,8.9,2.474,0.113
+China,Shandong,2013,Coal,345.898,96.15,342.216
+China,Shandong,2013,Gas,0.0,0.0,0.0
+China,Shandong,2013,Clean,13.852,3.85,1.142
+China,Shandong,2013,Fossil,345.898,96.15,342.216
+China,Shandong,2013,Total generation,359.75,100.0,343.357
+China,Shandong,2014,Solar,0.19,0.051,0.009
+China,Shandong,2014,Wind,10.1,2.704,0.129
+China,Shandong,2014,Coal,357.863,95.803,353.205
+China,Shandong,2014,Gas,0.0,0.0,0.0
+China,Shandong,2014,Clean,15.677,4.197,1.263
+China,Shandong,2014,Fossil,357.863,95.803,353.205
+China,Shandong,2014,Total generation,373.54,100.0,354.468
+China,Shandong,2015,Solar,0.68,0.147,0.033
+China,Shandong,2015,Wind,12.1,2.62,0.154
+China,Shandong,2015,Coal,441.84,95.657,434.745
+China,Shandong,2015,Gas,0.0,0.0,0.0
+China,Shandong,2015,Clean,20.06,4.343,1.713
+China,Shandong,2015,Fossil,441.84,95.657,434.745
+China,Shandong,2015,Total generation,461.9,100.0,436.458
+China,Shandong,2016,Solar,3.111,0.605,0.149
+China,Shandong,2016,Wind,14.457,2.81,0.185
+China,Shandong,2016,Coal,487.515,94.761,478.095
+China,Shandong,2016,Gas,0.0,0.0,0.0
+China,Shandong,2016,Clean,26.954,5.239,2.25
+China,Shandong,2016,Fossil,487.515,94.761,478.095
+China,Shandong,2016,Total generation,514.469,100.0,480.345
+China,Shandong,2017,Solar,7.432,1.397,0.357
+China,Shandong,2017,Wind,16.536,3.109,0.212
+China,Shandong,2017,Coal,497.995,93.638,487.012
+China,Shandong,2017,Gas,0.0,0.0,0.0
+China,Shandong,2017,Clean,33.835,6.362,2.718
+China,Shandong,2017,Fossil,497.995,93.638,487.012
+China,Shandong,2017,Total generation,531.83,100.0,489.729
+China,Shandong,2018,Solar,13.677,2.353,0.656
+China,Shandong,2018,Wind,21.34,3.671,0.275
+China,Shandong,2018,Coal,533.009,91.694,519.961
+China,Shandong,2018,Gas,0.0,0.0,0.0
+China,Shandong,2018,Clean,48.28,8.306,3.312
+China,Shandong,2018,Fossil,533.009,91.694,519.961
+China,Shandong,2018,Total generation,581.289,100.0,523.273
+China,Shandong,2019,Solar,16.68,2.845,0.801
+China,Shandong,2019,Wind,22.458,3.831,0.29
+China,Shandong,2019,Coal,514.344,87.738,500.377
+China,Shandong,2019,Gas,0.0,0.0,0.0
+China,Shandong,2019,Clean,71.885,12.262,3.882
+China,Shandong,2019,Fossil,514.344,87.738,500.377
+China,Shandong,2019,Total generation,586.229,100.0,504.259
+China,Shandong,2020,Solar,20.593,3.602,0.988
+China,Shandong,2020,Wind,25.882,4.527,0.336
+China,Shandong,2020,Coal,492.248,86.104,477.575
+China,Shandong,2020,Gas,0.0,0.0,0.0
+China,Shandong,2020,Clean,78.848,13.792,4.341
+China,Shandong,2020,Fossil,492.844,86.208,477.993
+China,Shandong,2020,Total generation,571.693,100.0,482.334
+China,Shandong,2021,Solar,31.009,5.005,1.488
+China,Shandong,2021,Wind,40.897,6.6,0.547
+China,Shandong,2021,Coal,511.827,82.604,495.616
+China,Shandong,2021,Gas,0.0,0.0,0.0
+China,Shandong,2021,Clean,104.88,16.927,5.002
+China,Shandong,2021,Fossil,514.736,83.073,497.653
+China,Shandong,2021,Total generation,619.617,100.0,502.654
+China,Shandong,2022,Solar,45.76,7.463,2.196
+China,Shandong,2022,Wind,41.454,6.76,0.556
+China,Shandong,2022,Coal,485.39,79.158,469.335
+China,Shandong,2022,Gas,0.0,0.0,0.0
+China,Shandong,2022,Clean,122.186,19.926,5.599
+China,Shandong,2022,Fossil,491.009,80.074,473.268
+China,Shandong,2022,Total generation,613.195,100.0,478.866
+China,Shandong,2023,Solar,62.716,9.737,3.01
+China,Shandong,2023,Wind,52.39,8.134,0.703
+China,Shandong,2023,Coal,488.79,75.886,471.706
+China,Shandong,2023,Gas,0.784,0.122,0.37
+China,Shandong,2023,Clean,149.572,23.222,6.565
+China,Shandong,2023,Fossil,494.536,76.778,475.551
+China,Shandong,2023,Total generation,644.109,100.0,482.116
+China,Shandong,2024,Solar,80.938,12.037,3.885
+China,Shandong,2024,Wind,58.813,8.747,0.784
+China,Shandong,2024,Coal,486.461,72.346,468.637
+China,Shandong,2024,Gas,2.857,0.425,1.35
+China,Shandong,2024,Clean,178.16,26.496,7.648
+China,Shandong,2024,Fossil,494.245,73.504,473.436
+China,Shandong,2024,Total generation,672.405,100.0,481.084
+China,Shandong,2025,Solar,104.518,15.129,5.017
+China,Shandong,2025,Wind,60.612,8.773,0.808
+China,Shandong,2025,Coal,464.507,67.236,446.444
+China,Shandong,2025,Gas,4.178,0.605,1.975
+China,Shandong,2025,Clean,217.121,31.428,9.111
+China,Shandong,2025,Fossil,473.739,68.572,451.956
+China,Shandong,2025,Total generation,690.86,100.0,461.067
+China,Shanghai,2011,Wind,0.4,0.39,0.005
+China,Shanghai,2011,Coal,90.116,87.832,89.658
+China,Shanghai,2011,Gas,11.823,11.523,5.588
+China,Shanghai,2011,Clean,0.661,0.644,0.065
+China,Shanghai,2011,Fossil,101.939,99.356,95.246
+China,Shanghai,2011,Total generation,102.6,100.0,95.311
+China,Shanghai,2012,Solar,0.01,0.01,0.0
+China,Shanghai,2012,Wind,0.63,0.647,0.008
+China,Shanghai,2012,Coal,82.917,85.183,82.232
+China,Shanghai,2012,Gas,13.55,13.92,6.404
+China,Shanghai,2012,Clean,0.872,0.896,0.062
+China,Shanghai,2012,Fossil,96.468,99.104,88.636
+China,Shanghai,2012,Total generation,97.34,100.0,88.698
+China,Shanghai,2013,Solar,0.01,0.01,0.0
+China,Shanghai,2013,Wind,0.77,0.793,0.01
+China,Shanghai,2013,Coal,83.019,85.516,82.136
+China,Shanghai,2013,Gas,12.87,13.257,6.083
+China,Shanghai,2013,Clean,1.19,1.226,0.105
+China,Shanghai,2013,Fossil,95.89,98.774,88.219
+China,Shanghai,2013,Total generation,97.08,100.0,88.324
+China,Shanghai,2014,Solar,0.08,0.099,0.004
+China,Shanghai,2014,Wind,0.7,0.867,0.009
+China,Shanghai,2014,Coal,69.357,85.859,68.454
+China,Shanghai,2014,Gas,10.169,12.589,4.806
+China,Shanghai,2014,Clean,1.254,1.552,0.122
+China,Shanghai,2014,Fossil,79.526,98.448,73.261
+China,Shanghai,2014,Total generation,80.78,100.0,73.382
+China,Shanghai,2015,Solar,0.09,0.11,0.004
+China,Shanghai,2015,Wind,1.0,1.218,0.013
+China,Shanghai,2015,Coal,67.522,82.254,66.438
+China,Shanghai,2015,Gas,12.981,15.813,6.136
+China,Shanghai,2015,Clean,1.586,1.932,0.131
+China,Shanghai,2015,Fossil,80.504,98.068,72.574
+China,Shanghai,2015,Total generation,82.09,100.0,72.705
+China,Shanghai,2016,Solar,0.099,0.121,0.005
+China,Shanghai,2016,Wind,1.377,1.689,0.018
+China,Shanghai,2016,Coal,65.052,79.77,63.795
+China,Shanghai,2016,Gas,14.501,17.782,6.854
+China,Shanghai,2016,Clean,1.996,2.448,0.142
+China,Shanghai,2016,Fossil,79.553,97.552,70.649
+China,Shanghai,2016,Total generation,81.549,100.0,70.791
+China,Shanghai,2017,Solar,0.304,0.358,0.015
+China,Shanghai,2017,Wind,2.039,2.4,0.026
+China,Shanghai,2017,Coal,66.936,78.794,65.46
+China,Shanghai,2017,Gas,15.033,17.696,7.105
+China,Shanghai,2017,Clean,2.981,3.509,0.188
+China,Shanghai,2017,Fossil,81.97,96.492,72.565
+China,Shanghai,2017,Total generation,84.95,100.0,72.753
+China,Shanghai,2018,Solar,0.6,0.719,0.029
+China,Shanghai,2018,Wind,1.795,2.15,0.023
+China,Shanghai,2018,Coal,66.031,79.107,64.415
+China,Shanghai,2018,Gas,14.404,17.256,6.808
+China,Shanghai,2018,Clean,3.035,3.636,0.199
+China,Shanghai,2018,Fossil,80.436,96.365,71.223
+China,Shanghai,2018,Total generation,83.471,100.001,71.422
+China,Shanghai,2019,Solar,0.805,0.994,0.039
+China,Shanghai,2019,Wind,1.697,2.096,0.022
+China,Shanghai,2019,Coal,62.05,76.635,60.365
+China,Shanghai,2019,Gas,15.519,19.167,7.335
+China,Shanghai,2019,Clean,3.399,4.198,0.267
+China,Shanghai,2019,Fossil,77.569,95.802,67.7
+China,Shanghai,2019,Total generation,80.968,100.0,67.967
+China,Shanghai,2020,Solar,0.998,1.197,0.048
+China,Shanghai,2020,Wind,1.899,2.278,0.025
+China,Shanghai,2020,Coal,61.982,74.366,60.135
+China,Shanghai,2020,Gas,17.351,20.818,8.201
+China,Shanghai,2020,Clean,4.014,4.816,0.329
+China,Shanghai,2020,Fossil,79.333,95.184,68.335
+China,Shanghai,2020,Total generation,83.347,100.0,68.665
+China,Shanghai,2021,Solar,1.499,1.542,0.072
+China,Shanghai,2021,Wind,1.8,1.851,0.024
+China,Shanghai,2021,Coal,74.199,76.311,71.849
+China,Shanghai,2021,Gas,18.509,19.036,8.748
+China,Shanghai,2021,Clean,4.525,4.654,0.378
+China,Shanghai,2021,Fossil,92.708,95.346,80.597
+China,Shanghai,2021,Total generation,97.233,100.0,80.975
+China,Shanghai,2022,Solar,1.795,1.945,0.086
+China,Shanghai,2022,Wind,2.498,2.707,0.033
+China,Shanghai,2022,Coal,68.028,73.724,65.778
+China,Shanghai,2022,Gas,18.27,19.8,8.635
+China,Shanghai,2022,Clean,5.44,5.895,0.384
+China,Shanghai,2022,Fossil,86.834,94.105,74.788
+China,Shanghai,2022,Total generation,92.274,100.0,75.171
+China,Shanghai,2023,Solar,2.297,2.353,0.11
+China,Shanghai,2023,Wind,2.391,2.45,0.032
+China,Shanghai,2023,Coal,72.16,73.932,69.638
+China,Shanghai,2023,Gas,18.345,18.796,8.67
+China,Shanghai,2023,Clean,6.314,6.469,0.516
+China,Shanghai,2023,Fossil,91.289,93.531,78.857
+China,Shanghai,2023,Total generation,97.603,100.0,79.374
+China,Shanghai,2024,Solar,3.542,3.39,0.17
+China,Shanghai,2024,Wind,2.536,2.427,0.034
+China,Shanghai,2024,Coal,76.224,72.956,73.431
+China,Shanghai,2024,Gas,19.308,18.48,9.126
+China,Shanghai,2024,Clean,8.187,7.836,0.689
+China,Shanghai,2024,Fossil,96.293,92.164,83.09
+China,Shanghai,2024,Total generation,104.48,100.0,83.779
+China,Shanghai,2025,Solar,7.108,6.761,0.341
+China,Shanghai,2025,Wind,2.649,2.52,0.035
+China,Shanghai,2025,Coal,73.835,70.23,70.964
+China,Shanghai,2025,Gas,18.453,17.552,8.722
+China,Shanghai,2025,Clean,12.088,11.498,0.913
+China,Shanghai,2025,Fossil,93.046,88.502,80.216
+China,Shanghai,2025,Total generation,105.134,100.0,81.128
+China,Shanxi,2011,Wind,1.3,0.555,0.017
+China,Shanxi,2011,Coal,228.084,97.305,226.924
+China,Shanxi,2011,Gas,0.0,0.0,0.0
+China,Shanxi,2011,Clean,5.039,2.15,0.155
+China,Shanxi,2011,Fossil,229.361,97.85,227.818
+China,Shanxi,2011,Total generation,234.4,100.0,227.973
+China,Shanxi,2012,Solar,0.02,0.008,0.001
+China,Shanxi,2012,Wind,3.6,1.421,0.046
+China,Shanxi,2012,Coal,244.066,96.309,242.048
+China,Shanxi,2012,Gas,0.0,0.0,0.0
+China,Shanxi,2012,Clean,8.244,3.253,0.204
+China,Shanxi,2012,Fossil,245.176,96.747,242.826
+China,Shanxi,2012,Total generation,253.42,100.0,243.029
+China,Shanxi,2013,Solar,0.05,0.019,0.002
+China,Shanxi,2013,Wind,5.8,2.209,0.074
+China,Shanxi,2013,Coal,251.377,95.744,248.701
+China,Shanxi,2013,Gas,0.0,0.0,0.0
+China,Shanxi,2013,Clean,10.064,3.833,0.221
+China,Shanxi,2013,Fossil,252.486,96.167,249.478
+China,Shanxi,2013,Total generation,262.55,100.0,249.699
+China,Shanxi,2014,Solar,0.32,0.121,0.015
+China,Shanxi,2014,Wind,7.6,2.875,0.097
+China,Shanxi,2014,Coal,250.872,94.912,247.606
+China,Shanxi,2014,Gas,0.747,0.283,0.353
+China,Shanxi,2014,Clean,11.53,4.362,0.242
+China,Shanxi,2014,Fossil,252.79,95.638,248.779
+China,Shanxi,2014,Total generation,264.32,100.0,249.021
+China,Shanxi,2015,Solar,0.77,0.313,0.037
+China,Shanxi,2015,Wind,10.0,4.069,0.127
+China,Shanxi,2015,Coal,227.799,92.688,224.141
+China,Shanxi,2015,Gas,2.742,1.116,1.296
+China,Shanxi,2015,Clean,14.066,5.723,0.284
+China,Shanxi,2015,Fossil,231.704,94.277,226.251
+China,Shanxi,2015,Total generation,245.77,100.0,226.535
+China,Shanxi,2016,Solar,2.721,1.067,0.131
+China,Shanxi,2016,Wind,13.275,5.206,0.17
+China,Shanxi,2016,Coal,230.176,90.269,225.729
+China,Shanxi,2016,Gas,3.86,1.514,1.824
+China,Shanxi,2016,Clean,19.722,7.734,0.431
+China,Shanxi,2016,Fossil,235.266,92.266,228.414
+China,Shanxi,2016,Total generation,254.988,100.0,228.846
+China,Shanxi,2017,Solar,5.667,1.998,0.272
+China,Shanxi,2017,Wind,16.436,5.795,0.211
+China,Shanxi,2017,Coal,251.845,88.8,246.291
+China,Shanxi,2017,Gas,4.202,1.482,1.986
+China,Shanxi,2017,Clean,26.209,9.241,0.627
+China,Shanxi,2017,Fossil,257.4,90.759,249.224
+China,Shanxi,2017,Total generation,283.61,100.0,249.851
+China,Shanxi,2018,Solar,9.424,2.976,0.452
+China,Shanxi,2018,Wind,21.144,6.677,0.273
+China,Shanxi,2018,Coal,275.029,86.852,268.296
+China,Shanxi,2018,Gas,4.187,1.322,1.979
+China,Shanxi,2018,Clean,35.563,11.231,0.89
+China,Shanxi,2018,Fossil,281.1,88.769,271.594
+China,Shanxi,2018,Total generation,316.663,100.0,272.483
+China,Shanxi,2019,Solar,12.767,3.807,0.613
+China,Shanxi,2019,Wind,22.358,6.668,0.289
+China,Shanxi,2019,Coal,288.411,86.01,280.579
+China,Shanxi,2019,Gas,4.501,1.342,2.127
+China,Shanxi,2019,Clean,40.079,11.952,1.08
+China,Shanxi,2019,Fossil,295.242,88.048,284.337
+China,Shanxi,2019,Total generation,335.321,100.0,285.417
+China,Shanxi,2020,Solar,15.879,4.555,0.762
+China,Shanxi,2020,Wind,26.581,7.625,0.345
+China,Shanxi,2020,Coal,292.775,83.984,284.048
+China,Shanxi,2020,Gas,4.939,1.417,2.334
+China,Shanxi,2020,Clean,47.538,13.637,1.364
+China,Shanxi,2020,Fossil,301.069,86.363,288.731
+China,Shanxi,2020,Total generation,348.607,100.0,290.095
+China,Shanxi,2021,Solar,18.884,4.788,0.906
+China,Shanxi,2021,Wind,46.897,11.889,0.627
+China,Shanxi,2021,Coal,315.031,79.868,305.053
+China,Shanxi,2021,Gas,4.391,1.113,2.075
+China,Shanxi,2021,Clean,70.286,17.819,1.854
+China,Shanxi,2021,Fossil,324.155,82.181,310.442
+China,Shanxi,2021,Total generation,394.442,100.0,312.296
+China,Shanxi,2022,Solar,21.81,5.091,1.047
+China,Shanxi,2022,Wind,46.549,10.865,0.624
+China,Shanxi,2022,Coal,344.256,80.352,332.868
+China,Shanxi,2022,Gas,4.553,1.063,2.152
+China,Shanxi,2022,Clean,72.812,16.995,2.034
+China,Shanxi,2022,Fossil,355.625,83.005,339.792
+China,Shanxi,2022,Total generation,428.437,100.0,341.825
+China,Shanxi,2023,Solar,27.518,6.039,1.321
+China,Shanxi,2023,Wind,53.969,11.844,0.724
+China,Shanxi,2023,Coal,359.106,78.811,346.555
+China,Shanxi,2023,Gas,4.29,0.941,2.028
+China,Shanxi,2023,Clean,86.274,18.934,2.441
+China,Shanxi,2023,Fossil,369.383,81.066,352.773
+China,Shanxi,2023,Total generation,455.657,100.0,355.214
+China,Shanxi,2024,Solar,37.546,8.138,1.802
+China,Shanxi,2024,Wind,52.134,11.3,0.695
+China,Shanxi,2024,Coal,355.437,77.039,342.413
+China,Shanxi,2024,Gas,4.151,0.9,1.962
+China,Shanxi,2024,Clean,95.621,20.725,2.939
+China,Shanxi,2024,Fossil,365.753,79.275,348.691
+China,Shanxi,2024,Total generation,461.374,100.0,351.63
+China,Shanxi,2025,Solar,51.364,10.864,2.465
+China,Shanxi,2025,Wind,61.23,12.951,0.816
+China,Shanxi,2025,Coal,343.57,72.667,330.209
+China,Shanxi,2025,Gas,3.824,0.809,1.807
+China,Shanxi,2025,Clean,118.703,25.107,3.754
+China,Shanxi,2025,Fossil,354.095,74.894,336.708
+China,Shanxi,2025,Total generation,472.798,100.0,340.462
+China,Sichuan,2011,Wind,0.02,0.011,0.0
+China,Sichuan,2011,Coal,59.211,31.882,58.91
+China,Sichuan,2011,Gas,0.0,0.0,0.0
+China,Sichuan,2011,Clean,126.509,68.118,3.116
+China,Sichuan,2011,Fossil,59.211,31.882,58.91
+China,Sichuan,2011,Total generation,185.72,100.0,62.026
+China,Sichuan,2012,Wind,0.04,0.019,0.001
+China,Sichuan,2012,Coal,57.877,27.18,57.399
+China,Sichuan,2012,Gas,0.0,0.0,0.0
+China,Sichuan,2012,Clean,155.063,72.82,3.829
+China,Sichuan,2012,Fossil,57.877,27.18,57.399
+China,Sichuan,2012,Total generation,212.94,100.0,61.228
+China,Sichuan,2013,Solar,0.001,0.0,0.0
+China,Sichuan,2013,Wind,0.08,0.031,0.001
+China,Sichuan,2013,Coal,58.724,22.441,58.098
+China,Sichuan,2013,Gas,0.0,0.0,0.0
+China,Sichuan,2013,Clean,202.957,77.559,4.989
+China,Sichuan,2013,Fossil,58.724,22.441,58.098
+China,Sichuan,2013,Total generation,261.681,100.0,63.087
+China,Sichuan,2014,Solar,0.05,0.016,0.002
+China,Sichuan,2014,Wind,0.4,0.128,0.005
+China,Sichuan,2014,Coal,54.139,17.3,53.434
+China,Sichuan,2014,Gas,0.0,0.0,0.0
+China,Sichuan,2014,Clean,258.811,82.7,6.324
+China,Sichuan,2014,Fossil,54.139,17.3,53.434
+China,Sichuan,2014,Total generation,312.95,100.0,59.758
+China,Sichuan,2015,Solar,0.22,0.069,0.011
+China,Sichuan,2015,Wind,1.0,0.312,0.013
+China,Sichuan,2015,Coal,41.609,12.97,40.941
+China,Sichuan,2015,Gas,0.685,0.214,0.324
+China,Sichuan,2015,Clean,278.526,86.817,6.803
+China,Sichuan,2015,Fossil,42.294,13.183,41.265
+China,Sichuan,2015,Total generation,320.82,100.0,48.068
+China,Sichuan,2016,Solar,1.098,0.346,0.053
+China,Sichuan,2016,Wind,2.188,0.69,0.028
+China,Sichuan,2016,Coal,38.128,12.029,37.392
+China,Sichuan,2016,Gas,1.19,0.375,0.563
+China,Sichuan,2016,Clean,277.661,87.596,6.839
+China,Sichuan,2016,Fossil,39.319,12.404,37.954
+China,Sichuan,2016,Total generation,316.98,100.0,44.794
+China,Sichuan,2017,Solar,1.601,0.486,0.077
+China,Sichuan,2017,Wind,3.894,1.183,0.05
+China,Sichuan,2017,Coal,35.157,10.68,34.381
+China,Sichuan,2017,Gas,1.082,0.329,0.512
+China,Sichuan,2017,Clean,292.932,88.991,7.223
+China,Sichuan,2017,Fossil,36.239,11.009,34.893
+China,Sichuan,2017,Total generation,329.171,100.0,42.116
+China,Sichuan,2018,Solar,2.197,0.626,0.105
+China,Sichuan,2018,Wind,5.486,1.563,0.071
+China,Sichuan,2018,Coal,43.229,12.319,42.171
+China,Sichuan,2018,Gas,1.264,0.36,0.597
+China,Sichuan,2018,Clean,306.415,87.321,7.609
+China,Sichuan,2018,Fossil,44.493,12.679,42.768
+China,Sichuan,2018,Total generation,350.908,100.0,50.377
+China,Sichuan,2019,Solar,2.792,0.751,0.134
+China,Sichuan,2019,Wind,7.355,1.978,0.095
+China,Sichuan,2019,Coal,47.407,12.751,46.12
+China,Sichuan,2019,Gas,1.467,0.395,0.693
+China,Sichuan,2019,Clean,322.905,86.854,8.115
+China,Sichuan,2019,Fossil,48.875,13.146,46.813
+China,Sichuan,2019,Total generation,371.779,100.0,54.928
+China,Sichuan,2020,Solar,2.695,0.671,0.129
+China,Sichuan,2020,Wind,8.706,2.168,0.113
+China,Sichuan,2020,Coal,48.726,12.132,47.274
+China,Sichuan,2020,Gas,1.617,0.403,0.764
+China,Sichuan,2020,Clean,351.29,87.465,8.907
+China,Sichuan,2020,Fossil,50.343,12.535,48.038
+China,Sichuan,2020,Total generation,401.633,100.0,56.945
+China,Sichuan,2021,Solar,2.999,0.704,0.144
+China,Sichuan,2021,Wind,10.899,2.558,0.146
+China,Sichuan,2021,Coal,61.72,14.486,59.765
+China,Sichuan,2021,Gas,1.651,0.388,0.78
+China,Sichuan,2021,Clean,362.693,85.126,9.266
+China,Sichuan,2021,Fossil,63.37,14.873,60.545
+China,Sichuan,2021,Total generation,426.064,100.0,69.811
+China,Sichuan,2022,Solar,2.998,0.641,0.144
+China,Sichuan,2022,Wind,13.49,2.886,0.181
+China,Sichuan,2022,Coal,74.845,16.013,72.37
+China,Sichuan,2022,Gas,1.854,0.397,0.876
+China,Sichuan,2022,Clean,390.286,83.501,10.031
+China,Sichuan,2022,Fossil,77.119,16.499,73.54
+China,Sichuan,2022,Total generation,467.405,100.0,83.571
+China,Sichuan,2023,Solar,5.201,1.094,0.25
+China,Sichuan,2023,Wind,17.001,3.575,0.228
+China,Sichuan,2023,Coal,85.211,17.92,82.233
+China,Sichuan,2023,Gas,1.963,0.413,0.928
+China,Sichuan,2023,Clean,387.637,81.519,10.124
+China,Sichuan,2023,Fossil,87.88,18.481,83.655
+China,Sichuan,2023,Total generation,475.518,100.0,93.779
+China,Sichuan,2024,Solar,9.563,1.883,0.459
+China,Sichuan,2024,Wind,19.168,3.774,0.256
+China,Sichuan,2024,Coal,85.761,16.883,82.618
+China,Sichuan,2024,Gas,6.269,1.234,2.963
+China,Sichuan,2024,Clean,414.725,81.646,10.864
+China,Sichuan,2024,Fossil,93.234,18.355,86.424
+China,Sichuan,2024,Total generation,507.958,100.0,97.288
+China,Sichuan,2025,Solar,17.746,3.457,0.852
+China,Sichuan,2025,Wind,17.969,3.5,0.24
+China,Sichuan,2025,Coal,75.468,14.7,72.534
+China,Sichuan,2025,Gas,13.35,2.6,6.31
+China,Sichuan,2025,Clean,423.051,82.405,11.281
+China,Sichuan,2025,Fossil,90.331,17.595,79.902
+China,Sichuan,2025,Total generation,513.382,100.0,91.183
+China,Tianjin,2011,Wind,0.14,0.228,0.002
+China,Tianjin,2011,Coal,60.876,99.221,60.566
+China,Tianjin,2011,Gas,0.171,0.279,0.081
+China,Tianjin,2011,Clean,0.307,0.5,0.037
+China,Tianjin,2011,Fossil,61.047,99.5,60.647
+China,Tianjin,2011,Total generation,61.354,100.0,60.685
+China,Tianjin,2012,Wind,0.47,0.801,0.006
+China,Tianjin,2012,Coal,57.892,98.64,57.414
+China,Tianjin,2012,Gas,0.168,0.286,0.079
+China,Tianjin,2012,Clean,0.63,1.073,0.039
+China,Tianjin,2012,Fossil,58.06,98.927,57.493
+China,Tianjin,2012,Total generation,58.69,100.0,57.532
+China,Tianjin,2013,Solar,0.002,0.003,0.0
+China,Tianjin,2013,Wind,0.56,0.938,0.007
+China,Tianjin,2013,Coal,58.808,98.536,58.182
+China,Tianjin,2013,Gas,0.154,0.258,0.073
+China,Tianjin,2013,Clean,0.72,1.206,0.04
+China,Tianjin,2013,Fossil,58.962,98.794,58.255
+China,Tianjin,2013,Total generation,59.682,100.0,58.294
+China,Tianjin,2014,Solar,0.03,0.049,0.001
+China,Tianjin,2014,Wind,0.6,0.981,0.008
+China,Tianjin,2014,Coal,57.873,94.641,57.12
+China,Tianjin,2014,Gas,2.494,4.078,1.179
+China,Tianjin,2014,Clean,0.783,1.28,0.04
+China,Tianjin,2014,Fossil,60.367,98.72,58.299
+China,Tianjin,2014,Total generation,61.15,100.0,58.339
+China,Tianjin,2015,Solar,0.06,0.1,0.003
+China,Tianjin,2015,Wind,0.6,0.999,0.008
+China,Tianjin,2015,Coal,53.822,89.584,52.958
+China,Tianjin,2015,Gas,5.444,9.061,2.573
+China,Tianjin,2015,Clean,0.814,1.355,0.042
+China,Tianjin,2015,Fossil,59.266,98.645,55.531
+China,Tianjin,2015,Total generation,60.08,100.0,55.573
+China,Tianjin,2016,Solar,0.298,0.485,0.014
+China,Tianjin,2016,Wind,0.59,0.959,0.008
+China,Tianjin,2016,Coal,52.689,85.672,51.671
+China,Tianjin,2016,Gas,7.738,12.582,3.657
+China,Tianjin,2016,Clean,1.074,1.746,0.065
+China,Tianjin,2016,Fossil,60.427,98.254,55.328
+China,Tianjin,2016,Total generation,61.501,100.0,55.393
+China,Tianjin,2017,Solar,0.606,0.972,0.029
+China,Tianjin,2017,Wind,0.598,0.959,0.008
+China,Tianjin,2017,Coal,51.684,82.901,50.544
+China,Tianjin,2017,Gas,9.129,14.643,4.315
+China,Tianjin,2017,Clean,1.531,2.456,0.112
+China,Tianjin,2017,Fossil,60.813,97.544,54.859
+China,Tianjin,2017,Total generation,62.344,100.0,54.971
+China,Tianjin,2018,Solar,0.802,1.121,0.038
+China,Tianjin,2018,Wind,0.798,1.116,0.01
+China,Tianjin,2018,Coal,60.233,84.216,58.759
+China,Tianjin,2018,Gas,9.257,12.943,4.375
+China,Tianjin,2018,Clean,2.032,2.841,0.148
+China,Tianjin,2018,Fossil,69.49,97.159,63.134
+China,Tianjin,2018,Total generation,71.522,100.0,63.282
+China,Tianjin,2019,Solar,1.49,2.023,0.072
+China,Tianjin,2019,Wind,1.098,1.491,0.014
+China,Tianjin,2019,Coal,60.299,81.879,58.662
+China,Tianjin,2019,Gas,9.979,13.55,4.716
+China,Tianjin,2019,Clean,3.04,4.128,0.19
+China,Tianjin,2019,Fossil,70.604,95.872,63.606
+China,Tianjin,2019,Total generation,73.644,100.0,63.796
+China,Tianjin,2020,Solar,1.892,2.449,0.091
+China,Tianjin,2020,Wind,1.199,1.552,0.016
+China,Tianjin,2020,Coal,61.053,79.032,59.233
+China,Tianjin,2020,Gas,11.577,14.986,5.472
+China,Tianjin,2020,Clean,4.001,5.179,0.316
+China,Tianjin,2020,Fossil,73.25,94.821,65.139
+China,Tianjin,2020,Total generation,77.251,100.0,65.455
+China,Tianjin,2021,Solar,1.997,2.511,0.096
+China,Tianjin,2021,Wind,1.8,2.263,0.024
+China,Tianjin,2021,Coal,62.962,79.152,60.968
+China,Tianjin,2021,Gas,10.934,13.746,5.168
+China,Tianjin,2021,Clean,5.074,6.379,0.414
+China,Tianjin,2021,Fossil,74.471,93.621,66.538
+China,Tianjin,2021,Total generation,79.545,99.999,66.952
+China,Tianjin,2022,Solar,2.396,3.111,0.115
+China,Tianjin,2022,Wind,2.597,3.372,0.035
+China,Tianjin,2022,Coal,58.741,76.269,56.798
+China,Tianjin,2022,Gas,10.912,14.168,5.157
+China,Tianjin,2022,Clean,6.244,8.107,0.438
+China,Tianjin,2022,Fossil,70.774,91.892,62.74
+China,Tianjin,2022,Total generation,77.019,100.0,63.178
+China,Tianjin,2023,Solar,3.909,4.67,0.188
+China,Tianjin,2023,Wind,3.187,3.807,0.043
+China,Tianjin,2023,Coal,63.161,75.453,60.954
+China,Tianjin,2023,Gas,10.889,13.008,5.146
+China,Tianjin,2023,Clean,8.374,10.004,0.524
+China,Tianjin,2023,Fossil,75.335,89.997,66.999
+China,Tianjin,2023,Total generation,83.709,100.001,67.524
+China,Tianjin,2024,Solar,8.329,9.465,0.4
+China,Tianjin,2024,Wind,3.297,3.747,0.044
+China,Tianjin,2024,Coal,63.164,71.779,60.85
+China,Tianjin,2024,Gas,10.755,12.222,5.083
+China,Tianjin,2024,Clean,12.902,14.662,0.737
+China,Tianjin,2024,Fossil,75.096,85.338,66.757
+China,Tianjin,2024,Total generation,87.998,100.0,67.494
+China,Tianjin,2025,Solar,11.831,13.853,0.568
+China,Tianjin,2025,Wind,5.217,6.109,0.07
+China,Tianjin,2025,Coal,56.745,66.443,54.538
+China,Tianjin,2025,Gas,9.237,10.816,4.366
+China,Tianjin,2025,Clean,18.346,21.481,0.936
+China,Tianjin,2025,Fossil,67.058,78.518,59.657
+China,Tianjin,2025,Total generation,85.404,100.0,60.593
+China,Tibet (Xizang),2011,Coal,0.0,0.0,0.0
+China,Tibet (Xizang),2011,Gas,0.464,21.442,0.219
+China,Tibet (Xizang),2011,Clean,1.7,78.558,0.041
+China,Tibet (Xizang),2011,Fossil,0.464,21.442,0.219
+China,Tibet (Xizang),2011,Total generation,2.164,100.0,0.26
+China,Tibet (Xizang),2012,Solar,0.08,3.846,0.004
+China,Tibet (Xizang),2012,Coal,0.0,0.0,0.0
+China,Tibet (Xizang),2012,Gas,0.5,24.038,0.236
+China,Tibet (Xizang),2012,Clean,1.58,75.962,0.04
+China,Tibet (Xizang),2012,Fossil,0.5,24.038,0.236
+China,Tibet (Xizang),2012,Total generation,2.08,100.0,0.276
+China,Tibet (Xizang),2013,Solar,0.14,6.542,0.007
+China,Tibet (Xizang),2013,Coal,0.0,0.0,0.0
+China,Tibet (Xizang),2013,Gas,0.6,28.037,0.284
+China,Tibet (Xizang),2013,Clean,1.54,71.963,0.04
+China,Tibet (Xizang),2013,Fossil,0.6,28.037,0.284
+China,Tibet (Xizang),2013,Total generation,2.14,100.0,0.324
+China,Tibet (Xizang),2014,Solar,0.18,7.229,0.009
+China,Tibet (Xizang),2014,Wind,0.01,0.402,0.0
+China,Tibet (Xizang),2014,Coal,0.0,0.0,0.0
+China,Tibet (Xizang),2014,Gas,0.3,12.048,0.142
+China,Tibet (Xizang),2014,Clean,2.19,87.952,0.057
+China,Tibet (Xizang),2014,Fossil,0.3,12.048,0.142
+China,Tibet (Xizang),2014,Total generation,2.49,100.0,0.199
+China,Tibet (Xizang),2015,Solar,0.24,6.518,0.012
+China,Tibet (Xizang),2015,Wind,0.013,0.353,0.0
+China,Tibet (Xizang),2015,Coal,0.0,0.0,0.0
+China,Tibet (Xizang),2015,Gas,0.029,0.788,0.014
+China,Tibet (Xizang),2015,Clean,3.653,99.212,0.093
+China,Tibet (Xizang),2015,Fossil,0.029,0.788,0.014
+China,Tibet (Xizang),2015,Total generation,3.682,100.0,0.107
+China,Tibet (Xizang),2016,Solar,0.402,8.526,0.019
+China,Tibet (Xizang),2016,Wind,0.01,0.212,0.0
+China,Tibet (Xizang),2016,Coal,0.0,0.0,0.0
+China,Tibet (Xizang),2016,Gas,0.135,2.863,0.064
+China,Tibet (Xizang),2016,Clean,4.58,97.139,0.119
+China,Tibet (Xizang),2016,Fossil,0.135,2.863,0.064
+China,Tibet (Xizang),2016,Total generation,4.715,100.002,0.183
+China,Tibet (Xizang),2017,Solar,0.611,10.997,0.029
+China,Tibet (Xizang),2017,Wind,0.01,0.18,0.0
+China,Tibet (Xizang),2017,Coal,0.0,0.0,0.0
+China,Tibet (Xizang),2017,Gas,0.149,2.682,0.071
+China,Tibet (Xizang),2017,Clean,5.407,97.317,0.144
+China,Tibet (Xizang),2017,Fossil,0.149,2.682,0.071
+China,Tibet (Xizang),2017,Total generation,5.556,99.998,0.215
+China,Tibet (Xizang),2018,Solar,0.8,12.499,0.038
+China,Tibet (Xizang),2018,Wind,0.01,0.156,0.0
+China,Tibet (Xizang),2018,Coal,0.0,0.0,0.0
+China,Tibet (Xizang),2018,Gas,0.146,2.281,0.069
+China,Tibet (Xizang),2018,Clean,6.255,97.728,0.172
+China,Tibet (Xizang),2018,Fossil,0.146,2.281,0.069
+China,Tibet (Xizang),2018,Total generation,6.4,99.993,0.241
+China,Tibet (Xizang),2019,Solar,1.295,16.572,0.062
+China,Tibet (Xizang),2019,Wind,0.016,0.205,0.0
+China,Tibet (Xizang),2019,Coal,0.0,0.0,0.0
+China,Tibet (Xizang),2019,Gas,0.319,4.082,0.151
+China,Tibet (Xizang),2019,Clean,7.495,95.913,0.222
+China,Tibet (Xizang),2019,Fossil,0.319,4.082,0.151
+China,Tibet (Xizang),2019,Total generation,7.814,99.995,0.373
+China,Tibet (Xizang),2020,Solar,1.397,18.227,0.067
+China,Tibet (Xizang),2020,Wind,0.014,0.183,0.0
+China,Tibet (Xizang),2020,Coal,0.0,0.0,0.0
+China,Tibet (Xizang),2020,Gas,0.376,4.906,0.178
+China,Tibet (Xizang),2020,Clean,7.289,95.104,0.22
+China,Tibet (Xizang),2020,Fossil,0.376,4.906,0.178
+China,Tibet (Xizang),2020,Total generation,7.664,99.996,0.398
+China,Tibet (Xizang),2021,Solar,1.7,16.025,0.082
+China,Tibet (Xizang),2021,Wind,0.01,0.094,0.0
+China,Tibet (Xizang),2021,Coal,0.0,0.0,0.0
+China,Tibet (Xizang),2021,Gas,0.294,2.771,0.139
+China,Tibet (Xizang),2021,Clean,10.314,97.225,0.297
+China,Tibet (Xizang),2021,Fossil,0.294,2.771,0.139
+China,Tibet (Xizang),2021,Total generation,10.608,99.996,0.436
+China,Tibet (Xizang),2022,Solar,1.886,13.921,0.091
+China,Tibet (Xizang),2022,Wind,0.1,0.738,0.001
+China,Tibet (Xizang),2022,Coal,0.0,0.0,0.0
+China,Tibet (Xizang),2022,Gas,0.252,1.86,0.119
+China,Tibet (Xizang),2022,Clean,13.296,98.138,0.37
+China,Tibet (Xizang),2022,Fossil,0.252,1.86,0.119
+China,Tibet (Xizang),2022,Total generation,13.548,99.998,0.489
+China,Tibet (Xizang),2023,Solar,2.581,16.047,0.124
+China,Tibet (Xizang),2023,Wind,0.149,0.926,0.002
+China,Tibet (Xizang),2023,Coal,0.0,0.0,0.0
+China,Tibet (Xizang),2023,Gas,0.362,2.251,0.171
+China,Tibet (Xizang),2023,Clean,15.722,97.752,0.448
+China,Tibet (Xizang),2023,Fossil,0.362,2.251,0.171
+China,Tibet (Xizang),2023,Total generation,16.084,100.003,0.619
+China,Tibet (Xizang),2024,Solar,3.189,19.119,0.153
+China,Tibet (Xizang),2024,Wind,0.312,1.871,0.004
+China,Tibet (Xizang),2024,Coal,0.0,0.0,0.0
+China,Tibet (Xizang),2024,Gas,0.291,1.745,0.138
+China,Tibet (Xizang),2024,Clean,16.388,98.253,0.483
+China,Tibet (Xizang),2024,Fossil,0.291,1.745,0.138
+China,Tibet (Xizang),2024,Total generation,16.679,99.998,0.621
+China,Tibet (Xizang),2025,Solar,4.214,22.981,0.202
+China,Tibet (Xizang),2025,Wind,0.596,3.25,0.008
+China,Tibet (Xizang),2025,Coal,0.0,0.0,0.0
+China,Tibet (Xizang),2025,Gas,0.363,1.98,0.171
+China,Tibet (Xizang),2025,Clean,17.974,98.02,0.558
+China,Tibet (Xizang),2025,Fossil,0.363,1.98,0.171
+China,Tibet (Xizang),2025,Total generation,18.337,100.0,0.73
+China,Xinjiang,2011,Wind,2.8,3.2,0.036
+China,Xinjiang,2011,Coal,71.252,81.431,70.889
+China,Xinjiang,2011,Gas,1.248,1.426,0.59
+China,Xinjiang,2011,Clean,15.0,17.143,0.328
+China,Xinjiang,2011,Fossil,72.5,82.857,71.479
+China,Xinjiang,2011,Total generation,87.5,100.0,71.808
+China,Xinjiang,2012,Solar,0.17,0.143,0.008
+China,Xinjiang,2012,Wind,4.9,4.122,0.062
+China,Xinjiang,2012,Coal,98.567,82.92,97.753
+China,Xinjiang,2012,Gas,1.233,1.037,0.583
+China,Xinjiang,2012,Clean,19.07,16.043,0.407
+China,Xinjiang,2012,Fossil,99.8,83.957,98.335
+China,Xinjiang,2012,Total generation,118.87,100.0,98.742
+China,Xinjiang,2013,Solar,0.52,0.322,0.025
+China,Xinjiang,2013,Wind,6.8,4.215,0.087
+China,Xinjiang,2013,Coal,136.442,84.578,134.99
+China,Xinjiang,2013,Gas,1.158,0.718,0.547
+China,Xinjiang,2013,Clean,23.72,14.704,0.505
+China,Xinjiang,2013,Fossil,137.6,85.296,135.537
+China,Xinjiang,2013,Total generation,161.32,100.0,136.042
+China,Xinjiang,2014,Solar,4.36,2.083,0.209
+China,Xinjiang,2014,Wind,13.5,6.448,0.172
+China,Xinjiang,2014,Coal,174.596,83.395,172.323
+China,Xinjiang,2014,Gas,1.004,0.48,0.475
+China,Xinjiang,2014,Clean,33.76,16.125,0.763
+China,Xinjiang,2014,Fossil,175.6,83.875,172.798
+China,Xinjiang,2014,Total generation,209.36,100.0,173.56
+China,Xinjiang,2015,Solar,5.74,2.316,0.276
+China,Xinjiang,2015,Wind,15.1,6.093,0.192
+China,Xinjiang,2015,Coal,205.659,82.981,202.357
+China,Xinjiang,2015,Gas,1.041,0.42,0.492
+China,Xinjiang,2015,Clean,41.14,16.599,0.955
+China,Xinjiang,2015,Fossil,206.7,83.401,202.849
+China,Xinjiang,2015,Total generation,247.84,100.0,203.804
+China,Xinjiang,2016,Solar,6.676,2.47,0.32
+China,Xinjiang,2016,Wind,21.634,8.005,0.276
+China,Xinjiang,2016,Coal,220.44,81.571,216.181
+China,Xinjiang,2016,Gas,0.999,0.37,0.472
+China,Xinjiang,2016,Clean,48.803,18.059,1.089
+China,Xinjiang,2016,Fossil,221.439,81.941,216.653
+China,Xinjiang,2016,Total generation,270.242,100.0,217.742
+China,Xinjiang,2017,Solar,10.728,3.614,0.515
+China,Xinjiang,2017,Wind,31.68,10.673,0.407
+China,Xinjiang,2017,Coal,232.257,78.249,227.134
+China,Xinjiang,2017,Gas,0.93,0.313,0.44
+China,Xinjiang,2017,Clean,63.63,21.437,1.431
+China,Xinjiang,2017,Fossil,233.187,78.563,227.574
+China,Xinjiang,2017,Total generation,296.816,100.0,229.005
+China,Xinjiang,2018,Solar,11.587,3.538,0.556
+China,Xinjiang,2018,Wind,35.697,10.898,0.461
+China,Xinjiang,2018,Coal,256.802,78.402,250.516
+China,Xinjiang,2018,Gas,0.889,0.271,0.42
+China,Xinjiang,2018,Clean,69.853,21.326,1.559
+China,Xinjiang,2018,Fossil,257.691,78.674,250.936
+China,Xinjiang,2018,Total generation,327.544,100.0,252.494
+China,Xinjiang,2019,Solar,13.194,3.633,0.633
+China,Xinjiang,2019,Wind,40.624,11.187,0.525
+China,Xinjiang,2019,Coal,283.306,78.014,275.613
+China,Xinjiang,2019,Gas,0.941,0.259,0.445
+China,Xinjiang,2019,Clean,78.9,21.727,1.786
+China,Xinjiang,2019,Fossil,284.247,78.273,276.058
+China,Xinjiang,2019,Total generation,363.147,100.0,277.844
+China,Xinjiang,2020,Solar,15.707,3.87,0.754
+China,Xinjiang,2020,Wind,43.372,10.687,0.562
+China,Xinjiang,2020,Coal,321.488,79.212,311.905
+China,Xinjiang,2020,Gas,1.037,0.256,0.49
+China,Xinjiang,2020,Clean,82.858,20.416,1.995
+China,Xinjiang,2020,Fossil,322.999,79.585,312.727
+China,Xinjiang,2020,Total generation,405.857,100.0,314.722
+China,Xinjiang,2021,Solar,19.601,4.204,0.941
+China,Xinjiang,2021,Wind,54.797,11.753,0.733
+China,Xinjiang,2021,Coal,364.238,78.124,352.702
+China,Xinjiang,2021,Gas,0.965,0.207,0.456
+China,Xinjiang,2021,Clean,100.07,21.464,2.439
+China,Xinjiang,2021,Fossil,366.16,78.536,353.827
+China,Xinjiang,2021,Total generation,466.229,100.0,356.266
+China,Xinjiang,2022,Solar,19.974,4.218,0.959
+China,Xinjiang,2022,Wind,58.741,12.404,0.787
+China,Xinjiang,2022,Coal,360.833,76.193,348.897
+China,Xinjiang,2022,Gas,0.945,0.2,0.447
+China,Xinjiang,2022,Clean,109.682,23.16,2.628
+China,Xinjiang,2022,Fossil,363.894,76.84,350.825
+China,Xinjiang,2022,Total generation,473.576,100.0,353.453
+China,Xinjiang,2023,Solar,26.219,5.163,1.259
+China,Xinjiang,2023,Wind,64.065,12.615,0.859
+China,Xinjiang,2023,Coal,381.858,75.194,368.512
+China,Xinjiang,2023,Gas,0.904,0.178,0.427
+China,Xinjiang,2023,Clean,122.734,24.168,3.044
+China,Xinjiang,2023,Fossil,385.098,75.832,370.574
+China,Xinjiang,2023,Total generation,507.831,100.0,373.618
+China,Xinjiang,2024,Solar,44.587,8.186,2.14
+China,Xinjiang,2024,Wind,76.234,13.996,1.016
+China,Xinjiang,2024,Coal,383.588,70.423,369.534
+China,Xinjiang,2024,Gas,0.861,0.158,0.407
+China,Xinjiang,2024,Clean,157.328,28.884,4.19
+China,Xinjiang,2024,Fossil,387.367,71.116,371.983
+China,Xinjiang,2024,Total generation,544.695,100.0,376.173
+China,Xinjiang,2025,Solar,62.102,10.728,2.981
+China,Xinjiang,2025,Wind,86.054,14.866,1.147
+China,Xinjiang,2025,Coal,389.77,67.332,374.613
+China,Xinjiang,2025,Gas,0.781,0.135,0.369
+China,Xinjiang,2025,Clean,184.838,31.93,5.182
+China,Xinjiang,2025,Fossil,394.044,68.07,377.427
+China,Xinjiang,2025,Total generation,578.882,100.0,382.609
+China,Yunnan,2011,Wind,1.0,0.643,0.013
+China,Yunnan,2011,Coal,53.361,34.316,53.09
+China,Yunnan,2011,Gas,0.0,0.0,0.0
+China,Yunnan,2011,Clean,102.139,65.684,2.489
+China,Yunnan,2011,Fossil,53.361,34.316,53.09
+China,Yunnan,2011,Total generation,155.5,100.0,55.579
+China,Yunnan,2012,Solar,0.03,0.017,0.001
+China,Yunnan,2012,Wind,2.8,1.602,0.036
+China,Yunnan,2012,Coal,47.73,27.301,47.335
+China,Yunnan,2012,Gas,0.0,0.0,0.0
+China,Yunnan,2012,Clean,127.1,72.699,3.075
+China,Yunnan,2012,Fossil,47.73,27.301,47.335
+China,Yunnan,2012,Total generation,174.83,100.0,50.41
+China,Yunnan,2013,Solar,0.09,0.042,0.004
+China,Yunnan,2013,Wind,3.8,1.768,0.048
+China,Yunnan,2013,Coal,47.599,22.15,47.092
+China,Yunnan,2013,Gas,0.0,0.0,0.0
+China,Yunnan,2013,Clean,167.291,77.85,4.036
+China,Yunnan,2013,Fossil,47.599,22.15,47.092
+China,Yunnan,2013,Total generation,214.89,100.0,51.129
+China,Yunnan,2014,Solar,0.29,0.114,0.014
+China,Yunnan,2014,Wind,6.3,2.472,0.08
+China,Yunnan,2014,Coal,39.829,15.626,39.31
+China,Yunnan,2014,Gas,0.0,0.0,0.0
+China,Yunnan,2014,Clean,215.061,84.374,5.153
+China,Yunnan,2014,Fossil,39.829,15.626,39.31
+China,Yunnan,2014,Total generation,254.89,100.0,44.463
+China,Yunnan,2015,Solar,0.64,0.251,0.031
+China,Yunnan,2015,Wind,9.4,3.681,0.12
+China,Yunnan,2015,Coal,27.399,10.73,26.959
+China,Yunnan,2015,Gas,0.0,0.0,0.0
+China,Yunnan,2015,Clean,227.941,89.27,5.421
+China,Yunnan,2015,Fossil,27.399,10.73,26.959
+China,Yunnan,2015,Total generation,255.34,100.0,32.38
+China,Yunnan,2016,Solar,2.295,0.925,0.11
+China,Yunnan,2016,Wind,15.404,6.208,0.197
+China,Yunnan,2016,Coal,23.369,9.419,22.917
+China,Yunnan,2016,Gas,0.0,0.0,0.0
+China,Yunnan,2016,Clean,224.749,90.582,5.315
+China,Yunnan,2016,Fossil,23.369,9.419,22.917
+China,Yunnan,2016,Total generation,248.117,100.0,28.232
+China,Yunnan,2017,Solar,2.805,1.026,0.135
+China,Yunnan,2017,Wind,19.408,7.102,0.249
+China,Yunnan,2017,Coal,23.594,8.634,23.074
+China,Yunnan,2017,Gas,0.0,0.0,0.0
+China,Yunnan,2017,Clean,249.684,91.366,5.884
+China,Yunnan,2017,Fossil,23.594,8.634,23.074
+China,Yunnan,2017,Total generation,273.278,100.0,28.957
+China,Yunnan,2018,Solar,3.501,1.156,0.168
+China,Yunnan,2018,Wind,22.836,7.537,0.295
+China,Yunnan,2018,Coal,28.493,9.405,27.795
+China,Yunnan,2018,Gas,0.0,0.0,0.0
+China,Yunnan,2018,Clean,274.475,90.595,6.463
+China,Yunnan,2018,Fossil,28.493,9.405,27.795
+China,Yunnan,2018,Total generation,302.968,100.0,34.259
+China,Yunnan,2019,Solar,4.779,1.46,0.229
+China,Yunnan,2019,Wind,24.626,7.522,0.319
+China,Yunnan,2019,Coal,31.203,9.53,30.356
+China,Yunnan,2019,Gas,0.0,0.0,0.0
+China,Yunnan,2019,Clean,296.199,90.469,6.991
+China,Yunnan,2019,Fossil,31.203,9.53,30.356
+China,Yunnan,2019,Total generation,327.402,100.0,37.347
+China,Yunnan,2020,Solar,4.973,1.44,0.239
+China,Yunnan,2020,Wind,24.983,7.235,0.324
+China,Yunnan,2020,Coal,40.932,11.853,39.711
+China,Yunnan,2020,Gas,0.0,0.0,0.0
+China,Yunnan,2020,Clean,304.391,88.147,7.2
+China,Yunnan,2020,Fossil,40.932,11.853,39.711
+China,Yunnan,2020,Total generation,345.323,100.0,46.911
+China,Yunnan,2021,Solar,5.089,1.439,0.244
+China,Yunnan,2021,Wind,23.199,6.558,0.31
+China,Yunnan,2021,Coal,44.997,12.72,43.572
+China,Yunnan,2021,Gas,0.0,0.0,0.0
+China,Yunnan,2021,Clean,308.766,87.28,7.36
+China,Yunnan,2021,Fossil,44.997,12.72,43.572
+China,Yunnan,2021,Total generation,353.763,100.0,50.931
+China,Yunnan,2022,Solar,5.494,1.448,0.264
+China,Yunnan,2022,Wind,21.841,5.757,0.293
+China,Yunnan,2022,Coal,45.68,12.04,44.169
+China,Yunnan,2022,Gas,0.0,0.0,0.0
+China,Yunnan,2022,Clean,333.718,87.96,8.008
+China,Yunnan,2022,Fossil,45.68,12.04,44.169
+China,Yunnan,2022,Total generation,379.399,100.0,52.177
+China,Yunnan,2023,Solar,13.705,3.451,0.658
+China,Yunnan,2023,Wind,28.683,7.222,0.385
+China,Yunnan,2023,Coal,63.293,15.936,61.081
+China,Yunnan,2023,Gas,0.0,0.0,0.0
+China,Yunnan,2023,Clean,333.869,84.064,8.212
+China,Yunnan,2023,Fossil,63.293,15.936,61.081
+China,Yunnan,2023,Total generation,397.162,100.0,69.293
+China,Yunnan,2024,Solar,33.919,7.596,1.628
+China,Yunnan,2024,Wind,39.716,8.894,0.529
+China,Yunnan,2024,Coal,58.941,13.2,56.781
+China,Yunnan,2024,Gas,0.0,0.0,0.0
+China,Yunnan,2024,Clean,387.353,86.748,9.891
+China,Yunnan,2024,Fossil,59.175,13.252,56.945
+China,Yunnan,2024,Total generation,446.528,100.0,66.837
+China,Yunnan,2025,Solar,50.67,10.686,2.432
+China,Yunnan,2025,Wind,34.871,7.354,0.465
+China,Yunnan,2025,Coal,55.769,11.761,53.6
+China,Yunnan,2025,Gas,0.0,0.0,0.0
+China,Yunnan,2025,Clean,418.001,88.152,11.098
+China,Yunnan,2025,Fossil,56.181,11.848,53.889
+China,Yunnan,2025,Total generation,474.182,100.0,64.987
+China,Zhejiang,2011,Wind,0.6,0.215,0.008
+China,Zhejiang,2011,Coal,215.727,77.294,214.63
+China,Zhejiang,2011,Gas,16.628,5.958,7.859
+China,Zhejiang,2011,Clean,46.745,16.748,0.998
+China,Zhejiang,2011,Fossil,232.355,83.252,222.489
+China,Zhejiang,2011,Total generation,279.1,100.0,223.487
+China,Zhejiang,2012,Solar,0.01,0.004,0.0
+China,Zhejiang,2012,Wind,0.78,0.274,0.01
+China,Zhejiang,2012,Coal,208.4,73.202,206.677
+China,Zhejiang,2012,Gas,16.839,5.915,7.959
+China,Zhejiang,2012,Clean,59.452,20.883,1.216
+China,Zhejiang,2012,Fossil,225.238,79.117,214.636
+China,Zhejiang,2012,Total generation,284.69,100.0,215.852
+China,Zhejiang,2013,Solar,0.08,0.027,0.004
+China,Zhejiang,2013,Wind,0.97,0.33,0.012
+China,Zhejiang,2013,Coal,214.879,73.076,212.592
+China,Zhejiang,2013,Gas,22.086,7.511,10.439
+China,Zhejiang,2013,Clean,57.085,19.413,1.215
+China,Zhejiang,2013,Fossil,236.965,80.587,223.031
+China,Zhejiang,2013,Total generation,294.05,100.0,224.246
+China,Zhejiang,2014,Solar,0.26,0.089,0.012
+China,Zhejiang,2014,Wind,1.3,0.446,0.017
+China,Zhejiang,2014,Coal,205.623,70.598,202.946
+China,Zhejiang,2014,Gas,25.879,8.885,12.231
+China,Zhejiang,2014,Clean,59.759,20.517,1.299
+China,Zhejiang,2014,Fossil,231.501,79.483,215.177
+China,Zhejiang,2014,Total generation,291.26,100.0,216.477
+China,Zhejiang,2015,Solar,0.77,0.259,0.037
+China,Zhejiang,2015,Wind,1.6,0.539,0.02
+China,Zhejiang,2015,Coal,190.853,64.245,187.789
+China,Zhejiang,2015,Gas,28.758,9.681,13.592
+China,Zhejiang,2015,Clean,77.459,26.074,1.495
+China,Zhejiang,2015,Fossil,219.611,73.926,201.381
+China,Zhejiang,2015,Total generation,297.07,100.0,202.875
+China,Zhejiang,2016,Solar,2.189,0.698,0.105
+China,Zhejiang,2016,Wind,2.262,0.722,0.029
+China,Zhejiang,2016,Coal,204.461,65.241,200.511
+China,Zhejiang,2016,Gas,32.45,10.354,15.338
+China,Zhejiang,2016,Clean,76.482,24.404,1.597
+China,Zhejiang,2016,Fossil,236.912,75.596,215.848
+China,Zhejiang,2016,Total generation,313.394,100.0,217.446
+China,Zhejiang,2017,Solar,5.691,1.725,0.273
+China,Zhejiang,2017,Wind,2.491,0.755,0.032
+China,Zhejiang,2017,Coal,216.446,65.602,211.672
+China,Zhejiang,2017,Gas,34.447,10.44,16.281
+China,Zhejiang,2017,Clean,79.048,23.958,1.919
+China,Zhejiang,2017,Fossil,250.892,76.042,227.953
+China,Zhejiang,2017,Total generation,329.94,100.0,229.871
+China,Zhejiang,2018,Solar,10.009,2.917,0.48
+China,Zhejiang,2018,Wind,3.091,0.901,0.04
+China,Zhejiang,2018,Coal,221.813,64.635,216.383
+China,Zhejiang,2018,Gas,32.41,9.444,15.318
+China,Zhejiang,2018,Clean,88.952,25.92,2.207
+China,Zhejiang,2018,Fossil,254.223,74.08,231.701
+China,Zhejiang,2018,Total generation,343.175,100.0,233.908
+China,Zhejiang,2019,Solar,12.0,3.469,0.576
+China,Zhejiang,2019,Wind,3.294,0.952,0.043
+China,Zhejiang,2019,Coal,212.54,61.446,206.769
+China,Zhejiang,2019,Gas,31.969,9.242,15.11
+China,Zhejiang,2019,Clean,101.39,29.312,2.558
+China,Zhejiang,2019,Fossil,244.509,70.688,221.879
+China,Zhejiang,2019,Total generation,345.899,100.0,224.437
+China,Zhejiang,2020,Solar,13.156,3.807,0.632
+China,Zhejiang,2020,Wind,3.597,1.041,0.047
+China,Zhejiang,2020,Coal,205.709,59.524,199.577
+China,Zhejiang,2020,Gas,31.82,9.207,15.039
+China,Zhejiang,2020,Clean,108.061,31.269,2.752
+China,Zhejiang,2020,Fossil,237.529,68.732,214.617
+China,Zhejiang,2020,Total generation,345.589,100.0,217.369
+China,Zhejiang,2021,Solar,15.5,3.753,0.744
+China,Zhejiang,2021,Wind,4.9,1.186,0.066
+China,Zhejiang,2021,Coal,260.983,63.187,252.717
+China,Zhejiang,2021,Gas,35.056,8.487,16.569
+China,Zhejiang,2021,Clean,116.993,28.325,3.384
+China,Zhejiang,2021,Fossil,296.038,71.675,269.285
+China,Zhejiang,2021,Total generation,413.031,100.0,272.669
+China,Zhejiang,2022,Solar,21.77,5.104,1.045
+China,Zhejiang,2022,Wind,9.491,2.225,0.127
+China,Zhejiang,2022,Coal,261.733,61.369,253.076
+China,Zhejiang,2022,Gas,35.227,8.26,16.65
+China,Zhejiang,2022,Clean,129.529,30.371,3.879
+China,Zhejiang,2022,Fossil,296.96,69.629,269.725
+China,Zhejiang,2022,Total generation,426.489,100.0,273.604
+China,Zhejiang,2023,Solar,29.625,6.569,1.422
+China,Zhejiang,2023,Wind,10.955,2.429,0.147
+China,Zhejiang,2023,Coal,276.943,61.406,267.263
+China,Zhejiang,2023,Gas,33.743,7.482,15.948
+China,Zhejiang,2023,Clean,140.32,31.113,4.296
+China,Zhejiang,2023,Fossil,310.685,68.887,283.211
+China,Zhejiang,2023,Total generation,451.005,100.0,287.507
+China,Zhejiang,2024,Solar,39.346,8.045,1.889
+China,Zhejiang,2024,Wind,15.826,3.236,0.211
+China,Zhejiang,2024,Coal,297.199,60.771,286.309
+China,Zhejiang,2024,Gas,34.542,7.063,16.326
+China,Zhejiang,2024,Clean,157.307,32.166,4.978
+China,Zhejiang,2024,Fossil,331.741,67.834,302.635
+China,Zhejiang,2024,Total generation,489.048,100.0,307.613
+China,Zhejiang,2025,Solar,59.787,11.216,2.87
+China,Zhejiang,2025,Wind,16.061,3.013,0.214
+China,Zhejiang,2025,Coal,319.287,59.9,306.87
+China,Zhejiang,2025,Gas,36.353,6.82,17.182
+China,Zhejiang,2025,Clean,177.398,33.281,6.209
+China,Zhejiang,2025,Fossil,355.64,66.72,324.052
+China,Zhejiang,2025,Total generation,533.037,100.0,330.261
