@@ -24,6 +24,17 @@ investors, banks and climate funds ask every day.
 * **Impact claims depend on method and place.** An hourly emission factor gives 25% less avoided CO2 than a
   yearly average; a euro in Indian solar avoids about 6x more CO2 than in the Netherlands (2030).
 
+## Tableau dashboard: first findings
+
+[![Solar and storage in Europe: first findings](docs/img/tableau_eerste_bevindingen.png)](https://public.tableau.com/app/profile/tjebbe.lodeizen/viz/NL_solar/Eerstebevindingen)
+
+**[Open the interactive dashboard on Tableau Public](https://public.tableau.com/app/profile/tjebbe.lodeizen/viz/NL_solar/Eerstebevindingen)** (Dutch labels).
+It shows the solar capture rate across 37 European bidding zones (2019-2026), how zones shift from
+flat prices towards battery markets and solar saturation, the 2026 price shock split into gas, wind,
+solar and unexplained, and the highest battery capex that still reaches an 8% return.
+Workbook: `tableau/NL_solar.twbx`. Data: `tableau/data/` (built with `python -m eti.tableau_export`).
+Build guide: `tableau/BOUWGIDS_TABLEAU.md`.
+
 ## Power BI
 
 `python -m eti.powerbi` exports a star schema to `powerbi/data/`; `powerbi/measures.dax` holds the DAX measures and
