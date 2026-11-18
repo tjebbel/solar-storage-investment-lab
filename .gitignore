@@ -22,3 +22,14 @@ resultaten/*.log
 tableau/*.twb
 tableau/Zon en opslag in Europa.twbx
 *.hyper
+
+# lokale run-uitvoer en tijdelijke bestanden
+tableau/.~*
+resultaten/*log*.txt
+resultaten/mac_*.txt
+resultaten/analyse_script/*.log
+resultaten/20*/
+run_avond.sh
+run_middag.sh
+run_nacht*.sh
+run_texas.sh

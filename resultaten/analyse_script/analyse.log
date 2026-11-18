@@ -1,7 +1,0 @@
-2026-11-18 13:32:16,764 INFO gelezen fact_land_jaar.csv: 296 rijen, 19 kolommen, 7.4% lege cellen
-2026-11-18 13:32:16,765 INFO gelezen fact_flex_land.csv: 888 rijen, 7 kolommen, 4.9% lege cellen
-2026-11-18 13:32:16,821 INFO gelezen fact_ember_opwek_jaar.csv: 85398 rijen, 9 kolommen, 4.9% lege cellen
-2026-11-18 13:32:16,844 INFO opgeschoond: 296 zone-jaren, 37 zones, 7 hele jaren; 0 lege capture rates
-2026-11-18 13:32:16,854 INFO verkend: 258 zone-jaren; 7 van de 7 kolommen wijken af van een normale verdeling
-2026-11-18 13:32:17,288 INFO analyse: capture rate -0.35 (37 van 37 zones gedaald); rho zon-opslag -0.40; model R2 0.82
-2026-11-18 13:32:17,666 INFO grafieken bewaard: 1_capture_per_jaar.png, 2_zon_tegen_opslag.png, 3_correlaties.png
