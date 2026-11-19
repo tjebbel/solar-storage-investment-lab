@@ -5,7 +5,7 @@ C03,Berekening,Tableau rekent hetzelfde als DAX en Python,Tableau (werkblad Sign
 C04,Berekening,Power BI rekent hetzelfde,Power BI / Fabric (DAX),powerbi/maten_verwacht.csv,wacht op Fabric-toegang,Open,VOORTGANG.md,nee
 C05,Bronnen,Zonaandeel in twee bronnen sluit aan,Energy-Charts,Ember,"82 sluiten aan, 34 dekkingsgaten, 66 wijken af; het verschil verdwijnt zonder dekkingsgaten",Afwijking verklaard,sql/05_reconciliatie.sql; t5,nee
 C06,Bronnen,Correctiefactor werkt buiten de steekproef,Correctie geschat op 2019-2022,Ember 2023-2025,"mediane fout 13% -> 7% na correctie, 60% van 65 land-jaren beter",Geslaagd met beperking,fact_bronnen_toets_RC,ja
-C07,Code,Testsuite slaagt,tests/,verwachte uitkomsten,"224 tests, 28 overgeslagen",Geslaagd,unittest,ja
+C07,Code,Testsuite slaagt,tests/,verwachte uitkomsten,"234 tests, 28 overgeslagen",Geslaagd,unittest,ja
 C08,Code,Prestaties reproduceerbaar op een tweede machine,Sandbox,iMac (SQLite en Docker SQL Server),patroon gelijk; SQL Server-plan draaide de tweede keer serieel,Geslaagd met beperking,resultaten/benchmark_sql.md,nee
 C09,Gegevenskwaliteit,Volledigheid kerncijfers per land,Ember 2025,verwacht: alle landen met kern,Oekraine zonder 2025-cijfer; vermogen Belgie geeft benutting boven 100% (leeg gelaten),Afwijking verklaard,eti.kern_wereld,nee
 C10,Gegevenskwaliteit,Teken en dekking grensstromen,fact_grensstromen_nl,ENTSO-E/Ember jaarcijfers,nog niet gecontroleerd; daarom niet gepubliceerd,Open,eti.net_flex,nee
@@ -17,3 +17,6 @@ C15,Gegevenskwaliteit,Betekenis statuscodes netcongestie,congestie_pc6 (codes 0-
 C16,Rapportage,Voorlopige cijfers zichtbaar,CBS-tabellen t37-t39,CBS-markering **,vlag Voorlopig aanwezig en 2025 overal gemarkeerd,Geslaagd,berekend bij deze run,ja
 C17,Aannames,WACC per regio tegen een externe bron,eigen WACC (t27),IEA Cost of Capital Observatory,"eigen WACC hoger dan IEA 2021 behalve China; LCOE met IEA-WACC Nederland 62, Europa 45, VS 56, China 31, India 39 EUR/MWh; 2021 was een lagerentejaar",Afwijking verklaard,t41,ja
 C18,Aannames,Marginale emissiefactor tegen een externe bron,"0,40 t/MWh (t13)","RVO-emissiefactor, CBS","0,40 ligt in de band 0.349-0.455 (RVO 56,2 kg/GJ bij 50-58% rendement; CBS 0,455)",Geslaagd,t41,ja
+C19,Bronnen,Capture rate Spanje tegen een externe bron,t1 (Energy-Charts),Synertics (2026),"Spanje 2025: wij 0.55, Synertics 0.97; Modo noemt Duitsland en Spanje gelijk; definitie navragen",Afwijking open,t52,ja
+C20,Gegevenskwaliteit,Netcongestie-wachtrij tegen officiele cijfers,capaciteitskaart 2026 (t29-t31),Kamerstukken / LAN,"Regionaal, afname 8.05 tegen 9.1 GW; Regionaal, invoeding 4.07 tegen 4.6 GW; TenneT, afname 8.56 tegen 38.0 GW (invoeding na correctie verschoven kolom)",Afwijking open,t51,ja
+C21,Bronnen,Capture rates tegen marktanalisten,t1,"Modo Energy, Enervis","6 van 6 capture rates binnen 0,03 van Modo/Enervis (Duitsland 2022/2024/2025: 0.94, 0.59, 0.52)",Geslaagd,t52,ja

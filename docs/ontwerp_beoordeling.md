@@ -31,3 +31,4 @@ De bouwregels die hieruit volgen staan in `tableau/BOUWGIDS_TABLEAU.md`, sectie 
 | Dashboard | Datum | Hiërarchie | Grafieken | Rust | Bruikbaarheid | Totaal |
 |---|---|---|---|---|---|---|
 | 1 Eerste bevindingen (versie 18-11) | 19-11-2026 | 2 | 4 | 3 | 3 | 12 |
+| 1 Eerste bevindingen (live in browser, versie 18-11) | 19-11-2026 | 2 | 3 | 2 | 3 | 10 |

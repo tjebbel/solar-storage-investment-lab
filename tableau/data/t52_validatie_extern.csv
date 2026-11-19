@@ -1,0 +1,13 @@
+Onderwerp,Ons project,Extern,Verschil,Oordeel,Bron,Dashboards
+Capture rate zon Duitsland 2022,0.939,0.94,-0.001,sluit aan,"Modo Energy (2026), European solar July","1, 2, 19"
+Capture rate zon Duitsland 2024,0.592,0.59,0.002,sluit aan,Enervis via pv magazine (28-02-2025),"1, 2, 19"
+Capture rate zon Duitsland 2025,0.516,0.51,0.006,sluit aan,Modo Energy (2026): 51% eind 2025,"1, 2, 19"
+Capture rate zon Oostenrijk 2024,0.647,0.645,0.002,sluit aan,"Enervis: AT, CZ, SK, HU, RO 0,63-0,66 (midden)","1, 2"
+Capture rate zon Hongarije 2024,0.634,0.645,-0.011,sluit aan,"Enervis: AT, CZ, SK, HU, RO 0,63-0,66 (midden)","1, 2"
+Capture rate zon Roemenie 2024,0.657,0.645,0.012,sluit aan,"Enervis: AT, CZ, SK, HU, RO 0,63-0,66 (midden)","1, 2"
+Capture rate zon Spanje 2025,0.553,0.97,-0.417,afwijking open,Synertics blog (2026),"1, 2"
+Leersnelheid zonnepanelen,0.35,0.26,0.09,verklaarbaar: korte reeks (2017-2025) en verkoop onder kostprijs 2023-24,"ITRPV 17e editie: 26,0% over 1976-2025",4
+Paneelprijs eind 2025 (USD/W),0.095,0.09,0.005,sluit aan,"ITRPV via PV Tech: ongeveer 0,09 USD/Wp",4
+"Wachtrij Regionaal, afname (GW)",8.05,9.1,-1.05,sluit aan,Antwoord Kamervragen 2 februari 2026 (AH 1011),"8, 13"
+"Wachtrij Regionaal, invoeding (GW)",4.07,4.6,-0.53,sluit aan,Antwoord Kamervragen 2 februari 2026 (AH 1011),"8, 13"
+"Wachtrij TenneT, afname (GW)",8.56,38.0,-29.44,afwijking open,"Kamerbrief 8 doorbraken, 4 februari 2026","8, 13"

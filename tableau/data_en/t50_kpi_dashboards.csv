@@ -11,7 +11,7 @@ Dashboard,Volgorde,KPI,Waarde,Tekst,Vergelijking,Referentie,Richting
 4,2,Panel price,0.0953988,0.095 USD/W,2024: 0.118 (-19%),China export value,good
 4,3,Stars 2025,4,"BGR, LTU, POL, ROU","2022: HUN, LTU, NLD",growth > 30%/year,neutral
 4,4,Netherlands,,Dog,2022: Star,"saturation, grid congestion",bad
-7,1,Controls passed,8,8 of 18,18-11: 6 of 12,target: all 18,good
-7,2,Still open,5,5,"C03, C04, C10, C13, C15",target: 0 before publication,bad
-7,3,Recalculated every run,8,8 of 18,,rest: recorded manually,neutral
+7,1,Controls passed,9,9 of 21,18-11: 6 of 12,target: all 21,good
+7,2,Still open,7,7,"C03, C04, C10, C13, C15, C19, C20",target: 0 before publication,bad
+7,3,Recalculated every run,11,11 of 21,,rest: recorded manually,neutral
 7,4,Largest risk,9,score 9: Average or marginal emission factor,show both variants,"likelihood x impact, max 9",bad

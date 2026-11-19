@@ -55,7 +55,7 @@ Number format: decimal point, thousands comma (data source locale *English (Unit
 - What comes next: `Next: dashboard 5 (abatement cost curve) · 6 (profit pool) · 18 (storage market saturation) · 21 (commodities as predictor).`
 
 ## Dashboard 7 "Control matrix and risk map"
-- Title: `Can you trust these figures? 18 controls, 4 still open`
+- Title: `Can you trust these figures? 21 controls, 7 still open`
 - Subtitle: `In the tradition of the Big Four (COSO, ISAE 3000). A readiness assessment, not an assurance opinion.`
 - KPI row: from t50, Dashboard = 7
 - Data flow: image `docs/img/keten.png`

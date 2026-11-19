@@ -15,7 +15,7 @@ TABELLEN = ["t1_zonejaar", "t2_land_maand", "t3_batterij", "t3b_batterij_leesbaa
             "t5_bronnen", "t6_kern_gebied_jaar", "t7_kern_land", "t8_kern_markt", "t9_signalering_zones", "t10_dekking_nl",
             "t11_ervaringscurve", "t12_portefeuille", "t15_controles", "t16_risico", "t42_gebeurtenissen",
             "t43_kannibalisatie", "t44_kern_zon", "t45_leercurve", "t46_portefeuille_uitleg", "t47_kpi_nl",
-            "t48_capture_rangorde", "t49_segmenten", "t50_kpi_dashboards"]
+            "t48_capture_rangorde", "t49_segmenten", "t50_kpi_dashboards", "t51_congestie_afstemming", "t52_validatie_extern"]
 NIET = {"Zone", "Landcode", "ISO3", "Maand", "Datum", "Kleur", "Controle", "Pijl", "Groeiperiode"}
 NIET_PER_TABEL = {"t7_kern_land": {"Land", "Continent"}, "t44_kern_zon": {"Land", "Continent"}}  # al Engels (Ember)
 HOUDEN = {"VOORTGANG.md", "unittest", "Energy-Charts", "Power BI / Fabric (DAX)", "Python (eti.signalering_europa)",
@@ -51,7 +51,35 @@ W = {
     "overig": "other", "Bodem 5": "Bottom 5", "Top 5": "Top 5", "goed": "good", "slecht": "bad", "neutraal": "neutral",
     "ja": "yes", "nee": "no", "kern": "nuclear", "markt": "market", "geopolitiek": "geopolitics", "beleid": "policy",
     "alle": "all", "alle landen": "all countries", "zonder dekkingsgaten": "without coverage gaps",
-    "alle jaren": "all years", "zonder 2021-22 (crisis)": "excl. 2021-22 (crisis)",
+    "Antwoord Kamervragen 2 februari 2026 (AH 1011)": "Reply to parliamentary questions, 2 February 2026 (AH 1011)",
+    "Kamerbrief 8 doorbraken, 4 februari 2026": "Letter to parliament on 8 breakthroughs, 4 February 2026",
+    "14.044 verzoeken, stand 1 juli 2025": "14,044 requests, as of 1 July 2025", "212 aanvragen": "212 requests",
+    "8.539 verzoeken, stand 1 juli 2025": "8,539 requests, as of 1 July 2025",
+    "na verwijderen van 227 rijen met een verschoven kolom (vooral Liander)": "after removing 227 rows with a shifted column (mostly Liander)",
+    "vermoedelijk dekking: de capaciteitskaart toont 23 congestiegebieden met 75 verzoeken, de officiele wachtrij telt 212 aanvragen; navragen bij TenneT":
+        "probably coverage: the capacity map shows 23 congestion areas with 75 requests, the official queue counts 212; to be checked with TenneT",
+    "capaciteitskaart 2026 tegen stand juli 2025; rijen zonder cijfers (o.a. Stedin) ontbreken": "capacity map 2026 vs status July 2025; rows without figures (incl. Stedin) are missing",
+    "Capture rate Spanje tegen een externe bron": "Spanish capture rate against an external source",
+    "Netcongestie-wachtrij tegen officiele cijfers": "Grid congestion queue against official figures",
+    "Capture rates tegen marktanalisten": "Capture rates against market analysts", "t1 (Energy-Charts)": "t1 (Energy-Charts)",
+    "Synertics (2026)": "Synertics (2026)", "capaciteitskaart 2026 (t29-t31)": "capacity map 2026 (t29-t31)",
+    "Kamerstukken / LAN": "Parliamentary papers / LAN", "Modo Energy, Enervis": "Modo Energy, Enervis",
+    "tests niet gedraaid in deze run; gebruik --tests": "tests not run in this run; use --tests",
+    "Regionaal, afname": "Regional, offtake", "Regionaal, invoeding": "Regional, feed-in", "TenneT, afname": "TenneT, offtake",
+    "Enervis via pv magazine (28-02-2025)": "Enervis via pv magazine (28-02-2025)",
+    "Enervis: AT, CZ, SK, HU, RO 0,63-0,66 (midden)": "Enervis: AT, CZ, SK, HU, RO 0.63-0.66 (midpoint)",
+    "ITRPV 17e editie: 26,0% over 1976-2025": "ITRPV 17th edition: 26.0% over 1976-2025",
+    "ITRPV via PV Tech: ongeveer 0,09 USD/Wp": "ITRPV via PV Tech: about 0.09 USD/Wp",
+    "Modo Energy (2026), European solar July": "Modo Energy (2026), European solar July",
+    "Modo Energy (2026): 51% eind 2025": "Modo Energy (2026): 51% end of 2025", "Synertics blog (2026)": "Synertics blog (2026)",
+    "Leersnelheid zonnepanelen": "Solar panel learning rate", "Paneelprijs eind 2025 (USD/W)": "Panel price end 2025 (USD/W)",
+    "alle jaren": "all years", "referentie ITRPV 1976-2025": "reference ITRPV 1976-2025",
+    "Basisgeval": "Base case", "Hoog: als capaciteitsprijzen herstellen": "High: if capacity prices recover",
+    "Alleen dagmarkt": "Day-ahead only",
+    "Prijzen in de hele zonneketen onder de kostprijs (polysilicium tot modules)": "Prices below cost across the solar chain (polysilicon to modules)",
+    "Caixin 26-07-2025; PV Tech 2024": "Caixin 26-07-2025; PV Tech 2024", "sluit aan": "agrees", "afwijking open": "deviation open",
+    "geen eigen waarde": "no own value",
+    "verklaarbaar: korte reeks (2017-2025) en verkoop onder kostprijs 2023-24": "explainable: short series (2017-2025) and sales below cost 2023-24", "zonder 2021-22 (crisis)": "excl. 2021-22 (crisis)",
     "zonder 2023-24 (overcapaciteit)": "excl. 2023-24 (overcapacity)", "zonder 2021-24": "excl. 2021-24",
     "onder EU-mediaan": "below EU median", "boven EU-mediaan": "above EU median", "op EU-mediaan": "at EU median",
     "EUR/MW per jaar": "EUR/MW per year", "fractie": "ratio", "uren": "hours",
@@ -198,6 +226,16 @@ REGELS = [  # (patroon, vervanging) voor teksten met getallen
     (r"^mediane fout (.+) -> (.+) na correctie, (.+) van (\d+) land-jaren beter$",
      r"median error \1 -> \2 after correction, \3 of \4 country-years better"),
     (r"^(\d+) tests, (\d+) overgeslagen$", r"\1 tests, \2 skipped"),
+    (r"^(\d+) tests, (\d+) overgeslagen \((.+)\)$", r"\1 tests, \2 skipped (\3)"),
+    (r"^Capture rate zon (\w+) (\d{4})$", lambda m: f"Solar capture rate {LAND.get(m[1], m[1])} {m[2]}"),
+    (r"^(\d+) van (\d+) capture rates binnen 0,03 van Modo/Enervis \(Duitsland 2022/2024/2025: (.+)\)$",
+     r"\1 of \2 capture rates within 0.03 of Modo/Enervis (Germany 2022/2024/2025: \3)"),
+    (r"^Spanje 2025: wij (.+), Synertics (.+); Modo noemt Duitsland en Spanje gelijk; definitie navragen$",
+     r"Spain 2025: us \1, Synertics \2; Modo puts Germany and Spain level; check definition"),
+    (r"^Regionaal, afname (.+) tegen (.+) GW; Regionaal, invoeding (.+) tegen (.+) GW; TenneT, afname (.+) tegen (.+) GW \(invoeding na correctie verschoven kolom\)$",
+     r"Regional, offtake \1 vs \2 GW; Regional, feed-in \3 vs \4 GW; TenneT, offtake \5 vs \6 GW (feed-in after correcting a shifted column)"),
+    (r"^doel: alle (\d+)$", r"target: all \1"),
+    (r"^Wachtrij (.+) \(GW\)$", lambda m: f"Queue {W.get(m[1], m[1])} (GW)"),
     (r"^(\d+) van (\d+) waarden gelijk$", r"\1 of \2 values equal"),
     (r"^zonnestroom (\d{4}): CBS (.+) TWh \(voorlopig\), Ember (.+) TWh, verschil (.+); vermogen sluit wel aan \((\d+),(\d) GW\)$",
      r"solar generation \1: CBS \2 TWh (provisional), Ember \3 TWh, difference \4; capacity does agree (\5.\6 GW)"),
@@ -219,7 +257,19 @@ def zonenaam(s):
     return LAND.get(s)
 
 
+def wissel(getal):
+    """Nederlandse notatie naar Engelse: 61.041 -> 61,041 en 0,62 -> 0.62."""
+    return getal.replace(".", "_").replace(",", ".").replace("_", ",")
+
+
 def vertaal(s):
+    if re.fullmatch(r"-?\d{1,3}(\.\d{3})*(,\d+)?", s):
+        return wissel(s)
+    m = re.fullmatch(r"(\S*) ?vorig jaar ([\d.,-]+) · EU ([\d.,-]+)", s) or re.fullmatch(r"() ?· EU ([\d.,-]+)()", s)
+    if m and "vorig jaar" in s:
+        return f"{m[1]} last year {wissel(m[2])} · EU {wissel(m[3])}".strip()
+    if m:
+        return f"· EU {wissel(m[2])}"
     if s in W:
         return W[s]
     if s in HOUDEN or re.fullmatch(r"(eti\.\w+|fact_\w+|powerbi/[\w./]+|t\d+)", s):
@@ -315,6 +365,9 @@ VELD = {
     "Solar and wind change 2015-2025 TWh", "Kern verschil 2015-2025 %": "Nuclear change 2015-2025 %",
     "Aandeel kern in negatieve uren %": "Nuclear share in negative hours %", "Capture rate": "Capture rate",
     "Capture-prijs zon": "Solar capture price", "Prijs z-score": "Price z-score", "Prijs signaal": "Price signal",
+    "Waarde tekst": "Value (text)", "Onderregel": "Subline", "Scenario soort": "Scenario type", "Onderwerp": "Topic",
+    "Ons project": "This project", "Extern": "External", "Oordeel": "Verdict", "Wachtrij": "Queue",
+    "Ons project GW": "This project GW", "Officieel GW": "Official GW", "Officieel toelichting": "Official note",
 }
 
 

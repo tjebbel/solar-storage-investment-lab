@@ -1,0 +1,13 @@
+Onderwerp,Ons project,Extern,Verschil,Oordeel,Bron,Dashboards
+Solar capture rate Germany 2022,0.939,0.94,-0.001,agrees,"Modo Energy (2026), European solar July","1, 2, 19"
+Solar capture rate Germany 2024,0.592,0.59,0.002,agrees,Enervis via pv magazine (28-02-2025),"1, 2, 19"
+Solar capture rate Germany 2025,0.516,0.51,0.006,agrees,Modo Energy (2026): 51% end of 2025,"1, 2, 19"
+Solar capture rate Austria 2024,0.647,0.645,0.002,agrees,"Enervis: AT, CZ, SK, HU, RO 0.63-0.66 (midpoint)","1, 2"
+Solar capture rate Hungary 2024,0.634,0.645,-0.011,agrees,"Enervis: AT, CZ, SK, HU, RO 0.63-0.66 (midpoint)","1, 2"
+Solar capture rate Romania 2024,0.657,0.645,0.012,agrees,"Enervis: AT, CZ, SK, HU, RO 0.63-0.66 (midpoint)","1, 2"
+Solar capture rate Spain 2025,0.553,0.97,-0.417,deviation open,Synertics blog (2026),"1, 2"
+Solar panel learning rate,0.35,0.26,0.09,explainable: short series (2017-2025) and sales below cost 2023-24,ITRPV 17th edition: 26.0% over 1976-2025,4
+Panel price end 2025 (USD/W),0.095,0.09,0.005,agrees,ITRPV via PV Tech: about 0.09 USD/Wp,4
+"Queue Regional, offtake (GW)",8.05,9.1,-1.05,agrees,"Reply to parliamentary questions, 2 February 2026 (AH 1011)","8, 13"
+"Queue Regional, feed-in (GW)",4.07,4.6,-0.53,agrees,"Reply to parliamentary questions, 2 February 2026 (AH 1011)","8, 13"
+"Queue TenneT, offtake (GW)",8.56,38,-29.44,deviation open,"Letter to parliament on 8 breakthroughs, 4 February 2026","8, 13"

@@ -202,7 +202,7 @@ Score vooraf 12/20 (hiërarchie 2, grafieken 4, rust 3, bruikbaarheid 3). Doel: 
    IT-Centre-North, NO2, NO1; bodem PT, NO4, DE-LU, BE, AT; NL rang 19 van 37.
 4. **Lijnen per regio**: palet *ETI focus*: NW-Europa oranje, de rest grijs. Legenda weg; label aan het eind van de lijn
    (*Label* > *Line Ends*).
-5. **Batterij** (t3b in plaats van t3): `Scenario leesbaar` op Rijen, gesorteerd op `Volgorde`; `Haalbaar` op kleur met
+5. **Batterij** (t3b in plaats van t3): `Scenario leesbaar` op Rijen, gesorteerd op `Volgorde`; `Scenario soort` in de knopinfo en het label `Basisgeval` vet (stapelen zonder capaciteitsvergoeding; het hoge scenario heet `Hoog: als capaciteitsprijzen herstellen`); `Haalbaar` op kleur met
    *ETI haalbaar*. Legenda-titel `Haalbaar bij marktprijs 280 €/kWh`.
 6. **Prijsstijging 2026** (t4b in plaats van t4): tien zones plus `Overige 18 (gemiddeld)`, gesorteerd op `Volgorde`;
    `Oorzaak` met *ETI oorzaak prijs* (Gas sienna, Wind cyaan, Zon goud, Niet verklaard grijs; zelfde bronkleuren als op alle dashboards); `Toelichting` in de knopinfo.
@@ -404,7 +404,7 @@ twee keer zoveel als zon, maar kernstroom houdt zijn marktwaarde (capture rate 1
 
 ### 14. Dashboard 7 "Controlematrix en risicokaart" (vrijdag 20 november, ongeveer 2 uur)
 
-**Ontwerpnorm voor dit dashboard** (eerst doen, zie bovenaan): KPI-rij uit t50 met filter `Dashboard` = 7; paletten uit `Preferences.tps`; onderrand met "Wat we niet zeker weten" en "Wat volgt": C03 (Tableau-toets vandaag), C04 (Power BI), C10 (grensstromen), C13 (CBS tegen Ember), C15 (statuscodes). Statuskleuren: Geslaagd #1F9E89, met beperking #8CCFC3, Afwijking verklaard #E39A2D, Afwijking open #C4457A, Open grijs. KPI-controle: `8 van 18` geslaagd, 5 open. Zelftoets ≥ 16/20 vóór publiceren.
+**Ontwerpnorm voor dit dashboard** (eerst doen, zie bovenaan): KPI-rij uit t50 met filter `Dashboard` = 7; paletten uit `Preferences.tps`; onderrand met "Wat we niet zeker weten" en "Wat volgt": C03 (Tableau-toets vandaag), C04 (Power BI), C10 (grensstromen), C13 (CBS tegen Ember), C15 (statuscodes). Statuskleuren: Geslaagd #1F9E89, met beperking #8CCFC3, Afwijking verklaard #E39A2D, Afwijking open #C4457A, Open grijs. KPI-controle: `9 van 21` geslaagd, 7 open. Nieuw: werkblad "Externe validatie" (t52): tabel met Onderwerp, Ons project, Extern, Oordeel (kleur: sluit aan teal, afwijking open magenta), Bron in de knopinfo. Zelftoets ≥ 16/20 vóór publiceren.
 
 **Boodschap.** Achttien controles (bijgewerkt 19 november): zes geslaagd, twee geslaagd met beperking, vijf afwijkingen die
 verklaard zijn, één open afwijking (CBS en Ember verschillen 10% in zonnestroom) en vier die nog open staan. Het grootste risico is de keuze van de emissiefactor. Dit is een beoordeling van de gereedheid, geen
@@ -416,13 +416,13 @@ accountantsverklaring.
 1. **"Gegevensstroom"**: een Afbeelding-object in het dashboard met `docs/img/keten.png` (de keten van bron tot document).
 2. **"Controlematrix"** (t15). `Controle`, `Domein` en `Doel` op Rijen; `Uitkomst` als tekst; `Status` op Kleur
    (palet *ETI status*: Geslaagd teal, met beperking lichtteal, Afwijking verklaard oranje, Afwijking open magenta, Open grijs). Opmaak: rijstreping uit,
-   alleen dunne lijnen tussen de domeinen. **Controle:** 18 rijen; C02 = `66 van 66 waarden gelijk`; C18 = Geslaagd.
+   alleen dunne lijnen tussen de domeinen. **Controle:** 21 rijen; C02 = `66 van 66 waarden gelijk`; C18 en C21 = Geslaagd; C19 en C20 = Afwijking open.
 3. **"Status in één oogopslag"** (t15). Een horizontale staaf: `CNT(Controle)` per `Status`, met dezelfde kleuren en labels.
 4. **"Risicokaart"** (t16). `Kans` (discreet) op Kolommen, `Impact` (discreet) op Rijen, markering Vierkant, `MAX(Score)` op Kleur
    (licht naar rood), `CNT(Risico)` als label. Knopinfo met `Risico` en `Maatregel`. Zet ernaast een staafgrafiek van
    `Score` per `Risico`, gesorteerd, met `Maatregel` in de knopinfo. **Controle:** bovenaan staat *Gemiddelde of marginale
    emissiefactor*, met score 9.
-5. **Dashboard** 1200 × 1150: titel `Kan je op deze cijfers vertrouwen? 18 controles, 4 nog open`; subtitel
+5. **Dashboard** 1200 × 1150: titel `Kan je op deze cijfers vertrouwen? 21 controles, 7 nog open`; subtitel
    `In de traditie van de Big Four (COSO, ISAE 3000). Een readiness-beoordeling, geen accountantsverklaring.`
    Rij 1: gegevensstroom. Rij 2: controlematrix (65%) en status (35%). Rij 3: risicokaart en risicostaaf.
 6. **Publiceren en GitHub**: afbeelding `docs/img/tableau_controles.png`.
@@ -437,7 +437,7 @@ accountantsverklaring.
 
 ### 15. Dashboard 4 "Ervaringscurve en portefeuille" (vrijdag 20 november, ongeveer 2 uur)
 
-**Ontwerpnorm voor dit dashboard** (eerst doen, zie bovenaan): KPI-rij uit t50 met filter `Dashboard` = 4; paletten uit `Preferences.tps`; onderrand met "Wat we niet zeker weten" en "Wat volgt": dashboard 5 (kostencurve), 6 (winstpool), 18 (verzadiging opslagmarkt), 21 (grondstoffen als voorspeller). Kwadrantkleuren: Ster #E39A2D, Melkkoe #1F9E89, Vraagteken #4A5FC1, Hond grijs. KPI-controle: `35% per verdubbeling` (21-46%); `0.095 USD/W` (-19%); NL `Hond` (2022: Ster). Zelftoets ≥ 16/20 vóór publiceren.
+**Ontwerpnorm voor dit dashboard** (eerst doen, zie bovenaan): KPI-rij uit t50 met filter `Dashboard` = 4; paletten uit `Preferences.tps`; onderrand met "Wat we niet zeker weten" en "Wat volgt": dashboard 5 (kostencurve), 6 (winstpool), 18 (verzadiging opslagmarkt), 21 (grondstoffen als voorspeller). Kwadrantkleuren: Ster #E39A2D, Melkkoe #1F9E89, Vraagteken #4A5FC1, Hond grijs. KPI-controle: `35% per verdubbeling` (21-46%); `0.095 USD/W` (-19%); NL `Hond` (2022: Ster). In de ervaringscurve een referentielijn op de ITRPV-waarde 26% (t45, rij `referentie ITRPV 1976-2025`) en de annotatie 2024 `verkoop onder kostprijs` (t42). Zelftoets ≥ 16/20 vóór publiceren.
 
 **Boodschap.** Zonnepanelen worden per verdubbeling van het wereldvermogen ongeveer 35% goedkoper (95%: 21–46%). In Europa zijn
 Bulgarije, Litouwen, Polen en Roemenië de sterren van 2025. Nederland zakte van ster naar de grens met hond.

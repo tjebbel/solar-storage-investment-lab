@@ -1,0 +1,12 @@
+Capture rate zon Duitsland 2022: ons 0.939 | extern 0.94 | sluit aan
+Capture rate zon Duitsland 2024: ons 0.592 | extern 0.59 | sluit aan
+Capture rate zon Duitsland 2025: ons 0.516 | extern 0.51 | sluit aan
+Capture rate zon Oostenrijk 2024: ons 0.647 | extern 0.645 | sluit aan
+Capture rate zon Hongarije 2024: ons 0.634 | extern 0.645 | sluit aan
+Capture rate zon Roemenie 2024: ons 0.657 | extern 0.645 | sluit aan
+Capture rate zon Spanje 2025: ons 0.553 | extern 0.97 | afwijking open
+Leersnelheid zonnepanelen: ons 0.35 | extern 0.26 | verklaarbaar: korte reeks (2017-2025) en verkoop onder kostprijs 2023-24
+Paneelprijs eind 2025 (USD/W): ons 0.095 | extern 0.09 | sluit aan
+Wachtrij Regionaal, afname (GW): ons 8.05 | extern 9.1 | sluit aan
+Wachtrij Regionaal, invoeding (GW): ons 4.07 | extern 4.6 | sluit aan
+Wachtrij TenneT, afname (GW): ons 8.56 | extern 38.0 | afwijking open

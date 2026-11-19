@@ -26,6 +26,13 @@ is reproduced by `bash run_analyse.sh` and checked in the control matrix (`table
 * **Nuclear and solar each produced about 2,800 TWh worldwide in 2025.** Matching US nuclear output would take about
   427 GW of solar: one GW of nuclear is not one GW of solar.
 
+**External validation** (`tableau/data/t52_validatie_extern.csv`, controls C19-C21): our German solar capture rates
+(0.94 in 2022, 0.59 in 2024, 0.52 in 2025) match Modo Energy and Enervis within 0.01; Austria, Hungary and Romania 2024
+fall in Enervis' 0.63-0.66 band. Our learning rate (35%) is above ITRPV's long-run 26% (1976-2025) because of the short
+2017-2025 window and sales below cost in 2023-24. Grid-congestion queues match parliamentary figures for regional offtake
+(8.1 vs 9.1 GW) and feed-in (4.1 vs 4.6 GW, after correcting a shifted column in the source file); TenneT and one
+Spanish capture rate (Synertics 0.97 vs our 0.55) are open deviations.
+
 ## Dashboard series
 
 | # | Dashboard | Lens | Status |

@@ -34,8 +34,25 @@ def _jaartal(s):
     return s.where(s < ONBEPAALD)
 
 
+REFERENTIE = [  # officiele wachtrijcijfers (Kamerstukken / Landelijk Actieprogramma Netcongestie)
+    ("Regionaal, afname", 9.1, "14.044 verzoeken, stand 1 juli 2025", "Antwoord Kamervragen 2 februari 2026 (AH 1011)"),
+    ("Regionaal, invoeding", 4.6, "8.539 verzoeken, stand 1 juli 2025", "Antwoord Kamervragen 2 februari 2026 (AH 1011)"),
+    ("TenneT, afname", 38.0, "212 aanvragen", "Kamerbrief 8 doorbraken, 4 februari 2026"),
+]
+
+
+def verschoven_invoeding(v):
+    """Bronfout: bij een deel van de rijen (vooral Liander) staat in wachtrij_invoeding (MW) het AANTAL afnameverzoeken.
+    Herkenbaar doordat beide gelijk zijn en groter dan nul. Die waarden worden leeg gemaakt."""
+    return (v["wachtrij_invoeding"] == v["unieke_verzoeken_afname"]) & (v["wachtrij_invoeding"] > 0)
+
+
 def gebieden(v=None):
     v = lees("voedingsgebieden.csv") if v is None else v.copy()
+    if "unieke_verzoeken_afname" in v:
+        fout = verschoven_invoeding(v)
+        v["invoeding_verschoven"] = fout
+        v.loc[fout, "wachtrij_invoeding"] = float("nan")
     kol = ["aanwezige_transportcapaciteit_invoeding", "aanwezige_transportcapaciteit_afname",
            "benodigde_transportcapaciteit_invoeding", "benodigde_transportcapaciteit_afname",
            "wachtrij_invoeding", "wachtrij_afname"]
@@ -47,8 +64,25 @@ def gebieden(v=None):
         v[f"tekort_{r}_mw"] = (b - a).clip(lower=0)
         v[f"jaar_opgelost_{r}"] = _jaartal(v[f"jaartal_opgelost_{r}"])
         v[f"geen_datum_{r}"] = pd.to_numeric(v[f"jaartal_opgelost_{r}"], errors="coerce") >= ONBEPAALD
-    hou = ["voedingsgebied_id", "RNB", "provincie"] + kol + [c for c in v.columns if c.startswith(("verhouding_", "tekort_", "jaar_opgelost_", "geen_datum_"))]
+    hou = ["voedingsgebied_id", "RNB", "provincie"] + kol + [c for c in v.columns if c.startswith(("verhouding_", "tekort_", "jaar_opgelost_", "geen_datum_", "invoeding_verschoven"))]
     return v[hou].rename(columns={"RNB": "netbeheerder"}), int(leeg.sum())
+
+
+def afstemming(g, t):
+    """Onze totalen tegen de officiele cijfers (controle C20)."""
+    ruw_inv = g["wachtrij_invoeding"].sum() / 1000
+    eigen = {"Regionaal, afname": g["wachtrij_afname"].sum() / 1000,
+             "Regionaal, invoeding": ruw_inv,
+             "TenneT, afname": t["wachtrij_afname"].sum() / 1000}
+    uitleg = {"Regionaal, afname": "capaciteitskaart 2026 tegen stand juli 2025; rijen zonder cijfers (o.a. Stedin) ontbreken",
+              "Regionaal, invoeding": f"na verwijderen van {int(g.get('invoeding_verschoven', pd.Series(dtype=bool)).sum())} rijen met een verschoven kolom (vooral Liander)",
+              "TenneT, afname": "vermoedelijk dekking: de capaciteitskaart toont 23 congestiegebieden met 75 verzoeken, de officiele wachtrij telt 212 aanvragen; navragen bij TenneT"}
+    r = pd.DataFrame(REFERENTIE, columns=["Wachtrij", "Officieel GW", "Officieel toelichting", "Bron"])
+    r["Ons project GW"] = r["Wachtrij"].map(eigen).round(2)
+    r["Verschil %"] = (100 * (r["Ons project GW"] / r["Officieel GW"] - 1)).round(0)
+    r["Verklaring"] = r["Wachtrij"].map(uitleg)
+    r["Status"] = ["Afwijking verklaard" if abs(x) <= 20 else "Afwijking open" for x in r["Verschil %"]]
+    return r[["Wachtrij", "Ons project GW", "Officieel GW", "Verschil %", "Status", "Verklaring", "Officieel toelichting", "Bron"]]
 
 
 def per_rnb(g):
@@ -101,6 +135,7 @@ def main():
     m = gemeenten() if heeft_pc6 else pd.read_csv(UIT / "t32_congestie_gemeente.csv")
     g.to_csv(UIT / "t29_congestie_gebied.csv", index=False); r.to_csv(UIT / "t30_congestie_rnb.csv", index=False)
     t.to_csv(UIT / "t31_congestie_tennet.csv", index=False)
+    af = afstemming(g, t); af.to_csv(UIT / "t51_congestie_afstemming.csv", index=False)
     if heeft_pc6:
         m.to_csv(UIT / "t32_congestie_gemeente.csv", index=False)
         pc = pd.read_csv(MAP / "congestie_pc6.csv", sep=";", dtype=str, usecols=["afname", "opwek"])
@@ -112,9 +147,10 @@ def main():
               f"Voedingsgebieden met gevraagd > aanwezig: afname {int((g.tekort_afname_mw>0).sum())}, invoeding {int((g.tekort_invoeding_mw>0).sum())}.",
               f"Mediaan jaartal opgelost: afname {g.jaar_opgelost_afname.median():.0f}, invoeding {g.jaar_opgelost_invoeding.median():.0f}; zonder datum (2099): afname {int(g.geen_datum_afname.sum())}, invoeding {int(g.geen_datum_invoeding.sum())}.",
               "Wachtrij per netbeheerder (MW afname / invoeding):"]
-    w = g.groupby("netbeheerder")[["wachtrij_afname", "wachtrij_invoeding"]].sum().round(0)
+    w = g.groupby("netbeheerder")[["wachtrij_afname", "wachtrij_invoeding"]].sum(min_count=1).round(0)
     regels += [f"  {i}: {a:.0f} / {b:.0f}" for i, (a, b) in w.iterrows()]
     regels.append("TenneT, grootste gevraagd/aanwezig afname: " + "; ".join(f"{x.congestiegebied} {x.verhouding_afname:.2f} (opgelost {x.jaar_opgelost_afname:.0f})" for x in t.dropna(subset=["verhouding_afname"]).nlargest(5, "verhouding_afname").itertuples()))
+    regels.append("Afstemming met officiele cijfers (GW): " + "; ".join(f"{x.Wachtrij} {x['Ons project GW']} tegen {x['Officieel GW']} ({x['Verschil %']:+.0f}%)" for _, x in af.iterrows()))
     fout = controle(g, t, m); regels.append("Controle: " + ("geslaagd" if not fout else ", ".join(fout)))
     Path("resultaten").mkdir(exist_ok=True); Path("resultaten/netcongestie.txt").write_text("\n".join(regels) + "\n")
     print("\n".join(regels))

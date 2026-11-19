@@ -1,41 +1,41 @@
-KPI,Eenheid,Jaar,Heel jaar,Waarde NL,Vorig jaar,Verschil,Verschil %,EU-mediaan,Positie,Lezing,Pijl
-Battery revenue,EUR/MW per year,2019,1,8707.2,,,,9959.76,below EU median,higher is better for batteries,
-Battery revenue,EUR/MW per year,2020,1,12101.5,8707.2,3394.3,38.983,11489,above EU median,higher is better for batteries,▲
-Battery revenue,EUR/MW per year,2021,1,29918.1,12101.5,17816.6,147.226,28834.5,above EU median,higher is better for batteries,▲
-Battery revenue,EUR/MW per year,2022,1,82442.4,29918.1,52524.3,175.56,67205.4,above EU median,higher is better for batteries,▲
-Battery revenue,EUR/MW per year,2023,1,47320.1,82442.4,-35122.3,-42.602,35555.1,above EU median,higher is better for batteries,▼
-Battery revenue,EUR/MW per year,2024,1,52710.1,47320.1,5390,11.391,40865.9,above EU median,higher is better for batteries,▲
-Battery revenue,EUR/MW per year,2025,1,61041.4,52710.1,8331.3,15.806,52655,above EU median,higher is better for batteries,▲
-Battery revenue,EUR/MW per year,2026,0,81873.7,61041.4,20832.3,34.128,67673.9,above EU median,higher is better for batteries,▲
-Solar capture rate,ratio,2019,1,0.942,,,,0.978,below EU median,higher is better for solar,
-Solar capture rate,ratio,2020,1,0.788,0.942,-0.153,-16.296,0.918,below EU median,higher is better for solar,▼
-Solar capture rate,ratio,2021,1,0.767,0.788,-0.021,-2.668,0.876,below EU median,higher is better for solar,▼
-Solar capture rate,ratio,2022,1,0.926,0.767,0.159,20.717,1.021,below EU median,higher is better for solar,▲
-Solar capture rate,ratio,2023,1,0.74,0.926,-0.186,-20.075,0.821,below EU median,higher is better for solar,▼
-Solar capture rate,ratio,2024,1,0.603,0.74,-0.138,-18.591,0.71,below EU median,higher is better for solar,▼
-Solar capture rate,ratio,2025,1,0.615,0.603,0.013,2.118,0.615,at EU median,higher is better for solar,▲
-Solar capture rate,ratio,2026,0,0.587,0.615,-0.029,-4.68,0.614,below EU median,higher is better for solar,▼
-Average price,EUR/MWh,2019,1,41.193,,,,41.506,at EU median,context,
-Average price,EUR/MWh,2020,1,32.242,41.193,-8.951,-21.73,33.69,below EU median,context,▼
-Average price,EUR/MWh,2021,1,102.971,32.242,70.73,219.374,102.759,at EU median,context,▲
-Average price,EUR/MWh,2022,1,241.91,102.971,138.939,134.93,235.44,above EU median,context,▲
-Average price,EUR/MWh,2023,1,95.818,241.91,-146.092,-60.391,95.818,at EU median,context,▼
-Average price,EUR/MWh,2024,1,77.289,95.818,-18.529,-19.337,78.512,below EU median,context,▼
-Average price,EUR/MWh,2025,1,86.817,77.289,9.528,12.328,85.745,above EU median,context,▲
-Average price,EUR/MWh,2026,0,121.035,86.817,34.218,39.414,120.419,at EU median,context,▲
-Negative hours,hours,2019,1,3,,,,0,above EU median,"higher: worse for solar, better for batteries",
-Negative hours,hours,2020,1,97,3,94,3133.33,5,above EU median,"higher: worse for solar, better for batteries",▲
-Negative hours,hours,2021,1,70,97,-27,-27.835,5,above EU median,"higher: worse for solar, better for batteries",▼
-Negative hours,hours,2022,1,86,70,16,22.857,2,above EU median,"higher: worse for solar, better for batteries",▲
-Negative hours,hours,2023,1,315,86,229,266.279,111,above EU median,"higher: worse for solar, better for batteries",▲
-Negative hours,hours,2024,1,458,315,143,45.397,219,above EU median,"higher: worse for solar, better for batteries",▲
-Negative hours,hours,2025,1,584,458,126,27.511,265,above EU median,"higher: worse for solar, better for batteries",▲
-Negative hours,hours,2026,0,399,584,-185,-31.678,162,above EU median,"higher: worse for solar, better for batteries",▼
-Daily spread,EUR/MWh,2019,1,26.772,,,,28.353,below EU median,higher is better for batteries,
-Daily spread,EUR/MWh,2020,1,31.75,26.772,4.978,18.594,30.598,above EU median,higher is better for batteries,▲
-Daily spread,EUR/MWh,2021,1,85.12,31.75,53.37,168.094,77.428,above EU median,higher is better for batteries,▲
-Daily spread,EUR/MWh,2022,1,207.561,85.12,122.441,143.845,182.276,above EU median,higher is better for batteries,▲
-Daily spread,EUR/MWh,2023,1,108.943,207.561,-98.618,-47.513,91.498,above EU median,higher is better for batteries,▼
-Daily spread,EUR/MWh,2024,1,113.717,108.943,4.774,4.382,92.369,above EU median,higher is better for batteries,▲
-Daily spread,EUR/MWh,2025,1,123.819,113.717,10.102,8.883,111.221,above EU median,higher is better for batteries,▲
-Daily spread,EUR/MWh,2026,0,157.157,123.819,33.338,26.925,140.955,above EU median,higher is better for batteries,▲
+KPI,Eenheid,Jaar,Heel jaar,Waarde NL,Vorig jaar,Verschil,Verschil %,EU-mediaan,Positie,Lezing,Pijl,Waarde tekst,Onderregel,Richting
+Battery revenue,EUR/MW per year,2019,1,8707.2,,,,9959.76,below EU median,higher is better for batteries,,"8,707","· EU 9,960",neutral
+Battery revenue,EUR/MW per year,2020,1,12101.5,8707.2,3394.3,38.983,11489,above EU median,higher is better for batteries,▲,"12,102","▲ last year 8,707 · EU 11,489",good
+Battery revenue,EUR/MW per year,2021,1,29918.1,12101.5,17816.6,147.226,28834.5,above EU median,higher is better for batteries,▲,"29,918","▲ last year 12,102 · EU 28,834",good
+Battery revenue,EUR/MW per year,2022,1,82442.4,29918.1,52524.3,175.56,67205.4,above EU median,higher is better for batteries,▲,"82,442","▲ last year 29,918 · EU 67,205",good
+Battery revenue,EUR/MW per year,2023,1,47320.1,82442.4,-35122.3,-42.602,35555.1,above EU median,higher is better for batteries,▼,"47,320","▼ last year 82,442 · EU 35,555",bad
+Battery revenue,EUR/MW per year,2024,1,52710.1,47320.1,5390,11.391,40865.9,above EU median,higher is better for batteries,▲,"52,710","▲ last year 47,320 · EU 40,866",good
+Battery revenue,EUR/MW per year,2025,1,61041.4,52710.1,8331.3,15.806,52655,above EU median,higher is better for batteries,▲,"61,041","▲ last year 52,710 · EU 52,655",good
+Battery revenue,EUR/MW per year,2026,0,81873.7,61041.4,20832.3,34.128,67673.9,above EU median,higher is better for batteries,▲,"81,874","▲ last year 61,041 · EU 67,674",good
+Solar capture rate,ratio,2019,1,0.942,,,,0.978,below EU median,higher is better for solar,,0.94,· EU 0.98,neutral
+Solar capture rate,ratio,2020,1,0.788,0.942,-0.153,-16.296,0.918,below EU median,higher is better for solar,▼,0.79,▼ last year 0.94 · EU 0.92,bad
+Solar capture rate,ratio,2021,1,0.767,0.788,-0.021,-2.668,0.876,below EU median,higher is better for solar,▼,0.77,▼ last year 0.79 · EU 0.88,bad
+Solar capture rate,ratio,2022,1,0.926,0.767,0.159,20.717,1.021,below EU median,higher is better for solar,▲,0.93,▲ last year 0.77 · EU 1.02,good
+Solar capture rate,ratio,2023,1,0.74,0.926,-0.186,-20.075,0.821,below EU median,higher is better for solar,▼,0.74,▼ last year 0.93 · EU 0.82,bad
+Solar capture rate,ratio,2024,1,0.603,0.74,-0.138,-18.591,0.71,below EU median,higher is better for solar,▼,0.60,▼ last year 0.74 · EU 0.71,bad
+Solar capture rate,ratio,2025,1,0.615,0.603,0.013,2.118,0.615,at EU median,higher is better for solar,▲,0.61,▲ last year 0.60 · EU 0.61,good
+Solar capture rate,ratio,2026,0,0.587,0.615,-0.029,-4.68,0.614,below EU median,higher is better for solar,▼,0.59,▼ last year 0.61 · EU 0.61,bad
+Average price,EUR/MWh,2019,1,41.193,,,,41.506,at EU median,context,,41,· EU 42,neutral
+Average price,EUR/MWh,2020,1,32.242,41.193,-8.951,-21.73,33.69,below EU median,context,▼,32,▼ last year 41 · EU 34,neutral
+Average price,EUR/MWh,2021,1,102.971,32.242,70.73,219.374,102.759,at EU median,context,▲,103,▲ last year 32 · EU 103,neutral
+Average price,EUR/MWh,2022,1,241.91,102.971,138.939,134.93,235.44,above EU median,context,▲,242,▲ last year 103 · EU 235,neutral
+Average price,EUR/MWh,2023,1,95.818,241.91,-146.092,-60.391,95.818,at EU median,context,▼,96,▼ last year 242 · EU 96,neutral
+Average price,EUR/MWh,2024,1,77.289,95.818,-18.529,-19.337,78.512,below EU median,context,▼,77,▼ last year 96 · EU 79,neutral
+Average price,EUR/MWh,2025,1,86.817,77.289,9.528,12.328,85.745,above EU median,context,▲,87,▲ last year 77 · EU 86,neutral
+Average price,EUR/MWh,2026,0,121.035,86.817,34.218,39.414,120.419,at EU median,context,▲,121,▲ last year 87 · EU 120,neutral
+Negative hours,hours,2019,1,3,,,,0,above EU median,"higher: worse for solar, better for batteries",,3,· EU 0,neutral
+Negative hours,hours,2020,1,97,3,94,3133.33,5,above EU median,"higher: worse for solar, better for batteries",▲,97,▲ last year 3 · EU 5,neutral
+Negative hours,hours,2021,1,70,97,-27,-27.835,5,above EU median,"higher: worse for solar, better for batteries",▼,70,▼ last year 97 · EU 5,neutral
+Negative hours,hours,2022,1,86,70,16,22.857,2,above EU median,"higher: worse for solar, better for batteries",▲,86,▲ last year 70 · EU 2,neutral
+Negative hours,hours,2023,1,315,86,229,266.279,111,above EU median,"higher: worse for solar, better for batteries",▲,315,▲ last year 86 · EU 111,neutral
+Negative hours,hours,2024,1,458,315,143,45.397,219,above EU median,"higher: worse for solar, better for batteries",▲,458,▲ last year 315 · EU 219,neutral
+Negative hours,hours,2025,1,584,458,126,27.511,265,above EU median,"higher: worse for solar, better for batteries",▲,584,▲ last year 458 · EU 265,neutral
+Negative hours,hours,2026,0,399,584,-185,-31.678,162,above EU median,"higher: worse for solar, better for batteries",▼,399,▼ last year 584 · EU 162,neutral
+Daily spread,EUR/MWh,2019,1,26.772,,,,28.353,below EU median,higher is better for batteries,,27,· EU 28,neutral
+Daily spread,EUR/MWh,2020,1,31.75,26.772,4.978,18.594,30.598,above EU median,higher is better for batteries,▲,32,▲ last year 27 · EU 31,good
+Daily spread,EUR/MWh,2021,1,85.12,31.75,53.37,168.094,77.428,above EU median,higher is better for batteries,▲,85,▲ last year 32 · EU 77,good
+Daily spread,EUR/MWh,2022,1,207.561,85.12,122.441,143.845,182.276,above EU median,higher is better for batteries,▲,208,▲ last year 85 · EU 182,good
+Daily spread,EUR/MWh,2023,1,108.943,207.561,-98.618,-47.513,91.498,above EU median,higher is better for batteries,▼,109,▼ last year 208 · EU 91,bad
+Daily spread,EUR/MWh,2024,1,113.717,108.943,4.774,4.382,92.369,above EU median,higher is better for batteries,▲,114,▲ last year 109 · EU 92,good
+Daily spread,EUR/MWh,2025,1,123.819,113.717,10.102,8.883,111.221,above EU median,higher is better for batteries,▲,124,▲ last year 114 · EU 111,good
+Daily spread,EUR/MWh,2026,0,157.157,123.819,33.338,26.925,140.955,above EU median,higher is better for batteries,▲,157,▲ last year 124 · EU 141,good

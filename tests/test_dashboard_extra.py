@@ -25,7 +25,7 @@ class TestAfgeleid(unittest.TestCase):
         self.assertTrue((k["Benutting kern 2025"] > k["Benutting zon 2025"]).all())
 
     def test_leercurve_vier_varianten(self):
-        self.assertEqual(len(d.leercurve()), 4)
+        self.assertEqual(len(d.leercurve()), 5)  # vier varianten + ITRPV-referentie
 
 
 if __name__ == "__main__":

@@ -50,6 +50,24 @@ def live_voorlopig():
         ("Geslaagd" if not fout else "Afwijking")
 
 
+def live_extern():
+    v = pd.read_csv("tableau/data/t52_validatie_extern.csv")
+    cr = v[v.Onderwerp.str.startswith("Capture rate") & ~v.Onderwerp.str.contains("Spanje")]
+    es = v[v.Onderwerp.str.contains("Spanje")].iloc[0]
+    c21 = (f"{(cr.Oordeel == 'sluit aan').sum()} van {len(cr)} capture rates binnen 0,03 van Modo/Enervis "
+           f"(Duitsland 2022/2024/2025: {', '.join(f'{x:.2f}' for x in cr['Ons project'].head(3))})",
+           "Geslaagd" if (cr.Oordeel == "sluit aan").all() else "Afwijking")
+    c19 = (f"Spanje 2025: wij {es['Ons project']:.2f}, Synertics {es.Extern:.2f}; Modo noemt Duitsland en Spanje gelijk; definitie navragen",
+           "Afwijking open")
+    return c19, c21
+
+
+def live_congestie():
+    a = pd.read_csv("tableau/data/t51_congestie_afstemming.csv")
+    tekst = "; ".join(f"{x.Wachtrij} {x['Ons project GW']} tegen {x['Officieel GW']} GW" for _, x in a.iterrows())
+    return tekst + " (invoeding na correctie verschoven kolom)", ("Afwijking open" if (a.Status == "Afwijking open").any() else "Afwijking verklaard")
+
+
 def live_toetsen():
     k = pd.read_csv("tableau/data/t41_toetsen.csv")
     m = k[k.Toets.str.startswith("Marginale")]["Referentie"]
@@ -88,11 +106,13 @@ def live_tests():
 def controles(tests=False):
     dax, dax_s = live_dax()
     br, br_s = live_bronnen()
-    ts, ts_s = live_tests() if tests else ("224 tests, 28 overgeslagen (19-11-2026)", "Geslaagd")
+    ts, ts_s = live_tests() if tests else ("tests niet gedraaid in deze run; gebruik --tests", "Open")
     ce, ce_s = live_cbs_ember()
     ee, ee_s = live_eia_ember()
     vl, vl_s = live_voorlopig()
     (em, em_s), (wa, wa_s) = live_toetsen()
+    (c19, c19_s), (c21, c21_s) = live_extern()
+    c20, c20_s = live_congestie()
     r = [
         ("C01", "Berekening", "Zelfde uitkomst in twee SQL-dialecten", "SQLite (Python)", "SQL Server 2022 (T-SQL)",
          "stappen 00-05 gelijk in aantallen en waarden", "Geslaagd", "reports/analyse/08_vervolg_18nov.md; log_tsql.txt", "nee"),
@@ -133,6 +153,11 @@ def controles(tests=False):
          wa, wa_s, "t41", "ja"),
         ("C18", "Aannames", "Marginale emissiefactor tegen een externe bron", "0,40 t/MWh (t13)", "RVO-emissiefactor, CBS",
          em, em_s, "t41", "ja"),
+        ("C19", "Bronnen", "Capture rate Spanje tegen een externe bron", "t1 (Energy-Charts)", "Synertics (2026)", c19, c19_s,
+         "t52", "ja"),
+        ("C20", "Gegevenskwaliteit", "Netcongestie-wachtrij tegen officiele cijfers", "capaciteitskaart 2026 (t29-t31)",
+         "Kamerstukken / LAN", c20, c20_s, "t51", "ja"),
+        ("C21", "Bronnen", "Capture rates tegen marktanalisten", "t1", "Modo Energy, Enervis", c21, c21_s, "t52", "ja"),
     ]
     return pd.DataFrame(r, columns=["Controle", "Domein", "Doel", "Kant A", "Kant B", "Uitkomst", "Status", "Bron",
                                     "Opnieuw berekend"])

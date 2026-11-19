@@ -5,7 +5,7 @@ C03,Calculation,Tableau calculates the same as DAX and Python,Tableau (Signals w
 C04,Calculation,Power BI calculates the same,Power BI / Fabric (DAX),powerbi/maten_verwacht.csv,waiting for Fabric access,Open,VOORTGANG.md,no
 C05,Sources,Solar share agrees across two sources,Energy-Charts,Ember,"82 agree, 34 coverage gaps, 66 differ; the difference disappears without coverage gaps",Deviation explained,sql/05_reconciliatie.sql; t5,no
 C06,Sources,Correction factor works out of sample,Correction estimated on 2019-2022,Ember 2023-2025,"median error 13% -> 7% after correction, 60% of 65 country-years better",Passed with limitation,fact_bronnen_toets_RC,yes
-C07,Code,Test suite passes,tests/,expected results,"224 tests, 28 skipped",Passed,unittest,yes
+C07,Code,Test suite passes,tests/,expected results,"234 tests, 28 skipped",Passed,unittest,yes
 C08,Code,Performance reproducible on a second machine,Sandbox,iMac (SQLite and Docker SQL Server),same pattern; SQL Server plan ran serially the second time,Passed with limitation,resultaten/benchmark_sql.md,no
 C09,Data quality,Completeness of nuclear figures per country,Ember 2025,expected: all countries with nuclear,Ukraine has no 2025 figure; Belgium's capacity gives utilisation above 100% (left blank),Deviation explained,eti.kern_wereld,no
 C10,Data quality,Sign and coverage of cross-border flows,fact_grensstromen_nl,ENTSO-E/Ember annual data,not yet checked; therefore not published,Open,eti.net_flex,no
@@ -17,3 +17,6 @@ C15,Data quality,Meaning of grid congestion status codes,congestie_pc6 (codes 0-
 C16,Reporting,Provisional figures visible,CBS tables t37-t39,CBS marker **,Provisional flag present and 2025 marked everywhere,Passed,calculated in this run,yes
 C17,Assumptions,WACC per region against an external source,own WACC (t27),IEA Cost of Capital Observatory,"own WACC above IEA 2021 except China; LCOE at IEA WACC Netherlands 62, Europe 45, US 56, China 31, India 39 EUR/MWh; 2021 was a low-rate year",Deviation explained,t41,yes
 C18,Assumptions,Marginal emission factor against an external source,0.40 t/MWh (t13),"RVO emission factor, CBS",0.40 lies within the band 0.349-0.455 (RVO 56.2 kg/GJ at 50-58% efficiency; CBS 0.455),Passed,t41,yes
+C19,Sources,Spanish capture rate against an external source,t1 (Energy-Charts),Synertics (2026),"Spain 2025: us 0.55, Synertics 0.97; Modo puts Germany and Spain level; check definition",Deviation open,t52,yes
+C20,Data quality,Grid congestion queue against official figures,capacity map 2026 (t29-t31),Parliamentary papers / LAN,"Regionaal, afname 8.05 tegen 9.1 GW; Regionaal, invoeding 4.07 tegen 4.6 GW; TenneT, afname 8.56 vs 38.0 GW (invoeding na correctie verschoven kolom)",Deviation open,t51,yes
+C21,Sources,Capture rates against market analysts,t1,"Modo Energy, Enervis","6 of 6 capture rates within 0.03 of Modo/Enervis (Germany 2022/2024/2025: 0.94, 0.59, 0.52)",Passed,t52,yes

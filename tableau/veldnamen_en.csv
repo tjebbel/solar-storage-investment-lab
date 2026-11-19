@@ -41,6 +41,7 @@ t3b_batterij_leesbaar,Bouwkosten nu per kWh,Capex today per kWh
 t3b_batterij_leesbaar,Scenario leesbaar,Scenario (plain)
 t3b_batterij_leesbaar,Haalbaar,Feasible
 t3b_batterij_leesbaar,Volgorde,Order
+t3b_batterij_leesbaar,Scenario soort,Scenario type
 t4_schokjaar,Zone,Zone
 t4_schokjaar,Prijsstijging totaal,Total price increase
 t4_schokjaar,Oorzaak,Driver
@@ -188,6 +189,9 @@ t47_kpi_nl,EU-mediaan,EU median
 t47_kpi_nl,Positie,Position
 t47_kpi_nl,Lezing,Reading
 t47_kpi_nl,Pijl,Arrow
+t47_kpi_nl,Waarde tekst,Value (text)
+t47_kpi_nl,Onderregel,Subline
+t47_kpi_nl,Richting,Direction
 t48_capture_rangorde,Zone,Zone
 t48_capture_rangorde,Zonenaam,Zone name
 t48_capture_rangorde,Landcode,Country code
@@ -207,3 +211,18 @@ t50_kpi_dashboards,Tekst,Text
 t50_kpi_dashboards,Vergelijking,Comparison
 t50_kpi_dashboards,Referentie,Reference
 t50_kpi_dashboards,Richting,Direction
+t51_congestie_afstemming,Wachtrij,Queue
+t51_congestie_afstemming,Ons project GW,This project GW
+t51_congestie_afstemming,Officieel GW,Official GW
+t51_congestie_afstemming,Verschil %,Change %
+t51_congestie_afstemming,Status,Status
+t51_congestie_afstemming,Verklaring,Explanation
+t51_congestie_afstemming,Officieel toelichting,Official note
+t51_congestie_afstemming,Bron,Source
+t52_validatie_extern,Onderwerp,Topic
+t52_validatie_extern,Ons project,This project
+t52_validatie_extern,Extern,External
+t52_validatie_extern,Verschil,Change
+t52_validatie_extern,Oordeel,Verdict
+t52_validatie_extern,Bron,Source
+t52_validatie_extern,Dashboards,Dashboards

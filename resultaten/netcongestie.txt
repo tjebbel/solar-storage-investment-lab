@@ -6,8 +6,9 @@ Wachtrij per netbeheerder (MW afname / invoeding):
   Coteq, Enexis: 33 / 105
   Enexis: 3376 / 3560
   Enexis, Rendo: 50 / 48
-  Liander: 3264 / 6399
+  Liander: 3264 / nan
   Stedin: 1330 / 252
   Westland: 0 / 104
 TenneT, grootste gevraagd/aanwezig afname: Noord-Brabant 1.87 (opgelost 2036); Limburg 1.84 (opgelost 2034); Noord-Holland 1.69 (opgelost 2036); Flevopolder, Utrecht en Gelderland 1.52 (opgelost 2035); Noordelijk Zuid-Holland 1.38 (opgelost 2034)
+Afstemming met officiele cijfers (GW): Regionaal, afname 8.05 tegen 9.1 (-12%); Regionaal, invoeding 4.07 tegen 4.6 (-12%); TenneT, afname 8.56 tegen 38.0 (-77%)
 Controle: geslaagd

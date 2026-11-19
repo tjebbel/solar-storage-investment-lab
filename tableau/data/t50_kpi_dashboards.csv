@@ -11,7 +11,7 @@ Dashboard,Volgorde,KPI,Waarde,Tekst,Vergelijking,Referentie,Richting
 4,2,Paneelprijs,0.0953988479227049,0.095 USD/W,2024: 0.118 (-19%),exportwaarde China,goed
 4,3,Sterren 2025,4.0,"BGR, LTU, POL, ROU","2022: HUN, LTU, NLD",groei > 30%/jaar,neutraal
 4,4,Nederland,,Hond,2022: Ster,"verzadiging, netcongestie",slecht
-7,1,Controles geslaagd,8.0,8 van 18,18-11: 6 van 12,doel: alle 18,goed
-7,2,Nog open,5.0,5,"C03, C04, C10, C13, C15",doel: 0 voor publicatie,slecht
-7,3,Opnieuw berekend bij elke run,8.0,8 van 18,,rest: handmatig vastgelegd,neutraal
+7,1,Controles geslaagd,9.0,9 van 21,18-11: 6 van 12,doel: alle 21,goed
+7,2,Nog open,7.0,7,"C03, C04, C10, C13, C15, C19, C20",doel: 0 voor publicatie,slecht
+7,3,Opnieuw berekend bij elke run,11.0,11 van 21,,rest: handmatig vastgelegd,neutraal
 7,4,Grootste risico,9.0,score 9: Gemiddelde of marginale emissiefactor,beide varianten tonen,"kans x impact, max 9",slecht

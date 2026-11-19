@@ -79,7 +79,7 @@ def dashboard7():
     gesl = c.Status.str.startswith("Geslaagd").sum(); open_ = c.Status.isin(["Open", "Afwijking open"]).sum()
     live = (c["Opnieuw berekend"] == "ja").sum(); top = r.sort_values("Score", ascending=False).iloc[0]
     return [
-        _r(7, 1, "Controles geslaagd", gesl, f"{gesl} van {len(c)}", "18-11: 6 van 12", "doel: alle 18", "goed"),
+        _r(7, 1, "Controles geslaagd", gesl, f"{gesl} van {len(c)}", "18-11: 6 van 12", f"doel: alle {len(c)}", "goed"),
         _r(7, 2, "Nog open", open_, f"{open_}", ", ".join(c[c.Status.isin(['Open', 'Afwijking open'])].Controle),
            "doel: 0 voor publicatie", "slecht" if open_ else "goed"),
         _r(7, 3, "Opnieuw berekend bij elke run", live, f"{live} van {len(c)}", "", "rest: handmatig vastgelegd", "neutraal"),

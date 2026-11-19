@@ -10,7 +10,7 @@ D4.1 Leersnelheid: 35% per verdubbeling | 95%: 21%-46% | literatuur ca. 20-25% |
 D4.2 Paneelprijs: 0.095 USD/W | 2024: 0.118 (-19%) | exportwaarde China | goed
 D4.3 Sterren 2025: BGR, LTU, POL, ROU | 2022: HUN, LTU, NLD | groei > 30%/jaar | neutraal
 D4.4 Nederland: Hond | 2022: Ster | verzadiging, netcongestie | slecht
-D7.1 Controles geslaagd: 8 van 18 | 18-11: 6 van 12 | doel: alle 18 | goed
-D7.2 Nog open: 5 | C03, C04, C10, C13, C15 | doel: 0 voor publicatie | slecht
-D7.3 Opnieuw berekend bij elke run: 8 van 18 |  | rest: handmatig vastgelegd | neutraal
+D7.1 Controles geslaagd: 9 van 21 | 18-11: 6 van 12 | doel: alle 21 | goed
+D7.2 Nog open: 7 | C03, C04, C10, C13, C15, C19, C20 | doel: 0 voor publicatie | slecht
+D7.3 Opnieuw berekend bij elke run: 11 van 21 |  | rest: handmatig vastgelegd | neutraal
 D7.4 Grootste risico: score 9: Gemiddelde of marginale emissiefactor | beide varianten tonen | kans x impact, max 9 | slecht

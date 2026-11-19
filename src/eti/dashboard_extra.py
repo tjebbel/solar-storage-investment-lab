@@ -24,6 +24,8 @@ GEBEURTENISSEN = [
     ("2022-08-01", "Europa", "Piek gas- en stroomprijzen (augustus 2022)", "2", "markt", "t2: hoogste maandprijs"),
     ("2022-08-16", "VS", "Inflation Reduction Act getekend", "10", "beleid", "congress.gov"),
     ("2023-04-15", "Duitsland", "Laatste drie Duitse kerncentrales dicht", "3", "kern", "BASE / Ember"),
+    ("2024-06-01", "China", "Prijzen in de hele zonneketen onder de kostprijs (polysilicium tot modules)", "4", "markt",
+     "Caixin 26-07-2025; PV Tech 2024"),
     ("2025-07-04", "VS", "One Big Beautiful Bill Act getekend (afbouw belastingkredieten zon en wind)", "10", "beleid", "congress.gov"),
     ("2026-01-26", "Nederland", "Notitie reikwijdte en detailniveau nieuwbouw kerncentrales vastgesteld", "3, 8", "kern",
      "RVO, vaststellingsbesluit 26-01-2026"),
@@ -78,6 +80,8 @@ def leercurve(t11="tableau/data/t11_ervaringscurve.csv"):
         r = leersnelheid(e, zonder=zonder)
         rij.append({"Variant": naam, "n": r["n"], "Leersnelheid": r["leersnelheid"], "Interval laag": r["interval_laag"],
                     "Interval hoog": r["interval_hoog"], "R2": r.get("r2", np.nan)})
+    rij.append({"Variant": "referentie ITRPV 1976-2025", "n": 50, "Leersnelheid": 0.26, "Interval laag": None,
+                "Interval hoog": None, "R2": None})
     return pd.DataFrame(rij).round(4)
 
 

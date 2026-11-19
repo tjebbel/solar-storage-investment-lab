@@ -47,7 +47,23 @@ def kpi(t1="tableau/data/t1_zonejaar.csv"):
                         "EU-mediaan": med.get(j), "Positie": ("op EU-mediaan" if abs(w - med.get(j)) <= 0.01 * abs(med.get(j)) else ("boven EU-mediaan" if w > med.get(j) else "onder EU-mediaan")),
                         "Lezing": lezing,
                         "Pijl": "" if pd.isna(v) else ("▲" if w > v else ("▼" if w < v else "="))})
-    return pd.DataFrame(rij).round(3)
+    k = pd.DataFrame(rij).round(3)
+    dec = {"Capture rate zon": 2}
+    k["Waarde tekst"] = [nl_getal(w, dec.get(n, 0)) for w, n in zip(k["Waarde NL"], k["KPI"])]
+    k["Onderregel"] = [("" if pd.isna(v) else f"{p} vorig jaar {nl_getal(v, dec.get(n, 0))}") + f" · EU {nl_getal(m, dec.get(n, 0))}"
+                       for p, v, m, n in zip(k["Pijl"], k["Vorig jaar"], k["EU-mediaan"], k["KPI"])]
+    goed_omhoog = {"Batterij-omzet": True, "Capture rate zon": True, "Dagspreiding": True}
+    k["Richting"] = [("neutraal" if n not in goed_omhoog or pd.isna(d) or d == 0 else ("goed" if d > 0 else "slecht"))
+                     for n, d in zip(k["KPI"], k["Verschil"])]
+    return k
+
+
+def nl_getal(x, dec=0):
+    """Nederlandse notatie: punt voor duizendtallen, komma voor decimalen."""
+    if pd.isna(x):
+        return ""
+    t = f"{x:,.{dec}f}"
+    return t.replace(",", "_").replace(".", ",").replace("_", ".")
 
 
 def rangorde(t1="tableau/data/t1_zonejaar.csv"):
@@ -67,6 +83,15 @@ def batterij(t3="tableau/data/t3_batterij.csv"):
     b["Scenario leesbaar"] = b["Scenario"].map(LEESBAAR).fillna(b["Scenario"])
     b["Haalbaar"] = (b["Hoogste bouwkosten per kWh"] >= b["Bouwkosten nu per kWh"]).map({True: "haalbaar", False: "niet haalbaar"})
     b["Volgorde"] = b.groupby("Doelrendement")["Hoogste bouwkosten per kWh"].rank(ascending=False).astype(int)
+    # Basisgeval na vergelijking met marktstudies (Modo 2026: aFRR-capaciteitsprijzen op hun bodem):
+    # stapelen ZONDER capaciteitsvergoeding; met capaciteitsvergoeding is het hoge scenario.
+    def soort(sc):
+        if sc.startswith("stapeling zonder"):
+            return "Basisgeval"
+        if sc.startswith("stapeling"):
+            return "Hoog: als capaciteitsprijzen herstellen"
+        return "Alleen dagmarkt"
+    b["Scenario soort"] = b["Scenario"].map(soort)
     return b
 
 

@@ -47,6 +47,7 @@ stap "$PY" -m eti.vs_860m                 # dashboard 10: EIA-860M voorraad, toe
 stap "$PY" -m eti.cbs_hernieuwbaar        # dashboard 8 + toetsen: CBS hernieuwbaar, RES-regio, IEA-WACC, RVO-factor (t37-t41)
 stap "$PY" -m eti.dashboard_extra         # dashboards 2-4: gebeurtenissen, kannibalisatie, kern/zon, leercurve, kwadrantuitleg (t42-t46)
 stap "$PY" -m eti.dashboard1_revisie      # dashboard 1 revisie: KPI-tegels, rangorde, leesbare scenarios, top 10, segmentkleuren (t47-t49)
+stap "$PY" -m eti.validatie_extern        # externe validatie: Modo, Enervis, ITRPV, Kamerstukken (t52); voor assurance
 stap "$PY" -m eti.assurance_overzicht      # dashboard 7: controlematrix en risicokaart (t15-t16), als laatste: leest t33, t37, t41
 stap "$PY" -m eti.kpi_dashboards          # ontwerpnorm: KPI-tegels voor dashboards 2, 3, 4, 7 (t50), na assurance
 stap "$PY" -m eti.vertaal_en              # Engelse tabellen voor de Engelse dashboards (tableau/data_en), als laatste
