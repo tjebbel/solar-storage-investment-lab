@@ -1,0 +1,24 @@
+Congestion area,Available capacity offtake MW,Required capacity offtake MW,Queue offtake MW,Available capacity feed-in MW,Required capacity feed-in MW,Queue feed-in MW,Ratio offtake,Shortage offtake MW,Year solved offtake,Ratio feed-in,Shortage feed-in MW,Year solved feed-in
+Zwolle West,300,386,,,,,1.287,86,2035,,,
+Enschede,239,299,200,,,,1.251,60,2035,,,
+Zeeland,1267,1283,340,,,,1.013,16,2035,,,
+Groningen West,,,,376,524,319,,,,1.394,148,2035
+Noord-Brabant,2282,4260,914,1611,2309,299,1.867,1978,2036,1.433,698,2036
+Zwolle Hessenweg,,,,700,851,500,,,,1.216,151,2036
+Noordelijk Zuid-Holland,2319,3195,715,,,,1.378,876,2034,,,
+Noord-Holland Noord,,,,240,713,990,,,,2.971,473,2027
+"Flevopolder, Utrecht en Gelderland",3000,4549,1048,2613,4654,2141,1.516,1549,2035,1.781,2041,2035
+Limburg,1200,2208,1665,1260,1368,1644,1.84,1008,2034,1.086,108,2034
+Hengelo,,,,675,710,80,,,,1.052,35,2036
+Drenthe,,,,509,712,65,,,,1.399,203,2034
+Eemshaven Midden,370,376,,,,,1.016,6,2033,,,
+Haven van Rotterdam,716,919,677,,,,1.284,203,2032,,,
+Noord-Holland,4140,6992,3001,,,,1.689,2852,2036,,,
+Friesland,,,,699,975,,,,,1.395,276,2033
+Crayestein,,,,,,,,,,,,
+Groningen 220/20,,,,,,,,,,,,
+Groningen Oost,,,,,,,,,,,,
+Musselkanaal,,,,,,,,,,,,
+Noordoostpolder,,,,,,,,,,,,2032
+Westland,,,,,,,,,,,,
+Maasvlakte,,,,,,,,,,,,

@@ -5,7 +5,7 @@ Controle                                             Doel                       
      C04                        Power BI rekent hetzelfde                                                                                                                                  wacht op Fabric-toegang                   Open
      C05             Zonaandeel in twee bronnen sluit aan                                                              82 sluiten aan, 34 dekkingsgaten, 66 wijken af; het verschil verdwijnt zonder dekkingsgaten    Afwijking verklaard
      C06       Correctiefactor werkt buiten de steekproef                                                                                         mediane fout 13% -> 7% na correctie, 60% van 65 land-jaren beter Geslaagd met beperking
-     C07                                 Testsuite slaagt                                                                                                         tests niet gedraaid in deze run; gebruik --tests                   Open
+     C07                                 Testsuite slaagt                                                                                                                               236 tests, 28 overgeslagen               Geslaagd
      C08 Prestaties reproduceerbaar op een tweede machine                                                                                           patroon gelijk; SQL Server-plan draaide de tweede keer serieel Geslaagd met beperking
      C09                Volledigheid kerncijfers per land                                                                   Oekraine zonder 2025-cijfer; vermogen Belgie geeft benutting boven 100% (leeg gelaten)    Afwijking verklaard
      C10                    Teken en dekking grensstromen                                                                                                         nog niet gecontroleerd; daarom niet gepubliceerd                   Open
@@ -21,7 +21,7 @@ Controle                                             Doel                       
      C20    Netcongestie-wachtrij tegen officiele cijfers Regionaal, afname 8.05 tegen 9.1 GW; Regionaal, invoeding 4.07 tegen 4.6 GW; TenneT, afname 8.56 tegen 38.0 GW (invoeding na correctie verschoven kolom)         Afwijking open
      C21               Capture rates tegen marktanalisten                                                          6 van 6 capture rates binnen 0,03 van Modo/Enervis (Duitsland 2022/2024/2025: 0.94, 0.59, 0.52)               Geslaagd
 
-Status: Geslaagd 7, Afwijking verklaard 5, Open 4, Afwijking open 3, Geslaagd met beperking 2
+Status: Geslaagd 8, Afwijking verklaard 5, Open 3, Afwijking open 3, Geslaagd met beperking 2
 
                                                              Risico  Kans  Impact                                   Maatregel Dashboards  Score
                               Gemiddelde of marginale emissiefactor     3       3                       beide varianten tonen   5, 7, 14      9

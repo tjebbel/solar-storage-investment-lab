@@ -1,0 +1,49 @@
+Grid operator,Province,Areas,Available capacity offtake MW,Required capacity offtake MW,Available capacity feed-in MW,Required capacity feed-in MW,Queue offtake MW,Queue feed-in MW,Shortage offtake MW,Shortage feed-in MW,Year solved offtake,Year solved feed-in,Share of areas with offtake shortage
+"Coteq, Enexis",Overijssel,4,315.8,234.12,305.16,146.327,33.022,104.523,0,0,2027,2027,0
+Enexis,Drenthe,6,369.57,218.586,352.77,376.284,62.917,129.596,33.3255,142.531,2028,2030,0.167
+Enexis,"Drenthe, Friesland, Groningen",1,174.3,111.839,174.3,110.9,43.503,18.921,0,0,2026,2026,0
+Enexis,"Drenthe, Groningen",6,653.77,273.412,651.24,299.006,67.517,249.33,0,0,2026,2027.5,0
+Enexis,"Drenthe, Overijssel",6,552.4,289.893,541.72,305.498,102.26,223.111,0,1.61241,2026,2028,0
+Enexis,"Flevoland, Overijssel",1,34,20.7092,33.66,21.1704,11.43,0.144,0,0,2032,2026,0
+Enexis,"Friesland, Groningen",1,176.84,48.6501,171.83,46.6663,12.218,5.386,0,0,2026,2026,0
+Enexis,"Gelderland, Overijssel",3,162.64,112.794,157.51,92.4774,35.169,20.713,0,0,2029,2029,0
+Enexis,Groningen,8,1484.22,768.271,1472.37,872.217,118.447,95.627,11.3015,0,2026,2026,0.125
+Enexis,Limburg,25,2484.34,1291.7,2430.29,921.918,706.829,538.707,0,5.57,2026,2026,0
+Enexis,"Limburg, Noord-Brabant",3,383.1,203.871,364.11,274.262,151.589,528.305,0,24.4666,2028,2028,0
+Enexis,Noord-Brabant,33,4459.82,3095.74,4161.28,2053.3,1782.04,1291.69,18.1203,14.1801,2029,2028,0.121
+Enexis,Overijssel,19,1147.69,793.491,1130.44,679.357,282.168,458.268,0,4.45955,2027.5,2027.5,0
+"Enexis, Rendo","Drenthe, Friesland, Overijssel",1,85.99,37.0078,85.99,31.8599,8.289,38.67,0,0,2026,2031,0
+"Enexis, Rendo","Drenthe, Overijssel",1,103.75,79.943,97.53,87.2307,42.039,9.167,0,0,2026,2027,0
+Liander,"Drenthe, Friesland, Groningen",1,36,27,36,37,5.20336,0,0,1,,2033,0
+Liander,"Drenthe, Friesland, Overijssel",1,55,29,83,50,6.63778,0,0,0,,,0
+Liander,Flevoland,16,951,586,1316,564,316.39,0,8,3,2031,2031,0.062
+Liander,"Flevoland, Friesland",1,88,62,145,64,4.88946,0,0,0,2033,2033,0
+Liander,"Flevoland, Friesland, Overijssel",1,0,0,0,0,17.5783,0,0,0,,,0
+Liander,"Flevoland, Gelderland",1,48,47,72,22,13.6112,0,0,0,,,0
+Liander,"Flevoland, Noord-Holland",3,108,89,190,64,22.5869,0,0,0,2031.5,2029,0
+Liander,"Flevoland, Noord-Holland, Zuid-Holland",1,35,26,60,21,3.69582,0,0,0,,,0
+Liander,Friesland,24,1199,732,1818,677,164.483,0,19,7,2031,2029,0.083
+Liander,"Friesland, Gelderland",1,33,28,51,0,8.52594,0,0,0,2029,,0
+Liander,"Friesland, Groningen",2,90,81,135,78,15.7058,0,9,0,2034,2034,0.5
+Liander,"Friesland, Overijssel",1,36,39,36,33,8.66866,0,3,0,2033,2033,1
+Liander,Gelderland,49,2764,1752,4152,1544,1068.65,0,16,22,2032,2032,0.061
+Liander,"Gelderland, Limburg",2,82,64,124,62,48.8274,0,0,0,2029,2030,0
+Liander,"Gelderland, Noord-Holland",2,44,34,66,12,8.12471,0,0,0,2031,,0
+Liander,"Gelderland, Noord-Holland, Overijssel",1,55,27,55,29,0,0,0,0,,,0
+Liander,"Gelderland, Overijssel",8,377,180,589,223,197.73,0,4,0,2029,2032.5,0.125
+Liander,"Gelderland, Utrecht",4,225,203,279,149,109.622,0,4,0,2029,,0.25
+Liander,"Gelderland, Zuid-Holland",1,22,20,22,8,2.18948,0,0,0,2031,,0
+Liander,"Groningen, Zuid-Holland",1,30,27,30,43,3.9522,0,0,13,2027,2027,0
+Liander,Noord-Holland,94,3120,2581,4167,1056,1013.67,0,181,12,2031,2032,0.223
+Liander,"Noord-Holland, Utrecht",5,265,198,277,17,49.0551,0,0,0,2031.5,,0
+Liander,"Noord-Holland, Zuid-Holland",2,66,44,72,16,5.50294,0,2,0,2030,,0.5
+Liander,Zuid-Holland,18,644,486,824,173,168.247,0,5,0,2030,2030.5,0.167
+Stedin,"Gelderland, Utrecht",2,0,0,0,0,12.416,2.907,0,0,,,0
+Stedin,"Gelderland, Utrecht, Zuid-Holland",1,175,153.1,0,0,50.155,0,0,0,2031,,0
+Stedin,"Noord-Holland, Utrecht",3,400,353.9,0,0,18.239,5.025,3.1,0,2034.5,,0.333
+Stedin,"Noord-Holland, Utrecht, Zuid-Holland",1,0,0,0,0,4.806,1.038,0,0,,,0
+Stedin,Utrecht,26,692.2,627.252,315,348.261,230.329,167.417,12.373,37.844,2029.5,2035,0.115
+Stedin,"Utrecht, Zuid-Holland",2,55,61.41,0,0,19.87,3.206,10.8,0,2030.5,,0.5
+Stedin,Zeeland,19,205.4,196.3,210.8,384.693,349.289,24.201,6.1,173.893,2032.5,2031,0.105
+Stedin,Zuid-Holland,40,1350,1287.84,327.9,413.627,491.711,45.792,48.136,85.727,2033,2028,0.225
+Westland,Zuid-Holland,2,693,344,693,618,0,104,0,0,,,0

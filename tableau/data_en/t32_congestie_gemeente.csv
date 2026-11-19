@@ -1,0 +1,343 @@
+Province,Municipality,Postcodes,Offtake limited %,Offtake available %,Offtake under study %,Offtake shortage %,Feed-in limited %,Feed-in available %,Feed-in under study %,Feed-in shortage %
+Drenthe,Aa en Hunze,897,12.3,0,62.2,25.5,0,32,7.1,60.9
+Drenthe,Assen,1882,0,0,18.2,81.8,0,60.6,0,39.4
+Drenthe,Borger-Odoorn,795,0,8.3,71.7,20,0,45.4,0.3,54.3
+Drenthe,Coevorden,1217,0,65.5,20.1,14.4,0,93,1.1,5.9
+Drenthe,De Wolden,788,0,5.2,0,94.8,0,40.5,0,59.5
+Drenthe,Emmen,3250,0,19.5,60.6,19.9,0,77,3,19.9
+Drenthe,Hoogeveen,1590,0,2.1,0,97.9,0,2.1,0,97.9
+Drenthe,Meppel,986,0.3,10.6,0,89,0,99.9,0,0.1
+Drenthe,Midden-Drenthe,1106,12.2,2.1,13.7,72,12.2,56.3,8.2,23.2
+Drenthe,Noordenveld,1095,0,72.3,0,27.7,0,72.7,0.2,27.1
+Drenthe,Tynaarlo,1114,33.1,36.4,0.2,30.3,0,97,0,3
+Drenthe,Westerveld,726,0.4,32.2,4.3,63.1,0.4,96.7,1.5,1.4
+Flevoland,Almere,5924,20.8,0.1,1.8,77.3,51.2,41.9,6.9,0
+Flevoland,Dronten,1101,55.5,0.7,0.9,42.9,55.9,0.6,43.5,0
+Flevoland,Lelystad,2050,0,2,1.7,96.3,90.4,2,7.6,0
+Flevoland,Noordoostpolder,1514,1,0.1,0.7,98.3,1.7,0,82.1,16.2
+Flevoland,Urk,414,0,0,0,100,0,0,100,0
+Flevoland,Zeewolde,643,68.9,12.8,0,18.4,64.5,1.4,34.1,0
+Friesland,Achtkarspelen,869,0,0.2,0,99.8,0,0.2,99.8,0
+Friesland,Ameland,266,0,0,0,100,0,0,100,0
+Friesland,Dantumadiel,559,0,0,0,100,0,0,100,0
+Friesland,De Fryske Marren,1779,0.1,0.2,0,99.7,3.7,0.1,96.2,0
+Friesland,Harlingen,512,0,0,0,100,0,0,100,0
+Friesland,Heerenveen,1679,1.6,27.8,12.2,58.4,34.8,5.1,60.2,0
+Friesland,Leeuwarden,3812,22.9,0,1.9,75.2,4.1,21.6,74.3,0
+Friesland,Noardeast-Fryslân,1742,0,0.3,0.1,99.6,0,0.3,99.6,0.1
+Friesland,Ooststellingwerf,805,0,36.9,1.1,62,0,0,100,0
+Friesland,Opsterland,849,0,0.1,0,99.9,1.2,0.1,98.7,0
+Friesland,Schiermonnikoog,83,0,0,0,100,0,0,100,0
+Friesland,Smallingerland,1493,0,0,0,100,3.5,0,96.5,0
+Friesland,Súdwest-Fryslân,3081,7.6,3.5,0,88.9,38.2,0.1,61.7,0
+Friesland,Terschelling,205,0,0,20,80,0,0,100,0
+Friesland,Tytsjerksteradiel,880,0,0,0,100,0,0,100,0
+Friesland,Vlieland,55,0,0,100,0,0,0,100,0
+Friesland,Waadhoeke,1656,15.2,0.1,0,84.7,0.1,0.1,99.9,0
+Friesland,Weststellingwerf,903,1.8,38.3,3.4,56.5,38.9,0.8,60.1,0.2
+Gelderland,Aalten,831,0.2,0,23.7,76.1,0.2,0,99.8,0
+Gelderland,Apeldoorn,4612,16.3,1.4,1.6,80.7,34.7,51.5,13.7,0
+Gelderland,Arnhem,4238,14.9,5.7,25.9,53.4,0.5,94.1,5.4,0
+Gelderland,Barneveld,1387,7.9,3.5,2.6,85.9,6.5,24.6,68.9,0
+Gelderland,Berg en Dal,1042,0,0,34.8,65.2,0.6,10.2,89.3,0
+Gelderland,Berkelland,1556,40.8,28.5,9.1,21.7,0.3,33.5,66.3,0
+Gelderland,Beuningen,701,0,0,17.8,82.2,0,18.7,81.3,0
+Gelderland,Bronckhorst,1276,18.1,23.4,0.2,58.2,5.7,30,58.2,6
+Gelderland,Brummen,699,25.8,1,70.2,3,28.2,0,71.8,0
+Gelderland,Buren,792,0,13.3,5.6,81.2,0,13.3,86.7,0
+Gelderland,Culemborg,767,0.1,0,0,99.9,0,0.1,99.9,0
+Gelderland,Doesburg,340,0,67.1,3.8,29.1,0,67.6,32.4,0
+Gelderland,Doetinchem,1616,26.3,19.1,10,44.6,0,61,39,0
+Gelderland,Druten,501,0,0,21.6,78.4,0,0,100,0
+Gelderland,Duiven,639,11.3,0,0.5,88.3,17.7,51.3,31,0
+Gelderland,Ede,2740,54.7,0,3.2,42.1,19.5,50.2,30.3,0
+Gelderland,Elburg,654,0,0,0,100,0,2.8,97.2,0
+Gelderland,Epe,1040,51.5,0,0,48.5,12.2,0,86.4,1.3
+Gelderland,Ermelo,729,11.5,0,2.6,85.9,73.8,9.7,16.5,0
+Gelderland,Harderwijk,1210,17.6,0,9.3,73.1,7.1,44.5,48.3,0
+Gelderland,Hattem,376,0,0,0,100,18.4,0.3,81.4,0
+Gelderland,Heerde,522,0,0,0,100,0,0,100,0
+Gelderland,Heumen,453,0,0,17.4,82.6,0.4,17,82.6,0
+Gelderland,Lingewaard,1174,0,1.1,0.1,98.8,1,0.1,98.9,0
+Gelderland,Lochem,1291,0.2,0.5,4.5,94.7,10.8,0.5,88.7,0
+Gelderland,Maasdriel,723,24.9,0,0,75.1,27.8,0,72.2,0
+Gelderland,Montferland,1099,4.2,43.4,29.3,23.1,4.5,50.3,45.1,0
+Gelderland,Neder-Betuwe,608,0,0,0.2,99.8,0,0.2,99.8,0
+Gelderland,Nijkerk,1134,0,0,0.4,99.6,26.1,17.7,56.2,0
+Gelderland,Nijmegen,5155,0,6.8,32.5,60.7,12,56.6,31.4,0
+Gelderland,Nunspeet,740,11.4,0,0,88.6,0.4,77.8,21.8,0
+Gelderland,Oldebroek,617,0,0,0,100,24.3,0.2,75.5,0
+Gelderland,Oost Gelre,933,38,0.5,0,61.4,23.9,0.5,75.6,0
+Gelderland,Oude IJsselstreek,1247,0,3.3,70.3,26.4,0,3.4,96.6,0
+Gelderland,Overbetuwe,1410,6.3,22.3,17.7,53.7,3.2,41.3,55.5,0
+Gelderland,Putten,581,53.9,0,5,41.1,41,0.9,58.2,0
+Gelderland,Renkum,1003,38.8,0,0,61.2,0,100,0,0
+Gelderland,Rheden,1429,32.4,1.5,0,66.1,32.1,63.1,4.8,0
+Gelderland,Rozendaal,70,2.9,0,0,97.1,2.9,12.9,84.3,0
+Gelderland,Scherpenzeel,252,1.2,0.4,0,98.4,1.2,0.4,98.4,0
+Gelderland,Tiel,1064,0,0.4,15.1,84.5,0,0.4,99.6,0
+Gelderland,Voorst,731,3.4,8.6,0,88,10.1,0.1,65.1,24.6
+Gelderland,Wageningen,995,12.5,0,84.4,3.1,84.4,12.6,3,0
+Gelderland,West Betuwe,1493,6.3,0.1,13.9,79.7,2.8,23.2,74,0
+Gelderland,West Maas en Waal,610,0,9.3,20.3,70.3,0,0,100,0
+Gelderland,Westervoort,390,0,0,0,100,48.2,51.8,0,0
+Gelderland,Wijchen,1218,0,0,0,100,0,0,100,0
+Gelderland,Winterswijk,884,25.6,0,64,10.4,40.6,0,59.4,0
+Gelderland,Zaltbommel,821,34.2,0.1,3.3,62.4,60.3,3.3,36.4,0
+Gelderland,Zevenaar,1437,55.3,0,11.2,33.5,47.2,21.4,31.5,0
+Gelderland,Zutphen,1398,0.3,77.2,9.9,12.6,0,21,79,0
+Groningen,Eemsdelta,1789,2,44.9,52.8,0.3,0.2,2.6,10.4,86.9
+Groningen,Groningen,6429,0.1,17.4,54.2,28.3,28,71.9,0,0.1
+Groningen,Het Hogeland,1763,21.1,1.6,58.1,19.2,0.7,42.4,1.5,55.4
+Groningen,Midden-Groningen,1709,38.5,13.6,2.8,45.1,0,63.3,2.4,34.3
+Groningen,Oldambt,1365,70.9,6.2,1.7,21.2,3.4,0.6,58.8,37.2
+Groningen,Pekela,410,35.4,0,2.9,61.7,0,2.9,63.2,33.9
+Groningen,Stadskanaal,986,8,17.3,6.4,68.3,0,23.7,5.6,70.7
+Groningen,Veendam,853,5.2,0,0.2,94.6,0,0.2,58.7,41
+Groningen,Westerkwartier,2079,0,81.8,18,0.2,0,93.9,0.2,5.9
+Groningen,Westerwolde,931,20.5,43,36.4,0.1,1.7,79.3,18.8,0.2
+Limburg,Beek (L.),409,0,100,0,0,0,100,0,0
+Limburg,Beekdaelen,1088,0,99.8,0,0.2,0,100,0,0
+Limburg,Beesel,334,0,100,0,0,0,100,0,0
+Limburg,Bergen (L.),393,0.3,1.8,0,98,0,2,0,98
+Limburg,Brunssum,783,0,100,0,0,0,99.5,0.5,0
+Limburg,Echt-Susteren,918,0,99.5,0.5,0,0,42.3,56.3,1.4
+Limburg,Eijsden-Margraten,705,0,34.5,65.5,0,0,100,0,0
+Limburg,Gennep,516,0,100,0,0,0,100,0,0
+Limburg,Gulpen-Wittem,457,0,100,0,0,0,100,0,0
+Limburg,Heerlen,2433,0,100,0,0,0,99.5,0.5,0
+Limburg,Horst aan de Maas,1204,44.9,54.2,0,0.9,0,99.1,0,0.9
+Limburg,Kerkrade,1272,0,100,0,0,0,99,1,0
+Limburg,Landgraaf,986,0,100,0,0,0,0.1,99.9,0
+Limburg,Leudal,1146,0,38.5,42.9,18.6,0,29.1,43.1,27.7
+Limburg,Maasgouw,741,0,74.1,25.9,0,0,0.3,28.9,70.9
+Limburg,Maastricht,3010,0,79.9,16.7,3.4,0,100,0,0
+Limburg,Meerssen,504,0,17.1,1.4,81.5,0,100,0,0
+Limburg,Mook en Middelaar,245,0,99.2,0,0.8,0,99.2,0.8,0
+Limburg,Nederweert,500,0,8,0.2,91.8,0,4.6,89,6.4
+Limburg,Peel en Maas,1219,0,98.8,0.8,0.4,0,67.8,32.2,0
+Limburg,Roerdalen,633,0,46.1,53.9,0,0,22.7,13,64.3
+Limburg,Roermond,1465,0,91.3,1.3,7.4,0,98.7,1.3,0
+Limburg,Simpelveld,315,0,100,0,0,0,100,0,0
+Limburg,Sittard-Geleen,2721,0,62.4,0,37.6,0,100,0,0
+Limburg,Stein (L.),692,0,27.9,0,72.1,0,100,0,0
+Limburg,Vaals,259,0,100,0,0,0,100,0,0
+Limburg,Valkenburg aan de Geul,447,0,96,0,4,0,100,0,0
+Limburg,Venlo,2647,5.2,62,32.8,0,0,81.2,18.8,0
+Limburg,Venray,1215,0,15.9,0,84.1,0,15.8,0.1,84.1
+Limburg,Voerendaal,374,0,100,0,0,0,100,0,0
+Limburg,Weert,1362,0.1,52.9,0,47.1,0,43,47.1,10
+Noord-Brabant,'s-Hertogenbosch,3908,0,55.7,0,44.3,0,81.1,17.5,1.4
+Noord-Brabant,Alphen-Chaam,315,2.2,97.8,0,0,0,97.8,0,2.2
+Noord-Brabant,Altena,1503,0,100,0,0,0,86.8,0,13.2
+Noord-Brabant,Asten,478,3.6,0,0,96.4,0,0,0,100
+Noord-Brabant,Baarle-Nassau,214,0.9,99.1,0,0,0,99.1,0,0.9
+Noord-Brabant,Bergeijk,513,0,1.9,14.8,83.2,0,16.8,0,83.2
+Noord-Brabant,Bergen op Zoom,1759,0,99.3,0,0.7,0,79.6,19.7,0.7
+Noord-Brabant,Bernheze,870,0,0.6,0,99.4,0,0.6,0,99.4
+Noord-Brabant,Best,800,0,0.5,0,99.5,0,100,0,0
+Noord-Brabant,Bladel,552,0,0,0,100,0,0,0,100
+Noord-Brabant,Boekel,270,0,1.9,0,98.1,0,0,0,100
+Noord-Brabant,Boxtel,895,0,100,0,0,0,100,0,0
+Noord-Brabant,Breda,3974,0,67.3,0,32.7,0,99.9,0,0.1
+Noord-Brabant,Cranendonck,632,100,0,0,0,0,0,0,100
+Noord-Brabant,Deurne,930,0.1,72.7,0,27.2,0,72.4,0,27.6
+Noord-Brabant,Dongen,690,0,99.4,0,0.6,0,99.3,0.1,0.6
+Noord-Brabant,Drimmelen,732,0,100,0,0,0,100,0,0
+Noord-Brabant,Eersel,577,0,0,0,100,0,0.3,4.3,95.3
+Noord-Brabant,Eindhoven,5523,0,27.4,0,72.6,0,100,0,0
+Noord-Brabant,Etten-Leur,968,0,12.3,0,87.7,0,12.9,0,87.1
+Noord-Brabant,Geertruidenberg,593,0,100,0,0,0,100,0,0
+Noord-Brabant,Geldrop-Mierlo,1044,0.1,71.6,0,28.4,0,71.9,0,28.1
+Noord-Brabant,Gemert-Bakel,896,0,100,0,0,0,0,0,100
+Noord-Brabant,Gilze en Rijen,655,37.3,62.7,0,0,0,62.7,0,37.3
+Noord-Brabant,Goirle,587,99.3,0.7,0,0,0,0.7,0,99.3
+Noord-Brabant,Halderberge,867,0,0.3,0,99.7,0,0.3,0,99.7
+Noord-Brabant,Heeze-Leende,440,98.9,0.9,0,0.2,0,0.9,0,99.1
+Noord-Brabant,Helmond,2192,0,23.3,0,76.7,0,80.6,0,19.4
+Noord-Brabant,Heusden,1215,0,100,0,0,0,46.4,9.4,44.2
+Noord-Brabant,Hilvarenbeek,465,97.8,0.9,0,1.3,0,0.9,0,99.1
+Noord-Brabant,Laarbeek,668,0,100,0,0,0,0,0,100
+Noord-Brabant,Land van Cuijk,2648,0,87.1,0,12.9,0,5.6,0,94.4
+Noord-Brabant,Loon op Zand,586,0,3.2,0,96.8,0,2.6,0,97.4
+Noord-Brabant,Maashorst,1441,0,4.6,0,95.4,0,0,0,100
+Noord-Brabant,Meierijstad,2066,0,62.7,0,37.3,0,61.5,0,38.4
+Noord-Brabant,Moerdijk,1157,0,60.2,0,39.8,0,95.1,0,4.9
+Noord-Brabant,"Nuenen, Gerwen en Nederwetten",674,0,5.9,0,94.1,0,99.1,0,0.9
+Noord-Brabant,Oirschot,509,0,97.6,0,2.4,0,98,0,2
+Noord-Brabant,Oisterwijk,899,0,0.2,0,99.8,0,0.2,0,99.8
+Noord-Brabant,Oosterhout,1337,0,100,0,0,0,100,0,0
+Noord-Brabant,Oss,2505,0,0,0,100,0,61.4,0.3,38.3
+Noord-Brabant,Reusel-De Mierden,383,0,0.3,0,99.7,0,0.3,0,99.7
+Noord-Brabant,Roosendaal,1899,0,85.7,0,14.3,0,38.3,0.1,61.6
+Noord-Brabant,Rucphen,665,0,0.8,0,99.2,0,0,0,100
+Noord-Brabant,Sint-Michielsgestel,801,0,67.3,0,32.7,0,99.4,0.6,0
+Noord-Brabant,Someren,587,36.3,0,0,63.7,0,0,0,100
+Noord-Brabant,Son en Breugel,528,0,10.2,0,89.8,0,100,0,0
+Noord-Brabant,Steenbergen,765,0,88.1,0,11.9,0,87.3,0.8,11.9
+Noord-Brabant,Tilburg,4795,0.8,87.8,0,11.5,0,87.8,0,12.2
+Noord-Brabant,Valkenswaard,861,0,94.5,5.3,0.1,0,99.9,0,0.1
+Noord-Brabant,Veldhoven,1269,0,20.1,0,79.9,0,75.2,24.5,0.3
+Noord-Brabant,Vught,796,0,81,0,19,0,81,0,19
+Noord-Brabant,Waalre,466,0,99.6,0,0.4,0,100,0,0
+Noord-Brabant,Waalwijk,1216,0,99.5,0,0.5,0,99.5,0,0.5
+Noord-Brabant,Woensdrecht,707,0,100,0,0,0,100,0,0
+Noord-Brabant,Zundert,590,0,30.5,0,69.5,0,30.5,0,69.5
+Noord-Holland,Aalsmeer,739,0.1,0,0.1,99.7,0.4,20.4,79.2,0
+Noord-Holland,Alkmaar,2901,0,0,0,100,0,2.8,97.2,0
+Noord-Holland,Amstelveen,1958,0,0.1,0,99.9,0.1,99.5,0.5,0
+Noord-Holland,Amsterdam,18699,14.4,14.1,2.9,68.5,0.3,99.2,0.5,0
+Noord-Holland,Bergen (NH.),921,0,0,0,100,0,0,100,0
+Noord-Holland,Beverwijk,958,3.1,0,0,96.9,72.3,8.7,19,0
+Noord-Holland,Blaricum,386,0.3,0,0,99.7,0,100,0,0
+Noord-Holland,Bloemendaal,712,0.1,13.3,0,86.5,15.7,44.7,39.6,0
+Noord-Holland,Castricum,934,0,0,0,100,0,0,100,0
+Noord-Holland,Den Helder,1553,0,0,0,100,0,0,100,0
+Noord-Holland,Diemen,675,96.9,0,1.2,1.9,0,100,0,0
+Noord-Holland,Dijk en Waard,1991,0,0,0,100,0.8,0,99.2,0
+Noord-Holland,Drechterland,494,0,0,0,100,0,0,100,0
+Noord-Holland,Edam-Volendam,1074,0,0,0,100,0,97.9,2.1,0
+Noord-Holland,Enkhuizen,516,0,0,0,100,0,0,100,0
+Noord-Holland,Gooise Meren,1861,0,0,0,100,0,79.8,20.2,0
+Noord-Holland,Haarlem,4059,22.5,0,0,77.5,1.8,97.8,0.4,0
+Noord-Holland,Haarlemmermeer,3460,3.9,0,1.5,94.6,38.9,46.6,14.5,0
+Noord-Holland,Heemskerk,882,0,0,0,100,49.3,0.1,50.6,0
+Noord-Holland,Heemstede,800,99.5,0,0,0.5,99.5,0.1,0.4,0
+Noord-Holland,Heiloo,567,0,0,0,100,0,0,100,0
+Noord-Holland,Hilversum,2357,0,0,0,100,0.1,95.4,4.5,0
+Noord-Holland,Hollands Kroon,1372,0,0.3,0,99.7,0.5,0,99.5,0
+Noord-Holland,Hoorn,1588,0,0,0,100,0,0,100,0
+Noord-Holland,Huizen,1292,0,0,0,100,0,100,0,0
+Noord-Holland,Koggenland,586,0,0,0,100,0.2,0.5,99.3,0
+Noord-Holland,Landsmeer,324,0,0,0,100,0,99.4,0.6,0
+Noord-Holland,Laren (NH.),374,0.5,0,0,99.5,0,100,0,0
+Noord-Holland,Medemblik,1131,0,0,0,100,0.4,0,99.6,0
+Noord-Holland,Oostzaan,219,0,0,0,100,0,74,26,0
+Noord-Holland,Opmeer,292,0,0,0,100,6.8,0,93.2,0
+Noord-Holland,Ouder-Amstel,410,0,0,0.2,99.8,0,76.1,23.9,0
+Noord-Holland,Purmerend,2113,0,0,0,100,0,86.4,13.6,0
+Noord-Holland,Schagen,1354,0,0,0,100,1,0,99,0
+Noord-Holland,Stede Broec,483,0,0,0,100,0,0,100,0
+Noord-Holland,Texel,603,0,0,0,100,0,0,100,0
+Noord-Holland,Uitgeest,303,0,0,0,100,0,0,100,0
+Noord-Holland,Uithoorn,795,0.1,0,0,99.9,0.3,96.2,3.5,0
+Noord-Holland,Velsen,1871,62.5,0,0,37.5,0,99.9,0.1,0
+Noord-Holland,Waterland,545,0,0,0,100,0,20.6,79.4,0
+Noord-Holland,Wijdemeren,651,6.3,18.6,0,75.1,5.2,33.6,61.1,0
+Noord-Holland,Wormerland,386,0,0,0,100,0,85.5,14.5,0
+Noord-Holland,Zaanstad,3826,0,0,0,100,2.9,91.6,5.5,0
+Noord-Holland,Zandvoort,522,0,0,0,100,0,61.1,38.9,0
+Overijssel,Almelo,2156,50.3,0,0,49.7,47.1,4.8,2.2,46
+Overijssel,Borne,676,0,0,0,100,0,100,0,0
+Overijssel,Dalfsen,838,3.1,0,35,61.9,0,42.7,0,57.3
+Overijssel,Deventer,2889,47.4,11.2,0,41.4,0,99.3,0.6,0.1
+Overijssel,Dinkelland,965,0.4,81.2,0.2,18.1,0,99.8,0.2,0
+Overijssel,Enschede,4093,0,5.1,0,94.9,0,64,0,36
+Overijssel,Haaksbergen,685,99.1,0.7,0,0.1,0,99.9,0.1,0
+Overijssel,Hardenberg,1792,41.4,37.9,11.5,9.2,5.4,47.7,0,46.9
+Overijssel,Hellendoorn,1010,95.8,0,0,4.2,85.1,9,0.9,5
+Overijssel,Hengelo (O.),2397,0,0,0,100,0,100,0,0
+Overijssel,Hof van Twente,1102,68.9,0.2,0,30.9,29.9,50,0.5,19.5
+Overijssel,Kampen,1334,0.1,0,0,99.9,0,99.9,0.1,0
+Overijssel,Losser,702,0,99.4,0.4,0.1,0,99.6,0.4,0
+Overijssel,Oldenzaal,981,0,5.2,93.2,1.6,0,6.8,93.2,0
+Overijssel,Olst-Wijhe,554,86.8,0,0,13.2,85.6,1.1,0.7,12.6
+Overijssel,Ommen,559,8.9,0,0,91.1,3.4,0.5,0,96.1
+Overijssel,Raalte,1178,0.2,0,0,99.8,0.1,1.4,0,98.5
+Overijssel,Rijssen-Holten,978,0.1,0,0,99.9,0,0,0,100
+Overijssel,Staphorst,427,3.7,0,0.5,95.8,0,92.3,0,7.7
+Overijssel,Steenwijkerland,1402,5.3,91.2,0.1,3.5,0.3,75.1,0.3,24.3
+Overijssel,Tubbergen,758,98.2,1.6,0,0.3,0,99.3,0,0.7
+Overijssel,Twenterand,879,100,0,0,0,60.1,0.7,38.1,1.1
+Overijssel,Wierden,688,94.5,0,0,5.5,0.1,93.9,1.2,4.8
+Overijssel,Zwartewaterland,663,99.5,0,0,0.5,0,100,0,0
+Overijssel,Zwolle,3399,6.2,0,0,93.8,0,100,0,0
+Utrecht,Amersfoort,3628,74.1,0,0,25.9,38.5,61.2,0.4,0
+Utrecht,Baarn,713,2.2,0,0,97.8,0.1,99.9,0,0
+Utrecht,Bunnik,438,33.8,0,0,66.2,37.7,61.4,0,0.9
+Utrecht,Bunschoten,528,99.6,0,0,0.4,0,100,0,0
+Utrecht,De Bilt,1237,0.5,0,0,99.5,99.8,0.2,0,0
+Utrecht,De Ronde Venen,1176,41.6,0.1,0,58.3,57,43,0,0
+Utrecht,Eemnes,244,0,0,0,100,0,100,0,0
+Utrecht,Houten,1169,99.7,0,0,0.3,0.2,0.3,0,99.6
+Utrecht,IJsselstein,800,100,0,0,0,99.9,0.1,0,0
+Utrecht,Leusden,831,13,86.9,0,0.1,0,99.9,0.1,0
+Utrecht,Lopik,363,22.9,0,0,77.1,100,0,0,0
+Utrecht,Montfoort,330,1.8,0,0,98.2,100,0,0,0
+Utrecht,Nieuwegein,1770,84.7,0,0,15.3,21.9,39.2,0,38.9
+Utrecht,Oudewater,267,73,0,0,27,100,0,0,0
+Utrecht,Renswoude,110,0,0.9,0,99.1,95.5,3.6,0.9,0
+Utrecht,Rhenen,465,78.5,0,0,21.5,100,0,0,0
+Utrecht,Soest,1172,53.8,0,0,46.2,10,90,0,0
+Utrecht,Stichtse Vecht,1650,14.7,24.5,0,60.8,58.2,41.8,0,0
+Utrecht,Utrecht,8434,16.8,0.4,0,82.8,41.6,41.4,0,17
+Utrecht,Utrechtse Heuvelrug,1406,0.1,2.5,0,97.4,57.6,42.4,0,0
+Utrecht,Veenendaal,1527,6.4,0,0,93.6,91.5,0,8.5,0
+Utrecht,Vijfheerenlanden,1503,0,0,0,100,65.9,34.1,0,0
+Utrecht,Wijk bij Duurstede,580,89.1,0,0,10.9,9.3,1.6,0,89.1
+Utrecht,Woerden,1341,0,9.5,0,90.5,31.2,68.8,0,0
+Utrecht,Woudenberg,318,0.3,98.4,0,1.3,0.9,98.4,0.6,0
+Utrecht,Zeist,1711,79.3,0.3,0,20.5,86,14,0,0
+Zeeland,Borsele,890,100,0,0,0,100,0,0,0
+Zeeland,Goes,1195,100,0,0,0,100,0,0,0
+Zeeland,Hulst,973,100,0,0,0,100,0,0,0
+Zeeland,Kapelle,381,92.9,0,0,7.1,100,0,0,0
+Zeeland,Middelburg (Z.),1604,96.4,0,0,3.6,96.4,0,0,3.6
+Zeeland,Noord-Beveland,458,100,0,0,0,100,0,0,0
+Zeeland,Reimerswaal,729,0,0,0,100,58.7,0,0,41.3
+Zeeland,Schouwen-Duiveland,1501,0.3,21.5,0,78.3,0,0,0,100
+Zeeland,Sluis,1259,100,0,0,0,100,0,0,0
+Zeeland,Terneuzen,1967,88.1,11.3,0,0.6,44.6,55.4,0,0
+Zeeland,Tholen,898,48.3,0,0,51.7,0,0,0,100
+Zeeland,Veere,1099,15.9,0,0,84.1,15.9,0,0,84.1
+Zeeland,Vlissingen,1458,100,0,0,0,100,0,0,0
+Zuid-Holland,'s-Gravenhage,13299,11.7,7.4,0,81,43.6,54.6,0,1.8
+Zuid-Holland,Alblasserdam,391,3.8,0,0,96.2,96.2,3.8,0,0
+Zuid-Holland,Albrandswaard,514,86,0,0,14,100,0,0,0
+Zuid-Holland,Alphen aan den Rijn,2680,3.8,0,9.9,86.3,1,35.1,63.8,0
+Zuid-Holland,Barendrecht,817,0,0,0,100,100,0,0,0
+Zuid-Holland,Bodegraven-Reeuwijk,877,52.1,0.1,0,47.8,64.3,35.5,0.2,0
+Zuid-Holland,Capelle aan den IJssel,1144,21.9,0,0,78.1,100,0,0,0
+Zuid-Holland,Delft,2720,97.4,2.6,0,0,36.1,63.5,0.4,0
+Zuid-Holland,Dordrecht,2313,0,0,0,100,38.9,0,0,61.1
+Zuid-Holland,Goeree-Overflakkee,1317,32.6,67.4,0,0,0,100,0,0
+Zuid-Holland,Gorinchem,1064,0,0,0,100,100,0,0,0
+Zuid-Holland,Gouda,2020,62.2,0,0,37.8,62.1,37.8,0,0
+Zuid-Holland,Hardinxveld-Giessendam,370,0,0,0,100,100,0,0,0
+Zuid-Holland,Hendrik-Ido-Ambacht,534,0,0,0,100,99.8,0.2,0,0
+Zuid-Holland,Hillegom,575,0,0,0,100,99.7,0,0.3,0
+Zuid-Holland,Hoeksche Waard,2059,0,0,0,100,0,0,0,100
+Zuid-Holland,Kaag en Braassem,827,0,0,0,100,64.9,8.6,26.5,0
+Zuid-Holland,Katwijk,1594,0,0,0,100,0,100,0,0
+Zuid-Holland,Krimpen aan den IJssel,581,0,0,0,100,4,96,0,0
+Zuid-Holland,Krimpenerwaard,1492,69.2,0,0,30.8,45.2,54.8,0,0
+Zuid-Holland,Lansingerland,1360,72.6,3.1,0,24.3,51.5,3.1,0,45.4
+Zuid-Holland,Leiden,3326,1.7,0,0,98.3,0,81.8,18.1,0
+Zuid-Holland,Leiderdorp,643,23.3,0,0,76.7,0,98.3,1.7,0
+Zuid-Holland,Leidschendam-Voorburg,2030,0.4,0,0,99.6,93.5,0,0.1,6.4
+Zuid-Holland,Lisse,570,0,0,0,100,1.1,96.8,2.1,0
+Zuid-Holland,Maassluis,697,0,100,0,0,0,98.9,1.1,0
+Zuid-Holland,Midden-Delfland,463,1.5,98.5,0,0,1.3,59.4,39.3,0
+Zuid-Holland,Molenlanden,1066,0,0,0,100,99.9,0.1,0,0
+Zuid-Holland,Nieuwkoop,746,57.6,0.5,0,41.8,87.3,0.8,11.9,0
+Zuid-Holland,Nissewaard,1723,0,0,16.6,83.4,16.7,83.2,0,0.1
+Zuid-Holland,Noordwijk,1269,0,0,0,100,17.1,60,22.9,0
+Zuid-Holland,Oegstgeest,680,0,0,0,100,0,100,0,0
+Zuid-Holland,Papendrecht,667,99.9,0,0,0.1,0.1,99.9,0,0
+Zuid-Holland,Pijnacker-Nootdorp,1174,53.5,13.7,0,32.8,49.7,17.5,0,32.8
+Zuid-Holland,Ridderkerk,954,0,0,0,100,100,0,0,0
+Zuid-Holland,Rijswijk (ZH.),1573,6.4,54.2,0,39.4,44.9,55.1,0,0
+Zuid-Holland,Rotterdam,13999,66.2,14.7,0,19.1,66.3,33.6,0.1,0
+Zuid-Holland,Schiedam,1913,31.9,68.1,0,0,31.9,68.1,0,0
+Zuid-Holland,Sliedrecht,521,15.9,0,0,84.1,86.4,13.6,0,0
+Zuid-Holland,Teylingen,1037,0,0,0,100,41.7,28.4,30,0
+Zuid-Holland,Vlaardingen,1551,68.8,31.2,0,0,33.4,66.5,0.1,0
+Zuid-Holland,Voorne aan Zee,1690,0.1,0,81,18.9,100,0,0,0
+Zuid-Holland,Voorschoten,688,0,0,0,100,0.4,2,97.5,0
+Zuid-Holland,Waddinxveen,744,99.7,0,0,0.3,0.1,0,96.9,3
+Zuid-Holland,Wassenaar,815,0.5,0,0,99.5,0.5,99.5,0,0
+Zuid-Holland,Westland,2801,0,99.9,0,0,0.1,2.5,97.4,0
+Zuid-Holland,Zoetermeer,3068,100,0,0,0,95.5,4.5,0,0
+Zuid-Holland,Zoeterwoude,317,99.1,0,0.3,0.6,0.3,98.7,0.6,0.3
+Zuid-Holland,Zuidplas,1032,85.6,0,0,14.4,25.8,57.9,14.3,1.9
+Zuid-Holland,Zwijndrecht,924,0,0,0,100,100,0,0,0

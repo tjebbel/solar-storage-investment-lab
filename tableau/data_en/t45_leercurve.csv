@@ -1,4 +1,4 @@
-Variant,n,Leersnelheid,Interval laag,Interval hoog,R2
+Variant,n,Learning rate,Interval low,Interval high,R2
 all years,9,0.3501,0.2147,0.4621,0.8057
 excl. 2021-22 (crisis),7,0.356,0.2617,0.4383,0.932
 excl. 2023-24 (overcapacity),7,0.3428,0.1431,0.4961,0.7678

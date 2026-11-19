@@ -1,4 +1,4 @@
-Landcode,Land,Capture rate zon 2022,Capture rate zon 2025,Groei zonvermogen per jaar 2022,Groei zonvermogen per jaar 2025,Kwadrant 2022,Kwadrant 2025,Verklaring
+Country code,Country,Solar capture rate 2022,Solar capture rate 2025,Solar capacity growth per year 2022,Solar capacity growth per year 2025,Quadrant 2022,Quadrant 2025,Explanation
 AUT,Austria,1.0552,0.49846,0.279698,0.393709,Dog,Question mark,growth 28% -> 39% per year (above threshold); capture rate 1.06 -> 0.50
 BEL,Belgium,,0.514177,,0.249868,,Dog,new in 2025 (too little data in 2022)
 BGR,Bulgaria,0.953625,0.685772,0.115452,0.43559,Cash cow,Star,growth 12% -> 44% per year (above threshold); capture rate 0.95 -> 0.69

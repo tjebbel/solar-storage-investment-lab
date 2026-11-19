@@ -33,3 +33,6 @@ run_avond.sh
 run_middag.sh
 run_nacht*.sh
 run_texas.sh
+
+# uurcache van eti.uurdata (groot, opnieuw te maken uit data/raw)
+data/cache/

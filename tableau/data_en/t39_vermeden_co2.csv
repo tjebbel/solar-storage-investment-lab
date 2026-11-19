@@ -1,0 +1,75 @@
+Source,Year,Provisional,Avoided fossil TJ,Avoided CO2 kt,Generation GWh,t CO2 per MWh,kg CO2 per GJ fossil
+Total renewables,2024,True,591177,35944,,,60.8
+Total renewables,2025,True,653522,39993,,,61.2
+Hydropower,2024,True,659,38,85,0.447,57.7
+Hydropower,2025,True,659,38,57,0.667,57.7
+"Wind, total",2024,True,254219,14626,33519,0.436,57.5
+"Wind, total",2025,True,264675,15228,32885,0.463,57.5
+Onshore wind,2024,True,135773,7812,18031,0.433,57.5
+Onshore wind,2025,True,137430,7907,16966,0.466,57.5
+Offshore wind,2024,True,118446,6815,15488,0.44,57.5
+Offshore wind,2025,True,127245,7321,15919,0.46,57.5
+"Solar, total",2024,True,173522,9982,,,57.5
+"Solar, total",2025,True,205539,11824,,,57.5
+Solar power,2024,True,172281,9912,21942,0.452,57.5
+Solar power,2025,True,204320,11755,25813,0.455,57.5
+Solar heat,2024,True,1242,70,,,56.4
+Solar heat,2025,True,1219,69,,,56.6
+"Geothermal and ground energy, total",2024,True,13753,767,,,55.8
+"Geothermal and ground energy, total",2025,True,14394,802,,,55.7
+Geothermal,2024,True,7489,420,,,56.1
+Geothermal,2025,True,7748,434,,,56
+"Ground energy, total",2024,True,6264,347,,,55.4
+"Ground energy, total",2025,True,6646,368,,,55.4
+"Ground heat, total",2024,True,4938,271,,,54.9
+"Ground heat, total",2025,True,5320,291,,,54.7
+"Ground heat, heat pumps",2024,True,4748,260,,,54.8
+"Ground heat, heat pumps",2025,True,5130,281,,,54.8
+"Ground heat, without heat pumps",2024,True,190,11,,,57.9
+"Ground heat, without heat pumps",2025,True,190,11,,,57.9
+Ground cooling,2024,True,1327,76,,,57.3
+Ground cooling,2025,True,1327,76,,,57.3
+Ambient air heat,2024,True,7689,391,,,50.9
+Ambient air heat,2025,True,9052,460,,,50.8
+"Biomass, total",2024,True,141335,10140,6828,1.485,71.7
+"Biomass, total",2025,True,159203,11641,7160,1.626,73.1
+Waste incineration,2024,True,20762,1183,,,57
+Waste incineration,2025,True,22725,1294,,,56.9
+Biomass co-firing in power plants,2024,True,26821,2540,,,94.7
+Biomass co-firing in power plants,2025,True,30595,2897,,,94.7
+"Biomass households, total",2024,True,11680,656,,,56.2
+"Biomass households, total",2025,True,11769,661,,,56.2
+"Biomass households, open fireplaces",2024,True,173,10,,,57.8
+"Biomass households, open fireplaces",2025,True,166,9,,,54.2
+"Biomass households, inserts",2024,True,1672,94,,,56.2
+"Biomass households, inserts",2025,True,1686,95,,,56.3
+"Biomass households, wood stoves",2024,True,7663,431,,,56.2
+"Biomass households, wood stoves",2025,True,7641,429,,,56.1
+"Biomass households, pellet stoves",2024,True,2172,122,,,56.2
+"Biomass households, pellet stoves",2025,True,2276,128,,,56.2
+"Biomass households, charcoal",2024,True,,,,,
+"Biomass households, charcoal",2025,True,,,,,
+"Biomass boilers businesses, total",2024,True,24907,1408,,,56.5
+"Biomass boilers businesses, total",2025,True,23442,1326,,,56.6
+"Biomass boilers businesses, CHP",2024,True,13736,780,,,56.8
+"Biomass boilers businesses, CHP",2025,True,13666,776,,,56.8
+"Biomass boilers businesses, heat only",2024,True,11171,628,,,56.2
+"Biomass boilers businesses, heat only",2025,True,9776,549,,,56.2
+"Biogas, total",2024,True,11110,660,,,59.4
+"Biogas, total",2025,True,12776,757,,,59.3
+Landfill gas,2024,True,251,15,,,59.8
+Landfill gas,2025,True,251,15,,,59.8
+Biogas from sewage treatment,2024,True,1994,116,,,58.2
+Biogas from sewage treatment,2025,True,1994,116,,,58.2
+"Biogas, manure co-digestion",2024,True,4904,294,,,60
+"Biogas, manure co-digestion",2025,True,5127,306,,,59.7
+Other biogas,2024,True,3960,235,,,59.3
+Other biogas,2025,True,5403,321,,,59.4
+"Liquid biofuels for transport, total",2024,True,46056,3693,,,80.2
+"Liquid biofuels for transport, total",2025,True,57895,4704,,,81.3
+Biogasoline,2024,True,10752,804,,,74.8
+Biogasoline,2025,True,10782,833,,,77.3
+Biodiesel,2024,True,30187,2444,,,81
+Biodiesel,2025,True,33442,2711,,,81.1
+Biokerosene,2024,True,5117,444,,,86.8
+Biokerosene,2025,True,13671,1161,,,84.9

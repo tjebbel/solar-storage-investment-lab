@@ -1,4 +1,4 @@
-Landcode,Land,Regio,Batterij-omzet per MW,Capture rate zon,Batterij-omzet tegen mediaan,Groei zonvermogen per jaar,Zonvermogen GW,Kwadrant,Moment,Groeiperiode,Groeidrempel
+Country code,Country,Region,Battery revenue per MW,Solar capture rate,Battery revenue vs median,Solar capacity growth per year,Solar capacity GW,Quadrant,Snapshot,Growth period,Growth threshold
 AUT,Austria,North-West Europe,57129,1.0552,0.789673,0.279698,3.245,Dog,2022,2018-2022,0.283853
 BGR,Bulgaria,Central & South-East Europe,91814.5,0.953625,1.26912,0.115452,1.85,Cash cow,2022,2018-2022,0.283853
 CZE,Czechia,Central & South-East Europe,69805.8,0.959066,0.9649,0.0042195,2.395,Dog,2022,2018-2022,0.283853

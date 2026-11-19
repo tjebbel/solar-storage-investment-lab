@@ -1,4 +1,4 @@
-Wachtrij,Ons project GW,Officieel GW,Verschil %,Status,Verklaring,Officieel toelichting,Bron
+Queue,This project GW,Official GW,Change %,Status,Explanation,Official note,Source
 "Regional, offtake",8.05,9.1,-12,Deviation explained,capacity map 2026 vs status July 2025; rows without figures (incl. Stedin) are missing,"14,044 requests, as of 1 July 2025","Reply to parliamentary questions, 2 February 2026 (AH 1011)"
 "Regional, feed-in",4.07,4.6,-12,Deviation explained,after removing 227 rows with a shifted column (mostly Liander),"8,539 requests, as of 1 July 2025","Reply to parliamentary questions, 2 February 2026 (AH 1011)"
 "TenneT, offtake",8.56,38,-77,Deviation open,"probably coverage: the capacity map shows 23 congestion areas with 75 requests, the official queue counts 212; to be checked with TenneT",212 requests,"Letter to parliament on 8 breakthroughs, 4 February 2026"

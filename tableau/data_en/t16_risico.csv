@@ -1,4 +1,4 @@
-Risico,Kans,Impact,Maatregel,Dashboards,Score
+Risk,Likelihood,Impact,Mitigation,Dashboards,Score
 Average or marginal emission factor,3,3,show both variants,"5, 7, 14",9
 Segment thresholds are a choice; 16-23 zones a year are borderline,3,2,show sensitivity (+-20%),"1, 4",6
 Dutch capture rate: utility-scale (0.62) or rooftop (0.52),2,3,show both; choose per question,"1, 2, 8",6

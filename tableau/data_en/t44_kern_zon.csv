@@ -1,4 +1,4 @@
-Land,ISO3,Continent,Kern TWh 2025,Zon TWh 2025,Kernvermogen GW 2025,Zonvermogen GW 2025,Benutting kern 2025,Benutting zon 2025,GW zon voor kern-TWh,Verhouding GW zon / GW kern,Koers kern
+Country,ISO3,Continent,Nuclear TWh 2025,Solar TWh 2025,Nuclear capacity GW 2025,Solar capacity GW 2025,Nuclear capacity factor 2025,Solar capacity factor 2025,Solar GW for nuclear TWh,Ratio solar GW / nuclear GW,Nuclear trajectory
 United States,USA,North America,784.78,388.82,96.89,211.61,0.925,0.21,427.106,4.408,Stable
 China,CHN,Asia,485.23,1173.24,62.48,1202.18,0.887,0.111,497.199,7.958,Expanding
 France,FRA,Europe,392.048,32.013,61.4,31.23,0.729,0.117,382.459,6.229,Declining

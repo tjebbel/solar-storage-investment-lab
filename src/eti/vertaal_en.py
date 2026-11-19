@@ -15,9 +15,20 @@ TABELLEN = ["t1_zonejaar", "t2_land_maand", "t3_batterij", "t3b_batterij_leesbaa
             "t5_bronnen", "t6_kern_gebied_jaar", "t7_kern_land", "t8_kern_markt", "t9_signalering_zones", "t10_dekking_nl",
             "t11_ervaringscurve", "t12_portefeuille", "t15_controles", "t16_risico", "t42_gebeurtenissen",
             "t43_kannibalisatie", "t44_kern_zon", "t45_leercurve", "t46_portefeuille_uitleg", "t47_kpi_nl",
-            "t48_capture_rangorde", "t49_segmenten", "t50_kpi_dashboards", "t51_congestie_afstemming", "t52_validatie_extern"]
+            "t48_capture_rangorde", "t49_segmenten", "t50_kpi_dashboards", "t51_congestie_afstemming", "t52_validatie_extern",
+            # dashboards 5 en 8-15 (19 november)
+            "t13_kostencurve", "t18_convergentie", "t20_bouwgolf", "t21_vs_staten", "t22_china_export", "t25_flex_nl", "t26_ev_net",
+            "t27_impact", "t28_zuiden", "t29_congestie_gebied", "t30_congestie_rnb", "t31_congestie_tennet", "t32_congestie_gemeente",
+            "t33_vs_voorraad", "t34_vs_toevoeging", "t35_vs_staat", "t36_vs_gepland", "t37_nl_stroom", "t38_nl_eindverbruik",
+            "t39_vermeden_co2", "t40_res_regio", "t41_toetsen"]
 NIET = {"Zone", "Landcode", "ISO3", "Maand", "Datum", "Kleur", "Controle", "Pijl", "Groeiperiode"}
-NIET_PER_TABEL = {"t7_kern_land": {"Land", "Continent"}, "t44_kern_zon": {"Land", "Continent"}}  # al Engels (Ember)
+NIET_PER_TABEL = {"t7_kern_land": {"Land", "Continent"}, "t44_kern_zon": {"Land", "Continent"},  # al Engels (Ember)
+                  "t26_ev_net": {"Land", "Latest available date"}, "t21_vs_staten": {"Staat"}, "t35_vs_staat": {"Staat"},
+                  "t22_china_export": {"Bestemming"},                                  # al Engels (IEA, EIA, Ember)
+                  # eigennamen blijven Nederlands: gemeenten, provincies, netbeheerders, RES-regio's, netgebieden
+                  "t29_congestie_gebied": {"voedingsgebied_id", "provincie", "netbeheerder"},
+                  "t30_congestie_rnb": {"provincie", "netbeheerder"}, "t31_congestie_tennet": {"congestiegebied"},
+                  "t32_congestie_gemeente": {"gemeente", "provincie"}, "t40_res_regio": {"RES-regio"}}
 HOUDEN = {"VOORTGANG.md", "resultaten/tableau_signalering_2026_en.txt", "unittest", "Energy-Charts", "Power BI / Fabric (DAX)", "Python (eti.signalering_europa)",
           "SQLite (Python)", "Sandbox", "Tableau Public, dashboard 1", "congestie_pc6 (codes 0-3)", "tests/",
           "IEA Cost of Capital Observatory", "SQL Server 2022 (T-SQL)", "BASE / Ember", "IAEA", "congress.gov",
@@ -251,6 +262,47 @@ REGELS = [  # (patroon, vervanging) voor teksten met getallen
 ]
 
 
+# Dashboards 5 en 8-15 (19 november): CBS-bronnen, locaties, regio's en gebeurtenissen.
+W.update({
+    "Nederland 2025": "Netherlands 2025", "Spanje 2025": "Spain 2025",
+    "Document 136: nieuwe projecten via de markt (1 juni 2025)": "Document 136: new projects via the market (1 June 2025)",
+    "Grens bouwstart zon en wind (4 juli 2026)": "Construction-start deadline solar and wind (4 July 2026)",
+    "OBBBA getekend (4 juli 2025)": "OBBBA signed (4 July 2025)",
+    "hoog: zonder steun niet rendabel": "high: not profitable without support",
+    "onbekend: geen marktprijs in het project": "unknown: no market price in the project",
+    "Europa (Spanje)": "Europe (Spain)", "India (RvdW)": "India (rest of world)", "VS (Texas)": "US (Texas)",
+    "Australie (Zuid)": "Australia (South)", "Brazilie": "Brazil", "Californie": "California", "Chili (Atacama)": "Chile (Atacama)",
+    "China (Qinghai)": "China (Qinghai)", "Egypte (Benban)": "Egypt (Benban)", "India (Rajasthan)": "India (Rajasthan)",
+    "Indonesie": "Indonesia", "Kenia": "Kenya", "Marokko": "Morocco", "Mexico": "Mexico", "Nigeria": "Nigeria",
+    "Saoedi-Arabie": "Saudi Arabia", "Texas": "Texas", "Vietnam": "Vietnam", "Zuid-Afrika": "South Africa",
+    "Batterij": "Battery", "Kern": "Nuclear", "Overig": "Other", "Pompcentrale": "Pumped hydro", "Water": "Hydro",
+    "Totaal hernieuwbare energiebronnen": "Total renewables", "Totaal energiebronnen": "Total renewables",
+    "Totaal hern. energie exc. stat. overdr.": "Total renewables excl. statistical transfers",
+    "Totaal, inclusief niet-hernieuwbaar": "Total, including non-renewable",
+    "Waterkracht": "Hydropower", "Totaal windenergie": "Wind, total", "Windenergie op land": "Onshore wind",
+    "Windenergie op zee": "Offshore wind", "Totaal zonne-energie": "Solar, total", "Zonnestroom": "Solar power",
+    "Zonnewarmte": "Solar heat", "Totaal aardwarmte en bodemenergie": "Geothermal and ground energy, total",
+    "Aardwarmte": "Geothermal", "Totaal bodemenergie": "Ground energy, total", "Bodemwarmte": "Ground heat",
+    "Bodemwarmte, totaal": "Ground heat, total", "Bodemwarmte, warmtepompen": "Ground heat, heat pumps",
+    "Bodemwarmte, zonder warmtepompen": "Ground heat, without heat pumps", "Bodemkoude": "Ground cooling",
+    "Hernieuwbare koude": "Renewable cooling", "Buitenluchtwarmte": "Ambient air heat", "Totaal biomassa": "Biomass, total",
+    "Afvalverbrandingsinstallaties": "Waste incineration", "Bij- en meestoken biomassa in centrales": "Biomass co-firing in power plants",
+    "Totaal biomassa huishoudens": "Biomass households, total", "Biomassa huishoudens, openhaarden": "Biomass households, open fireplaces",
+    "Biomassa huishoudens, inzethaarden": "Biomass households, inserts", "Biomassa huishoudens, houtkachels": "Biomass households, wood stoves",
+    "Biomassa huishoudens, pelletkachels": "Biomass households, pellet stoves",
+    "Biomassa huishoudens, houtskoolverbruik": "Biomass households, charcoal",
+    "Totaal biomassaketels bedrijven": "Biomass boilers businesses, total", "Biomassaketels bedrijven, WKK": "Biomass boilers businesses, CHP",
+    "Biomassaketels bedrijven, alleen warmte": "Biomass boilers businesses, heat only", "Totaal biogas": "Biogas, total",
+    "Totaal Biogas": "Biogas, total", "Biogas uit stortplaatsen": "Landfill gas",
+    "Biogas rioolwaterzuiveringsinstallaties": "Biogas from sewage treatment", "Biogas, co-vergisting van mest": "Biogas, manure co-digestion",
+    "Overig biogas": "Other biogas", "Vloeibare biotransportbrandstof, totaal": "Liquid biofuels for transport, total",
+    "Biobenzine": "Biogasoline", "Biodiesel": "Biodiesel", "Biokerosine": "Biokerosene",
+    "CBS vermeden emissie zonnestroom 2025": "CBS avoided emissions solar power 2025",
+    "STEG rendement 50%": "CCGT efficiency 50%", "STEG rendement 55%": "CCGT efficiency 55%", "STEG rendement 58%": "CCGT efficiency 58%",
+    "Marginale factor gascentrale": "Marginal factor gas plant",
+})
+
+
 def zonenaam(s):
     m = re.match(r"^(\w+) \((.+)\)$", s)
     if m and m[1] in LAND and m[2] in DEEL:
@@ -310,15 +362,23 @@ def main():
         if not p.exists():
             continue
         d = pd.read_csv(p)
+        engels = None
+        if t == "t50_kpi_dashboards":                                            # tegels vanaf dashboard 5 zijn al Engels
+            engels, d = d[d.Dashboard >= 5].copy(), d[d.Dashboard < 5].copy()
+            engels["Richting"] = engels.Richting.map({"goed": "good", "slecht": "bad", "neutraal": "neutral"})
         for c in d.columns:
             if c in NIET or c in NIET_PER_TABEL.get(t, set()) or pd.api.types.is_numeric_dtype(d[c]) or d[c].isna().all():
                 continue
             vals = {v: vertaal(v) for v in d[c].dropna().astype(str).unique()}
             ontbreekt |= {f"{t}.{c}: {v}" for v, e in vals.items() if e is None}
             d[c] = d[c].map(lambda v: v if pd.isna(v) else (vals.get(str(v)) or v))
+        if engels is not None:
+            d = pd.concat([d, engels], ignore_index=True)
         for c in d.columns:                                                      # ook in kolommen die verder niet vertaald worden
-            if d[c].dtype == object:
+            if not pd.api.types.is_numeric_dtype(d[c]):
                 d[c] = d[c].replace(r"^Overige (\d+) \(gemiddeld\)$", r"Other \1 (average)", regex=True)
+        if t in ENGELSE_KOLOMMEN:
+            d = d.rename(columns={c: VELD.get(c, c) for c in d.columns})
         d.to_csv(UIT / f"{t}.csv", index=False, float_format="%.6g")
     Path("resultaten").mkdir(exist_ok=True)
     Path("resultaten/vertaal_en_ontbrekend.txt").write_text("\n".join(sorted(ontbreekt)) + "\n")
@@ -373,6 +433,60 @@ VELD = {
     "Ons project": "This project", "Extern": "External", "Oordeel": "Verdict", "Wachtrij": "Queue",
     "Ons project GW": "This project GW", "Officieel GW": "Official GW", "Officieel toelichting": "Official note",
 }
+
+# Veldnamen dashboards 5 en 8-15. Deze tabellen worden alleen in de Engelse werkmap gebruikt, dus hun kolommen krijgen in
+# tableau/data_en/ direct de Engelse naam (geen hernoemen in Tableau nodig). Zie ENGELSE_KOLOMMEN.
+VELD.update({
+    "Capture-prijs zon EUR/MWh": "Solar capture price EUR/MWh", "LCOE": "LCOE", "LCOE-bron": "LCOE source",
+    "Emissiefactor gemiddeld t/MWh": "Average emission factor t/MWh", "Zon doel TWh 2030": "Solar target TWh 2030",
+    "Extra zon TWh": "Additional solar TWh", "Marge EUR/MWh": "Margin EUR/MWh",
+    "Kosten per ton (gemiddelde factor)": "Cost per tonne (average factor)", "Kosten per ton (marginale factor)": "Cost per tonne (marginal factor)",
+    "Potentieel Mt (gemiddelde factor)": "Potential Mt (average factor)", "Potentieel Mt (marginale factor)": "Potential Mt (marginal factor)",
+    "Cumulatief Mt (gemiddelde factor)": "Cumulative Mt (average factor)", "Cumulatief Mt (marginale factor)": "Cumulative Mt (marginal factor)",
+    "Zones": "Zones", "P10": "P10", "Mediaan": "Median", "P90": "P90", "IQR": "IQR", "Spreiding P90-P10": "Spread P90-P10",
+    "Relatieve spreiding": "Relative spread", "ISO 3 Code": "ISO3", "ISO 3 code": "ISO3", "Vermogen GW": "Capacity GW",
+    "Toevoeging GW": "Additions GW", "Staat": "State", "Aandeel zon %": "Solar share %", "Aandeel wind %": "Wind share %",
+    "Aandeel zon en wind %": "Solar and wind share %", "Bestemming": "Destination", "GW": "GW", "USD miljard": "USD billion",
+    "Kwartieren": "Quarter hours", "Op gemiddeld": "Upward average", "Op mediaan": "Upward median", "Op P99": "Upward P99",
+    "Aandeel op boven 200 %": "Share upward above 200 %", "Af gemiddeld": "Downward average", "Aandeel af negatief %": "Share downward negative %",
+    "Latest available date": "Latest available date", "EV-vloot": "EV fleet", "Vraag GWh per jaar": "Demand GWh per year",
+    "Olie verdrongen kbbl per jaar": "Oil displaced kbbl per year", "Piek ongestuurd GW (aanname)": "Unmanaged peak GW (assumption)",
+    "Middagafname gestuurd GW (aanname)": "Managed midday demand GW (assumption)", "LCOE EUR/MWh": "LCOE EUR/MWh", "WACC": "WACC",
+    "Financieringsaandeel": "Financing share", "Ton CO2 per M EUR per jaar": "Tonnes CO2 per M EUR per year",
+    "Capture-prijs zon 2025": "Solar capture price 2025", "Marge zon EUR/MWh": "Solar margin EUR/MWh",
+    "Additionaliteit (indicatief)": "Additionality (indicative)", "LCOE bij 5% WACC": "LCOE at 5% WACC", "Locatie": "Location",
+    "Instraling": "Irradiation", "Vollasturen": "Full-load hours", "Jaren": "Years", "Vollasturen tegen Nederland": "Full-load hours vs Netherlands",
+    "voedingsgebied_id": "Supply area", "netbeheerder": "Grid operator", "provincie": "Province", "gebieden": "Areas",
+    "aanwezige_transportcapaciteit_invoeding": "Available capacity feed-in MW", "aanwezige_transportcapaciteit_afname": "Available capacity offtake MW",
+    "benodigde_transportcapaciteit_invoeding": "Required capacity feed-in MW", "benodigde_transportcapaciteit_afname": "Required capacity offtake MW",
+    "wachtrij_invoeding": "Queue feed-in MW", "wachtrij_afname": "Queue offtake MW", "invoeding_verschoven": "Feed-in column shifted",
+    "verhouding_invoeding": "Ratio feed-in", "verhouding_afname": "Ratio offtake", "tekort_invoeding_mw": "Shortage feed-in MW",
+    "tekort_afname_mw": "Shortage offtake MW", "jaar_opgelost_invoeding": "Year solved feed-in", "jaar_opgelost_afname": "Year solved offtake",
+    "geen_datum_invoeding": "No date feed-in", "geen_datum_afname": "No date offtake",
+    "aandeel_gebieden_tekort_afname": "Share of areas with offtake shortage", "congestiegebied": "Congestion area",
+    "gemeente": "Municipality", "postcodes": "Postcodes", "afname Beperkt %": "Offtake limited %", "afname Beschikbaar %": "Offtake available %",
+    "afname In onderzoek %": "Offtake under study %", "afname Tekort %": "Offtake shortage %", "opwek Beperkt %": "Feed-in limited %",
+    "opwek Beschikbaar %": "Feed-in available %", "opwek In onderzoek %": "Feed-in under study %", "opwek Tekort %": "Feed-in shortage %",
+    "Snapshot": "Snapshot", "Batterij GW": "Battery GW", "Gas GW": "Gas GW", "Kern GW": "Nuclear GW", "Kolen GW": "Coal GW",
+    "Overig GW": "Other GW", "Pompcentrale GW": "Pumped hydro GW", "Water GW": "Hydro GW", "Wind GW": "Wind GW", "Zon GW": "Solar GW",
+    "Batterij GWh": "Battery GWh", "Batterij uren": "Battery hours", "Batterij MW": "Battery MW", "Zon MW": "Solar MW",
+    "Planned Operation Year": "Planned year", "Planned Operation Month": "Planned month", "Groep": "Group",
+    "Nameplate Capacity (MW)": "Capacity MW", "Voorlopig": "Provisional", "Productie GWh": "Generation GWh",
+    "Aandeel verbruik %": "Share of consumption %", "Vermogen MW": "Capacity MW", "TJ": "TJ", "Aandeel %": "Share %",
+    "Vermeden fossiel TJ": "Avoided fossil TJ", "Vermeden CO2 kton": "Avoided CO2 kt", "t CO2 per MWh": "t CO2 per MWh",
+    "kg CO2 per GJ fossiel": "kg CO2 per GJ fossil", "RES-regio": "RES region", "Wind land MW": "Onshore wind MW",
+    "Zon groot MWp": "Solar large MWp", "Zon klein MWp": "Solar small MWp", "Zon MWp": "Solar MWp", "Groei zon %": "Solar growth %",
+    "Aandeel groot %": "Share large %", "Toets": "Check", "Eigen aanname": "Own assumption", "LCOE eigen": "LCOE own",
+    "LCOE bij IEA-WACC": "LCOE at IEA WACC", "Onderwerp": "Subject", "Referentie": "Reference", "Eenheid": "Unit", "Bron": "Source",
+    "Verschil": "Difference", "Status": "Status", "Gebeurtenis": "Event", "Land": "Country", "Maand": "Month", "Jaar": "Year",
+    "Maanden": "Months", "Prijs USD per W": "Price USD per W", "Regio": "Region", "Negatieve uren": "Negative hours", "Landcode": "Country code",
+})
+# Tabellen die (nog) niet in een gepubliceerde werkmap zitten krijgen direct Engelse kolomnamen. Tabellen van dashboard 1 en 2
+# (t1-t5, t9, t10, t43, t47-t50) houden hun Nederlandse kolomnamen, anders breken de bestaande verbindingen.
+ENGELSE_KOLOMMEN = set(TABELLEN[TABELLEN.index("t13_kostencurve"):]) | {
+    "t6_kern_gebied_jaar", "t7_kern_land", "t8_kern_markt", "t11_ervaringscurve", "t12_portefeuille", "t15_controles",
+    "t16_risico", "t42_gebeurtenissen", "t44_kern_zon", "t45_leercurve", "t46_portefeuille_uitleg", "t51_congestie_afstemming",
+    "t52_validatie_extern"}
 
 
 def veldnamen():

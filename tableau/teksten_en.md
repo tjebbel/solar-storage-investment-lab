@@ -55,11 +55,23 @@ Number format: decimal point, thousands comma (data source locale *English (Unit
 - What comes next: `Next: dashboard 5 (abatement cost curve) · 6 (profit pool) · 18 (storage market saturation) · 21 (commodities as predictor).`
 
 ## Dashboard 7 "Control matrix and risk map"
-- Title: `Can you trust these figures? 21 controls, 7 still open`
+- Title: `Can you trust these figures? 21 controls, 6 still open`
 - Subtitle: `In the tradition of the Big Four (COSO, ISAE 3000). A readiness assessment, not an assurance opinion.`
 - KPI row: from t50, Dashboard = 7
 - Data flow: image `docs/img/keten.png`
 - Matrix: `Control matrix` · Status bar: `Status at a glance` · Risk map: `Risk map: likelihood x impact`
 - Rules box: `Omnibus I (EU 2026/470): the reasonable-assurance requirement was dropped; only limited assurance remains. Far fewer companies fall under the CSRD. Investors still want verifiable figures.`
 - Avoided CO2 box: `Avoided emissions (CBS) are not an emission reduction: do not net them off scope 1-3 (GHG Protocol).`
-- What comes next: `Next: C03 (Tableau check), C04 (Power BI), C10 (cross-border flows), C13 (CBS vs Ember), C15 (status codes).`
+- What comes next: `Next: C04 (Power BI), C10 (cross-border flows), C13 (CBS vs Ember), C15 (status codes), C20 (TenneT queue).`
+
+## Dashboards 5, 8-11, 13-15 (English only, 19 November)
+Titles, KPI checks and chart plans: `tableau/STAPPENPLAN_EN.md`. KPI tiles: t50 with filter Dashboard = 5, 8, 9, 10, 11, 13, 14 or 15.
+
+- **5 Abatement cost curve**: `Solar abates CO2 at a profit in 7 of 26 countries` · subtitle `In the tradition of McKinsey's cost curve. Width = abatement potential to 2030, height = cost per tonne. 2025 capture prices; average grid emission factor (toggle: marginal, gas).`
+- **8 Netherlands**: `Dutch solar hits the grid wall: 8 GW waits for offtake` · subtitle `CBS, netbeheerders' capacity map 2026, Energy-Charts. 2026 to 15 November.` · event `From 1 January 2027 Dutch net metering ends: home batteries and self-consumption become more important.`
+- **9 European Union**: `One market, 37 prices: the spread is twice the 2019 level` · subtitle `Monthly day-ahead price per bidding zone; band = 10th to 90th percentile.`
+- **10 United States**: `US batteries grew 2.5 times in two years: 56 GW, another 23 GW under construction` · subtitle `EIA-860M, utility scale (AC), to September 2026. OBBBA signed 4 July 2025.`
+- **11 China**: `China ships a quarter of a terawatt of panels a year at 11 cents a watt` · subtitle `Customs export data (Ember), 2017 to September 2026. Document 136: new projects via the market from 1 June 2025.`
+- **13 Grid operator**: `Flexibility is worth money: 584 negative hours and imbalance spikes above 500 EUR/MWh` · subtitle `Netherlands, 2025; EV demand is an assumption based on IEA fleet data.`
+- **14 Impact investor**: `Where a euro buys the most CO2: six times more in India than in the Netherlands` · subtitle `Solar, tonnes of CO2 avoided per million EUR invested per year. Avoided emissions are not an emission reduction.`
+- **15 Global South**: `Twice the sun, but capital at 12%: India's solar would be 38% cheaper at Dutch financing costs` · subtitle `PVGIS 11-year averages; WACC from the IEA Cost of Capital Observatory.`

@@ -1,4 +1,4 @@
-"""KPI-tegels voor dashboards 2, 3, 4 en 7 volgens de ontwerpnorm (bouwgids, sectie "Ontwerpnorm").
+"""KPI-tegels voor dashboards 2, 3, 4, 5, 7, 8, 9, 10, 11, 13, 14 en 15 volgens de ontwerpnorm (bouwgids, sectie "Ontwerpnorm").
 
 Elke tegel: waarde, vergelijking met de vorige periode, een referentie (EU-mediaan, doel of andere bron) en een richting
 (goed, slecht, neutraal) die de kleur van de pijl bepaalt. Zo haalt elk dashboard de 5-secondentest zonder nawerk.
@@ -75,20 +75,175 @@ def dashboard4():
 
 
 def dashboard7():
+    """Vanaf 19 november alleen Engels (zie _e)."""
     c = pd.read_csv(D / "t15_controles.csv"); r = pd.read_csv(D / "t16_risico.csv")
-    gesl = c.Status.str.startswith("Geslaagd").sum(); open_ = c.Status.isin(["Open", "Afwijking open"]).sum()
+    from eti.vertaal_en import vertaal
+    gesl = c.Status.str.startswith("Geslaagd").sum(); openl = c[c.Status.isin(["Open", "Afwijking open"])]
     live = (c["Opnieuw berekend"] == "ja").sum(); top = r.sort_values("Score", ascending=False).iloc[0]
     return [
-        _r(7, 1, "Controles geslaagd", gesl, f"{gesl} van {len(c)}", "18-11: 6 van 12", f"doel: alle {len(c)}", "goed"),
-        _r(7, 2, "Nog open", open_, f"{open_}", ", ".join(c[c.Status.isin(['Open', 'Afwijking open'])].Controle),
-           "doel: 0 voor publicatie", "slecht" if open_ else "goed"),
-        _r(7, 3, "Opnieuw berekend bij elke run", live, f"{live} van {len(c)}", "", "rest: handmatig vastgelegd", "neutraal"),
-        _r(7, 4, "Grootste risico", top.Score, f"score {top.Score}: {top.Risico}", top.Maatregel, "kans x impact, max 9", "slecht"),
+        _e(7, 1, "Controls passed", gesl, f"{gesl} of {len(c)}", "18 Nov: 6 of 12", f"target: all {len(c)}", "good"),
+        _e(7, 2, "Still open", len(openl), f"{len(openl)}", ", ".join(openl.Controle), "target: 0 before publication",
+           "bad" if len(openl) else "good"),
+        _e(7, 3, "Recalculated in every run", live, f"{live} of {len(c)}", "automatic in run_analyse.sh", "rest: recorded by hand", "neutral"),
+        _e(7, 4, "Largest risk", top.Score, f"score {top.Score} of 9", vertaal(top.Risico) or top.Risico,
+           vertaal(top.Maatregel) or top.Maatregel, "bad"),
     ]
 
 
+# Vanaf dashboard 5 verschijnen de dashboards alleen in het Engels (besluit 19 november): deze tegels zijn direct Engels
+# en worden door eti.vertaal_en ongewijzigd overgenomen. Richting: good / bad / neutral.
+def _e(dash, nr, kpi, waarde, tekst, vergelijking, referentie, richting):
+    return _r(dash, nr, kpi, waarde, tekst, vergelijking, referentie, {"good": "goed", "bad": "slecht", "neutral": "neutraal"}[richting])
+
+
+def _land(naam):
+    """Nederlandse land- of locatienaam naar Engels, met het woordenboek van eti.vertaal_en."""
+    from eti.vertaal_en import vertaal
+    return vertaal(naam) or naam
+
+
+def dashboard5():
+    k = pd.read_csv(D / "t13_kostencurve.csv")
+    winst = (k["Marge EUR/MWh"] > 0).sum()
+    pot_m, pot_g = k["Potentieel Mt (marginale factor)"].sum(), k["Potentieel Mt (gemiddelde factor)"].sum()
+    best = k.sort_values("Kosten per ton (gemiddelde factor)").iloc[0]
+    nl = k[k.Landcode == "NLD"].iloc[0]
+    return [
+        _e(5, 1, "Countries abating CO2 at a profit", winst, f"{winst} of {len(k)}", "solar capture price above LCOE, 2025",
+           "negative cost per tonne", "good"),
+        _e(5, 2, "Abatement potential to 2030", pot_m, f"{pot_m:.0f} Mt CO2/yr", f"average grid factor: {pot_g:.0f} Mt",
+           "marginal factor (gas) vs average", "neutral"),
+        _e(5, 3, "Cheapest abatement", best["Kosten per ton (gemiddelde factor)"], f"{_land(best.Land)}: {best['Kosten per ton (gemiddelde factor)']:.0f} EUR/t",
+           f"margin {best['Marge EUR/MWh']:.0f} EUR/MWh", "EU ETS around 70-80 EUR/t", "good"),
+        _e(5, 4, "Netherlands", nl["Kosten per ton (gemiddelde factor)"], f"{nl['Kosten per ton (gemiddelde factor)']:.0f} EUR/t",
+           f"marginal factor: {nl['Kosten per ton (marginale factor)']:.0f} EUR/t", f"margin {nl['Marge EUR/MWh']:.0f} EUR/MWh",
+           "bad" if nl["Marge EUR/MWh"] < 0 else "good"),
+    ]
+
+
+def dashboard8():
+    s = pd.read_csv(D / "t37_nl_stroom.csv").set_index(["Bron", "Jaar"])
+    z25, z24 = s.loc[("Zonnestroom", 2025)], s.loc[("Zonnestroom", 2024)]
+    a = pd.read_csv(D / "t51_congestie_afstemming.csv").set_index("Wachtrij")
+    r = pd.read_csv(D / "t40_res_regio.csv").groupby("Jaar")["Zon MWp"].sum()
+    g25, g24 = r[2025] / r[2024] - 1, r[2024] / r[2023] - 1
+    f = pd.read_csv(D / "t25_flex_nl.csv").set_index("Jaar")["Negatieve uren"]
+    return [
+        _e(8, 1, "Solar share of Dutch power", z25["Aandeel verbruik %"], f"{z25['Aandeel verbruik %']:.0f}%",
+           f"2024: {z24['Aandeel verbruik %']:.0f}%", "CBS, 2025 provisional", "good"),
+        _e(8, 2, "Solar capacity growth", g25, f"{g25:+.0%} in 2025", f"2024: {g24:+.0%}", f"{r[2025]/1000:.1f} GWp in RES regions",
+           "bad" if g25 < g24 else "good"),
+        _e(8, 3, "Regional queue, offtake", a.loc["Regionaal, afname", "Ons project GW"],
+           f"{a.loc['Regionaal, afname', 'Ons project GW']:.1f} GW", f"official: {a.loc['Regionaal, afname', 'Officieel GW']:.1f} GW",
+           "capacity map 2026 vs queue July 2025", "bad"),
+        _e(8, 4, "Negative-price hours", f[2025], f"{f[2025]:.0f} h", f"2024: {f[2024]:.0f} h", f"2026 to 15 Nov: {f[2026]:.0f} h",
+           "bad"),
+    ]
+
+
+def dashboard9():
+    c = pd.read_csv(D / "t18_convergentie.csv"); c["Jaar"] = c.Maand.str[:4].astype(int)
+    l = c.iloc[-1]; vj = c[c.Maand == f"{int(l.Maand[:4]) - 1}{l.Maand[4:]}"].iloc[0]
+    j19 = c[c.Jaar == 2019]["Relatieve spreiding"].mean(); jl = c[c.Jaar == int(l.Maand[:4])]["Relatieve spreiding"].mean()
+    return [
+        _e(9, 1, "Median zone price", l.Mediaan, f"{l.Mediaan:.0f} EUR/MWh", f"{vj.Maand[:7]}: {vj.Mediaan:.0f}",
+           f"{int(l.Zones)} zones, {l.Maand[:7]}", "neutral"),
+        _e(9, 2, "Spread P90-P10", l["Spreiding P90-P10"], f"{l['Spreiding P90-P10']:.0f} EUR/MWh",
+           f"{vj.Maand[:7]}: {vj['Spreiding P90-P10']:.0f}", "gap between expensive and cheap zones",
+           "bad" if l["Spreiding P90-P10"] > vj["Spreiding P90-P10"] else "good"),
+        _e(9, 3, "Relative spread, year average", jl, f"{jl:.2f}", f"2019: {j19:.2f}", "(P90-P10) / median",
+           "bad" if jl > j19 else "good"),
+        _e(9, 4, "Months more divergent than 2019", (c[c.Jaar > 2019]["Relatieve spreiding"] > j19).sum(),
+           f"{(c[c.Jaar > 2019]['Relatieve spreiding'] > j19).sum()} of {(c.Jaar > 2019).sum()}", "relative spread above 2019 average",
+           "2020-2026", "neutral"),
+    ]
+
+
+def dashboard10():
+    v = pd.read_csv(D / "t33_vs_voorraad.csv").set_index("Snapshot"); l = v.index[-1]; vj = f"{int(l[:4]) - 1}{l[4:]}"
+    g = pd.read_csv(D / "t36_vs_gepland.csv"); bouw = g[(g.Groep == "Batterij") & g.Status.isin(["U", "V", "TS"])]["Nameplate Capacity (MW)"].sum() / 1000
+    st = pd.read_csv(D / "t21_vs_staten.csv").query("Staat != 'Washington, D.C.'").sort_values("Aandeel zon %", ascending=False).iloc[0]
+    return [
+        _e(10, 1, "Utility solar", v.loc[l, "Zon GW"], f"{v.loc[l, 'Zon GW']:.0f} GW", f"{vj}: {v.loc[vj, 'Zon GW']:.0f} GW",
+           f"EIA-860M, {l}", "good"),
+        _e(10, 2, "Utility batteries", v.loc[l, "Batterij GW"], f"{v.loc[l, 'Batterij GW']:.0f} GW", f"{vj}: {v.loc[vj, 'Batterij GW']:.0f} GW",
+           f"{v.loc[l, 'Batterij uren']:.1f} hours of storage", "good"),
+        _e(10, 3, "Batteries under construction", bouw, f"{bouw:.0f} GW", "status U, V or TS", "EIA-860M planned units", "good"),
+        _e(10, 4, "Highest solar share", st["Aandeel zon %"], f"{st.Staat}: {st['Aandeel zon %']:.0f}%",
+           f"solar and wind: {st['Aandeel zon en wind %']:.0f}%", f"state level, {int(st.Jaar)}", "neutral"),
+    ]
+
+
+def dashboard11():
+    e = pd.read_csv(D / "t22_china_export.csv")
+    j = e.groupby("Jaar").agg(GW=("GW", "sum"), USD=("USD miljard", "sum"), Maanden=("Maanden", "max"))
+    l = int(j.index.max()); per = j.GW / j.Maanden * 12
+    prijs = j.USD / j.GW
+    top = e[e.Jaar == l].sort_values("GW", ascending=False).iloc[0]
+    return [
+        _e(11, 1, "Module exports, annualised", per[l], f"{per[l]:.0f} GW/yr", f"{l-1}: {j.GW[l-1]:.0f} GW",
+           f"{l}: {int(j.Maanden[l])} months of data", "good" if per[l] > j.GW[l - 1] else "neutral"),
+        _e(11, 2, "Export price", prijs[l], f"{prijs[l]:.3f} USD/W", f"{l-1}: {prijs[l-1]:.3f} ({prijs[l]/prijs[l-1]-1:+.0%})",
+           f"2017: {prijs[2017]:.3f}", "good"),
+        _e(11, 3, "Largest destination", top.GW, f"{top.Bestemming}", f"{top.GW:.0f} GW in {l}",
+           f"{top.GW / j.GW[l]:.0%} of exports", "neutral"),
+        _e(11, 4, "Export value", j.USD[l], f"{j.USD[l]:.1f} bn USD", f"{l-1}: {j.USD[l-1]:.1f} bn",
+           f"annualised: {j.USD[l] / j.Maanden[l] * 12:.1f} bn", "neutral"),
+    ]
+
+
+def dashboard13():
+    f = pd.read_csv(D / "t25_flex_nl.csv").set_index("Jaar")
+    ev = pd.read_csv(D / "t26_ev_net.csv").set_index("Land").loc["Netherlands"]
+    return [
+        _e(13, 1, "Negative-price hours", f.loc[2025, "Negatieve uren"], f"{f.loc[2025, 'Negatieve uren']:.0f} h",
+           f"2024: {f.loc[2024, 'Negatieve uren']:.0f} h", f"2026 to 15 Nov: {f.loc[2026, 'Negatieve uren']:.0f} h", "bad"),
+        _e(13, 2, "Imbalance price, 99th percentile", f.loc[2025, "Op P99"], f"{f.loc[2025, 'Op P99']:.0f} EUR/MWh",
+           f"{f.loc[2025, 'Aandeel op boven 200 %']:.1f}% of quarters above 200", "upward regulation, 2025", "good"),
+        _e(13, 3, "Electric cars", ev["EV-vloot"], f"{ev['EV-vloot']/1e6:.2f} million", f"{ev['Vraag GWh per jaar']/1000:.1f} TWh/yr demand",
+           f"data to {ev['Latest available date'][:7]}", "good"),
+        _e(13, 4, "Smart charging at midday", ev["Middagafname gestuurd GW (aanname)"], f"{ev['Middagafname gestuurd GW (aanname)']:.1f} GW",
+           f"unmanaged evening peak: {ev['Piek ongestuurd GW (aanname)']:.1f} GW", "assumption, see method", "neutral"),
+    ]
+
+
+def dashboard14():
+    i = pd.read_csv(D / "t27_impact.csv").set_index(["Regio", "Jaar"])
+    c = pd.read_csv(D / "t39_vermeden_co2.csv").set_index(["Bron", "Jaar"])["Vermeden CO2 kton"]
+    nl, ind = i.loc[("Nederland", 2025)], i.loc[("India (RvdW)", 2025)]
+    return [
+        _e(14, 1, "CO2 per million EUR, Netherlands", nl["Ton CO2 per M EUR per jaar"], f"{nl['Ton CO2 per M EUR per jaar']:.0f} t/yr",
+           f"India: {ind['Ton CO2 per M EUR per jaar']:.0f} t/yr", "solar, 2025", "neutral"),
+        _e(14, 2, "Dutch solar margin", nl["Marge zon EUR/MWh"], f"{nl['Marge zon EUR/MWh']:.0f} EUR/MWh", "capture price minus LCOE, 2025",
+           "additionality: high", "bad"),
+        _e(14, 3, "CO2 avoided by Dutch renewables", c[("Totaal energiebronnen", 2025)], f"{c[('Totaal energiebronnen', 2025)]/1000:.1f} Mt",
+           f"2024: {c[('Totaal energiebronnen', 2024)]/1000:.1f} Mt", "CBS, provisional", "good"),
+        _e(14, 4, "of which solar power", c[("Zonnestroom", 2025)], f"{c[('Zonnestroom', 2025)]/1000:.1f} Mt",
+           f"2024: {c[('Zonnestroom', 2024)]/1000:.1f} Mt", "CBS, provisional", "good"),
+    ]
+
+
+def dashboard15():
+    z = pd.read_csv(D / "t28_zuiden.csv").sort_values("Vollasturen", ascending=False)
+    i = pd.read_csv(D / "t27_impact.csv").set_index(["Regio", "Jaar"])
+    ind, nl = i.loc[("India (RvdW)", 2025)], i.loc[("Nederland", 2025)]
+    b = z.iloc[0]
+    return [
+        _e(15, 1, "Best solar site", b.Vollasturen, f"{b.Vollasturen:.0f} full-load hours", f"{_land(b.Locatie)}",
+           f"{b['Vollasturen tegen Nederland']:.1f} times the Netherlands", "good"),
+        _e(15, 2, "Cost of capital, India", ind.WACC, f"{ind.WACC:.1%}", f"Netherlands: {nl.WACC:.1%}", "IEA Cost of Capital Observatory", "bad"),
+        _e(15, 3, "Indian LCOE at Dutch WACC", ind["LCOE bij 5% WACC"], f"{ind['LCOE bij 5% WACC']:.0f} EUR/MWh",
+           f"now: {ind['LCOE EUR/MWh']:.0f} EUR/MWh", f"{1 - ind['LCOE bij 5% WACC']/ind['LCOE EUR/MWh']:.0%} cheaper", "good"),
+        _e(15, 4, "Sites with 1.5x Dutch sun", (z["Vollasturen tegen Nederland"] >= 1.5).sum(),
+           f"{(z['Vollasturen tegen Nederland'] >= 1.5).sum()} of {len(z)}", "PVGIS, 11 years", "same panel, more output", "neutral"),
+    ]
+
+
+ENGELS = (dashboard5, dashboard7, dashboard8, dashboard9, dashboard10, dashboard11, dashboard13, dashboard14, dashboard15)
+
+
 def main():
-    t = pd.DataFrame(dashboard2() + dashboard3() + dashboard4() + dashboard7())
+    t = pd.DataFrame(dashboard2() + dashboard3() + dashboard4() + [x for f in ENGELS for x in f()])
     t.to_csv(D / "t50_kpi_dashboards.csv", index=False)
     regels = [f"D{x.Dashboard}.{x.Volgorde} {x.KPI}: {x.Tekst} | {x.Vergelijking} | {x.Referentie} | {x.Richting}" for _, x in t.iterrows()]
     Path("resultaten/kpi_dashboards.txt").write_text("\n".join(regels) + "\n")

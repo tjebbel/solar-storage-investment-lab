@@ -1,0 +1,10 @@
+Check,Subject,Own assumption,Reference,Unit,Source,LCOE own,LCOE at IEA WACC,Difference
+Marginal factor gas plant,CCGT efficiency 50%,0.4,0.405,t CO2/MWh,"RVO 56,2 kg/GJ",,,-0.005
+Marginal factor gas plant,CCGT efficiency 55%,0.4,0.368,t CO2/MWh,"RVO 56,2 kg/GJ",,,0.032
+Marginal factor gas plant,CCGT efficiency 58%,0.4,0.349,t CO2/MWh,"RVO 56,2 kg/GJ",,,0.051
+Marginal factor gas plant,CBS avoided emissions solar power 2025,0.4,0.455,t CO2/MWh,CBS 84918NED / 82610NED,,,-0.055
+WACC vs IEA 2021,Netherlands,0.05,0.04,ratio,IEA Cost of Capital Observatory,67.39,61.79,0.01
+WACC vs IEA 2021,Europe (Spain),0.055,0.04,ratio,IEA Cost of Capital Observatory,51.09,44.95,0.015
+WACC vs IEA 2021,US (Texas),0.06,0.043,ratio,IEA Cost of Capital Observatory,64.56,56.02,0.017
+WACC vs IEA 2021,China,0.045,0.049,ratio,IEA Cost of Capital Observatory,29.83,30.88,-0.004
+WACC vs IEA 2021,India (rest of world),0.12,0.099,ratio,IEA Cost of Capital Observatory,44.42,39.04,0.021

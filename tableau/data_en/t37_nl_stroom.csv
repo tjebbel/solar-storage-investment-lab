@@ -1,0 +1,15 @@
+Source,Year,Provisional,Generation GWh,Share of consumption %,Capacity MW,Full-load hours
+Total renewables,2024,False,62374,52.01,,
+Total renewables,2025,True,65914,53.96,,
+Hydropower,2024,False,85,0.07,38,2237
+Hydropower,2025,True,57,0.05,38,1500
+"Wind, total",2024,False,33519,27.95,11702,2864
+"Wind, total",2025,True,32885,26.92,11764,2795
+Onshore wind,2024,False,18031,15.03,6955,2593
+Onshore wind,2025,True,16966,13.89,7017,2418
+Offshore wind,2024,False,15488,12.91,4748,3262
+Offshore wind,2025,True,15919,13.03,4748,3353
+Solar power,2024,False,21942,18.29,24773,886
+Solar power,2025,True,25813,21.13,25856,998
+"Biomass, total",2024,False,6828,5.69,,
+"Biomass, total",2025,True,7160,5.86,,

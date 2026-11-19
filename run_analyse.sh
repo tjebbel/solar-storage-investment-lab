@@ -48,8 +48,9 @@ stap "$PY" -m eti.cbs_hernieuwbaar        # dashboard 8 + toetsen: CBS hernieuwb
 stap "$PY" -m eti.dashboard_extra         # dashboards 2-4: gebeurtenissen, kannibalisatie, kern/zon, leercurve, kwadrantuitleg (t42-t46)
 stap "$PY" -m eti.dashboard1_revisie      # dashboard 1 revisie: KPI-tegels, rangorde, leesbare scenarios, top 10, segmentkleuren (t47-t49)
 stap "$PY" -m eti.validatie_extern        # externe validatie: Modo, Enervis, ITRPV, Kamerstukken (t52); voor assurance
-stap "$PY" -m eti.assurance_overzicht      # dashboard 7: controlematrix en risicokaart (t15-t16), als laatste: leest t33, t37, t41
-stap "$PY" -m eti.kpi_dashboards          # ontwerpnorm: KPI-tegels voor dashboards 2, 3, 4, 7 (t50), na assurance
+stap "$PY" -m eti.assurance_overzicht --tests  # dashboard 7 (C07 draait de tests mee): controlematrix en risicokaart (t15-t16), als laatste: leest t33, t37, t41
+stap "$PY" -m eti.uurdata                 # dashboards 16, 18, 19, 20: uuranalyses uit data/raw (eerste keer ca. 5 min, daarna cache)
+stap "$PY" -m eti.kpi_dashboards          # ontwerpnorm: KPI-tegels dashboards 2-5, 7-11, 13-15 (t50), na assurance
 stap "$PY" -m eti.vertaal_en              # Engelse tabellen voor de Engelse dashboards (tableau/data_en), als laatste
 stap "$PY" -m unittest discover -s tests
 echo "Logboek: $LOG"

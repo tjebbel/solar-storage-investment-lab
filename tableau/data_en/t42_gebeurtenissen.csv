@@ -1,4 +1,4 @@
-Datum,Gebied,Gebeurtenis,Dashboards,Soort,Na te slaan bij
+Date,Area,Event,Dashboards,Type,Reference
 2011-03-11,Japan,Fukushima nuclear disaster,3,nuclear,IAEA
 2021-09-01,Europe,Gas prices start to surge,2,market,TTF series in t2 / fact_gasprijs_maand
 2022-02-24,Europe,Russian invasion of Ukraine,"2, 3, 9",geopolitics,general

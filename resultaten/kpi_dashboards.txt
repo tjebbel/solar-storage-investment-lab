@@ -10,7 +10,39 @@ D4.1 Leersnelheid: 35% per verdubbeling | 95%: 21%-46% | literatuur ca. 20-25% |
 D4.2 Paneelprijs: 0.095 USD/W | 2024: 0.118 (-19%) | exportwaarde China | goed
 D4.3 Sterren 2025: BGR, LTU, POL, ROU | 2022: HUN, LTU, NLD | groei > 30%/jaar | neutraal
 D4.4 Nederland: Hond | 2022: Ster | verzadiging, netcongestie | slecht
-D7.1 Controles geslaagd: 9 van 21 | 18-11: 6 van 12 | doel: alle 21 | goed
-D7.2 Nog open: 7 | C03, C04, C10, C13, C15, C19, C20 | doel: 0 voor publicatie | slecht
-D7.3 Opnieuw berekend bij elke run: 11 van 21 |  | rest: handmatig vastgelegd | neutraal
-D7.4 Grootste risico: score 9: Gemiddelde of marginale emissiefactor | beide varianten tonen | kans x impact, max 9 | slecht
+D5.1 Countries abating CO2 at a profit: 7 of 26 | solar capture price above LCOE, 2025 | negative cost per tonne | goed
+D5.2 Abatement potential to 2030: 103 Mt CO2/yr | average grid factor: 46 Mt | marginal factor (gas) vs average | neutraal
+D5.3 Cheapest abatement: Italy: -153 EUR/t | margin 44 EUR/MWh | EU ETS around 70-80 EUR/t | goed
+D5.4 Netherlands: 55 EUR/t | marginal factor: 35 EUR/t | margin -14 EUR/MWh | slecht
+D7.1 Controls passed: 10 of 21 | 18 Nov: 6 of 12 | target: all 21 | goed
+D7.2 Still open: 6 | C04, C10, C13, C15, C19, C20 | target: 0 before publication | slecht
+D7.3 Recalculated in every run: 12 of 21 | automatic in run_analyse.sh | rest: recorded by hand | neutraal
+D7.4 Largest risk: score 9 of 9 | Average or marginal emission factor | show both variants | slecht
+D8.1 Solar share of Dutch power: 21% | 2024: 18% | CBS, 2025 provisional | goed
+D8.2 Solar capacity growth: +5% in 2025 | 2024: +13% | 58.4 GWp in RES regions | slecht
+D8.3 Regional queue, offtake: 8.1 GW | official: 9.1 GW | capacity map 2026 vs queue July 2025 | slecht
+D8.4 Negative-price hours: 584 h | 2024: 458 h | 2026 to 15 Nov: 399 h | slecht
+D9.1 Median zone price: 253 EUR/MWh | 2025-11: 102 | 37 zones, 2026-11 | neutraal
+D9.2 Spread P90-P10: 192 EUR/MWh | 2025-11: 73 | gap between expensive and cheap zones | slecht
+D9.3 Relative spread, year average: 0.79 | 2019: 0.42 | (P90-P10) / median | slecht
+D9.4 Months more divergent than 2019: 80 of 83 | relative spread above 2019 average | 2020-2026 | neutraal
+D10.1 Utility solar: 172 GW | 2025-09: 142 GW | EIA-860M, 2026-09 | goed
+D10.2 Utility batteries: 56 GW | 2025-09: 37 GW | 2.8 hours of storage | goed
+D10.3 Batteries under construction: 23 GW | status U, V or TS | EIA-860M planned units | goed
+D10.4 Highest solar share: California: 37% | solar and wind: 44% | state level, 2025 | neutraal
+D11.1 Module exports, annualised: 232 GW/yr | 2025: 248 GW | 2026: 9 months of data | neutraal
+D11.2 Export price: 0.113 USD/W | 2025: 0.095 (+19%) | 2017: 0.341 | goed
+D11.3 Largest destination: Europe | 71 GW in 2026 | 41% of exports | neutraal
+D11.4 Export value: 19.6 bn USD | 2025: 23.7 bn | annualised: 26.2 bn | neutraal
+D13.1 Negative-price hours: 584 h | 2024: 458 h | 2026 to 15 Nov: 399 h | slecht
+D13.2 Imbalance price, 99th percentile: 550 EUR/MWh | 3.5% of quarters above 200 | upward regulation, 2025 | goed
+D13.3 Electric cars: 1.42 million | 3.3 TWh/yr demand | data to 2026-10 | goed
+D13.4 Smart charging at midday: 0.9 GW | unmanaged evening peak: 1.1 GW | assumption, see method | neutraal
+D14.1 CO2 per million EUR, Netherlands: 246 t/yr | India: 1474 t/yr | solar, 2025 | neutraal
+D14.2 Dutch solar margin: -14 EUR/MWh | capture price minus LCOE, 2025 | additionality: high | slecht
+D14.3 CO2 avoided by Dutch renewables: 40.0 Mt | 2024: 35.9 Mt | CBS, provisional | goed
+D14.4 of which solar power: 11.8 Mt | 2024: 9.9 Mt | CBS, provisional | goed
+D15.1 Best solar site: 1896 full-load hours | Egypt (Benban) | 2.1 times the Netherlands | goed
+D15.2 Cost of capital, India: 12.0% | Netherlands: 5.0% | IEA Cost of Capital Observatory | slecht
+D15.3 Indian LCOE at Dutch WACC: 28 EUR/MWh | now: 44 EUR/MWh | 38% cheaper | goed
+D15.4 Sites with 1.5x Dutch sun: 17 of 24 | PVGIS, 11 years | same panel, more output | neutraal

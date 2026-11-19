@@ -1,0 +1,100 @@
+Source,Year,Provisional,TJ,Share %
+Total renewables excl. statistical transfers,2023,False,313801,17.59
+Total renewables excl. statistical transfers,2024,False,361066,20.18
+"Total, including non-renewable",2023,False,1.78419e+06,
+"Total, including non-renewable",2024,False,1.78926e+06,
+Hydropower,2023,False,304,0.02
+Hydropower,2024,False,300,0.02
+"Wind, total",2023,False,97140,5.44
+"Wind, total",2024,False,115924,6.48
+Onshore wind,2023,False,56580,3.17
+Onshore wind,2024,False,61912,3.46
+Offshore wind,2023,False,40561,2.27
+Offshore wind,2024,False,54011,3.02
+"Solar, total",2023,False,71762,4.02
+"Solar, total",2024,False,79713,4.46
+Solar power,2023,False,70586,3.96
+Solar power,2024,False,78560,4.39
+Solar heat,2023,False,1176,0.07
+Solar heat,2024,False,1153,0.06
+"Geothermal and ground energy, total",2023,False,13455,0.75
+"Geothermal and ground energy, total",2024,False,14574,0.81
+Geothermal,2023,False,6798,0.38
+Geothermal,2024,False,7478,0.42
+Ground heat,2023,False,6657,0.37
+Ground heat,2024,False,7096,0.4
+Ambient air heat,2023,False,18867,1.06
+Ambient air heat,2024,False,22507,1.26
+Renewable cooling,2023,False,5825,0.33
+Renewable cooling,2024,False,6344,0.35
+"Biomass, total",2023,False,106448,5.97
+"Biomass, total",2024,False,121704,6.8
+Waste incineration,2023,False,16579,0.93
+Waste incineration,2024,False,15851,0.89
+Biomass co-firing in power plants,2023,False,15372,0.86
+Biomass co-firing in power plants,2024,False,12910,0.72
+"Biomass households, total",2023,False,16180,0.91
+"Biomass households, total",2024,False,16155,0.9
+"Biomass households, open fireplaces",2023,False,1707,0.1
+"Biomass households, open fireplaces",2024,False,1642,0.09
+"Biomass households, inserts",2023,False,2222,0.12
+"Biomass households, inserts",2024,False,2218,0.12
+"Biomass households, wood stoves",2023,False,9673,0.54
+"Biomass households, wood stoves",2024,False,9598,0.54
+"Biomass households, pellet stoves",2023,False,2307,0.13
+"Biomass households, pellet stoves",2024,False,2428,0.14
+"Biomass households, charcoal",2023,False,270,0.02
+"Biomass households, charcoal",2024,False,270,0.02
+"Biomass boilers businesses, total",2023,False,21820,1.22
+"Biomass boilers businesses, total",2024,False,22600,1.26
+"Biomass boilers businesses, CHP",2023,False,10816,0.61
+"Biomass boilers businesses, CHP",2024,False,11657,0.65
+"Biomass boilers businesses, heat only",2023,False,11004,0.62
+"Biomass boilers businesses, heat only",2024,False,10943,0.61
+"Biogas, total",2023,False,8340,0.47
+"Biogas, total",2024,False,8132,0.45
+Landfill gas,2023,False,205,0.01
+Landfill gas,2024,False,169,0.01
+Biogas from sewage treatment,2023,False,2218,0.12
+Biogas from sewage treatment,2024,False,2209,0.12
+"Biogas, manure co-digestion",2023,False,3161,0.18
+"Biogas, manure co-digestion",2024,False,3067,0.17
+Other biogas,2023,False,2755,0.15
+Other biogas,2024,False,2687,0.15
+"Liquid biofuels for transport, total",2023,False,28157,1.58
+"Liquid biofuels for transport, total",2024,False,46056,2.57
+Biogasoline,2023,False,10781,0.6
+Biogasoline,2024,False,10752,0.6
+Biodiesel,2023,False,14730,0.83
+Biodiesel,2024,False,30187,1.69
+Biokerosene,2023,False,2646,0.15
+Biokerosene,2024,False,5117,0.29
+Total renewables excl. statistical transfers,2025,True,405014,22.87
+"Total, including non-renewable",2025,True,1.77131e+06,
+Hydropower,2025,True,290,0.02
+"Wind, total",2025,True,120836,6.82
+Onshore wind,2025,True,62799,3.55
+Offshore wind,2025,True,58038,3.28
+"Solar, total",2025,True,94061,5.31
+Solar power,2025,True,92926,5.25
+Solar heat,2025,True,1135,0.06
+Geothermal,2025,True,7722,0.44
+Ground heat,2025,True,7669,0.43
+Ambient air heat,2025,True,26550,1.5
+Renewable cooling,2025,True,7065,0.4
+"Biomass, total",2025,True,140821,7.95
+Waste incineration,2025,True,17924,1.01
+Biomass co-firing in power plants,2025,True,14778,0.83
+"Biomass households, total",2025,True,16150,0.91
+"Biomass boilers businesses, total",2025,True,24894,1.41
+"Biomass boilers businesses, CHP",2025,True,13371,0.75
+"Biomass boilers businesses, heat only",2025,True,11523,0.65
+"Biogas, total",2025,True,9180,0.52
+Landfill gas,2025,True,169,0.01
+Biogas from sewage treatment,2025,True,2224,0.13
+"Biogas, manure co-digestion",2025,True,3187,0.18
+Other biogas,2025,True,3600,0.2
+"Liquid biofuels for transport, total",2025,True,57895,3.27
+Biogasoline,2025,True,10782,0.61
+Biodiesel,2025,True,33442,1.89
+Biokerosene,2025,True,13671,0.77

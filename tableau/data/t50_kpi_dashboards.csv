@@ -11,7 +11,39 @@ Dashboard,Volgorde,KPI,Waarde,Tekst,Vergelijking,Referentie,Richting
 4,2,Paneelprijs,0.0953988479227049,0.095 USD/W,2024: 0.118 (-19%),exportwaarde China,goed
 4,3,Sterren 2025,4.0,"BGR, LTU, POL, ROU","2022: HUN, LTU, NLD",groei > 30%/jaar,neutraal
 4,4,Nederland,,Hond,2022: Ster,"verzadiging, netcongestie",slecht
-7,1,Controles geslaagd,9.0,9 van 21,18-11: 6 van 12,doel: alle 21,goed
-7,2,Nog open,7.0,7,"C03, C04, C10, C13, C15, C19, C20",doel: 0 voor publicatie,slecht
-7,3,Opnieuw berekend bij elke run,11.0,11 van 21,,rest: handmatig vastgelegd,neutraal
-7,4,Grootste risico,9.0,score 9: Gemiddelde of marginale emissiefactor,beide varianten tonen,"kans x impact, max 9",slecht
+5,1,Countries abating CO2 at a profit,7.0,7 of 26,"solar capture price above LCOE, 2025",negative cost per tonne,goed
+5,2,Abatement potential to 2030,102.56280000000001,103 Mt CO2/yr,average grid factor: 46 Mt,marginal factor (gas) vs average,neutraal
+5,3,Cheapest abatement,-153.29094712982717,Italy: -153 EUR/t,margin 44 EUR/MWh,EU ETS around 70-80 EUR/t,goed
+5,4,Netherlands,55.07725332881292,55 EUR/t,marginal factor: 35 EUR/t,margin -14 EUR/MWh,slecht
+7,1,Controls passed,10.0,10 of 21,18 Nov: 6 of 12,target: all 21,goed
+7,2,Still open,6.0,6,"C04, C10, C13, C15, C19, C20",target: 0 before publication,slecht
+7,3,Recalculated in every run,12.0,12 of 21,automatic in run_analyse.sh,rest: recorded by hand,neutraal
+7,4,Largest risk,9.0,score 9 of 9,Average or marginal emission factor,show both variants,slecht
+8,1,Solar share of Dutch power,21.13,21%,2024: 18%,"CBS, 2025 provisional",goed
+8,2,Solar capacity growth,0.04838535866949245,+5% in 2025,2024: +13%,58.4 GWp in RES regions,slecht
+8,3,"Regional queue, offtake",8.05,8.1 GW,official: 9.1 GW,capacity map 2026 vs queue July 2025,slecht
+8,4,Negative-price hours,584.0,584 h,2024: 458 h,2026 to 15 Nov: 399 h,slecht
+9,1,Median zone price,252.886,253 EUR/MWh,2025-11: 102,"37 zones, 2026-11",neutraal
+9,2,Spread P90-P10,191.95696,192 EUR/MWh,2025-11: 73,gap between expensive and cheap zones,slecht
+9,3,"Relative spread, year average",0.7892281669783038,0.79,2019: 0.42,(P90-P10) / median,slecht
+9,4,Months more divergent than 2019,80.0,80 of 83,relative spread above 2019 average,2020-2026,neutraal
+10,1,Utility solar,172.01,172 GW,2025-09: 142 GW,"EIA-860M, 2026-09",goed
+10,2,Utility batteries,56.08,56 GW,2025-09: 37 GW,2.8 hours of storage,goed
+10,3,Batteries under construction,23.2984,23 GW,"status U, V or TS",EIA-860M planned units,goed
+10,4,Highest solar share,37.361,California: 37%,solar and wind: 44%,"state level, 2025",neutraal
+11,1,"Module exports, annualised",231.51572000000002,232 GW/yr,2025: 248 GW,2026: 9 months of data,neutraal
+11,2,Export price,0.11311528617869518,0.113 USD/W,2025: 0.095 (+19%),2017: 0.341,goed
+11,3,Largest destination,70.97353,Europe,71 GW in 2026,41% of exports,neutraal
+11,4,Export value,19.640975192,19.6 bn USD,2025: 23.7 bn,annualised: 26.2 bn,neutraal
+13,1,Negative-price hours,584.0,584 h,2024: 458 h,2026 to 15 Nov: 399 h,slecht
+13,2,"Imbalance price, 99th percentile",550.0,550 EUR/MWh,3.5% of quarters above 200,"upward regulation, 2025",goed
+13,3,Electric cars,1415536.0,1.42 million,3.3 TWh/yr demand,data to 2026-10,goed
+13,4,Smart charging at midday,0.8984109589041095,0.9 GW,unmanaged evening peak: 1.1 GW,"assumption, see method",neutraal
+14,1,"CO2 per million EUR, Netherlands",246.2,246 t/yr,India: 1474 t/yr,"solar, 2025",neutraal
+14,2,Dutch solar margin,-13.9711163884,-14 EUR/MWh,"capture price minus LCOE, 2025",additionality: high,slecht
+14,3,CO2 avoided by Dutch renewables,39993.0,40.0 Mt,2024: 35.9 Mt,"CBS, provisional",goed
+14,4,of which solar power,11755.0,11.8 Mt,2024: 9.9 Mt,"CBS, provisional",goed
+15,1,Best solar site,1896.027120556384,1896 full-load hours,Egypt (Benban),2.1 times the Netherlands,goed
+15,2,"Cost of capital, India",0.12,12.0%,Netherlands: 5.0%,IEA Cost of Capital Observatory,slecht
+15,3,Indian LCOE at Dutch WACC,27.674392663461173,28 EUR/MWh,now: 44 EUR/MWh,38% cheaper,goed
+15,4,Sites with 1.5x Dutch sun,17.0,17 of 24,"PVGIS, 11 years","same panel, more output",neutraal

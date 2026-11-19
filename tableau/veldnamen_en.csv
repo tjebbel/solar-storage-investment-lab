@@ -183,7 +183,7 @@ t47_kpi_nl,Jaar,Year
 t47_kpi_nl,Heel jaar,Full year
 t47_kpi_nl,Waarde NL,Value NL
 t47_kpi_nl,Vorig jaar,Previous year
-t47_kpi_nl,Verschil,Change
+t47_kpi_nl,Verschil,Difference
 t47_kpi_nl,Verschil %,Change %
 t47_kpi_nl,EU-mediaan,EU median
 t47_kpi_nl,Positie,Position
@@ -219,10 +219,209 @@ t51_congestie_afstemming,Status,Status
 t51_congestie_afstemming,Verklaring,Explanation
 t51_congestie_afstemming,Officieel toelichting,Official note
 t51_congestie_afstemming,Bron,Source
-t52_validatie_extern,Onderwerp,Topic
+t52_validatie_extern,Onderwerp,Subject
 t52_validatie_extern,Ons project,This project
 t52_validatie_extern,Extern,External
-t52_validatie_extern,Verschil,Change
+t52_validatie_extern,Verschil,Difference
 t52_validatie_extern,Oordeel,Verdict
 t52_validatie_extern,Bron,Source
 t52_validatie_extern,Dashboards,Dashboards
+t13_kostencurve,Landcode,Country code
+t13_kostencurve,Land,Country
+t13_kostencurve,Capture-prijs zon EUR/MWh,Solar capture price EUR/MWh
+t13_kostencurve,LCOE,LCOE
+t13_kostencurve,LCOE-bron,LCOE source
+t13_kostencurve,Emissiefactor gemiddeld t/MWh,Average emission factor t/MWh
+t13_kostencurve,Zon TWh 2025,Solar TWh 2025
+t13_kostencurve,Zon doel TWh 2030,Solar target TWh 2030
+t13_kostencurve,Extra zon TWh,Additional solar TWh
+t13_kostencurve,Marge EUR/MWh,Margin EUR/MWh
+t13_kostencurve,Kosten per ton (gemiddelde factor),Cost per tonne (average factor)
+t13_kostencurve,Kosten per ton (marginale factor),Cost per tonne (marginal factor)
+t13_kostencurve,Potentieel Mt (gemiddelde factor),Potential Mt (average factor)
+t13_kostencurve,Potentieel Mt (marginale factor),Potential Mt (marginal factor)
+t13_kostencurve,Cumulatief Mt (gemiddelde factor),Cumulative Mt (average factor)
+t13_kostencurve,Cumulatief Mt (marginale factor),Cumulative Mt (marginal factor)
+t18_convergentie,Maand,Month
+t18_convergentie,Zones,Zones
+t18_convergentie,P10,P10
+t18_convergentie,Mediaan,Median
+t18_convergentie,P90,P90
+t18_convergentie,IQR,IQR
+t18_convergentie,Spreiding P90-P10,Spread P90-P10
+t18_convergentie,Relatieve spreiding,Relative spread
+t20_bouwgolf,Land,Country
+t20_bouwgolf,ISO 3 Code,ISO3
+t20_bouwgolf,Bron,Source
+t20_bouwgolf,Maand,Month
+t20_bouwgolf,Vermogen GW,Capacity GW
+t20_bouwgolf,Toevoeging GW,Additions GW
+t20_bouwgolf,Gebeurtenis,Event
+t21_vs_staten,Staat,State
+t21_vs_staten,Aandeel zon %,Solar share %
+t21_vs_staten,Aandeel wind %,Wind share %
+t21_vs_staten,Aandeel zon en wind %,Solar and wind share %
+t21_vs_staten,Jaar,Year
+t22_china_export,Jaar,Year
+t22_china_export,Bestemming,Destination
+t22_china_export,GW,GW
+t22_china_export,USD miljard,USD billion
+t22_china_export,Maanden,Months
+t22_china_export,Prijs USD per W,Price USD per W
+t25_flex_nl,Jaar,Year
+t25_flex_nl,Kwartieren,Quarter hours
+t25_flex_nl,Op gemiddeld,Upward average
+t25_flex_nl,Op mediaan,Upward median
+t25_flex_nl,Op P99,Upward P99
+t25_flex_nl,Aandeel op boven 200 %,Share upward above 200 %
+t25_flex_nl,Af gemiddeld,Downward average
+t25_flex_nl,Aandeel af negatief %,Share downward negative %
+t25_flex_nl,Negatieve uren,Negative hours
+t26_ev_net,Land,Country
+t26_ev_net,ISO 3 code,ISO3
+t26_ev_net,Latest available date,Latest available date
+t26_ev_net,EV-vloot,EV fleet
+t26_ev_net,Vraag GWh per jaar,Demand GWh per year
+t26_ev_net,Olie verdrongen kbbl per jaar,Oil displaced kbbl per year
+t26_ev_net,Piek ongestuurd GW (aanname),Unmanaged peak GW (assumption)
+t26_ev_net,Middagafname gestuurd GW (aanname),Managed midday demand GW (assumption)
+t27_impact,Regio,Region
+t27_impact,Jaar,Year
+t27_impact,LCOE EUR/MWh,LCOE EUR/MWh
+t27_impact,WACC,WACC
+t27_impact,Financieringsaandeel,Financing share
+t27_impact,Ton CO2 per M EUR per jaar,Tonnes CO2 per M EUR per year
+t27_impact,Capture-prijs zon 2025,Solar capture price 2025
+t27_impact,Marge zon EUR/MWh,Solar margin EUR/MWh
+t27_impact,Additionaliteit (indicatief),Additionality (indicative)
+t27_impact,LCOE bij 5% WACC,LCOE at 5% WACC
+t28_zuiden,Locatie,Location
+t28_zuiden,Instraling,Irradiation
+t28_zuiden,Vollasturen,Full-load hours
+t28_zuiden,Jaren,Years
+t28_zuiden,Vollasturen tegen Nederland,Full-load hours vs Netherlands
+t29_congestie_gebied,voedingsgebied_id,Supply area
+t29_congestie_gebied,netbeheerder,Grid operator
+t29_congestie_gebied,provincie,Province
+t29_congestie_gebied,aanwezige_transportcapaciteit_invoeding,Available capacity feed-in MW
+t29_congestie_gebied,aanwezige_transportcapaciteit_afname,Available capacity offtake MW
+t29_congestie_gebied,benodigde_transportcapaciteit_invoeding,Required capacity feed-in MW
+t29_congestie_gebied,benodigde_transportcapaciteit_afname,Required capacity offtake MW
+t29_congestie_gebied,wachtrij_invoeding,Queue feed-in MW
+t29_congestie_gebied,wachtrij_afname,Queue offtake MW
+t29_congestie_gebied,invoeding_verschoven,Feed-in column shifted
+t29_congestie_gebied,verhouding_invoeding,Ratio feed-in
+t29_congestie_gebied,tekort_invoeding_mw,Shortage feed-in MW
+t29_congestie_gebied,jaar_opgelost_invoeding,Year solved feed-in
+t29_congestie_gebied,geen_datum_invoeding,No date feed-in
+t29_congestie_gebied,verhouding_afname,Ratio offtake
+t29_congestie_gebied,tekort_afname_mw,Shortage offtake MW
+t29_congestie_gebied,jaar_opgelost_afname,Year solved offtake
+t29_congestie_gebied,geen_datum_afname,No date offtake
+t30_congestie_rnb,netbeheerder,Grid operator
+t30_congestie_rnb,provincie,Province
+t30_congestie_rnb,gebieden,Areas
+t30_congestie_rnb,aanwezige_transportcapaciteit_afname,Available capacity offtake MW
+t30_congestie_rnb,benodigde_transportcapaciteit_afname,Required capacity offtake MW
+t30_congestie_rnb,aanwezige_transportcapaciteit_invoeding,Available capacity feed-in MW
+t30_congestie_rnb,benodigde_transportcapaciteit_invoeding,Required capacity feed-in MW
+t30_congestie_rnb,wachtrij_afname,Queue offtake MW
+t30_congestie_rnb,wachtrij_invoeding,Queue feed-in MW
+t30_congestie_rnb,tekort_afname_mw,Shortage offtake MW
+t30_congestie_rnb,tekort_invoeding_mw,Shortage feed-in MW
+t30_congestie_rnb,jaar_opgelost_afname,Year solved offtake
+t30_congestie_rnb,jaar_opgelost_invoeding,Year solved feed-in
+t30_congestie_rnb,aandeel_gebieden_tekort_afname,Share of areas with offtake shortage
+t31_congestie_tennet,congestiegebied,Congestion area
+t31_congestie_tennet,aanwezige_transportcapaciteit_afname,Available capacity offtake MW
+t31_congestie_tennet,benodigde_transportcapaciteit_afname,Required capacity offtake MW
+t31_congestie_tennet,wachtrij_afname,Queue offtake MW
+t31_congestie_tennet,aanwezige_transportcapaciteit_invoeding,Available capacity feed-in MW
+t31_congestie_tennet,benodigde_transportcapaciteit_invoeding,Required capacity feed-in MW
+t31_congestie_tennet,wachtrij_invoeding,Queue feed-in MW
+t31_congestie_tennet,verhouding_afname,Ratio offtake
+t31_congestie_tennet,tekort_afname_mw,Shortage offtake MW
+t31_congestie_tennet,jaar_opgelost_afname,Year solved offtake
+t31_congestie_tennet,verhouding_invoeding,Ratio feed-in
+t31_congestie_tennet,tekort_invoeding_mw,Shortage feed-in MW
+t31_congestie_tennet,jaar_opgelost_invoeding,Year solved feed-in
+t32_congestie_gemeente,provincie,Province
+t32_congestie_gemeente,gemeente,Municipality
+t32_congestie_gemeente,postcodes,Postcodes
+t32_congestie_gemeente,afname Beperkt %,Offtake limited %
+t32_congestie_gemeente,afname Beschikbaar %,Offtake available %
+t32_congestie_gemeente,afname In onderzoek %,Offtake under study %
+t32_congestie_gemeente,afname Tekort %,Offtake shortage %
+t32_congestie_gemeente,opwek Beperkt %,Feed-in limited %
+t32_congestie_gemeente,opwek Beschikbaar %,Feed-in available %
+t32_congestie_gemeente,opwek In onderzoek %,Feed-in under study %
+t32_congestie_gemeente,opwek Tekort %,Feed-in shortage %
+t33_vs_voorraad,Snapshot,Snapshot
+t33_vs_voorraad,Batterij GW,Battery GW
+t33_vs_voorraad,Gas GW,Gas GW
+t33_vs_voorraad,Kern GW,Nuclear GW
+t33_vs_voorraad,Kolen GW,Coal GW
+t33_vs_voorraad,Overig GW,Other GW
+t33_vs_voorraad,Pompcentrale GW,Pumped hydro GW
+t33_vs_voorraad,Water GW,Hydro GW
+t33_vs_voorraad,Wind GW,Wind GW
+t33_vs_voorraad,Zon GW,Solar GW
+t33_vs_voorraad,Batterij GWh,Battery GWh
+t33_vs_voorraad,Batterij uren,Battery hours
+t34_vs_toevoeging,Jaar,Year
+t34_vs_toevoeging,Maand,Month
+t34_vs_toevoeging,Batterij GW,Battery GW
+t34_vs_toevoeging,Gas GW,Gas GW
+t34_vs_toevoeging,Kern GW,Nuclear GW
+t34_vs_toevoeging,Kolen GW,Coal GW
+t34_vs_toevoeging,Overig GW,Other GW
+t34_vs_toevoeging,Water GW,Hydro GW
+t34_vs_toevoeging,Wind GW,Wind GW
+t34_vs_toevoeging,Zon GW,Solar GW
+t34_vs_toevoeging,Datum,Date
+t35_vs_staat,Staat,State
+t35_vs_staat,Jaar,Year
+t35_vs_staat,Batterij MW,Battery MW
+t35_vs_staat,Zon MW,Solar MW
+t36_vs_gepland,Planned Operation Year,Planned year
+t36_vs_gepland,Planned Operation Month,Planned month
+t36_vs_gepland,Groep,Group
+t36_vs_gepland,Status,Status
+t36_vs_gepland,Nameplate Capacity (MW),Capacity MW
+t37_nl_stroom,Bron,Source
+t37_nl_stroom,Jaar,Year
+t37_nl_stroom,Voorlopig,Provisional
+t37_nl_stroom,Productie GWh,Generation GWh
+t37_nl_stroom,Aandeel verbruik %,Share of consumption %
+t37_nl_stroom,Vermogen MW,Capacity MW
+t37_nl_stroom,Vollasturen,Full-load hours
+t38_nl_eindverbruik,Bron,Source
+t38_nl_eindverbruik,Jaar,Year
+t38_nl_eindverbruik,Voorlopig,Provisional
+t38_nl_eindverbruik,TJ,TJ
+t38_nl_eindverbruik,Aandeel %,Share %
+t39_vermeden_co2,Bron,Source
+t39_vermeden_co2,Jaar,Year
+t39_vermeden_co2,Voorlopig,Provisional
+t39_vermeden_co2,Vermeden fossiel TJ,Avoided fossil TJ
+t39_vermeden_co2,Vermeden CO2 kton,Avoided CO2 kt
+t39_vermeden_co2,Productie GWh,Generation GWh
+t39_vermeden_co2,t CO2 per MWh,t CO2 per MWh
+t39_vermeden_co2,kg CO2 per GJ fossiel,kg CO2 per GJ fossil
+t40_res_regio,RES-regio,RES region
+t40_res_regio,Jaar,Year
+t40_res_regio,Wind land MW,Onshore wind MW
+t40_res_regio,Zon groot MWp,Solar large MWp
+t40_res_regio,Zon klein MWp,Solar small MWp
+t40_res_regio,Zon MWp,Solar MWp
+t40_res_regio,Groei zon %,Solar growth %
+t40_res_regio,Aandeel groot %,Share large %
+t41_toetsen,Toets,Check
+t41_toetsen,Onderwerp,Subject
+t41_toetsen,Eigen aanname,Own assumption
+t41_toetsen,Referentie,Reference
+t41_toetsen,Eenheid,Unit
+t41_toetsen,Bron,Source
+t41_toetsen,LCOE eigen,LCOE own
+t41_toetsen,LCOE bij IEA-WACC,LCOE at IEA WACC
+t41_toetsen,Verschil,Difference
