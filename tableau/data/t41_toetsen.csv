@@ -1,0 +1,10 @@
+Toets,Onderwerp,Eigen aanname,Referentie,Eenheid,Bron,LCOE eigen,LCOE bij IEA-WACC,Verschil
+Marginale factor gascentrale,STEG rendement 50%,0.4,0.405,t CO2/MWh,"RVO 56,2 kg/GJ",,,-0.005
+Marginale factor gascentrale,STEG rendement 55%,0.4,0.368,t CO2/MWh,"RVO 56,2 kg/GJ",,,0.032
+Marginale factor gascentrale,STEG rendement 58%,0.4,0.349,t CO2/MWh,"RVO 56,2 kg/GJ",,,0.051
+Marginale factor gascentrale,CBS vermeden emissie zonnestroom 2025,0.4,0.455,t CO2/MWh,CBS 84918NED / 82610NED,,,-0.055
+WACC tegen IEA 2021,Nederland,0.05,0.04,fractie,IEA Cost of Capital Observatory,67.39,61.79,0.01
+WACC tegen IEA 2021,Europa (Spanje),0.055,0.04,fractie,IEA Cost of Capital Observatory,51.09,44.95,0.015
+WACC tegen IEA 2021,VS (Texas),0.06,0.043,fractie,IEA Cost of Capital Observatory,64.56,56.02,0.017
+WACC tegen IEA 2021,China,0.045,0.049,fractie,IEA Cost of Capital Observatory,29.83,30.88,-0.004
+WACC tegen IEA 2021,India (RvdW),0.12,0.099,fractie,IEA Cost of Capital Observatory,44.42,39.04,0.021

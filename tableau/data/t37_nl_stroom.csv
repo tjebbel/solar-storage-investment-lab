@@ -1,0 +1,15 @@
+Bron,Jaar,Voorlopig,Productie GWh,Aandeel verbruik %,Vermogen MW,Vollasturen
+Totaal hernieuwbare energiebronnen,2024,False,62374,52.01,,
+Totaal hernieuwbare energiebronnen,2025,True,65914,53.96,,
+Waterkracht,2024,False,85,0.07,38.0,2237.0
+Waterkracht,2025,True,57,0.05,38.0,1500.0
+Totaal windenergie,2024,False,33519,27.95,11702.0,2864.0
+Totaal windenergie,2025,True,32885,26.92,11764.0,2795.0
+Windenergie op land,2024,False,18031,15.03,6955.0,2593.0
+Windenergie op land,2025,True,16966,13.89,7017.0,2418.0
+Windenergie op zee,2024,False,15488,12.91,4748.0,3262.0
+Windenergie op zee,2025,True,15919,13.03,4748.0,3353.0
+Zonnestroom,2024,False,21942,18.29,24773.0,886.0
+Zonnestroom,2025,True,25813,21.13,25856.0,998.0
+Totaal biomassa,2024,False,6828,5.69,,
+Totaal biomassa,2025,True,7160,5.86,,

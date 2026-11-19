@@ -44,6 +44,7 @@ stap "$PY" -m eti.net_flex                 # dashboard 13: flexibiliteit NL en e
 stap "$PY" -m eti.impact_zuiden            # dashboards 14-15: impact en Mondiale Zuiden (t27-t28)
 stap "$PY" -m eti.netcongestie            # dashboards 8 en 13: netcongestie capaciteitskaart (t29-t32)
 stap "$PY" -m eti.vs_860m                 # dashboard 10: EIA-860M voorraad, toevoeging, staten, gepland (t33-t36)
+stap "$PY" -m eti.cbs_hernieuwbaar        # dashboard 8 + toetsen: CBS hernieuwbaar, RES-regio, IEA-WACC, RVO-factor (t37-t41)
 stap "$PY" -m eti.assurance_overzicht      # dashboard 7: controlematrix en risicokaart (t15-t16)
 stap "$PY" -m unittest discover -s tests
 echo "Logboek: $LOG"

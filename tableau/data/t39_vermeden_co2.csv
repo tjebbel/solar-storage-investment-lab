@@ -1,0 +1,75 @@
+Bron,Jaar,Voorlopig,Vermeden fossiel TJ,Vermeden CO2 kton,Productie GWh,t CO2 per MWh,kg CO2 per GJ fossiel
+Totaal energiebronnen,2024,True,591177.0,35944.0,,,60.8
+Totaal energiebronnen,2025,True,653522.0,39993.0,,,61.2
+Waterkracht,2024,True,659.0,38.0,85.0,0.447,57.7
+Waterkracht,2025,True,659.0,38.0,57.0,0.667,57.7
+Totaal windenergie,2024,True,254219.0,14626.0,33519.0,0.436,57.5
+Totaal windenergie,2025,True,264675.0,15228.0,32885.0,0.463,57.5
+Windenergie op land,2024,True,135773.0,7812.0,18031.0,0.433,57.5
+Windenergie op land,2025,True,137430.0,7907.0,16966.0,0.466,57.5
+Windenergie op zee,2024,True,118446.0,6815.0,15488.0,0.44,57.5
+Windenergie op zee,2025,True,127245.0,7321.0,15919.0,0.46,57.5
+Totaal zonne-energie,2024,True,173522.0,9982.0,,,57.5
+Totaal zonne-energie,2025,True,205539.0,11824.0,,,57.5
+Zonnestroom,2024,True,172281.0,9912.0,21942.0,0.452,57.5
+Zonnestroom,2025,True,204320.0,11755.0,25813.0,0.455,57.5
+Zonnewarmte,2024,True,1242.0,70.0,,,56.4
+Zonnewarmte,2025,True,1219.0,69.0,,,56.6
+Totaal aardwarmte en bodemenergie,2024,True,13753.0,767.0,,,55.8
+Totaal aardwarmte en bodemenergie,2025,True,14394.0,802.0,,,55.7
+Aardwarmte,2024,True,7489.0,420.0,,,56.1
+Aardwarmte,2025,True,7748.0,434.0,,,56.0
+Totaal bodemenergie,2024,True,6264.0,347.0,,,55.4
+Totaal bodemenergie,2025,True,6646.0,368.0,,,55.4
+"Bodemwarmte, totaal",2024,True,4938.0,271.0,,,54.9
+"Bodemwarmte, totaal",2025,True,5320.0,291.0,,,54.7
+"Bodemwarmte, warmtepompen",2024,True,4748.0,260.0,,,54.8
+"Bodemwarmte, warmtepompen",2025,True,5130.0,281.0,,,54.8
+"Bodemwarmte, zonder warmtepompen",2024,True,190.0,11.0,,,57.9
+"Bodemwarmte, zonder warmtepompen",2025,True,190.0,11.0,,,57.9
+Bodemkoude,2024,True,1327.0,76.0,,,57.3
+Bodemkoude,2025,True,1327.0,76.0,,,57.3
+Buitenluchtwarmte,2024,True,7689.0,391.0,,,50.9
+Buitenluchtwarmte,2025,True,9052.0,460.0,,,50.8
+Totaal biomassa,2024,True,141335.0,10140.0,6828.0,1.485,71.7
+Totaal biomassa,2025,True,159203.0,11641.0,7160.0,1.626,73.1
+Afvalverbrandingsinstallaties,2024,True,20762.0,1183.0,,,57.0
+Afvalverbrandingsinstallaties,2025,True,22725.0,1294.0,,,56.9
+Bij- en meestoken biomassa in centrales,2024,True,26821.0,2540.0,,,94.7
+Bij- en meestoken biomassa in centrales,2025,True,30595.0,2897.0,,,94.7
+Totaal biomassa huishoudens,2024,True,11680.0,656.0,,,56.2
+Totaal biomassa huishoudens,2025,True,11769.0,661.0,,,56.2
+"Biomassa huishoudens, openhaarden",2024,True,173.0,10.0,,,57.8
+"Biomassa huishoudens, openhaarden",2025,True,166.0,9.0,,,54.2
+"Biomassa huishoudens, inzethaarden",2024,True,1672.0,94.0,,,56.2
+"Biomassa huishoudens, inzethaarden",2025,True,1686.0,95.0,,,56.3
+"Biomassa huishoudens, houtkachels",2024,True,7663.0,431.0,,,56.2
+"Biomassa huishoudens, houtkachels",2025,True,7641.0,429.0,,,56.1
+"Biomassa huishoudens, pelletkachels",2024,True,2172.0,122.0,,,56.2
+"Biomassa huishoudens, pelletkachels",2025,True,2276.0,128.0,,,56.2
+"Biomassa huishoudens, houtskoolverbruik",2024,True,,,,,
+"Biomassa huishoudens, houtskoolverbruik",2025,True,,,,,
+Totaal biomassaketels bedrijven,2024,True,24907.0,1408.0,,,56.5
+Totaal biomassaketels bedrijven,2025,True,23442.0,1326.0,,,56.6
+"Biomassaketels bedrijven, WKK",2024,True,13736.0,780.0,,,56.8
+"Biomassaketels bedrijven, WKK",2025,True,13666.0,776.0,,,56.8
+"Biomassaketels bedrijven, alleen warmte",2024,True,11171.0,628.0,,,56.2
+"Biomassaketels bedrijven, alleen warmte",2025,True,9776.0,549.0,,,56.2
+Totaal biogas,2024,True,11110.0,660.0,,,59.4
+Totaal biogas,2025,True,12776.0,757.0,,,59.3
+Biogas uit stortplaatsen,2024,True,251.0,15.0,,,59.8
+Biogas uit stortplaatsen,2025,True,251.0,15.0,,,59.8
+Biogas rioolwaterzuiveringsinstallaties,2024,True,1994.0,116.0,,,58.2
+Biogas rioolwaterzuiveringsinstallaties,2025,True,1994.0,116.0,,,58.2
+"Biogas, co-vergisting van mest",2024,True,4904.0,294.0,,,60.0
+"Biogas, co-vergisting van mest",2025,True,5127.0,306.0,,,59.7
+Overig biogas,2024,True,3960.0,235.0,,,59.3
+Overig biogas,2025,True,5403.0,321.0,,,59.4
+"Vloeibare biotransportbrandstof, totaal",2024,True,46056.0,3693.0,,,80.2
+"Vloeibare biotransportbrandstof, totaal",2025,True,57895.0,4704.0,,,81.3
+Biobenzine,2024,True,10752.0,804.0,,,74.8
+Biobenzine,2025,True,10782.0,833.0,,,77.3
+Biodiesel,2024,True,30187.0,2444.0,,,81.0
+Biodiesel,2025,True,33442.0,2711.0,,,81.1
+Biokerosine,2024,True,5117.0,444.0,,,86.8
+Biokerosine,2025,True,13671.0,1161.0,,,84.9

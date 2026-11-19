@@ -1,0 +1,13 @@
+soort,sleutel,waarde,eenheid,bron
+kapitaalkosten_nominaal,Europa,0.040,fractie,IEA Cost of Capital Observatory (2025) tabel 1: utility-scale zon 2021
+kapitaalkosten_nominaal,VS,0.043,fractie,IEA Cost of Capital Observatory (2025) tabel 1: utility-scale zon 2021
+kapitaalkosten_nominaal,China,0.049,fractie,IEA Cost of Capital Observatory (2025) tabel 1: utility-scale zon 2021
+kapitaalkosten_nominaal,India,0.099,fractie,IEA Cost of Capital Observatory (2025) tabel 1: utility-scale zon 2021
+kapitaalkosten_nominaal,Brazilie,0.131,fractie,IEA Cost of Capital Observatory (2025) tabel 1: utility-scale zon 2021
+kapitaalkosten_nominaal,Zuid-Afrika,0.100,fractie,IEA Cost of Capital Observatory (2025) tabel 1: utility-scale zon 2021
+kapitaalkosten_nominaal,Indonesie,0.101,fractie,IEA Cost of Capital Observatory (2025) tabel 1: utility-scale zon 2021
+kapitaalkosten_nominaal,Mexico,0.097,fractie,IEA Cost of Capital Observatory (2025) tabel 1: utility-scale zon 2021
+emissiefactor,aardgas,56.2,kg CO2/GJ,RVO Nederlandse lijst van energiedragers januari 2024 (waarde 2024)
+emissiefactor,gasolie,72.5,kg CO2/GJ,RVO lijst energiedragers januari 2024
+emissiefactor,zware stookolie,77.4,kg CO2/GJ,RVO lijst energiedragers januari 2024
+emissiefactor,overige bitumineuze steenkool,92.7,kg CO2/GJ,RVO lijst energiedragers januari 2024

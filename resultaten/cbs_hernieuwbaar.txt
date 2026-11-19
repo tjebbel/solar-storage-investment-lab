@@ -1,0 +1,13 @@
+Hernieuwbaar aandeel bruto eindverbruik: 2023 17.6%, 2024 20.2%, 2025 22.9% (2025 voorlopig).
+Zonnestroom: 21942 GWh in 2024, 25813 GWh in 2025 (21.1% van verbruik); vollasturen 998.
+RES-regio's: zon NL 11108 MWp (2020) naar 29185 MWp (2025), groei laatste jaar 4.8%; grootste: Groningen 2021, Drenthe 1831, Rotterdam/Den Haag 1747.
+Toetsen:
+  Marginale factor gascentrale | STEG rendement 50%: eigen 0.4, referentie 0.405
+  Marginale factor gascentrale | STEG rendement 55%: eigen 0.4, referentie 0.368
+  Marginale factor gascentrale | STEG rendement 58%: eigen 0.4, referentie 0.349
+  Marginale factor gascentrale | CBS vermeden emissie zonnestroom 2025: eigen 0.4, referentie 0.455
+  WACC tegen IEA 2021 | Nederland: eigen 0.05, referentie 0.04, LCOE 67.4 -> 61.8
+  WACC tegen IEA 2021 | Europa (Spanje): eigen 0.055, referentie 0.04, LCOE 51.1 -> 45.0
+  WACC tegen IEA 2021 | VS (Texas): eigen 0.06, referentie 0.043, LCOE 64.6 -> 56.0
+  WACC tegen IEA 2021 | China: eigen 0.045, referentie 0.049, LCOE 29.8 -> 30.9
+  WACC tegen IEA 2021 | India (RvdW): eigen 0.12, referentie 0.099, LCOE 44.4 -> 39.0

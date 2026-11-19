@@ -1,0 +1,100 @@
+Bron,Jaar,Voorlopig,TJ,Aandeel %
+Totaal hern. energie exc. stat. overdr.,2023,False,313801.0,17.59
+Totaal hern. energie exc. stat. overdr.,2024,False,361066.0,20.18
+"Totaal, inclusief niet-hernieuwbaar",2023,False,1784190.0,
+"Totaal, inclusief niet-hernieuwbaar",2024,False,1789258.0,
+Waterkracht,2023,False,304.0,0.02
+Waterkracht,2024,False,300.0,0.02
+Totaal windenergie,2023,False,97140.0,5.44
+Totaal windenergie,2024,False,115924.0,6.48
+Windenergie op land,2023,False,56580.0,3.17
+Windenergie op land,2024,False,61912.0,3.46
+Windenergie op zee,2023,False,40561.0,2.27
+Windenergie op zee,2024,False,54011.0,3.02
+Totaal zonne-energie,2023,False,71762.0,4.02
+Totaal zonne-energie,2024,False,79713.0,4.46
+Zonnestroom,2023,False,70586.0,3.96
+Zonnestroom,2024,False,78560.0,4.39
+Zonnewarmte,2023,False,1176.0,0.07
+Zonnewarmte,2024,False,1153.0,0.06
+Totaal aardwarmte en bodemenergie,2023,False,13455.0,0.75
+Totaal aardwarmte en bodemenergie,2024,False,14574.0,0.81
+Aardwarmte,2023,False,6798.0,0.38
+Aardwarmte,2024,False,7478.0,0.42
+Bodemwarmte,2023,False,6657.0,0.37
+Bodemwarmte,2024,False,7096.0,0.4
+Buitenluchtwarmte,2023,False,18867.0,1.06
+Buitenluchtwarmte,2024,False,22507.0,1.26
+Hernieuwbare koude,2023,False,5825.0,0.33
+Hernieuwbare koude,2024,False,6344.0,0.35
+Totaal biomassa,2023,False,106448.0,5.97
+Totaal biomassa,2024,False,121704.0,6.8
+Afvalverbrandingsinstallaties,2023,False,16579.0,0.93
+Afvalverbrandingsinstallaties,2024,False,15851.0,0.89
+Bij- en meestoken biomassa in centrales,2023,False,15372.0,0.86
+Bij- en meestoken biomassa in centrales,2024,False,12910.0,0.72
+Totaal biomassa huishoudens,2023,False,16180.0,0.91
+Totaal biomassa huishoudens,2024,False,16155.0,0.9
+"Biomassa huishoudens, openhaarden",2023,False,1707.0,0.1
+"Biomassa huishoudens, openhaarden",2024,False,1642.0,0.09
+"Biomassa huishoudens, inzethaarden",2023,False,2222.0,0.12
+"Biomassa huishoudens, inzethaarden",2024,False,2218.0,0.12
+"Biomassa huishoudens, houtkachels",2023,False,9673.0,0.54
+"Biomassa huishoudens, houtkachels",2024,False,9598.0,0.54
+"Biomassa huishoudens, pelletkachels",2023,False,2307.0,0.13
+"Biomassa huishoudens, pelletkachels",2024,False,2428.0,0.14
+"Biomassa huishoudens, houtskoolverbruik",2023,False,270.0,0.02
+"Biomassa huishoudens, houtskoolverbruik",2024,False,270.0,0.02
+Totaal biomassaketels bedrijven,2023,False,21820.0,1.22
+Totaal biomassaketels bedrijven,2024,False,22600.0,1.26
+"Biomassaketels bedrijven, WKK",2023,False,10816.0,0.61
+"Biomassaketels bedrijven, WKK",2024,False,11657.0,0.65
+"Biomassaketels bedrijven, alleen warmte",2023,False,11004.0,0.62
+"Biomassaketels bedrijven, alleen warmte",2024,False,10943.0,0.61
+Totaal Biogas,2023,False,8340.0,0.47
+Totaal Biogas,2024,False,8132.0,0.45
+Biogas uit stortplaatsen,2023,False,205.0,0.01
+Biogas uit stortplaatsen,2024,False,169.0,0.01
+Biogas rioolwaterzuiveringsinstallaties,2023,False,2218.0,0.12
+Biogas rioolwaterzuiveringsinstallaties,2024,False,2209.0,0.12
+"Biogas, co-vergisting van mest",2023,False,3161.0,0.18
+"Biogas, co-vergisting van mest",2024,False,3067.0,0.17
+Overig biogas,2023,False,2755.0,0.15
+Overig biogas,2024,False,2687.0,0.15
+"Vloeibare biotransportbrandstof, totaal",2023,False,28157.0,1.58
+"Vloeibare biotransportbrandstof, totaal",2024,False,46056.0,2.57
+Biobenzine,2023,False,10781.0,0.6
+Biobenzine,2024,False,10752.0,0.6
+Biodiesel,2023,False,14730.0,0.83
+Biodiesel,2024,False,30187.0,1.69
+Biokerosine,2023,False,2646.0,0.15
+Biokerosine,2024,False,5117.0,0.29
+Totaal hern. energie exc. stat. overdr.,2025,True,405014.0,22.87
+"Totaal, inclusief niet-hernieuwbaar",2025,True,1771313.0,
+Waterkracht,2025,True,290.0,0.02
+Totaal windenergie,2025,True,120836.0,6.82
+Windenergie op land,2025,True,62799.0,3.55
+Windenergie op zee,2025,True,58038.0,3.28
+Totaal zonne-energie,2025,True,94061.0,5.31
+Zonnestroom,2025,True,92926.0,5.25
+Zonnewarmte,2025,True,1135.0,0.06
+Aardwarmte,2025,True,7722.0,0.44
+Bodemwarmte,2025,True,7669.0,0.43
+Buitenluchtwarmte,2025,True,26550.0,1.5
+Hernieuwbare koude,2025,True,7065.0,0.4
+Totaal biomassa,2025,True,140821.0,7.95
+Afvalverbrandingsinstallaties,2025,True,17924.0,1.01
+Bij- en meestoken biomassa in centrales,2025,True,14778.0,0.83
+Totaal biomassa huishoudens,2025,True,16150.0,0.91
+Totaal biomassaketels bedrijven,2025,True,24894.0,1.41
+"Biomassaketels bedrijven, WKK",2025,True,13371.0,0.75
+"Biomassaketels bedrijven, alleen warmte",2025,True,11523.0,0.65
+Totaal Biogas,2025,True,9180.0,0.52
+Biogas uit stortplaatsen,2025,True,169.0,0.01
+Biogas rioolwaterzuiveringsinstallaties,2025,True,2224.0,0.13
+"Biogas, co-vergisting van mest",2025,True,3187.0,0.18
+Overig biogas,2025,True,3600.0,0.2
+"Vloeibare biotransportbrandstof, totaal",2025,True,57895.0,3.27
+Biobenzine,2025,True,10782.0,0.61
+Biodiesel,2025,True,33442.0,1.89
+Biokerosine,2025,True,13671.0,0.77
