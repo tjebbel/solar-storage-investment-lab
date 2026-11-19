@@ -1,0 +1,32 @@
+          Regio  LCOE EUR/MWh  WACC  LCOE bij 5% WACC  Ton CO2 per M EUR per jaar  Marge zon EUR/MWh             Additionaliteit (indicatief)
+      Nederland         67.39  0.05             67.39                       246.2             -13.97         hoog: zonder steun niet rendabel
+Europa (Spanje)         51.09  0.06             48.99                       121.7             -14.99         hoog: zonder steun niet rendabel
+     VS (Texas)         64.56  0.06             59.46                       329.4                NaN onbekend: geen marktprijs in het project
+          China         29.83  0.04             31.15                      1090.6                NaN onbekend: geen marktprijs in het project
+   India (RvdW)         44.42  0.12             27.67                      1474.5                NaN onbekend: geen marktprijs in het project
+
+          Locatie  Instraling  Vollasturen  Jaren  Vollasturen tegen Nederland
+  Egypte (Benban)     2370.03      1896.03     11                         2.12
+  Chili (Atacama)     2280.50      1824.40     11                         2.04
+    Saoedi-Arabie     2221.40      1777.12     11                         1.99
+           Mexico     2147.52      1718.02     11                         1.92
+      Zuid-Afrika     2147.05      1717.64     11                         1.92
+            Kenia     2113.18      1690.55     11                         1.89
+          Marokko     2073.68      1658.94     11                         1.86
+         Brazilie     2049.80      1639.84     11                         1.84
+       Californie     2034.37      1627.50     11                         1.82
+India (Rajasthan)     1994.00      1595.20     11                         1.79
+          Nigeria     1923.82      1539.06     11                         1.72
+ Australie (Zuid)     1883.75      1507.00     11                         1.69
+            Texas     1867.38      1493.91     11                         1.67
+          Vietnam     1839.81      1471.84     11                         1.65
+        Indonesie     1723.65      1378.92     11                         1.54
+           Spanje     1717.50      1374.00     11                         1.54
+  China (Qinghai)     1674.40      1339.52     11                         1.50
+           Italie     1672.71      1338.17     11                         1.50
+            Japan     1439.49      1151.59     11                         1.29
+        Nederland     1115.68       892.55     11                         1.00
+            Polen     1108.08       886.46     11                         0.99
+        Duitsland     1107.31       885.85     11                         0.99
+               VK     1075.84       860.67     11                         0.96
+           Zweden     1035.25       828.20     11                         0.93

@@ -25,9 +25,20 @@ Volgorde zoals gevraagd. Elk pakket levert code in `src/eti`, tabellen in `power
 | 19 | Batterij: bronnen, bouwkosten, cycli | klaar; aFRR alleen ijkpunten | `batterij_bronnen.py`, `batterij_irr.py` | `08` (4.3, 4.4) |
 | 20 | Schokjaar 2026 | klaar: gas 76% | `schokjaar.py` | `08` (4.5) |
 | 21 | Benchmark en DAX | klaar om te draaien op de Mac en in Fabric | `sql_benchmark.py`, `benchmark_tsql.sh`, `powerbi_toets vergelijk` | `08` (4.6, 4.7) |
+| 22 | Tableau-dashboard 1 en GitHub | gepubliceerd op Tableau Public; repo opgeruimd (870 -> 386 bestanden) | `tableau/NL_solar.twbx`, README | `09_ronde_19nov.md` (1) |
+| 23 | Kernenergie Europa en wereld (dashboard 3) | klaar | `kern_wereld.py` (t6-t8) | `09` (2) |
+| 24 | Signalering alle zones, dekking NL (dashboard 2) | klaar; Python 66 van 66 | `signalering_europa.py` (t9-t10) | `09` (3) |
+| 25 | Ervaringscurve en portefeuille (dashboard 4) | klaar | `bcg_portefeuille.py` (t11-t12) | `09` (4) |
+| 26 | Kostencurve CO2 (dashboard 5) | klaar; LCOE noord/zuid als stand-in | `mck_kostencurve.py` (t13) | `09` (4) |
+| 27 | Controlematrix en risicokaart (dashboard 7) | klaar; 3 controles open | `assurance_overzicht.py` (t15-t16) | `09` (4) |
+| 28 | Overheden EU, VS, China (dashboards 9-11) | klaar; NL (t17), EU-doelpad (t19), provincies (t23) open | `overheden.py` (t18, t20-t22) | `09` (4) |
+| 29 | Netbeheerder en EV (dashboard 13) | klaar; grensstromen nog te controleren | `net_flex.py` (t25-t26) | `09` (4) |
+| 30 | Impact en Mondiale Zuiden (dashboards 14-15) | klaar; WACC Afrika open | `impact_zuiden.py` (t27-t28) | `09` (4) |
 
 Ronde 8 tot en met 14: 17 en 18 november 2026. Tests: 191, op je Mac en in de werkomgeving met dezelfde uitkomsten. Het R-script geeft dezelfde schattingen als Python; het online dashboard heeft de nieuwe tabellen met Texas.
 
 Nog open: DAX en T-SQL uitvoeren (Power BI of Fabric met je account), de aFRR-capaciteitsprijs, mail en cron op de Mac zelf.
 
 Ronde 15 tot en met 21: 18 november 2026. Tests: 203. Nog open: DAX uitvoeren in Fabric of op Windows, de snelheidsmeting op de Mac, een aFRR-reeks.
+
+Ronde 22 tot en met 30: 18 en 19 november 2026. Tests: 213 (28 overgeslagen in de Mac-VM zonder Streamlit). Open: Tableau-toets dashboard 2, DAX in Fabric, saldering (t17), NGFS (t24), netcongestie, grensstromen, aFRR-reeks.

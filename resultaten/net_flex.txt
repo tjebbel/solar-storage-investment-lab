@@ -1,0 +1,11 @@
+ Jaar  Kwartieren  Op gemiddeld  Op mediaan  Op P99  Aandeel op boven 200 %  Af gemiddeld  Aandeel af negatief %  Negatieve uren
+ 2019         NaN           NaN         NaN     NaN                     NaN           NaN                    NaN               3
+ 2020         NaN           NaN         NaN     NaN                     NaN           NaN                    NaN              97
+ 2021         NaN           NaN         NaN     NaN                     NaN           NaN                    NaN              70
+ 2022         NaN           NaN         NaN     NaN                     NaN           NaN                    NaN              86
+ 2023     34856.0          88.6         0.0  1143.6                     7.7           9.8                   19.7             315
+ 2024     35103.0          94.5        70.0  1837.6                     5.2           0.1                   25.7             458
+ 2025     25505.0          94.4        88.6   550.0                     3.5          15.7                   21.0             584
+ 2026         NaN           NaN         NaN     NaN                     NaN           NaN                    NaN             399
+
+Nederland: 1,415,536 EV's, 3,279 GWh per jaar; ongestuurd laden geeft (aanname) ongeveer 1.12 GW extra avondpiek, gestuurd laden neemt 0.90 GW van het middagoverschot op.

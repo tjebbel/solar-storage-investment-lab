@@ -140,7 +140,74 @@ repo-map `tableau/`). Desktop Public Edition kan lokaal opslaan.
 3. Maak de kaart een filter: selecteer de kaart > trechtericoon *Use as Filter*. Klikken op een land filtert dan het verloop.
 4. Verberg dubbele legenda's; houd per kleur één legenda over.
 
-### 10. Dashboard 2 "Signalering Nederland" (de Tableau-tweeling van de DAX-maten, 40 minuten), bron `Maand`
+### 10. Dashboard 2 "Signalering Nederland" (stappenplan 19 november, ongeveer 2,5 uur)
+
+**Boodschap van het dashboard.** In het najaar van 2026 is de stroomprijs in Nederland drie maanden achter elkaar een
+schok: de z-score is 4,1 in september, 3,5 in oktober en 5,4 in november (tot 15 november). Toch dekt zon in 2026 in zes
+van de elf maanden zijn kostprijs. Het dashboard rekent hetzelfde als de DAX-maten en Python (66 van 66).
+
+**Wat klaar staat:** `tableau/data/t2_land_maand.csv` (signalering NL), `t9_signalering_zones.csv` (heatmap Europa) en
+`t10_dekking_nl.csv` (dekking per jaar). De verwachte uitkomst staat in `powerbi/maten_verwacht.csv`.
+
+**Stap 0, voorbereiden (10 min).** Open `NL_solar.twbx`. Voeg via **Data > Nieuwe gegevensbron > Tekstbestand** t9 en t10
+toe, elk als eigen bron (komma, UTF-8, landinstelling Engels (VS)). Zet ze meteen op **Extraheren**: zonder extract kun je
+straks niet publiceren.
+
+**Stap 1, werkblad "Signalering" (40 min, bron t2).** Volg de rekenregels van de oude stap 10 hieronder (parameter `LCOE`,
+zeven berekende velden, `Toon jaar` als filter, tabelberekening alleen over `Maand`). Rond af op 2 decimalen.
+Controle: januari 2026 = 107,66 · 107,51 · 40,12 · Gedekt · 1,11 · Gewoon; september 2026 = z-score 4,07 · Schok.
+
+**Stap 2, de toets (10 min).** Werkblad > Kopiëren > Kruistabel, plak in TextEdit (platte tekst), sla op als
+`resultaten/tableau_signalering_2026.txt` en draai:
+`PYTHONPATH=src .venv/bin/python -m eti.powerbi_toets vergelijk resultaten/tableau_signalering_2026.txt`.
+Verwacht: "66 van 66 waarden kloppen". Klopt het niet, stuur de uitvoer; dan is het bijna altijd de tabelberekening.
+
+**Stap 3, werkblad "Schokken in Europa" (25 min, bron t9).** `Zonenaam` naar Rijen, `Maand` naar Kolommen (exacte maand,
+discreet; of continu met *Vierkant* als markering), `Prijs signaal` naar Kleur: Gewoon lichtgrijs, Let op oranje,
+Schok rood. Sorteer de zones op het aantal schokmaanden (rechtsklik `Zonenaam` > Sorteren > Veld: aantal, waar Prijs
+signaal = Schok). Titel: `Prijsschokken per zone en maand, 2020-2026`. Subtitel: `Schok = prijs meer dan 3 standaardafwijkingen
+van de twaalf maanden ervoor. 2026 tot 15 november.` Knopinfo: zone, maand, prijs, z-score.
+
+**Stap 4, werkblad "Dekking zon NL" (20 min, bron t10).** `Jaar` (discreet) naar Kolommen, `SUM(Maanden)` naar Rijen,
+`Status zon` naar Kleur (Gedekt groen, Krap oranje, Kosten niet gedekt rood, dezelfde kleuren als in Signalering),
+`Scenario` naar Filters als **enkele waarde (lijst)**, getoond. Labels aan. Titel:
+`In hoeveel maanden dekt zon zijn kostprijs? Nederland`.
+
+**Stap 5, kerncijfers (15 min).** Drie kleine tekstwerkbladen, elk met filter Nederland en jaar 2026, lettergrootte 20 en vet:
+gedekte maanden uit t10 (`SUM(Maanden)` met Scenario = LCOE 2025 en Status zon = Gedekt; verwacht 6), de hoogste
+z-score uit t9 (`MAX(Prijs z-score)`; verwacht 5,40, november) en de gemiddelde capture-prijs zon uit t9
+(`AVG(Capture-prijs zon)`; verwacht 92,79). Elk met een korte titel eronder: `maanden kostprijs gedekt`, `hoogste z-score`, `euro per MWh`.
+
+**Stap 6, dashboard (30 min).** Nieuw dashboard *Signalering Nederland*, vaste grootte 1200 × 1150.
+1. Bovenaan een tekstvak: titel `Signalering Nederland: najaar 2026 is een prijsschok` en subtitel
+   `Dezelfde rekenregels als de DAX-maten en Python; 66 van 66 waarden gecontroleerd. Bron: Energy-Charts. 2026 tot 15 november.`
+2. Rij 1: kerncijfers. Rij 2: Signalering (links, 60%) en Dekking (rechts, 40%). Rij 3: Schokken in Europa (volle breedte).
+3. Parameter `LCOE` zichtbaar rechtsboven, met de uitleg: `Marge = capture-prijs min de kostprijs van zonnestroom (LCOE).
+   De z-score vergelijkt de maand met de twaalf maanden ervoor.`
+4. Buitenste opvulling 8 px; legenda's horizontaal onder hun grafiek; geen legendakolom rechts (zie de lessen van dashboard 1).
+
+**Stap 7, publiceren (15 min).**
+- Klik met rechts op het tabblad van elk dashboard > **Alle werkbladen verbergen**, zodat alleen de twee dashboards tabbladen zijn.
+- **Server > Tableau Public > Opslaan in Tableau Public**, met dezelfde naam als dashboard 1. De bestaande viz wordt
+  bijgewerkt en de link blijft gelijk. Zet op de pagina **Toon werkbladen als tabbladen** aan: bezoekers zien dan de twee
+  dashboards als tabbladen.
+- Controleer in de browser: het tabblad Signalering laat januari 2026 = 107,66 zien, en de LCOE-schuif werkt.
+
+**Stap 8, GitHub (10 min).**
+```bash
+cd ~/projecten/tjebbel/set_up/energy_dashboard/solar-storage-investment-lab
+# Dashboard > Afbeelding exporteren > docs/img/tableau_signalering.png
+cp ~/Documents/"Mijn Tableau Repository"/Werkmappen/NL_solar.twbx tableau/NL_solar.twbx   # alleen als hij daar staat
+git add tableau/NL_solar.twbx tableau/data/t9_signalering_zones.csv tableau/data/t10_dekking_nl.csv \
+        resultaten/tableau_signalering_2026.txt docs/img/tableau_signalering.png README.md
+git commit -m "Dashboard 2 Signalering Nederland: gepubliceerd en getoetst (66 van 66)"
+git push
+```
+Voeg in de README onder het eerste dashboard een regel en de afbeelding toe: `Dashboard 2: Signalering Nederland`.
+Laat daarna `PYTHONPATH=src .venv/bin/python -m eti.assurance_overzicht` zien wat de status van controle C03 is; geef de
+uitkomst door, dan zet ik C03 op geslaagd.
+
+#### Rekenregels (oorspronkelijke stap 10)
 
 Dit zijn dezelfde rekenregels als in `powerbi/maten_analyse.dax`, met dezelfde verwachte uitkomst
 (`powerbi/maten_verwacht.csv`). In Python is nagerekend dat deze Tableau-logica exact die waarden geeft.
@@ -206,6 +273,79 @@ Dit zijn dezelfde rekenregels als in `powerbi/maten_analyse.dax`, met dezelfde v
    Het `.twbx`-bestand bevat de data al; dat is een paar MB en mag in Git.
 
 ---
+
+### 13. Dashboard 3 "Kernenergie in Europa en de wereld" (donderdag 19 november, ongeveer 2 uur)
+
+**Boodschap.** Zon en kern leverden in 2025 wereldwijd evenveel stroom (2807 en 2805 TWh). In Europa levert kern nog ruim
+twee keer zoveel als zon, maar kernstroom houdt zijn marktwaarde (capture rate 1,00) en zon niet (0,61).
+
+**Bronnen.** Voeg t6, t7 en t8 toe als eigen bron, elk meteen als extract. Gebruik dezelfde instellingen als bij t1–t5.
+
+1. **"Kern en zon, wereld en Europa"** (t6). `Jaar` (continu) op Kolommen, `SUM(Opwek TWh)` op Rijen, `Bron` op Kleur
+   (Kernenergie paars, Zon geel, Wind blauw, Fossiel grijs, Water/bio lichtgroen). `Gebied` op Filters en als keuzelijst
+   (Wereld, Europa, China, Verenigde Staten, Frankrijk, Duitsland). Titel: `Zon haalt kern in: wereld 2025, 2807 tegen 2805 TWh`.
+   **Controle:** Wereld 2025, Kernenergie 2805 en Zon 2807; Europa 2025, Kernenergie 996.
+2. **"Koers per land"** (t7). `Land` op Rijen, gesorteerd op `Kern verschil 2015-2025 TWh`; die meting op Kolommen
+   (staven rond nul), `Koers kern` op Kleur (Uitbouw groen, Herstart lichtgroen, Stabiel grijs, Afbouw oranje, Gestopt rood,
+   Geen gegevens 2025 wit met rand). **Controle:** China +314, Duitsland −92, Japan *Herstart*, Oekraïne *Geen gegevens 2025*.
+3. **"Schoon met kern?"** (t7). Spreidingsdiagram: `Aandeel kern 2025 %` (x) tegen `CO2 gram per kWh 2025` (y),
+   `Kern TWh 2025` op Formaat, `Europa` op Kleur, `Land` als label (alleen de vijf grootste en Zweden, Frankrijk, Duitsland).
+   **Controle:** Frankrijk 68% en 41 g, Zweden 27% en 35 g, Duitsland 0% en 334 g.
+4. **"Marktwaarde"** (t8). `Jaar` op Kolommen, `AVG(Capture rate)` op Rijen, `Bron` op Kleur. Referentielijn op 1,0 met het label
+   `even veel waard als het gemiddelde uur`. **Controle:** 2025: kern 1,03, zon 0,61. Subtitel: `14 Europese landen, gewogen
+   naar kernproductie per zone; 2026 tot 15 november.`
+5. **Dashboard** 1200 × 1200, in deze volgorde: titel, werkblad 1 (volle breedte), dan 2 en 3 naast elkaar, dan 4. Zet er een
+   tekstvak bij met de beperkingen: Oekraïne heeft geen cijfer voor 2025; het vermogen van België in Ember klopt niet; de koers
+   is een rekenregel (minstens 10% en 2 TWh), geen beleidsoordeel.
+6. **Publiceren en GitHub**: zoals stap 10, stappen 7 en 8; afbeelding `docs/img/tableau_kernenergie.png`.
+
+### 14. Dashboard 7 "Controlematrix en risicokaart" (vrijdag 20 november, ongeveer 2 uur)
+
+**Boodschap.** Twaalf controles: vier geslaagd, twee geslaagd met beperking, drie afwijkingen die verklaard zijn en drie die
+nog open staan. Het grootste risico is de keuze van de emissiefactor. Dit is een beoordeling van de gereedheid, geen
+accountantsverklaring.
+
+**Voorbereiden.** Laat je toetsuitkomst van donderdag aan mij weten. Ik zet controle C03 daarna op *Geslaagd* en draai
+`PYTHONPATH=src .venv/bin/python -m eti.assurance_overzicht --tests` opnieuw. Voeg t15 en t16 toe als extract.
+
+1. **"Gegevensstroom"**: een Afbeelding-object in het dashboard met `docs/img/keten.png` (de keten van bron tot document).
+2. **"Controlematrix"** (t15). `Controle`, `Domein` en `Doel` op Rijen; `Uitkomst` als tekst; `Status` op Kleur
+   (Geslaagd groen, Geslaagd met beperking lichtgroen, Afwijking verklaard oranje, Open grijs). Opmaak: rijstreping uit,
+   alleen dunne lijnen tussen de domeinen. **Controle:** 12 rijen; C02 = `66 van 66 waarden gelijk`.
+3. **"Status in één oogopslag"** (t15). Een horizontale staaf: `CNT(Controle)` per `Status`, met dezelfde kleuren en labels.
+4. **"Risicokaart"** (t16). `Kans` (discreet) op Kolommen, `Impact` (discreet) op Rijen, markering Vierkant, `MAX(Score)` op Kleur
+   (licht naar rood), `CNT(Risico)` als label. Knopinfo met `Risico` en `Maatregel`. Zet ernaast een staafgrafiek van
+   `Score` per `Risico`, gesorteerd, met `Maatregel` in de knopinfo. **Controle:** bovenaan staat *Gemiddelde of marginale
+   emissiefactor*, met score 9.
+5. **Dashboard** 1200 × 1150: titel `Kan je op deze cijfers vertrouwen? 12 controles, 3 nog open`; subtitel
+   `In de traditie van de Big Four (COSO, ISAE 3000). Een readiness-beoordeling, geen accountantsverklaring.`
+   Rij 1: gegevensstroom. Rij 2: controlematrix (65%) en status (35%). Rij 3: risicokaart en risicostaaf.
+6. **Publiceren en GitHub**: afbeelding `docs/img/tableau_controles.png`.
+
+### 15. Dashboard 4 "Ervaringscurve en portefeuille" (vrijdag 20 november, ongeveer 2 uur)
+
+**Boodschap.** Zonnepanelen worden per verdubbeling van het wereldvermogen ongeveer 35% goedkoper (95%: 21–46%). In Europa zijn
+Bulgarije, Litouwen, Polen en Roemenië de sterren van 2025. Nederland zakte van ster naar de grens met hond.
+
+1. **"Ervaringscurve"** (t11). `Cumulatief GW` op Kolommen en `Prijs USD per W` op Rijen, beide met een **logaritmische as**
+   (As bewerken > Logaritmisch). Markering Cirkel, `Jaar` als label. Analyse > Trendlijn > **Macht**. Klik met rechts op de lijn >
+   Trendlijn beschrijven: de exponent b moet ongeveer −0,62 zijn, want 1 − 2^−0,62 ≈ 35%. Titel:
+   `Per verdubbeling 35% goedkoper (95%: 21–46%)`. Subtitel: `Exportwaarde Chinese panelen, geen fabrieksprijs; 2017–2025;
+   de piek in 2021–2022 komt door polysilicium.`
+2. **"Portefeuille 2025"** (t12, filter `Moment` = 2025). `Batterij-omzet tegen mediaan` (x) tegen
+   `Groei zonvermogen per jaar` (y). Markering Cirkel, `Zonvermogen GW` op Formaat, `Kwadrant` op Kleur (Ster goud, Melkkoe
+   groen, Vraagteken blauw, Hond grijs), `Landcode` als label. Referentielijnen: x = 1 (`mediaan batterij-omzet`) en
+   y = 0,30 (`mediaan groei 2021–2025`). **Controle:** Ster = BGR, LTU, POL, ROU; Hond = BEL, CZE, FRA, ITA, NLD.
+3. **"Van 2022 naar 2025"** (t12, beide momenten). Dezelfde assen. Markering Lijn, `Landcode` op Detail en `Moment` op **Pad**.
+   Dat geeft een pijl per land. Zet er een tweede as bij met cirkels voor alleen 2025 (berekend veld:
+   `IF [Moment] = 2025 THEN [Groei zonvermogen per jaar] END`), gedeelde as, gekleurd naar kwadrant.
+   **Controle:** NLD gaat van ster naar hond; HUN van ster naar melkkoe.
+4. **Dashboard** 1200 × 1100: titel `Waar wordt zon goedkoper, en waar verdient kapitaal?`; subtitel
+   `In de traditie van BCG: ervaringscurve (Henderson 1968) en een aangepaste groei-aandeelmatrix (Henderson 1970).
+   x-as = batterij-omzet tegen de mediaan, niet het marktaandeel.` Rij 1: ervaringscurve (volle breedte). Rij 2: portefeuille 2025
+   en van 2022 naar 2025 naast elkaar. Kanttekening in een tekstvak: de matrix is aangepast (landen als markten) en Nederland ligt
+   precies op de grens (1,00).
+5. **Publiceren en GitHub**: afbeelding `docs/img/tableau_bcg.png`.
 
 ## Controlelijst voor je publiceert
 

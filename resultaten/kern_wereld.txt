@@ -1,0 +1,23 @@
+Wereld kern: 2540 TWh in 2000, 2533 in 2015, 2805 in 2025; aandeel 16.6% -> 8.8%
+Wereld zon: 256 TWh in 2015 -> 2807 in 2025; zon voorbij kern sinds 2025
+Europa kern: 1180 TWh in 2000 -> 996 in 2025; zon 444, wind 627 TWh
+  zon voorbij kern, Europa: nan
+  zon voorbij kern, EU: nan
+  zon voorbij kern, Noord-Amerika: nan
+  zon voorbij kern, Azie: 2023
+  zon voorbij kern, China: 2022
+  zon voorbij kern, Verenigde Staten: nan
+  zon voorbij kern, Frankrijk: nan
+  zon voorbij kern, Duitsland: 2022
+  zon voorbij kern, Japan: 2014
+  zon voorbij kern, India: 2020
+Koers Afbouw: France, Canada, Sweden, United Kingdom, Switzerland, South Africa, Taiwan (China)
+Koers Geen gegevens 2025: Ukraine
+Koers Gestopt: Germany, Lithuania
+Koers Herstart: Japan
+Koers Stabiel: United States, Spain, Belgium, Hungary, Brazil, Bulgaria, Romania, Mexico, Slovenia, Iran, Netherlands, Armenia
+Koers Uitbouw: China, Russia, South Korea, India, United Arab Emirates, Finland, Czechia, Pakistan, Slovakia, Belarus, Argentina
+Grootste groei kern 2015-2025 (TWh): China +314, Japan +90, United Arab Emirates +39, Russia +23, South Korea +20
+Grootste krimp kern 2015-2025 (TWh): Germany -92, France -45, United Kingdom -34, Taiwan (China) -33, Canada -16
+Laagste CO2-intensiteit onder landen met kern (g/kWh, 2025): Sweden 35, Switzerland 39, France 41, Finland 59, Slovakia 95, Brazil 109
+Europese dagmarkt 2026: capture rate kern gemiddeld 1.00, zon in dezelfde landen 0.61

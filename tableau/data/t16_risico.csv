@@ -1,0 +1,12 @@
+Risico,Kans,Impact,Maatregel,Dashboards,Score
+Gemiddelde of marginale emissiefactor,3,3,beide varianten tonen,"5, 7, 14",9
+Segmentgrenzen zijn een keuze; 16-23 zones per jaar zijn grensgeval,3,2,gevoeligheid tonen (+-20%),"1, 4",6
+"Capture rate Nederland: park (0,62) of dak (0,52)",2,3,beide tonen; keuze per vraag,"1, 2, 8",6
+"aFRR-capaciteitsprijs: twee ijkpunten (2022, 2026)",3,2,tijdreeks ophalen,"1, 6",6
+LCOE alleen voor vijf regio's,3,2,noord/zuid-aanname in subtitel; bandbreedte,"5, 14, 15",6
+WACC voor Afrika onzeker,3,2,als band tonen,15,6
+Ember herziet cijfers achteraf,2,2,downloaddatum vastleggen,alle,4
+"Paneelprijs is een exportwaarde, geen fabrieksprijs",2,2,leersnelheid met interval tonen,4,4
+Grensstromen: teken en dekking niet gecontroleerd,2,2,eerst controleren (C10),"9, 13",4
+2026 is een onvolledig jaar (tot 15 november),3,1,in elke titel vermelden,alle,3
+Laadprofiel elektrische auto's is een aanname,3,1,als scenario markeren,13,3

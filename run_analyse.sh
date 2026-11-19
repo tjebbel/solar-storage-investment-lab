@@ -37,5 +37,11 @@ stap "$PY" -m eti.schokjaar
 stap "$PY" -m eti.tableau_export          # vijf platte tabellen voor het Tableau-dashboard
 stap "$PY" -m eti.kern_wereld              # derde dashboard: kernenergie in Europa en de wereld (t6-t8)
 stap "$PY" -m eti.signalering_europa       # tweede dashboard: signalering alle zones, dekking NL (t9-t10)
+stap "$PY" -m eti.mck_kostencurve          # dashboard 5: kostencurve CO2-reductie (t13)
+stap "$PY" -m eti.bcg_portefeuille         # dashboard 4: ervaringscurve en portefeuille (t11-t12)
+stap "$PY" -m eti.overheden                # dashboards 9-11: convergentie, bouwgolf VS/China, staten, export (t18-t22)
+stap "$PY" -m eti.net_flex                 # dashboard 13: flexibiliteit NL en elektrisch rijden (t25-t26)
+stap "$PY" -m eti.impact_zuiden            # dashboards 14-15: impact en Mondiale Zuiden (t27-t28)
+stap "$PY" -m eti.assurance_overzicht      # dashboard 7: controlematrix en risicokaart (t15-t16)
 stap "$PY" -m unittest discover -s tests
 echo "Logboek: $LOG"

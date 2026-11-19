@@ -1,0 +1,5 @@
+Ervaringscurve 2017-2025: leersnelheid 35.0% (95%: 21.5% tot 46.2%), R2 0.81, n=9
+Ervaringscurve 2017-2025 zonder 2021,2022: leersnelheid 35.6% (95%: 26.2% tot 43.8%), R2 0.93, n=7
+Portefeuille 2022: Ster: HUN, LTU, NLD; Melkkoe: BGR, DEU, GRC, ROU; Vraagteken: DNK, ESP, POL, PRT; Hond: AUT, CZE, FRA
+Portefeuille 2025: Ster: BGR, LTU, POL, ROU; Melkkoe: DEU, GRC, HUN; Vraagteken: AUT, DNK, ESP, FIN, PRT; Hond: BEL, CZE, FRA, ITA, NLD
+Van ster naar iets anders (2022 -> 2025): HUN (Melkkoe), NLD (Hond)
