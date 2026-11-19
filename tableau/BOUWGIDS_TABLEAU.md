@@ -226,7 +226,7 @@ van de elf maanden zijn kostprijs. Het dashboard rekent hetzelfde als de DAX-mat
 **Wat klaar staat:** `tableau/data/t2_land_maand.csv` (signalering NL), `t9_signalering_zones.csv` (heatmap Europa) en
 `t10_dekking_nl.csv` (dekking per jaar). De verwachte uitkomst staat in `powerbi/maten_verwacht.csv`.
 
-**Stap 0, voorbereiden (10 min).** Open `NL_solar.twbx`. Voeg via **Data > Nieuwe gegevensbron > Tekstbestand** t9 en t10
+**Stap 0, voorbereiden (10 min).** Open `Zon en opslag in Europa.twbx`. Voeg via **Data > Nieuwe gegevensbron > Tekstbestand** t9 en t10
 toe, elk als eigen bron (komma, UTF-8, landinstelling Engels (VS)). Zet ze meteen op **Extraheren**: zonder extract kun je
 straks niet publiceren.
 
@@ -498,7 +498,10 @@ Eén Engelse werkmap naast de Nederlandse, met dezelfde opbouw. Zo blijven beide
    Tabbladen: `First findings`, `Signals Netherlands`, `Nuclear`, `Control matrix`, `Experience curve`.
 6. **Controle**: zelfde getallen als de Nederlandse versie, met een punt als decimaalteken (0.62, niet 0,62);
    geen Nederlandse woorden in filters, legenda's en knopinfo; zelftoets ≥ 16/20.
-7. **Publiceren** als aparte werkmap `Solar_storage_Europe_EN` op Tableau Public; afbeelding `docs/img/<naam>_en.png`.
+7. **Publiceren** als aparte werkmap met de naam **`Solar and storage in Europe`** (link wordt `.../viz/SolarandstorageinEurope/<tabblad>`);
+   de Nederlandse werkmap publiceer je altijd als **`Zon en opslag in Europa`** (`.../viz/ZonenopslaginEuropa/<tabblad>`).
+   Gebruik bij elke nieuwe publicatie precies dezelfde naam: dan overschrijft Tableau de vorige versie en blijven links werken.
+   Afbeelding `docs/img/<naam>_en.png`.
    Zet de link in de README naast de Nederlandse ("Dutch | English").
 8. **Volgende keren**: bouw eerst de Nederlandse versie, publiceer, en herhaal stap 3–7 in de Engelse werkmap
    (nieuwe bronnen toevoegen uit `data_en/`). Ik lever bij elk nieuw dashboard de Engelse teksten mee in `teksten_en.md`.
