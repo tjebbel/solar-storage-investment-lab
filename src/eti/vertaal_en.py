@@ -315,6 +315,9 @@ def main():
             vals = {v: vertaal(v) for v in d[c].dropna().astype(str).unique()}
             ontbreekt |= {f"{t}.{c}: {v}" for v, e in vals.items() if e is None}
             d[c] = d[c].map(lambda v: v if pd.isna(v) else (vals.get(str(v)) or v))
+        for c in d.columns:                                                      # ook in kolommen die verder niet vertaald worden
+            if d[c].dtype == object:
+                d[c] = d[c].replace(r"^Overige (\d+) \(gemiddeld\)$", r"Other \1 (average)", regex=True)
         d.to_csv(UIT / f"{t}.csv", index=False, float_format="%.6g")
     Path("resultaten").mkdir(exist_ok=True)
     Path("resultaten/vertaal_en_ontbrekend.txt").write_text("\n".join(sorted(ontbreekt)) + "\n")

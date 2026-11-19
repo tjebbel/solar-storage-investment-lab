@@ -36,3 +36,6 @@ De bouwregels die hieruit volgen staan in `tableau/BOUWGIDS_TABLEAU.md`, sectie 
 | 1 Eerste bevindingen (live, 19-11 16:45; weer volledig Nederlands) | 19-11-2026 | 3 | 3 | 3 | 3 | 12 |
 | 1 Eerste bevindingen (live, 19-11 17:10; t4b en kaartpalet doorgevoerd) | 19-11-2026 | 3 | 4 | 3 | 3 | 13 |
 | 1 Eerste bevindingen (definitief, 19-11 17:11; kaartkleur omgedraaid) | 19-11-2026 | 3 | 4 | 3 | 3 | 13 |
+| 1 First findings (EN, live, 19-11 18:07; oude t4/t3, standaardkleuren segmenten, tekstfouten) | 19-11-2026 | 3 | 2 | 2 | 3 | 10 |
+| 1 First findings (EN, live, 19-11 18:23; t4b, KPI en titels hersteld) | 19-11-2026 | 3 | 3 | 2 | 3 | 11 |
+| 1 First findings (EN, definitief, 19-11 18:33; gas sienna, Other 18) | 19-11-2026 | 3 | 3 | 3 | 3 | 12 |

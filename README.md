@@ -37,7 +37,7 @@ Spanish capture rate (Synertics 0.97 vs our 0.55) are open deviations.
 
 | # | Dashboard | Lens | Status |
 |---|---|---|---|
-| 1 | [First findings](https://public.tableau.com/app/profile/tjebbe.lodeizen/viz/ZonenopslaginEuropa/Eerstebevindingen) | investor | published; redesign 19 Nov |
+| 1 | [First findings](https://public.tableau.com/app/profile/tjebbe.lodeizen/viz/SolarandstorageinEurope/Firstfindings) ([Dutch](https://public.tableau.com/app/profile/tjebbe.lodeizen/viz/ZonenopslaginEuropa/Eerstebevindingen)) | investor | published in English and Dutch |
 | 2 | Signals Netherlands: does solar cover its cost? | analyst | data ready |
 | 3 | Nuclear, solar and wind: Europe and the world | policy, investor | data ready |
 | 4 | Experience curve and portfolio | BCG | data ready |
@@ -74,13 +74,13 @@ The research agenda behind the series is in the reference book (`reports/Naslagw
 
 ## Tableau dashboard: first findings
 
-[![Solar and storage in Europe: first findings](docs/img/tableau_eerste_bevindingen.png)](https://public.tableau.com/app/profile/tjebbe.lodeizen/viz/ZonenopslaginEuropa/Eerstebevindingen)
+[![Solar and storage in Europe: first findings](docs/img/tableau_eerste_bevindingen.png)](https://public.tableau.com/app/profile/tjebbe.lodeizen/viz/SolarandstorageinEurope/Firstfindings)
 
-**[Open the interactive dashboard on Tableau Public](https://public.tableau.com/app/profile/tjebbe.lodeizen/viz/ZonenopslaginEuropa/Eerstebevindingen)** (Dutch labels).
+**[Open the interactive dashboard on Tableau Public](https://public.tableau.com/app/profile/tjebbe.lodeizen/viz/SolarandstorageinEurope/Firstfindings)** · [Dutch version](https://public.tableau.com/app/profile/tjebbe.lodeizen/viz/ZonenopslaginEuropa/Eerstebevindingen). From dashboard 2 on, dashboards are published in English only.
 It shows the solar capture rate across 37 European bidding zones (2019-2026), how zones shift from
 flat prices towards battery markets and solar saturation, the 2026 price shock split into gas, wind,
 solar and unexplained, and the highest battery capex that still reaches an 8% return.
-Workbook: `tableau/Zon en opslag in Europa.twbx`. Data: `tableau/data/` (built with `python -m eti.tableau_export`).
+Workbooks: `tableau/Solar and storage in Europe.twbx` (English) and `tableau/Zon en opslag in Europa.twbx` (Dutch). Data: `tableau/data/` (built with `python -m eti.tableau_export`).
 Build guide: `tableau/BOUWGIDS_TABLEAU.md`.
 
 ## Power BI
