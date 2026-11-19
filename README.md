@@ -38,7 +38,7 @@ Spanish capture rate (Synertics 0.97 vs our 0.55) are open deviations.
 | # | Dashboard | Lens | Status |
 |---|---|---|---|
 | 1 | [First findings](https://public.tableau.com/app/profile/tjebbe.lodeizen/viz/SolarandstorageinEurope/Firstfindings) ([Dutch](https://public.tableau.com/app/profile/tjebbe.lodeizen/viz/ZonenopslaginEuropa/Eerstebevindingen)) | investor | published in English and Dutch |
-| 2 | Signals Netherlands: does solar cover its cost? | analyst | data ready |
+| 2 | [Signals Netherlands](https://public.tableau.com/app/profile/tjebbe.lodeizen/viz/SolarandstorageinEurope/SignalsNetherlands): autumn 2026 is a price shock | analyst | published; Tableau checked against DAX and Python (66 of 66) |
 | 3 | Nuclear, solar and wind: Europe and the world | policy, investor | data ready |
 | 4 | Experience curve and portfolio | BCG | data ready |
 | 5 | CO2 abatement cost curve | McKinsey | data ready |

@@ -18,7 +18,7 @@ TABELLEN = ["t1_zonejaar", "t2_land_maand", "t3_batterij", "t3b_batterij_leesbaa
             "t48_capture_rangorde", "t49_segmenten", "t50_kpi_dashboards", "t51_congestie_afstemming", "t52_validatie_extern"]
 NIET = {"Zone", "Landcode", "ISO3", "Maand", "Datum", "Kleur", "Controle", "Pijl", "Groeiperiode"}
 NIET_PER_TABEL = {"t7_kern_land": {"Land", "Continent"}, "t44_kern_zon": {"Land", "Continent"}}  # al Engels (Ember)
-HOUDEN = {"VOORTGANG.md", "unittest", "Energy-Charts", "Power BI / Fabric (DAX)", "Python (eti.signalering_europa)",
+HOUDEN = {"VOORTGANG.md", "resultaten/tableau_signalering_2026_en.txt", "unittest", "Energy-Charts", "Power BI / Fabric (DAX)", "Python (eti.signalering_europa)",
           "SQLite (Python)", "Sandbox", "Tableau Public, dashboard 1", "congestie_pc6 (codes 0-3)", "tests/",
           "IEA Cost of Capital Observatory", "SQL Server 2022 (T-SQL)", "BASE / Ember", "IAEA", "congress.gov",
           "reports/analyse/08_vervolg_18nov.md; log_tsql.txt", "resultaten/benchmark_sql.md", "sql/05_reconciliatie.sql; t5"}
@@ -207,6 +207,7 @@ W = {
 }
 
 REGELS = [  # (patroon, vervanging) voor teksten met getallen
+    (r"^(\d+) van (\d+) waarden gelijk \(Engelse werkmap, (\d{4})\)$", r"\1 of \2 values equal (English workbook, \3)"),
     (r"^(\d+) van (\d+)$", r"\1 of \2"),
     (r"^(\d{4}): (\d+) van (\d+)$", r"\1: \2 of \3"),
     (r"^(\d{2}-\d{2}): (\d+) van (\d+)$", r"\1: \2 of \3"),

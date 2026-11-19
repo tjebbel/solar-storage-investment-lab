@@ -1,0 +1,12 @@
+Month of Month	Solar status	Price signal	Avg price	Solar capture price	Solar margin	Price z-score
+January 2026	Covered	Normal	107.66	107.51	40.12	1.11
+February 2026	Covered	Normal	92.94	79.86	12.47	0.38
+March 2026	Costs not covered	Normal	98.98	55.82	-11.57	1.24
+April 2026	Costs not covered	Normal	84.50	47.66	-19.73	0.03
+May 2026	Costs not covered	Normal	94.98	55.40	-11.99	0.79
+June 2026	Covered	Watch	110.15	73.36	5.97	2.04
+July 2026	Costs not covered	Normal	105.89	63.02	-4.37	1.35
+August 2026	Costs not covered	Watch	125.41	66.64	-0.75	2.81
+September 2026	Covered	Shock	152.20	99.71	32.32	4.07
+October 2026	Covered	Shock	171.93	133.57	66.18	3.49
+November 2026	Covered	Shock	255.35	238.13	170.74	5.40

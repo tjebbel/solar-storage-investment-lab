@@ -39,3 +39,5 @@ De bouwregels die hieruit volgen staan in `tableau/BOUWGIDS_TABLEAU.md`, sectie 
 | 1 First findings (EN, live, 19-11 18:07; oude t4/t3, standaardkleuren segmenten, tekstfouten) | 19-11-2026 | 3 | 2 | 2 | 3 | 10 |
 | 1 First findings (EN, live, 19-11 18:23; t4b, KPI en titels hersteld) | 19-11-2026 | 3 | 3 | 2 | 3 | 11 |
 | 1 First findings (EN, definitief, 19-11 18:33; gas sienna, Other 18) | 19-11-2026 | 3 | 3 | 3 | 3 | 12 |
+| 2 Signals Netherlands (EN, live, 19-11 23:04; zonder onderrand) | 19-11-2026 | 4 | 4 | 4 | 3 | 15 |
+| 2 Signals Netherlands (EN, live, 19-11 23:09; onderrand en LCOE-notatie) | 19-11-2026 | 4 | 4 | 4 | 4 | 16 |

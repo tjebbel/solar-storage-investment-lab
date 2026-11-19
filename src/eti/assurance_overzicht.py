@@ -103,7 +103,19 @@ def live_tests():
     return f"{ran.group(1) if ran else '?'} tests, {skip.group(1) if skip else 0} overgeslagen", "Geslaagd" if ok else "Afwijking"
 
 
+def live_tableau(pad="resultaten/tableau_signalering_2026_en.txt"):
+    """C03: de export van het Tableau-werkblad Signals table tegen powerbi/maten_verwacht.csv."""
+    if not os.path.exists(pad):
+        return "nog uit te voeren met eti.powerbi_toets vergelijk", "Open"
+    import contextlib, io
+    from eti.powerbi_toets import vergelijk
+    with contextlib.redirect_stdout(io.StringIO()):
+        u = vergelijk(pad)
+    return f"{int(u.klopt.sum())} van {len(u)} waarden gelijk (Engelse werkmap, 2026)", "Geslaagd" if u.klopt.all() else "Afwijking"
+
+
 def controles(tests=False):
+    tb, tb_s = live_tableau()
     dax, dax_s = live_dax()
     br, br_s = live_bronnen()
     ts, ts_s = live_tests() if tests else ("tests niet gedraaid in deze run; gebruik --tests", "Open")
@@ -119,7 +131,7 @@ def controles(tests=False):
         ("C02", "Berekening", "Signaleringsmaten gelijk aan de verwachting", "Python (eti.signalering_europa)",
          "powerbi/maten_verwacht.csv (DAX-ontwerp)", dax, dax_s, "berekend bij deze run", "ja"),
         ("C03", "Berekening", "Tableau rekent hetzelfde als DAX en Python", "Tableau (werkblad Signalering)",
-         "powerbi/maten_verwacht.csv", "nog uit te voeren met eti.powerbi_toets vergelijk", "Open", "bouwgids stap 10", "nee"),
+         "powerbi/maten_verwacht.csv", tb, tb_s, "resultaten/tableau_signalering_2026_en.txt", "ja"),
         ("C04", "Berekening", "Power BI rekent hetzelfde", "Power BI / Fabric (DAX)", "powerbi/maten_verwacht.csv",
          "wacht op Fabric-toegang", "Open", "VOORTGANG.md", "nee"),
         ("C05", "Bronnen", "Zonaandeel in twee bronnen sluit aan", "Energy-Charts", "Ember",
