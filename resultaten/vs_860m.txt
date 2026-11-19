@@ -1,0 +1,5 @@
+EIA-860M: 125 maandsnapshots, 2016-04 tot 2026-09.
+Nieuw vermogen per jaar (GW, uit nieuwste snapshot): 2018: zon 5.0, batterij 0.2, wind 7.1, gas 21.7; 2019: zon 5.9, batterij 0.2, wind 8.5, gas 8.8; 2020: zon 10.7, batterij 0.6, wind 14.9, gas 7.1; 2021: zon 13.8, batterij 3.1, wind 13.8, gas 7.4; 2022: zon 11.3, batterij 4.3, wind 9.5, gas 7.1; 2023: zon 19.8, batterij 7.2, wind 6.6, gas 9.9; 2024: zon 31.2, batterij 11.1, wind 5.2, gas 2.4; 2025: zon 29.7, batterij 16.4, wind 6.3, gas 5.3; 2026: zon 17.6, batterij 12.5, wind 7.2, gas 3.7
+In bedrijf 2026-09: zon 172.0 GW, batterij 56.1 GW / 154.3 GWh (2.75 uur), kolen 181.7 GW, kern 103.7 GW.
+Grootste staten batterij 2026: TX 5285 MW, AZ 1937 MW, CA 1566 MW, UT 870 MW, GA 718 MW
+Gepland (GW): 2026: zon 23.7, batterij 9.6, wind 3.2, gas 2.7; 2027: zon 44.1, batterij 26.8, wind 9.9, gas 10.7; 2028: zon 32.2, batterij 15.2, wind 3.7, gas 19.7

@@ -1,0 +1,13 @@
+Netcongestie 2026: 462 voedingsgebieden met cijfers (143 rijen zonder cijfers weggelaten), 23 TenneT-gebieden, 460724 postcodes.
+Postcodes met status Tekort (uit t32): afname 56.0%, opwek 11.9%.
+Voedingsgebieden met gevraagd > aanwezig: afname 57, invoeding 31.
+Mediaan jaartal opgelost: afname 2030, invoeding 2029; zonder datum (2099): afname 1, invoeding 1.
+Wachtrij per netbeheerder (MW afname / invoeding):
+  Coteq, Enexis: 33 / 105
+  Enexis: 3376 / 3560
+  Enexis, Rendo: 50 / 48
+  Liander: 3264 / 6399
+  Stedin: 1330 / 252
+  Westland: 0 / 104
+TenneT, grootste gevraagd/aanwezig afname: Noord-Brabant 1.87 (opgelost 2036); Limburg 1.84 (opgelost 2034); Noord-Holland 1.69 (opgelost 2036); Flevopolder, Utrecht en Gelderland 1.52 (opgelost 2035); Noordelijk Zuid-Holland 1.38 (opgelost 2034)
+Controle: geslaagd
