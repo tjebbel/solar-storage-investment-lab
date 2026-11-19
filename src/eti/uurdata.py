@@ -156,7 +156,10 @@ def hirth(maand):
         rij.append(dict(Zone=zone, **{"Slope per percentage point": b[1], "Interval low": b[1] - 1.96 * se, "Interval high": b[1] + 1.96 * se,
                         "Intercept": b[0], "R2": r2, "Months": len(s), "Max solar share %": x.max(),
                         "Capture rate at 10% share": b[0] + 10 * b[1], "Capture rate at 30% share": b[0] + 30 * b[1]}))
-    return pd.DataFrame(rij)
+    h = pd.DataFrame(rij)
+    if not h.empty:   # alleen betrouwbaar met genoeg spreiding in het aandeel en een redelijke fit
+        h["Reliable"] = (h["Max solar share %"] >= 10) & (h.R2 >= 0.4) & (h.Months >= 36)
+    return h
 
 
 def koolstofvrij(df, zone, jaar):
@@ -192,8 +195,13 @@ def dekking(totalen):
     o = o.rename(columns={"country": "Country", "year": "Year", "solar_electricity": "OWID solar TWh", "electricity_generation": "OWID generation TWh"})
     laatste = o.dropna(subset=["OWID solar TWh"]).groupby("Country").Year.max()
     t["OWID year"] = [min(j, laatste.get(c, j)) for c, j in zip(t.Country, t.Year)]
-    som = t.groupby(["Country", "Year"])[["Solar TWh", "Generation TWh"]].transform("sum")
-    t["Country solar TWh (Energy-Charts)"], t["Country generation TWh (Energy-Charts)"] = som["Solar TWh"], som["Generation TWh"]
+    # Voor Italie, Denemarken, Noorwegen en Zweden levert Energy-Charts per zone de landcijfers: dan niet optellen.
+    t["_sleutel"] = t["Solar TWh"].round(3).astype(str) + "|" + t["Generation TWh"].round(3).astype(str)
+    uniek = t.drop_duplicates(["Country", "Year", "_sleutel"]).groupby(["Country", "Year"])[["Solar TWh", "Generation TWh"]].sum()
+    t["Country data per zone"] = t.groupby(["Country", "Year"])["_sleutel"].transform(lambda s: s.nunique() == 1 and len(s) > 1)
+    som = uniek.reindex(pd.MultiIndex.from_frame(t[["Country", "Year"]])).reset_index(drop=True)
+    t = t.drop(columns="_sleutel")
+    t["Country solar TWh (Energy-Charts)"], t["Country generation TWh (Energy-Charts)"] = som["Solar TWh"].to_numpy(), som["Generation TWh"].to_numpy()
     t = t.merge(o, left_on=["Country", "OWID year"], right_on=["Country", "Year"], how="left", suffixes=("", "_o")).drop(columns="Year_o")
     vol = t.Year.map(lambda j: 1.0)                                    # lopend jaar: schalen naar een heel jaar
     vol[t.Year == 2026] = 8760 / 7656
