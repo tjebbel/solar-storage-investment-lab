@@ -5,8 +5,12 @@ Segmentgrenzen zijn een keuze; 16-23 zones per jaar zijn grensgeval,3,2,gevoelig
 "aFRR-capaciteitsprijs: twee ijkpunten (2022, 2026)",3,2,tijdreeks ophalen,"1, 6",6
 LCOE alleen voor vijf regio's,3,2,noord/zuid-aanname in subtitel; bandbreedte,"5, 14, 15",6
 WACC voor Afrika onzeker,3,2,als band tonen,15,6
+Statuscodes netcongestie verkeerd gelezen,2,3,een postcode op de kaart controleren (C15),"8, 13",6
+AC en DC door elkaar (EIA tegenover Ember/CBS),3,2,eenheid in elke as en tooltip,"4, 10",6
+Vermeden CO2 (CBS) gelezen als emissiereductie,2,3,"apart tonen, niet verrekenen (GHG Protocol)","5, 7, 14",6
 Ember herziet cijfers achteraf,2,2,downloaddatum vastleggen,alle,4
 "Paneelprijs is een exportwaarde, geen fabrieksprijs",2,2,leersnelheid met interval tonen,4,4
 Grensstromen: teken en dekking niet gecontroleerd,2,2,eerst controleren (C10),"9, 13",4
+Zonnestroom NL: CBS en Ember verschillen ~10%,2,2,bron per grafiek vermelden (C13),"1, 2, 8",4
 2026 is een onvolledig jaar (tot 15 november),3,1,in elke titel vermelden,alle,3
 Laadprofiel elektrische auto's is een aanname,3,1,als scenario markeren,13,3

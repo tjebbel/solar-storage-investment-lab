@@ -1,0 +1,16 @@
+Risico,Kans,Impact,Maatregel,Dashboards,Score
+Average or marginal emission factor,3,3,show both variants,"5, 7, 14",9
+Segment thresholds are a choice; 16-23 zones a year are borderline,3,2,show sensitivity (+-20%),"1, 4",6
+Dutch capture rate: utility-scale (0.62) or rooftop (0.52),2,3,show both; choose per question,"1, 2, 8",6
+"aFRR capacity price: two data points (2022, 2026)",3,2,fetch a time series,"1, 6",6
+LCOE for five regions only,3,2,north/south assumption in subtitle; range,"5, 14, 15",6
+WACC for Africa uncertain,3,2,show as a range,15,6
+Grid congestion status codes misread,2,3,check one postcode on the map (C15),"8, 13",6
+AC and DC mixed up (EIA versus Ember/CBS),3,2,unit on every axis and tooltip,"4, 10",6
+Avoided CO2 (CBS) read as an emission reduction,2,3,"show separately, do not net off (GHG Protocol)","5, 7, 14",6
+Ember revises figures afterwards,2,2,record the download date,all,4
+"Panel price is an export value, not a factory price",2,2,show learning rate with interval,4,4
+Cross-border flows: sign and coverage not checked,2,2,check first (C10),"9, 13",4
+Dutch solar: CBS and Ember differ by ~10%,2,2,name the source per chart (C13),"1, 2, 8",4
+2026 is an incomplete year (to 15 November),3,1,state in every title,all,3
+EV charging profile is an assumption,3,1,mark as a scenario,13,3

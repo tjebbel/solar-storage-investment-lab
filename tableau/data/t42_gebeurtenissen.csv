@@ -1,0 +1,10 @@
+Datum,Gebied,Gebeurtenis,Dashboards,Soort,Na te slaan bij
+2011-03-11,Japan,Kernramp Fukushima,3,kern,IAEA
+2021-09-01,Europa,Gasprijzen beginnen sterk te stijgen,2,markt,TTF-reeks in t2 / fact_gasprijs_maand
+2022-02-24,Europa,Russische invasie van Oekraine,"2, 3, 9",geopolitiek,algemeen
+2022-08-01,Europa,Piek gas- en stroomprijzen (augustus 2022),2,markt,t2: hoogste maandprijs
+2022-08-16,VS,Inflation Reduction Act getekend,10,beleid,congress.gov
+2023-04-15,Duitsland,Laatste drie Duitse kerncentrales dicht,3,kern,BASE / Ember
+2025-07-04,VS,One Big Beautiful Bill Act getekend (afbouw belastingkredieten zon en wind),10,beleid,congress.gov
+2026-01-26,Nederland,Notitie reikwijdte en detailniveau nieuwbouw kerncentrales vastgesteld,"3, 8",kern,"RVO, vaststellingsbesluit 26-01-2026"
+2027-01-01,Nederland,Einde salderingsregeling,"2, 8",beleid,Wet herziening salderingsregeling

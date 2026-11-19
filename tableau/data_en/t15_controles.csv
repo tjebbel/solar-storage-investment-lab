@@ -1,0 +1,19 @@
+Controle,Domein,Doel,Kant A,Kant B,Uitkomst,Status,Bron,Opnieuw berekend
+C01,Calculation,Same result in two SQL dialects,SQLite (Python),SQL Server 2022 (T-SQL),steps 00-05 equal in counts and values,Passed,reports/analyse/08_vervolg_18nov.md; log_tsql.txt,no
+C02,Calculation,Signal measures match the expected values,Python (eti.signalering_europa),powerbi/maten_verwacht.csv (DAX design),66 of 66 values equal,Passed,calculated in this run,yes
+C03,Calculation,Tableau calculates the same as DAX and Python,Tableau (Signals worksheet),powerbi/maten_verwacht.csv,still to run with eti.powerbi_toets vergelijk,Open,build guide step 10,no
+C04,Calculation,Power BI calculates the same,Power BI / Fabric (DAX),powerbi/maten_verwacht.csv,waiting for Fabric access,Open,VOORTGANG.md,no
+C05,Sources,Solar share agrees across two sources,Energy-Charts,Ember,"82 agree, 34 coverage gaps, 66 differ; the difference disappears without coverage gaps",Deviation explained,sql/05_reconciliatie.sql; t5,no
+C06,Sources,Correction factor works out of sample,Correction estimated on 2019-2022,Ember 2023-2025,"median error 13% -> 7% after correction, 60% of 65 country-years better",Passed with limitation,fact_bronnen_toets_RC,yes
+C07,Code,Test suite passes,tests/,expected results,"224 tests, 28 skipped",Passed,unittest,yes
+C08,Code,Performance reproducible on a second machine,Sandbox,iMac (SQLite and Docker SQL Server),same pattern; SQL Server plan ran serially the second time,Passed with limitation,resultaten/benchmark_sql.md,no
+C09,Data quality,Completeness of nuclear figures per country,Ember 2025,expected: all countries with nuclear,Ukraine has no 2025 figure; Belgium's capacity gives utilisation above 100% (left blank),Deviation explained,eti.kern_wereld,no
+C10,Data quality,Sign and coverage of cross-border flows,fact_grensstromen_nl,ENTSO-E/Ember annual data,not yet checked; therefore not published,Open,eti.net_flex,no
+C11,Data quality,Two sources for the Chinese build wave,Ember capacity (May 2025: 110.9 GW),NEA via OPIS (May 2025: 92.9 GW),"same pattern, different level; name the source in the subtitle",Deviation explained,eti.overheden,no
+C12,Reporting,Published figures match the source,"Tableau Public, dashboard 1",t1-t5,visually checked on 18-11 (map 2025: 0.50-0.89; reference line 280),Passed,session 18-11,no
+C13,Sources,Dutch solar generation in two sources,CBS 82610NED,Ember annual data,"solar generation 2025: CBS 25.8 TWh (provisional), Ember 28.5 TWh, difference +10%; capacity does agree (25.9 GW)",Deviation open,calculated in this run,yes
+C14,Sources,US solar capacity in two sources,EIA-860M (t33),Ember monthly capacity,"US solar 2026-08: EIA-860M 169 GW (AC, plants from 1 MW), Ember 301 GW (DC, including small-scale); ratio 1.78",Deviation explained,calculated in this run,yes
+C15,Data quality,Meaning of grid congestion status codes,congestie_pc6 (codes 0-3),legend of the Netbeheer Nederland capacity map,assumed RAGKind order; still to check one postcode on the map,Open,eti.netcongestie,no
+C16,Reporting,Provisional figures visible,CBS tables t37-t39,CBS marker **,Provisional flag present and 2025 marked everywhere,Passed,calculated in this run,yes
+C17,Assumptions,WACC per region against an external source,own WACC (t27),IEA Cost of Capital Observatory,"own WACC above IEA 2021 except China; LCOE at IEA WACC Netherlands 62, Europe 45, US 56, China 31, India 39 EUR/MWh; 2021 was a low-rate year",Deviation explained,t41,yes
+C18,Assumptions,Marginal emission factor against an external source,0.40 t/MWh (t13),"RVO emission factor, CBS",0.40 lies within the band 0.349-0.455 (RVO 56.2 kg/GJ at 50-58% efficiency; CBS 0.455),Passed,t41,yes

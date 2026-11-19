@@ -1,0 +1,18 @@
+Landcode,Land,Capture rate zon 2022,Capture rate zon 2025,Groei zonvermogen per jaar 2022,Groei zonvermogen per jaar 2025,Kwadrant 2022,Kwadrant 2025,Verklaring
+AUT,Austria,1.0552,0.49846,0.279698,0.393709,Dog,Question mark,growth 28% -> 39% per year (above threshold); capture rate 1.06 -> 0.50
+BEL,Belgium,,0.514177,,0.249868,,Dog,new in 2025 (too little data in 2022)
+BGR,Bulgaria,0.953625,0.685772,0.115452,0.43559,Cash cow,Star,growth 12% -> 44% per year (above threshold); capture rate 0.95 -> 0.69
+CZE,Czechia,0.959066,0.56644,0.0042195,0.216952,Dog,Dog,no change
+DEU,Germany,0.938605,0.515687,0.103991,0.180399,Cash cow,Cash cow,no change
+DNK,Denmark,1.01747,0.634824,0.288009,0.326674,Question mark,Question mark,no change
+ESP,Spain,0.901935,0.552896,0.358421,0.300946,Question mark,Question mark,no change
+FIN,Finland,,0.890352,,0.429166,,Question mark,new in 2025 (too little data in 2022)
+FRA,France,1.05655,0.588029,0.107283,0.154374,Dog,Dog,no change
+GRC,Greece,0.938886,0.577355,0.184692,0.284148,Cash cow,Cash cow,no change
+HUN,Hungary,1.0214,0.57657,0.556552,0.272677,Star,Cash cow,growth 56% -> 27% per year (below threshold); capture rate 1.02 -> 0.58
+ITA,Italy,,0.817397,,0.179444,,Dog,new in 2025 (too little data in 2022)
+LTU,Lithuania,1.15887,0.572994,0.620427,0.845502,Star,Star,no change
+NLD,Netherlands,0.926048,0.615303,0.469278,0.188347,Star,Dog,"growth 47% -> 19% per year (below threshold); capture rate 0.93 -> 0.62; saturation, not decline: solar capacity grew only 4.8% in 2025 (CBS) and 56% of postcodes have an offtake shortage (grid congestion)"
+POL,Poland,0.905399,0.644983,1.16343,0.341091,Question mark,Star,growth 116% -> 34% per year (above threshold); capture rate 0.91 -> 0.64
+PRT,Portugal,0.899158,0.533993,0.329482,0.362448,Question mark,Question mark,no change
+ROU,Romania,0.995055,0.595609,0.0359269,0.45304,Cash cow,Star,growth 4% -> 45% per year (above threshold); capture rate 1.00 -> 0.60

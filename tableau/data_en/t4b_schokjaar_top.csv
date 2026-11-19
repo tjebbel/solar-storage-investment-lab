@@ -1,0 +1,45 @@
+Zone,Prijsstijging totaal,Oorzaak,Euro per MWh,Volgorde,Toelichting
+NO3,68.963,Gas,25.029,1,Norway: 'unexplained' is mostly low reservoir levels
+NO5,63.748,Gas,25.029,2,Norway: 'unexplained' is mostly low reservoir levels
+NO1,51.812,Gas,25.029,3,Norway: 'unexplained' is mostly low reservoir levels
+NO2,46.72,Gas,25.029,4,Norway: 'unexplained' is mostly low reservoir levels
+IT-North,38.704,Gas,25.029,5,
+IT-Sicily,38.562,Gas,25.029,6,
+IT-Centre-North,38.233,Gas,25.029,7,
+AT,35.582,Gas,25.029,8,
+HU,34.135,Gas,25.029,9,
+SE4,33.794,Gas,25.029,10,
+NO3,68.963,Solar,0,1,Norway: 'unexplained' is mostly low reservoir levels
+NO5,63.748,Solar,0,2,Norway: 'unexplained' is mostly low reservoir levels
+NO1,51.812,Solar,0,3,Norway: 'unexplained' is mostly low reservoir levels
+NO2,46.72,Solar,0,4,Norway: 'unexplained' is mostly low reservoir levels
+IT-North,38.704,Solar,1.094,5,
+IT-Sicily,38.562,Solar,1.094,6,
+IT-Centre-North,38.233,Solar,1.094,7,
+AT,35.582,Solar,2.203,8,
+HU,34.135,Solar,1.852,9,
+SE4,33.794,Solar,0.106,10,
+NO3,68.963,Wind,-1.982,1,Norway: 'unexplained' is mostly low reservoir levels
+NO5,63.748,Wind,-1.982,2,Norway: 'unexplained' is mostly low reservoir levels
+NO1,51.812,Wind,-1.982,3,Norway: 'unexplained' is mostly low reservoir levels
+NO2,46.72,Wind,-1.982,4,Norway: 'unexplained' is mostly low reservoir levels
+IT-North,38.704,Wind,0.117,5,
+IT-Sicily,38.562,Wind,0.117,6,
+IT-Centre-North,38.233,Wind,0.117,7,
+AT,35.582,Wind,-1.228,8,
+HU,34.135,Wind,0.091,9,
+SE4,33.794,Wind,-2.842,10,
+NO3,68.963,Unexplained,45.916,1,Norway: 'unexplained' is mostly low reservoir levels
+NO5,63.748,Unexplained,40.701,2,Norway: 'unexplained' is mostly low reservoir levels
+NO1,51.812,Unexplained,28.765,3,Norway: 'unexplained' is mostly low reservoir levels
+NO2,46.72,Unexplained,23.673,4,Norway: 'unexplained' is mostly low reservoir levels
+IT-North,38.704,Unexplained,12.464,5,
+IT-Sicily,38.562,Unexplained,12.322,6,
+IT-Centre-North,38.233,Unexplained,11.993,7,
+AT,35.582,Unexplained,9.577,8,
+HU,34.135,Unexplained,7.163,9,
+SE4,33.794,Unexplained,11.501,10,
+Overige 18 (gemiddeld),26.273,Gas,25.029,11,
+Overige 18 (gemiddeld),26.273,Unexplained,1.282,11,
+Overige 18 (gemiddeld),26.273,Wind,-0.699,11,
+Overige 18 (gemiddeld),26.273,Solar,0.661,11,

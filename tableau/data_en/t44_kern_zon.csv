@@ -1,0 +1,32 @@
+Land,ISO3,Continent,Kern TWh 2025,Zon TWh 2025,Kernvermogen GW 2025,Zonvermogen GW 2025,Benutting kern 2025,Benutting zon 2025,GW zon voor kern-TWh,Verhouding GW zon / GW kern,Koers kern
+United States,USA,North America,784.78,388.82,96.89,211.61,0.925,0.21,427.106,4.408,Stable
+China,CHN,Asia,485.23,1173.24,62.48,1202.18,0.887,0.111,497.199,7.958,Expanding
+France,FRA,Europe,392.048,32.013,61.4,31.23,0.729,0.117,382.459,6.229,Declining
+Russia,RUS,Europe,218.624,2.858,28.65,2.43,0.871,0.134,185.884,6.488,Expanding
+South Korea,KOR,Asia,184.693,37.861,26.05,30.35,0.809,0.142,148.053,5.683,Expanding
+Japan,JPN,Asia,94.065,110.787,33.08,92.21,0.325,0.137,78.292,2.367,Restarting
+Canada,CAN,North America,84.826,9.036,12.67,5.93,0.764,0.174,55.668,4.394,Declining
+Spain,ESP,Europe,54.113,63.032,7.12,47.21,0.868,0.152,40.53,5.692,Stable
+India,IND,Asia,53.811,194.599,8.78,135.5,0.7,0.164,37.469,4.268,Expanding
+Sweden,SWE,Europe,46.654,4.444,7,5.5,0.761,0.092,57.74,8.249,Declining
+United Arab Emirates,ARE,Asia,39.053,18.204,,,,,,,Expanding
+United Kingdom,GBR,Europe,36.378,19.399,5.88,21.66,0.706,0.102,40.618,6.908,Declining
+Finland,FIN,Europe,32.804,0.978,4.37,1.57,0.857,0.071,52.661,12.051,Expanding
+Czechia,CZE,Europe,31.948,4.392,4.35,4.54,0.838,0.11,33.025,7.592,Expanding
+Belgium,BEL,Europe,24.147,10.434,2.08,10.4,,0.115,24.068,11.571,Stable
+Pakistan,PAK,Asia,24,36.6,3.62,3.72,0.757,1.123,2.439,0.674,Expanding
+Switzerland,CHE,Europe,19.426,7.883,2.97,9.11,0.747,0.099,22.45,7.559,Declining
+Slovakia,SVK,Europe,19.322,0.716,2.47,1.03,0.893,0.079,27.796,11.253,Expanding
+Belarus,BLR,Europe,16.977,0.155,2.34,0.28,0.828,0.063,30.668,13.106,Expanding
+Hungary,HUN,Europe,16.089,10.883,2.03,8.18,0.905,0.152,12.093,5.957,Stable
+Brazil,BRA,South America,15.797,88.016,1.99,64.69,0.906,0.155,11.61,5.834,Stable
+Bulgaria,BGR,Europe,14.858,6.933,2.01,5.91,0.844,0.134,12.666,6.301,Stable
+Argentina,ARG,South America,10.761,5.155,1.75,2.59,0.702,0.227,5.407,3.089,Expanding
+South Africa,ZAF,Africa,10.21,19.537,1.93,11.26,0.604,0.198,5.884,3.049,Declining
+Romania,ROU,Europe,10.205,4.96,1.3,6.24,0.896,0.091,12.839,9.876,Stable
+Mexico,MEX,North America,10.105,27.143,1.61,12.93,0.716,0.24,4.814,2.99,Stable
+Slovenia,SVN,Europe,5.836,1.505,0.7,1.57,0.952,0.109,6.088,8.697,Stable
+Iran,IRN,Asia,5.388,2.203,1.02,1.78,0.603,0.141,4.353,4.268,Stable
+Netherlands,NLD,Europe,3.985,28.507,0.51,25.88,0.892,0.126,3.618,7.094,Stable
+Taiwan (China),TWN,Asia,3.237,15.975,0,15.47,,0.118,3.135,inf,Declining
+Armenia,ARM,Asia,2.661,0.744,0.45,0.71,0.675,0.12,2.539,5.643,Stable

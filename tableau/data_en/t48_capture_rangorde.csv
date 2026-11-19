@@ -1,0 +1,297 @@
+Zone,Zonenaam,Landcode,Jaar,Capture rate zon,Rang,Groep,Toon
+AT,Austria,AUT,2019,0.948,30,other,False
+AT,Austria,AUT,2020,0.878,24,other,False
+AT,Austria,AUT,2021,0.821,30,other,False
+AT,Austria,AUT,2022,1.055,11,other,False
+AT,Austria,AUT,2023,0.755,36,Bottom 5,True
+AT,Austria,AUT,2024,0.647,28,other,False
+AT,Austria,AUT,2025,0.498,37,Bottom 5,True
+AT,Austria,AUT,2026,0.523,34,Bottom 5,True
+BE,Belgium,BEL,2019,0.921,34,Bottom 5,True
+BE,Belgium,BEL,2020,0.772,32,other,False
+BE,Belgium,BEL,2021,0.737,37,Bottom 5,True
+BE,Belgium,BEL,2022,0.92,30,other,False
+BE,Belgium,BEL,2023,0.783,31,other,False
+BE,Belgium,BEL,2024,0.556,37,Bottom 5,True
+BE,Belgium,BEL,2025,0.514,36,Bottom 5,True
+BE,Belgium,BEL,2026,0.569,30,other,False
+BG,Bulgaria,BGR,2019,1.038,10,other,False
+BG,Bulgaria,BGR,2020,0.942,14,other,False
+BG,Bulgaria,BGR,2021,0.928,10,other,False
+BG,Bulgaria,BGR,2022,0.954,26,other,False
+BG,Bulgaria,BGR,2023,0.796,28,other,False
+BG,Bulgaria,BGR,2024,0.708,20,other,False
+BG,Bulgaria,BGR,2025,0.686,11,other,False
+BG,Bulgaria,BGR,2026,0.773,8,other,False
+CH,Switzerland,CHE,2019,0.911,36,Bottom 5,True
+CH,Switzerland,CHE,2020,0.844,28,other,False
+CH,Switzerland,CHE,2021,0.78,35,Bottom 5,True
+CH,Switzerland,CHE,2022,1.038,14,other,False
+CH,Switzerland,CHE,2023,0.796,26,other,False
+CH,Switzerland,CHE,2024,0.619,33,Bottom 5,True
+CH,Switzerland,CHE,2025,0.594,22,other,False
+CH,Switzerland,CHE,2026,0.611,20,other,False
+CZ,Czechia,CZE,2019,0.978,19,other,False
+CZ,Czechia,CZE,2020,0.859,26,other,False
+CZ,Czechia,CZE,2021,0.85,26,other,False
+CZ,Czechia,CZE,2022,0.959,25,other,False
+CZ,Czechia,CZE,2023,0.796,27,other,False
+CZ,Czechia,CZE,2024,0.628,31,other,False
+CZ,Czechia,CZE,2025,0.566,30,other,False
+CZ,Czechia,CZE,2026,0.577,28,other,False
+DE-LU,Germany,DEU,2019,0.928,33,Bottom 5,True
+DE-LU,Germany,DEU,2020,0.806,29,other,False
+DE-LU,Germany,DEU,2021,0.785,34,Bottom 5,True
+DE-LU,Germany,DEU,2022,0.939,28,other,False
+DE-LU,Germany,DEU,2023,0.759,35,Bottom 5,True
+DE-LU,Germany,DEU,2024,0.592,36,Bottom 5,True
+DE-LU,Germany,DEU,2025,0.516,35,Bottom 5,True
+DE-LU,Germany,DEU,2026,0.535,33,Bottom 5,True
+DK1,Denmark (West),DNK,2019,0.965,23,other,False
+DK1,Denmark (West),DNK,2020,0.968,11,other,False
+DK1,Denmark (West),DNK,2021,0.84,29,other,False
+DK1,Denmark (West),DNK,2022,1.009,21,other,False
+DK1,Denmark (West),DNK,2023,0.781,33,Bottom 5,True
+DK1,Denmark (West),DNK,2024,0.663,26,other,False
+DK1,Denmark (West),DNK,2025,0.623,18,other,False
+DK1,Denmark (West),DNK,2026,0.668,15,other,False
+DK2,Denmark (East),DNK,2019,0.981,16,other,False
+DK2,Denmark (East),DNK,2020,1.02,8,other,False
+DK2,Denmark (East),DNK,2021,0.863,23,other,False
+DK2,Denmark (East),DNK,2022,1.026,15,other,False
+DK2,Denmark (East),DNK,2023,0.823,17,other,False
+DK2,Denmark (East),DNK,2024,0.674,22,other,False
+DK2,Denmark (East),DNK,2025,0.646,14,other,False
+DK2,Denmark (East),DNK,2026,0.673,14,other,False
+EE,Estonia,EST,2019,0.994,13,other,False
+EE,Estonia,EST,2020,1.216,1,Top 5,True
+EE,Estonia,EST,2021,0.954,7,other,False
+EE,Estonia,EST,2022,1.056,10,other,False
+EE,Estonia,EST,2023,0.786,30,other,False
+EE,Estonia,EST,2024,0.739,14,other,False
+EE,Estonia,EST,2025,0.583,25,other,False
+EE,Estonia,EST,2026,0.586,25,other,False
+ES,Spain,ESP,2019,1.018,12,other,False
+ES,Spain,ESP,2020,0.969,10,other,False
+ES,Spain,ESP,2021,0.915,11,other,False
+ES,Spain,ESP,2022,0.902,32,other,False
+ES,Spain,ESP,2023,0.836,13,other,False
+ES,Spain,ESP,2024,0.673,24,other,False
+ES,Spain,ESP,2025,0.553,32,other,False
+ES,Spain,ESP,2026,0.511,35,Bottom 5,True
+FI,Finland,FIN,2019,1.102,4,Top 5,True
+FI,Finland,FIN,2020,1.212,2,Top 5,True
+FI,Finland,FIN,2021,0.976,5,Top 5,True
+FI,Finland,FIN,2022,1.226,1,Top 5,True
+FI,Finland,FIN,2023,0.894,4,Top 5,True
+FI,Finland,FIN,2024,0.853,7,other,False
+FI,Finland,FIN,2025,0.89,1,Top 5,True
+FI,Finland,FIN,2026,0.758,10,other,False
+FR,France,FRA,2019,0.957,26,other,False
+FR,France,FRA,2020,0.927,15,other,False
+FR,France,FRA,2021,0.864,22,other,False
+FR,France,FRA,2022,1.057,9,other,False
+FR,France,FRA,2023,0.863,8,other,False
+FR,France,FRA,2024,0.676,21,other,False
+FR,France,FRA,2025,0.588,24,other,False
+FR,France,FRA,2026,0.573,29,other,False
+GR,Greece,GRC,2019,0.979,18,other,False
+GR,Greece,GRC,2020,0.921,18,other,False
+GR,Greece,GRC,2021,0.914,12,other,False
+GR,Greece,GRC,2022,0.939,27,other,False
+GR,Greece,GRC,2023,0.795,29,other,False
+GR,Greece,GRC,2024,0.71,19,other,False
+GR,Greece,GRC,2025,0.577,26,other,False
+GR,Greece,GRC,2026,0.474,37,Bottom 5,True
+HR,Croatia,HRV,2019,1.05,7,other,False
+HR,Croatia,HRV,2020,0.918,19,other,False
+HR,Croatia,HRV,2021,0.896,17,other,False
+HR,Croatia,HRV,2022,1.038,13,other,False
+HR,Croatia,HRV,2023,0.819,20,other,False
+HR,Croatia,HRV,2024,0.8,8,other,False
+HR,Croatia,HRV,2025,0.659,13,other,False
+HR,Croatia,HRV,2026,0.666,16,other,False
+HU,Hungary,HUN,2019,1.054,6,other,False
+HU,Hungary,HUN,2020,0.892,23,other,False
+HU,Hungary,HUN,2021,0.905,13,other,False
+HU,Hungary,HUN,2022,1.021,18,other,False
+HU,Hungary,HUN,2023,0.807,23,other,False
+HU,Hungary,HUN,2024,0.634,30,other,False
+HU,Hungary,HUN,2025,0.577,27,other,False
+HU,Hungary,HUN,2026,0.583,26,other,False
+IT-Centre-North,Italy (Centre-North),ITA,2019,0.977,20,other,False
+IT-Centre-North,Italy (Centre-North),ITA,2020,0.898,22,other,False
+IT-Centre-North,Italy (Centre-North),ITA,2021,0.873,21,other,False
+IT-Centre-North,Italy (Centre-North),ITA,2022,1.023,17,other,False
+IT-Centre-North,Italy (Centre-North),ITA,2023,0.878,6,other,False
+IT-Centre-North,Italy (Centre-North),ITA,2024,0.888,4,Top 5,True
+IT-Centre-North,Italy (Centre-North),ITA,2025,0.832,3,Top 5,True
+IT-Centre-North,Italy (Centre-North),ITA,2026,0.844,6,other,False
+IT-North,Italy (North),ITA,2019,0.994,14,other,False
+IT-North,Italy (North),ITA,2020,0.915,20,other,False
+IT-North,Italy (North),ITA,2021,0.876,20,other,False
+IT-North,Italy (North),ITA,2022,1.025,16,other,False
+IT-North,Italy (North),ITA,2023,0.883,5,Top 5,True
+IT-North,Italy (North),ITA,2024,0.903,3,Top 5,True
+IT-North,Italy (North),ITA,2025,0.838,2,Top 5,True
+IT-North,Italy (North),ITA,2026,0.848,5,Top 5,True
+IT-Sicily,Italy (Sicily),ITA,2019,0.877,37,Bottom 5,True
+IT-Sicily,Italy (Sicily),ITA,2020,0.801,30,other,False
+IT-Sicily,Italy (Sicily),ITA,2021,0.847,28,other,False
+IT-Sicily,Italy (Sicily),ITA,2022,0.983,24,other,False
+IT-Sicily,Italy (Sicily),ITA,2023,0.845,11,other,False
+IT-Sicily,Italy (Sicily),ITA,2024,0.862,6,other,False
+IT-Sicily,Italy (Sicily),ITA,2025,0.798,7,other,False
+IT-Sicily,Italy (Sicily),ITA,2026,0.739,11,other,False
+IT-South,Italy (South),ITA,2019,0.915,35,Bottom 5,True
+IT-South,Italy (South),ITA,2020,0.847,27,other,False
+IT-South,Italy (South),ITA,2021,0.848,27,other,False
+IT-South,Italy (South),ITA,2022,0.983,23,other,False
+IT-South,Italy (South),ITA,2023,0.847,10,other,False
+IT-South,Italy (South),ITA,2024,0.869,5,Top 5,True
+IT-South,Italy (South),ITA,2025,0.802,6,other,False
+IT-South,Italy (South),ITA,2026,0.777,7,other,False
+LT,Lithuania,LTU,2019,1.2,1,Top 5,True
+LT,Lithuania,LTU,2020,1.186,4,Top 5,True
+LT,Lithuania,LTU,2021,1.078,1,Top 5,True
+LT,Lithuania,LTU,2022,1.159,4,Top 5,True
+LT,Lithuania,LTU,2023,0.903,2,Top 5,True
+LT,Lithuania,LTU,2024,0.767,10,other,False
+LT,Lithuania,LTU,2025,0.573,28,other,False
+LT,Lithuania,LTU,2026,0.565,31,other,False
+LV,Latvia,LVA,2019,1.197,2,Top 5,True
+LV,Latvia,LVA,2020,1.196,3,Top 5,True
+LV,Latvia,LVA,2021,0.945,8,other,False
+LV,Latvia,LVA,2022,1.126,5,Top 5,True
+LV,Latvia,LVA,2023,0.897,3,Top 5,True
+LV,Latvia,LVA,2024,0.719,18,other,False
+LV,Latvia,LVA,2025,0.646,15,other,False
+LV,Latvia,LVA,2026,0.614,19,other,False
+NL,Netherlands,NLD,2019,0.942,32,Netherlands,True
+NL,Netherlands,NLD,2020,0.788,31,Netherlands,True
+NL,Netherlands,NLD,2021,0.767,36,Netherlands,True
+NL,Netherlands,NLD,2022,0.926,29,Netherlands,True
+NL,Netherlands,NLD,2023,0.74,37,Netherlands,True
+NL,Netherlands,NLD,2024,0.603,34,Netherlands,True
+NL,Netherlands,NLD,2025,0.615,19,Netherlands,True
+NL,Netherlands,NLD,2026,0.587,24,Netherlands,True
+NO1,Norway (Oslo),NOR,2019,0.945,31,other,False
+NO1,Norway (Oslo),NOR,2020,0.606,35,Bottom 5,True
+NO1,Norway (Oslo),NOR,2021,0.802,32,other,False
+NO1,Norway (Oslo),NOR,2022,1.045,12,other,False
+NO1,Norway (Oslo),NOR,2023,0.799,25,other,False
+NO1,Norway (Oslo),NOR,2024,0.727,17,other,False
+NO1,Norway (Oslo),NOR,2025,0.806,5,Top 5,True
+NO1,Norway (Oslo),NOR,2026,0.87,3,Top 5,True
+NO2,Norway (South),NOR,2019,0.95,29,other,False
+NO2,Norway (South),NOR,2020,0.603,36,Bottom 5,True
+NO2,Norway (South),NOR,2021,0.815,31,other,False
+NO2,Norway (South),NOR,2022,1.078,7,other,False
+NO2,Norway (South),NOR,2023,0.866,7,other,False
+NO2,Norway (South),NOR,2024,0.756,11,other,False
+NO2,Norway (South),NOR,2025,0.809,4,Top 5,True
+NO2,Norway (South),NOR,2026,0.85,4,Top 5,True
+NO3,Norway (Central),NOR,2019,0.973,21,other,False
+NO3,Norway (Central),NOR,2020,0.712,33,Bottom 5,True
+NO3,Norway (Central),NOR,2021,1.059,2,Top 5,True
+NO3,Norway (Central),NOR,2022,0.692,36,Bottom 5,True
+NO3,Norway (Central),NOR,2023,0.857,9,other,False
+NO3,Norway (Central),NOR,2024,0.959,2,Top 5,True
+NO3,Norway (Central),NOR,2025,0.689,10,other,False
+NO3,Norway (Central),NOR,2026,0.94,1,Top 5,True
+NO4,Norway (North),NOR,2019,0.953,27,other,False
+NO4,Norway (North),NOR,2020,0.652,34,Bottom 5,True
+NO4,Norway (North),NOR,2021,0.863,24,other,False
+NO4,Norway (North),NOR,2022,0.52,37,Bottom 5,True
+NO4,Norway (North),NOR,2023,0.767,34,Bottom 5,True
+NO4,Norway (North),NOR,2024,1.086,1,Top 5,True
+NO4,Norway (North),NOR,2025,0.532,34,Bottom 5,True
+NO4,Norway (North),NOR,2026,0.7,13,other,False
+NO5,Norway (West),NOR,2019,0.951,28,other,False
+NO5,Norway (West),NOR,2020,0.563,37,Bottom 5,True
+NO5,Norway (West),NOR,2021,0.801,33,Bottom 5,True
+NO5,Norway (West),NOR,2022,1.082,6,other,False
+NO5,Norway (West),NOR,2023,0.812,21,other,False
+NO5,Norway (West),NOR,2024,0.787,9,other,False
+NO5,Norway (West),NOR,2025,0.751,8,other,False
+NO5,Norway (West),NOR,2026,0.924,2,Top 5,True
+PL,Poland,POL,2019,1.131,3,Top 5,True
+PL,Poland,POL,2020,1.118,5,Top 5,True
+PL,Poland,POL,2021,0.942,9,other,False
+PL,Poland,POL,2022,0.905,31,other,False
+PL,Poland,POL,2023,0.903,1,Top 5,True
+PL,Poland,POL,2024,0.751,12,other,False
+PL,Poland,POL,2025,0.645,16,other,False
+PL,Poland,POL,2026,0.589,23,other,False
+PT,Portugal,PRT,2019,1.019,11,other,False
+PT,Portugal,PRT,2020,0.978,9,other,False
+PT,Portugal,PRT,2021,0.96,6,other,False
+PT,Portugal,PRT,2022,0.899,33,Bottom 5,True
+PT,Portugal,PRT,2023,0.827,14,other,False
+PT,Portugal,PRT,2024,0.673,23,other,False
+PT,Portugal,PRT,2025,0.534,33,Bottom 5,True
+PT,Portugal,PRT,2026,0.507,36,Bottom 5,True
+RO,Romania,ROU,2019,1.045,8,other,False
+RO,Romania,ROU,2020,0.922,17,other,False
+RO,Romania,ROU,2021,0.9,14,other,False
+RO,Romania,ROU,2022,0.995,22,other,False
+RO,Romania,ROU,2023,0.802,24,other,False
+RO,Romania,ROU,2024,0.657,27,other,False
+RO,Romania,ROU,2025,0.596,21,other,False
+RO,Romania,ROU,2026,0.631,18,other,False
+RS,Serbia,SRB,2019,1.063,5,Top 5,True
+RS,Serbia,SRB,2020,0.943,13,other,False
+RS,Serbia,SRB,2021,0.876,19,other,False
+RS,Serbia,SRB,2022,1.06,8,other,False
+RS,Serbia,SRB,2023,0.844,12,other,False
+RS,Serbia,SRB,2024,0.727,16,other,False
+RS,Serbia,SRB,2025,0.599,20,other,False
+RS,Serbia,SRB,2026,0.594,21,other,False
+SE1,Sweden (North),SWE,2019,0.959,25,other,False
+SE1,Sweden (North),SWE,2020,0.925,16,other,False
+SE1,Sweden (North),SWE,2021,1.027,4,Top 5,True
+SE1,Sweden (North),SWE,2022,0.81,35,Bottom 5,True
+SE1,Sweden (North),SWE,2023,0.826,15,other,False
+SE1,Sweden (North),SWE,2024,0.729,15,other,False
+SE1,Sweden (North),SWE,2025,0.68,12,other,False
+SE1,Sweden (North),SWE,2026,0.733,12,other,False
+SE2,Sweden (North-Central),SWE,2019,0.972,22,other,False
+SE2,Sweden (North-Central),SWE,2020,0.954,12,other,False
+SE2,Sweden (North-Central),SWE,2021,1.042,3,Top 5,True
+SE2,Sweden (North-Central),SWE,2022,0.864,34,Bottom 5,True
+SE2,Sweden (North-Central),SWE,2023,0.826,16,other,False
+SE2,Sweden (North-Central),SWE,2024,0.739,13,other,False
+SE2,Sweden (North-Central),SWE,2025,0.716,9,other,False
+SE2,Sweden (North-Central),SWE,2026,0.762,9,other,False
+SE3,Sweden (Central),SWE,2019,0.965,24,other,False
+SE3,Sweden (Central),SWE,2020,1.113,6,other,False
+SE3,Sweden (Central),SWE,2021,0.898,16,other,False
+SE3,Sweden (Central),SWE,2022,1.212,2,Top 5,True
+SE3,Sweden (Central),SWE,2023,0.783,32,other,False
+SE3,Sweden (Central),SWE,2024,0.601,35,Bottom 5,True
+SE3,Sweden (Central),SWE,2025,0.589,23,other,False
+SE3,Sweden (Central),SWE,2026,0.634,17,other,False
+SE4,Sweden (South),SWE,2019,0.98,17,other,False
+SE4,Sweden (South),SWE,2020,1.08,7,other,False
+SE4,Sweden (South),SWE,2021,0.894,18,other,False
+SE4,Sweden (South),SWE,2022,1.179,3,Top 5,True
+SE4,Sweden (South),SWE,2023,0.821,19,other,False
+SE4,Sweden (South),SWE,2024,0.627,32,other,False
+SE4,Sweden (South),SWE,2025,0.571,29,other,False
+SE4,Sweden (South),SWE,2026,0.579,27,other,False
+SI,Slovenia,SVN,2019,1.043,9,other,False
+SI,Slovenia,SVN,2020,0.911,21,other,False
+SI,Slovenia,SVN,2021,0.862,25,other,False
+SI,Slovenia,SVN,2022,1.021,19,other,False
+SI,Slovenia,SVN,2023,0.808,22,other,False
+SI,Slovenia,SVN,2024,0.671,25,other,False
+SI,Slovenia,SVN,2025,0.63,17,other,False
+SI,Slovenia,SVN,2026,0.593,22,other,False
+SK,Slovakia,SVK,2019,0.985,15,other,False
+SK,Slovakia,SVK,2020,0.874,25,other,False
+SK,Slovakia,SVK,2021,0.898,15,other,False
+SK,Slovakia,SVK,2022,1.013,20,other,False
+SK,Slovakia,SVK,2023,0.821,18,other,False
+SK,Slovakia,SVK,2024,0.639,29,other,False
+SK,Slovakia,SVK,2025,0.554,31,other,False
+SK,Slovakia,SVK,2026,0.555,32,other,False

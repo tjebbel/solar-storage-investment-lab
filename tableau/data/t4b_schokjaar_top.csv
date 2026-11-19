@@ -1,0 +1,45 @@
+Zone,Prijsstijging totaal,Oorzaak,Euro per MWh,Volgorde,Toelichting
+NO3,68.963,Gas,25.029,1,Noorwegen: 'niet verklaard' is vooral de lage waterstand
+NO5,63.748,Gas,25.029,2,Noorwegen: 'niet verklaard' is vooral de lage waterstand
+NO1,51.812,Gas,25.029,3,Noorwegen: 'niet verklaard' is vooral de lage waterstand
+NO2,46.72,Gas,25.029,4,Noorwegen: 'niet verklaard' is vooral de lage waterstand
+IT-North,38.704,Gas,25.029,5,
+IT-Sicily,38.562,Gas,25.029,6,
+IT-Centre-North,38.233,Gas,25.029,7,
+AT,35.582,Gas,25.029,8,
+HU,34.135,Gas,25.029,9,
+SE4,33.794,Gas,25.029,10,
+NO3,68.963,Zon,0.0,1,Noorwegen: 'niet verklaard' is vooral de lage waterstand
+NO5,63.748,Zon,0.0,2,Noorwegen: 'niet verklaard' is vooral de lage waterstand
+NO1,51.812,Zon,0.0,3,Noorwegen: 'niet verklaard' is vooral de lage waterstand
+NO2,46.72,Zon,0.0,4,Noorwegen: 'niet verklaard' is vooral de lage waterstand
+IT-North,38.704,Zon,1.094,5,
+IT-Sicily,38.562,Zon,1.094,6,
+IT-Centre-North,38.233,Zon,1.094,7,
+AT,35.582,Zon,2.203,8,
+HU,34.135,Zon,1.852,9,
+SE4,33.794,Zon,0.106,10,
+NO3,68.963,Wind,-1.982,1,Noorwegen: 'niet verklaard' is vooral de lage waterstand
+NO5,63.748,Wind,-1.982,2,Noorwegen: 'niet verklaard' is vooral de lage waterstand
+NO1,51.812,Wind,-1.982,3,Noorwegen: 'niet verklaard' is vooral de lage waterstand
+NO2,46.72,Wind,-1.982,4,Noorwegen: 'niet verklaard' is vooral de lage waterstand
+IT-North,38.704,Wind,0.117,5,
+IT-Sicily,38.562,Wind,0.117,6,
+IT-Centre-North,38.233,Wind,0.117,7,
+AT,35.582,Wind,-1.228,8,
+HU,34.135,Wind,0.091,9,
+SE4,33.794,Wind,-2.842,10,
+NO3,68.963,Niet verklaard,45.916,1,Noorwegen: 'niet verklaard' is vooral de lage waterstand
+NO5,63.748,Niet verklaard,40.701,2,Noorwegen: 'niet verklaard' is vooral de lage waterstand
+NO1,51.812,Niet verklaard,28.765,3,Noorwegen: 'niet verklaard' is vooral de lage waterstand
+NO2,46.72,Niet verklaard,23.673,4,Noorwegen: 'niet verklaard' is vooral de lage waterstand
+IT-North,38.704,Niet verklaard,12.464,5,
+IT-Sicily,38.562,Niet verklaard,12.322,6,
+IT-Centre-North,38.233,Niet verklaard,11.993,7,
+AT,35.582,Niet verklaard,9.577,8,
+HU,34.135,Niet verklaard,7.163,9,
+SE4,33.794,Niet verklaard,11.501,10,
+Overige 18 (gemiddeld),26.273,Gas,25.029,11,
+Overige 18 (gemiddeld),26.273,Niet verklaard,1.282,11,
+Overige 18 (gemiddeld),26.273,Wind,-0.699,11,
+Overige 18 (gemiddeld),26.273,Zon,0.661,11,

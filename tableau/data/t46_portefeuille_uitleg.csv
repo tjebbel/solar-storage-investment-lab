@@ -1,0 +1,18 @@
+Landcode,Land,Capture rate zon 2022,Capture rate zon 2025,Groei zonvermogen per jaar 2022,Groei zonvermogen per jaar 2025,Kwadrant 2022,Kwadrant 2025,Verklaring
+AUT,Oostenrijk,1.0552,0.49846,0.2796975329652857,0.3937094856429519,Hond,Vraagteken,groei 28% -> 39% per jaar (drempel erboven); capture rate 1.06 -> 0.50
+BEL,Belgie,,0.514177,,0.2498683381134512,,Hond,nieuw in 2025 (in 2022 te weinig gegevens)
+BGR,Bulgarije,0.953625,0.685772,0.1154521779072843,0.4355900917226811,Melkkoe,Ster,groei 12% -> 44% per jaar (drempel erboven); capture rate 0.95 -> 0.69
+CZE,Tsjechie,0.959066,0.56644,0.0042195029887084,0.2169518254576987,Hond,Hond,geen wissel
+DEU,Duitsland,0.938605,0.515687,0.1039910843950042,0.1803993847628693,Melkkoe,Melkkoe,geen wissel
+DNK,Denemarken,1.017465,0.634824,0.2880092100354601,0.3266741227886625,Vraagteken,Vraagteken,geen wissel
+ESP,Spanje,0.901935,0.552896,0.3584206360028401,0.3009455733382418,Vraagteken,Vraagteken,geen wissel
+FIN,Finland,,0.890352,,0.4291664807838253,,Vraagteken,nieuw in 2025 (in 2022 te weinig gegevens)
+FRA,Frankrijk,1.05655,0.588029,0.1072834101771045,0.1543742832548054,Hond,Hond,geen wissel
+GRC,Griekenland,0.938886,0.577355,0.184692009642575,0.2841476406833778,Melkkoe,Melkkoe,geen wissel
+HUN,Hongarije,1.0214,0.57657,0.5565524559870199,0.2726765005522376,Ster,Melkkoe,groei 56% -> 27% per jaar (drempel eronder); capture rate 1.02 -> 0.58
+ITA,Italie,,0.81739675,,0.1794441129798676,,Hond,nieuw in 2025 (in 2022 te weinig gegevens)
+LTU,Litouwen,1.15887,0.572994,0.6204268237763728,0.8455019027856026,Ster,Ster,geen wissel
+NLD,Nederland,0.926048,0.615303,0.469278340412008,0.1883465964950648,Ster,Hond,"groei 47% -> 19% per jaar (drempel eronder); capture rate 0.93 -> 0.62; verzadiging, geen verval: zonvermogen groeide in 2025 nog 4.8% (CBS) en 56% van de postcodes heeft een afnametekort (netcongestie)"
+POL,Polen,0.905399,0.644983,1.1634258264873014,0.3410911502000457,Vraagteken,Ster,groei 116% -> 34% per jaar (drempel erboven); capture rate 0.91 -> 0.64
+PRT,Portugal,0.899158,0.533993,0.329482269992212,0.3624476239801781,Vraagteken,Vraagteken,geen wissel
+ROU,Roemenie,0.995055,0.595609,0.0359269305679941,0.453039839616367,Melkkoe,Ster,groei 4% -> 45% per jaar (drempel erboven); capture rate 1.00 -> 0.60

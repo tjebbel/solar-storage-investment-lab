@@ -1,0 +1,16 @@
+D2.1 Maanden kosten gedekt: 6 van 11 | 2025: 5 van 12 | LCOE 2025: 67,39 EUR/MWh | goed
+D2.2 Capture rate zon NL: 0.59 | 2025: 0.61 | EU-mediaan 0.61 | slecht
+D2.3 Gemiddelde prijs NL: 121 EUR/MWh | 2025: 87 | EU-mediaan 120 | neutraal
+D2.4 Prijssignaal laatste maand: Schok (z = 5.4) | maand 2026-11 | 27 van 37 zones Schok | slecht
+D3.1 Wereld: kern tegen zon: 2,805 tegen 2,807 TWh | 2015 zon: 256 TWh | Ember, 2025 | neutraal
+D3.2 Europa: kern tegen zon: 996 tegen 444 TWh | 2015 kern: 1,163 TWh | Ember, 2025 | neutraal
+D3.3 Marktwaarde kern tegen zon: 1.03 tegen 0.61 | capture rate 2025 | 1,00 = gemiddeld uur | neutraal
+D3.4 Landen uitbouw tegen afbouw: 11 uitbouw, 9 afbouw of gestopt | 1 herstart, 12 stabiel | regel: >=10% en 2 TWh | neutraal
+D4.1 Leersnelheid: 35% per verdubbeling | 95%: 21%-46% | literatuur ca. 20-25% | goed
+D4.2 Paneelprijs: 0.095 USD/W | 2024: 0.118 (-19%) | exportwaarde China | goed
+D4.3 Sterren 2025: BGR, LTU, POL, ROU | 2022: HUN, LTU, NLD | groei > 30%/jaar | neutraal
+D4.4 Nederland: Hond | 2022: Ster | verzadiging, netcongestie | slecht
+D7.1 Controles geslaagd: 8 van 18 | 18-11: 6 van 12 | doel: alle 18 | goed
+D7.2 Nog open: 5 | C03, C04, C10, C13, C15 | doel: 0 voor publicatie | slecht
+D7.3 Opnieuw berekend bij elke run: 8 van 18 |  | rest: handmatig vastgelegd | neutraal
+D7.4 Grootste risico: score 9: Gemiddelde of marginale emissiefactor | beide varianten tonen | kans x impact, max 9 | slecht

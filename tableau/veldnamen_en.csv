@@ -1,0 +1,209 @@
+Tabel,Veld,English
+t1_zonejaar,Zone,Zone
+t1_zonejaar,Zonenaam,Zone name
+t1_zonejaar,Regio,Region
+t1_zonejaar,Landcode,Country code
+t1_zonejaar,Jaar,Year
+t1_zonejaar,Heel jaar,Full year
+t1_zonejaar,Gemiddelde prijs,Average price
+t1_zonejaar,Capture rate zon,Solar capture rate
+t1_zonejaar,Negatieve uren,Negative hours
+t1_zonejaar,Dagspreiding,Daily spread
+t1_zonejaar,Batterij-omzet per MW,Battery revenue per MW
+t1_zonejaar,Segment,Segment
+t1_zonejaar,Segment stabiel (aandeel),Segment stability (share)
+t1_zonejaar,Segment zekerheid,Segment certainty
+t2_land_maand,Zonenaam,Zone name
+t2_land_maand,Jaar,Year
+t2_land_maand,Maandnummer,Month number
+t2_land_maand,Gemiddelde prijs,Average price
+t2_land_maand,Capture rate zon,Solar capture rate
+t2_land_maand,Capture rate wind,Wind capture rate
+t2_land_maand,Negatieve uren,Negative hours
+t2_land_maand,Dagspreiding,Daily spread
+t2_land_maand,Zone,Zone
+t2_land_maand,Landcode,Country code
+t2_land_maand,Maand,Month
+t3_batterij,Scenario,Scenario
+t3_batterij,Cycli per dag,Cycles per day
+t3_batterij,Levensduur (jaar),Lifetime (years)
+t3_batterij,Omzet per MW,Revenue per MW
+t3_batterij,Doelrendement,Target return
+t3_batterij,Hoogste bouwkosten per kWh,Highest capex per kWh
+t3_batterij,Bouwkosten nu per kWh,Capex today per kWh
+t3b_batterij_leesbaar,Scenario,Scenario
+t3b_batterij_leesbaar,Cycli per dag,Cycles per day
+t3b_batterij_leesbaar,Levensduur (jaar),Lifetime (years)
+t3b_batterij_leesbaar,Omzet per MW,Revenue per MW
+t3b_batterij_leesbaar,Doelrendement,Target return
+t3b_batterij_leesbaar,Hoogste bouwkosten per kWh,Highest capex per kWh
+t3b_batterij_leesbaar,Bouwkosten nu per kWh,Capex today per kWh
+t3b_batterij_leesbaar,Scenario leesbaar,Scenario (plain)
+t3b_batterij_leesbaar,Haalbaar,Feasible
+t3b_batterij_leesbaar,Volgorde,Order
+t4_schokjaar,Zone,Zone
+t4_schokjaar,Prijsstijging totaal,Total price increase
+t4_schokjaar,Oorzaak,Driver
+t4_schokjaar,Euro per MWh,EUR per MWh
+t4b_schokjaar_top,Zone,Zone
+t4b_schokjaar_top,Prijsstijging totaal,Total price increase
+t4b_schokjaar_top,Oorzaak,Driver
+t4b_schokjaar_top,Euro per MWh,EUR per MWh
+t4b_schokjaar_top,Volgorde,Order
+t4b_schokjaar_top,Toelichting,Note
+t5_bronnen,Jaar,Year
+t5_bronnen,Vergelijking,Comparison
+t5_bronnen,Verschil (%),Difference (%)
+t6_kern_gebied_jaar,Gebied,Area
+t6_kern_gebied_jaar,Soort gebied,Area type
+t6_kern_gebied_jaar,Jaar,Year
+t6_kern_gebied_jaar,Bron,Source
+t6_kern_gebied_jaar,Opwek TWh,Generation TWh
+t6_kern_gebied_jaar,Aandeel %,Share %
+t7_kern_land,Land,Country
+t7_kern_land,ISO3,ISO3
+t7_kern_land,Continent,Continent
+t7_kern_land,Europa,Europe
+t7_kern_land,EU,EU
+t7_kern_land,Kern TWh 2010,Nuclear TWh 2010
+t7_kern_land,Kern TWh 2015,Nuclear TWh 2015
+t7_kern_land,Kern TWh 2025,Nuclear TWh 2025
+t7_kern_land,Zon TWh 2015,Solar TWh 2015
+t7_kern_land,Zon TWh 2025,Solar TWh 2025
+t7_kern_land,Wind TWh 2015,Wind TWh 2015
+t7_kern_land,Wind TWh 2025,Wind TWh 2025
+t7_kern_land,Aandeel kern 2025 %,Nuclear share 2025 %
+t7_kern_land,Aandeel zon en wind 2025 %,Solar and wind share 2025 %
+t7_kern_land,Aandeel fossiel 2025 %,Fossil share 2025 %
+t7_kern_land,CO2 gram per kWh 2025,CO2 grams per kWh 2025
+t7_kern_land,Kernvermogen GW 2025,Nuclear capacity GW 2025
+t7_kern_land,Benutting kern 2025,Nuclear capacity factor 2025
+t7_kern_land,Jaar zon voorbij kern,Year solar overtook nuclear
+t7_kern_land,Kern verschil 2015-2025 TWh,Nuclear change 2015-2025 TWh
+t7_kern_land,Zon en wind verschil 2015-2025 TWh,Solar and wind change 2015-2025 TWh
+t7_kern_land,Kern verschil 2015-2025 %,Nuclear change 2015-2025 %
+t7_kern_land,Koers kern,Nuclear trajectory
+t8_kern_markt,Land,Country
+t8_kern_markt,Jaar,Year
+t8_kern_markt,Aandeel kern in negatieve uren %,Nuclear share in negative hours %
+t8_kern_markt,Bron,Source
+t8_kern_markt,Capture rate,Capture rate
+t9_signalering_zones,Zonenaam,Zone name
+t9_signalering_zones,Zone,Zone
+t9_signalering_zones,Landcode,Country code
+t9_signalering_zones,Jaar,Year
+t9_signalering_zones,Maandnummer,Month number
+t9_signalering_zones,Maand,Month
+t9_signalering_zones,Gemiddelde prijs,Average price
+t9_signalering_zones,Capture-prijs zon,Solar capture price
+t9_signalering_zones,Prijs z-score,Price z-score
+t9_signalering_zones,Prijs signaal,Price signal
+t10_dekking_nl,Jaar,Year
+t10_dekking_nl,Scenario,Scenario
+t10_dekking_nl,Status zon,Solar status
+t10_dekking_nl,Maanden,Months
+t11_ervaringscurve,Jaar,Year
+t11_ervaringscurve,Prijs USD per W,Price USD per W
+t11_ervaringscurve,Cumulatief GW,Cumulative GW
+t11_ervaringscurve,Volledig jaar,Full year
+t12_portefeuille,Landcode,Country code
+t12_portefeuille,Land,Country
+t12_portefeuille,Regio,Region
+t12_portefeuille,Batterij-omzet per MW,Battery revenue per MW
+t12_portefeuille,Capture rate zon,Solar capture rate
+t12_portefeuille,Batterij-omzet tegen mediaan,Battery revenue vs median
+t12_portefeuille,Groei zonvermogen per jaar,Solar capacity growth per year
+t12_portefeuille,Zonvermogen GW,Solar capacity GW
+t12_portefeuille,Kwadrant,Quadrant
+t12_portefeuille,Moment,Snapshot
+t12_portefeuille,Groeiperiode,Growth period
+t12_portefeuille,Groeidrempel,Growth threshold
+t15_controles,Controle,Control
+t15_controles,Domein,Domain
+t15_controles,Doel,Objective
+t15_controles,Kant A,Side A
+t15_controles,Kant B,Side B
+t15_controles,Uitkomst,Result
+t15_controles,Status,Status
+t15_controles,Bron,Source
+t15_controles,Opnieuw berekend,Recalculated
+t16_risico,Risico,Risk
+t16_risico,Kans,Likelihood
+t16_risico,Impact,Impact
+t16_risico,Maatregel,Mitigation
+t16_risico,Dashboards,Dashboards
+t16_risico,Score,Score
+t42_gebeurtenissen,Datum,Date
+t42_gebeurtenissen,Gebied,Area
+t42_gebeurtenissen,Gebeurtenis,Event
+t42_gebeurtenissen,Dashboards,Dashboards
+t42_gebeurtenissen,Soort,Type
+t42_gebeurtenissen,Na te slaan bij,Reference
+t43_kannibalisatie,Zone,Zone
+t43_kannibalisatie,Zonenaam,Zone name
+t43_kannibalisatie,Landcode,Country code
+t43_kannibalisatie,Jaar,Year
+t43_kannibalisatie,Zonaandeel %,Solar share %
+t43_kannibalisatie,Capture rate zon,Solar capture rate
+t43_kannibalisatie,Gemiddelde prijs,Average price
+t43_kannibalisatie,Negatieve uren,Negative hours
+t43_kannibalisatie,Lijn,Fit
+t43_kannibalisatie,Helling (per procentpunt),Slope (per percentage point)
+t44_kern_zon,Land,Country
+t44_kern_zon,ISO3,ISO3
+t44_kern_zon,Continent,Continent
+t44_kern_zon,Kern TWh 2025,Nuclear TWh 2025
+t44_kern_zon,Zon TWh 2025,Solar TWh 2025
+t44_kern_zon,Kernvermogen GW 2025,Nuclear capacity GW 2025
+t44_kern_zon,Zonvermogen GW 2025,Solar capacity GW 2025
+t44_kern_zon,Benutting kern 2025,Nuclear capacity factor 2025
+t44_kern_zon,Benutting zon 2025,Solar capacity factor 2025
+t44_kern_zon,GW zon voor kern-TWh,Solar GW for nuclear TWh
+t44_kern_zon,Verhouding GW zon / GW kern,Ratio solar GW / nuclear GW
+t44_kern_zon,Koers kern,Nuclear trajectory
+t45_leercurve,Variant,Variant
+t45_leercurve,n,n
+t45_leercurve,Leersnelheid,Learning rate
+t45_leercurve,Interval laag,Interval low
+t45_leercurve,Interval hoog,Interval high
+t45_leercurve,R2,R2
+t46_portefeuille_uitleg,Landcode,Country code
+t46_portefeuille_uitleg,Land,Country
+t46_portefeuille_uitleg,Capture rate zon 2022,Solar capture rate 2022
+t46_portefeuille_uitleg,Capture rate zon 2025,Solar capture rate 2025
+t46_portefeuille_uitleg,Groei zonvermogen per jaar 2022,Solar capacity growth per year 2022
+t46_portefeuille_uitleg,Groei zonvermogen per jaar 2025,Solar capacity growth per year 2025
+t46_portefeuille_uitleg,Kwadrant 2022,Quadrant 2022
+t46_portefeuille_uitleg,Kwadrant 2025,Quadrant 2025
+t46_portefeuille_uitleg,Verklaring,Explanation
+t47_kpi_nl,KPI,KPI
+t47_kpi_nl,Eenheid,Unit
+t47_kpi_nl,Jaar,Year
+t47_kpi_nl,Heel jaar,Full year
+t47_kpi_nl,Waarde NL,Value NL
+t47_kpi_nl,Vorig jaar,Previous year
+t47_kpi_nl,Verschil,Change
+t47_kpi_nl,Verschil %,Change %
+t47_kpi_nl,EU-mediaan,EU median
+t47_kpi_nl,Positie,Position
+t47_kpi_nl,Lezing,Reading
+t47_kpi_nl,Pijl,Arrow
+t48_capture_rangorde,Zone,Zone
+t48_capture_rangorde,Zonenaam,Zone name
+t48_capture_rangorde,Landcode,Country code
+t48_capture_rangorde,Jaar,Year
+t48_capture_rangorde,Capture rate zon,Solar capture rate
+t48_capture_rangorde,Rang,Rank
+t48_capture_rangorde,Groep,Group
+t48_capture_rangorde,Toon,Show
+t49_segmenten,Segment,Segment
+t49_segmenten,Volgorde,Order
+t49_segmenten,Kleur,Colour
+t50_kpi_dashboards,Dashboard,Dashboard
+t50_kpi_dashboards,Volgorde,Order
+t50_kpi_dashboards,KPI,KPI
+t50_kpi_dashboards,Waarde,Value
+t50_kpi_dashboards,Tekst,Text
+t50_kpi_dashboards,Vergelijking,Comparison
+t50_kpi_dashboards,Referentie,Reference
+t50_kpi_dashboards,Richting,Direction

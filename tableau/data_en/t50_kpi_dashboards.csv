@@ -1,0 +1,17 @@
+Dashboard,Volgorde,KPI,Waarde,Tekst,Vergelijking,Referentie,Richting
+2,1,Months costs covered,6,6 of 11,2025: 5 of 12,LCOE 2025: 67.39 EUR/MWh,good
+2,2,Dutch solar capture rate,0.587,0.59,2025: 0.61,EU median 0.61,bad
+2,3,Dutch average price,121.035,121 EUR/MWh,2025: 87,EU median 120,neutral
+2,4,"Price signal, latest month",5.39729,Shock (z = 5.4),month 2026-11,27 of 37 zones in Shock,bad
+3,1,World: nuclear vs solar,2805.03,"2,805 vs 2,807 TWh",2015 solar: 256 TWh,"Ember, 2025",neutral
+3,2,Europe: nuclear vs solar,996.413,996 vs 444 TWh,"2015 nuclear: 1,163 TWh","Ember, 2025",neutral
+3,3,Market value: nuclear vs solar,1.02538,1.03 vs 0.61,capture rate 2025,1.00 = average hour,neutral
+3,4,Countries expanding vs declining,11,"11 expanding, 9 declining or phased out","1 restarting, 12 stable",rule: >=10% and 2 TWh,neutral
+4,1,Learning rate,0.3501,35% per doubling,95%: 21%-46%,literature approx. 20-25%,good
+4,2,Panel price,0.0953988,0.095 USD/W,2024: 0.118 (-19%),China export value,good
+4,3,Stars 2025,4,"BGR, LTU, POL, ROU","2022: HUN, LTU, NLD",growth > 30%/year,neutral
+4,4,Netherlands,,Dog,2022: Star,"saturation, grid congestion",bad
+7,1,Controls passed,8,8 of 18,18-11: 6 of 12,target: all 18,good
+7,2,Still open,5,5,"C03, C04, C10, C13, C15",target: 0 before publication,bad
+7,3,Recalculated every run,8,8 of 18,,rest: recorded manually,neutral
+7,4,Largest risk,9,score 9: Average or marginal emission factor,show both variants,"likelihood x impact, max 9",bad

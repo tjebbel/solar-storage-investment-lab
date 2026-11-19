@@ -1,18 +1,24 @@
-Controle                                             Doel                                                                                    Uitkomst                 Status
-     C01            Zelfde uitkomst in twee SQL-dialecten                                                stappen 00-05 gelijk in aantallen en waarden               Geslaagd
-     C02      Signaleringsmaten gelijk aan de verwachting                                                                    66 van 66 waarden gelijk               Geslaagd
-     C03       Tableau rekent hetzelfde als DAX en Python                                           nog uit te voeren met eti.powerbi_toets vergelijk                   Open
-     C04                        Power BI rekent hetzelfde                                                                     wacht op Fabric-toegang                   Open
-     C05             Zonaandeel in twee bronnen sluit aan 82 sluiten aan, 34 dekkingsgaten, 66 wijken af; het verschil verdwijnt zonder dekkingsgaten    Afwijking verklaard
-     C06       Correctiefactor werkt buiten de steekproef                            mediane fout 13% -> 7% na correctie, 60% van 65 land-jaren beter Geslaagd met beperking
-     C07                                 Testsuite slaagt                                                                  209 tests, 28 overgeslagen               Geslaagd
-     C08 Prestaties reproduceerbaar op een tweede machine                              patroon gelijk; SQL Server-plan draaide de tweede keer serieel Geslaagd met beperking
-     C09                Volledigheid kerncijfers per land      Oekraine zonder 2025-cijfer; vermogen Belgie geeft benutting boven 100% (leeg gelaten)    Afwijking verklaard
-     C10                    Teken en dekking grensstromen                                            nog niet gecontroleerd; daarom niet gepubliceerd                   Open
-     C11            Twee bronnen voor de Chinese bouwgolf                                    zelfde patroon, ander niveau; bron in subtitel vermelden    Afwijking verklaard
-     C12         Gepubliceerde cijfers gelijk aan de bron                  visueel gecontroleerd op 18-11 (kaart 2025: 0,50-0,89; referentielijn 280)               Geslaagd
+Controle                                             Doel                                                                                                                                              Uitkomst                 Status
+     C01            Zelfde uitkomst in twee SQL-dialecten                                                                                                          stappen 00-05 gelijk in aantallen en waarden               Geslaagd
+     C02      Signaleringsmaten gelijk aan de verwachting                                                                                                                              66 van 66 waarden gelijk               Geslaagd
+     C03       Tableau rekent hetzelfde als DAX en Python                                                                                                     nog uit te voeren met eti.powerbi_toets vergelijk                   Open
+     C04                        Power BI rekent hetzelfde                                                                                                                               wacht op Fabric-toegang                   Open
+     C05             Zonaandeel in twee bronnen sluit aan                                                           82 sluiten aan, 34 dekkingsgaten, 66 wijken af; het verschil verdwijnt zonder dekkingsgaten    Afwijking verklaard
+     C06       Correctiefactor werkt buiten de steekproef                                                                                      mediane fout 13% -> 7% na correctie, 60% van 65 land-jaren beter Geslaagd met beperking
+     C07                                 Testsuite slaagt                                                                                                                            224 tests, 28 overgeslagen               Geslaagd
+     C08 Prestaties reproduceerbaar op een tweede machine                                                                                        patroon gelijk; SQL Server-plan draaide de tweede keer serieel Geslaagd met beperking
+     C09                Volledigheid kerncijfers per land                                                                Oekraine zonder 2025-cijfer; vermogen Belgie geeft benutting boven 100% (leeg gelaten)    Afwijking verklaard
+     C10                    Teken en dekking grensstromen                                                                                                      nog niet gecontroleerd; daarom niet gepubliceerd                   Open
+     C11            Twee bronnen voor de Chinese bouwgolf                                                                                              zelfde patroon, ander niveau; bron in subtitel vermelden    Afwijking verklaard
+     C12         Gepubliceerde cijfers gelijk aan de bron                                                                            visueel gecontroleerd op 18-11 (kaart 2025: 0,50-0,89; referentielijn 280)               Geslaagd
+     C13                   Zonnestroom NL in twee bronnen                                           zonnestroom 2025: CBS 25.8 TWh (voorlopig), Ember 28.5 TWh, verschil +10%; vermogen sluit wel aan (25,9 GW)         Afwijking open
+     C14                   Zonvermogen VS in twee bronnen                             zon VS 2026-08: EIA-860M 169 GW (AC, installaties vanaf 1 MW), Ember 301 GW (DC, inclusief kleinschalig); verhouding 1.78    Afwijking verklaard
+     C15               Betekenis statuscodes netcongestie                                                                                       aanname RAGKind-volgorde; nog een postcode op de kaart opzoeken                   Open
+     C16                     Voorlopige cijfers zichtbaar                                                                                                     vlag Voorlopig aanwezig en 2025 overal gemarkeerd               Geslaagd
+     C17            WACC per regio tegen een externe bron eigen WACC hoger dan IEA 2021 behalve China; LCOE met IEA-WACC Nederland 62, Europa 45, VS 56, China 31, India 39 EUR/MWh; 2021 was een lagerentejaar    Afwijking verklaard
+     C18   Marginale emissiefactor tegen een externe bron                                                                     0,40 ligt in de band 0.349-0.455 (RVO 56,2 kg/GJ bij 50-58% rendement; CBS 0,455)               Geslaagd
 
-Status: Geslaagd 4, Open 3, Afwijking verklaard 3, Geslaagd met beperking 2
+Status: Geslaagd 6, Afwijking verklaard 5, Open 4, Geslaagd met beperking 2, Afwijking open 1
 
                                                              Risico  Kans  Impact                                   Maatregel Dashboards  Score
                               Gemiddelde of marginale emissiefactor     3       3                       beide varianten tonen   5, 7, 14      9
@@ -21,8 +27,12 @@ Segmentgrenzen zijn een keuze; 16-23 zones per jaar zijn grensgeval     3       
                  aFRR-capaciteitsprijs: twee ijkpunten (2022, 2026)     3       2                           tijdreeks ophalen       1, 6      6
                                       LCOE alleen voor vijf regio's     3       2 noord/zuid-aanname in subtitel; bandbreedte  5, 14, 15      6
                                            WACC voor Afrika onzeker     3       2                              als band tonen         15      6
+                          Statuscodes netcongestie verkeerd gelezen     2       3  een postcode op de kaart controleren (C15)      8, 13      6
+                     AC en DC door elkaar (EIA tegenover Ember/CBS)     3       2               eenheid in elke as en tooltip      4, 10      6
+                     Vermeden CO2 (CBS) gelezen als emissiereductie     2       3 apart tonen, niet verrekenen (GHG Protocol)   5, 7, 14      6
                                      Ember herziet cijfers achteraf     2       2                    downloaddatum vastleggen       alle      4
                 Paneelprijs is een exportwaarde, geen fabrieksprijs     2       2             leersnelheid met interval tonen          4      4
                   Grensstromen: teken en dekking niet gecontroleerd     2       2                     eerst controleren (C10)      9, 13      4
+                      Zonnestroom NL: CBS en Ember verschillen ~10%     2       2            bron per grafiek vermelden (C13)    1, 2, 8      4
                       2026 is een onvolledig jaar (tot 15 november)     3       1                     in elke titel vermelden       alle      3
                       Laadprofiel elektrische auto's is een aanname     3       1                       als scenario markeren         13      3

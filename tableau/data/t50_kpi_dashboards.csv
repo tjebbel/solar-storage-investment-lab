@@ -1,0 +1,17 @@
+Dashboard,Volgorde,KPI,Waarde,Tekst,Vergelijking,Referentie,Richting
+2,1,Maanden kosten gedekt,6.0,6 van 11,2025: 5 van 12,"LCOE 2025: 67,39 EUR/MWh",goed
+2,2,Capture rate zon NL,0.587,0.59,2025: 0.61,EU-mediaan 0.61,slecht
+2,3,Gemiddelde prijs NL,121.035,121 EUR/MWh,2025: 87,EU-mediaan 120,neutraal
+2,4,Prijssignaal laatste maand,5.397287831901762,Schok (z = 5.4),maand 2026-11,27 van 37 zones Schok,slecht
+3,1,Wereld: kern tegen zon,2805.03,"2,805 tegen 2,807 TWh",2015 zon: 256 TWh,"Ember, 2025",neutraal
+3,2,Europa: kern tegen zon,996.413,996 tegen 444 TWh,"2015 kern: 1,163 TWh","Ember, 2025",neutraal
+3,3,Marktwaarde kern tegen zon,1.0253818210872776,1.03 tegen 0.61,capture rate 2025,"1,00 = gemiddeld uur",neutraal
+3,4,Landen uitbouw tegen afbouw,11.0,"11 uitbouw, 9 afbouw of gestopt","1 herstart, 12 stabiel",regel: >=10% en 2 TWh,neutraal
+4,1,Leersnelheid,0.3501,35% per verdubbeling,95%: 21%-46%,literatuur ca. 20-25%,goed
+4,2,Paneelprijs,0.0953988479227049,0.095 USD/W,2024: 0.118 (-19%),exportwaarde China,goed
+4,3,Sterren 2025,4.0,"BGR, LTU, POL, ROU","2022: HUN, LTU, NLD",groei > 30%/jaar,neutraal
+4,4,Nederland,,Hond,2022: Ster,"verzadiging, netcongestie",slecht
+7,1,Controles geslaagd,8.0,8 van 18,18-11: 6 van 12,doel: alle 18,goed
+7,2,Nog open,5.0,5,"C03, C04, C10, C13, C15",doel: 0 voor publicatie,slecht
+7,3,Opnieuw berekend bij elke run,8.0,8 van 18,,rest: handmatig vastgelegd,neutraal
+7,4,Grootste risico,9.0,score 9: Gemiddelde of marginale emissiefactor,beide varianten tonen,"kans x impact, max 9",slecht

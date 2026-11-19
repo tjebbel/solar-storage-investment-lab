@@ -1,0 +1,8 @@
+KPI's Nederland 2025 (tegen 2024, EU-mediaan):
+  Batterij-omzet: 6.1e+04 ▲ (vorig jaar 5.27e+04; EU-mediaan 5.27e+04; boven EU-mediaan)
+  Capture rate zon: 0.615 ▲ (vorig jaar 0.603; EU-mediaan 0.615; op EU-mediaan)
+  Gemiddelde prijs: 86.8 ▲ (vorig jaar 77.3; EU-mediaan 85.7; boven EU-mediaan)
+  Negatieve uren: 584 ▲ (vorig jaar 458; EU-mediaan 265; boven EU-mediaan)
+  Dagspreiding: 124 ▲ (vorig jaar 114; EU-mediaan 111; boven EU-mediaan)
+Rangorde capture rate 2025: top 5 FI, IT-North, IT-Centre-North, NO2, NO1; bodem 5 PT, NO4, DE-LU, BE, AT; NL rang 19 van 37
+Prijsstijging 2026 top 10: NO3, NO5, NO1, NO2, IT-North, IT-Sicily, IT-Centre-North, AT, HU, SE4, Overige 18 (gemiddeld)

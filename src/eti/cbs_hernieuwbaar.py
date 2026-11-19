@@ -25,7 +25,7 @@ WACC_EIGEN = {"Nederland": ("Europa", 0.05), "Europa (Spanje)": ("Europa", 0.055
 
 
 def lees(tabel):
-    d = pd.read_csv(MAP / f"{tabel}.csv", sep=";", dtype=str, encoding="utf-8-sig")
+    d = pd.read_csv(MAP / f"{tabel}.csv", sep=";", dtype=str, encoding="utf-8-sig", keep_default_na=False)
     d.columns = [c.strip() for c in d.columns]
     per = [c for c in d.columns if c.lower() == "perioden"][0]
     d["Voorlopig"] = d[per].str.contains(r"\*", regex=True)

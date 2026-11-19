@@ -15,6 +15,52 @@ import pandas as pd
 
 from . import signalering_europa
 
+EMBER = "powerbi/data/fact_ember_opwek_jaar.csv"
+EMBER_CAP = "powerbi/data/fact_ember_capaciteit_maand.csv"
+
+
+def live_cbs_ember():
+    s = pd.read_csv("tableau/data/t37_nl_stroom.csv")
+    cbs = s[(s.Bron == "Zonnestroom") & (s.Jaar == 2025)]["Productie GWh"].iloc[0] / 1000
+    o = pd.read_csv(EMBER)
+    e = o[(o["ISO 3 code"] == "NLD") & (o["Electricity source"] == "Solar") & (o.Year == 2025)]["Generation (TWh)"].iloc[0]
+    v = e / cbs - 1
+    return (f"zonnestroom 2025: CBS {cbs:.1f} TWh (voorlopig), Ember {e:.1f} TWh, verschil {v:+.0%}; vermogen sluit wel aan (25,9 GW)",
+            "Geslaagd" if abs(v) < 0.05 else "Afwijking open")
+
+
+def live_eia_ember():
+    v = pd.read_csv("tableau/data/t33_vs_voorraad.csv").set_index("Snapshot")
+    c = pd.read_csv(EMBER_CAP)
+    c = c[(c["ISO 3 Code"] == "USA") & (c.Source == "Solar")]
+    c["Snapshot"] = c.Year.astype(str) + "-" + c.Month.astype(int).map("{:02d}".format)
+    c = c.groupby("Snapshot")["Installed Capacity"].max()
+    m = sorted(set(v.index) & set(c.index))[-1]
+    return (f"zon VS {m}: EIA-860M {v.loc[m, 'Zon GW']:.0f} GW (AC, installaties vanaf 1 MW), Ember {c.loc[m]:.0f} GW "
+            f"(DC, inclusief kleinschalig); verhouding {c.loc[m] / v.loc[m, 'Zon GW']:.2f}", "Afwijking verklaard")
+
+
+def live_voorlopig():
+    fout = []
+    for t in ("t37_nl_stroom", "t38_nl_eindverbruik", "t39_vermeden_co2"):
+        d = pd.read_csv(f"tableau/data/{t}.csv")
+        if "Voorlopig" not in d or not d.loc[d.Jaar == 2025, "Voorlopig"].all():
+            fout.append(t)
+    return ("vlag Voorlopig aanwezig en 2025 overal gemarkeerd" if not fout else "ontbreekt in " + ", ".join(fout)), \
+        ("Geslaagd" if not fout else "Afwijking")
+
+
+def live_toetsen():
+    k = pd.read_csv("tableau/data/t41_toetsen.csv")
+    m = k[k.Toets.str.startswith("Marginale")]["Referentie"]
+    w = k[k.Toets.str.startswith("WACC")]
+    em = (f"0,40 ligt in de band {m.min():.3f}-{m.max():.3f} (RVO 56,2 kg/GJ bij 50-58% rendement; CBS 0,455)",
+          "Geslaagd" if m.min() <= 0.40 <= m.max() else "Afwijking")
+    wa = ("eigen WACC hoger dan IEA 2021 behalve China; LCOE met IEA-WACC " +
+          ", ".join(f"{r.Onderwerp.split(' ')[0]} {r['LCOE bij IEA-WACC']:.0f}" for _, r in w.iterrows()) +
+          " EUR/MWh; 2021 was een lagerentejaar", "Afwijking verklaard")
+    return em, wa
+
 
 def live_dax():
     t2 = pd.read_csv("tableau/data/t2_land_maand.csv")
@@ -42,7 +88,11 @@ def live_tests():
 def controles(tests=False):
     dax, dax_s = live_dax()
     br, br_s = live_bronnen()
-    ts, ts_s = live_tests() if tests else ("209 tests, 28 overgeslagen (18-11-2026)", "Geslaagd")
+    ts, ts_s = live_tests() if tests else ("224 tests, 28 overgeslagen (19-11-2026)", "Geslaagd")
+    ce, ce_s = live_cbs_ember()
+    ee, ee_s = live_eia_ember()
+    vl, vl_s = live_voorlopig()
+    (em, em_s), (wa, wa_s) = live_toetsen()
     r = [
         ("C01", "Berekening", "Zelfde uitkomst in twee SQL-dialecten", "SQLite (Python)", "SQL Server 2022 (T-SQL)",
          "stappen 00-05 gelijk in aantallen en waarden", "Geslaagd", "reports/analyse/08_vervolg_18nov.md; log_tsql.txt", "nee"),
@@ -70,6 +120,19 @@ def controles(tests=False):
          "eti.overheden", "nee"),
         ("C12", "Rapportage", "Gepubliceerde cijfers gelijk aan de bron", "Tableau Public, dashboard 1", "t1-t5",
          "visueel gecontroleerd op 18-11 (kaart 2025: 0,50-0,89; referentielijn 280)", "Geslaagd", "sessie 18-11", "nee"),
+        ("C13", "Bronnen", "Zonnestroom NL in twee bronnen", "CBS 82610NED", "Ember jaarcijfers", ce, ce_s,
+         "berekend bij deze run", "ja"),
+        ("C14", "Bronnen", "Zonvermogen VS in twee bronnen", "EIA-860M (t33)", "Ember maandcapaciteit", ee, ee_s,
+         "berekend bij deze run", "ja"),
+        ("C15", "Gegevenskwaliteit", "Betekenis statuscodes netcongestie", "congestie_pc6 (codes 0-3)",
+         "legenda capaciteitskaart Netbeheer Nederland", "aanname RAGKind-volgorde; nog een postcode op de kaart opzoeken",
+         "Open", "eti.netcongestie", "nee"),
+        ("C16", "Rapportage", "Voorlopige cijfers zichtbaar", "CBS-tabellen t37-t39", "CBS-markering **", vl, vl_s,
+         "berekend bij deze run", "ja"),
+        ("C17", "Aannames", "WACC per regio tegen een externe bron", "eigen WACC (t27)", "IEA Cost of Capital Observatory",
+         wa, wa_s, "t41", "ja"),
+        ("C18", "Aannames", "Marginale emissiefactor tegen een externe bron", "0,40 t/MWh (t13)", "RVO-emissiefactor, CBS",
+         em, em_s, "t41", "ja"),
     ]
     return pd.DataFrame(r, columns=["Controle", "Domein", "Doel", "Kant A", "Kant B", "Uitkomst", "Status", "Bron",
                                     "Opnieuw berekend"])
@@ -88,6 +151,10 @@ def risico():
         ("Laadprofiel elektrische auto's is een aanname", 3, 1, "als scenario markeren", "13"),
         ("WACC voor Afrika onzeker", 3, 2, "als band tonen", "15"),
         ("Grensstromen: teken en dekking niet gecontroleerd", 2, 2, "eerst controleren (C10)", "9, 13"),
+        ("Statuscodes netcongestie verkeerd gelezen", 2, 3, "een postcode op de kaart controleren (C15)", "8, 13"),
+        ("AC en DC door elkaar (EIA tegenover Ember/CBS)", 3, 2, "eenheid in elke as en tooltip", "4, 10"),
+        ("Vermeden CO2 (CBS) gelezen als emissiereductie", 2, 3, "apart tonen, niet verrekenen (GHG Protocol)", "5, 7, 14"),
+        ("Zonnestroom NL: CBS en Ember verschillen ~10%", 2, 2, "bron per grafiek vermelden (C13)", "1, 2, 8"),
     ]
     t = pd.DataFrame(r, columns=["Risico", "Kans", "Impact", "Maatregel", "Dashboards"])
     t["Score"] = t["Kans"] * t["Impact"]
