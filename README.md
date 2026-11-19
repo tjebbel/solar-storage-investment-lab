@@ -8,7 +8,48 @@ investors, banks and climate funds ask every day.
 
 ![Key results](reports/figures/hero.png)
 
-## Key findings
+## Findings from real market data (2019 to 15 November 2026)
+
+*37 European bidding zones (Energy-Charts, Ember, ENTSO-E), CBS, EIA-860M and the Dutch grid capacity map. Every number
+is reproduced by `bash run_analyse.sh` and checked in the control matrix (`tableau/data/t15_controles.csv`, 18 controls).*
+
+* **Dutch solar is worth 38% less than the average hour.** Capture rate 0.62 in 2025 (rank 19 of 37 zones; EU median 0.62),
+  down from 0.94 in 2019. Across Europe the capture rate falls about 1.1 points per percentage point of solar share.
+* **That is good news for batteries.** 584 negative-price hours in the Netherlands in 2025 (EU median 265), battery revenue
+  EUR 61k/MW (EU median EUR 53k). A battery that stacks day-ahead and reserve markets clears 8% up to EUR 586/kWh capex;
+  day-ahead alone with grid charges only up to about EUR 100/kWh (market price EUR 280/kWh).
+* **2026 price rise: three quarters is gas.** Decomposition per zone and month, 2019-2025 model.
+* **Panels get 35% cheaper per doubling of world capacity** (95%: 21-46%). The rate holds without the crisis years and
+  without the 2023-24 overcapacity.
+* **The grid is the bottleneck.** 56% of Dutch postcodes have a shortage of offtake capacity; Dutch solar capacity grew
+  only 4.8% in 2025 (CBS). In the US, utility-scale batteries reached 56 GW / 154 GWh (EIA-860M, September 2026).
+* **Nuclear and solar each produced about 2,800 TWh worldwide in 2025.** Matching US nuclear output would take about
+  427 GW of solar: one GW of nuclear is not one GW of solar.
+
+## Dashboard series
+
+| # | Dashboard | Lens | Status |
+|---|---|---|---|
+| 1 | [First findings](https://public.tableau.com/app/profile/tjebbe.lodeizen/viz/NL_solar/Eerstebevindingen) | investor | published; redesign 19 Nov |
+| 2 | Signals Netherlands: does solar cover its cost? | analyst | data ready |
+| 3 | Nuclear, solar and wind: Europe and the world | policy, investor | data ready |
+| 4 | Experience curve and portfolio | BCG | data ready |
+| 5 | CO2 abatement cost curve | McKinsey | data ready |
+| 6 | Profit pool along the value chain | Bain | planned |
+| 7 | Control matrix and risk map | Big Four | data ready |
+| 8 | Netherlands: end of net metering, grid congestion | government | data ready |
+| 9 | European Union: price convergence | EU | data ready |
+| 10 | United States: tax credits and the build-out | US | data ready |
+| 11 | China: market prices and the build wave | China | data ready |
+| 12 | Stranded assets per climate scenario | central banks | waiting for NGFS data |
+| 13 | Grid operator: flexibility and EVs | TSO/DSO | data ready |
+| 14 | Impact investor: return against avoided CO2 | climate fund | data ready |
+| 15 | Global South: why the cost of capital matters | development | data ready |
+| 16-24 | Duck-curve atlas, PPA or merchant, storage saturation, Hirth replication, hourly carbon-free, commodities, workforce, who benefits, hydrogen | follow-up | planned |
+
+The research agenda behind the series is in the reference book (`reports/Naslagwerk_Zon_Opslag_Duurzame_Financiering.pdf`).
+
+## Key findings from the investment model
 
 *Synthetic price year (runs offline); project assumptions from the Dutch PBL SCE 2025 advice for ground-mounted PV
 (740 full-load hours, EUR 449/kWp). Rerun with live Dutch data via `make run-live YEAR=2025`. Every figure is in
@@ -56,7 +97,7 @@ git clone https://github.com/tjebbel/solar-storage-investment-lab.git
 cd solar-storage-investment-lab
 python3 -m venv .venv && source .venv/bin/activate
 make setup             # matplotlib, pandas, numpy
-make test              # 191 tests: unit, live-connector fixtures, exercises, end-to-end, analysis packs
+make test              # 225+ tests: unit, live-connector fixtures, exercises, end-to-end, analysis packs
 make run               # synthetic year, offline → reports/ and reports/figures/
 make run-live YEAR=2025   # real Dutch prices and generation from the Energy-Charts API
 ```
