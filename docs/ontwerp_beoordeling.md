@@ -32,3 +32,7 @@ De bouwregels die hieruit volgen staan in `tableau/BOUWGIDS_TABLEAU.md`, sectie 
 |---|---|---|---|---|---|---|
 | 1 Eerste bevindingen (versie 18-11) | 19-11-2026 | 2 | 4 | 3 | 3 | 12 |
 | 1 Eerste bevindingen (live in browser, versie 18-11) | 19-11-2026 | 2 | 3 | 2 | 3 | 10 |
+| 1 Eerste bevindingen (live, versie 19-11 middag; NL-link toont deels Engelse werkmap) | 19-11-2026 | 3 | 3 | 2 | 3 | 11 |
+| 1 Eerste bevindingen (live, 19-11 16:45; weer volledig Nederlands) | 19-11-2026 | 3 | 3 | 3 | 3 | 12 |
+| 1 Eerste bevindingen (live, 19-11 17:10; t4b en kaartpalet doorgevoerd) | 19-11-2026 | 3 | 4 | 3 | 3 | 13 |
+| 1 Eerste bevindingen (definitief, 19-11 17:11; kaartkleur omgedraaid) | 19-11-2026 | 3 | 4 | 3 | 3 | 13 |

@@ -136,6 +136,12 @@ def main(data=DATA, map_=MAP):
     return d, v
 
 
+EN_KOLOM = {"Avg price": "Gem prijs", "Solar capture price": "Capture-prijs zon", "Solar margin": "Marge zon",
+            "Solar status": "Status zon", "Price z-score": "Prijs z-score", "Price signal": "Prijs signaal"}
+EN_WAARDE = {"Costs not covered": "Kosten niet gedekt", "Tight": "Krap", "Covered": "Gedekt",
+             "Shock": "Schok", "Watch": "Let op", "Normal": "Gewoon"}
+
+
 def vergelijk(export, verwacht_pad=os.path.join(MAP, "maten_verwacht.csv"), marge=0.011):
     """Vergelijkt de uitkomst van de toetsvraag in Power BI of Fabric (geexporteerd als csv) met maten_verwacht.csv.
     Kolomnamen als 'fact_land_maand[maand]' of '[Gem prijs]' worden teruggebracht tot 'maand' en 'Gem prijs'.
@@ -147,6 +153,10 @@ def vergelijk(export, verwacht_pad=os.path.join(MAP, "maten_verwacht.csv"), marg
     else:
         e = pd.read_csv(export, sep=None, engine="python")                       # komma, puntkomma of tab (plakken uit Tableau)
     e.columns = [re.sub(r"^.*\[(.*)\]$", r"\1", str(c)).strip() for c in e.columns]
+    e = e.rename(columns={k: v for k, v in EN_KOLOM.items() if k in e.columns})   # Engelse werkmap
+    for k in ("Status zon", "Prijs signaal"):
+        if k in e.columns:
+            e[k] = e[k].replace(EN_WAARDE)
     if "maand" not in e.columns:                                                 # Tableau: 'Month of Maand' met 'January 2026' of 'januari 2026'
         kol = next((c for c in e.columns if "maand" in c.lower() or "month" in c.lower()), e.columns[0])
         nl = {"januari": "January", "februari": "February", "maart": "March", "mei": "May", "juni": "June", "juli": "July",

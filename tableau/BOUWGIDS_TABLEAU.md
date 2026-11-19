@@ -333,6 +333,40 @@ Dit zijn dezelfde rekenregels als in `powerbi/maten_analyse.dax`, met dezelfde v
 11. **Context-KPI**: tekstvak `Zon leverde in 2025 21% van de Nederlandse stroom (CBS, voorlopig; Ember: 28,5 TWh tegen CBS 25,8 TWh).`
 12. **Label controleren**: de marge rekent met de **capture-prijs**, niet met de gemiddelde prijs. Zet dat letterlijk in de as-titel.
 
+#### 10-EN. Dashboard 2 direct in het Engels bouwen (vanaf 19 november: alle nieuwe dashboards alleen in het Engels)
+
+Werk in `tableau/Solar and storage in Europe.twbx` (landinstelling **English (US)**, punt als decimaalteken).
+Teksten uit `tableau/teksten_en.md`, sectie "Dashboard 2 Signals Netherlands".
+
+0. **Bronnen** uit `tableau/data_en/`: t2, t9, t10, t43, t50 (elk *Extraheren*). Hernoem de velden die je gebruikt met `tableau/veldnamen_en.csv`.
+1. **Parameter** `LCOE` (Float, 67.39).
+2. **Berekende velden, met Engelse namen** (de toets herkent deze namen en waarden):
+
+   | Field | Formula |
+   |---|---|
+   | `Avg price` | `AVG([Gemiddelde prijs])` |
+   | `Solar capture price` | `AVG([Gemiddelde prijs]) * AVG([Capture rate zon])` |
+   | `Solar margin` | `[Solar capture price] - [LCOE]` |
+   | `Solar status` | `IF ISNULL([Solar margin]) THEN NULL ELSEIF [Solar margin] < 0 THEN "Costs not covered" ELSEIF [Solar margin] < 5 THEN "Tight" ELSE "Covered" END` |
+   | `Price z-score` | `(AVG([Gemiddelde prijs]) - WINDOW_AVG(AVG([Gemiddelde prijs]), -12, -1)) / WINDOW_STDEV(AVG([Gemiddelde prijs]), -12, -1)` |
+   | `Price signal` | `IF ISNULL([Price z-score]) THEN NULL ELSEIF ABS([Price z-score]) >= 3 THEN "Shock" ELSEIF ABS([Price z-score]) >= 2 THEN "Watch" ELSE "Normal" END` |
+   | `Show year` | `LOOKUP(MIN(YEAR([Maand])), 0)` |
+
+   (Gebruik in de formules de oorspronkelijke kolomnaam als je de velden nog niet hebt hernoemd; na hernoemen past Tableau de formule zelf aan.)
+3. **Werkblad `Signals`**: filter Zone name = Netherlands, `Show year` = 2026 (bereik), Month als exacte maand discreet op Rows,
+   `Solar status` en `Price signal` discreet op Rows, Measure Values met de vier getallen. Tabelberekening: *Specific Dimensions* > alleen Month.
+   Controle: January 2026 = 107.66 · 107.51 · 40.12 · Covered · 1.11 · Normal.
+4. **Toets**: Worksheet > Copy > Crosstab > TextEdit (platte tekst) > `resultaten/tableau_signalering_2026_en.txt`, dan
+   `PYTHONPATH=src .venv/bin/python -m eti.powerbi_toets vergelijk resultaten/tableau_signalering_2026_en.txt` → "66 van 66".
+5. **Werkblad `Shocks`** (t9): heatmap Zone name × Month, kleur `Prijs signaal`: Normal lichtgrijs, Watch oranje #E39A2D, Shock magenta #C4457A.
+6. **Werkblad `Coverage`** (t10): Year × SUM(Maanden), kleur Status zon: Covered teal #1F9E89, Tight oranje, Costs not covered magenta. Scenario als enkele-waardefilter.
+7. **Werkblad `Cannibalisation`** (t43): Solar share % × Solar capture rate, trendlijn lineair, alleen NL gelabeld, rest grijs.
+8. **KPI-rij** uit t50 met filter Dashboard = 2, palet *ETI richting* (good teal, bad magenta, neutral grijs), legenda verborgen.
+9. **Dashboard `Signals Netherlands`**, vaste grootte 1200 × 1600: titel en subtitel; KPI-rij; Signals (60%) | Coverage (40%);
+   Shocks volle breedte; Cannibalisation + tekstvak met parameteruitleg; onderrand "What we don't know for sure" en "What comes next".
+   Legenda's direct onder hun grafiek, geen legendakolom rechts.
+10. **Zelftoets ≥ 16/20**, dan *Server > Tableau Public > Save* als **`Solar and storage in Europe`** (tab "Signals Netherlands").
+
 ### 11. Publiceren op Tableau Public (15 minuten)
 
 1. *File* > *Save to Tableau Public As...* > log in > naam: `Zon en opslag in Europa - eerste bevindingen`.
