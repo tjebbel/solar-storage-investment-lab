@@ -75,3 +75,13 @@ Titles, KPI checks and chart plans: `tableau/STAPPENPLAN_EN.md`. KPI tiles: t50 
 - **13 Grid operator**: `Flexibility is worth money: 584 negative hours and imbalance spikes above 500 EUR/MWh` · subtitle `Netherlands, 2025; EV demand is an assumption based on IEA fleet data.`
 - **14 Impact investor**: `Where a euro buys the most CO2: six times more in India than in the Netherlands` · subtitle `Solar, tonnes of CO2 avoided per million EUR invested per year. Avoided emissions are not an emission reduction.`
 - **15 Global South**: `Twice the sun, but capital at 12%: India's solar would be 38% cheaper at Dutch financing costs` · subtitle `PVGIS 11-year averages; WACC from the IEA Cost of Capital Observatory.`
+
+## Dashboards 6 and 16-20 (English only, 20 November)
+Full step plans: `docs/PLAN_WEEK_EN_LINKEDIN.md` §3. KPI tiles: t50 with filter Dashboard = 6, 16, 17, 18, 19 or 20.
+
+- **6 Margin along the chain**: `In 2025 the solar chain lost money everywhere except in inverters, storage and protected markets` · subtitle `Net margin 2025 of ten listed manufacturers. IEA (Renewables 2026): more than 90% of major Chinese makers report losses; outside China median net margins are 10-15%.` · note `First Solar and Enphase include US tax credits (45X). 6.85 CNY per USD.`
+- **16 Duck curve**: `The duck gets deeper: midday prices fell further below the daily average in all 37 zones` · subtitle `Hourly day-ahead prices in local time, Energy-Charts. Dip = day average minus 11-15h. 2026 to 15 November.`
+- **17 PPA or merchant**: `Was a solar PPA worth it in 2025? Yes in Germany, no in Italy and Spain` · subtitle `LevelTen P25 solar PPA offers (Q4 2025) against our solar capture price 2025. A PPA is a 10-year price; the capture price is one year.` · box `A pay-as-produced solar PPA pays a fixed price for every MWh produced, so the buyer takes the cannibalisation risk. A hybrid PPA adds a battery and delivers in the evening: +24% (Q2 2026).`
+- **18 Storage saturation**: `No saturation yet: battery arbitrage revenue keeps rising` · subtitle `2-hour battery, one cycle a day, 88% round-trip, perfect foresight (upper bound). Realistic Dutch value 2025: 61k EUR/MW.`
+- **19 Hirth replication**: `Hirth was right: the more solar, the less each MWh is worth` · subtitle `Monthly solar capture rate against monthly solar share, 25 zones, 2019-2026. Slope -0.020 per percentage point (yearly data: -0.011).`
+- **20 Hourly carbon-free**: `Green on paper, grey at night: carbon-free share by hour` · subtitle `Nuclear, hydro, wind, solar and geothermal; biomass excluded. 22 zones with reliable solar data, 2025.`

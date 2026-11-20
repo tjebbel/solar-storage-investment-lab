@@ -11,7 +11,7 @@ investors, banks and climate funds ask every day.
 ## Findings from real market data (2019 to 15 November 2026)
 
 *37 European bidding zones (Energy-Charts, Ember, ENTSO-E), CBS, EIA-860M and the Dutch grid capacity map. Every number
-is reproduced by `bash run_analyse.sh` and checked in the control matrix (`tableau/data/t15_controles.csv`, 18 controls).*
+is reproduced by `bash run_analyse.sh` and checked in the control matrix (`tableau/data/t15_controles.csv`, 21 controls: 10 passed, 6 still open on 19 November 2026).*
 
 * **Dutch solar is worth 38% less than the average hour.** Capture rate 0.62 in 2025 (rank 19 of 37 zones; EU median 0.62),
   down from 0.94 in 2019. Across Europe the capture rate falls about 1.1 points per percentage point of solar share.
@@ -42,7 +42,7 @@ Spanish capture rate (Synertics 0.97 vs our 0.55) are open deviations.
 | 3 | Nuclear, solar and wind: Europe and the world | policy, investor | data ready |
 | 4 | Experience curve and portfolio | BCG | data ready |
 | 5 | CO2 abatement cost curve | McKinsey | data ready |
-| 6 | Profit pool along the value chain | Bain | planned |
+| 6 | Profit pool along the value chain | Bain | data ready (10 manufacturers, 2025 results) |
 | 7 | Control matrix and risk map | Big Four | data ready |
 | 8 | Netherlands: end of net metering, grid congestion | government | data ready |
 | 9 | European Union: price convergence | EU | data ready |
@@ -52,7 +52,12 @@ Spanish capture rate (Synertics 0.97 vs our 0.55) are open deviations.
 | 13 | Grid operator: flexibility and EVs | TSO/DSO | data ready |
 | 14 | Impact investor: return against avoided CO2 | climate fund | data ready |
 | 15 | Global South: why the cost of capital matters | development | data ready |
-| 16-24 | Duck-curve atlas, PPA or merchant, storage saturation, Hirth replication, hourly carbon-free, commodities, workforce, who benefits, hydrogen | follow-up | planned |
+| 16 | Duck-curve atlas | trader | data ready (hourly, 37 zones) |
+| 17 | PPA or merchant | developer, corporate buyer | data ready (LevelTen, Pexapark) |
+| 18 | Storage saturation | battery investor | data ready (hourly arbitrage) |
+| 19 | Hirth replication | academic | data ready (monthly, 25 zones) |
+| 20 | Hourly carbon-free power | corporate buyer | data ready (22 zones with reliable data) |
+| 21-24 | Commodities, workforce, who benefits, hydrogen | follow-up | sources identified (`tableau/STAPPENPLAN_EN.md`) |
 
 The research agenda behind the series is in the reference book (`reports/Naslagwerk_Zon_Opslag_Duurzame_Financiering.pdf`).
 

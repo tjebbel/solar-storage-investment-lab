@@ -1,0 +1,4 @@
+Country,Year,PPA P25 Q4 2025 EUR/MWh,Solar capture price EUR/MWh,Average price EUR/MWh,Solar capture rate,PPA minus capture price,Reading
+Germany,2025,49.77,46.0653,89.3281,0.515687,3.70466,PPA pays more than the market
+Spain,2025,32.5,36.0958,65.2849,0.552896,-3.59576,market paid more than the PPA
+Italy,2025,60.67,94.7699,115.934,0.817397,-34.0999,market paid more than the PPA

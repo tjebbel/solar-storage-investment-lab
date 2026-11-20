@@ -41,3 +41,7 @@ De bouwregels die hieruit volgen staan in `tableau/BOUWGIDS_TABLEAU.md`, sectie 
 | 1 First findings (EN, definitief, 19-11 18:33; gas sienna, Other 18) | 19-11-2026 | 3 | 3 | 3 | 3 | 12 |
 | 2 Signals Netherlands (EN, live, 19-11 23:04; zonder onderrand) | 19-11-2026 | 4 | 4 | 4 | 3 | 15 |
 | 2 Signals Netherlands (EN, live, 19-11 23:09; onderrand en LCOE-notatie) | 19-11-2026 | 4 | 4 | 4 | 4 | 16 |
+
+**Compact formaat (vanaf 21 november).** Een compact dashboard (KPI-rij, hoofdgrafiek, één ondersteunende grafiek, onderrand)
+wordt met dezelfde vier categorieën beoordeeld. Bruikbaarheid haalt een 4 als de onderrand en de knopinfo de context dragen
+die de weggelaten grafieken anders gaven. Doel blijft 16/20 vóór publicatie.

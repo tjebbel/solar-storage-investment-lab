@@ -438,10 +438,10 @@ twee keer zoveel als zon, maar kernstroom houdt zijn marktwaarde (capture rate 1
 
 ### 14. Dashboard 7 "Controlematrix en risicokaart" (vrijdag 20 november, ongeveer 2 uur)
 
-**Ontwerpnorm voor dit dashboard** (eerst doen, zie bovenaan): KPI-rij uit t50 met filter `Dashboard` = 7; paletten uit `Preferences.tps`; onderrand met "Wat we niet zeker weten" en "Wat volgt": C03 (Tableau-toets vandaag), C04 (Power BI), C10 (grensstromen), C13 (CBS tegen Ember), C15 (statuscodes). Statuskleuren: Geslaagd #1F9E89, met beperking #8CCFC3, Afwijking verklaard #E39A2D, Afwijking open #C4457A, Open grijs. KPI-controle: `9 van 21` geslaagd, 7 open. Nieuw: werkblad "Externe validatie" (t52): tabel met Onderwerp, Ons project, Extern, Oordeel (kleur: sluit aan teal, afwijking open magenta), Bron in de knopinfo. Zelftoets ≥ 16/20 vóór publiceren.
+**Ontwerpnorm voor dit dashboard** (eerst doen, zie bovenaan): KPI-rij uit t50 met filter `Dashboard` = 7; paletten uit `Preferences.tps`; onderrand met "Wat we niet zeker weten" en "Wat volgt": C03 (Tableau-toets vandaag), C04 (Power BI), C10 (grensstromen), C13 (CBS tegen Ember), C15 (statuscodes). Statuskleuren: Geslaagd #1F9E89, met beperking #8CCFC3, Afwijking verklaard #E39A2D, Afwijking open #C4457A, Open grijs. KPI-controle (19 november, na C03 en C07): `10 of 21` geslaagd, 6 open. Bouw dit dashboard in het Engels volgens `tableau/STAPPENPLAN_EN.md`. Nieuw: werkblad "Externe validatie" (t52): tabel met Onderwerp, Ons project, Extern, Oordeel (kleur: sluit aan teal, afwijking open magenta), Bron in de knopinfo. Zelftoets ≥ 16/20 vóór publiceren.
 
-**Boodschap.** Achttien controles (bijgewerkt 19 november): zes geslaagd, twee geslaagd met beperking, vijf afwijkingen die
-verklaard zijn, één open afwijking (CBS en Ember verschillen 10% in zonnestroom) en vier die nog open staan. Het grootste risico is de keuze van de emissiefactor. Dit is een beoordeling van de gereedheid, geen
+**Boodschap.** Eenentwintig controles (bijgewerkt 19 november, avond): acht geslaagd, twee geslaagd met beperking, vijf afwijkingen die
+verklaard zijn, drie open afwijkingen (C13 CBS tegen Ember, C19 capture rate Spanje, C20 wachtrij TenneT) en drie die nog open staan (C04, C10, C15). Het grootste risico is de keuze van de emissiefactor. Dit is een beoordeling van de gereedheid, geen
 accountantsverklaring.
 
 **Voorbereiden.** Laat je toetsuitkomst van donderdag aan mij weten. Ik zet controle C03 daarna op *Geslaagd* en draai
@@ -456,7 +456,7 @@ accountantsverklaring.
    (licht naar rood), `CNT(Risico)` als label. Knopinfo met `Risico` en `Maatregel`. Zet ernaast een staafgrafiek van
    `Score` per `Risico`, gesorteerd, met `Maatregel` in de knopinfo. **Controle:** bovenaan staat *Gemiddelde of marginale
    emissiefactor*, met score 9.
-5. **Dashboard** 1200 × 1150: titel `Kan je op deze cijfers vertrouwen? 21 controles, 7 nog open`; subtitel
+5. **Dashboard** 1200 × 1150: titel `Kan je op deze cijfers vertrouwen? 21 controles, 6 nog open`; subtitel
    `In de traditie van de Big Four (COSO, ISAE 3000). Een readiness-beoordeling, geen accountantsverklaring.`
    Rij 1: gegevensstroom. Rij 2: controlematrix (65%) en status (35%). Rij 3: risicokaart en risicostaaf.
 6. **Publiceren en GitHub**: afbeelding `docs/img/tableau_controles.png`.

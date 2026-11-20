@@ -86,3 +86,39 @@ with where it lives in the code.
   originates from the exchange and may carry the original provider's terms: fetch at runtime, publish only
   your own aggregates and charts, with attribution.
 * ENTSO-E Transparency Platform: free with a personal token (`ENTSOE_TOKEN`).
+
+## 11. Added 20 November 2026 (dashboards 6 and 16-20)
+
+**Duck curve and midday dip.** When a lot of solar produces at the same time, the midday price falls and the evening price
+(when the sun is gone and gas sets the price) stays high. We measure the *midday dip* as the day-average price minus the
+average 11:00-15:00 price. Example: the Netherlands, 2025: day average 87, midday 48, so the dip is 39 EUR/MWh; the evening
+price (126) is 2.6 times the midday price. In 2023 the dip was 25. All 37 zones had a deeper dip in 2025 than in 2023.
+
+**Battery arbitrage with perfect foresight.** A 2-hour battery charges in the two cheapest hours of the day and discharges in
+the two most expensive ones (88% round-trip efficiency, one cycle per day). Because it "knows" tomorrow's prices, this is an
+*upper bound*: real traders earn less. Our realistic model (t1) gives 61k EUR/MW for the Netherlands in 2025, the upper bound
+gives 71k. The gap (about 15%) is the price of forecast errors.
+
+**Hirth replication.** Hirth (2013) showed that the market value of solar falls as its share grows. We regress the monthly
+solar capture rate on the monthly solar share of generation, per zone. A slope of -0.020 means: every extra percentage point of
+solar lowers the capture rate by 0.02. Monthly data mixes in the season (more sun and lower prices in summer), so the slope is
+steeper than the yearly estimate (-0.011 in t43). Both are shown, with the reason.
+
+**Coverage check.** Energy-Charts gets generation from ENTSO-E. For some countries most rooftop solar is missing (the
+Netherlands: 2% of the solar that Ember/OWID reports). Before using solar or carbon-free figures we compare each country with
+OWID; below 60% the zone is left out of those analyses. Price-only analyses (dip, battery) stay.
+
+**Carbon-free share and 24/7 matching.** Carbon-free = nuclear, hydro, wind, solar, geothermal (biomass is left out to stay
+conservative). An *annual* certificate can claim 100% green power even if many hours are fossil; *hourly* (24/7) matching asks
+whether each hour is covered. We show the share of hours below 50% carbon-free: in the median zone 21% in 2025, down from 36%
+in 2019.
+
+**PPA (power purchase agreement).** A long contract (often 10 years) at a fixed price per MWh. *P25* is the 25th percentile of
+offers, i.e. a competitive price. A *pay-as-produced* solar PPA pays for each MWh produced, so the buyer takes over the
+cannibalisation risk; that is why solar PPAs are cheaper than wind or baseload PPAs. A *hybrid* PPA (solar plus battery) was 24%
+more expensive than solar-only in Q2 2026 because it also delivers in the evening.
+
+**Profit pool (Bain).** Where in the value chain is money made? Revenue times margin per segment. In 2025 Chinese polysilicon,
+wafer and module makers lost money (net margins -7% to -32%), while inverter and storage makers (Sungrow 15%, Enphase 12%) and
+a protected US module maker (First Solar 29%, including tax credits) were profitable. Net margin includes one-off impairments;
+gross margin shows the operating picture.

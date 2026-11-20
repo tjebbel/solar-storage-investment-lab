@@ -1,0 +1,17 @@
+Source,Index,Period,Date,Market,Technology,Price EUR/MWh,Derived,Note,URL
+LevelTen,P25 continental index,Q3 2024,2024-09-30,Europe,Solar,63.64,no,base of the LevelTen index (=1.00),https://www.pv-magazine.com/2026/10/29/spain-solar-ppa-prices-fall-to-e30-93-mwh-as-bess-gains-ground/
+LevelTen,P25 continental index,Q3 2025,2025-09-30,Europe,Solar,58.21,no,-2.4% q/q,https://taiyangnews.info/business/levelten-energy-q3-2025-ppa-prices-report
+LevelTen,P25 continental index,Q4 2025,2025-12-31,Europe,Solar,57.44,no,,https://greentechlead.com/renewable-energy/europes-ppa-market-enters-new-investment-cycle-as-companies-hedge-power-prices-and-battery-capacity-heads-for-582-gwh-55093
+LevelTen,P25 continental index,Q1 2026,2026-03-31,Europe,Solar,55.05,no,,https://www.pv-tech.org/european-ppa-prices-fall-0-6-august-solar-cornerstone-renewable-offtake-deals/
+LevelTen,P25 continental index,Q2 2026,2026-06-30,Europe,Solar,54.51,yes,derived: Q3 2026 / 1.004,https://www.pv-tech.org/european-solar-ppa-prices-up-0-4-europe-4-9-us/
+LevelTen,P25 continental index,Q3 2026,2026-09-30,Europe,Solar,54.73,yes,derived: index 0.86 x 63.64,https://www.pv-magazine.com/2026/10/29/spain-solar-ppa-prices-fall-to-e30-93-mwh-as-bess-gains-ground/
+LevelTen,P25 country,Q4 2025,2025-12-31,Germany,Solar,49.77,no,,https://greentechlead.com/renewable-energy/europes-ppa-market-enters-new-investment-cycle-as-companies-hedge-power-prices-and-battery-capacity-heads-for-582-gwh-55093
+LevelTen,P25 country,Q4 2025,2025-12-31,Italy,Solar,60.67,no,,https://greentechlead.com/renewable-energy/europes-ppa-market-enters-new-investment-cycle-as-companies-hedge-power-prices-and-battery-capacity-heads-for-582-gwh-55093
+LevelTen,P25 country,Q4 2025,2025-12-31,Spain,Solar,32.50,no,,https://greentechlead.com/renewable-energy/europes-ppa-market-enters-new-investment-cycle-as-companies-hedge-power-prices-and-battery-capacity-heads-for-582-gwh-55093
+LevelTen,P25 country,Q4 2025,2025-12-31,United Kingdom,Solar,87.36,no,,https://greentechlead.com/renewable-energy/europes-ppa-market-enters-new-investment-cycle-as-companies-hedge-power-prices-and-battery-capacity-heads-for-582-gwh-55093
+LevelTen,P25 country,Q3 2026,2026-09-30,Spain,Solar,30.93,no,,https://www.pv-magazine.com/2026/10/29/spain-solar-ppa-prices-fall-to-e30-93-mwh-as-bess-gains-ground/
+Pexapark,EURO Composite,Apr 2026,2026-04-30,Europe,All technologies,51.80,no,-1.9% m/m,https://www.ess-news.com/2026/05/27/the-european-ppa-market-shifts-toward-storage-as-solar-price-pressure-accelerates-hybrid-contracts/
+Pexapark,EURO Composite,May 2026,2026-05-31,Europe,All technologies,44.90,no,+1.2% m/m reported; check against April,https://www.pv-magazine.com/2026/06/26/european-ppa-prices-rebound-as-hybrids-grow-storage-slows/
+Pexapark,EURO Composite,Jul 2026,2026-07-31,Europe,All technologies,45.01,no,,https://www.pv-tech.org/tag/pexapark/
+Pexapark,EURO Composite,Aug 2026,2026-08-31,Europe,All technologies,46.02,no,,https://www.pv-tech.org/tag/pexapark/
+Pexapark,EURO Composite,Sep 2026,2026-09-30,Europe,All technologies,48.34,no,,https://www.pv-tech.org/pexapark-september-2026-ppa-prices-rise-5-across-europe/

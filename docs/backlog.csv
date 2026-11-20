@@ -12,3 +12,9 @@ Story,Battery arbitrage,"As an investor I want an upper bound for battery arbitr
 Epic,Impact,Avoided emissions done honestly,,esg,
 Story,Hourly avoided emissions,"As an ESG analyst I want avoided CO2 with an hourly factor versus a yearly average so that I avoid overstating impact.",3,esg,Sprint 3
 Story,Power BI report,"As a stakeholder I want a one-page report with KPIs and the capture-rate chart so that I can decide quickly.",5,reporting,Sprint 4
+Story,Hirth with month fixed effects,"As a researcher I want the Hirth slope estimated within the same calendar month across years so that the season does not inflate the slope. Acceptance: slope per zone with and without fixed effects in t56.",3,research,Sprint 5
+Story,Carbon-free including biomass,"As an ESG analyst I want a second carbon-free share that counts biomass so that countries with much biomass are not understated. Acceptance: extra column in t57 and t58.",2,esg,Sprint 5
+Story,PPA versus capture price over years,"As a developer I want the PPA price next to the capture price for 2023, 2024 and 2025 so that one year does not decide the comparison. Acceptance: t62 with three years.",2,markets,Sprint 5
+Story,Dutch rooftop solar profile,"As an analyst I want a Dutch hourly solar profile (CBS/Ember total scaled with irradiance) so that the Netherlands can return to dashboards 19 and 20. Acceptance: coverage above 90% for NL.",5,data,Sprint 5
+Story,New controls C22-C23,"As a reviewer I want controls for the hourly coverage check (C22) and the PPA source conflict (C23) after dashboard 7 is published. Acceptance: two rows in t15, status from code.",2,assurance,Sprint 5
+Story,Value chain beyond manufacturers,"As an investor I want developers, installers and asset owners in the margin chart so that the profit pool covers the whole chain. Acceptance: at least five downstream companies with sources.",3,markets,Sprint 5

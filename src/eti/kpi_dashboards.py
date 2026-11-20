@@ -239,7 +239,98 @@ def dashboard15():
     ]
 
 
-ENGELS = (dashboard5, dashboard7, dashboard8, dashboard9, dashboard10, dashboard11, dashboard13, dashboard14, dashboard15)
+def dashboard6():
+    w = pd.read_csv(D / "t60_value_chain.csv")
+    china = w[w.Group == "China"]; mod = china[china.Segment == "Modules"]
+    verlies = china[china["Net margin %"] < 0]
+    fs = w.set_index("Company").loc["First Solar"]; sg = w.set_index("Company").loc["Sungrow"]
+    return [
+        _e(6, 1, "Chinese manufacturers in loss", len(verlies), f"{len(verlies)} of {len(china)}", "polysilicon, wafers, modules",
+           f"combined net loss {-verlies['Net income USD bn'].sum():.1f} bn USD", "bad"),
+        _e(6, 2, "Module makers, net margin", mod["Net margin %"].mean(), f"{mod['Net margin %'].mean():.0f}%",
+           f"range {mod['Net margin %'].min():.0f}% to {mod['Net margin %'].max():.0f}%", "Trina, JA, Jinko, 2025", "bad"),
+        _e(6, 3, "Inverters and storage", sg["Net margin %"], f"{sg['Net margin %']:.0f}% (Sungrow)", "storage is 42% of revenue",
+           f"Enphase: {w.set_index('Company').loc['Enphase', 'Net margin %']:.0f}%", "good"),
+        _e(6, 4, "Protected market", fs["Net margin %"], f"{fs['Net margin %']:.0f}% (First Solar)", "US tax credits (45X) included",
+           "IEA: 10-15% outside China", "neutral"),
+    ]
+
+
+def dashboard17():
+    p = pd.read_csv(D / "t61_ppa_prices.csv"); m = pd.read_csv(D / "t62_ppa_vs_merchant.csv").set_index("Country")
+    lt = p[p.Index == "P25 continental index"].sort_values("Date"); l, b = lt.iloc[-1], lt.iloc[0]
+    es = p[(p.Market == "Spain")].sort_values("Date").iloc[-1]
+    return [
+        _e(17, 1, "European solar PPA (P25)", l["Price EUR/MWh"], f"{l['Price EUR/MWh']:.0f} EUR/MWh", f"{b.Period}: {b['Price EUR/MWh']:.0f}",
+           f"LevelTen, {l.Period}", "bad"),
+        _e(17, 2, "Spain solar PPA", es["Price EUR/MWh"], f"{es['Price EUR/MWh']:.0f} EUR/MWh", f"{es.Period}", "lowest in Europe", "bad"),
+        _e(17, 3, "Germany: PPA vs market", m.loc["Germany", "PPA minus capture price"], f"{m.loc['Germany', 'PPA minus capture price']:+.0f} EUR/MWh",
+           f"PPA {m.loc['Germany', 'PPA P25 Q4 2025 EUR/MWh']:.0f} vs capture {m.loc['Germany', 'Solar capture price EUR/MWh']:.0f}",
+           "2025; positive = PPA pays more", "good"),
+        _e(17, 4, "Hybrid PPA premium", 24, "+24%", "solar plus storage vs solar only", "LevelTen, Q2 2026", "good"),
+    ]
+
+
+def dashboard16():
+    d = pd.read_csv(D / "t54_duck_depth.csv"); j = 2025; a = d[d.Year == j]; v = d[d.Year == j - 2]
+    top = a.sort_values("Midday dip EUR/MWh", ascending=False).iloc[0]; nl = a.set_index("Zone").loc["NL"]; nlv = v.set_index("Zone").loc["NL"]
+    return [
+        _e(16, 1, "Deepest midday dip", top["Midday dip EUR/MWh"], f"{top['Zone name']}: {top['Midday dip EUR/MWh']:.0f} EUR/MWh",
+           "day average minus 11-15h price", f"{j}", "bad"),
+        _e(16, 2, "Netherlands midday dip", nl["Midday dip EUR/MWh"], f"{nl['Midday dip EUR/MWh']:.0f} EUR/MWh", f"{j-2}: {nlv['Midday dip EUR/MWh']:.0f}",
+           "evening is " + f"{nl['Evening to midday ratio']:.1f}x midday", "bad"),
+        _e(16, 3, "Zones with a deeper dip than 2023", int((a.set_index("Zone")["Midday dip EUR/MWh"] > v.set_index("Zone")["Midday dip EUR/MWh"]).sum()),
+           f"{int((a.set_index('Zone')['Midday dip EUR/MWh'] > v.set_index('Zone')['Midday dip EUR/MWh']).sum())} of {len(a)}", "2025 vs 2023", "Energy-Charts, hourly", "neutral"),
+        _e(16, 4, "Median negative hours", a["Negative hours"].median(), f"{a['Negative hours'].median():.0f} h", f"2023: {v['Negative hours'].median():.0f} h",
+           f"{len(a)} zones, {j}", "bad"),
+    ]
+
+
+def dashboard18():
+    b = pd.read_csv(D / "t55_battery_arbitrage.csv"); j = 2025; a = b[b.Year == j].set_index("Zone"); v = b[b.Year == 2023].set_index("Zone")
+    top = a.sort_values("Revenue per MW", ascending=False).iloc[0]
+    return [
+        _e(18, 1, "Median arbitrage revenue", a["Revenue per MW"].median(), f"{a['Revenue per MW'].median()/1000:.0f}k EUR/MW", f"2023: {v['Revenue per MW'].median()/1000:.0f}k",
+           "2-hour battery, 1 cycle/day, perfect foresight", "neutral"),
+        _e(18, 2, "Best zone", top["Revenue per MW"], f"{top['Zone name']}: {top['Revenue per MW']/1000:.0f}k EUR/MW", f"{j}", "upper bound, no forecast error", "good"),
+        _e(18, 3, "Netherlands", a.loc["NL", "Revenue per MW"], f"{a.loc['NL', 'Revenue per MW']/1000:.0f}k EUR/MW", f"2023: {v.loc['NL', 'Revenue per MW']/1000:.0f}k",
+           "t1 (realistic): 61k", "good"),
+        _e(18, 4, "Days worth more than 100 EUR/MW", a["Days with margin above 100"].median(), f"{a['Days with margin above 100'].median():.0f} days",
+           "median zone", f"{j}", "neutral"),
+    ]
+
+
+def dashboard19():
+    h = pd.read_csv(D / "t56_hirth.csv"); r = h[h.Reliable]
+    de = h.set_index("Zone").loc["DE-LU"]
+    return [
+        _e(19, 1, "Median slope", r["Slope per percentage point"].median(), f"{r['Slope per percentage point'].median():.3f}", "capture rate per percentage point solar",
+           f"{len(r)} reliable zones", "bad"),
+        _e(19, 2, "Germany", de["Slope per percentage point"], f"{de['Slope per percentage point']:.3f}",
+           f"95%: {de['Interval low']:.3f} to {de['Interval high']:.3f}", "Hirth (2013): value falls with share", "bad"),
+        _e(19, 3, "Capture rate at 30% share", r["Capture rate at 30% share"].median(), f"{r['Capture rate at 30% share'].median():.2f}",
+           f"at 10%: {r['Capture rate at 10% share'].median():.2f}", "median of reliable zones", "bad"),
+        _e(19, 4, "Zones left out", (~h.Reliable).sum(), f"{(~h.Reliable).sum()} of {len(h)}", "too little solar or poor fit", "rule: share >= 10%, R2 >= 0.4", "neutral"),
+    ]
+
+
+def dashboard20():
+    k = pd.read_csv(D / "t57_carbon_free.csv"); a = k[(k.Year == 2025) & k["Solar coverage ok"]].set_index("Zone")
+    v = k[(k.Year == 2019) & k["Solar coverage ok"]].set_index("Zone")
+    beste = a.sort_values("Carbon-free share %", ascending=False).iloc[0]
+    return [
+        _e(20, 1, "Most carbon-free", beste["Carbon-free share %"], f"{beste['Zone name']}: {beste['Carbon-free share %']:.0f}%",
+           f"{beste['Hours above 90% %']:.0f}% of hours above 90%", "nuclear and hydro", "good"),
+        _e(20, 2, "Germany", a.loc["DE-LU", "Carbon-free share %"], f"{a.loc['DE-LU', 'Carbon-free share %']:.0f}%",
+           f"2019: {v.loc['DE-LU', 'Carbon-free share %']:.0f}%", f"hours above 90%: {a.loc['DE-LU', 'Hours above 90% %']:.0f}%", "neutral"),
+        _e(20, 3, "Median zone", a["Carbon-free share %"].median(), f"{a['Carbon-free share %'].median():.0f}%", f"2019: {v['Carbon-free share %'].median():.0f}%",
+           f"{len(a)} zones with reliable data", "good"),
+        _e(20, 4, "Hours below 50% carbon-free", a["Hours below 50% %"].median(), f"{a['Hours below 50% %'].median():.0f}% of hours",
+           f"2019: {v['Hours below 50% %'].median():.0f}%", "median zone; the 24/7 challenge", "good"),
+    ]
+
+
+ENGELS = (dashboard5, dashboard6, dashboard7, dashboard8, dashboard9, dashboard10, dashboard11, dashboard13, dashboard14, dashboard15, dashboard16, dashboard17, dashboard18, dashboard19, dashboard20)
 
 
 def main():

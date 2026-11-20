@@ -1,5 +1,7 @@
 # Stappenplannen Engelse dashboards (vanaf 20 november 2026)
 
+Planning, de nieuwe stappenplannen voor 6 en 16-20, voor- en nadelen per methode en 30 LinkedIn-posts: `docs/PLAN_WEEK_EN_LINKEDIN.md`.
+
 Alle nieuwe dashboards komen **alleen in het Engels**, als extra tabblad in de werkmap `tableau/Solar and storage in Europe.twbx`.
 Publiceren gebeurt altijd onder dezelfde naam **Solar and storage in Europe**. De link wordt dan
 `https://public.tableau.com/app/profile/tjebbe.lodeizen/viz/SolarandstorageinEurope/<Dashboardnaam>`.
@@ -236,10 +238,10 @@ Bronnen: `t28_zuiden`, `t27_impact`. KPI: filter **15**.
 
 | Dashboard | Wat ontbreekt |
 |---|---|
-| 6 Profit pool (Bain) | Marges per schakel in de keten (polysilicium, wafer, cel, module, installatie, exploitatie). Mogelijke bronnen: BNEF/IEA "Solar PV Global Supply Chains", jaarverslagen van LONGi, JinkoSolar, First Solar, SMA, Enphase. Upload of akkoord nodig. |
+| 6 Profit pool (Bain) | Klaar (20 november): t60 met tien fabrikanten; stappenplan in `docs/PLAN_WEEK_EN_LINKEDIN.md` §3. |
 | 12 Stranded assets (NGFS) | NGFS-scenariodata (licentie: alleen lokaal, niet op GitHub). Download via de NGFS Scenario Explorer. |
 | 16 Duck-curve atlas | Kan nu: uurprijzen en opwekmix voor 37 zones staan lokaal in `data/raw/price_*` en `power_*` (2019-2026), plus CAISO, AEMO, ERCOT, JEPX en Elexon. Nog een script nodig. |
-| 17 PPA or merchant | PPA-prijzen: LevelTen (abonnement) of de openbare kwartaalcijfers uit persberichten (LevelTen, Pexapark) handmatig in een csv. |
+| 17 PPA or merchant | Klaar (20 november): t61 en t62 uit openbare LevelTen- en Pexapark-cijfers; stappenplan in `docs/PLAN_WEEK_EN_LINKEDIN.md` §3. |
 | 18 Storage saturation | Kan nu met dezelfde lokale uurprijzen (batterijopbrengst per jaar en zone). Nog een script nodig. |
 | 19 Hirth replication | Kan nu: t43 plus de uurdata (marktwaarde tegen aandeel per zone). Nog een script nodig. |
 | 20-24 | 20 kan nu (lokale opwekmix per uur); 21 Wereldbank Pink Sheet (zilver, koper); 22 IRENA/ILO Renewable Energy and Jobs 2025; 23 CBS/TNO Monitor Energiearmoede 2019-2025; 24 IEA Global Hydrogen Review 2025 (CC BY 4.0) en de LCOH-calculator van de European Hydrogen Observatory. |

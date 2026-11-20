@@ -47,3 +47,28 @@ SDE++ or PPA structures; constant capex and opex. All assumptions live in `src/e
 
 Batterij: naast de bovengrens met perfecte voorkennis wordt een realistische variant berekend die plant op de prijzen van gisteren.
 Vermeden CO2 per regio gebruikt een netfactor die lineair daalt naar 10% van vandaag in 2050.
+
+## Uuranalyses en nieuwe bronnen (20 november 2026)
+
+**Uurdata (`eti.uurdata`).** Energy-Charts (Fraunhofer ISE) levert per zone en maand de dagmarktprijs en de opwek per type.
+Kwartierwaarden (opwek; prijs vanaf oktober 2025) worden uurgemiddelden in lokale tijd (Lissabon voor PT, Helsinki-tijd voor
+FI, EE, LV, LT, BG, RO, GR, anders Amsterdam-tijd). Per land-jaar vergelijken we de zon- en totale opwek met OWID/Ember;
+onder 60% zondekking vallen zone-jaren uit de zon- en koolstofvrij-analyses. Waar Energy-Charts per zone de landcijfers geeft
+(Italië, Denemarken, Noorwegen, Zweden) telt het land één keer.
+
+**Batterij-arbitrage (t55).** Per dag laden in de twee goedkoopste en ontladen in de twee duurste uren, 88% rendement, één cyclus.
+Perfecte voorkennis: bovengrens. Vergelijk met t1 (realistisch, plant op de prijzen van gisteren).
+
+**Hirth (t56).** OLS per zone van de maandelijkse capture rate op het maandelijkse zonaandeel van de opwek; 95%-interval uit de
+standaardfout. Betrouwbaar als het maximale zonaandeel ≥ 10%, R² ≥ 0,4 en minstens 36 maanden. Beperking: het seizoen zit in de
+helling; maand-vaste effecten staan in de backlog.
+
+**Koolstofvrij (t57, t58).** Koolstofvrij = kern, waterkracht (zonder pompverbruik), wind, zon, geothermie, overige hernieuwbaar;
+biomassa telt niet mee. Import wordt niet gevolgd.
+
+**Waardeketen (t60).** Omzet en nettowinst 2025 uit jaarverslagen en vakpers (bron per rij in `data/extern/waardeketen_2025.csv`),
+6,85 CNY per USD. Nettomarge bevat eenmalige afwaarderingen; brutomarge waar beschikbaar.
+
+**PPA (t61, t62).** LevelTen P25 (aanbiedingen, geen gesloten contracten) per kwartaal; twee kwartalen afgeleid uit de index
+(Q3 2026 = 0,86 × 63,64). Pexapark EURO Composite (alle technieken) per maand. PPA tegen markt: P25 Q4 2025 tegen de
+capture-prijs zon 2025 uit t1 (Italië: gemiddelde van vier zones). Bekende tegenstrijdigheden staan in de csv (kolom Note).

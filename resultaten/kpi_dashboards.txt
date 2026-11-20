@@ -14,6 +14,10 @@ D5.1 Countries abating CO2 at a profit: 7 of 26 | solar capture price above LCOE
 D5.2 Abatement potential to 2030: 103 Mt CO2/yr | average grid factor: 46 Mt | marginal factor (gas) vs average | neutraal
 D5.3 Cheapest abatement: Italy: -153 EUR/t | margin 44 EUR/MWh | EU ETS around 70-80 EUR/t | goed
 D5.4 Netherlands: 55 EUR/t | marginal factor: 35 EUR/t | margin -14 EUR/MWh | slecht
+D6.1 Chinese manufacturers in loss: 7 of 8 | polysilicon, wafers, modules | combined net loss 6.5 bn USD | slecht
+D6.2 Module makers, net margin: -9% | range -10% to -7% | Trina, JA, Jinko, 2025 | slecht
+D6.3 Inverters and storage: 15% (Sungrow) | storage is 42% of revenue | Enphase: 12% | goed
+D6.4 Protected market: 29% (First Solar) | US tax credits (45X) included | IEA: 10-15% outside China | neutraal
 D7.1 Controls passed: 10 of 21 | 18 Nov: 6 of 12 | target: all 21 | goed
 D7.2 Still open: 6 | C04, C10, C13, C15, C19, C20 | target: 0 before publication | slecht
 D7.3 Recalculated in every run: 12 of 21 | automatic in run_analyse.sh | rest: recorded by hand | neutraal
@@ -46,3 +50,23 @@ D15.1 Best solar site: 1896 full-load hours | Egypt (Benban) | 2.1 times the Net
 D15.2 Cost of capital, India: 12.0% | Netherlands: 5.0% | IEA Cost of Capital Observatory | slecht
 D15.3 Indian LCOE at Dutch WACC: 28 EUR/MWh | now: 44 EUR/MWh | 38% cheaper | goed
 D15.4 Sites with 1.5x Dutch sun: 17 of 24 | PVGIS, 11 years | same panel, more output | neutraal
+D16.1 Deepest midday dip: Greece: 53 EUR/MWh | day average minus 11-15h price | 2025 | slecht
+D16.2 Netherlands midday dip: 39 EUR/MWh | 2023: 25 | evening is 2.6x midday | slecht
+D16.3 Zones with a deeper dip than 2023: 37 of 37 | 2025 vs 2023 | Energy-Charts, hourly | neutraal
+D16.4 Median negative hours: 265 h | 2023: 111 h | 37 zones, 2025 | slecht
+D17.1 European solar PPA (P25): 55 EUR/MWh | Q3 2024: 64 | LevelTen, Q3 2026 | slecht
+D17.2 Spain solar PPA: 31 EUR/MWh | Q3 2026 | lowest in Europe | slecht
+D17.3 Germany: PPA vs market: +4 EUR/MWh | PPA 50 vs capture 46 | 2025; positive = PPA pays more | goed
+D17.4 Hybrid PPA premium: +24% | solar plus storage vs solar only | LevelTen, Q2 2026 | goed
+D18.1 Median arbitrage revenue: 64k EUR/MW | 2023: 49k | 2-hour battery, 1 cycle/day, perfect foresight | neutraal
+D18.2 Best zone: Estonia: 95k EUR/MW | 2025 | upper bound, no forecast error | goed
+D18.3 Netherlands: 71k EUR/MW | 2023: 60k | t1 (realistic): 61k | goed
+D18.4 Days worth more than 100 EUR/MW: 277 days | median zone | 2025 | neutraal
+D19.1 Median slope: -0.020 | capture rate per percentage point solar | 20 reliable zones | slecht
+D19.2 Germany: -0.019 | 95%: -0.022 to -0.017 | Hirth (2013): value falls with share | slecht
+D19.3 Capture rate at 30% share: 0.52 | at 10%: 0.89 | median of reliable zones | slecht
+D19.4 Zones left out: 5 of 25 | too little solar or poor fit | rule: share >= 10%, R2 >= 0.4 | neutraal
+D20.1 Most carbon-free: France: 96% | 94% of hours above 90% | nuclear and hydro | goed
+D20.2 Germany: 54% | 2019: 50% | hours above 90%: 0% | neutraal
+D20.3 Median zone: 67% | 2019: 59% | 22 zones with reliable data | goed
+D20.4 Hours below 50% carbon-free: 21% of hours | 2019: 36% | median zone; the 24/7 challenge | goed

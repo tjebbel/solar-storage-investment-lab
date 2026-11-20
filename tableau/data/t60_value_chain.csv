@@ -1,0 +1,11 @@
+Company,Segment,Home,Currency,Revenue bn,Net income bn,Gross margin %,Year,Note,Source,Revenue USD bn,Net income USD bn,Net margin %,Chain order,Group,Profitable
+GCL Technology,Polysilicon (granular),China,CNY,14.425,-2.868,9.3,2025,gross margin back to positive (2024: -16.6%),https://www1.hkexnews.hk/listedco/listconews/sehk/2026/0330/2026033003442.pdf,2.10584,-0.418686,-19.8821,1,China,False
+Tongwei,Polysilicon and cells,China,CNY,84.128,-9.55,,2025,world's largest polysilicon producer; also feed business,https://quartr.com/events/tongwei-co-ltd-600438-h2-2025_FL2buHSD,12.2815,-1.39416,-11.3517,1,China,False
+TCL Zhonghuan,Wafers,China,CNY,29.05,-9.26,,2025,largest wafer maker; TaiyangNews reports a 9.7 bn loss (definition differs),https://quartr.com/events/tcl-zhonghuan-renewable-energy-technology-co-ltd-002129-h2-2025_FLxLnMZK,4.24088,-1.35182,-31.8761,2,China,False
+LONGi,Wafers and modules,China,CNY,70.347,-6.42,0.81,2025,gross margin of the PV business 0.81%,https://www.pv-magazine.com/2026/05/01/chinese-pv-industry-brief-longi-trina-solar-report-losses/,10.2696,-0.937226,-9.12619,3,China,False
+Trina Solar,Modules,China,CNY,66.975,-7.031,1.02,2025,,https://developmentstoday.com/energy/longi-trina-solar-losses-margin-pressure-chinese-pv-2025-results,9.77737,-1.02642,-10.4979,4,China,False
+JA Solar,Modules,China,CNY,49.129,-4.608,,2025,,https://www.energytrend.com/print/51322,7.17212,-0.672701,-9.37939,4,China,False
+JinkoSolar,Modules,China,CNY,65.5,-4.45,2.2,2025,86 GW shipped (largest),https://taiyangnews.info/business/jinkosolar-fy-2025-financial-results,9.56204,-0.649635,-6.79389,4,China,False
+First Solar,Modules (thin film),United States,USD,5.22,1.528,40.6,2025,includes Section 45X production tax credits,https://greentechlead.com/solar/first-solar-2025-results-revenue-hits-5-2-bn-16-1-gw-production-and-strong-2026-outlook-52421,5.22,1.528,29.272,5,Outside China,True
+Enphase,Microinverters and batteries,United States,USD,1.473,0.172,,2025,includes 239 m USD of 45X tax credits,https://www-web.itiger.com/news/2612561344,1.473,0.172,11.6768,6,Outside China,True
+Sungrow,Inverters and storage,China,CNY,89.184,13.461,,2025,storage 42% of revenue (gross margin 36.5%),https://www.pv-magazine.com/?p=338103,13.0196,1.96511,15.0935,6,China,True
