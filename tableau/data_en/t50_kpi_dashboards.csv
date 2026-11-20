@@ -7,7 +7,7 @@ Dashboard,Volgorde,KPI,Waarde,Tekst,Vergelijking,Referentie,Richting
 3,2,Europe: nuclear vs solar,996.413,996 vs 444 TWh,"2015 nuclear: 1,163 TWh","Ember, 2025",neutral
 3,3,Market value: nuclear vs solar,1.02538,1.03 vs 0.61,capture rate 2025,1.00 = average hour,neutral
 3,4,Countries expanding vs declining,11,"11 expanding, 9 declining or phased out","1 restarting, 12 stable",rule: >=10% and 2 TWh,neutral
-4,1,Learning rate,0.3501,35% per doubling,95%: 21%-46%,literature approx. 20-25%,good
+4,1,Learning rate,0.3501,35% per doubling,95%: 21%-46%,ITRPV 1976-2025: 26%,good
 4,2,Panel price,0.0953988,0.095 USD/W,2024: 0.118 (-19%),China export value,good
 4,3,Stars 2025,4,"BGR, LTU, POL, ROU","2022: HUN, LTU, NLD",growth > 30%/year,neutral
 4,4,Netherlands,,Dog,2022: Star,"saturation, grid congestion",bad

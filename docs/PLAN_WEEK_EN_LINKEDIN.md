@@ -67,11 +67,12 @@ Een compact dashboard kan later altijd uitgebreid worden; de titel en link blijv
 
 | Dag | Ochtend | Middag | Avond (optioneel) |
 |---|---|---|---|
-| **vr 20 nov** | 7 Control matrix · 4 Experience curve · 3 Nuclear | 5 Abatement curve · 6 Profit pool · 8 Netherlands | publiceren, README |
-| **za 21 nov** | **17 PPA** (volledig) · 16 Duck curve | 18 Storage saturation · 19 Hirth · 20 Carbon-free | — |
-| **zo 22 nov** | 9 EU convergence · 10 United States | 11 China · 13 Grid flexibility · 14 Impact investor | — |
-| ma 23 nov | 15 Global South | 12 NGFS (als de data er is) | — |
-| di-vr | 21-24 zodra de data is gedownload; herstelpunten dashboard 1 en 2 | | |
+| **vr 20 nov** | 7 Control matrix (gepubliceerd, 17/20) | 4 Experience curve (werkbladen klaar) | 4 publiceren |
+| **za 21 nov** | 3 Nuclear · 5 Abatement curve | 6 Profit pool · 8 Netherlands | — |
+| **zo 22 nov** (nieuw) | **17 PPA** (volledig) | 16 Duck curve · 18 Storage saturation | 19 Hirth · 20 Carbon-free |
+| ma 23 nov (was zo) | 9 EU convergence · 10 United States | 11 China · 13 Grid flexibility · 14 Impact investor | — |
+| di 24 nov | 15 Global South | 12 NGFS (als de data er is) | — |
+| wo-vr | 21-24 zodra de data is gedownload; herstelpunten dashboard 1 en 2 | | |
 
 Weekend = 17, 16, 18, 19, 20, 9, 10, 11, 13, 14 = **tien dashboards**, waarvan 9 compact. Haalbaar in twee volle dagen.
 
@@ -263,38 +264,46 @@ Only schedule a post once its dashboard is published; the order follows the buil
 > Dashboard 1 of a series on solar, storage and investment. Feedback from people in the energy sector is very welcome.
 > #EnergyTransition #SolarEnergy #BatteryStorage #DataAnalytics #Tableau
 
-**Day 2 (Sat 21 Nov) — Dashboard 2 Signals Netherlands**
+**Day 2 (Fri 20 Nov, posted together with day 1) — Dashboard 2 Signals Netherlands**
 > Three price shocks in a row. In September, October and November 2026 the Dutch power price was more than three standard deviations above the previous twelve months (z = 4.1, 3.5 and 5.4). Still, solar covered its cost in 6 of 11 months.
 > What I learned: I calculated the same signals in Python, DAX (Power BI) and Tableau. 66 of 66 values matched. Only then did I trust the chart.
 > Move the cost slider (LCOE) yourself; link in the comments.
 > #EnergyTransition #DataAnalytics #Tableau #PowerBI
 
-**Day 3 (Sun 22 Nov) — Dashboard 7 Control matrix**
-> Can you trust my figures? I built 21 controls in the tradition of the Big Four: two SQL dialects, three tools, outside sources. 10 passed, 5 deviations are explained and 6 are still open. I show the open ones on purpose.
-> The largest risk: average versus marginal emission factor. It changes avoided CO2 by a factor of two.
-> Not an assurance opinion, but an honest readiness assessment. #DataQuality #Assurance #ESG
+**Day 3 (Sat 21 Nov) — Dashboard 7 Control matrix** (gepubliceerd; afbeelding: KPI-rij + Status + Risk map)
+> Can you trust my figures? I checked them before asking anyone else to.
+> I built 21 controls on my own energy-market analysis, in the tradition of the Big Four (COSO, ISAE 3000):
+> • the same calculation in two SQL dialects
+> • the same 66 signal values in Python, DAX and Tableau: 66 of 66 equal
+> • 12 comparisons with outside sources (Modo Energy, Enervis, ITRPV, Dutch parliamentary papers): 9 agree
+> Result: 10 passed, 5 deviations explained, 6 still open. I show the open ones on purpose. One example: for Spain I find a solar capture rate of 0.55; an outside source reports 0.97. Until I know why, that number stays marked as open.
+> The largest risk in the register: average versus marginal emission factor. It roughly doubles the avoided CO2 (46 versus 103 Mt a year).
+> A readiness assessment, not an assurance opinion. Third dashboard in the series "Solar and storage in Europe"; link in the comments.
+> #DataQuality #Assurance #ESG #DataAnalytics #Tableau
 
-**Day 4 (Mon 23 Nov) — Dashboard 4 Experience curve**
+First comment: Interactive dashboard: https://public.tableau.com/app/profile/tjebbe.lodeizen/viz/SolarandstorageinEurope/Controlmatrix · Code and checks: https://github.com/tjebbel/solar-storage-investment-lab
+
+**Day 4 (Sun 22 Nov) — Dashboard 4 Experience curve**
 > Every doubling of installed solar capacity made panels 35% cheaper (2017-2025). The industry's long series (ITRPV) says 26%. Why the gap? In 2023-24 panels were sold below cost.
 > In a BCG-style matrix by country, the Netherlands moved from "star" (2022) to "dog" (2025): growth stalled on grid congestion and saturation. #SolarEnergy #Strategy #BCG
 
-**Day 5 (Tue 24 Nov) — Dashboard 3 Nuclear**
+**Day 5 (Mon 23 Nov) — Dashboard 3 Nuclear**
 > 2025: solar and nuclear produced the same amount of electricity worldwide, 2,807 and 2,805 TWh. In Europe nuclear still produces twice as much as solar. The real difference is value: nuclear earns 1.03 times the average price, solar 0.61.
 > Per MWh solar is cheaper; per available hour nuclear delivers more. System costs and build risk decide who is right. No verdict from me, just the numbers. #NuclearEnergy #EnergyPolicy
 
-**Day 6 (Wed 25 Nov) — Dashboard 5 Abatement cost curve**
+**Day 6 (Tue 24 Nov) — Dashboard 5 Abatement cost curve**
 > Where does solar make money while cutting CO2? In 7 of 26 European countries at 2025 prices: there the cost per tonne avoided is negative. Italy leads at -153 EUR/t. The Netherlands: +55 EUR/t.
 > One assumption doubles the potential: with the marginal emission factor (gas) it is 103 Mt a year, with the average factor 46 Mt. That is why I show both. #CO2 #ClimateFinance #CostCurve
 
-**Day 7 (Thu 26 Nov) — Dashboard 6 Margin along the chain**
+**Day 7 (Wed 25 Nov) — Dashboard 6 Margin along the chain**
 > 7 of the 8 Chinese solar manufacturers I looked at lost money in 2025. Module makers averaged -9% net margin; wafer specialist TCL Zhonghuan -32%. Who made money: inverters and storage (Sungrow +15%, Enphase +12%) and First Solar in the protected US market (+29%, including tax credits).
 > Lesson for investors: cheap panels are not the same as a healthy supply chain. #SupplyChain #SolarEnergy #Investing
 
-**Day 8 (Fri 27 Nov) — Dashboard 8 Netherlands**
+**Day 8 (Thu 26 Nov) — Dashboard 8 Netherlands**
 > The Netherlands gets 21% of its electricity from solar (CBS, 2025). But growth halved: +13% in 2024, +5% in 2025. Meanwhile 8 GW of demand waits for a grid connection, and there were 584 hours with a negative price.
 > On 1 January 2027 Dutch net metering ends. Home batteries and self-consumption will matter more. #GridCongestion #NetMetering #EnergyTransition
 
-**Day 9 (Sat 28 Nov) — Dashboard 17 PPA or merchant**
+**Day 9 (Fri 27 Nov) — Dashboard 17 PPA or merchant**
 > Was a solar PPA worth it in 2025? In Germany, yes: 50 EUR/MWh versus 46 on the market. In Italy, no: 61 versus 95. European solar PPA prices fell 14% in two years; Spain is at 31 EUR/MWh.
 > What does earn more: a hybrid PPA with a battery, 24% more expensive than solar-only because it also delivers in the evening. #PPA #PowerMarkets #BatteryStorage
 

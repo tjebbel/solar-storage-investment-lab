@@ -6,7 +6,7 @@ D3.1 Wereld: kern tegen zon: 2,805 tegen 2,807 TWh | 2015 zon: 256 TWh | Ember, 
 D3.2 Europa: kern tegen zon: 996 tegen 444 TWh | 2015 kern: 1,163 TWh | Ember, 2025 | neutraal
 D3.3 Marktwaarde kern tegen zon: 1.03 tegen 0.61 | capture rate 2025 | 1,00 = gemiddeld uur | neutraal
 D3.4 Landen uitbouw tegen afbouw: 11 uitbouw, 9 afbouw of gestopt | 1 herstart, 12 stabiel | regel: >=10% en 2 TWh | neutraal
-D4.1 Leersnelheid: 35% per verdubbeling | 95%: 21%-46% | literatuur ca. 20-25% | goed
+D4.1 Leersnelheid: 35% per verdubbeling | 95%: 21%-46% | ITRPV 1976-2025: 26% | goed
 D4.2 Paneelprijs: 0.095 USD/W | 2024: 0.118 (-19%) | exportwaarde China | goed
 D4.3 Sterren 2025: BGR, LTU, POL, ROU | 2022: HUN, LTU, NLD | groei > 30%/jaar | neutraal
 D4.4 Nederland: Hond | 2022: Ster | verzadiging, netcongestie | slecht

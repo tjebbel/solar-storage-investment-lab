@@ -45,3 +45,11 @@ De bouwregels die hieruit volgen staan in `tableau/BOUWGIDS_TABLEAU.md`, sectie 
 **Compact formaat (vanaf 21 november).** Een compact dashboard (KPI-rij, hoofdgrafiek, één ondersteunende grafiek, onderrand)
 wordt met dezelfde vier categorieën beoordeeld. Bruikbaarheid haalt een 4 als de onderrand en de knopinfo de context dragen
 die de weggelaten grafieken anders gaven. Doel blijft 16/20 vóór publicatie.
+| 1 First findings (EN, live, 20-11 08:30; 'What comes next' leeg) | 20-11-2026 | 3 | 3 | 3 | 3 | 12 |
+| 1 First findings (EN, live, 20-11 08:35; 'What comes next' gevuld) | 20-11-2026 | 3 | 3 | 3 | 4 | 13 |
+| 1 First findings (EN, live, 20-11 08:43; batterij-subtitel, segmentkleuren, Unexplained) | 20-11-2026 | 3 | 3 | 4 | 4 | 14 |
+| 7 Control matrix (EN, live, 20-11 10:50; selectie opgeslagen, rij 4 afgekapt, link Controlmatrix3) | 20-11-2026 | 4 | 3 | 3 | 4 | 14 |
+| 7 Control matrix (EN, live, 20-11 10:56; link hersteld, Status volledig; titel Top risks en afgekapte teksten nog open) | 20-11-2026 | 4 | 4 | 4 | 4 | 16 |
+| 7 Control matrix (EN, definitief, 20-11 11:11; Top risks volledig leesbaar; Result-kolom kleiner lettertype, "Assumptio.." en C18 afgekapt) | 20-11-2026 | 4 | 5 | 4 | 4 | 17 |
+| 4 Experience curve (EN, live, 20-11 19:31; alles onder elkaar, grafieken platgedrukt, tabel scrollt, onderrand afgekapt) | 20-11-2026 | 3 | 3 | 2 | 3 | 11 |
+| 4 Experience curve (EN, live, 20-11 19:39; 1200 breed, portfolio en tabel naast elkaar; witruimte tussen rijen, onderrand niet uitgelijnd) | 20-11-2026 | 4 | 4 | 3 | 4 | 15 |

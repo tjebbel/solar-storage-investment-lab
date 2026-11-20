@@ -66,7 +66,7 @@ def dashboard4():
     a = lc.loc["alle jaren"]
     return [
         _r(4, 1, "Leersnelheid", a.Leersnelheid, f"{a.Leersnelheid:.0%} per verdubbeling",
-           f"95%: {a['Interval laag']:.0%}-{a['Interval hoog']:.0%}", "literatuur ca. 20-25%", "goed"),
+           f"95%: {a['Interval laag']:.0%}-{a['Interval hoog']:.0%}", "ITRPV 1976-2025: 26%", "goed"),
         _r(4, 2, "Paneelprijs", e[2025], f"{e[2025]:.3f} USD/W", f"2024: {e[2024]:.3f} ({e[2025]/e[2024]-1:+.0%})",
            "exportwaarde China", "goed"),
         _r(4, 3, "Sterren 2025", len(ster[2025].split(", ")), ster[2025], f"2022: {ster[2022]}", "groei > 30%/jaar", "neutraal"),

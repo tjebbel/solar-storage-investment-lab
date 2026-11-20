@@ -40,10 +40,10 @@ Spanish capture rate (Synertics 0.97 vs our 0.55) are open deviations.
 | 1 | [First findings](https://public.tableau.com/app/profile/tjebbe.lodeizen/viz/SolarandstorageinEurope/Firstfindings) ([Dutch](https://public.tableau.com/app/profile/tjebbe.lodeizen/viz/ZonenopslaginEuropa/Eerstebevindingen)) | investor | published in English and Dutch |
 | 2 | [Signals Netherlands](https://public.tableau.com/app/profile/tjebbe.lodeizen/viz/SolarandstorageinEurope/SignalsNetherlands): autumn 2026 is a price shock | analyst | published; Tableau checked against DAX and Python (66 of 66) |
 | 3 | Nuclear, solar and wind: Europe and the world | policy, investor | data ready |
-| 4 | Experience curve and portfolio | BCG | data ready |
+| 4 | [Experience curve](https://public.tableau.com/app/profile/tjebbe.lodeizen/viz/SolarandstorageinEurope/Experiencecurve): 35% cheaper per doubling; NL from star to dog | BCG | published |
 | 5 | CO2 abatement cost curve | McKinsey | data ready |
 | 6 | Profit pool along the value chain | Bain | data ready (10 manufacturers, 2025 results) |
-| 7 | Control matrix and risk map | Big Four | data ready |
+| 7 | [Control matrix](https://public.tableau.com/app/profile/tjebbe.lodeizen/viz/SolarandstorageinEurope/Controlmatrix): 21 controls, 6 still open | Big Four | published; 12 external comparisons, 9 agree |
 | 8 | Netherlands: end of net metering, grid congestion | government | data ready |
 | 9 | European Union: price convergence | EU | data ready |
 | 10 | United States: tax credits and the build-out | US | data ready |

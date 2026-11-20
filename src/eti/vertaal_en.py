@@ -210,7 +210,7 @@ W = {
     "Leersnelheid": "Learning rate", "Paneelprijs": "Panel price", "Sterren 2025": "Stars 2025",
     "Controles geslaagd": "Controls passed", "Nog open": "Still open", "Opnieuw berekend bij elke run": "Recalculated every run",
     "Grootste risico": "Largest risk", "Ember, 2025": "Ember, 2025", "1,00 = gemiddeld uur": "1.00 = average hour",
-    "regel: >=10% en 2 TWh": "rule: >=10% and 2 TWh", "literatuur ca. 20-25%": "literature approx. 20-25%",
+    "regel: >=10% en 2 TWh": "rule: >=10% and 2 TWh", "literatuur ca. 20-25%": "literature approx. 20-25%", "ITRPV 1976-2025: 26%": "ITRPV 1976-2025: 26%",
     "exportwaarde China": "China export value", "groei > 30%/jaar": "growth > 30%/year",
     "verzadiging, netcongestie": "saturation, grid congestion", "doel: alle 18": "target: all 18",
     "doel: 0 voor publicatie": "target: 0 before publication", "rest: handmatig vastgelegd": "rest: recorded manually",
@@ -243,7 +243,7 @@ REGELS = [  # (patroon, vervanging) voor teksten met getallen
     (r"^(\d+) van (\d+) capture rates binnen 0,03 van Modo/Enervis \(Duitsland 2022/2024/2025: (.+)\)$",
      r"\1 of \2 capture rates within 0.03 of Modo/Enervis (Germany 2022/2024/2025: \3)"),
     (r"^Spanje 2025: wij (.+), Synertics (.+); Modo noemt Duitsland en Spanje gelijk; definitie navragen$",
-     r"Spain 2025: us \1, Synertics \2; Modo puts Germany and Spain level; check definition"),
+     r"Spain 2025: ours \1, Synertics \2; Modo puts Germany and Spain level; check definition"),
     (r"^Regionaal, afname (.+) tegen (.+) GW; Regionaal, invoeding (.+) tegen (.+) GW; TenneT, afname (.+) tegen (.+) GW \(invoeding na correctie verschoven kolom\)$",
      r"Regional, offtake \1 vs \2 GW; Regional, feed-in \3 vs \4 GW; TenneT, offtake \5 vs \6 GW (feed-in after correcting a shifted column)"),
     (r"^doel: alle (\d+)$", r"target: all \1"),
@@ -313,6 +313,10 @@ def zonenaam(s):
 def wissel(getal):
     """Nederlandse notatie naar Engelse: 61.041 -> 61,041 en 0,62 -> 0.62."""
     return getal.replace(".", "_").replace(",", ".").replace("_", ",")
+
+
+# de algemene "X tegen Y"-regel als laatste, zodat specifieke regels eerst gelden
+REGELS.sort(key=lambda r: r[0] == r"^(.+) tegen (.+)$")
 
 
 def vertaal(s):

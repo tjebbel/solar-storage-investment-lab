@@ -116,9 +116,9 @@ C19 en C20 = Deviation open.
 
    | Rij | Inhoud | Hoogte |
    |---|---|---|
-   | 1 | Tekst: `Can you trust these figures? 21 controls, 6 still open` (20 pt) / `In the tradition of the Big Four (COSO, ISAE 3000). A readiness assessment, not an assurance opinion. Status 19 November 2026.` (10 pt grijs) | 80 |
+   | 1 | Tekst: `Can you trust these figures? 21 controls, 6 still open` (20 pt) / `In the tradition of the Big Four (COSO, ISAE 3000). A readiness assessment, not an assurance opinion. Status 20 November 2026.` (10 pt grijs) | 80 |
    | 2 | KPI 7 | 150 |
-   | 3 | Afbeelding `docs/img/keten.png` (Objecten → Afbeelding; Passend maken) met kop `From source to dashboard` | 220 |
+   | 3 | Afbeelding `docs/img/chain_en.png` (Objecten → Afbeelding; Passend maken; bron: eti.keten_en) met kop `From source to dashboard` | 220 |
    | 4 | Status (40%) naast Risk map (60%) | 300 |
    | 5 | Control matrix | 620 |
    | 6 | Top risks (55%) naast External validation (45%) | 380 |
@@ -128,7 +128,7 @@ C19 en C20 = Deviation open.
    `2. Avoided emissions (CBS) are not an emission reduction: do not net them off scope 1-3 (GHG Protocol).`
    `3. Omnibus I (EU 2026/470) dropped the reasonable-assurance requirement; only limited assurance remains, for far fewer companies.`
 4. Onderrand rechts, **What comes next**:
-   `Next controls: C04 (Power BI), C10 (cross-border flows), C13 (CBS vs Ember), C15 (status codes), C20 (TenneT queue).`
+   `Next controls: C04 (Power BI), C10 (cross-border flows), C13 (CBS vs Ember), C15 (status codes), C19 (Spain capture rate), C20 (TenneT queue).`
    `Next dashboards: 5 (abatement cost curve) · 14 (impact investor).`
    `Code and checks: github.com/tjebbel/solar-storage-investment-lab`
 
