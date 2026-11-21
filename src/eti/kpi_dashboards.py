@@ -114,7 +114,7 @@ def dashboard5():
         _e(5, 2, "Abatement potential to 2030", pot_m, f"{pot_m:.0f} Mt CO2/yr", f"average grid factor: {pot_g:.0f} Mt",
            "marginal factor (gas) vs average", "neutral"),
         _e(5, 3, "Cheapest abatement", best["Kosten per ton (gemiddelde factor)"], f"{_land(best.Land)}: {best['Kosten per ton (gemiddelde factor)']:.0f} EUR/t",
-           f"margin {best['Marge EUR/MWh']:.0f} EUR/MWh", "EU ETS around 70-80 EUR/t", "good"),
+           f"margin {best['Marge EUR/MWh']:.0f} EUR/MWh", "EU ETS: 74 avg 2025, about 90 in Nov 2026", "good"),
         _e(5, 4, "Netherlands", nl["Kosten per ton (gemiddelde factor)"], f"{nl['Kosten per ton (gemiddelde factor)']:.0f} EUR/t",
            f"marginal factor: {nl['Kosten per ton (marginale factor)']:.0f} EUR/t", f"margin {nl['Marge EUR/MWh']:.0f} EUR/MWh",
            "bad" if nl["Marge EUR/MWh"] < 0 else "good"),
@@ -125,13 +125,14 @@ def dashboard8():
     s = pd.read_csv(D / "t37_nl_stroom.csv").set_index(["Bron", "Jaar"])
     z25, z24 = s.loc[("Zonnestroom", 2025)], s.loc[("Zonnestroom", 2024)]
     a = pd.read_csv(D / "t51_congestie_afstemming.csv").set_index("Wachtrij")
-    r = pd.read_csv(D / "t40_res_regio.csv").groupby("Jaar")["Zon MWp"].sum()
+    r = pd.read_csv(D / "t40_res_regio.csv")
+    r = r[r["RES-regio"] == "Nederland"].set_index("Jaar")["Zon MWp"]  # totaalregel; niet optellen (dubbel)
     g25, g24 = r[2025] / r[2024] - 1, r[2024] / r[2023] - 1
     f = pd.read_csv(D / "t25_flex_nl.csv").set_index("Jaar")["Negatieve uren"]
     return [
         _e(8, 1, "Solar share of Dutch power", z25["Aandeel verbruik %"], f"{z25['Aandeel verbruik %']:.0f}%",
            f"2024: {z24['Aandeel verbruik %']:.0f}%", "CBS, 2025 provisional", "good"),
-        _e(8, 2, "Solar capacity growth", g25, f"{g25:+.0%} in 2025", f"2024: {g24:+.0%}", f"{r[2025]/1000:.1f} GWp in RES regions",
+        _e(8, 2, "Solar capacity growth", g25, f"{g25:+.0%} in 2025", f"2024: {g24:+.0%}", f"{r[2025]/1000:.1f} GWp (RES monitor)",
            "bad" if g25 < g24 else "good"),
         _e(8, 3, "Regional queue, offtake", a.loc["Regionaal, afname", "Ons project GW"],
            f"{a.loc['Regionaal, afname', 'Ons project GW']:.1f} GW", f"official: {a.loc['Regionaal, afname', 'Officieel GW']:.1f} GW",
@@ -330,7 +331,105 @@ def dashboard20():
     ]
 
 
-ENGELS = (dashboard5, dashboard6, dashboard7, dashboard8, dashboard9, dashboard10, dashboard11, dashboard13, dashboard14, dashboard15, dashboard16, dashboard17, dashboard18, dashboard19, dashboard20)
+def dashboard25():
+    m = pd.read_csv(D / "t64_avoided_per_mwh.csv"); a = m[m.Year == 2025].set_index("Zone")
+    lo, hi, gem = ("Marginal factor, solar hours, domestic t/MWh", "Marginal factor, solar hours, fossil response t/MWh",
+                   "Average factor, solar hours t/MWh")
+    b = a[a.Reliable]
+    neg = b[(b["Battery net CO2 t per MW per year, domestic"] < -5)
+            & ~(b["Battery net CO2 t per MW per year, fossil response"] > 0)]       # meer dan 5 t per MW per jaar erbij
+    landen = ", ".join(sorted(neg["Zone name"].str.replace(r" \(.*\)$", "", regex=True).unique()))
+    return [
+        _e(25, 1, "Germany: CO2 avoided per MWh solar", a.loc["DE-LU", hi], f"{a.loc['DE-LU', lo]:.2f}-{a.loc['DE-LU', hi]:.2f} t",
+           f"average in solar hours: {a.loc['DE-LU', gem]:.2f} t", "marginal: domestic vs fossil response", "neutral"),
+        _e(25, 2, "Poland: CO2 avoided per MWh solar", a.loc["PL", hi], f"{a.loc['PL', lo]:.2f}-{a.loc['PL', hi]:.2f} t",
+           f"average in solar hours: {a.loc['PL', gem]:.2f} t", "coal sets the margin", "good"),
+        _e(25, 3, "Countries where a battery adds CO2", len(set(neg.Country)), f"{len(set(neg.Country))} of {b.Country.nunique()}",
+           landen + ": more than 5 t/MW/yr", "both methods agree; 2025, reliable data", "bad"),
+        _e(25, 4, "Netherlands", float("nan"), "not measurable", f"Energy-Charts: {a.loc['NL', 'Others share %']:.0f}% unclassified",
+           "use CBS/Ember: 0.25 t/MWh", "neutral"),
+    ]
+
+
+def dashboard27():
+    t = pd.read_csv(D / "t67_fund_portfolios.csv").set_index("Portfolio")
+    se, so, bo = t.loc["South and east"], t.loc["Solar only"], t.loc["Batteries only"]
+    lo = so["CO2 per M EUR per year, marginal domestic"] / bo["CO2 per M EUR per year, marginal domestic"]
+    hi = so["CO2 per M EUR per year, marginal fossil response"] / bo["CO2 per M EUR per year, marginal fossil response"]
+    nw = t.loc["North and west"]
+    return [
+        _e(27, 1, "Best project return (median)", se["Project IRR P50"], f"{se['Project IRR P50']:.1%}",
+           f"P10-P90: {se['Project IRR P10']:.1%} to {se['Project IRR P90']:.1%}", "South and east: solar south + batteries east", "good"),
+        _e(27, 2, "Fund net return after fees", se["Fund net IRR (P50)"], f"{se['Fund net IRR (P50)']:.1%}", "hurdle 8%",
+           "2% fee, 20% carry, 10-year fund", "bad"),
+        _e(27, 3, "CO2 per euro: solar vs batteries", hi, f"{lo:.0f}-{hi:.0f}x", "solar avoids more CO2 per euro",
+           "marginal factor, domestic vs fossil response", "neutral"),
+        _e(27, 4, "Chance of beating 8%", se["Share of draws above 8%"], f"{se['Share of draws above 8%']:.0%}",
+           f"North and west: {nw['Share of draws above 8%']:.0%}", "1,000 Monte Carlo draws", "neutral"),
+    ]
+
+
+def dashboard28():
+    t = pd.read_csv(D / "t69_world_duck_depth.csv"); a = t[t.Year == 2025].set_index("Market")
+    sa, ca, nl = a.loc["South Australia (AEMO)"], a.loc["California (CAISO SP15)"], a.loc["Netherlands"]
+    nl19 = t[(t.Market == "Netherlands") & (t.Year == 2019)].iloc[0]
+    return [
+        _e(28, 1, "South Australia: midday price", sa["Midday index 11-15h"], f"{sa['Midday index 11-15h']:.0%} of average",
+           f"negative {sa['Negative hours %']:.0f}% of hours", "2025, AEMO", "bad"),
+        _e(28, 2, "California: midday price", ca["Midday index 11-15h"], f"{ca['Midday index 11-15h']:.0%} of average",
+           f"negative {ca['Negative hours %']:.0f}% of hours", "2025, CAISO SP15", "bad"),
+        _e(28, 3, "Netherlands: midday price", nl["Midday index 11-15h"], f"{nl['Midday index 11-15h']:.0%} of average",
+           f"2019: {nl19['Midday index 11-15h']:.0%}", "2025, Energy-Charts", "bad"),
+        _e(28, 4, "Netherlands: negative hours", nl["Negative hours %"], f"{nl['Negative hours %']:.1f}% of hours",
+           f"South Australia: {sa['Negative hours %']:.0f}%", "where Europe is heading", "neutral"),
+    ]
+
+
+def dashboard26():
+    t = pd.read_csv(D / "t70_revenue_at_risk.csv").set_index("Country")
+    top = t.sort_values("Revenue at risk M EUR per year", ascending=False).iloc[0]
+    med = t[~t["Target already met"]]["Revenue at risk EUR/MWh"].median()
+    return [
+        _e(26, 1, "Median revenue at risk", med, f"{med:.0f} EUR/MWh", "if 2030 solar targets are met", "price level of 2025 held constant", "bad"),
+        _e(26, 2, "Largest in euros", top["Revenue at risk M EUR per year"], f"{top.name}: {top['Revenue at risk M EUR per year'] / 1000:.1f} bn EUR/yr",
+           f"{top['Revenue at risk EUR/MWh']:.0f} EUR/MWh on {top['Solar TWh 2030']:.0f} TWh", "Hirth slope x extra solar share", "bad"),
+        _e(26, 3, "Italy keeps the most value", t.at["Italy", "Capture rate 2030"], f"capture rate {t.at['Italy', 'Capture rate 2030']:.2f}",
+           f"2025: {t.at['Italy', 'Capture rate 2025']:.2f}", "the only country above LCOE in 2030", "good"),
+        _e(26, 4, "Extrapolated beyond the data", (~t["Within observed range"]).sum(), f"{(~t['Within observed range']).sum()} of {len(t)} countries",
+           "2030 share above the highest monthly share seen", "read as a stress test, not a forecast", "neutral"),
+    ]
+
+
+def dashboard29():
+    t = pd.read_csv(D / "t71_battery_strategies.csv"); a = t[t.Year == 2025].set_index("Zone")
+    y, f = "Yesterday's prices vs perfect", "Fixed schedule vs perfect"
+    bal = a[a["Zone name"].isin(["Estonia", "Latvia", "Lithuania"])]
+    return [
+        _e(29, 1, "No-forecast strategy captures", a[y].median(), f"{a[y].median():.0%} of the ceiling",
+           "trade on yesterday's prices (a floor)", "median of 37 zones, 2025", "neutral"),
+        _e(29, 2, "Netherlands", a.loc["NL", y], f"{a.loc['NL', y]:.0%}", f"{a.loc['NL', 'Yesterday' + chr(39) + 's prices EUR/MW'] / 1000:.0f}k vs {a.loc['NL', 'Perfect foresight EUR/MW'] / 1000:.0f}k EUR/MW",
+           "perfect foresight is the upper bound", "neutral"),
+        _e(29, 3, "Baltics: hardest to forecast", bal[y].mean(), f"{bal[y].mean():.0%}", "Estonia, Latvia, Lithuania",
+           "highest upper bound, lowest capture", "bad"),
+        _e(29, 4, "Fixed duck schedule", a[f].median(), f"{a[f].median():.0%}", "charge 11-13h, discharge 18-20h",
+           f"a rule of thumb leaves {1 - a[f].median():.0%} on the table", "neutral"),
+    ]
+
+
+def dashboard30():
+    t = pd.read_csv(D / "t72_forecast_baseline.csv"); a = t[t.Year == 2025].set_index("Zone")
+    return [
+        _e(30, 1, "Baseline to beat (NL)", a.loc["NL", "MAE yesterday EUR/MWh"], f"{a.loc['NL', 'MAE yesterday EUR/MWh']:.0f} EUR/MWh",
+           f"{a.loc['NL', 'MAE yesterday % of price']:.0f}% of the average price", "MAE, same hour yesterday, 2025", "neutral"),
+        _e(30, 2, "Last week is worse", a.loc["NL", "MAE last week EUR/MWh"], f"{a.loc['NL', 'MAE last week EUR/MWh']:.0f} EUR/MWh",
+           "same hour, a week earlier", "weather changes faster than habits", "neutral"),
+        _e(30, 3, "Median zone error", a["MAE yesterday % of price"].median(), f"{a['MAE yesterday % of price'].median():.0f}%",
+           "of the average price", "37 zones, 2025", "neutral"),
+        _e(30, 4, "Model target", float("nan"), f"beat {a.loc['NL', 'MAE yesterday EUR/MWh']:.0f} EUR/MWh", "with weather, load and calendar features", "to be built", "neutral"),
+    ]
+
+
+ENGELS = (dashboard5, dashboard6, dashboard7, dashboard8, dashboard9, dashboard10, dashboard11, dashboard13, dashboard14, dashboard15, dashboard16, dashboard17, dashboard18, dashboard19, dashboard20, dashboard25, dashboard26, dashboard27, dashboard28, dashboard29, dashboard30)
 
 
 def main():

@@ -140,6 +140,8 @@ C19 en C20 = Deviation open.
 
 ---
 
+> **Volledige stappenplannen voor 16, 19, 5, 20, 14, 8, 18, 17, 6 en 9 staan in `tableau/STAPPENPLAN_VOLLEDIG.md` (21 nov).**
+
 ## Dashboard 4 "Experience curve and portfolio" (ongeveer 3 uur)
 
 Bronnen (Engelse kolommen): `t11_ervaringscurve`, `t45_leercurve`, `t12_portefeuille`, `t46_portefeuille_uitleg`, `t42_gebeurtenissen`.
@@ -169,7 +171,7 @@ Bron: `t13_kostencurve`. KPI: filter **5**. Stijl: McKinsey-kostencurve.
 1. **Cost curve**: berekend veld `Start Mt` = `[Cumulative Mt (average factor)] - [Potential Mt (average factor)]`.
    Kolommen: `Start Mt` (continu), Rijen: `Cost per tonne (average factor)`, markering **Gantt-balk**, `Potential Mt (average factor)`
    op **Formaat** (dan is de balk precies zo breed als het potentieel). Country als label, kleur: kosten < 0 teal, > 0 grijs,
-   Netherlands oranje. Filter: Potential > 0. Referentielijn y = 75 `EU ETS around 70-80 EUR/t`.
+   Netherlands oranje. Filter: Potential > 0. Referentielijnen y = 74 `EU ETS 2025 average` en y = 90 `EU ETS November 2026`.
    **Controle**: Italy links (-153 EUR/t, 15.1 Mt), samen ongeveer 45.6 Mt.
 2. **Average vs marginal factor**: dezelfde grafiek met de marginale kolommen (of een parameter `Emission factor` met keuze
    average/marginal en twee berekende velden). **Controle**: totaal 102.6 Mt marginaal.
@@ -240,8 +242,13 @@ Bronnen: `t28_zuiden`, `t27_impact`. KPI: filter **15**.
 |---|---|
 | 6 Profit pool (Bain) | Klaar (20 november): t60 met tien fabrikanten; stappenplan in `docs/PLAN_WEEK_EN_LINKEDIN.md` §3. |
 | 12 Stranded assets (NGFS) | NGFS-scenariodata (licentie: alleen lokaal, niet op GitHub). Download via de NGFS Scenario Explorer. |
-| 16 Duck-curve atlas | Kan nu: uurprijzen en opwekmix voor 37 zones staan lokaal in `data/raw/price_*` en `power_*` (2019-2026), plus CAISO, AEMO, ERCOT, JEPX en Elexon. Nog een script nodig. |
+| 16 Duck-curve atlas | Klaar (20 nov): `eti.uurdata` → t53-t54; stappenplan in `STAPPENPLAN_VOLLEDIG.md`. |
 | 17 PPA or merchant | Klaar (20 november): t61 en t62 uit openbare LevelTen- en Pexapark-cijfers; stappenplan in `docs/PLAN_WEEK_EN_LINKEDIN.md` §3. |
-| 18 Storage saturation | Kan nu met dezelfde lokale uurprijzen (batterijopbrengst per jaar en zone). Nog een script nodig. |
-| 19 Hirth replication | Kan nu: t43 plus de uurdata (marktwaarde tegen aandeel per zone). Nog een script nodig. |
-| 20-24 | 20 kan nu (lokale opwekmix per uur); 21 Wereldbank Pink Sheet (zilver, koper); 22 IRENA/ILO Renewable Energy and Jobs 2025; 23 CBS/TNO Monitor Energiearmoede 2019-2025; 24 IEA Global Hydrogen Review 2025 (CC BY 4.0) en de LCOH-calculator van de European Hydrogen Observatory. |
+| 18 Storage saturation | Klaar (20 nov): `eti.uurdata` → t55; stappenplan in `STAPPENPLAN_VOLLEDIG.md`. |
+| 19 Hirth replication | Klaar (20 nov): `eti.uurdata` → t56, t56b; stappenplan in `STAPPENPLAN_VOLLEDIG.md`. |
+| 20-24 | 20 klaar (t57-t58); 21 Wereldbank Pink Sheet (zilver, koper); 22 IRENA/ILO Renewable Energy and Jobs 2025; 23 CBS/TNO Monitor Energiearmoede 2019-2025; 24 IEA Global Hydrogen Review 2025 (CC BY 4.0) en de LCOH-calculator van de European Hydrogen Observatory. |
+
+| 25-30 | Klaar (21 nov): t63-t72 uit lokale data; stappenplannen in `STAPPENPLAN_VOLLEDIG.md` deel 2. |
+| 31 Power BI / Fabric | Wacht op Fabric-toegang (controle C04). |
+
+Downloads die nog nodig zijn (12, 21-24 en versie 2 van 8, 15, 17): zie `docs/DOWNLOADS.md`.

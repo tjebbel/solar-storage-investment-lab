@@ -12,7 +12,7 @@ D4.3 Sterren 2025: BGR, LTU, POL, ROU | 2022: HUN, LTU, NLD | groei > 30%/jaar |
 D4.4 Nederland: Hond | 2022: Ster | verzadiging, netcongestie | slecht
 D5.1 Countries abating CO2 at a profit: 7 of 26 | solar capture price above LCOE, 2025 | negative cost per tonne | goed
 D5.2 Abatement potential to 2030: 103 Mt CO2/yr | average grid factor: 46 Mt | marginal factor (gas) vs average | neutraal
-D5.3 Cheapest abatement: Italy: -153 EUR/t | margin 44 EUR/MWh | EU ETS around 70-80 EUR/t | goed
+D5.3 Cheapest abatement: Italy: -153 EUR/t | margin 44 EUR/MWh | EU ETS: 74 avg 2025, about 90 in Nov 2026 | goed
 D5.4 Netherlands: 55 EUR/t | marginal factor: 35 EUR/t | margin -14 EUR/MWh | slecht
 D6.1 Chinese manufacturers in loss: 7 of 8 | polysilicon, wafers, modules | combined net loss 6.5 bn USD | slecht
 D6.2 Module makers, net margin: -9% | range -10% to -7% | Trina, JA, Jinko, 2025 | slecht
@@ -23,7 +23,7 @@ D7.2 Still open: 6 | C04, C10, C13, C15, C19, C20 | target: 0 before publication
 D7.3 Recalculated in every run: 12 of 21 | automatic in run_analyse.sh | rest: recorded by hand | neutraal
 D7.4 Largest risk: score 9 of 9 | Average or marginal emission factor | show both variants | slecht
 D8.1 Solar share of Dutch power: 21% | 2024: 18% | CBS, 2025 provisional | goed
-D8.2 Solar capacity growth: +5% in 2025 | 2024: +13% | 58.4 GWp in RES regions | slecht
+D8.2 Solar capacity growth: +5% in 2025 | 2024: +13% | 29.2 GWp (RES monitor) | slecht
 D8.3 Regional queue, offtake: 8.1 GW | official: 9.1 GW | capacity map 2026 vs queue July 2025 | slecht
 D8.4 Negative-price hours: 584 h | 2024: 458 h | 2026 to 15 Nov: 399 h | slecht
 D9.1 Median zone price: 253 EUR/MWh | 2025-11: 102 | 37 zones, 2026-11 | neutraal
@@ -70,3 +70,27 @@ D20.1 Most carbon-free: France: 96% | 94% of hours above 90% | nuclear and hydro
 D20.2 Germany: 54% | 2019: 50% | hours above 90%: 0% | neutraal
 D20.3 Median zone: 67% | 2019: 59% | 22 zones with reliable data | goed
 D20.4 Hours below 50% carbon-free: 21% of hours | 2019: 36% | median zone; the 24/7 challenge | goed
+D25.1 Germany: CO2 avoided per MWh solar: 0.15-0.56 t | average in solar hours: 0.18 t | marginal: domestic vs fossil response | neutraal
+D25.2 Poland: CO2 avoided per MWh solar: 0.36-0.67 t | average in solar hours: 0.43 t | coal sets the margin | goed
+D25.3 Countries where a battery adds CO2: 2 of 19 | Italy, Serbia: more than 5 t/MW/yr | both methods agree; 2025, reliable data | slecht
+D25.4 Netherlands: not measurable | Energy-Charts: 33% unclassified | use CBS/Ember: 0.25 t/MWh | neutraal
+D26.1 Median revenue at risk: 22 EUR/MWh | if 2030 solar targets are met | price level of 2025 held constant | slecht
+D26.2 Largest in euros: Spain: 3.2 bn EUR/yr | 23 EUR/MWh on 138 TWh | Hirth slope x extra solar share | slecht
+D26.3 Italy keeps the most value: capture rate 0.58 | 2025: 0.82 | the only country above LCOE in 2030 | goed
+D26.4 Extrapolated beyond the data: 8 of 23 countries | 2030 share above the highest monthly share seen | read as a stress test, not a forecast | neutraal
+D27.1 Best project return (median): 7.5% | P10-P90: 2.6% to 12.8% | South and east: solar south + batteries east | goed
+D27.2 Fund net return after fees: 4.6% | hurdle 8% | 2% fee, 20% carry, 10-year fund | slecht
+D27.3 CO2 per euro: solar vs batteries: 3-9x | solar avoids more CO2 per euro | marginal factor, domestic vs fossil response | neutraal
+D27.4 Chance of beating 8%: 45% | North and west: 2% | 1,000 Monte Carlo draws | neutraal
+D28.1 South Australia: midday price: 1% of average | negative 30% of hours | 2025, AEMO | slecht
+D28.2 California: midday price: 33% of average | negative 11% of hours | 2025, CAISO SP15 | slecht
+D28.3 Netherlands: midday price: 55% of average | 2019: 99% | 2025, Energy-Charts | slecht
+D28.4 Netherlands: negative hours: 6.7% of hours | South Australia: 30% | where Europe is heading | neutraal
+D29.1 No-forecast strategy captures: 80% of the ceiling | trade on yesterday's prices (a floor) | median of 37 zones, 2025 | neutraal
+D29.2 Netherlands: 83% | 59k vs 71k EUR/MW | perfect foresight is the upper bound | neutraal
+D29.3 Baltics: hardest to forecast: 60% | Estonia, Latvia, Lithuania | highest upper bound, lowest capture | slecht
+D29.4 Fixed duck schedule: 56% | charge 11-13h, discharge 18-20h | a rule of thumb leaves 44% on the table | neutraal
+D30.1 Baseline to beat (NL): 24 EUR/MWh | 27% of the average price | MAE, same hour yesterday, 2025 | neutraal
+D30.2 Last week is worse: 30 EUR/MWh | same hour, a week earlier | weather changes faster than habits | neutraal
+D30.3 Median zone error: 27% | of the average price | 37 zones, 2025 | neutraal
+D30.4 Model target: beat 24 EUR/MWh | with weather, load and calendar features | to be built | neutraal

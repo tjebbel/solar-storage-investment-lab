@@ -254,6 +254,105 @@ first comment (LinkedIn lowers the reach of posts with a link in the text), thre
 Link pattern: `https://public.tableau.com/app/profile/tjebbe.lodeizen/viz/SolarandstorageinEurope/<Tab>`.
 Only schedule a post once its dashboard is published; the order follows the build plan with one day of slack.
 
+> **Volledige stappenplannen voor 16, 19, 5, 20, 14, 8, 18, 17, 6 en 9 staan in `tableau/STAPPENPLAN_VOLLEDIG.md` (21 nov).**
+
+### Besluit za 21 nov 08:25: geen compacte dashboards meer
+Alle dashboards krijgen het volledige formaat: KPI-rij + hoofdgrafiek + 3 ondersteunende grafieken + onderrand (2,5-3,5 uur elk).
+Gevolg: ongeveer één dashboard per dag (weekend twee). Bouwdeadline blijft de dag vóór de post; loopt een dashboard uit,
+dan wisselt die dag met een tekstpost (methode of verdieping) en schuift de rest één dag op.
+
+### Volledige reeks van 50 posts (za 21 nov, 08:30: na probleem en oorzaak eerst klimaatwaarde; vervangt de tabel hieronder vanaf 23 nov)
+
+Status: ✅ online · R = data klaar, nog bouwen · D = data nodig (zie kolom) · T = alleen tekst.
+Feestdagen (21 dec - 4 jan): lager bereik, dus lichtere posts en niet elke dag.
+
+| # | Datum | Post | Status | Nodig |
+|---|---|---|---|---|
+| 1 | vr 20 nov | D1 First findings | ✅ gepost | |
+| 2 | vr 20 nov | D2 Signals Netherlands | ✅ gepost | |
+| 3 | za 21 nov | D4 Experience curve | ✅ | |
+| 4 | zo 22 nov | D7 Control matrix | ✅ | |
+| 5 | ma 23 nov | D16 Duck-curve atlas | R | bouwen za 21 |
+| 6 | di 24 nov | D19 Hirth replication | R | bouwen za 21 |
+| 7 | wo 25 nov | D5 Abatement cost curve | R | bouwen zo 22 |
+| 8 | do 26 nov | D20 Hourly carbon-free | R | bouwen zo 22 |
+| 9 | vr 27 nov | D3 Nuclear | ✅ | herstelpunten (onderrand, One GW, labels) |
+| 10 | za 28 nov | D14 Impact investor | R | bouwen ma 23 - di 24 |
+| 11 | zo 29 nov | Week one in review | T | |
+| 12 | ma 30 nov | D8 Netherlands | R | bouwen wo 25 |
+| 13 | di 1 dec | D18 Storage saturation | R | bouwen do 26 |
+| 14 | wo 2 dec | D17 PPA or merchant | R | bouwen vr 27 - za 28 |
+| 15 | do 3 dec | D6 Profit pool | R | bouwen zo 29 |
+| 16 | vr 4 dec | D9 EU convergence | R | bouwen ma 30 |
+| 17 | za 5 dec | Method: three tools, one answer | T | |
+| 18 | zo 6 dec | Week two in review | T | |
+| 19 | ma 7 dec | D10 United States | R | bouwen |
+| 20 | di 8 dec | D11 China | R | bouwen |
+| 21 | wo 9 dec | D15 Global South | R | bouwen |
+| 22 | do 10 dec | D13 Grid flexibility and EVs | R | bouwen |
+| 23 | vr 11 dec | Deep dive: the Spanish capture-rate puzzle (C19) | D | definitie Synertics navragen |
+| 24 | za 12 dec | Method: coverage (two sources disagree) | T | |
+| 25 | zo 13 dec | Week three in review | T | |
+| 26 | ma 14 dec | D12 Stranded assets (NGFS) | D | NGFS-download (uiterlijk 7 dec) |
+| 27 | di 15 dec | D21 Commodities as predictor | D | World Bank Pink Sheet |
+| 28 | wo 16 dec | D22 Workforce | D | IRENA jobs report |
+| 29 | do 17 dec | D23 Who benefits (energy poverty) | D | CBS/TNO |
+| 30 | vr 18 dec | D24 Hydrogen | D | IEA hydrogen annex |
+| 31 | za 19 dec | Method: one colour, one meaning | T | |
+| 32 | zo 20 dec | Wrap-up: 24 dashboards in one picture | T | |
+| 33 | ma 21 dec | Deep dive: marginal emission factor per hour | D | ENTSO-E opwek per bron |
+| 34 | di 22 dec | Deep dive: 24/7 with and without biomass | R | backlog |
+| 35 | wo 23 dec | Deep dive: Hirth with fixed effects | R | backlog |
+| 36 | zo 27 dec | 2026 in review: prices and shocks | R | cijfers t/m 15 dec bijwerken |
+| 37 | ma 29 dec | Netherlands: net metering ends 1 January | D | dak-uurprofiel, tarieven 2027 |
+| 38 | wo 31 dec | Deep dive: the TenneT queue (C20) | D | officiële reeks TenneT |
+| 39 | vr 2 jan | Deep dive: PPA prices over several years | D | LevelTen-reeks 2022-2026 |
+| 40 | ma 5 jan | LCOE per country | D | IRENA/Lazard per land |
+| 41 | di 6 jan | Cost of capital in Africa and Southeast Asia | D | IEA Cost of Capital Observatory |
+| 42 | wo 7 jan | Panel price: factory gate vs export value | D | InfoLink/PVinsights |
+| 43 | do 8 jan | Downstream value chain: installers and utilities | D | jaarverslagen |
+| 44 | vr 9 jan | Cross-border flows (C10) | D | ENTSO-E grensstromen |
+| 45 | za 10 jan | The same dashboard in Power BI / Fabric (C04) | D | Fabric-toegang |
+| 46 | zo 11 jan | Control matrix update: 23 controls | R | C22-C23 toevoegen |
+| 47 | ma 12 jan | First findings revisited: full year 2026 | D | volledige 2026-data |
+| 48 | di 13 jan | Signals Netherlands: winter update | D | prijzen dec-jan |
+| 49 | wo 14 jan | Lessons learned: 50 posts, what I would do differently | T | |
+| 50 | do 15 jan | Series index and what comes next | T | |
+
+### Volgorde herzien (za 21 nov, 07:45): verhaallijn in plaats van bouwvolgorde
+
+Logica: probleem (waarde van zon daalt) -> oorzaak (uur en aandeel) -> thuismarkt -> oplossingen (opslag, contracten) ->
+wie verdient er -> klimaatwaarde (CO2, 24/7, kern, impact) -> regio's -> methode -> nieuwe data -> afsluiting.
+Sterkste inhoud op di-do (meeste bereik), methode en overzicht in het weekend. Uiterlijk af = dag vóór de post.
+
+| Datum | Dashboard | Waarom hier | Status / uiterlijk af |
+|---|---|---|---|
+| vr 20 nov | 1 First findings + 2 Signals NL | opening | gepost |
+| za 21 nov | 4 Experience curve | de paradox: bouwen wordt goedkoper, opbrengst daalt | gepubliceerd (15/20) |
+| zo 22 nov | 7 Control matrix | vertrouwen; methode past in het weekend | gepubliceerd (17/20) |
+| ma 23 nov | 16 Duck curve atlas | waar de waarde verdwijnt: per uur | bouwen za 21 |
+| di 24 nov | 19 Hirth replication | hoeveel elk procent zon kost | bouwen za 21 |
+| wo 25 nov | 8 Netherlands | thuismarkt: netcongestie, salderen | bouwen zo 22 |
+| do 26 nov | 18 Storage saturation | oplossing 1: batterijen | bouwen zo 22 |
+| vr 27 nov | 17 PPA or merchant | oplossing 2: contracten | bouwen ma 23 - di 24 |
+| za 28 nov | 6 Profit pool | wie verdient er in de keten | bouwen wo 25 |
+| zo 29 nov | Week one in review | overzicht | tekst |
+| ma 30 nov | 5 Abatement cost curve | klimaatwaarde per euro | bouwen do 26 |
+| di 1 dec | 20 Hourly carbon-free | groen op papier, grijs 's nachts | bouwen vr 27 |
+| wo 2 dec | 3 Nuclear | het alternatief; geen oordeel | gepubliceerd, herstelpunten |
+| do 3 dec | 14 Impact investor | wat dit betekent voor kapitaal | bouwen za 28 |
+| vr 4 dec | 9 EU convergence | regio's | bouwen zo 29 |
+| za 5 dec | 10 United States | | bouwen ma 30 |
+| zo 6 dec | 11 China | | bouwen di 1 |
+| ma 7 dec | 15 Global South | | bouwen wo 2 |
+| di 8 dec | 13 Grid flexibility | | bouwen do 3 |
+| wo 9 - vr 11 dec | methode: three tools · coverage · one colour | | tekst |
+| za 12 - zo 13 dec | reserve · week two in review | | |
+| ma 14 - vr 18 dec | 12 NGFS · 21 · 22 · 23 · 24 | nieuwe data | zodra gedownload |
+| za 19 dec | Wrap-up | | tekst |
+
+De posttekst per dashboard staat hieronder; de dagnummers daar volgen de oude volgorde.
+
 **Day 1 (Fri 20 Nov) — Dashboard 1 First findings**
 > Solar power is losing value everywhere in Europe. Where is it happening fastest?
 > I analysed hourly prices for 37 European bidding zones (2019 to 15 November 2026) with Python and SQL and built the results in Tableau. Three things stood out:
@@ -379,13 +478,82 @@ First comment: Interactive dashboard: https://public.tableau.com/app/profile/tje
 
 ---
 
-## 6. Beste vervolgstappen (in volgorde)
+## 6. Beste vervolgstappen (in volgorde, bijgewerkt vr 20 nov 19:45)
 
-1. **Vrijdagochtend:** dashboards 7, 4, 3 (STAPPENPLAN_EN). Post dashboard 1 om 8:30 (Engelse tekst, dag 1).
-2. **Vrijdagmiddag:** 5, 6 (§3 hierboven), 8. Download tussendoor de vijf bestanden uit §1 (45 minuten totaal).
-3. **Zaterdag:** 17 volledig, dan 16, 18, 19, 20 compact.
-4. **Zondag:** 9, 10, 11, 13, 14 compact.
-5. **Maandag:** 15 en 12; ik verwerk de downloads tot tabellen voor 12 en 21-24.
+Gemeten tempo vr 20 nov: dashboard 7 ongeveer 2,5 uur, dashboard 4 ongeveer 3,5 uur (met pauze). Uiterste bouwdatum = dag vóór de post.
+
+1. **Za 21 nov:** post dashboard 7 (8:30). Bouwen: 3, 5, 6, 8 (uiterlijk: 3 op zo 22, 5 op ma 23, 6 op di 24, 8 op wo 25).
+2. **Zo 22 nov:** post dashboard 4. Bouwen: 17 volledig (uiterlijk do 26), daarna 16 en 18 compact.
+3. **Ma 23 - vr 27 nov:** 19, 20 (uiterlijk 1-2 dec), 9, 10, 11, 13, 14, 15 compact (uiterlijk 3-8 dec). Download de vijf bestanden voor 12 en 21-24.
+4. **Za 28 nov:** geen post (reserve); herstelpunten dashboard 1 en 2.
+5. **Week 30 nov - 6 dec:** 12 en 21-24 zodra de data er is (posts 14-18 dec); methode-posts voorbereiden.
 6. **Elke avond:** commit + push, schermafbeelding van de hoofdgrafiek naar `docs/img/`, README-regel bijwerken.
 7. **Herstelpunten** (als er tijd over is): dashboard 1 segmentkleuren en "Undeclared" (EN), dashboard 2 één trendlijn en jaartallen zonder komma.
 8. **Methode-verbetering** (backlog): Hirth met maand-vaste effecten; koolstofvrij inclusief biomassa als tweede maat; PPA met capture-prijs 2023-2024 in de knopinfo.
+
+## 7. Vanaf maandag 23 november: verdieping (za 21 nov)
+
+Doel: dieper in de materie én zichtbaar worden voor impactinvesteerders (klimaatfondsen, LP's) en data-analisten.
+Lokaal beschikbaar zonder nieuwe downloads: uurprijzen en opwek per bron (37 zones), grensstromen (`cbet`), onbalans (`imb`, `balans`),
+weer (`weer`, `nasa`), en buiten Europa CAISO, AEMO, JEPX, Elexon, EIA.
+
+### Eerst afmaken (posts 5-10 december)
+10 United States · 11 China · 15 Global South · 13 Grid flexibility; herstelpunten 3. Daarna 12 en 21-24 zodra de downloads er zijn.
+
+### Nieuwe dashboards 25-30 (volgorde = prioriteit)
+| # | Dashboard | Voor wie | Waarom | Data |
+|---|---|---|---|---|
+| 25 | **What does a MWh really avoid?** Marginale emissiefactor per uur; zon vs batterij (laden 's middags, ontladen 's avonds) | impact, ESG | lost het grootste risico (score 9) op; laat zien dat een batterij CO2 kan verhogen of verlagen | power_* per uur (klaar) |
+| 26 | **Revenue at risk 2030**: capture rate per zone in 2030 met de Hirth-helling en de nationale doelen | investeerders, banken | vertaalt 19 naar euro's per MWh; brug naar 12 (stranded assets) | t56 + t13-doelen (klaar) |
+| 27 | **Climate fund simulator**: 100 M EUR over zon/batterij/wind in 10 landen, rendement tegen ton CO2, met schuifjes (WACC, helling, batterijopbrengst); Monte Carlo in Python | klimaatfondsen | combineert 4, 5, 14, 17, 18, 19 tot één investeringsbeslissing | bestaande tabellen |
+| 28 | **Europe's future is in California and South Australia**: duck curve en negatieve uren in CAISO, AEMO (SA), JEPX, Elexon tegen NL/DE | iedereen | sterk LinkedIn-verhaal; internationale vergelijking | lokaal (klaar) |
+| 29 | **Battery without perfect foresight**: vloer (prijzen van gisteren, 80% van het plafond) en plafond (perfecte voorkennis); onbalans en aFRR in versie 2 | batterij-investeerders, analisten | verklaart 71k vs 61k (open risico): NL 59k met prijzen van gisteren | t71 klaar; imb, balans voor v2 |
+| 30 | **Forecasting showcase**: day-ahead prijs of capture rate voorspellen met weer en opwek, met backtest en model card | data-analisten, werkgevers | laat ML, validatie en eerlijkheid over fouten zien | weer, nasa, price (klaar) |
+| 31 | **Same dashboard in Power BI / Fabric** (C04): Signals NL in Fabric met SQL-endpoint en DAX | data-analisten (Microsoft-stack) | leerdoel Fabric/Azure/Power BI; sluit C04 | Fabric-toegang |
+
+### Verdieping van bestaande dashboards (versie 2)
+- 14 Impact investor v2: met de marginale uurfactor uit 25 en een additionaliteitstoets per land.
+- 17 PPA v2: meerjarige PPA-reeks en capture-prijs 2022-2025 per jaar (D).
+- 18 Storage v2 = 29.
+- 20 Carbon-free v2: met biomassa als tweede maat en grensstromen (`cbet`).
+- 8 Netherlands v2: einde salderen met dak-uurprofiel (D), post 29 december.
+
+### Zichtbaarheid (naast de dagelijkse post)
+1. Eén lang artikel (LinkedIn-artikel of Substack): "What 24 dashboards taught me about the value of solar", met link naar GitHub.
+2. Een investeerdersmemo van twee pagina's (PDF uit Docs) als bijlage bij gesprekken: drie bevindingen, drie risico's, drie kansen.
+3. GitHub: README met samenvatting en afbeeldingen bovenaan; tag een release `v1.0` na dashboard 24.
+4. Tableau Public: profielbeschrijving, de drie beste dashboards uitlichten, indienen voor Viz of the Day.
+5. Bronnen en auteurs netjes noemen in posts (Modo, Pexapark, LevelTen, Hirth 2013); vraag onderzoekers om feedback op de replicatie.
+6. Elke week reageren onder posts van klimaatfondsen en energie-analisten met een eigen grafiek (geen links).
+7. Dataset (opgeschoonde uurdata + datawoordenboek) openbaar maken op GitHub of Kaggle, alleen als de bronlicentie het toestaat (Energy-Charts: licentie per reeks controleren; NGFS nooit).
+
+
+### Stand za 21 nov, 11:00: data voor de verdieping staat klaar
+- 25 Marginal emissions: `eti.marginaal` → t63-t64 (37 zones, 2019-2026, twee methoden, betrouwbaarheidsvlag).
+- 26 Revenue at risk: `eti.omzet_risico` → t70.
+- 27 Fund simulator: `eti.fonds_simulator` → t65-t67 (1.000 trekkingen, netto fonds-IRR).
+- 28 World duck: `eti.wereld_duck` → t68-t69 (CAISO, ERCOT, AEMO SA, JEPX, VK, NL, DE).
+- 29-30 Battery strategies en forecast baseline: `eti.batterij_realistisch` → t71-t72.
+- KPI-tegels in t50 (Dashboard 25-30). Stappenplannen: `tableau/STAPPENPLAN_VOLLEDIG.md` deel 2. Downloads: `docs/DOWNLOADS.md`.
+
+### Week van 23 november (gesprek Carbon Equity donderdag 26 november)
+| Dag | Bouwen | Daarnaast |
+|---|---|---|
+| ma 23 | 25 Marginal emissions | post 16 |
+| di 24 | 27 Climate fund simulator | post 19 |
+| wo 25 | 28 World duck · investeerdersmemo (2 pagina's: drie bevindingen, drie risico's, drie kansen, met 25 en 27) | post 5 |
+| do 26 | gesprek; 26 Revenue at risk als er tijd is | post 20 |
+| vr 27 - zo 29 | 10 United States · 11 China · 15 Global South · 13 Grid flexibility (posts 5-10 dec) | posts 3, 14, review |
+| daarna | 29, 30 (model), 31 (Power BI/Fabric), versie 2 van 14, 20, 8, 17 | |
+
+LinkedIn: 25, 27 en 28 passen na de klimaatfase; voorstel om 28 op ma 30 nov te zetten (sterkste deelbare post) en 8 een dag op te schuiven,
+25 op wo 9 dec (vóór de methodeposts) en 27 als afsluiter van de klimaatlijn. Beslis na het gesprek van donderdag.
+
+### Kritische herbeoordeling za 21 nov, 12:00 (wat is aangepast)
+- 25: KPI telt nu landen, niet zones (Italië had vier zones met dezelfde landcijfers): 2 van 19 landen waar een batterij CO2 toevoegt (was "5 van 26 zones").
+- 27: batterijopbrengst is alleen day-ahead en dus een ondergrens; gevoeligheidsrij met reservemarkten (x1,5): 16,4% project, 12,1% netto.
+  Fout in eti.lenses (carry in een jaar zonder uitkering) omzeild met fonds(); backlog-story om lenses zelf te herstellen.
+  Een project dat nooit terugverdient telt als -30% (was -100%: gaf één zone met 0,2% van de trekkingen te veel gewicht).
+- 26: vlag voor doelen boven 50% van de huidige opwek (Denemarken 74%: doel 24,6 TWh op 33 TWh opwek).
+- 29: gelezen als vloer en plafond, niet als "realistisch"; NL 59k met de prijzen van gisteren ligt dicht bij de 61k uit dashboard 1.
+- 5: EU ETS-referentie bijgewerkt: 74 EUR/t gemiddeld in 2025 (ESMA), rond 90 EUR/t in november 2026.

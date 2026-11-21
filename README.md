@@ -39,9 +39,9 @@ Spanish capture rate (Synertics 0.97 vs our 0.55) are open deviations.
 |---|---|---|---|
 | 1 | [First findings](https://public.tableau.com/app/profile/tjebbe.lodeizen/viz/SolarandstorageinEurope/Firstfindings) ([Dutch](https://public.tableau.com/app/profile/tjebbe.lodeizen/viz/ZonenopslaginEuropa/Eerstebevindingen)) | investor | published in English and Dutch |
 | 2 | [Signals Netherlands](https://public.tableau.com/app/profile/tjebbe.lodeizen/viz/SolarandstorageinEurope/SignalsNetherlands): autumn 2026 is a price shock | analyst | published; Tableau checked against DAX and Python (66 of 66) |
-| 3 | Nuclear, solar and wind: Europe and the world | policy, investor | data ready |
+| 3 | [Nuclear](https://public.tableau.com/app/profile/tjebbe.lodeizen/viz/SolarandstorageinEurope/Nuclear): solar catches up with nuclear, world 2025 | policy, investor | published |
 | 4 | [Experience curve](https://public.tableau.com/app/profile/tjebbe.lodeizen/viz/SolarandstorageinEurope/Experiencecurve): 35% cheaper per doubling; NL from star to dog | BCG | published |
-| 5 | CO2 abatement cost curve | McKinsey | data ready |
+| 5 | CO2 abatement cost curve | McKinsey | data ready; build plan in `tableau/STAPPENPLAN_VOLLEDIG.md` |
 | 6 | Profit pool along the value chain | Bain | data ready (10 manufacturers, 2025 results) |
 | 7 | [Control matrix](https://public.tableau.com/app/profile/tjebbe.lodeizen/viz/SolarandstorageinEurope/Controlmatrix): 21 controls, 6 still open | Big Four | published; 12 external comparisons, 9 agree |
 | 8 | Netherlands: end of net metering, grid congestion | government | data ready |
@@ -52,12 +52,19 @@ Spanish capture rate (Synertics 0.97 vs our 0.55) are open deviations.
 | 13 | Grid operator: flexibility and EVs | TSO/DSO | data ready |
 | 14 | Impact investor: return against avoided CO2 | climate fund | data ready |
 | 15 | Global South: why the cost of capital matters | development | data ready |
-| 16 | Duck-curve atlas | trader | data ready (hourly, 37 zones) |
+| 16 | [Duck curve](https://public.tableau.com/app/profile/tjebbe.lodeizen/viz/SolarandstorageinEurope/duckcurve): the midday dip deepened in all 37 zones; NL 584 negative hours | trader | published |
 | 17 | PPA or merchant | developer, corporate buyer | data ready (LevelTen, Pexapark) |
 | 18 | Storage saturation | battery investor | data ready (hourly arbitrage) |
-| 19 | Hirth replication | academic | data ready (monthly, 25 zones) |
+| 19 | [Hirth replication](https://public.tableau.com/app/profile/tjebbe.lodeizen/viz/SolarandstorageinEurope/hirthcurve): each extra percentage point of solar lowers its capture rate by 0.02 (median of 20 zones); about half the value is left at 30% solar | academic | published |
 | 20 | Hourly carbon-free power | corporate buyer | data ready (22 zones with reliable data) |
 | 21-24 | Commodities, workforce, who benefits, hydrogen | follow-up | sources identified (`tableau/STAPPENPLAN_EN.md`) |
+| 25 | What does a MWh really avoid? Average vs marginal CO2 factor by hour; solar and batteries | impact investor, ESG | data ready (t63-t64; 37 zones, two marginal methods) |
+| 26 | Revenue at risk 2030: Hirth slope x 2030 solar targets | investor, lender | data ready (t70; stress test, not a forecast) |
+| 27 | Climate fund simulator: return vs avoided CO2, Monte Carlo | climate fund | data ready (t65-t67; 1,000 draws, fund net IRR) |
+| 28 | Europe's future is in California and South Australia | everyone | data ready (t68-t69; CAISO, ERCOT, AEMO, JEPX, UK vs NL/DE) |
+| 29 | Realistic battery: trading without perfect foresight | battery investor | data ready (t71; yesterday's prices capture 80%) |
+| 30 | Forecasting showcase: baseline to beat | data analyst | baseline ready (t72); model to build |
+| 31 | Signals Netherlands in Power BI / Fabric (C04) | Microsoft stack | waiting for Fabric access |
 
 The research agenda behind the series is in the reference book (`reports/Naslagwerk_Zon_Opslag_Duurzame_Financiering.pdf`).
 
@@ -109,7 +116,7 @@ git clone https://github.com/tjebbel/solar-storage-investment-lab.git
 cd solar-storage-investment-lab
 python3 -m venv .venv && source .venv/bin/activate
 make setup             # matplotlib, pandas, numpy
-make test              # 225+ tests: unit, live-connector fixtures, exercises, end-to-end, analysis packs
+make test              # 250+ tests: unit, live-connector fixtures, exercises, end-to-end, analysis packs
 make run               # synthetic year, offline → reports/ and reports/figures/
 make run-live YEAR=2025   # real Dutch prices and generation from the Energy-Charts API
 ```

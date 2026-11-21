@@ -122,3 +122,22 @@ more expensive than solar-only in Q2 2026 because it also delivers in the evenin
 wafer and module makers lost money (net margins -7% to -32%), while inverter and storage makers (Sungrow 15%, Enphase 12%) and
 a protected US module maker (First Solar 29%, including tax credits) were profitable. Net margin includes one-off impairments;
 gross margin shows the operating picture.
+
+
+## 12. Added 21 November 2026 (dashboards 25-30)
+
+- **Average emission factor (AEF):** total CO2 divided by total generation in an hour or year. Good for reporting a footprint.
+- **Marginal emission factor (MEF):** the CO2 change when demand or supply changes by one MWh. Good for *decisions*: what an
+  extra solar MWh or a battery cycle really changes. Example: Germany 2025, solar hours: AEF 0.18 t/MWh, MEF 0.15-0.56.
+- **Fossil response vs domestic method:** two ways to estimate the MEF; the first assumes a fossil plant somewhere backs off,
+  the second counts only domestic plants. The truth in a connected grid lies in between.
+- **Monte Carlo simulation:** run a model a thousand times with random but plausible inputs; read the result as a range
+  (P10-P50-P90) instead of one number.
+- **Project IRR vs fund net IRR:** the project return before the fund's costs, and what the investor (LP) keeps after the
+  management fee, carry and the time money waits to be invested. Example: 7.5% project, 4.6% net.
+- **TVPI and J-curve:** total value paid back per euro paid in; the early years of a fund are negative (fees, no exits yet).
+- **Revenue at risk:** the euros per MWh a project would lose if a country's solar target is met and nothing else changes.
+- **Perfect foresight vs forecast capture:** the upper bound for a battery that knows tomorrow's prices, and the share of it a
+  real strategy captures (80% with yesterday's prices).
+- **MAE (mean absolute error):** the average size of a forecast error, in EUR/MWh; a model is only useful if it beats a naive
+  baseline such as "same hour yesterday".

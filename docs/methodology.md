@@ -72,3 +72,49 @@ biomassa telt niet mee. Import wordt niet gevolgd.
 **PPA (t61, t62).** LevelTen P25 (aanbiedingen, geen gesloten contracten) per kwartaal; twee kwartalen afgeleid uit de index
 (Q3 2026 = 0,86 × 63,64). Pexapark EURO Composite (alle technieken) per maand. PPA tegen markt: P25 Q4 2025 tegen de
 capture-prijs zon 2025 uit t1 (Italië: gemiddelde van vier zones). Bekende tegenstrijdigheden staan in de csv (kolom Note).
+
+
+## Deepening for impact investors and analysts (21 November 2026, dashboards 25-30)
+
+All built from local data; no new downloads. Code in `src/eti/`, tables in `tableau/data_en`, tests in `tests/`.
+
+**25 Marginal vs average CO2 factor (`eti.marginaal`, t63-t64).** Hourly direct emissions from generation by fuel times IPCC
+2006 default factors divided by a typical plant efficiency (lignite 0.96, hard coal 0.85, gas 0.40, oil 0.80 t/MWh; waste 0.5
+and "Others" 0.6 are assumptions; biomass 0). Two marginal methods give a range: *fossil response* (Siler-Evans et al. 2012:
+slope of hourly emission changes on fossil generation changes; assumes a solar MWh displaces a fossil MWh somewhere) and
+*domestic* (Hawkes 2010: slope on residual-load changes; counts only the domestic fossil response). Hours with a price at or
+below zero get a marginal factor of 0 (renewables are marginal). Batteries: 2-hour, one cycle a day, perfect foresight, net
+CO2 = marginal factor at discharge x 0.88 minus at charge. Validation against OWID/Ember (lifecycle, so higher): Germany 0.85,
+Poland 0.94. *Reliable* = generation coverage 80-120%, under 10% unclassified output, 0.6-1.2 x OWID. The Netherlands fails
+(Energy-Charts books 33% as "Others" and misses most rooftop solar); use the CBS/Ember factor 0.25 for NL.
+*Pros:* hourly, transparent, two methods show the real uncertainty. *Cons:* imports/exports are not traced; default factors,
+not plant-specific; the fossil-response bound is meaningless where fossil output is tiny (left blank below 10%).
+
+**26 Revenue at risk 2030 (`eti.omzet_risico`, t70).** Capture rate 2030 = 2025 + Hirth slope x (2030 target share - 2025
+share), floor 0.2, price level of 2025 held constant to isolate cannibalisation. Range from the slope's 95% interval. Flags:
+extrapolated beyond the shares the regression saw (8 of 23 countries), floor hit, target already met (NL, LT).
+*Main limitation:* storage and flexible demand flatten the slope as they grow, so this is an upper bound at 2019-2026 flexibility.
+
+**27 Climate fund simulator (`eti.fonds_simulator`, t65-t67).** Solar project cash flows consistent with the LCOE (25 years,
+WACC 5%, 85% capital); battery capex 408k EUR/MW for 2 hours (BNEF 2025 turnkey Europe 177 USD/kWh plus 30% balance of plant;
+assumption), revenue = perfect-foresight arbitrage x 0.86 (realistic, see 29). 1,000 Monte Carlo draws with common shocks
+(price level, solar value decline 0-3%/yr, LCOE, battery revenue, saturation 0-8%/yr, capex). Fund: 100 M EUR, 4-year
+deployment, 6-year hold, 2/20 with an 8% hurdle (`eti.lenses.fund_cashflows`). CO2 per M EUR is year 1 on today's grid
+(dashboard 14 uses a lifetime average, so lower). *Not investment advice:* a transparent model to make the trade-off visible.
+Critical points: (1) battery revenue is day-ahead arbitrage only; in Germany reserve markets can be up to 67% of a 2-hour
+battery's income (Capstone, Nov 2025). A sensitivity row with 1.5x revenue lifts the batteries-only portfolio from 5.5% to
+16.4% project IRR (12.1% net), so the battery result is a floor and the most assumption-driven number in the dashboard.
+(2) The portfolio IRR is a weighted average of project IRRs, not the IRR of pooled cash flows. (3) The fund grows value at the
+project IRR and pays out at exit; infrastructure funds distribute yearly. (4) `eti.lenses.fund_cashflows` deducts carry in
+year 10 when there is no distribution, which breaks the IRR at high returns; `fonds_simulator.fonds()` deducts it at the last
+distribution (identical results below the hurdle). (5) EU ETS reference: 74 EUR/t average 2025, about 90 EUR/t in November 2026.
+
+**28 World duck curve (`eti.wereld_duck`, t68-t69).** Hourly prices from CAISO SP15, ERCOT, AEMO SA1, JEPX and the UK APX
+index next to NL and DE, as an index (price / year average) so currencies compare. South Australia's midday price averaged
+1% of its year average in 2025 with 30% negative hours; California 33% and 11%; the Netherlands 55% and 6.7%.
+
+**29-30 Battery strategies and forecast baseline (read as floor and ceiling: a real trader bids with a forecast and
+re-optimises intraday, so lands in between) (`eti.batterij_realistisch`, t71-t72).** Same battery as t55, traded on
+yesterday's prices, last week's prices or a fixed duck schedule. Trading on yesterday's prices captures a median 80% of the
+perfect-foresight bound (NL 83%: 59k vs 71k EUR/MW, close to the 61k of the realistic model in dashboard 1); the Baltics only
+60%. The same naive forecasts give the error a model must beat: NL 24 EUR/MWh MAE (27% of the average price) in 2025.

@@ -53,3 +53,9 @@ die de weggelaten grafieken anders gaven. Doel blijft 16/20 vóór publicatie.
 | 7 Control matrix (EN, definitief, 20-11 11:11; Top risks volledig leesbaar; Result-kolom kleiner lettertype, "Assumptio.." en C18 afgekapt) | 20-11-2026 | 4 | 5 | 4 | 4 | 17 |
 | 4 Experience curve (EN, live, 20-11 19:31; alles onder elkaar, grafieken platgedrukt, tabel scrollt, onderrand afgekapt) | 20-11-2026 | 3 | 3 | 2 | 3 | 11 |
 | 4 Experience curve (EN, live, 20-11 19:39; 1200 breed, portfolio en tabel naast elkaar; witruimte tussen rijen, onderrand niet uitgelijnd) | 20-11-2026 | 4 | 4 | 3 | 4 | 15 |
+| 3 Nuclear (EN, live, 21-11 07:31; labels marktwaarde SUM i.p.v. AVG, hoofdgrafiek toont Europa onder wereldtitel, onderrand ontbreekt, One GW afgekapt) | 21-11-2026 | 3 | 2 | 3 | 3 | 11 |
+| 3 Nuclear (EN, live, 21-11 07:58; World-filter en labels hersteld; onderrand ontbreekt, One GW 6 van 10, Sweden zonder label) | 21-11-2026 | 4 | 4 | 3 | 4 | 15 |
+| 16 Duck curve (EN, live, 21-11 14:22; KPI en duck goed; negatieve uren gesorteerd op 2023+2025 i.p.v. 2025, dip-over-tijd platgedrukt, typo tekstvak) | 21-11-2026 | 4 | 3 | 3 | 4 | 14 |
+| 16 Duck curve (EN, definitief, 21-11 14:31; sortering op 2025, beide jaren zichtbaar, dip over tijd leesbaar) | 21-11-2026 | 4 | 4 | 4 | 4 | 16 |
+| 19 Hirth replication (EN, live, 21-11 20:26; legenda los onder scatter, open rondjes, yearbyear standaardgrijs, tekstvak en bronregel ontbreken) | 21-11-2026 | 4 | 4 | 3 | 3 | 14 |
+| 19 Hirth replication (EN, definitief, 21-11 20:53; gevulde stippen, zonnegoud, How to read this en bron; legendatitel afgekapt, 2026-deeljaar niet vermeld, tekstvak zonder opvulling) | 21-11-2026 | 4 | 4 | 4 | 4 | 16 |
