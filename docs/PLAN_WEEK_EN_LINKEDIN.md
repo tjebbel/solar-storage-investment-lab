@@ -391,8 +391,8 @@ First comment: Interactive dashboard: https://public.tableau.com/app/profile/tje
 > Per MWh solar is cheaper; per available hour nuclear delivers more. System costs and build risk decide who is right. No verdict from me, just the numbers. #NuclearEnergy #EnergyPolicy
 
 **Day 6 (Tue 24 Nov) — Dashboard 5 Abatement cost curve**
-> Where does solar make money while cutting CO2? In 7 of 26 European countries at 2025 prices: there the cost per tonne avoided is negative. Italy leads at -153 EUR/t. The Netherlands: +55 EUR/t.
-> One assumption doubles the potential: with the marginal emission factor (gas) it is 103 Mt a year, with the average factor 46 Mt. That is why I show both. #CO2 #ClimateFinance #CostCurve
+> Where does solar make money while cutting CO2? In 7 of 26 European countries at 2025 prices: there the cost per tonne avoided is negative. Italy leads at -109 EUR/t; the Netherlands pays +35 EUR/t.
+> One assumption more than doubles the potential: if new solar replaces gas (marginal factor) it is 103 Mt a year; if it replaces today's average mix, 46 Mt. I default to gas and let you switch. #CO2 #ClimateFinance #CostCurve
 
 **Day 7 (Wed 25 Nov) — Dashboard 6 Margin along the chain**
 > 7 of the 8 Chinese solar manufacturers I looked at lost money in 2025. Module makers averaged -9% net margin; wafer specialist TCL Zhonghuan -32%. Who made money: inverters and storage (Sungrow +15%, Enphase +12%) and First Solar in the protected US market (+29%, including tax credits).
@@ -557,3 +557,28 @@ LinkedIn: 25, 27 en 28 passen na de klimaatfase; voorstel om 28 op ma 30 nov te 
 - 26: vlag voor doelen boven 50% van de huidige opwek (Denemarken 74%: doel 24,6 TWh op 33 TWh opwek).
 - 29: gelezen als vloer en plafond, niet als "realistisch"; NL 59k met de prijzen van gisteren ligt dicht bij de 61k uit dashboard 1.
 - 5: EU ETS-referentie bijgewerkt: 74 EUR/t gemiddeld in 2025 (ESMA), rond 90 EUR/t in november 2026.
+
+### Planning twee weken (za 21 nov, 21:15; vervangt de weektabel hierboven)
+
+Hirth kostte ongeveer 4 uur; acht dashboards op één dag is niet haalbaar. Elk dashboard is af vóór zijn postdag.
+
+| Dag | Bouwen | LinkedIn 8:30 |
+|---|---|---|
+| zo 22 nov | 5 Abatement · 20 Hourly carbon-free · 14 Impact investor · 8 Netherlands | D7 Control matrix |
+| ma 23 | 25 Marginal emissions | D16 Duck curve |
+| di 24 | 27 Fund simulator | D19 Hirth |
+| wo 25 | 28 World duck + investor memo (1 pagina) | D5 Abatement |
+| do 26 | Gesprek Carbon Equity; 26 Revenue at risk als er tijd is | D20 Hourly carbon-free |
+| vr 27 | 18 Storage saturation · 17 PPA | D3 Nuclear (eerst onderrand, One GW, labels) |
+| za 28 | 6 Profit pool · 9 EU convergence | D14 Impact investor |
+| zo 29 | Herstelpunten D16, D7, D1/D2, D19 (legendatitel, deeljaar 2026); buffer | Week one in review |
+| ma 30 | 10 United States | D8 Netherlands |
+| di 1 dec | 11 China | D18 Storage saturation |
+| wo 2 | 15 Global South | D17 PPA or merchant |
+| do 3 | 13 Grid flexibility and EVs | D6 Profit pool |
+| vr 4 | 29 Battery floor/ceiling (26 als die nog open is) | D9 EU convergence |
+| za 5 | Downloads volgens `DOWNLOADS.md` (NGFS uiterlijk 7 dec) | Method: three tools, one answer |
+| zo 6 | Start 12 NGFS | Week two in review |
+
+Controle zondag-dashboards (21 nov avond, uit `tableau/data_en` herberekend): alle controlewaarden in STAPPENPLAN_VOLLEDIG voor 5, 20, 14 en 8
+kloppen; aangepast: KPI 5 naar marginale factor (Italy -109, NL 35), titel wachtrij D8 (about 8 GW), gemeenten D8 (67 op 100%), bronnaam `Biomass, total` in D14.

@@ -83,9 +83,10 @@ Energy-Charts covers 2% of its solar.` · rechts: `Next: 5 (abatement cost curve
 
 ## Dashboard 5 "Abatement cost curve"
 
-**Bron** `t13_kostencurve`. **KPI 5**: `7 of 26` (teal) · `103 Mt CO2/yr` (grijs) · `Italy: -153 EUR/t` (teal) · `55 EUR/t` NL (magenta).
+**Bron** `t13_kostencurve`. **KPI 5** (marginale factor, bijgewerkt 21 nov avond): `7 of 26` (teal) · `103 Mt CO2/yr` (grijs) · `Italy: -109 EUR/t` (teal) · `35 EUR/t` NL (magenta, vergelijking: average factor 55).
+Waarom marginaal als standaard: nieuwe zon verdringt vooral gas (zie dashboard 25), en met de gemiddelde factor loopt de y-as tot 1.304 EUR/t (Sweden, Norway) zodat de rest van de curve plat wordt.
 
-0. **Parameter** `Emission factor` (tekenreeks, lijst: `Average`, `Marginal (gas)`), toon parametercontrole. Berekende velden:
+0. **Parameter** `Emission factor` (tekenreeks, lijst: `Marginal (gas)`, `Average`; **huidige waarde `Marginal (gas)`**), toon parametercontrole. Berekende velden:
    `Cost per tonne` = `IF [Emission factor]="Average" THEN [Cost per tonne (average factor)] ELSE [Cost per tonne (marginal factor)] END`
    `Potential Mt` = idem met Potential; `Cumulative Mt` = idem met Cumulative; `Start Mt` = `[Cumulative Mt] - [Potential Mt]`.
 1. **Hoofdgrafiek "Cost curve"**: Start Mt (SUM, continu) op Kolommen, Cost per tonne (SUM) op Rijen, markering **Gantt-balk**,
@@ -93,7 +94,8 @@ Energy-Charts covers 2% of its solar.` · rechts: `Next: 5 (abatement cost curve
    `Band` = `IF [Country]="Netherlands" THEN "Netherlands" ELSEIF [Cost per tonne] < 0 THEN "At a profit" ELSE "At a cost" END`
    (At a profit `1F9E89`, At a cost `A8A29E`, Netherlands `E39A2D`). Referentielijnen y = 74 `EU ETS 2025 average` en y = 90 `EU ETS November 2026`, y = 0 grijs.
    Titel: `Solar abates CO2 at a profit in 7 of 26 countries` · subtitel `Width = extra solar to 2030 targets (Mt CO2/yr); height = cost per tonne; switch the emission factor top right`.
-   **Controle Average**: Italy links (-153, 15.1 Mt), totaal 45.6 Mt; **Marginal**: totaal 102.6 Mt, Italy -109 en 21.2 Mt, Spain 30.1 Mt.
+   **Controle Marginal (standaard)**: totaal 102.6 Mt; Italy links (-109; 21.2 Mt), dan Croatia -46 · Slovenia -37 · Romania -33 · Greece -22; Spain breedste balk (37; 30.1 Mt); Sweden rechts (115).
+   **Controle Average**: totaal 45.6 Mt, Italy -153 (15.1 Mt); Sweden en Norway ~1.300 EUR/t. Zet de y-as op **Automatisch** zodat hij meeschaalt.
    NL heeft potentieel 0 (doel al gehaald) → verschijnt niet in de curve; staat wel in grafiek 2.
 2. **"Margin per country"**: Country op Rijen, Margin EUR/MWh op Kolommen, staaf, gesorteerd; kleur `Band`. Referentielijn 0.
    Titel: `Where solar earns more than it costs: capture price minus LCOE, 2025`.
@@ -151,7 +153,7 @@ including the Netherlands. 3. Imports are not traced; Italy and Denmark report c
 3. **"Additionality"** (t27, 2025, Solar margin niet leeg): Region × Solar margin EUR/MWh, staaf magenta; label Additionality.
    Titel: `In the Netherlands and Spain solar loses money without support, so investment adds real capacity`.
    **Controle**: Netherlands -14.0 · Spain -15.0.
-4. **"Avoided CO2 in the Netherlands"** (t39): filter Source = Solar power, Onshore wind, Offshore wind, Biomass, total;
+4. **"Avoided CO2 in the Netherlands"** (t39): filter Source = `Solar power`, `Onshore wind`, `Offshore wind`, `Biomass, total` (let op de exacte namen; `Biomass, total` is inclusief biobrandstof-ketels, niet de biobrandstoffen voor transport);
    Year × Avoided CO2 kt, gestapeld (zon `C9961A`, wind op land `2A9DB5`, wind op zee `1B6F80`, biomassa `78716C`).
    Titel: `Dutch renewables avoided 40 Mt CO2 in 2025; solar 11.8 Mt`. **Controle** 2025: Solar power 11,755 · Onshore 7,907 · Offshore 7,321 · Biomass 11,641 kt.
 
@@ -175,9 +177,10 @@ dat regio's optelt (eerder telde de KPI dit dubbel: 58.4 in plaats van 29.2 GWp;
    Titel: `Dutch solar growth halved twice: +27% in 2023, +13% in 2024, +5% in 2025`.
    **Controle** (Nederland-regel): 2025 ≈ 29.2 GWp; groei 2021 33% · 2022 32% · 2023 27% · 2024 13% · 2025 5%.
 2. **"Grid queue by province"** (t30): Province × Queue offtake MW (staaf `C4457A`) en Queue feed-in MW (staaf `A8A29E`), gesorteerd.
-   Titel: `7.9 GW of demand and 4.1 GW of supply wait for a connection`. **Controle** totaal offtake 7,900 · feed-in 4,066 MW; Noord-Brabant 1,782 offtake.
+   Titel: `About 8 GW of demand and 4 GW of supply wait for a connection; Noord-Brabant 1.8 GW`.
+   NB: t30 telt per provincie 7.90 GW, de KPI (t51) 8.05 GW; het verschil zit in gebieden die over provincies heen lopen (bv. `Noord-Holland, Utrecht`). Laat die rijen staan (ze zijn klein) en rond in titels af op "about 8 GW". **Controle** totaal offtake 7,900 · feed-in 4,066 MW; Noord-Brabant 1,782 offtake.
 3. **"Municipalities"** (t32): top 20 op Offtake shortage %, staaf magenta. Titel: `192 of 342 municipalities have an offtake shortage in at least half their postcodes`.
-   **Controle**: Zwijndrecht, Purmerend, Castricum, Den Helder, Hengelo 100%.
+   **Controle**: 192 van 342 gemeenten ≥ 50%; **67 gemeenten staan op 100%**, dus een top 20 is willekeurig. Beter: histogram (Offtake shortage % in klassen van 10) of filter = 100 met titel `67 municipalities have a shortage in every postcode`.
 4. **"Negative hours"** (t25): Year × Negative hours, staaf `44403C`, 2026 lichter (`A8A29E`, tot 15 nov).
    Titel: `Negative prices: 3 hours in 2019, 584 in 2025`. **Controle**: 2023 315 · 2024 458 · 2025 584 · 2026 399.
 5. **Reconciliation** (t51) als kleine tabel in het tekstvak-vak (Queue, This project GW, Official GW, Status-kleur).

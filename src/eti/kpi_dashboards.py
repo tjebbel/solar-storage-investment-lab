@@ -106,17 +106,18 @@ def dashboard5():
     k = pd.read_csv(D / "t13_kostencurve.csv")
     winst = (k["Marge EUR/MWh"] > 0).sum()
     pot_m, pot_g = k["Potentieel Mt (marginale factor)"].sum(), k["Potentieel Mt (gemiddelde factor)"].sum()
-    best = k.sort_values("Kosten per ton (gemiddelde factor)").iloc[0]
+    # standaard = marginale factor (zon verdringt gas); zelfde keuze als de parameter in Tableau en dashboard 25
+    best = k.sort_values("Kosten per ton (marginale factor)").iloc[0]
     nl = k[k.Landcode == "NLD"].iloc[0]
     return [
         _e(5, 1, "Countries abating CO2 at a profit", winst, f"{winst} of {len(k)}", "solar capture price above LCOE, 2025",
            "negative cost per tonne", "good"),
         _e(5, 2, "Abatement potential to 2030", pot_m, f"{pot_m:.0f} Mt CO2/yr", f"average grid factor: {pot_g:.0f} Mt",
-           "marginal factor (gas) vs average", "neutral"),
-        _e(5, 3, "Cheapest abatement", best["Kosten per ton (gemiddelde factor)"], f"{_land(best.Land)}: {best['Kosten per ton (gemiddelde factor)']:.0f} EUR/t",
-           f"margin {best['Marge EUR/MWh']:.0f} EUR/MWh", "EU ETS: 74 avg 2025, about 90 in Nov 2026", "good"),
-        _e(5, 4, "Netherlands", nl["Kosten per ton (gemiddelde factor)"], f"{nl['Kosten per ton (gemiddelde factor)']:.0f} EUR/t",
-           f"marginal factor: {nl['Kosten per ton (marginale factor)']:.0f} EUR/t", f"margin {nl['Marge EUR/MWh']:.0f} EUR/MWh",
+           "marginal factor (gas)", "neutral"),
+        _e(5, 3, "Cheapest abatement", best["Kosten per ton (marginale factor)"], f"{_land(best.Land)}: {best['Kosten per ton (marginale factor)']:.0f} EUR/t",
+           f"average factor: {best['Kosten per ton (gemiddelde factor)']:.0f} EUR/t", "EU ETS: 74 avg 2025, about 90 in Nov 2026", "good"),
+        _e(5, 4, "Netherlands", nl["Kosten per ton (marginale factor)"], f"{nl['Kosten per ton (marginale factor)']:.0f} EUR/t",
+           f"average factor: {nl['Kosten per ton (gemiddelde factor)']:.0f} EUR/t", f"margin {nl['Marge EUR/MWh']:.0f} EUR/MWh",
            "bad" if nl["Marge EUR/MWh"] < 0 else "good"),
     ]
 

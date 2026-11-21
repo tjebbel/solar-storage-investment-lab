@@ -12,9 +12,9 @@ Dashboard,Volgorde,KPI,Waarde,Tekst,Vergelijking,Referentie,Richting
 4,3,Sterren 2025,4.0,"BGR, LTU, POL, ROU","2022: HUN, LTU, NLD",groei > 30%/jaar,neutraal
 4,4,Nederland,,Hond,2022: Ster,"verzadiging, netcongestie",slecht
 5,1,Countries abating CO2 at a profit,7.0,7 of 26,"solar capture price above LCOE, 2025",negative cost per tonne,goed
-5,2,Abatement potential to 2030,102.56280000000001,103 Mt CO2/yr,average grid factor: 46 Mt,marginal factor (gas) vs average,neutraal
-5,3,Cheapest abatement,-153.29094712982717,Italy: -153 EUR/t,margin 44 EUR/MWh,"EU ETS: 74 avg 2025, about 90 in Nov 2026",goed
-5,4,Netherlands,55.07725332881292,55 EUR/t,marginal factor: 35 EUR/t,margin -14 EUR/MWh,slecht
+5,2,Abatement potential to 2030,102.56280000000001,103 Mt CO2/yr,average grid factor: 46 Mt,marginal factor (gas),neutraal
+5,3,Cheapest abatement,-109.19987200687495,Italy: -109 EUR/t,average factor: -153 EUR/t,"EU ETS: 74 avg 2025, about 90 in Nov 2026",goed
+5,4,Netherlands,34.92779097099999,35 EUR/t,average factor: 55 EUR/t,margin -14 EUR/MWh,slecht
 6,1,Chinese manufacturers in loss,7.0,7 of 8,"polysilicon, wafers, modules",combined net loss 6.5 bn USD,slecht
 6,2,"Module makers, net margin",-8.890393333333334,-9%,range -10% to -7%,"Trina, JA, Jinko, 2025",slecht
 6,3,Inverters and storage,15.0935,15% (Sungrow),storage is 42% of revenue,Enphase: 12%,goed
