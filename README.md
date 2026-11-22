@@ -58,7 +58,7 @@ Spanish capture rate (Synertics 0.97 vs our 0.55) are open deviations.
 | 19 | [Hirth replication](https://public.tableau.com/app/profile/tjebbe.lodeizen/viz/SolarandstorageinEurope/hirthcurve): each extra percentage point of solar lowers its capture rate by 0.02 (median of 20 zones); about half the value is left at 30% solar | academic | published |
 | 20 | [Hourly carbon-free](https://public.tableau.com/app/profile/tjebbe.lodeizen/viz/SolarandstorageinEurope/carbonfree): Germany is 78% carbon-free at 1 pm in summer, 42% at 8 pm in winter; the median zone went from 59% to 67% (2019-2025) | corporate buyer | published |
 | 21-24 | Commodities, workforce, who benefits, hydrogen | follow-up | sources identified (`tableau/STAPPENPLAN_EN.md`) |
-| 25 | What does a MWh really avoid? Average vs marginal CO2 factor by hour; solar and batteries | impact investor, ESG | data ready (t63-t64; 37 zones, two marginal methods) |
+| 25 | [Marginal emissions](https://public.tableau.com/app/profile/tjebbe.lodeizen/viz/SolarandstorageinEurope/marginal): a solar MWh in Germany avoids 0.15 to 0.56 t CO2 depending on the method; batteries add CO2 in Italy and Serbia | impact investor, ESG | published |
 | 26 | Revenue at risk 2030: Hirth slope x 2030 solar targets | investor, lender | data ready (t70; stress test, not a forecast) |
 | 27 | Climate fund simulator: return vs avoided CO2, Monte Carlo | climate fund | data ready (t65-t67; 1,000 draws, fund net IRR) |
 | 28 | Europe's future is in California and South Australia | everyone | data ready (t68-t69; CAISO, ERCOT, AEMO, JEPX, UK vs NL/DE) |
