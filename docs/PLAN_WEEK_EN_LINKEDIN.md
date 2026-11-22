@@ -602,3 +602,14 @@ Tempo zo 22 nov: 7 dashboards (19, 5, 20, 14, 8, 25, 27). Doel deze week: 26-30 
 | zo 29 | Herstelpunten D3, D16, D1/D2, D19, D8, D14; buffer | D8 Netherlands |
 
 Volgende week: 31 (Power BI / Fabric, wacht op Fabric-toegang) en de deep dives uit de 50-postlijst (21-24 zodra de data binnen is).
+
+### Dashboards 32-36 (zo 22 nov, 22:15): deep dives worden genummerde dashboards
+| # | Dashboard | Voor wie | Nodig (zie DOWNLOADS.md) |
+|---|---|---|---|
+| 32 | LCOE per country | ontwikkelaars, investeerders | IRENA/Lazard per land; vervangt de twee referentielanden (noord 67, zuid 51) in 5, 14, 26 |
+| 33 | Cost of capital in Africa and Southeast Asia | impactinvesteerders | IEA Cost of Capital Observatory; verdieping van 14 en 15 |
+| 34 | Cross-border flows (C10) | handelaren, netbeheer | grensstromen staan lokaal (`cbet`); controle met ENTSO-E |
+| 35 | The TenneT queue (C20) | NL-net, beleid | officiele TenneT-reeks; sluit open afwijking 38 GW |
+| 36 | Netherlands after net metering | huishoudens, installateurs | dak-uurprofiel en tarieven 2027; post rond 29 december |
+
+Volgorde volgende week (30 nov - 6 dec): 34 eerst (data staat lokaal), dan 31 zodra Fabric-toegang er is, daarna 32, 33, 35, 36 naarmate de downloads binnen zijn.

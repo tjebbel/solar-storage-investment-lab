@@ -19,3 +19,12 @@ en zeg het; dan zet ik het om naar tabellen, met tests en een stappenplan.
 | 11 | Synertics: definitie van hun capture rate Spanje (mail of methodenotitie) | synertics.io | notitie in `docs/` | C19 | dec |
 
 Niet nodig voor 25-30: Energy-Charts, CAISO, ERCOT, AEMO, JEPX, Elexon, OWID en de ENTSO-E-bestanden staan al in `data/raw`.
+
+## Dashboards 32-36 (toegevoegd 22 nov)
+| Voor | Data | Waar |
+|---|---|---|
+| 32 | LCOE zon per land | IRENA Renewable Power Generation Costs (xlsx); Lazard LCOE+ |
+| 33 | WACC per land/regio | IEA Cost of Capital Observatory (iea.org) |
+| 35 | Wachtrij TenneT, officiele reeks | tennet.eu, Netbeheer Nederland capaciteitskaart-archief |
+| 36 | Uurprofiel zon op dak; terugleververgoeding en -kosten 2027 | KNMI/PVGIS-profiel; tarieven leveranciers, ACM |
+| 31 | Fabric-toegang (trial of werkgever) | app.fabric.microsoft.com |

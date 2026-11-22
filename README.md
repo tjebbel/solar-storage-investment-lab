@@ -65,6 +65,11 @@ Spanish capture rate (Synertics 0.97 vs our 0.55) are open deviations.
 | 29 | Realistic battery: trading without perfect foresight | battery investor | data ready (t71; yesterday's prices capture 80%) |
 | 30 | Forecasting showcase: a simple model beats yesterday's prices in 36 of 37 zones | data analyst | data ready (t73-t75; ridge regression, expanding-window backtest 2023-2026) |
 | 31 | Signals Netherlands in Power BI / Fabric (C04) | Microsoft stack | waiting for Fabric access |
+| 32 | LCOE per country: what solar really costs across Europe | developer, investor | planned; needs IRENA/Lazard cost data per country |
+| 33 | Cost of capital in Africa and Southeast Asia | impact investor | planned; needs IEA Cost of Capital Observatory |
+| 34 | Cross-border flows: who exports the midday surplus (C10) | trader, grid operator | planned; flows cached locally, ENTSO-E check needed |
+| 35 | The TenneT queue: explaining 38 GW (C20) | Dutch grid, policy | planned; needs the official TenneT series |
+| 36 | Netherlands after net metering (1 January 2027) | households, installers | planned; needs rooftop hourly profile and 2027 tariffs |
 
 The research agenda behind the series is in the reference book (`reports/Naslagwerk_Zon_Opslag_Duurzame_Financiering.pdf`).
 
