@@ -582,3 +582,8 @@ Hirth kostte ongeveer 4 uur; acht dashboards op één dag is niet haalbaar. Elk 
 
 Controle zondag-dashboards (21 nov avond, uit `tableau/data_en` herberekend): alle controlewaarden in STAPPENPLAN_VOLLEDIG voor 5, 20, 14 en 8
 kloppen; aangepast: KPI 5 naar marginale factor (Italy -109, NL 35), titel wachtrij D8 (about 8 GW), gemeenten D8 (67 op 100%), bronnaam `Biomass, total` in D14.
+
+### LinkedIn-besluit zo 22 nov, 21:40
+De post over D7 Control matrix is niet geplaatst: niet informatief en aantrekkelijk genoeg. Hij blijft in het archief als referentie
+en om later op voort te bouwen. Ma 23 nov wordt D16 Duck curve de vierde post in de reeks (tekst: "Fourth dashboard in the series").
+Alle volgende postnummers schuiven één op.

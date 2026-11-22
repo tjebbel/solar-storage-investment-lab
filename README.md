@@ -60,7 +60,7 @@ Spanish capture rate (Synertics 0.97 vs our 0.55) are open deviations.
 | 21-24 | Commodities, workforce, who benefits, hydrogen | follow-up | sources identified (`tableau/STAPPENPLAN_EN.md`) |
 | 25 | [Marginal emissions](https://public.tableau.com/app/profile/tjebbe.lodeizen/viz/SolarandstorageinEurope/marginal): a solar MWh in Germany avoids 0.15 to 0.56 t CO2 depending on the method; batteries add CO2 in Italy and Serbia | impact investor, ESG | published |
 | 26 | Revenue at risk 2030: Hirth slope x 2030 solar targets | investor, lender | data ready (t70; stress test, not a forecast) |
-| 27 | Climate fund simulator: return vs avoided CO2, Monte Carlo | climate fund | data ready (t65-t67; 1,000 draws, fund net IRR) |
+| 27 | [Climate fund simulator](https://public.tableau.com/app/profile/tjebbe.lodeizen/viz/SolarandstorageinEurope/fundsim): 1,000 futures per building block; the best mix (south and east) returns 7.5% gross, 4.6% net, while solar avoids 3-9x more CO2 per euro | climate fund | published |
 | 28 | Europe's future is in California and South Australia | everyone | data ready (t68-t69; CAISO, ERCOT, AEMO, JEPX, UK vs NL/DE) |
 | 29 | Realistic battery: trading without perfect foresight | battery investor | data ready (t71; yesterday's prices capture 80%) |
 | 30 | Forecasting showcase: baseline to beat | data analyst | baseline ready (t72); model to build |
