@@ -41,7 +41,7 @@ Spanish capture rate (Synertics 0.97 vs our 0.55) are open deviations.
 | 2 | [Signals Netherlands](https://public.tableau.com/app/profile/tjebbe.lodeizen/viz/SolarandstorageinEurope/SignalsNetherlands): autumn 2026 is a price shock | analyst | published; Tableau checked against DAX and Python (66 of 66) |
 | 3 | [Nuclear](https://public.tableau.com/app/profile/tjebbe.lodeizen/viz/SolarandstorageinEurope/Nuclear): solar catches up with nuclear, world 2025 | policy, investor | published |
 | 4 | [Experience curve](https://public.tableau.com/app/profile/tjebbe.lodeizen/viz/SolarandstorageinEurope/Experiencecurve): 35% cheaper per doubling; NL from star to dog | BCG | published |
-| 5 | CO2 abatement cost curve | McKinsey | data ready; build plan in `tableau/STAPPENPLAN_VOLLEDIG.md` |
+| 5 | [Abatement cost curve](https://public.tableau.com/app/profile/tjebbe.lodeizen/viz/SolarandstorageinEurope/costcurve): solar abates CO2 at a profit in 7 of 26 countries; 103 Mt CO2/yr to 2030 if it replaces gas (46 Mt at the average mix) | McKinsey | published |
 | 6 | Profit pool along the value chain | Bain | data ready (10 manufacturers, 2025 results) |
 | 7 | [Control matrix](https://public.tableau.com/app/profile/tjebbe.lodeizen/viz/SolarandstorageinEurope/Controlmatrix): 21 controls, 6 still open | Big Four | published; 12 external comparisons, 9 agree |
 | 8 | Netherlands: end of net metering, grid congestion | government | data ready |
@@ -50,13 +50,13 @@ Spanish capture rate (Synertics 0.97 vs our 0.55) are open deviations.
 | 11 | China: market prices and the build wave | China | data ready |
 | 12 | Stranded assets per climate scenario | central banks | waiting for NGFS data |
 | 13 | Grid operator: flexibility and EVs | TSO/DSO | data ready |
-| 14 | Impact investor: return against avoided CO2 | climate fund | data ready |
+| 14 | [Impact investor](https://public.tableau.com/app/profile/tjebbe.lodeizen/viz/SolarandstorageinEurope/impact): one million euro in Indian solar avoids six times as much CO2 as in the Netherlands; capital is 54% of the cost in India | climate fund | published |
 | 15 | Global South: why the cost of capital matters | development | data ready |
 | 16 | [Duck curve](https://public.tableau.com/app/profile/tjebbe.lodeizen/viz/SolarandstorageinEurope/duckcurve): the midday dip deepened in all 37 zones; NL 584 negative hours | trader | published |
 | 17 | PPA or merchant | developer, corporate buyer | data ready (LevelTen, Pexapark) |
 | 18 | Storage saturation | battery investor | data ready (hourly arbitrage) |
 | 19 | [Hirth replication](https://public.tableau.com/app/profile/tjebbe.lodeizen/viz/SolarandstorageinEurope/hirthcurve): each extra percentage point of solar lowers its capture rate by 0.02 (median of 20 zones); about half the value is left at 30% solar | academic | published |
-| 20 | Hourly carbon-free power | corporate buyer | data ready (22 zones with reliable data) |
+| 20 | [Hourly carbon-free](https://public.tableau.com/app/profile/tjebbe.lodeizen/viz/SolarandstorageinEurope/carbonfree): Germany is 78% carbon-free at 1 pm in summer, 42% at 8 pm in winter; the median zone went from 59% to 67% (2019-2025) | corporate buyer | published |
 | 21-24 | Commodities, workforce, who benefits, hydrogen | follow-up | sources identified (`tableau/STAPPENPLAN_EN.md`) |
 | 25 | What does a MWh really avoid? Average vs marginal CO2 factor by hour; solar and batteries | impact investor, ESG | data ready (t63-t64; 37 zones, two marginal methods) |
 | 26 | Revenue at risk 2030: Hirth slope x 2030 solar targets | investor, lender | data ready (t70; stress test, not a forecast) |

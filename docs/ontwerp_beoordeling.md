@@ -59,3 +59,9 @@ die de weggelaten grafieken anders gaven. Doel blijft 16/20 vóór publicatie.
 | 16 Duck curve (EN, definitief, 21-11 14:31; sortering op 2025, beide jaren zichtbaar, dip over tijd leesbaar) | 21-11-2026 | 4 | 4 | 4 | 4 | 16 |
 | 19 Hirth replication (EN, live, 21-11 20:26; legenda los onder scatter, open rondjes, yearbyear standaardgrijs, tekstvak en bronregel ontbreken) | 21-11-2026 | 4 | 4 | 3 | 3 | 14 |
 | 19 Hirth replication (EN, definitief, 21-11 20:53; gevulde stippen, zonnegoud, How to read this en bron; legendatitel afgekapt, 2026-deeljaar niet vermeld, tekstvak zonder opvulling) | 21-11-2026 | 4 | 4 | 4 | 4 | 16 |
+| 5 Abatement cost curve (EN, live, 22-11 08:04; KPI-rij niet vernieuwd (-153/55 tegen curve -109), parameter 'Average (gas)', marge en factor onder elkaar met weggevallen labels) | 22-11-2026 | 4 | 2 | 3 | 4 | 13 |
+| 5 Abatement cost curve (EN, definitief, 22-11 08:11; KPI op marginale factor, staven met variabele breedte, marge en factor naast elkaar, gaslijn 0.40, onderrand genummerd) | 22-11-2026 | 4 | 5 | 4 | 4 | 17 |
+| 20 Hourly carbon-free (EN, live, 22-11 09:33; labels zones25 als SUM (Denmark 146, Italy 161), progress zonder labels of legenda, alles onder elkaar) | 22-11-2026 | 4 | 2 | 3 | 4 | 13 |
+| 20 Hourly carbon-free (EN, definitief, 22-11 09:49; labels AVG, zones25 naast annualh, lijnnamen bij progress; 'Hour below 50%' en 11.07 nog op te poetsen) | 22-11-2026 | 4 | 4 | 4 | 4 | 16 |
+| 14 Impact investor (EN, live, 22-11 11:11; titel additionality oud en links/rechts verwisseld, CO2NL paars/groen zonder labels op volle breedte, losse legenda's) | 22-11-2026 | 4 | 3 | 3 | 4 | 14 |
+| 14 Impact investor (EN, definitief, 22-11 11:19; titels kloppen, CO2NL met labels naast tekstvak, financiering + marge in één blad; biomassa bruin lijkt op gas-sienna, wacc standaardkleuren) | 22-11-2026 | 4 | 4 | 4 | 4 | 16 |
