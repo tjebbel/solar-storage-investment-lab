@@ -44,7 +44,7 @@ Spanish capture rate (Synertics 0.97 vs our 0.55) are open deviations.
 | 5 | [Abatement cost curve](https://public.tableau.com/app/profile/tjebbe.lodeizen/viz/SolarandstorageinEurope/costcurve): solar abates CO2 at a profit in 7 of 26 countries; 103 Mt CO2/yr to 2030 if it replaces gas (46 Mt at the average mix) | McKinsey | published |
 | 6 | Profit pool along the value chain | Bain | data ready (10 manufacturers, 2025 results) |
 | 7 | [Control matrix](https://public.tableau.com/app/profile/tjebbe.lodeizen/viz/SolarandstorageinEurope/Controlmatrix): 21 controls, 6 still open | Big Four | published; 12 external comparisons, 9 agree |
-| 8 | Netherlands: end of net metering, grid congestion | government | data ready |
+| 8 | [Netherlands](https://public.tableau.com/app/profile/tjebbe.lodeizen/viz/SolarandstorageinEurope/NL): Dutch solar growth fell to 5% in 2025 while 8 GW of demand waits for a grid connection; 584 negative-price hours | government | published |
 | 9 | European Union: price convergence | EU | data ready |
 | 10 | United States: tax credits and the build-out | US | data ready |
 | 11 | China: market prices and the build wave | China | data ready |

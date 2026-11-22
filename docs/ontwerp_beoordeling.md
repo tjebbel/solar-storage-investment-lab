@@ -65,3 +65,4 @@ die de weggelaten grafieken anders gaven. Doel blijft 16/20 vóór publicatie.
 | 20 Hourly carbon-free (EN, definitief, 22-11 09:49; labels AVG, zones25 naast annualh, lijnnamen bij progress; 'Hour below 50%' en 11.07 nog op te poetsen) | 22-11-2026 | 4 | 4 | 4 | 4 | 16 |
 | 14 Impact investor (EN, live, 22-11 11:11; titel additionality oud en links/rechts verwisseld, CO2NL paars/groen zonder labels op volle breedte, losse legenda's) | 22-11-2026 | 4 | 3 | 3 | 4 | 14 |
 | 14 Impact investor (EN, definitief, 22-11 11:19; titels kloppen, CO2NL met labels naast tekstvak, financiering + marge in één blad; biomassa bruin lijkt op gas-sienna, wacc standaardkleuren) | 22-11-2026 | 4 | 4 | 4 | 4 | 16 |
+| 8 Netherlands (EN, live, 22-11 12:41; build-out, wachtrij per provincie gegroepeerd, gemeenten als U-histogram, negatieve uren met 2026 lichter; onderrand punt 3 afgekapt, kop 'Year' boven negatieve uren, wachtrij lichtroze) | 22-11-2026 | 4 | 4 | 4 | 4 | 16 |
