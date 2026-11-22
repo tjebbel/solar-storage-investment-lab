@@ -373,7 +373,26 @@ Lees: perfecte voorkennis = plafond; handelen op de prijzen van gisteren = vloer
 2. **"Capture by strategy"**: Year × MEDIAN(… vs perfect) voor drie strategieën.
 3. **"Netherlands"**: Year × vier opbrengsten. Tekstvak: `Perfect foresight is a ceiling; the gap is the value of a good forecast.`
 
-## Dashboard 30 "Forecasting showcase" (eerst model bouwen)
+## Dashboard 30 "Forecasting showcase" (model klaar zo 22 nov; `eti.voorspelmodel`)
 
-**Bron** `t72_forecast_baseline`; model nog te maken (backlog: weather, load, calendar; backtest per jaar; model card).
-KPI 30: baseline NL `24 EUR/MWh` (27% van de prijs) · vorige week `30` · mediaan zone `27%` · doel `beat 24 EUR/MWh`.
+**Bronnen** `t73_forecast_model`, `t74_forecast_week`, `t75_forecast_features`. **KPI 30**: `22 EUR/MWh` NL model (gisteren: 24) · `36 of 37` zones ·
+`87%` van perfecte voorkennis (gisteren: 80%) · `23 EUR/MWh` zonder weer en belasting.
+Model: ridge-regressie per zone, getraind op 2019 t/m het jaar voor het testjaar (uitbreidend venster), getest op 2023, 2024, 2025, 2026.
+1. **Hoofdgrafiek "One week in May"** (t74, Year keuzelijst standaard 2025): Hour of week (continu) × Meetwaarden Actual (lijn `44403C`),
+   Model (`4A5FC1`), Yesterday (`A8A29E` gestreept). Titel: `The model follows the midday dip better than yesterday's prices`.
+   **Controle**: 168 uren per jaar (12-18 mei).
+2. **"Error per zone"** (t73, 2025): Zone name × MAE model en MAE yesterday (dumbbell, gesorteerd op Improvement vs yesterday %).
+   Titel: `The model beats yesterday's prices in 36 of 37 zones; median error 20 vs 23 EUR/MWh`.
+   **Controle**: Lithuania +20% · Germany +19% · Netherlands +9% (21.7 vs 23.9) · Norway (North) -5% (enige verliezer).
+3. **"What it is worth"** (t73): Year × MEDIAN(Battery model vs perfect) en MEDIAN(Battery yesterday vs perfect), lijnen.
+   Titel: `A better forecast is worth 7 points of battery revenue: 87% vs 80% of the ceiling`. **Controle** NL 2025: 0.90 vs 0.83 (63.5k vs 58.7k van 70.9k EUR/MW).
+4. **"What drives the forecast"** (t75): Feature × Standardised coefficient, staaf gesorteerd op Absolute.
+   Titel: `Yesterday's price carries the forecast; wind and solar pull it down`. **Controle**: Price yesterday 37.9 · Mean yesterday 25.4 ·
+   Price last week 20.6 · Wind -6.8 · Solar -4.3.
+
+**Tekstvak (model card)**: `Ridge regression per zone on lagged prices, calendar, load, wind and solar. Trained on all years before
+the test year, never on the test year itself. Load, wind and solar are the realised values, standing in for the day-ahead
+forecasts a trader has, so the error is a lower bound for this model type. Without them the error is 23 instead of 22 EUR/MWh in
+the Netherlands: most of the gain comes from prices and calendar, not from weather.`
+Onderrand links: `1. A linear model: no price spikes, no negative-price logic. 2. Realised weather instead of forecasts flatters
+the result slightly. 3. Battery revenue is day-ahead only, 2 hours, one cycle a day.` · rechts: `Next: 29 (realistic battery) · 27 (fund simulator).`

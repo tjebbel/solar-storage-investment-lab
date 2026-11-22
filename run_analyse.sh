@@ -56,6 +56,7 @@ stap "$PY" -m eti.fonds_simulator        # dashboard 27: fondssimulator, rendeme
 stap "$PY" -m eti.wereld_duck            # dashboard 28: duck curve Californie, Texas, Zuid-Australie, Japan, VK naast NL en DE (lokaal)
 stap "$PY" -m eti.omzet_risico           # dashboard 26: revenue at risk 2030 (Hirth-helling x 2030-doelen)
 stap "$PY" -m eti.batterij_realistisch    # dashboards 29-30: batterijstrategieen zonder voorkennis en voorspel-basislijn
+stap "$PY" -m eti.voorspelmodel           # dashboard 30: ridge-model per zone, backtest 2023-2026 (t73-t75)
 stap "$PY" -m eti.kpi_dashboards          # ontwerpnorm: KPI-tegels dashboards 2-5, 7-11, 13-15 (t50), na assurance
 stap "$PY" -m eti.vertaal_en              # Engelse tabellen voor de Engelse dashboards (tableau/data_en), als laatste
 stap "$PY" -m unittest discover -s tests

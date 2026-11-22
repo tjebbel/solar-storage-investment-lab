@@ -90,7 +90,7 @@ D29.1 No-forecast strategy captures: 80% of the ceiling | trade on yesterday's p
 D29.2 Netherlands: 83% | 59k vs 71k EUR/MW | perfect foresight is the upper bound | neutraal
 D29.3 Baltics: hardest to forecast: 60% | Estonia, Latvia, Lithuania | highest upper bound, lowest capture | slecht
 D29.4 Fixed duck schedule: 56% | charge 11-13h, discharge 18-20h | a rule of thumb leaves 44% on the table | neutraal
-D30.1 Baseline to beat (NL): 24 EUR/MWh | 27% of the average price | MAE, same hour yesterday, 2025 | neutraal
-D30.2 Last week is worse: 30 EUR/MWh | same hour, a week earlier | weather changes faster than habits | neutraal
-D30.3 Median zone error: 27% | of the average price | 37 zones, 2025 | neutraal
-D30.4 Model target: beat 24 EUR/MWh | with weather, load and calendar features | to be built | neutraal
+D30.1 Model error (NL): 22 EUR/MWh | yesterday's prices: 24 EUR/MWh | MAE per hour, test year 2025 | goed
+D30.2 Zones where the model wins: 36 of 37 | median improvement 16% | trained on 2019-2024, tested on 2025 | goed
+D30.3 Battery revenue captured: 87% | yesterday's prices: 80% | of perfect foresight, median zone | goed
+D30.4 Without weather and load: 23 EUR/MWh | NL, lagged prices and calendar only | most of the gain is not from weather | neutraal

@@ -91,7 +91,7 @@ Dashboard,Volgorde,KPI,Waarde,Tekst,Vergelijking,Referentie,Richting
 29,2,Netherlands,0.8299,83%,59k vs 71k EUR/MW,perfect foresight is the upper bound,neutral
 29,3,Baltics: hardest to forecast,0.6029,60%,"Estonia, Latvia, Lithuania","highest upper bound, lowest capture",bad
 29,4,Fixed duck schedule,0.558,56%,"charge 11-13h, discharge 18-20h",a rule of thumb leaves 44% on the table,neutral
-30,1,Baseline to beat (NL),23.6013,24 EUR/MWh,27% of the average price,"MAE, same hour yesterday, 2025",neutral
-30,2,Last week is worse,29.9527,30 EUR/MWh,"same hour, a week earlier",weather changes faster than habits,neutral
-30,3,Median zone error,26.8639,27%,of the average price,"37 zones, 2025",neutral
-30,4,Model target,,beat 24 EUR/MWh,"with weather, load and calendar features",to be built,neutral
+30,1,Model error (NL),21.6929,22 EUR/MWh,yesterday's prices: 24 EUR/MWh,"MAE per hour, test year 2025",good
+30,2,Zones where the model wins,36,36 of 37,median improvement 16%,"trained on 2019-2024, tested on 2025",good
+30,3,Battery revenue captured,0.8715,87%,yesterday's prices: 80%,"of perfect foresight, median zone",good
+30,4,Without weather and load,22.5783,23 EUR/MWh,"NL, lagged prices and calendar only",most of the gain is not from weather,neutral

@@ -118,3 +118,15 @@ re-optimises intraday, so lands in between) (`eti.batterij_realistisch`, t71-t72
 yesterday's prices, last week's prices or a fixed duck schedule. Trading on yesterday's prices captures a median 80% of the
 perfect-foresight bound (NL 83%: 59k vs 71k EUR/MW, close to the 61k of the realistic model in dashboard 1); the Baltics only
 60%. The same naive forecasts give the error a model must beat: NL 24 EUR/MWh MAE (27% of the average price) in 2025.
+
+### Dashboard 30: voorspelmodel (22 nov 2026)
+`eti.voorspelmodel` schat per zone een ridge-regressie (lambda 10, gestandaardiseerde kenmerken) voor de day-ahead-uurprijs.
+Kenmerken: prijs van hetzelfde uur gisteren en een week eerder, daggemiddelde en spreiding van gisteren, uur-, weekdag- en
+maanddummies, en belasting, restlast, wind en zon van de dag zelf. Backtest met uitbreidend venster: voor testjaar J wordt op
+2019 t/m J-1 getraind. Resultaat 2025: het model wint in 36 van 37 zones van "de prijzen van gisteren" (mediaan 19,7 tegen 23,0
+EUR/MWh, 16% beter); een batterij die erop handelt haalt 87% van perfecte voorkennis in plaats van 80%.
+Kritische punten: (1) belasting, wind en zon zijn gerealiseerde waarden, niet de prognoses van de dag ervoor; daarom staat het
+model zonder die kenmerken ernaast (NL 22,6 tegen 21,7 EUR/MWh): het grootste deel van de winst komt uit prijzen en kalender.
+(2) Lineair model: geen prijspieken en geen aparte logica voor negatieve prijzen. (3) Noorwegen (Noord) verliest: daar bepaalt
+waterkracht de prijs en voegt het model niets toe.
+

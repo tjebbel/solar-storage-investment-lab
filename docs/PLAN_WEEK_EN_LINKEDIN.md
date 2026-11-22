@@ -587,3 +587,18 @@ kloppen; aangepast: KPI 5 naar marginale factor (Italy -109, NL 35), titel wacht
 De post over D7 Control matrix is niet geplaatst: niet informatief en aantrekkelijk genoeg. Hij blijft in het archief als referentie
 en om later op voort te bouwen. Ma 23 nov wordt D16 Duck curve de vierde post in de reeks (tekst: "Fourth dashboard in the series").
 Alle volgende postnummers schuiven één op.
+
+### Planning week 23-29 nov (zo 22 nov, 22:00; vervangt eerdere weektabellen)
+Tempo zo 22 nov: 7 dashboards (19, 5, 20, 14, 8, 25, 27). Doel deze week: 26-30 en alles tussen 6 en 18 af; volgende week 31 en verder.
+
+| Dag | Bouwen | LinkedIn 8:30 |
+|---|---|---|
+| ma 23 | 27 (8%-lijn) · 26 Revenue at risk · 28 World duck · 29 Realistic battery · 30 Forecasting (als het model klaarstaat) | D16 Duck curve (post 4) |
+| di 24 | 30 (als ma niet gelukt) · 18 Storage saturation · 17 PPA or merchant | D19 Hirth |
+| wo 25 | 6 Profit pool · 9 EU convergence · investor memo (1 pagina, met 25 en 27) | D5 Abatement |
+| do 26 | Gesprek Carbon Equity; daarna 10 United States als er tijd is | D20 Hourly carbon-free |
+| vr 27 | 11 China · 13 Grid flexibility | D3 Nuclear |
+| za 28 | 15 Global South · 12 NGFS (NGFS-download eerst, deadline 7 dec) | D14 Impact investor |
+| zo 29 | Herstelpunten D3, D16, D1/D2, D19, D8, D14; buffer | D8 Netherlands |
+
+Volgende week: 31 (Power BI / Fabric, wacht op Fabric-toegang) en de deep dives uit de 50-postlijst (21-24 zodra de data binnen is).

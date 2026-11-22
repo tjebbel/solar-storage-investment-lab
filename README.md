@@ -63,7 +63,7 @@ Spanish capture rate (Synertics 0.97 vs our 0.55) are open deviations.
 | 27 | [Climate fund simulator](https://public.tableau.com/app/profile/tjebbe.lodeizen/viz/SolarandstorageinEurope/fundsim): 1,000 futures per building block; the best mix (south and east) returns 7.5% gross, 4.6% net, while solar avoids 3-9x more CO2 per euro | climate fund | published |
 | 28 | Europe's future is in California and South Australia | everyone | data ready (t68-t69; CAISO, ERCOT, AEMO, JEPX, UK vs NL/DE) |
 | 29 | Realistic battery: trading without perfect foresight | battery investor | data ready (t71; yesterday's prices capture 80%) |
-| 30 | Forecasting showcase: baseline to beat | data analyst | baseline ready (t72); model to build |
+| 30 | Forecasting showcase: a simple model beats yesterday's prices in 36 of 37 zones | data analyst | data ready (t73-t75; ridge regression, expanding-window backtest 2023-2026) |
 | 31 | Signals Netherlands in Power BI / Fabric (C04) | Microsoft stack | waiting for Fabric access |
 
 The research agenda behind the series is in the reference book (`reports/Naslagwerk_Zon_Opslag_Duurzame_Financiering.pdf`).

@@ -419,14 +419,17 @@ def dashboard29():
 
 def dashboard30():
     t = pd.read_csv(D / "t72_forecast_baseline.csv"); a = t[t.Year == 2025].set_index("Zone")
+    m = pd.read_csv(D / "t73_forecast_model.csv"); m = m[m.Year == 2025].set_index("Zone")
+    nl = m.loc["NL"]; wint = int(m["Model beats yesterday"].sum())
     return [
-        _e(30, 1, "Baseline to beat (NL)", a.loc["NL", "MAE yesterday EUR/MWh"], f"{a.loc['NL', 'MAE yesterday EUR/MWh']:.0f} EUR/MWh",
-           f"{a.loc['NL', 'MAE yesterday % of price']:.0f}% of the average price", "MAE, same hour yesterday, 2025", "neutral"),
-        _e(30, 2, "Last week is worse", a.loc["NL", "MAE last week EUR/MWh"], f"{a.loc['NL', 'MAE last week EUR/MWh']:.0f} EUR/MWh",
-           "same hour, a week earlier", "weather changes faster than habits", "neutral"),
-        _e(30, 3, "Median zone error", a["MAE yesterday % of price"].median(), f"{a['MAE yesterday % of price'].median():.0f}%",
-           "of the average price", "37 zones, 2025", "neutral"),
-        _e(30, 4, "Model target", float("nan"), f"beat {a.loc['NL', 'MAE yesterday EUR/MWh']:.0f} EUR/MWh", "with weather, load and calendar features", "to be built", "neutral"),
+        _e(30, 1, "Model error (NL)", nl["MAE model EUR/MWh"], f"{nl['MAE model EUR/MWh']:.0f} EUR/MWh",
+           f"yesterday's prices: {nl['MAE yesterday EUR/MWh']:.0f} EUR/MWh", "MAE per hour, test year 2025", "good"),
+        _e(30, 2, "Zones where the model wins", wint, f"{wint} of {len(m)}", f"median improvement {m['Improvement vs yesterday %'].median():.0f}%",
+           "trained on 2019-2024, tested on 2025", "good"),
+        _e(30, 3, "Battery revenue captured", m["Battery model vs perfect"].median(), f"{m['Battery model vs perfect'].median():.0%}",
+           f"yesterday's prices: {m['Battery yesterday vs perfect'].median():.0%}", "of perfect foresight, median zone", "good"),
+        _e(30, 4, "Without weather and load", nl["MAE lags and calendar only EUR/MWh"], f"{nl['MAE lags and calendar only EUR/MWh']:.0f} EUR/MWh",
+           "NL, lagged prices and calendar only", "most of the gain is not from weather", "neutral"),
     ]
 
 
