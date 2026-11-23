@@ -265,7 +265,7 @@ def dashboard17():
     return [
         _e(17, 1, "European solar PPA (P25)", l["Price EUR/MWh"], f"{l['Price EUR/MWh']:.0f} EUR/MWh", f"{b.Period}: {b['Price EUR/MWh']:.0f}",
            f"LevelTen, {l.Period}", "bad"),
-        _e(17, 2, "Spain solar PPA", es["Price EUR/MWh"], f"{es['Price EUR/MWh']:.0f} EUR/MWh", f"{es.Period}", "lowest in Europe", "bad"),
+        _e(17, 2, "Spain solar PPA", es["Price EUR/MWh"], f"{es['Price EUR/MWh']:.0f} EUR/MWh", f"{es.Period}", "lowest LevelTen country", "bad"),
         _e(17, 3, "Germany: PPA vs market", m.loc["Germany", "PPA minus capture price"], f"{m.loc['Germany', 'PPA minus capture price']:+.0f} EUR/MWh",
            f"PPA {m.loc['Germany', 'PPA P25 Q4 2025 EUR/MWh']:.0f} vs capture {m.loc['Germany', 'Solar capture price EUR/MWh']:.0f}",
            "2025; positive = PPA pays more", "good"),

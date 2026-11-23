@@ -56,7 +56,7 @@ Dashboard,Volgorde,KPI,Waarde,Tekst,Vergelijking,Referentie,Richting
 16,3,Zones with a deeper dip than 2023,37.0,37 of 37,2025 vs 2023,"Energy-Charts, hourly",neutraal
 16,4,Median negative hours,265.0,265 h,2023: 111 h,"37 zones, 2025",slecht
 17,1,European solar PPA (P25),54.73,55 EUR/MWh,Q3 2024: 64,"LevelTen, Q3 2026",slecht
-17,2,Spain solar PPA,30.93,31 EUR/MWh,Q3 2026,lowest in Europe,slecht
+17,2,Spain solar PPA,30.93,31 EUR/MWh,Q3 2026,lowest LevelTen country,slecht
 17,3,Germany: PPA vs market,3.70466,+4 EUR/MWh,PPA 50 vs capture 46,2025; positive = PPA pays more,goed
 17,4,Hybrid PPA premium,24.0,+24%,solar plus storage vs solar only,"LevelTen, Q2 2026",goed
 18,1,Median arbitrage revenue,64030.6,64k EUR/MW,2023: 49k,"2-hour battery, 1 cycle/day, perfect foresight",neutraal

@@ -1,0 +1,40 @@
+Country,Zone,Baseload EUR/MWh,Solar capture price EUR/MWh,Solar P25 equivalent EUR/MWh,URL
+Denmark,DK1,66.3,43.8,35.0,https://www.kyos.com/app/uploads/2025/09/KYOS-PPA-Report-June-2025-No14.pdf
+Denmark,DK2,58.9,44.2,35.3,https://www.kyos.com/app/uploads/2025/09/KYOS-PPA-Report-June-2025-No14.pdf
+Norway,NO1,56.2,45.0,36.0,https://www.kyos.com/app/uploads/2025/09/KYOS-PPA-Report-June-2025-No14.pdf
+Norway,NO2,55.5,46.1,36.9,https://www.kyos.com/app/uploads/2025/09/KYOS-PPA-Report-June-2025-No14.pdf
+Norway,NO3,45.6,39.8,31.8,https://www.kyos.com/app/uploads/2025/09/KYOS-PPA-Report-June-2025-No14.pdf
+Norway,NO4,20.5,22.4,17.9,https://www.kyos.com/app/uploads/2025/09/KYOS-PPA-Report-June-2025-No14.pdf
+Norway,NO5,51.1,43.2,34.5,https://www.kyos.com/app/uploads/2025/09/KYOS-PPA-Report-June-2025-No14.pdf
+Sweden,SE1,24.6,24.3,19.5,https://www.kyos.com/app/uploads/2025/09/KYOS-PPA-Report-June-2025-No14.pdf
+Sweden,SE2,26.8,24.6,19.7,https://www.kyos.com/app/uploads/2025/09/KYOS-PPA-Report-June-2025-No14.pdf
+Sweden,SE3,52.8,38.9,31.1,https://www.kyos.com/app/uploads/2025/09/KYOS-PPA-Report-June-2025-No14.pdf
+Sweden,SE4,62.4,43.8,35.0,https://www.kyos.com/app/uploads/2025/09/KYOS-PPA-Report-June-2025-No14.pdf
+Finland,FI,47.3,41.2,32.9,https://www.kyos.com/app/uploads/2025/09/KYOS-PPA-Report-June-2025-No14.pdf
+United Kingdom,GB,82.1,75.6,60.5,https://www.kyos.com/app/uploads/2025/09/KYOS-PPA-Report-June-2025-No14.pdf
+Ireland,IE,84.4,79.0,63.2,https://www.kyos.com/app/uploads/2025/09/KYOS-PPA-Report-June-2025-No14.pdf
+Netherlands,NL,74.7,42.3,33.9,https://www.kyos.com/app/uploads/2025/09/KYOS-PPA-Report-June-2025-No14.pdf
+Belgium,BE,75.2,46.7,37.3,https://www.kyos.com/app/uploads/2025/09/KYOS-PPA-Report-June-2025-No14.pdf
+Germany,DE-LU,77.0,46.9,37.5,https://www.kyos.com/app/uploads/2025/09/KYOS-PPA-Report-June-2025-No14.pdf
+France,FR,64.8,41.8,33.4,https://www.kyos.com/app/uploads/2025/09/KYOS-PPA-Report-June-2025-No14.pdf
+Switzerland,CH,81.1,58.3,46.7,https://www.kyos.com/app/uploads/2025/09/KYOS-PPA-Report-June-2025-No14.pdf
+Austria,AT,79.1,55.2,44.2,https://www.kyos.com/app/uploads/2025/09/KYOS-PPA-Report-June-2025-No14.pdf
+Portugal,PT,58.6,36.9,29.5,https://www.kyos.com/app/uploads/2025/09/KYOS-PPA-Report-June-2025-No14.pdf
+Greece,GR,79.5,52.3,41.8,https://www.kyos.com/app/uploads/2025/09/KYOS-PPA-Report-June-2025-No14.pdf
+Spain,ES,59.9,33.6,26.8,https://www.kyos.com/app/uploads/2025/09/KYOS-PPA-Report-June-2025-No14.pdf
+Italy,IT-North,88.1,69.3,55.4,https://www.kyos.com/app/uploads/2025/09/KYOS-PPA-Report-June-2025-No14.pdf
+Italy,IT-Centre-North,86.8,65.8,52.7,https://www.kyos.com/app/uploads/2025/09/KYOS-PPA-Report-June-2025-No14.pdf
+Italy,IT-Centre-South,84.2,58.8,47.0,https://www.kyos.com/app/uploads/2025/09/KYOS-PPA-Report-June-2025-No14.pdf
+Italy,IT-South,77.9,48.5,38.8,https://www.kyos.com/app/uploads/2025/09/KYOS-PPA-Report-June-2025-No14.pdf
+Italy,IT-Calabria,75.7,45.4,36.3,https://www.kyos.com/app/uploads/2025/09/KYOS-PPA-Report-June-2025-No14.pdf
+Italy,IT-Sardinia,69.2,30.1,24.1,https://www.kyos.com/app/uploads/2025/09/KYOS-PPA-Report-June-2025-No14.pdf
+Italy,IT-Sicily,74.6,43.7,35.0,https://www.kyos.com/app/uploads/2025/09/KYOS-PPA-Report-June-2025-No14.pdf
+Czechia,CZ,81.2,55.0,44.0,https://www.kyos.com/app/uploads/2025/09/KYOS-PPA-Report-June-2025-No14.pdf
+Slovakia,SK,75.2,50.2,40.2,https://www.kyos.com/app/uploads/2025/09/KYOS-PPA-Report-June-2025-No14.pdf
+Hungary,HU,75.0,49.7,39.7,https://www.kyos.com/app/uploads/2025/09/KYOS-PPA-Report-June-2025-No14.pdf
+Poland,PL,91.3,70.4,56.3,https://www.kyos.com/app/uploads/2025/09/KYOS-PPA-Report-June-2025-No14.pdf
+Romania,RO,75.7,55.0,44.0,https://www.kyos.com/app/uploads/2025/09/KYOS-PPA-Report-June-2025-No14.pdf
+Bulgaria,BG,83.3,61.1,48.9,https://www.kyos.com/app/uploads/2025/09/KYOS-PPA-Report-June-2025-No14.pdf
+Serbia,RS,69.5,57.5,46.0,https://www.kyos.com/app/uploads/2025/09/KYOS-PPA-Report-June-2025-No14.pdf
+Croatia,HR,77.8,57.9,46.4,https://www.kyos.com/app/uploads/2025/09/KYOS-PPA-Report-June-2025-No14.pdf
+North Macedonia,MK,73.6,52.3,41.9,https://www.kyos.com/app/uploads/2025/09/KYOS-PPA-Report-June-2025-No14.pdf

@@ -1,4 +1,12 @@
-Country,Year,PPA P25 Q4 2025 EUR/MWh,Solar capture price EUR/MWh,Average price EUR/MWh,Solar capture rate,PPA minus capture price,Reading
-Germany,2025,49.77,46.0653,89.3281,0.515687,3.70466,PPA pays more than the market
-Spain,2025,32.5,36.0958,65.2849,0.552896,-3.59576,market paid more than the PPA
-Italy,2025,60.67,94.7699,115.934,0.817397,-34.0999,market paid more than the PPA
+Country,Year,PPA P25 Q4 2025 EUR/MWh,Solar capture price EUR/MWh,Average price EUR/MWh,Solar capture rate,PPA minus capture price,Reading,Source
+Germany,2025,49.77,46.0653,89.3281,0.515687,3.70466,PPA pays more than the market,"LevelTen P25 offer, Q4 2025"
+Spain,2025,32.5,36.0958,65.2849,0.552896,-3.59576,market paid more than the PPA,"LevelTen P25 offer, Q4 2025"
+Italy,2025,60.67,94.7699,115.934,0.817397,-34.0999,market paid more than the PPA,"LevelTen P25 offer, Q4 2025"
+France,2025,63.4,35.9113,61.0706,0.588029,27.4887,PPA pays more than the market,"LevelTen P25 offer, Q4 2025"
+Greece,2025,52.5,59.8122,103.597,0.577355,-7.31225,market paid more than the PPA,"LevelTen P25 offer, Q4 2025"
+Netherlands,2025,33.9,53.4189,86.8172,0.615303,-19.5189,market paid more than the PPA,"KYOS estimate, P25 equivalent for 2026-2035 (June 2025 report)"
+Belgium,2025,37.3,42.4603,82.5792,0.514177,-5.16033,market paid more than the PPA,"KYOS estimate, P25 equivalent for 2026-2035 (June 2025 report)"
+Portugal,2025,29.5,35.3417,66.1838,0.533993,-5.84169,market paid more than the PPA,"KYOS estimate, P25 equivalent for 2026-2035 (June 2025 report)"
+Hungary,2025,39.7,62.563,108.509,0.57657,-22.863,market paid more than the PPA,"KYOS estimate, P25 equivalent for 2026-2035 (June 2025 report)"
+Poland,2025,56.3,67.2724,104.301,0.644983,-10.9724,market paid more than the PPA,"KYOS estimate, P25 equivalent for 2026-2035 (June 2025 report)"
+Romania,2025,44,64.4211,108.16,0.595609,-20.4211,market paid more than the PPA,"KYOS estimate, P25 equivalent for 2026-2035 (June 2025 report)"
