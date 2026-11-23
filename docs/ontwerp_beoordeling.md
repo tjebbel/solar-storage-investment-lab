@@ -73,7 +73,8 @@ die de weggelaten grafieken anders gaven. Doel blijft 16/20 vóór publicatie.
 | 26 Revenue at risk 2030 (EN, definitief, 23-11 14:59; koptekst Revenue at risk 2030, subtitel ingevuld, scenario in alle titels, LCOE-voetnoot, grafieken in verschillende vormen en paars i.p.v. magenta, as stap 4 op EUR/MWh) | 23-11-2026 | 4 | 5 | 3 | 4 | 16 |
 | 29 Battery without perfect foresight (EN, definitief, 23-11 18:22; legenda, titel en as gefixt) | 23-11-2026 | 4 | 5 | 4 | 4 | 17 |
 | 17 PPA or merchant (EN, live, 23-11 23:27; vijf grafieken goed, maar koptekst van dashboard 29, onderrand leeg, KPI in standaardkleuren, tekstvak ontbreekt) | 23-11-2026 | 3 | 4 | 4 | 3 | 14 |
-| 17 PPA or merchant (EN, definitief, 23-11 23:36; kop en subtitel kloppen, KPI magenta/teal, 'Important to know' met vijf punten, 'How to read a PPA?', 2030-stresstest als tweede dumbbell, composite 21 maanden; stippen klein, subtitel van KPI-blad herhaalt de kop) | 23-11-2026 | 4 | 5 | 4 | 4 | 17 |
+| 17 PPA or merchant (EN, live, 23-11 23:36; kop en subtitel kloppen, KPI magenta/teal, 'Important to know' met vijf punten, 'How to read a PPA?', 2030-stresstest als tweede dumbbell, composite 21 maanden; stippen klein, subtitel van KPI-blad herhaalt de kop) | 23-11-2026 | 4 | 5 | 4 | 4 | 17 |
+| 17 PPA or merchant (EN, definitief, 23-11 23:47; stippen in beide dumbbells groter en goed leesbaar, dubbele subtitel bij de KPI-rij weg) | 23-11-2026 | 4 | 5 | 5 | 4 | 18 |
 
 ## Herbeoordeling van alle gepubliceerde dashboards (ma 23 november 2026, 20:30)
 
@@ -83,7 +84,8 @@ De overige twaalf zijn niet opnieuw geopend: daar geldt de laatste regel in de t
 
 | Stand | Dashboards |
 |---|---|
-| 17 | 5 Abatement cost curve, 7 Control matrix, 17 PPA or merchant, 29 Battery without perfect foresight |
+| 18 | 17 PPA or merchant |
+| 17 | 5 Abatement cost curve, 7 Control matrix, 29 Battery without perfect foresight |
 | 16 | 2, 8, 14, 16, 19, 20, 25, 26, 27 |
 | 15 | 3 Nuclear, 4 Experience curve |
 | 14 | 1 First findings |
