@@ -48,8 +48,7 @@ cheaper hours. The evening-to-midday ratio (NL 2.6) is less sensitive to the ove
 · subtitel `Hourly day-ahead prices, 37 European bidding zones, 2019 to 15 November 2026 (Energy-Charts)`.
 Rij 3 The duck · rij 4 Dip per zone + Dip over time · rij 5 Negative hours + tekstvak.
 Onderrand links: `1. Hours in local time; quarter-hours averaged from October 2025. 2. The dip also grows when evening prices rise
-(gas), not only when solar grows. 3. 2026 runs to 15 November.` · rechts: `Next: dashboard 19 (Hirth replication) ·
-5 (abatement cost curve) · 18 (storage saturation).`
+(gas), not only when solar grows. 3. 2026 runs to 15 November.`
 
 ---
 
@@ -77,7 +76,7 @@ data to November 2026: each extra percentage point of solar lowers the capture r
 **Dashboard** `Hirth replication` · titel `Each extra percent of solar costs 2% of its value` · subtitel `Replication of Hirth (2013),
 25 European zones, monthly 2019 to 15 November 2026`. Onderrand links: `1. Monthly data include the season, so slopes are steeper
 than yearly (-0.011). 2. Five zones are left out: too little solar or a poor fit (R2 below 0.4). 3. The Netherlands is missing:
-Energy-Charts covers 2% of its solar.` · rechts: `Next: 5 (abatement cost curve) · 20 (hourly carbon-free) · 18 (storage).`
+Energy-Charts covers 2% of its solar.`
 
 ---
 
@@ -108,8 +107,7 @@ Waarom marginaal als standaard: nieuwe zon verdringt vooral gas (zie dashboard 2
 assumes solar replaces gas; the average factor assumes it replaces today's mix. That choice doubles the potential (46 vs 103 Mt).`
 **Dashboard** `Abatement cost curve` · subtitel `Solar capture price vs LCOE per country, 2025; potential to 2030 targets`.
 Onderrand links: `1. LCOE for two reference countries only (north 67, south 51 EUR/MWh). 2. Avoided CO2 is not an emission
-reduction (GHG Protocol). 3. Germany, Bulgaria and Serbia have no 2030 target in the data, so no width.` · rechts:
-`Next: 20 (hourly carbon-free) · 3 (nuclear) · 14 (impact investor).`
+reduction (GHG Protocol). 3. Germany, Bulgaria and Serbia have no 2030 target in the data, so no width.`
 
 ---
 
@@ -135,8 +133,7 @@ Filter overal **Solar coverage ok = True** (22 zones).
 that at night: storage, wind, hydro or nuclear fill the gap.`
 **Dashboard** `Hourly carbon-free` · subtitel `Share of generation without fossil fuels, by hour, 22 zones with reliable data, 2019-2026`.
 Onderrand links: `1. Biomass is not counted as carbon-free (conservative). 2. Zones with under 60% solar coverage are left out (15),
-including the Netherlands. 3. Imports are not traced; Italy and Denmark report country data per zone.` · rechts:
-`Next: 3 (nuclear) · 14 (impact investor) · 18 (storage saturation).`
+including the Netherlands. 3. Imports are not traced; Italy and Denmark report country data per zone.`
 
 ---
 
@@ -161,7 +158,7 @@ including the Netherlands. 3. Imports are not traced; Italy and Denmark report c
 asks whether the investment adds capacity that would otherwise not be built.`
 **Dashboard** `Impact investor` · titel `Where does a climate euro do the most? Six times more CO2 avoided in India than in the Netherlands`.
 Onderrand links: `1. WACC from IEA for five regions; Africa uncertain. 2. CO2 per euro uses each region's 2025 grid factor;
-it falls as grids get cleaner (2030, 2050). 3. CBS 2025 figures are provisional.` · rechts: `Next: 8 (Netherlands) · 15 (Global South) · 12 (stranded assets).`
+it falls as grids get cleaner (2030, 2050). 3. CBS 2025 figures are provisional.`
 
 ---
 
@@ -189,7 +186,7 @@ dat regio's optelt (eerder telde de KPI dit dubbel: 58.4 in plaats van 29.2 GWp;
 instead of offsetting at the retail price, which makes self-consumption and home batteries more valuable.`
 **Dashboard** `Netherlands` · titel `Dutch solar hits the grid wall: growth fell to 5% while 8 GW waits for a connection`.
 Onderrand links: `1. The capacity map (2026) and the official queue (July 2025) differ; TenneT's 38 GW is not yet explained (C20).
-2. RES-monitor capacity is MWp (DC); CBS counts 25.9 GW. 3. 2026 runs to 15 November.` · rechts: `Next: 18 (storage) · 17 (PPA) · 13 (grid flexibility).`
+2. RES-monitor capacity is MWp (DC); CBS counts 25.9 GW. 3. 2026 runs to 15 November.`
 
 ---
 
@@ -210,27 +207,52 @@ Onderrand links: `1. The capacity map (2026) and the official queue (July 2025) 
 instead of 71k for the Netherlands. Saturation shows up when many batteries flatten the evening peak.`
 **Dashboard** `Storage saturation` · subtitel `2-hour battery, one cycle per day, 88% round-trip efficiency, day-ahead arbitrage only, 37 zones`.
 Onderrand links: `1. Upper bound: no forecast error. 2. Reserve markets (FCR, aFRR) are not included. 3. 2022 was the gas crisis;
-2026 runs to 15 November.` · rechts: `Next: 17 (PPA or merchant) · 13 (grid flexibility) · 16 (duck curve).`
+2026 runs to 15 November.`
 
 ---
 
-## Dashboard 17 "PPA or merchant"
+## Dashboard 17 "PPA or merchant" (herzien 23 november; werkbladen gebouwd)
 
-**Bronnen** `t61_ppa_prices`, `t62_ppa_vs_merchant`, `t1_zonejaar`. **KPI 17**: `55 EUR/MWh` (magenta) · `31 EUR/MWh` (magenta) · `+4 EUR/MWh` (teal) · `+24%` (teal).
+**Bronnen** `t61_ppa_prices`, `t62_ppa_vs_merchant` (11 landen, kolom `Source`), `t76_ppa_countries` (25 landen). Na een nieuwe run
+de bronnen vernieuwen met Cmd+R. **KPI 17**: `55 EUR/MWh` · `31 EUR/MWh` (`lowest LevelTen country`), beide magenta `C4457A` ·
+`+4 EUR/MWh` · `+24%`, beide teal `1F9E89`. Subtitel: `LevelTen P25 offers and Pexapark composite vs realised solar capture prices`.
 
-1. **Hoofdgrafiek "PPA vs market"** (t62): Country op Rijen; Meetwaarden PPA P25 Q4 2025 en Solar capture price, Cirkel, kleur
-   (PPA `4A5FC1`, capture `C9961A`); label PPA minus capture price. Titel: `Was a solar PPA worth it in 2025? Yes in Germany, no in Italy and Spain`.
-   **Controle**: Germany 49.8 vs 46.1 (+3.7) · Spain 32.5 vs 36.1 (-3.6) · Italy 60.7 vs 94.8 (-34.1).
-2. **"PPA price trend"** (t61, Index = P25 continental index): Date × Price, lijn met punten `4A5FC1`; Derived op Vorm of gestippeld.
-   Titel: `European solar PPA prices fell 14% in two years`. **Controle**: Q3 2024 63.6 → Q1 2026 55.1 → Q3 2026 54.7 (derived).
-3. **"Countries"** (t61, Index = P25 country): Market × Price, staaf, Period op Kleur. Titel: `Spain 31, Germany 50, UK 87 EUR/MWh`.
-4. **"Composite"** (t61, EURO Composite): Date × Price, lijn `78716C`. Titel: `All technologies: 52 in April, 45 in May, 48 in September 2026`.
+1. **`dumbbelppa`** (t62): `Country with gap` op Rijen (berekend veld: `[Country] + "  " + IF [PPA minus capture price] > 0 THEN "+"
+   ELSE "" END + STR(ROUND([PPA minus capture price],0))`), aflopend gesorteerd op SUM(PPA minus capture price). Meetwaarden op
+   Kolommen met alleen `PPA P25 Q4 2025 EUR/MWh` en `Solar capture price EUR/MWh`; Namen van meetwaarden op Kleur (PPA batterijblauw
+   `4A5FC1`, capture oranje `E39A2D`) en op Filters. Type Vorm, `Source` op Vorm: LevelTen gevulde cirkel, KYOS open cirkel
+   (niet op Kleur: dat splitst de reeks). Referentieband per cel van minimum naar maximum, lichtgrijs `D6D3D1`, geen lijn.
+   Alias in de legenda: `PPA price (P25 or equivalent)`. Titel: `Was a solar PPA worth it in 2025? Only in France and Germany` ·
+   subtitel `Solid = LevelTen P25 offers; open = KYOS estimates, which run about 25% below LevelTen where both exist`.
+   **Controle**: France +27 · Germany +4 · Spain -4 · Belgium -5 · Portugal -6 · Greece -7 · Poland -11 · Netherlands -20 ·
+   Romania -20 · Hungary -23 · Italy -34.
+2. **`ppatrend`** (t61, filter Index = `P25 continental index`): KWARTAAL(Date) × SUM(Price EUR/MWh), lijn `4A5FC1`, labels met één
+   decimaal. Tweede pil Price op Rijen als dubbele, gesynchroniseerde as: type Vorm, `Derived` op Vorm (`yes` open, `no` gevuld).
+   Referentielijn constante 63.64, lichtgrijs gestippeld, op de linkeras. Titel: `European solar PPA prices fell 14% in two years` ·
+   subtitel `LevelTen P25 continental index, EUR/MWh; open points are derived quarters`.
+   **Controle**: Q3 2024 63.6 → Q3 2025 58.2 → Q4 2025 57.4 → Q1 2026 55.1 → Q2 2026 54.5 → Q3 2026 54.7. Q4 2024 t/m Q2 2025
+   staan niet in de bronnen: de lijn loopt daar rechtdoor.
+3. **`countries`** (t76): Market op Rijen, aflopend op SUM(Price EUR/MWh); staaf met label (0 decimalen); `Source` op Kleur
+   (LevelTen donker `4A5FC1`, KYOS licht `9AA5E0`). Aliassen: `LevelTen P25 offers, Q4 2025` en `KYOS estimates, 2026-2035`.
+   Titel: `Solar PPA prices run from 26 EUR/MWh in Sweden to 87 in the UK` · subtitel `Dark = LevelTen P25 offers, Q4 2025;
+   light = KYOS estimates for 2026-2035`. **Controle**: UK 87 · France 63 · Italy 61 · Germany 50 · Spain 33 · Sweden 26; 25 landen.
+4. **`composite`** (t61, filter Index = `EURO Composite`; uitgebreid 23 nov naar 21 maanden): MAAND(Date) als doorlopende datum ×
+   SUM(Price EUR/MWh), lijn middengrijs `78716C`; tweede as met `Derived` op Vorm (open = afgeleid), labels alleen op begin, dal en eind.
+   Titel: `All technologies: from 52 EUR/MWh in December 2024 to a low of 43 in February 2026, back to 48 in September` · subtitel
+   `Pexapark EURO Composite, monthly, EUR/MWh; open points are derived from the next month's change`.
+   **Controle**: Dec 2024 51.8 · Jan 2025 52.5 · Jun 2025 49.6 · Dec 2025 45.1 · Feb 2026 42.7 · May 2026 44.9 · Sep 2026 48.3.
+   Maart 2026 ontbreekt. April 2026: de bron meldt 51,80, wat botst met mei (+1,2% naar 44,90); afgeleid 44,4 gebruikt.
 
+**Dashboard** `PPA or merchant`, 1200 × 2300, tegels: koptekst `PPA or merchant: what is a fixed solar price worth?` · `KPI 17` ·
+`dumbbelppa` · `ppa2030` (t77: PPA tegen 2025 en de stresstest 2030) · `ppatrend` en `composite` naast elkaar · `countries` ·
+onderrand "Important to know" en tekstvak "How to read a PPA?". Legenda's zonder titel, `Richting` en `Derived` verborgen.
 **Tekstvak "How to read a PPA"**: `A pay-as-produced solar PPA pays a fixed price for every MWh produced, so the buyer takes the
 cannibalisation risk. That is why solar PPAs are cheaper than wind. A hybrid PPA adds a battery and delivers in the evening: +24%.`
-**Dashboard** `PPA or merchant` · subtitel `LevelTen P25 offers and Pexapark composite vs realised solar capture prices`.
-Onderrand links: `1. A PPA is a 10-year price; the capture price is one year. 2. P25 = 25th percentile of offers, not signed deals.
-3. Q2 and Q3 2026 are derived from LevelTen's index; Italy is the average of four zones.` · rechts: `Next: 6 (profit pool) · 18 (storage) · 9 (EU convergence).`
+Onderrand links: `1. A PPA is a 10-year price; the capture price is one year. 2. LevelTen P25 = 25th percentile of offers, not
+signed deals; France and Greece as reported by pv magazine. 3. KYOS = P25-equivalent model estimate for 2026-2035 (June 2025),
+about 25% below LevelTen; indicative only. 4. 2030 is a stress test at 2025 price levels, not a forecast; Germany has no 2030
+target in the data. 5. Open points in the trend charts are derived; March 2026 is missing.` Geen "Next"-regel (ontwerpregel 23 nov).
+**Gepubliceerd 23 november, 17/20**, met `ppa2030` (t77) als tweede grafiek: https://public.tableau.com/app/profile/tjebbe.lodeizen/viz/SolarandstorageinEurope/PPA
 
 ---
 
@@ -251,7 +273,7 @@ Onderrand links: `1. A PPA is a 10-year price; the capture price is one year. 2.
 margins outside China. Ten companies are not the whole market: developers and installers are missing.`
 **Dashboard** `Profit pool` · subtitel `Net margin of ten listed solar companies, 2025 annual results; 6.85 CNY per USD`.
 Onderrand links: `1. Net margin, not a full profit pool. 2. First Solar and Enphase include US tax credits (45X). 3. Integrated
-companies span several segments.` · rechts: `Next: 4 (experience curve) · 11 (China) · 21 (silver and copper).`
+companies span several segments.`
 
 ---
 
@@ -274,7 +296,7 @@ companies span several segments.` · rechts: `Next: 4 (experience curve) · 11 (
 Relative spread = (P90 - P10) / median: a value of 1 means the expensive zones pay twice as much as the cheap ones above the median.`
 **Dashboard** `EU convergence` · subtitel `Monthly day-ahead prices, 37 European bidding zones, January 2019 to November 2026`.
 Onderrand links: `1. Relative spread explodes when the median is low (2020). 2. Zones, not countries: Italy and Scandinavia count
-several times. 3. November 2026 runs to the 15th.` · rechts: `Next: 10 (United States) · 11 (China) · 15 (Global South).`
+several times. 3. November 2026 runs to the 15th.`
 
 ---
 
@@ -306,8 +328,7 @@ Filter overal **Reliable = True** (26 zones in 2025), behalve in grafiek 4.
 plant really backs off. Two honest methods give a range; report both, or state which one you use.`
 **Dashboard** `Marginal emissions` · titel `What does a MWh of solar really avoid? Between 0.15 and 0.56 t in Germany`.
 Onderrand links: `1. Direct emissions with IPCC default factors, not plant data. 2. Imports and exports are not traced.
-3. The Netherlands is left out: Energy-Charts books a third of Dutch output as unclassified (use CBS: 0.25 t/MWh).` · rechts:
-`Next: 27 (climate fund simulator) · 14 (impact investor) · 20 (hourly carbon-free).`
+3. The Netherlands is left out: Energy-Charts books a third of Dutch output as unclassified (use CBS: 0.25 t/MWh).`
 
 ## Dashboard 27 "Climate fund simulator"
 
@@ -339,8 +360,7 @@ costs are drawn at random within published ranges. Move the sliders to build a p
 and 20% carry above an 8% hurdle.`
 **Dashboard** `Climate fund simulator` · titel `Return and impact in one decision: no portfolio wins on both`.
 Onderrand links: `1. A model with public inputs, not investment advice. 2. Battery revenue is day-ahead arbitrage only, so a floor; with
-reserve markets the battery case changes completely (16% instead of 5.5%). Battery capex 408k EUR/MW is an assumption. 3. CO2 per euro is year 1 on today's grid; it falls as grids get cleaner.` · rechts:
-`Next: 25 (marginal emissions) · 26 (revenue at risk) · 29 (realistic battery).`
+reserve markets the battery case changes completely (16% instead of 5.5%). Battery capex 408k EUR/MW is an assumption. 3. CO2 per euro is year 1 on today's grid; it falls as grids get cleaner.`
 
 ## Dashboard 26 "Revenue at risk 2030"
 
@@ -395,4 +415,55 @@ the test year, never on the test year itself. Load, wind and solar are the reali
 forecasts a trader has, so the error is a lower bound for this model type. Without them the error is 23 instead of 22 EUR/MWh in
 the Netherlands: most of the gain comes from prices and calendar, not from weather.`
 Onderrand links: `1. A linear model: no price spikes, no negative-price logic. 2. Realised weather instead of forecasts flatters
-the result slightly. 3. Battery revenue is day-ahead only, 2 hours, one cycle a day.` · rechts: `Next: 29 (realistic battery) · 27 (fund simulator).`
+the result slightly. 3. Battery revenue is day-ahead only, 2 hours, one cycle a day.`
+
+---
+
+# Deel 3: kruisanalyses op bestaande tabellen (23 november; `eti.verdieping`, t77-t81)
+
+De hoofdgrafiek van 37 (t77) staat sinds 23 november in dashboard 17; een apart dashboard 37 is alleen nog nodig voor de
+verdieping met meer LevelTen-kwartalen. Geen "Next"-regels op nieuwe dashboards.
+
+Uitkomsten per doelgroep: `docs/deep_dives.md`. Methode en beperkingen: `docs/methodology.md`, sectie "Kruisanalyses".
+Vaste kleuren: goed teal `1F9E89`, slecht magenta `C4457A`, PPA batterijblauw `4A5FC1`, capture/zon oranje `E39A2D`,
+neutraal warmgrijs `A8A29E`, banden lichtgrijs `D6D3D1`.
+
+## Dashboard 37 "A PPA is a bet on 2030, not on 2025" (t77)
+
+1. **Hoofdgrafiek** (t77): Market op Rijen, gesorteerd op `PPA minus 2030 revenue`; Meetwaarden `PPA price EUR/MWh` (batterijblauw
+   `4A5FC1`), `Solar revenue 2025 EUR/MWh` (oranje `E39A2D`) en `Solar revenue 2030 EUR/MWh` (magenta `C4457A`) als cirkels met een
+   lichtgrijze band; `PPA source` op Vorm (LevelTen gevuld, KYOS open). Titel: `In 12 of 19 countries the PPA price is above what
+   solar would earn in 2030` · subtitel `PPA price against solar revenue in 2025 and in the 2030 stress test; open = KYOS estimate`.
+   **Controle**: France 63 / 36 / 15 · Greece 53 / 60 / 24 · Spain 33 / 36 / 13 · Italy 61 / 95 / 67 · Netherlands 34 / 53 / 53.
+2. **"Three groups"** (t77): Reading × AANTAL, staaf. **Controle**: 3 · 9 · 7.
+3. **"Against cost"** (t77): Market × `PPA minus LCOE`, staaf, teal boven nul en magenta eronder. Titel: `Only Italy and Greece
+   have a PPA price above the reference LCOE`. **Controle**: Italy +9.6 · Greece +1.4 · Sweden -41.
+Onderrand: `1. 2030 is a stress test at 2025 price levels, not a forecast. 2. In 7 countries 2030 is an extrapolation (see flag).
+3. 15 of 19 prices are KYOS estimates, about 25% below LevelTen. 4. LCOE has two reference values (Spain, Netherlands).
+5. Germany is missing: no 2030 target in the source.`
+
+## Dashboard 38 "Solar loses, batteries gain: how much battery hedges a solar park?" (t78, t79)
+
+1. **Hoofdgrafiek** (t78): `Solar capture price change` (x) tegen `Battery revenue per MW change` (y), een punt per zone, `Reading` op
+   Kleur (hedge teal `1F9E89`, both down magenta `C4457A`), nullijnen. Titel: `In 28 of 37 zones solar lost value while batteries
+   gained it, 2023-2025`. **Controle**: NL -17.5 / +13.7k · DE-LU -26.2 / +19.0k · ES -36.7 / +18.4k · GR -34.8 / +32.9k.
+2. **"Hedge ratio"** (t78): Zone name × `Battery MW per solar MW to offset`, staaf gesorteerd, referentielijn mediaan.
+   Titel: `About 1.3 MW of battery offsets the loss of 1 MW of solar (median)`. **Controle**: GR 1.1 · NL 1.3 · DE-LU 1.4 · ES 2.0.
+3. **"What drives battery revenue"** (t79): `Daily spread EUR/MWh` × `Battery revenue per MW`, punt per zone-jaar, trendlijn; ernaast
+   `Negative hours` × `Battery revenue per MW`. Titel: `Daily spread explains 94% of battery revenue; negative hours explain 1%`.
+Onderrand: `1. 1,000 solar full-load hours assumed for every zone. 2. Two years only; capex is not included. 3. Day-ahead
+arbitrage only. 4. Spread and revenue come from the same hourly prices, so part of the 94% is arithmetic.`
+
+## Dashboard 30 versie 2: werkblad "Accuracy is not value" (t80)
+
+`Improvement vs yesterday %` (x) tegen `Revenue gain %` (y), punt per zone, filter Year = 2025, trendlijn.
+Titel: `A smaller error does not mean more revenue: the model earns more in all 148 zone-years, but not where its error fell most`.
+**Controle** NL 2025: fout 21.7 tegen 23.9 EUR/MWh (9.4% beter), omzet 63.5k tegen 58.7k (+4.8k); mediaan 2025 +3.8k EUR/MW (+10.6%),
+nog 8.4k tot perfecte voorkennis.
+
+## Dashboard 27 versie 2: werkblad "Return against CO2" (t81)
+
+`IRR P50` (x) tegen `CO2 per M EUR per year, marginal fossil response` (y), punt per bouwsteen, `Technology` op Vorm, `On the
+frontier` op Kleur (teal `1F9E89`, rest warmgrijs `A8A29E`), referentielijn bij 8%. Titel: `Two of 19 building blocks are not
+beaten on both return and CO2: solar in Italy and in Bulgaria`. **Controle**: Italy 12.1% / 659 t · Bulgaria 8.1% / 1,420 t;
+9 van 28 halen 8% op P50. Voetnoot: `Nine building blocks have no reliable marginal factor and are left out of the frontier.`

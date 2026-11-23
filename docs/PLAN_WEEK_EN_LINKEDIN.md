@@ -638,3 +638,15 @@ Plan voor komende week, met voorrang aan 3, 4, 1 en 6:
 - zo 29 nov: buffer en herstelpunten; 41 en 42 als er tijd is.
 
 Let op: dit overlapt met de planning van 23-29 nov (NGFS, herstelpunten). 40 en 44 vragen literatuur die je zelf moet controleren voordat ze gepubliceerd worden.
+
+### Stand ma 23 nov, 22:30: herbeoordeling, kruisanalyses en documentatie
+- **Gepubliceerd vandaag:** 26 Revenue at risk (16) en 29 Battery without perfect foresight (17). 15 dashboards staan live.
+- **17 PPA or merchant:** data herzien (11 landen in t62, 25 in t76, KYOS apart gemarkeerd); `KPI 17`, `dumbbelppa`, `ppatrend`,
+  `countries` en `composite` zijn gebouwd. Nog doen: dashboard samenstellen, publiceren, beoordelen.
+- **Kruisanalyses klaar (`eti.verdieping`, t77-t81):** 37 is daarmee data-klaar (PPA tegen de stresstest 2030), 38 ook (zon en
+  batterij als hedge, wat batterij-omzet verklaart); versie 2 van 27 (rendement tegen CO2) en 30 (waarde van het model).
+  Uitkomsten: `docs/deep_dives.md`. Stappenplannen: `tableau/STAPPENPLAN_VOLLEDIG.md` deel 3.
+- **Herbeoordeling:** 1 (14), 3 (15) en 4 (15) zitten onder 16; verbeterlijst in `docs/ontwerp_beoordeling.md`.
+- **Volgorde vóór donderdag 26 nov (Carbon Equity):** 17 afmaken → 4 (tekstvak), 3 (onderrand), 1 (compact) → 15 → als er tijd is
+  het werkblad "Return against CO2" bij 27 (t81) en 37, omdat die het dichtst bij de vragen van een klimaatfonds liggen.
+- **Datagaten die zelf een download vragen:** 2030-doel Duitsland, LCOE per land, meer LevelTen-kwartalen (`docs/DOWNLOADS.md`).

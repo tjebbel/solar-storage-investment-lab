@@ -1,4 +1,4 @@
-# Downloads die je zelf moet doen (bijgewerkt za 21 november 2026)
+# Downloads die je zelf moet doen (bijgewerkt ma 23 november 2026)
 
 Claude kan vanuit deze sessie niets downloaden: de werkomgeving op de iMac heeft geen netwerk en de cloudomgeving mag geen
 bestanden van websites halen. Alles wat lokaal kon, staat klaar (dashboards 25-30: t63-t72). Zet elk bestand in de genoemde map
@@ -28,3 +28,13 @@ Niet nodig voor 25-30: Energy-Charts, CAISO, ERCOT, AEMO, JEPX, Elexon, OWID en 
 | 35 | Wachtrij TenneT, officiele reeks | tennet.eu, Netbeheer Nederland capaciteitskaart-archief |
 | 36 | Uurprofiel zon op dak; terugleververgoeding en -kosten 2027 | KNMI/PVGIS-profiel; tarieven leveranciers, ACM |
 | 31 | Fabric-toegang (trial of werkgever) | app.fabric.microsoft.com |
+
+## Toegevoegd ma 23 nov (audit van alle tabellen)
+| Voor | Data | Waar |
+|---|---|---|
+| 5, 26, 37 | 2030-doel zon voor Duitsland, Bulgarije en Servië (TWh of GW met vollasturen) | NECP's (Europese Commissie), Ember Target Tracker; toevoegen aan de bron van `t13` |
+| 5, 26, 27, 37 | LCOE zon per land (nu twee waarden voor alle landen): zelfde bestand als dashboard 32 | IRENA Renewable Power Generation Costs; Lazard LCOE+ |
+| 17, 37 | LevelTen P25 per land, meer kwartalen en meer landen (nu vijf landen, één kwartaal) | LevelTen-persberichten per kwartaal; aanvullen in `data/extern/ppa_prijzen.csv` |
+| 17 | KYOS PPA Report, nieuwere uitgave dan juni 2025 | kyos.com → PPA Insights; nieuw bestand naast `data/extern/ppa_kyos_2025_06.csv` |
+
+Al gedaan op 23 nov zonder download: Frankrijk en Griekenland (LevelTen via pv magazine) en de KYOS-tabel van juni 2025 (39 zones).

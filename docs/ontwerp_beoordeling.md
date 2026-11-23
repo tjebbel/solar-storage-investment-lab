@@ -72,3 +72,38 @@ die de weggelaten grafieken anders gaven. Doel blijft 16/20 vóór publicatie.
 | 27 Climate fund simulator (EN, definitief, 22-11 21:51, tab fundsim; selectie weg, horizontale lijn weg; verticale 8%-lijn ontbreekt nog, alleen 0-lijn) | 22-11-2026 | 4 | 4 | 4 | 4 | 16 |
 | 26 Revenue at risk 2030 (EN, definitief, 23-11 14:59; koptekst Revenue at risk 2030, subtitel ingevuld, scenario in alle titels, LCOE-voetnoot, grafieken in verschillende vormen en paars i.p.v. magenta, as stap 4 op EUR/MWh) | 23-11-2026 | 4 | 5 | 3 | 4 | 16 |
 | 29 Battery without perfect foresight (EN, definitief, 23-11 18:22; legenda, titel en as gefixt) | 23-11-2026 | 4 | 5 | 4 | 4 | 17 |
+| 17 PPA or merchant (EN, live, 23-11 23:27; vijf grafieken goed, maar koptekst van dashboard 29, onderrand leeg, KPI in standaardkleuren, tekstvak ontbreekt) | 23-11-2026 | 3 | 4 | 4 | 3 | 14 |
+| 17 PPA or merchant (EN, definitief, 23-11 23:36; kop en subtitel kloppen, KPI magenta/teal, 'Important to know' met vijf punten, 'How to read a PPA?', 2030-stresstest als tweede dumbbell, composite 21 maanden; stippen klein, subtitel van KPI-blad herhaalt de kop) | 23-11-2026 | 4 | 5 | 4 | 4 | 17 |
+
+## Herbeoordeling van alle gepubliceerde dashboards (ma 23 november 2026, 20:30)
+
+Dashboards 1, 3 en 4 zijn opnieuw live bekeken (ingebouwde browser, 1500 breed); er is niets gewijzigd, dus de scores blijven staan.
+De overige twaalf zijn niet opnieuw geopend: daar geldt de laatste regel in de tabel hierboven. De datawijzigingen van 23 november
+(t50 regel 17, t61, t62, t76) raken alleen dashboard 17.
+
+| Stand | Dashboards |
+|---|---|
+| 17 | 5 Abatement cost curve, 7 Control matrix, 17 PPA or merchant, 29 Battery without perfect foresight |
+| 16 | 2, 8, 14, 16, 19, 20, 25, 26, 27 |
+| 15 | 3 Nuclear, 4 Experience curve |
+| 14 | 1 First findings |
+
+**Wat er nodig is om 1, 3 en 4 op 16 te krijgen**
+
+| Dashboard | Live gezien op 23-11 | Verbetering | Verwacht |
+|---|---|---|---|
+| 4 Experience curve | Tekstvak "What comes next" noemt 3 en 5 als volgende, maar die zijn gepubliceerd; witruimte tussen de rijen; grijze variantengrafiek zonder accent | Tekstvak "What comes next" verwijderen; witruimte dichtschuiven | 16 |
+| 3 Nuclear | Labels en World-filter kloppen; twee tekstvakken onderaan, maar geen onderrand met bron en leesregels | Onderrand: `1. Ember 2000-2025. 2. Capture rate 1.00 = the average hourly price. 3. The trajectory is a rule (at least 10% and 2 TWh), not a policy judgement.` | 16 |
+| 1 First findings | KPI-rij en kaart goed; zes grafieken onder elkaar; legenda "Direction" bij de regiolijnen voegt niets toe; "Difference without coverage gaps" hoort niet bij het verhaal | Compact maken: kaart, regiotrend en batterijstaaf houden; dekkingsgrafiek en segmentstaven naar een tweede tab; legenda verbergen | 16 |
+
+**Inhoudelijke verbeteringen uit de data-audit (zelfde datum)**
+
+| Dashboard | Bevinding | Actie |
+|---|---|---|
+| 5 en 26 | Duitsland, Bulgarije en Servië hebben geen 2030-doel in t13; Duitsland ontbreekt daardoor in "revenue at risk" en in het potentieel van de kostencurve | Doel met bron toevoegen (zie `docs/DOWNLOADS.md`), opnieuw draaien |
+| 5, 26, 27 | Twee LCOE-waarden voor alle landen | Voetnoot is er op 26; echte oplossing is dashboard 32 (LCOE per land) |
+| 27 | 9 van 28 bouwstenen zonder marginale factor | Werkblad "Return against CO2" (t81) toont welke ontbreken |
+| 30 | KPI vergelijkt de fout; de waarde in euro's ontbreekt | Werkblad "Accuracy is not value" (t80) |
+| 17 | Vergelijkt een tienjarige prijs met één jaar | Vervolg 37 (t77): PPA tegen 2025 en tegen de stresstest 2030 |
+
+**Ontwerpregel vanaf 23 november 2026:** geen "Next:"- of "What comes next"-regel meer op dashboards; die neemt ruimte in en voegt niets toe. Bestaande regels verdwijnen bij de eerstvolgende bewerking van een dashboard (1, 4 en andere).

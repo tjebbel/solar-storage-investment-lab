@@ -243,12 +243,13 @@ Bronnen: `t28_zuiden`, `t27_impact`. KPI: filter **15**.
 | 6 Profit pool (Bain) | Klaar (20 november): t60 met tien fabrikanten; stappenplan in `docs/PLAN_WEEK_EN_LINKEDIN.md` §3. |
 | 12 Stranded assets (NGFS) | NGFS-scenariodata (licentie: alleen lokaal, niet op GitHub). Download via de NGFS Scenario Explorer. |
 | 16 Duck-curve atlas | Klaar (20 nov): `eti.uurdata` → t53-t54; stappenplan in `STAPPENPLAN_VOLLEDIG.md`. |
-| 17 PPA or merchant | Klaar (20 november): t61 en t62 uit openbare LevelTen- en Pexapark-cijfers; stappenplan in `docs/PLAN_WEEK_EN_LINKEDIN.md` §3. |
+| 17 PPA or merchant | Data herzien 23 november: t61, t62 (11 landen, kolom Source) en t76 (25 landen) uit LevelTen, Pexapark en KYOS; gepubliceerd 23 november (17/20), met de 2030-stresstest (t77) als tweede grafiek. Stappenplan: `STAPPENPLAN_VOLLEDIG.md`. |
 | 18 Storage saturation | Klaar (20 nov): `eti.uurdata` → t55; stappenplan in `STAPPENPLAN_VOLLEDIG.md`. |
 | 19 Hirth replication | Klaar (20 nov): `eti.uurdata` → t56, t56b; stappenplan in `STAPPENPLAN_VOLLEDIG.md`. |
 | 20-24 | 20 klaar (t57-t58); 21 Wereldbank Pink Sheet (zilver, koper); 22 IRENA/ILO Renewable Energy and Jobs 2025; 23 CBS/TNO Monitor Energiearmoede 2019-2025; 24 IEA Global Hydrogen Review 2025 (CC BY 4.0) en de LCOH-calculator van de European Hydrogen Observatory. |
 
 | 25-30 | Klaar (21 nov): t63-t72 uit lokale data; stappenplannen in `STAPPENPLAN_VOLLEDIG.md` deel 2. |
+| 37, 38 en versie 2 van 27 en 30 | Data klaar (23 nov): `eti.verdieping` → t77-t81; stappenplannen in `STAPPENPLAN_VOLLEDIG.md` deel 3; uitkomsten in `docs/deep_dives.md`. |
 | 31 Power BI / Fabric | Wacht op Fabric-toegang (controle C04). |
 
 Downloads die nog nodig zijn (12, 21-24 en versie 2 van 8, 15, 17): zie `docs/DOWNLOADS.md`.

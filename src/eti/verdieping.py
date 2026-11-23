@@ -1,0 +1,127 @@
+"""Verdieping 23 november 2026: vijf kruisanalyses op bestaande tabellen, alleen Engels.
+Voor de geplande onderzoeken 37 (PPA als de capture rate daalt) en 38 (flexibiliteit) en versie 2 van 27 en 30.
+
+Geen nieuwe bronnen: alles komt uit tableau/data_en. Draai dit na omzet_risico, ppa_waardeketen, fonds_simulator en voorspelmodel.
+Tabellen (tableau/data en tableau/data_en):
+  t77_ppa_vs_2030        dashboard 37: PPA-prijs per land (t76) tegen de zon-opbrengst 2025 en de stresstest 2030 (t70) en de LCOE.
+                         Een PPA loopt tien jaar; 2030 is een eerlijker ijkpunt dan alleen 2025. Stresstest, geen prognose.
+  t78_solar_battery_hedge dashboard 38: per zone de verandering 2023-2025 van de capture-prijs zon en de batterij-omzet (t1), en
+                         hoeveel MW batterij per MW zon het verlies van zon dekt (aanname: VOLLASTUREN vollasturen zon).
+  t79_battery_drivers    dashboard 38: batterij-omzet per zone en jaar tegen dagspreiding, negatieve uren en avond/middag-verhouding
+                         (t1, t54), met de voorspelling uit de dagspreiding alleen en het residu.
+  t80_forecast_value     dashboard 30 v2: wat het voorspelmodel (t73) oplevert in euro per MW, naast de verbetering van de fout.
+  t81_impact_frontier    dashboard 27 v2: bouwstenen van de fondssimulator (t65): rendement tegen vermeden CO2, met Pareto-vlag.
+Beperkingen: t70 kent twee LCOE-waarden (Spanje, Nederland) voor alle landen; KYOS ligt ongeveer 25% onder LevelTen;
+VOLLASTUREN is een vaste aanname voor alle zones; correlaties zijn geen oorzaak.
+Gebruik:  PYTHONPATH=src python3 -m eti.verdieping
+"""
+from pathlib import Path
+
+import numpy as np
+import pandas as pd
+
+D = Path("tableau/data_en")
+UIT = [Path("tableau/data"), Path("tableau/data_en")]
+VOLLASTUREN = 1000          # vollasturen zon per jaar, vaste aanname voor de hedge-verhouding
+CO2 = "CO2 per M EUR per year, marginal fossil response"
+
+
+def ppa_vs_2030():
+    p = pd.read_csv(D / "t76_ppa_countries.csv")
+    r = pd.read_csv(D / "t70_revenue_at_risk.csv")
+    t = p.merge(r, left_on="Market", right_on="Country")
+    t["PPA source"] = np.where(t.Source.str.startswith("LevelTen"), "LevelTen P25 offer", "KYOS estimate")
+    uit = t[["Market", "PPA source", "Price EUR/MWh", "Solar revenue 2025 EUR/MWh", "Solar revenue 2030 EUR/MWh", "LCOE EUR/MWh"]].copy()
+    uit = uit.rename(columns={"Price EUR/MWh": "PPA price EUR/MWh"})
+    uit["PPA minus 2025 revenue"] = uit["PPA price EUR/MWh"] - uit["Solar revenue 2025 EUR/MWh"]
+    uit["PPA minus 2030 revenue"] = uit["PPA price EUR/MWh"] - uit["Solar revenue 2030 EUR/MWh"]
+    uit["PPA minus LCOE"] = uit["PPA price EUR/MWh"] - uit["LCOE EUR/MWh"]
+    uit["Reading"] = np.select(
+        [(uit["PPA minus 2025 revenue"] > 0) & (uit["PPA minus 2030 revenue"] > 0),
+         (uit["PPA minus 2025 revenue"] <= 0) & (uit["PPA minus 2030 revenue"] > 0),
+         (uit["PPA minus 2025 revenue"] <= 0) & (uit["PPA minus 2030 revenue"] <= 0)],
+        ["PPA above market in 2025 and 2030", "market paid more in 2025, PPA protects by 2030", "market above PPA in both years"],
+        "PPA above market in 2025 only")
+    uit["2030 is extrapolated"] = (~t["Within observed range"].astype(bool)) | t["Hits floor 0.2"].astype(bool)
+    return uit.sort_values("PPA minus 2030 revenue", ascending=False)
+
+
+def hedge():
+    z = pd.read_csv(D / "t1_zonejaar.csv")
+    z["cap"] = z["Gemiddelde prijs"] * z["Capture rate zon"]
+    k = {"cap": "Solar capture price", "Batterij-omzet per MW": "Battery revenue per MW", "Capture rate zon": "Solar capture rate"}
+    a, b = z[z.Jaar == 2023].set_index("Zone"), z[z.Jaar == 2025].set_index("Zone")
+    t = pd.DataFrame({"Zone name": b.Zonenaam, "Region": b.Regio})
+    for kol, naam in k.items():
+        t[f"{naam} 2023"], t[f"{naam} 2025"] = a[kol], b[kol]
+        t[f"{naam} change"] = b[kol] - a[kol]
+    t["Solar revenue change EUR per MW"] = t["Solar capture price change"] * VOLLASTUREN
+    t["Battery MW per solar MW to offset"] = np.where(
+        (t["Solar revenue change EUR per MW"] < 0) & (t["Battery revenue per MW change"] > 0),
+        -t["Solar revenue change EUR per MW"] / t["Battery revenue per MW change"], np.nan)
+    t["Reading"] = np.select(
+        [(t["Solar capture price change"] < 0) & (t["Battery revenue per MW change"] > 0),
+         (t["Solar capture price change"] < 0) & (t["Battery revenue per MW change"] <= 0),
+         (t["Solar capture price change"] >= 0) & (t["Battery revenue per MW change"] > 0)],
+        ["hedge: solar down, battery up", "both down", "both up"], "solar up, battery down")
+    vol = z[z["Heel jaar"].astype(str).str.lower().isin(["true", "1", "ja", "yes"]) & (z.Jaar <= 2025)]
+    t["Correlation capture rate vs battery revenue 2019-2025"] = vol.groupby("Zone").apply(
+        lambda g: g["Capture rate zon"].corr(g["Batterij-omzet per MW"]))
+    t["Full-load hours assumed"] = VOLLASTUREN
+    return t.dropna(subset=["Solar capture price change"]).reset_index().sort_values("Battery revenue per MW change", ascending=False)
+
+
+def drivers():
+    z = pd.read_csv(D / "t1_zonejaar.csv")
+    d = pd.read_csv(D / "t54_duck_depth.csv")
+    t = d.merge(z, left_on=["Zone", "Year"], right_on=["Zone", "Jaar"])
+    t = t[t.Year <= 2025]                                             # 2026 is een deeljaar
+    uit = t[["Zone", "Zone name", "Regio", "Year", "Dagspreiding", "Negatieve uren", "Evening to midday ratio",
+             "Midday dip EUR/MWh", "Gemiddelde prijs", "Batterij-omzet per MW"]].rename(columns={
+        "Regio": "Region", "Dagspreiding": "Daily spread EUR/MWh", "Negatieve uren": "Negative hours",
+        "Gemiddelde prijs": "Average price EUR/MWh", "Batterij-omzet per MW": "Battery revenue per MW"})
+    x, y = uit["Daily spread EUR/MWh"], uit["Battery revenue per MW"]
+    b, a = np.polyfit(x, y, 1)
+    uit["Predicted from daily spread"] = a + b * x
+    uit["Residual EUR per MW"] = y - uit["Predicted from daily spread"]
+    uit["EUR per MW per EUR/MWh of spread"] = b
+    for kol in ("Daily spread EUR/MWh", "Negative hours", "Evening to midday ratio", "Midday dip EUR/MWh", "Average price EUR/MWh"):
+        uit[f"R2 {kol.split(' EUR')[0].lower()}"] = uit[kol].corr(y) ** 2
+    return uit
+
+
+def forecast_value():
+    f = pd.read_csv(D / "t73_forecast_model.csv")
+    f["Share captured gain"] = f["Battery model vs perfect"] - f["Battery yesterday vs perfect"]
+    f["Revenue gain EUR per MW"] = f["Battery model EUR/MW"] - f["Battery yesterday EUR/MW"]
+    f["Revenue gain %"] = 100 * f["Revenue gain EUR per MW"] / f["Battery yesterday EUR/MW"]
+    f["Still left on the table EUR per MW"] = f["Battery perfect EUR/MW"] - f["Battery model EUR/MW"]
+    f["Improvement from lags and calendar only %"] = 100 * (1 - f["MAE lags and calendar only EUR/MWh"] / f["MAE yesterday EUR/MWh"])
+    return f
+
+
+def frontier():
+    a = pd.read_csv(D / "t65_fund_assets.csv")
+    t = a[["Building block", "Technology", "Country", "IRR P10", "IRR P50", "IRR P90", "Share of draws with IRR above 8%",
+           "CO2 per M EUR per year, average", "CO2 per M EUR per year, marginal domestic", CO2]].copy()
+    t["Has marginal factor"] = t[CO2].notna()
+    s = t[t["Has marginal factor"]]
+    t["On the frontier"] = [bool(h) and not ((s["IRR P50"] >= i) & (s[CO2] >= c) & ((s["IRR P50"] > i) | (s[CO2] > c))).any()
+                            for i, c, h in zip(t["IRR P50"], t[CO2], t["Has marginal factor"])]
+    t["Clears 8% at P50"] = t["IRR P50"] >= 0.08
+    t["Method spread (fossil response / domestic)"] = t[CO2] / t["CO2 per M EUR per year, marginal domestic"].where(lambda v: v > 0)
+    return t.sort_values("IRR P50", ascending=False)
+
+
+def main():
+    uit = {"t77_ppa_vs_2030": ppa_vs_2030(), "t78_solar_battery_hedge": hedge(), "t79_battery_drivers": drivers(),
+           "t80_forecast_value": forecast_value(), "t81_impact_frontier": frontier()}
+    for naam, d in uit.items():
+        for u in UIT:
+            d.to_csv(u / f"{naam}.csv", index=False, float_format="%.6g")
+        print(f"{naam}: {len(d)} rijen")
+    return uit
+
+
+if __name__ == "__main__":
+    main()

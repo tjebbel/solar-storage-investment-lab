@@ -1,0 +1,38 @@
+Zone,Zone name,Region,Solar capture price 2023,Solar capture price 2025,Solar capture price change,Battery revenue per MW 2023,Battery revenue per MW 2025,Battery revenue per MW change,Solar capture rate 2023,Solar capture rate 2025,Solar capture rate change,Solar revenue change EUR per MW,Battery MW per solar MW to offset,Reading,Correlation capture rate vs battery revenue 2019-2025,Full-load hours assumed
+PL,Poland,Central & South-East Europe,100.845,67.2724,-33.5729,24241.2,63400.2,39159,0.90317,0.644983,-0.258187,-33572.9,0.857348,"hedge: solar down, battery up",-0.882155,1000
+GR,Greece,Central & South-East Europe,94.636,59.8122,-34.8237,47503.7,80371.8,32868.1,0.794646,0.577355,-0.217291,-34823.7,1.0595,"hedge: solar down, battery up",-0.724651,1000
+HU,Hungary,Central & South-East Europe,86.1547,62.563,-23.5916,50165.1,80919.3,30754.2,0.806586,0.57657,-0.230016,-23591.6,0.767103,"hedge: solar down, battery up",-0.624682,1000
+RS,Serbia,Central & South-East Europe,87.3338,64.6055,-22.7283,45734.3,76232,30497.7,0.844139,0.598948,-0.245191,-22728.3,0.745245,"hedge: solar down, battery up",-0.543093,1000
+SI,Slovenia,Central & South-East Europe,84.3949,65.9145,-18.4804,42197.9,68871.3,26673.4,0.808489,0.629863,-0.178626,-18480.4,0.69284,"hedge: solar down, battery up",-0.526211,1000
+BG,Bulgaria,Central & South-East Europe,82.6392,73.3049,-9.33425,55387.4,80875.8,25488.4,0.795801,0.685772,-0.110029,-9334.25,0.366215,"hedge: solar down, battery up",-0.658799,1000
+HR,Croatia,Central & South-East Europe,84.9357,69.4216,-15.5141,46785.9,72014.8,25228.9,0.81887,0.658955,-0.159915,-15514.1,0.614933,"hedge: solar down, battery up",-0.45469,1000
+RO,Romania,Central & South-East Europe,83.1673,64.4211,-18.7463,55426.2,80346.5,24920.3,0.801721,0.595609,-0.206112,-18746.3,0.752249,"hedge: solar down, battery up",-0.571441,1000
+SK,Slovakia,Central & South-East Europe,85.9458,56.8616,-29.0842,43958.3,66192.4,22234.1,0.820618,0.553678,-0.26694,-29084.2,1.30809,"hedge: solar down, battery up",-0.467542,1000
+CZ,Czechia,Central & South-East Europe,80.2276,54.8526,-25.3749,38655.9,59886.4,21230.5,0.796027,0.56644,-0.229587,-25374.9,1.19521,"hedge: solar down, battery up",-0.420619,1000
+AT,Austria,North-West Europe,77.1055,49.3186,-27.7869,36821.2,57899.4,21078.2,0.754893,0.49846,-0.256433,-27786.9,1.31828,"hedge: solar down, battery up",-0.376964,1000
+LT,Lithuania,Baltic states,85.2818,48.8891,-36.3928,42582.3,62484.9,19902.6,0.902972,0.572994,-0.329978,-36392.8,1.82854,"hedge: solar down, battery up",-0.532456,1000
+DE-LU,Germany,North-West Europe,72.2468,46.0653,-26.1815,42132.8,61173.3,19040.5,0.759086,0.515687,-0.243399,-26181.5,1.37504,"hedge: solar down, battery up",-0.316895,1000
+LV,Latvia,Baltic states,84.2602,55.4049,-28.8553,42546.5,61388.7,18842.2,0.897354,0.646157,-0.251197,-28855.3,1.53142,"hedge: solar down, battery up",-0.52264,1000
+PT,Portugal,Iberia,73.0217,35.3417,-37.68,30273.8,48927.6,18653.8,0.827182,0.533993,-0.293189,-37680,2.01997,"hedge: solar down, battery up",-0.899801,1000
+DK2,Denmark (East),North-West Europe,66.8662,53.3162,-13.55,35555.1,53990.3,18435.2,0.822896,0.646264,-0.176632,-13550,0.735008,"hedge: solar down, battery up",-0.344457,1000
+ES,Spain,Iberia,72.7857,36.0958,-36.6899,32811.2,51193.9,18382.7,0.835602,0.552896,-0.282706,-36689.9,1.99589,"hedge: solar down, battery up",-0.892834,1000
+EE,Estonia,Baltic states,71.3957,46.8695,-24.5262,44453.7,62710.1,18256.4,0.786356,0.582921,-0.203435,-24526.2,1.34343,"hedge: solar down, battery up",-0.435701,1000
+DK1,Denmark (West),North-West Europe,67.8405,50.561,-17.2795,35399.6,52655,17255.4,0.781319,0.623384,-0.157935,-17279.5,1.0014,"hedge: solar down, battery up",-0.32396,1000
+BE,Belgium,North-West Europe,76.2074,42.4603,-33.747,38019.4,54696,16676.6,0.783463,0.514177,-0.269286,-33747,2.02362,"hedge: solar down, battery up",-0.168394,1000
+SE4,Sweden (South),Scandinavia,53.2418,34.5147,-18.7272,30368.2,44551.5,14183.3,0.82059,0.57112,-0.24947,-18727.2,1.32037,"hedge: solar down, battery up",0.118336,1000
+NL,Netherlands,North-West Europe,70.919,53.4189,-17.5001,47320.1,61041.4,13721.3,0.740144,0.615303,-0.124841,-17500.1,1.2754,"hedge: solar down, battery up",-0.224405,1000
+CH,Switzerland,North-West Europe,85.5778,60.3647,-25.2131,25149.7,38397,13247.3,0.796295,0.593621,-0.202674,-25213.1,1.90326,"hedge: solar down, battery up",-0.0920491,1000
+SE3,Sweden (Central),Scandinavia,40.4984,27.2404,-13.258,21376.8,31869.5,10492.7,0.783267,0.589124,-0.194143,-13258,1.26354,"hedge: solar down, battery up",0.376007,1000
+NO2,Norway (South),Scandinavia,68.7626,52.9176,-15.845,14757.6,22523.8,7766.2,0.865601,0.808994,-0.056607,-15845,2.04025,"hedge: solar down, battery up",0.536799,1000
+NO1,Norway (Oslo),Scandinavia,53.5047,47.0417,-6.46299,12460.9,19577.7,7116.8,0.799247,0.805974,0.006727,-6462.99,0.908132,"hedge: solar down, battery up",0.461676,1000
+FR,France,North-West Europe,83.5965,35.9113,-47.6852,34997.2,41936.1,6938.9,0.863088,0.588029,-0.275059,-47685.2,6.87215,"hedge: solar down, battery up",-0.0601883,1000
+FI,Finland,Scandinavia,50.4758,36.0507,-14.4251,21793.1,24692.5,2899.4,0.893831,0.890352,-0.003479,-14425.1,4.9752,"hedge: solar down, battery up",0.39679,1000
+NO5,Norway (West),Scandinavia,54.4657,35.2501,-19.2157,9984.67,9766.97,-217.7,0.812458,0.751181,-0.061277,-19215.7,,both down,0.635761,1000
+IT-Centre-North,Italy (Centre-North),Italy,112.823,97.1491,-15.6742,31210.7,30728.2,-482.5,0.878002,0.831877,-0.046125,-15674.2,,both down,0.342736,1000
+IT-North,Italy (North),Italy,112.835,97.0713,-15.7642,28786.3,27289.5,-1496.8,0.883121,0.837833,-0.045288,-15764.2,,both down,0.33099,1000
+NO4,Norway (North),Scandinavia,22.9682,4.63903,-18.3292,4792.53,2579.52,-2213.01,0.766946,0.532225,-0.234721,-18329.2,,both down,-0.229755,1000
+NO3,Norway (Central),Scandinavia,33.0536,14.5427,-18.5109,6835.09,4593.48,-2241.61,0.857298,0.688763,-0.168535,-18510.9,,both down,-0.00394782,1000
+SE1,Sweden (North),Scandinavia,33.0085,11.3672,-21.6413,9309.09,6800.33,-2508.76,0.825732,0.680088,-0.145644,-21641.3,,both down,-0.408597,1000
+IT-South,Italy (South),Italy,105.88,92.2788,-13.6011,36583.5,34070.6,-2512.9,0.846728,0.80225,-0.044478,-13601.1,,both down,0.458057,1000
+SE2,Sweden (North-Central),Scandinavia,33.0086,11.8413,-21.1672,9292.87,6440.99,-2851.88,0.825629,0.716125,-0.109504,-21167.2,,both down,-0.286693,1000
+IT-Sicily,Italy (Sicily),Italy,106.477,92.5806,-13.8961,38064.4,35165.5,-2898.9,0.844651,0.797627,-0.047024,-13896.1,,both down,0.852386,1000

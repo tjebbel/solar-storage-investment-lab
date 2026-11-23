@@ -26,6 +26,18 @@ is reproduced by `bash run_analyse.sh` and checked in the control matrix (`table
 * **Nuclear and solar each produced about 2,800 TWh worldwide in 2025.** Matching US nuclear output would take about
   427 GW of solar: one GW of nuclear is not one GW of solar.
 
+**Deep dives across tables (23 November 2026, `docs/deep_dives.md`, `python -m eti.verdieping`):**
+
+* **A PPA protects against the future, not the past.** The solar PPA price beat the 2025 market in 3 of 19 countries, but is
+  above the 2030 stress-test revenue in 12 of 19 (15 of the prices are KYOS estimates; 2030 is not a forecast).
+* **Batteries hedge solar.** Between 2023 and 2025 the solar capture price fell and battery revenue rose in 28 of 37 zones;
+  about 1.3 MW of battery offsets the loss of 1 MW of solar (median, 1,000 full-load hours, day-ahead only, no capex).
+* **Negative-price hours do not predict battery revenue.** Daily spread explains 94% of it, negative hours 1%.
+* **Forecast accuracy is not forecast value.** The price model earns more than yesterday's prices in all 148 zone-years
+  (median EUR 4.8k per MW a year), but the gain is unrelated to how much the error fell (correlation -0.04).
+* **Return and impact rarely coincide.** Of 19 fund building blocks, two are on the return-versus-CO2 frontier: solar in
+  Italy and in Bulgaria.
+
 **External validation** (`tableau/data/t52_validatie_extern.csv`, controls C19-C21): our German solar capture rates
 (0.94 in 2022, 0.59 in 2024, 0.52 in 2025) match Modo Energy and Enervis within 0.01; Austria, Hungary and Romania 2024
 fall in Enervis' 0.63-0.66 band. Our learning rate (35%) is above ITRPV's long-run 26% (1976-2025) because of the short
@@ -53,7 +65,7 @@ Spanish capture rate (Synertics 0.97 vs our 0.55) are open deviations.
 | 14 | [Impact investor](https://public.tableau.com/app/profile/tjebbe.lodeizen/viz/SolarandstorageinEurope/impact): one million euro in Indian solar avoids six times as much CO2 as in the Netherlands; capital is 54% of the cost in India | climate fund | published |
 | 15 | Global South: why the cost of capital matters | development | data ready |
 | 16 | [Duck curve](https://public.tableau.com/app/profile/tjebbe.lodeizen/viz/SolarandstorageinEurope/duckcurve): the midday dip deepened in all 37 zones; NL 584 negative hours | trader | published |
-| 17 | PPA or merchant | developer, corporate buyer | data ready (LevelTen, Pexapark) |
+| 17 | [PPA or merchant](https://public.tableau.com/app/profile/tjebbe.lodeizen/viz/SolarandstorageinEurope/PPA): a solar PPA beat the 2025 market only in France and Germany, but the PPA price is above the 2030 stress-test revenue in 12 of 19 countries | developer, corporate buyer | published (LevelTen offers, KYOS estimates flagged as indicative, Pexapark; 2030 is a stress test) |
 | 18 | Storage saturation | battery investor | data ready (hourly arbitrage) |
 | 19 | [Hirth replication](https://public.tableau.com/app/profile/tjebbe.lodeizen/viz/SolarandstorageinEurope/hirthcurve): each extra percentage point of solar lowers its capture rate by 0.02 (median of 20 zones); about half the value is left at 30% solar | academic | published |
 | 20 | [Hourly carbon-free](https://public.tableau.com/app/profile/tjebbe.lodeizen/viz/SolarandstorageinEurope/carbonfree): Germany is 78% carbon-free at 1 pm in summer, 42% at 8 pm in winter; the median zone went from 59% to 67% (2019-2025) | corporate buyer | published |
@@ -70,6 +82,9 @@ Spanish capture rate (Synertics 0.97 vs our 0.55) are open deviations.
 | 34 | Cross-border flows: who exports the midday surplus (C10) | trader, grid operator | planned; flows cached locally, ENTSO-E check needed |
 | 35 | The TenneT queue: explaining 38 GW (C20) | Dutch grid, policy | planned; needs the official TenneT series |
 | 36 | Netherlands after net metering (1 January 2027) | households, installers | planned; needs rooftop hourly profile and 2027 tariffs |
+| 37 | A PPA is a bet on 2030, not on 2025: the PPA price is above the 2030 stress-test revenue in 12 of 19 countries | developer, lender | data ready (t77; `docs/deep_dives.md`) |
+| 38 | Solar loses, batteries gain: in 28 of 37 zones, and about 1.3 MW of battery offsets 1 MW of solar | portfolio manager, battery investor | data ready (t78-t79) |
+| 39-44 | Cost of capital per country, subsidies per tonne, grid costs, connection queues, experience curve per country, hydrogen or heat versus batteries | follow-up | planned (`docs/PLAN_WEEK_EN_LINKEDIN.md`) |
 
 The research agenda behind the series is in the reference book (`reports/Naslagwerk_Zon_Opslag_Duurzame_Financiering.pdf`).
 

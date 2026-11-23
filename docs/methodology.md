@@ -72,6 +72,15 @@ biomassa telt niet mee. Import wordt niet gevolgd.
 **PPA (t61, t62).** LevelTen P25 (aanbiedingen, geen gesloten contracten) per kwartaal; twee kwartalen afgeleid uit de index
 (Q3 2026 = 0,86 × 63,64). Pexapark EURO Composite (alle technieken) per maand. PPA tegen markt: P25 Q4 2025 tegen de
 capture-prijs zon 2025 uit t1 (Italië: gemiddelde van vier zones). Bekende tegenstrijdigheden staan in de csv (kolom Note).
+Aanvulling 23 november: Frankrijk en Griekenland (LevelTen Q4 2025, zoals gemeld door pv magazine; niet expliciet als P25
+gelabeld) en de KYOS-schatting per zone (`data/extern/ppa_kyos_2025_06.csv`, juni 2025, P25-equivalent voor 2026-2035 met 20%
+risicokorting). KYOS is gemiddeld 72% van LevelTen waar beide bestaan (Frankrijk 53%, Spanje 83%); de kolom `Source` in t62 en
+t76 houdt de bronnen uit elkaar en titels claimen alleen wat de LevelTen-landen dragen. t76 geeft 25 landen (LevelTen waar
+beschikbaar, anders KYOS; zones gemiddeld per land).
+Pexapark EURO Composite is op 23 november uitgebreid van 5 naar 21 maanden (december 2024 tot september 2026) uit de maandberichten
+in de vakpers; vijf maanden zijn afgeleid uit de gemelde maandverandering van de volgende maand (kolom Derived), maart 2026
+ontbreekt. Voor april 2026 meldt één bron 51,80; dat botst met mei (+1,2% naar 44,90) en februari (42,70) en is waarschijnlijk een
+dollarbedrag. De reeks gebruikt daarom de afgeleide 44,4 en bewaart de gemelde waarde in de kolom Note.
 
 
 ## Deepening for impact investors and analysts (21 November 2026, dashboards 25-30)
@@ -130,3 +139,40 @@ model zonder die kenmerken ernaast (NL 22,6 tegen 21,7 EUR/MWh): het grootste de
 (2) Lineair model: geen prijspieken en geen aparte logica voor negatieve prijzen. (3) Noorwegen (Noord) verliest: daar bepaalt
 waterkracht de prijs en voegt het model niets toe.
 
+## Kruisanalyses (23 november 2026, t77-t81, `eti.verdieping`)
+
+Geen nieuwe bronnen: vijf analyses die bestaande tabellen combineren. Uitkomsten en leeswijzer per doelgroep: `docs/deep_dives.md`.
+
+**PPA tegen 2030 (t77; t76 × t70).** Per land de PPA-prijs tegen de zon-opbrengst 2025 en tegen de stresstest 2030. Van 19 landen
+ligt de PPA in 3 boven de markt van 2025 en in 12 boven de stresstest 2030; in 7 betaalt de markt in beide jaren meer.
+Beperkingen: 2030 is een stresstest bij het prijsniveau van 2025, geen prognose; in 7 van de 19 landen is het een extrapolatie buiten het
+waargenomen zonaandeel of raakt de capture rate de ondergrens 0,2 (kolom `2030 is extrapolated`); 15 van de 19 prijzen zijn
+KYOS-schattingen; Duitsland ontbreekt omdat t13 geen 2030-doel voor Duitsland heeft.
+
+**Zon en batterij als hedge (t78; t1).** Verandering 2023-2025 per zone. In 28 van 37 zones daalde de capture-prijs van zon en
+steeg de batterij-omzet; in 9 daalden beide. Mediaan: zon -19 EUR/MWh, batterij +17k EUR/MW per jaar. Hedge-verhouding =
+verlies van 1 MW zon (bij 1.000 vollasturen, vaste aanname) gedeeld door de winst van 1 MW batterij: mediaan 1,3 (kwartielen
+0,8-1,9). Binnen zones is de correlatie tussen capture rate en batterij-omzet (2019-2025) in 73% van de gevallen negatief
+(mediaan -0,32). Beperkingen: twee jaren, geen investeringskosten, batterij-omzet is alleen day-ahead.
+
+**Wat batterij-omzet verklaart (t79; t1 × t54).** 259 zone-jaren 2019-2025. Dagspreiding verklaart 94% (405 EUR/MW per jaar per
+EUR/MWh spreiding); negatieve uren 1%, avond/middag-verhouding 45%, middagdip 48%, prijsniveau 49%. De 94% is deels
+rekenkundig (de omzet wordt uit dezelfde uurprijzen berekend); de bruikbare uitkomst is dat het aantal negatieve uren niets
+zegt en dat het residu per zone laat zien waar de spreiding over meer uren aanhoudt (Servië, Hongarije, Griekenland boven de
+lijn; Finland en Noord-Zweden eronder).
+
+**Waarde van het voorspelmodel (t80; t73).** 148 zone-jaren 2023-2026. Het model verdient in alle 148 meer dan "de prijzen van
+gisteren": mediaan +4,8k EUR/MW per jaar (2025: +3,8k, +10,6%); er blijft in 2025 mediaan 8,4k tot perfecte voorkennis over. De
+verbetering van de fout (MAE) en de extra omzet hangen niet samen (correlatie -0,04): voor een batterij telt de rangorde van
+de uren, niet de gemiddelde fout. Model selecteren op MAE is dus niet hetzelfde als selecteren op opbrengst.
+
+**Rendement tegen CO2 (t81; t65).** 28 bouwstenen; 19 hebben een marginale emissiefactor. Twee liggen op de Pareto-grens:
+zon in Italië (IRR P50 12,1%, 659 t per miljoen euro per jaar) en zon in Bulgarije (8,1%, 1.420 t). 9 van 28 halen 8% op P50.
+De methode bepaalt de impactclaim: fossil response geeft mediaan 3 keer zoveel vermeden CO2 als de binnenlandse methode.
+Ontbrekend: Spanje, Portugal, Nederland, Denemarken, Oostenrijk, Estland en Frankrijk (dekking opwek onbetrouwbaar).
+
+**Bekende gaten uit de audit van 23 november.** (1) t70 en t13 gebruiken twee LCOE-waarden (Spanje 51,09 en Nederland 67,39)
+voor alle landen: elke uitspraak "onder de LCOE" hangt daarvan af; dashboard 32 (LCOE per land) lost dit op. (2) Duitsland,
+Bulgarije en Servië hebben geen 2030-doel in t13 en ontbreken daardoor in t70. (3) Noorwegen en Zweden: capture-prijs verschilt
+tot 2 EUR/MWh tussen t13 en t70 (andere weging van zones). (4) `tableau/data_en` bevat tabellen met Nederlandse kolomnamen
+(t1-t5, t9, t10, t43, t47, t48, t50): bewust zo gelaten omdat de werkmappen die namen gebruiken.

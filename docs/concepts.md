@@ -141,3 +141,20 @@ gross margin shows the operating picture.
   real strategy captures (80% with yesterday's prices).
 - **MAE (mean absolute error):** the average size of a forecast error, in EUR/MWh; a model is only useful if it beats a naive
   baseline such as "same hour yesterday".
+
+## 13. Added 23 November 2026 (dashboard 17 and the deep dives, t76-t81)
+
+- **P25 offer vs P25-equivalent estimate:** LevelTen's P25 is the 25th percentile of real offers on its marketplace. KYOS
+  publishes a model estimate of the same quantity for 2026-2035 with a 20% risk discount. Where both exist KYOS is about 72%
+  of LevelTen, so the two are never mixed in one claim: solid marks and dark bars are offers, open marks and light bars estimates.
+- **PPA against the future, not the past:** a PPA fixes a price for about ten years. Comparing it with one past year's
+  capture price answers "was it worth it"; comparing it with the 2030 stress test answers "what does it protect against".
+- **Natural hedge and hedge ratio:** when solar's capture price falls, daily spreads widen and battery revenue rises. The
+  hedge ratio is the MW of battery per MW of solar whose extra revenue offsets the solar loss. Example 2023-2025, median
+  zone: solar lost 19 EUR/MWh, a battery gained 17k EUR/MW, ratio 1.3 at 1,000 full-load hours.
+- **R-squared (R2):** the share of the differences in one number that another number explains. Daily spread explains 94% of
+  battery revenue between zones and years; the count of negative-price hours explains 1%.
+- **Value of a forecast:** what a better forecast earns, not how much smaller its error is. The two are different things:
+  across 148 zone-years the error reduction and the extra battery revenue are uncorrelated (-0.04).
+- **Pareto frontier:** the options that no other option beats on both goals at once. Of 19 fund building blocks with a
+  marginal emission factor, two are on the return-versus-CO2 frontier: solar in Italy and solar in Bulgaria.
