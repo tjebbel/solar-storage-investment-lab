@@ -62,7 +62,7 @@ Spanish capture rate (Synertics 0.97 vs our 0.55) are open deviations.
 | 26 | [Revenue at risk 2030](https://public.tableau.com/app/profile/tjebbe.lodeizen/viz/SolarandstorageinEurope/lcoe): if 2030 targets are met, solar loses a median 22 EUR/MWh of revenue | investor, lender | published (stress test, not a forecast) |
 | 27 | [Climate fund simulator](https://public.tableau.com/app/profile/tjebbe.lodeizen/viz/SolarandstorageinEurope/fundsim): 1,000 futures per building block; the best mix (south and east) returns 7.5% gross, 4.6% net, while solar avoids 3-9x more CO2 per euro | climate fund | published |
 | 28 | Europe's future is in California and South Australia | everyone | data ready (t68-t69; CAISO, ERCOT, AEMO, JEPX, UK vs NL/DE) |
-| 29 | Realistic battery: trading without perfect foresight | battery investor | data ready (t71; yesterday's prices capture 80%) |
+| 29 | [Battery without perfect foresight](https://public.tableau.com/app/profile/tjebbe.lodeizen/viz/SolarandstorageinEurope/battery): trading on yesterday's prices captures a median 80% of the perfect-foresight ceiling | investor, lender | published (upper bound, not a forecast) |
 | 30 | Forecasting showcase: a simple model beats yesterday's prices in 36 of 37 zones | data analyst | data ready (t73-t75; ridge regression, expanding-window backtest 2023-2026) |
 | 31 | Signals Netherlands in Power BI / Fabric (C04) | Microsoft stack | waiting for Fabric access |
 | 32 | LCOE per country: what solar really costs across Europe | developer, investor | planned; needs IRENA/Lazard cost data per country |
