@@ -613,3 +613,28 @@ Volgende week: 31 (Power BI / Fabric, wacht op Fabric-toegang) en de deep dives 
 | 36 | Netherlands after net metering | huishoudens, installateurs | dak-uurprofiel en tarieven 2027; post rond 29 december |
 
 Volgorde volgende week (30 nov - 6 dec): 34 eerst (data staat lokaal), dan 31 zodra Fabric-toegang er is, daarna 32, 33, 35, 36 naarmate de downloads binnen zijn.
+
+### Nieuwe onderzoeken 37-44 (zo 22 nov, 22:20): volgorde op snelheid, daarna relevantie
+Opdracht: 3, 4, 1 en 6 zo snel mogelijk; de rest daarna op relevantie.
+
+| # | Onderzoek | Voor wie | Nodig | Volgorde |
+|---|---|---|---|---|
+| 37 | PPA-prijzen als de capture rate daalt (vervolg op 17) | ontwikkelaars, inkopers | bestaande data (t61, t62) | 1: di 24 nov |
+| 38 | Flexibiliteit per procent extra zon: batterij, vraagsturing, export (vervolg op 18, 29) | netbeheer, batterij-investeerders | bestaande data (t3, t55, t71) | 2: wo 25 nov |
+| 39 | Kapitaalkosten per land en hun aandeel in de LCOE (vervolg op 33) | investeerders, Carbon Equity | IEA Cost of Capital, IRENA (download) | 3: vr 27 nov, zodra downloads binnen zijn |
+| 40 | Welke subsidies vermijden echt CO2 per euro (literatuur) | beleid, fondsen | literatuur en subsidiebedragen (download) | 4: za 28 nov, literatuurlijst eerst |
+| 41 | Netwerkkosten per land (ACM en netbeheerders) | netbeheer, investeerders | tarieven per netbeheerder (download) | rest |
+| 42 | Netaansluiting als bottleneck: wachttijd per land (vervolg op 35) | netbeheer, beleid | capaciteitskaarten (download) | rest |
+| 43 | Ervaringscurve per land (vervolg op 4) | ontwikkelaars | bestaande data (t11, t13) | rest |
+| 44 | Waterstof of warmte tegenover batterijen: kosten per opgeslagen kWh | energiebedrijven | literatuur, afbakenen | laatste |
+
+Plan voor komende week, met voorrang aan 3, 4, 1 en 6:
+- ma 23 nov: 26-30 zoals gepland (geen wijziging).
+- di 24 nov: 37 PPA-prijzen, bouwen met bestaande data.
+- wo 25 nov: 38 flexibiliteit.
+- do 26 nov: Carbon Equity-gesprek; daarna de downloads voor 39 en 41.
+- vr 27 nov: 39 kapitaalkosten.
+- za 28 nov: literatuurlijst voor 40, daarna 40 subsidies.
+- zo 29 nov: buffer en herstelpunten; 41 en 42 als er tijd is.
+
+Let op: dit overlapt met de planning van 23-29 nov (NGFS, herstelpunten). 40 en 44 vragen literatuur die je zelf moet controleren voordat ze gepubliceerd worden.
