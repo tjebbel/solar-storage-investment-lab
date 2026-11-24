@@ -252,7 +252,7 @@ Onderrand links: `1. A PPA is a 10-year price; the capture price is one year. 2.
 signed deals; France and Greece as reported by pv magazine. 3. KYOS = P25-equivalent model estimate for 2026-2035 (June 2025),
 about 25% below LevelTen; indicative only. 4. 2030 is a stress test at 2025 price levels, not a forecast; Germany has no 2030
 target in the data. 5. Open points in the trend charts are derived; March 2026 is missing.` Geen "Next"-regel (ontwerpregel 23 nov).
-**Gepubliceerd 23 november, 17/20**, met `ppa2030` (t77) als tweede grafiek: https://public.tableau.com/app/profile/tjebbe.lodeizen/viz/SolarandstorageinEurope/PPA
+**Gepubliceerd 23 november, 18/20**, met `ppa2030` (t77) als tweede grafiek: https://public.tableau.com/app/profile/tjebbe.lodeizen/viz/SolarandstorageinEurope/PPA
 
 ---
 

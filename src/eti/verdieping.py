@@ -11,6 +11,9 @@ Tabellen (tableau/data en tableau/data_en):
                          (t1, t54), met de voorspelling uit de dagspreiding alleen en het residu.
   t80_forecast_value     dashboard 30 v2: wat het voorspelmodel (t73) oplevert in euro per MW, naast de verbetering van de fout.
   t81_impact_frontier    dashboard 27 v2: bouwstenen van de fondssimulator (t65): rendement tegen vermeden CO2, met Pareto-vlag.
+  t82_cost_of_capital    dashboard 15: kapitaalkosten zon per land (data/extern/kapitaalkosten_landen.csv, IEA) en wat dezelfde
+                         zonnecentrale daardoor meer kost dan bij Europese financiering (zelfde rekenregel als impact_zuiden:
+                         85% van de LCOE is kapitaal, looptijd 25 jaar). Jaren verschillen per land (2021 of 2024): kolom Year.
 Beperkingen: t70 kent twee LCOE-waarden (Spanje, Nederland) voor alle landen; KYOS ligt ongeveer 25% onder LevelTen;
 VOLLASTUREN is een vaste aanname voor alle zones; correlaties zijn geen oorzaak.
 Gebruik:  PYTHONPATH=src python3 -m eti.verdieping
@@ -24,6 +27,7 @@ D = Path("tableau/data_en")
 UIT = [Path("tableau/data"), Path("tableau/data_en")]
 VOLLASTUREN = 1000          # vollasturen zon per jaar, vaste aanname voor de hedge-verhouding
 CO2 = "CO2 per M EUR per year, marginal fossil response"
+KAPITAALDEEL, LOOPTIJD = 0.85, 25   # zoals in impact_zuiden
 
 
 def ppa_vs_2030():
@@ -113,9 +117,24 @@ def frontier():
     return t.sort_values("IRR P50", ascending=False)
 
 
+def crf(w, n=LOOPTIJD):
+    return w / (1 - (1 + w) ** -n)
+
+
+def cost_of_capital():
+    k = pd.read_csv(Path("data/extern") / "kapitaalkosten_landen.csv")
+    basis = k.loc[k.Country == "Europe", "WACC"].iloc[0]
+    k["WACC %"] = 100 * k.WACC
+    k["LCOE vs European financing"] = (1 - KAPITAALDEEL) + KAPITAALDEEL * crf(k.WACC) / crf(basis)
+    k["Extra cost from capital %"] = 100 * (k["LCOE vs European financing"] - 1)
+    k["Cheaper at European financing %"] = 100 * (1 - 1 / k["LCOE vs European financing"])
+    k["Multiple of European WACC"] = k.WACC / basis
+    return k.sort_values("WACC", ascending=False)
+
+
 def main():
     uit = {"t77_ppa_vs_2030": ppa_vs_2030(), "t78_solar_battery_hedge": hedge(), "t79_battery_drivers": drivers(),
-           "t80_forecast_value": forecast_value(), "t81_impact_frontier": frontier()}
+           "t80_forecast_value": forecast_value(), "t81_impact_frontier": frontier(), "t82_cost_of_capital": cost_of_capital()}
     for naam, d in uit.items():
         for u in UIT:
             d.to_csv(u / f"{naam}.csv", index=False, float_format="%.6g")

@@ -75,6 +75,15 @@ die de weggelaten grafieken anders gaven. Doel blijft 16/20 vóór publicatie.
 | 17 PPA or merchant (EN, live, 23-11 23:27; vijf grafieken goed, maar koptekst van dashboard 29, onderrand leeg, KPI in standaardkleuren, tekstvak ontbreekt) | 23-11-2026 | 3 | 4 | 4 | 3 | 14 |
 | 17 PPA or merchant (EN, live, 23-11 23:36; kop en subtitel kloppen, KPI magenta/teal, 'Important to know' met vijf punten, 'How to read a PPA?', 2030-stresstest als tweede dumbbell, composite 21 maanden; stippen klein, subtitel van KPI-blad herhaalt de kop) | 23-11-2026 | 4 | 5 | 4 | 4 | 17 |
 | 17 PPA or merchant (EN, definitief, 23-11 23:47; stippen in beide dumbbells groter en goed leesbaar, dubbele subtitel bij de KPI-rij weg) | 23-11-2026 | 4 | 5 | 5 | 4 | 18 |
+| 4 Experience curve (EN, live, 24-11 07:42; tekstvak 'What comes next' weg, ITRPV-stip teal; KPI-rij Nederlands doordat t50 naar tableau/data wees) | 24-11-2026 | 3 | 4 | 3 | 4 | 14 |
+| 4 Experience curve (EN, definitief, 24-11 07:59; KPI-rij weer Engels met teal/grijs/magenta, witruimte dicht, selectie op de as weg) | 24-11-2026 | 4 | 4 | 4 | 4 | 16 |
+| 3 Nuclear (EN, definitief, 24-11 07:59; onderrand 'Notes' met bron en vier leesregels; KPI 4 onderregel en kolomkop 'Count..' afgekapt) | 24-11-2026 | 4 | 4 | 4 | 4 | 16 |
+| 1 First findings (EN, live, 24-11 18:04, tab Firstfindings2; dekkingsgrafiek, legenda Direction en 'What comes next' weg; alles onder elkaar, kaart schermvullend, Year boven de kaarttitel, as 'Aantal zones') | 24-11-2026 | 4 | 4 | 3 | 4 | 15 |
+| 1 First findings (EN, definitief, 24-11 18:20, tab Firstfindings2; Year en kleurschaal onder de kaart, 'Number of zones', label referentielijn vrij, segmentgrafiek met nieuwe titel en subtitel en lager; bewust onder elkaar gehouden) | 24-11-2026 | 4 | 4 | 4 | 4 | 16 |
+| 15 Global South (EN, live, 24-11 19:29; drie staafgrafieken die op elkaar voortbouwen (zon, kapitaalkosten, meerkosten), 12 landen uit de IEA, kleur per groep, Notes met vijf punten incl. toets tegen de IEA; legendatitels 'Sun group' en 'Group' nog zichtbaar) | 24-11-2026 | 4 | 5 | 4 | 4 | 17 |
+| 15 Global South (EN, definitief, 24-11 19:35; legendatitels weg, legenda in dezelfde volgorde als de staven) | 24-11-2026 | 4 | 5 | 5 | 4 | 18 |
+| 27 Climate fund simulator (EN, live, 24-11 20:03; werkblad returnCO2 toegevoegd, maar dubbelt met het bestaande spreidingsdiagram; x-as histogrammen toont overal '8%') | 24-11-2026 | 4 | 3 | 3 | 4 | 14 |
+| 27 Climate fund simulator (EN, definitief, 24-11 20:14; één spreidingsdiagram met de titel over Italy en Bulgaria, x-as histogrammen hersteld (-30 tot 40), 'How to read' en 'Notes'; subtitel 'upper method (y)' onduidelijk, geen 8%-lijn in de histogrammen) | 24-11-2026 | 4 | 5 | 4 | 4 | 17 |
 
 ## Herbeoordeling van alle gepubliceerde dashboards (ma 23 november 2026, 20:30)
 
@@ -84,11 +93,9 @@ De overige twaalf zijn niet opnieuw geopend: daar geldt de laatste regel in de t
 
 | Stand | Dashboards |
 |---|---|
-| 18 | 17 PPA or merchant |
-| 17 | 5 Abatement cost curve, 7 Control matrix, 29 Battery without perfect foresight |
-| 16 | 2, 8, 14, 16, 19, 20, 25, 26, 27 |
-| 15 | 3 Nuclear, 4 Experience curve |
-| 14 | 1 First findings |
+| 18 | 15 Global South, 17 PPA or merchant |
+| 17 | 5 Abatement cost curve, 7 Control matrix, 27 Climate fund simulator, 29 Battery without perfect foresight |
+| 16 | 1, 2, 3, 4, 8, 14, 16, 19, 20, 25, 26 (1, 3 en 4 sinds 24 november) |
 
 **Wat er nodig is om 1, 3 en 4 op 16 te krijgen**
 
@@ -109,3 +116,7 @@ De overige twaalf zijn niet opnieuw geopend: daar geldt de laatste regel in de t
 | 17 | Vergelijkt een tienjarige prijs met één jaar | Vervolg 37 (t77): PPA tegen 2025 en tegen de stresstest 2030 |
 
 **Ontwerpregel vanaf 23 november 2026:** geen "Next:"- of "What comes next"-regel meer op dashboards; die neemt ruimte in en voegt niets toe. Bestaande regels verdwijnen bij de eerstvolgende bewerking van een dashboard (1, 4 en andere).
+
+**Les 24 november:** de bron `t50_kpi_dashboards` moet naar `tableau/data_en` wijzen. In `tableau/data` zijn de regels van dashboard 2, 3 en 4 Nederlands en heet de richting `goed/slecht/neutraal`; wie de verbinding omzet, moet alle KPI-bladen op taal en kleur nalopen.
+
+**Les 24 november (2):** open het bestaande dashboard live voordat er een werkblad aan wordt toegevoegd; bij 27 stond de voorgestelde grafiek er al.

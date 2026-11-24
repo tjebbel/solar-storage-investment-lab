@@ -227,12 +227,26 @@ Bronnen: `t27_impact`, `t39_vermeden_co2`. KPI: filter **14**.
 3. **Avoided CO2 NL** (t39): Year × Avoided CO2 kt per Source (Solar power, Onshore wind, Offshore wind, Biomass total), gestapeld.
 4. Box: `Avoided emissions are not an emission reduction (GHG Protocol).`
 
-## Dashboard 15 "Global South: why the cost of capital matters" (ongeveer 2 uur)
+## Dashboard 15 "Global South: why the cost of capital matters" (herzien 24 november)
 
-Bronnen: `t28_zuiden`, `t27_impact`. KPI: filter **15**.
-1. **Sun** (t28): Location × Full-load hours vs Netherlands, gesorteerd, referentielijn 1.0 (Netherlands) en 1.5.
-2. **Capital** (t27): Region × WACC (2025) en LCOE EUR/MWh vs LCOE at 5% WACC (twee staven per regio).
-3. Titel: `Twice the sun, but capital at 12%: India's solar would be 38% cheaper at Dutch financing costs`.
+Bronnen: `t28_zuiden`, `t82_cost_of_capital` (12 landen, IEA), `t27_impact`. KPI: filter **15**. Geen "Next"-regel.
+1. **`sun`** (t28): Location × Full-load hours vs Netherlands, aflopend; `Sun group` op Kleur (1.5 times or more teal `1F9E89`,
+   Netherlands oranje `E39A2D`, rest warmgrijs `A8A29E`); referentielijn 1.5; alias `VK` → `United Kingdom`.
+   Titel: `Egypt gets 2.1 times the Dutch sun; 17 of 24 sites get at least 1.5 times` · subtitel `Solar full-load hours relative
+   to the Netherlands (= 1.0). PVGIS, 11-year average per site.` **Controle**: Egypt 2.1 · India 1.8 · Spain 1.5 · Sweden 0.9.
+2. **`capital`** (t82): Country × WACC %, aflopend; `Group` op Kleur (Emerging and developing magenta `C4457A`, China warmgrijs
+   `A8A29E`, Advanced economies teal `1F9E89`). Titel: `Capital costs two to three times more in the Global South` · subtitel
+   `Cost of capital for utility-scale solar, IEA Cost of Capital Observatory; 2021, or 2024 survey where marked`.
+   **Controle**: Brazil 13.1 · Indonesia 10.1 · South Africa 10.0 · India 9.9 · Mexico 9.7 · Viet Nam 9.0 · Kenya 8.8 ·
+   Senegal 8.8 · Philippines 8.0 · China 4.9 · United States 4.3 · Europe 4.0.
+3. **`penalty`** (t82): Country × Extra cost from capital %, aflopend, zelfde kleuren. Titel: `The same solar plant costs 60%
+   more in India and 97% more in Brazil, only because of capital` · subtitel `Extra levelised cost against European financing
+   (4.0%); 85% of cost is capital, 25 years`. **Controle**: Brazil 97 · Indonesia 62 · South Africa 61 · India 60 · Mexico 58 ·
+   Viet Nam 50 · Kenya 47 · Philippines 39 · China 8 · United States 3 · Europe 0.
+Onderrand: `1. Sun: PVGIS, average of 11 years per site. 2. Cost of capital: IEA Cost of Capital Observatory; years differ
+(2021 or 2024), survey values are nominal, post-tax, in local currency. 3. Kenya and Senegal: about half of the surveyed
+projects had concessional finance. 4. The cost rule is a simplification; the IEA's own estimate for Brazil is about 40%
+cheaper at European financing, ours 49%.`
 
 ---
 

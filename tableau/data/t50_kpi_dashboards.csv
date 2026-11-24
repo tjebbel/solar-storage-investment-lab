@@ -48,7 +48,7 @@ Dashboard,Volgorde,KPI,Waarde,Tekst,Vergelijking,Referentie,Richting
 14,3,CO2 avoided by Dutch renewables,39993.0,40.0 Mt,2024: 35.9 Mt,"CBS, provisional",goed
 14,4,of which solar power,11755.0,11.8 Mt,2024: 9.9 Mt,"CBS, provisional",goed
 15,1,Best solar site,1896.027120556384,1896 full-load hours,Egypt (Benban),2.1 times the Netherlands,goed
-15,2,"Cost of capital, India",0.12,12.0%,Netherlands: 5.0%,IEA Cost of Capital Observatory,slecht
+15,2,"Cost of capital, India",0.12,12.0%,Netherlands: 5.0%,model assumption; IEA 2021: 9.9%,slecht
 15,3,Indian LCOE at Dutch WACC,27.674392663461173,28 EUR/MWh,now: 44 EUR/MWh,38% cheaper,goed
 15,4,Sites with 1.5x Dutch sun,17.0,17 of 24,"PVGIS, 11 years","same panel, more output",neutraal
 16,1,Deepest midday dip,53.3766,Greece: 53 EUR/MWh,day average minus 11-15h price,2025,slecht

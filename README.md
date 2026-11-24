@@ -63,7 +63,7 @@ Spanish capture rate (Synertics 0.97 vs our 0.55) are open deviations.
 | 12 | Stranded assets per climate scenario | central banks | waiting for NGFS data |
 | 13 | Grid operator: flexibility and EVs | TSO/DSO | data ready |
 | 14 | [Impact investor](https://public.tableau.com/app/profile/tjebbe.lodeizen/viz/SolarandstorageinEurope/impact): one million euro in Indian solar avoids six times as much CO2 as in the Netherlands; capital is 54% of the cost in India | climate fund | published |
-| 15 | Global South: why the cost of capital matters | development | data ready |
+| 15 | [Global South](https://public.tableau.com/app/profile/tjebbe.lodeizen/viz/SolarandstorageinEurope/GlobalSouth): twice the sun, capital at more than twice the price; the same solar plant costs 60% more in India and 97% more in Brazil, only because of capital | development, impact investor | published (PVGIS, IEA Cost of Capital Observatory; t28, t82) |
 | 16 | [Duck curve](https://public.tableau.com/app/profile/tjebbe.lodeizen/viz/SolarandstorageinEurope/duckcurve): the midday dip deepened in all 37 zones; NL 584 negative hours | trader | published |
 | 17 | [PPA or merchant](https://public.tableau.com/app/profile/tjebbe.lodeizen/viz/SolarandstorageinEurope/PPA): a solar PPA beat the 2025 market only in France and Germany, but the PPA price is above the 2030 stress-test revenue in 12 of 19 countries | developer, corporate buyer | published (LevelTen offers, KYOS estimates flagged as indicative, Pexapark; 2030 is a stress test) |
 | 18 | Storage saturation | battery investor | data ready (hourly arbitrage) |

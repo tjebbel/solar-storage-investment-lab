@@ -38,6 +38,12 @@ class Verdieping(unittest.TestCase):
             self.assertFalse(beter.any())
         self.assertFalse(t.loc[~t["Has marginal factor"], "On the frontier"].any())
 
+    def test_kapitaalkosten(self):
+        t = pd.read_csv(D / "t82_cost_of_capital.csv").set_index("Country")
+        self.assertAlmostEqual(t.at["Europe", "LCOE vs European financing"], 1.0, places=6)
+        self.assertTrue((t["LCOE vs European financing"] >= 1).all())
+        self.assertTrue(t.WACC.between(0.02, 0.2).all())
+
 
 if __name__ == "__main__":
     unittest.main()

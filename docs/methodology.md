@@ -171,6 +171,15 @@ zon in Italië (IRR P50 12,1%, 659 t per miljoen euro per jaar) en zon in Bulgar
 De methode bepaalt de impactclaim: fossil response geeft mediaan 3 keer zoveel vermeden CO2 als de binnenlandse methode.
 Ontbrekend: Spanje, Portugal, Nederland, Denemarken, Oostenrijk, Estland en Frankrijk (dekking opwek onbetrouwbaar).
 
+**Kapitaalkosten per land (t82; dashboard 15, 24 november).** Twaalf landen en regio's uit de IEA Cost of Capital Observatory
+(`data/extern/kapitaalkosten_landen.csv`, bron en URL per rij): acht uit tabel 1 (zon op utiliteitsschaal, 2021) en vier uit
+de enquêtes van 2024 (Kenia en Senegal: midden van 8,5-9%; Vietnam 9,0%; Filipijnen 8,0%, indicatief). De jaren verschillen
+dus per land (kolom Year) en de enquêtewaarden zijn nominaal, na belasting, in lokale valuta. `LCOE vs European financing`
+gebruikt de rekenregel van `impact_zuiden` (85% van de LCOE is kapitaal, 25 jaar) met Europa (4,0%) als basis: dezelfde
+centrale kost in Brazilië (13,1%) 97% meer en in India (9,9%) 60% meer. Toets: de IEA rekent voor Brazilië 2021 zelf van
+79 naar ongeveer 45-48 USD/MWh bij Europese kapitaalkosten (circa 40% lager); onze regel geeft 49% lager, dus iets te hoog.
+Let op: het eigen model rekent voor India met 12% (t27); de IEA gaf 9,9% voor 2021. De KPI-tegel noemt nu beide.
+
 **Bekende gaten uit de audit van 23 november.** (1) t70 en t13 gebruiken twee LCOE-waarden (Spanje 51,09 en Nederland 67,39)
 voor alle landen: elke uitspraak "onder de LCOE" hangt daarvan af; dashboard 32 (LCOE per land) lost dit op. (2) Duitsland,
 Bulgarije en Servië hebben geen 2030-doel in t13 en ontbreken daardoor in t70. (3) Noorwegen en Zweden: capture-prijs verschilt
