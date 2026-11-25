@@ -44,7 +44,8 @@ def main():
         c25, p = cr.at[land, "Capture rate zon"], cr.at[land, "Gemiddelde prijs"]
         uit = {"Country": land, "Solar share 2025 %": s25, "Solar share 2030 %": s30, "Slope source": bron,
                "Slope": sl["Slope per percentage point"], "Capture rate 2025": c25, "Average price 2025 EUR/MWh": p,
-               "LCOE EUR/MWh": k.at[land, "LCOE"], "Solar TWh 2030": z30}
+               "LCOE EUR/MWh": k.at[land, "LCOE"], "LCOE own model EUR/MWh": k.at[land, "LCOE own model"],
+               "LCOE source": k.at[land, "LCOE source"], "Solar TWh 2030": z30}
         for lab, b in (("", sl["Slope per percentage point"]), (" (steep)", sl["Interval low"]), (" (flat)", sl["Interval high"])):
             c30 = max(0.2, c25 + b * (s30 - s25))
             uit[f"Capture rate 2030{lab}"] = c30
@@ -53,6 +54,8 @@ def main():
         uit["Solar revenue 2030 EUR/MWh"] = uit["Capture rate 2030"] * p
         uit["Revenue at risk M EUR per year"] = uit["Revenue at risk EUR/MWh"] * z30
         uit["Below LCOE in 2030"] = uit["Solar revenue 2030 EUR/MWh"] < uit["LCOE EUR/MWh"]
+        # tweede grondslag: eigen model per land (eti.lcoe; ondergrens, elk land een eigen waarde), zie dashboard 32
+        uit["Below own-model LCOE in 2030"] = uit["Solar revenue 2030 EUR/MWh"] < uit["LCOE own model EUR/MWh"]
         uit["Below LCOE in 2025"] = uit["Solar revenue 2025 EUR/MWh"] < uit["LCOE EUR/MWh"]
         uit["Hits floor 0.2"] = uit["Capture rate 2030"] <= 0.2001
         maxs = hl.at[land, "Max solar share %"] if land in hl.index else 30.0

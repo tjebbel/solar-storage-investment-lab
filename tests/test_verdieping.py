@@ -45,5 +45,27 @@ class Verdieping(unittest.TestCase):
         self.assertTrue(t.WACC.between(0.02, 0.2).all())
 
 
+class OpenbareBronnen(unittest.TestCase):
+    def test_openbare_bronnen(self):
+        t = pd.read_csv("data/extern/terugleververgoeding_2027.csv")
+        self.assertTrue(((t["Feed-in payment ct/kWh"] - t["Feed-in cost ct/kWh"] - t["Net ct/kWh"]).abs() < 0.01).all())
+        w = pd.read_csv("data/extern/wachtrij_netbeheer.csv")
+        self.assertEqual(len(w), 24)
+        self.assertTrue(w.groupby("Date").size().eq(4).all())
+        e = pd.read_csv("data/extern/energiearmoede.csv")
+        self.assertEqual(e["Year"].tolist(), list(range(2019, 2026)))
+        j = pd.read_csv("data/extern/irena_jobs_2025.csv")
+        self.assertLess(j[j["Dimension"] == "Technology"]["Jobs million"].sum(), j[j["Dimension"] == "Total"]["Jobs million"].iloc[0])
+
+class KostprijsPerLand(unittest.TestCase):
+    def test_lcoe_per_land(self):
+        t = pd.read_csv(D / "t92_solar_lcoe_country.csv")
+        self.assertEqual(len(t), 26)
+        self.assertTrue(t["LCOE own model EUR/MWh"].between(20, 100).all())
+        self.assertEqual((t["IRENA basis"] == "IRENA 2024 country data").sum(), 7)
+        nl = t.set_index("Country").loc["Netherlands"]
+        self.assertLess(abs(nl["LCOE own model EUR/MWh"] - nl["LCOE IRENA EUR/MWh"]), 5)
+
+
 if __name__ == "__main__":
     unittest.main()

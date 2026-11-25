@@ -38,3 +38,48 @@ Niet nodig voor 25-30: Energy-Charts, CAISO, ERCOT, AEMO, JEPX, Elexon, OWID en 
 | 17 | KYOS PPA Report, nieuwere uitgave dan juni 2025 | kyos.com → PPA Insights; nieuw bestand naast `data/extern/ppa_kyos_2025_06.csv` |
 
 Al gedaan op 23 nov zonder download: Frankrijk en Griekenland (LevelTen via pv magazine) en de KYOS-tabel van juni 2025 (39 zones).
+
+## Stand di 24 nov
+- Binnen: Wereldbank Pink Sheet (`data/extern/pink_sheet_monthly.xlsx`, voor 21) en IRENA Renewable Energy Statistics 2026
+  (PUBFIN en RESHARE als csv in `data/extern`, voor 15 en 33; t83 en t84).
+- IRENA Stats Tool (`.xlsb`, 18 MB) is aangeleverd maar nog niet verwerkt.
+- Nog steeds nodig voor 32: IRENA Renewable Power Generation Costs (LCOE per land); dat is een ander bestand, achter een formulier.
+- Binnen (24 nov, avond): IRENA Renewable Power Generation Costs in 2024 (t85, t86), IEA Cost of Capital Observatory (t82 opnieuw,
+  t87), IEA Hydrogen Production en Infrastructure Projects Database (juni 2026) en Global Hydrogen Review 2025 (pdf); de laatste
+  drie zijn nog niet verwerkt (dashboard 24).
+- NGFS: alleen het referentiebestand (modellen, scenario's, regio's, variabelen) is binnen; de scenariodata zelf nog niet.
+
+## Stand di 24 nov, laat (openbare bronnen zonder account)
+Geen bestand gedownload: de cijfers zijn overgenomen van de bronpagina's en staan als kleine tabellen in `data/extern`.
+| Voor | Bestand | Tabel | Bron en peildatum | Wat nog ontbreekt |
+|---|---|---|---|---|
+| 23 | `energiearmoede.csv` | t88 | CBS/TNO Monitor Energiearmoede 2025 (cbs.nl, 24 juli 2026): aandeel 2019-2025, tekort per huishouden | aantallen per jaar, uitsplitsing naar woningtype en gemeente (tabellenset CBS) |
+| 35, 42 | `wachtrij_netbeheer.csv` | t89 | Netbeheer Nederland (1 juli 2025); Solar Magazine 24 okt 2026 (eind 2025, eerste helft 2026) | uitsplitsing per congestiegebied; het halfjaarrapport van Netbeheer Nederland zelf als bron voor 2026 |
+| 36, 8 v2 | `terugleververgoeding_2027.csv` | t90 | keuze.nl (24 nov 2026, 13 leveranciers); energievergelijk.nl (31 okt 2025, 9 leveranciers) | contractvorm per rij; controle op de sites van de leveranciers zelf |
+| 22 | `irena_jobs_2025.csv` | t91 | IRENA/ILO Annual Review 2025 (11 jan 2026): totaal, per technologie, per land | banen per land voor zon (alleen China bekend), aandeel vrouwen: staat in het rapport zelf |
+
+- 2030-doel zon voor Duitsland, Bulgarije en Servië: **staat al in het Ember-bestand**, maar als vermogen (GW) en niet als opwek (TWh).
+  `mck_kostencurve.py` leest alleen `generation_twh`. Omrekenen met de eigen opbrengst van 2025 (TWh per GW) geeft Duitsland
+  181 TWh (215 GW), Bulgarije 7,9 TWh (6,75 GW) en Servië 0,3 TWh (0,37 GW). Nog niet doorgevoerd: het verandert t13 en de
+  KPI's van dashboards 5, 26, 27 en 37 (potentieel 103 naar 140 Mt per jaar).
+- NEDU/MFFBAS-profielen: nog niet opgehaald (bestand, moet via de browser).
+
+## Stand di 24 nov, nacht: wat kan nu gebouwd worden
+- **Correctie:** IRENA geeft wél een kostprijs per land voor zeven Europese landen (Frankrijk, Duitsland, Griekenland, Italië,
+  Nederland, Polen, Spanje; figuur 3.3 en 3.10). Die staan in `data/extern/irena_solar_country_2024.csv` (t93, 2010-2024).
+- **Dashboard 32:** klaar om te bouwen (t92). Twee methoden naast elkaar: eigen model (zelfde installatie, opbrengst en
+  kapitaalkosten per land) en IRENA (per land waar bekend, anders Europees gemiddelde).
+- **Dashboard 24 (waterstof):** de IEA-projectendatabase (2.942 productieprojecten, status, land, vermogen, jaar) volstaat.
+- **NGFS:** wereldtotalen binnen (`data/extern/ngfs/`, niet op GitHub); per regio en de elektriciteitsprijs ontbreken nog.
+- **39 en 43:** data aanwezig (t85; t11 en t93). **42:** alleen Nederland (t89). **40, 41, 44:** eerst een literatuurlijst;
+  hiervoor bestaat geen kant-en-klaar bestand.
+
+## Stand di 24 nov, 23:30: aangeleverd en verwerkt
+- **Netbeheer Nederland, Stand van de Uitvoering halfjaar 2026:** `wachtrij_netbeheer.csv` (t89) komt nu uit het rapport zelf
+  (p. 15-17): jaareinden 2022-2025 en 30 juni 2026, regionaal en TenneT, afname en invoeding (24 rijen). De cijfers uit het
+  vakblad klopten. 2022 is van de grafiek afgelezen. Eind 2025 TenneT afname: 210 (rapport); de Kamerbrief zei 211.
+- **MFFBAS/NEDU standaardprofielen 2026 (versie 1.00):** `nedu_profielen_2026_uur.csv`, uurwaarden voor E1A, E1B, E1C, E2A en
+  E2B, elk met AZI (zonder invoeding) en AMI (met invoeding), afname (A) en invoeding (I). Voor dashboard 36: `E1A_AMI_A` en
+  `E1A_AMI_I` zijn het huishouden met zonnepanelen. Het kwartierbestand zelf (13 MB) staat niet in de repo.
+- Nog niet gelezen: het verslag bij de profielen, het jaarverslag profielallocatie 2024 en de infographics 2025.
+

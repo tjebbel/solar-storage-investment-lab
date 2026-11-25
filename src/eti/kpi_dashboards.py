@@ -17,7 +17,9 @@ def _r(dash, nr, kpi, waarde, tekst, vergelijking, referentie, richting):
 
 
 def dashboard2():
-    t10 = pd.read_csv(D / "t10_dekking_nl.csv"); t10 = t10[t10.Scenario.str.startswith("LCOE 2025")]
+    t10 = pd.read_csv(D / "t10_dekking_nl.csv")
+    ir = t10[t10.Scenario.str.startswith("LCOE 2024 IRENA")]
+    t10 = t10[t10.Scenario.str.startswith("LCOE 2025")]
     g = t10[t10["Status zon"] == "Gedekt"].set_index("Jaar")["Maanden"]; n = t10.groupby("Jaar")["Maanden"].sum()
     j = int(n.index.max())
     k = pd.read_csv(D / "t47_kpi_nl.csv").set_index(["KPI", "Jaar"])
@@ -26,7 +28,7 @@ def dashboard2():
     nl = sl[sl.Zone == "NL"].iloc[0]
     return [
         _r(2, 1, "Maanden kosten gedekt", g.get(j, 0), f"{g.get(j, 0)} van {n[j]}", f"{j-1}: {g.get(j-1, 0)} van {n[j-1]}",
-           "LCOE 2025: 67,39 EUR/MWh", "goed" if g.get(j, 0) / n[j] > g.get(j - 1, 0) / n[j - 1] else "slecht"),
+           f"LCOE 2025: 67,39 EUR/MWh; IRENA 2024: {ir[(ir['Status zon'] == 'Gedekt') & (ir.Jaar == j)]['Maanden'].sum()} van {n[j]}", "goed" if g.get(j, 0) / n[j] > g.get(j - 1, 0) / n[j - 1] else "slecht"),
         _r(2, 2, "Capture rate zon NL", cr["Waarde NL"], f"{cr['Waarde NL']:.2f}", f"{j-1}: {cr['Vorig jaar']:.2f}",
            f"EU-mediaan {cr['EU-mediaan']:.2f}", "goed" if cr["Verschil"] > 0 else "slecht"),
         _r(2, 3, "Gemiddelde prijs NL", pr["Waarde NL"], f"{pr['Waarde NL']:.0f} EUR/MWh", f"{j-1}: {pr['Vorig jaar']:.0f}",
@@ -110,7 +112,7 @@ def dashboard5():
     best = k.sort_values("Kosten per ton (marginale factor)").iloc[0]
     nl = k[k.Landcode == "NLD"].iloc[0]
     return [
-        _e(5, 1, "Countries abating CO2 at a profit", winst, f"{winst} of {len(k)}", "solar capture price above LCOE, 2025",
+        _e(5, 1, "Countries abating CO2 at a profit", winst, f"{winst} of {len(k)}", "solar capture price above LCOE (IRENA 2024), 2025",
            "negative cost per tonne", "good"),
         _e(5, 2, "Abatement potential to 2030", pot_m, f"{pot_m:.0f} Mt CO2/yr", f"average grid factor: {pot_g:.0f} Mt",
            "marginal factor (gas)", "neutral"),
@@ -216,8 +218,9 @@ def dashboard14():
     return [
         _e(14, 1, "CO2 per million EUR, Netherlands", nl["Ton CO2 per M EUR per jaar"], f"{nl['Ton CO2 per M EUR per jaar']:.0f} t/yr",
            f"India: {ind['Ton CO2 per M EUR per jaar']:.0f} t/yr", "solar, 2025", "neutral"),
-        _e(14, 2, "Dutch solar margin", nl["Marge zon EUR/MWh"], f"{nl['Marge zon EUR/MWh']:.0f} EUR/MWh", "capture price minus LCOE, 2025",
-           "additionality: high", "bad"),
+        _e(14, 2, "Dutch solar margin", nl["Marge zon EUR/MWh"], f"{nl['Marge zon EUR/MWh']:.0f} EUR/MWh",
+           f"at IRENA 2024 project cost: {nl['Marge zon bij IRENA EUR/MWh']:+.0f} EUR/MWh", "PBL reference project; additionality depends on the cost basis",
+           "neutral"),
         _e(14, 3, "CO2 avoided by Dutch renewables", c[("Totaal energiebronnen", 2025)], f"{c[('Totaal energiebronnen', 2025)]/1000:.1f} Mt",
            f"2024: {c[('Totaal energiebronnen', 2024)]/1000:.1f} Mt", "CBS, provisional", "good"),
         _e(14, 4, "of which solar power", c[("Zonnestroom", 2025)], f"{c[('Zonnestroom', 2025)]/1000:.1f} Mt",
@@ -233,7 +236,7 @@ def dashboard15():
     return [
         _e(15, 1, "Best solar site", b.Vollasturen, f"{b.Vollasturen:.0f} full-load hours", f"{_land(b.Locatie)}",
            f"{b['Vollasturen tegen Nederland']:.1f} times the Netherlands", "good"),
-        _e(15, 2, "Cost of capital, India", ind.WACC, f"{ind.WACC:.1%}", f"Netherlands: {nl.WACC:.1%}", "model assumption; IEA 2021: 9.9%", "bad"),
+        _e(15, 2, "Cost of capital, India", ind.WACC, f"{ind.WACC:.1%}", f"Netherlands: {nl.WACC:.1%}", "model assumption; IEA 2024: 10.0-11.5%", "bad"),
         _e(15, 3, "Indian LCOE at Dutch WACC", ind["LCOE bij 5% WACC"], f"{ind['LCOE bij 5% WACC']:.0f} EUR/MWh",
            f"now: {ind['LCOE EUR/MWh']:.0f} EUR/MWh", f"{1 - ind['LCOE bij 5% WACC']/ind['LCOE EUR/MWh']:.0%} cheaper", "good"),
         _e(15, 4, "Sites with 1.5x Dutch sun", (z["Vollasturen tegen Nederland"] >= 1.5).sum(),
@@ -395,7 +398,8 @@ def dashboard26():
         _e(26, 2, "Largest in euros", top["Revenue at risk M EUR per year"], f"{top.name}: {top['Revenue at risk M EUR per year'] / 1000:.1f} bn EUR/yr",
            f"{top['Revenue at risk EUR/MWh']:.0f} EUR/MWh on {top['Solar TWh 2030']:.0f} TWh", "Hirth slope x extra solar share", "bad"),
         _e(26, 3, "Italy keeps the most value", t.at["Italy", "Capture rate 2030"], f"capture rate {t.at['Italy', 'Capture rate 2030']:.2f}",
-           f"2025: {t.at['Italy', 'Capture rate 2025']:.2f}", "the only country above LCOE in 2030", "good"),
+           f"2025: {t.at['Italy', 'Capture rate 2025']:.2f}",
+           f"{(~t['Below own-model LCOE in 2030']).sum()} of {len(t)} stay above country cost in 2030; {(~t['Below LCOE in 2030']).sum()} at IRENA cost", "good"),
         _e(26, 4, "Extrapolated beyond the data", (~t["Within observed range"]).sum(), f"{(~t['Within observed range']).sum()} of {len(t)} countries",
            "2030 share above the highest monthly share seen", "read as a stress test, not a forecast", "neutral"),
     ]

@@ -1,16 +1,16 @@
-Region,Year,LCOE EUR/MWh,WACC,Financing share,Tonnes CO2 per M EUR per year,Solar capture price 2025,Solar margin EUR/MWh,Additionality (indicative),LCOE at 5% WACC
-Netherlands,2025,67.39,0.05,0.2833,246.2,53.4189,-13.9711,high: not profitable without support,67.39
-Netherlands,2030,50.54,0.05,0.2833,139.5,53.4189,,unknown: no market price in the project,50.54
-Netherlands,2050,33.7,0.05,0.2833,86.7,53.4189,,unknown: no market price in the project,33.7
-Europe (Spain),2025,51.09,0.055,0.3214,121.7,36.0958,-14.9942,high: not profitable without support,48.9947
-Europe (Spain),2030,38.06,0.054,0.3168,69,36.0958,,unknown: no market price in the project,36.8019
-Europe (Spain),2050,25.03,0.052,0.3075,42.9,36.0958,,unknown: no market price in the project,24.61
-US (Texas),2025,64.56,0.06,0.4014,329.4,,,unknown: no market price in the project,59.4571
-US (Texas),2030,47.67,0.058,0.392,186.7,,,unknown: no market price in the project,44.611
-US (Texas),2050,30.8,0.054,0.3725,116,,,unknown: no market price in the project,29.7819
-China,2025,29.83,0.045,0.2735,1090.6,,,unknown: no market price in the project,31.151
-China,2030,22.52,0.046,0.2785,618.1,,,unknown: no market price in the project,23.3116
-China,2050,15.22,0.048,0.2883,384,,,unknown: no market price in the project,15.4834
-India (rest of world),2025,44.42,0.12,0.5438,1474.5,,,unknown: no market price in the project,27.6744
-India (rest of world),2030,30.8,0.106,0.5067,835.7,,,unknown: no market price in the project,20.7322
-India (rest of world),2050,17.35,0.078,0.416,519.2,,,unknown: no market price in the project,13.9658
+Region,Year,LCOE EUR/MWh,WACC,Financing share,Tonnes CO2 per M EUR per year,Solar capture price 2025,Solar margin EUR/MWh,Additionality (indicative),LCOE IRENA 2024 EUR/MWh,Solar margin at IRENA cost EUR/MWh,LCOE at 5% WACC
+Netherlands,2025,67.39,0.05,0.2833,246.2,53.4189,-13.9711,high: not profitable without support,39.2184,14.2005,67.39
+Netherlands,2030,50.54,0.05,0.2833,139.5,53.4189,,unknown: no market price in the project,,,50.54
+Netherlands,2050,33.7,0.05,0.2833,86.7,53.4189,,unknown: no market price in the project,,,33.7
+Europe (Spain),2025,51.09,0.055,0.3214,121.7,36.0958,-14.9942,high: not profitable without support,49.0207,-12.9249,48.9947
+Europe (Spain),2030,38.06,0.054,0.3168,69,36.0958,,unknown: no market price in the project,,,36.8019
+Europe (Spain),2050,25.03,0.052,0.3075,42.9,36.0958,,unknown: no market price in the project,,,24.61
+US (Texas),2025,64.56,0.06,0.4014,329.4,,,unknown: no market price in the project,,,59.4571
+US (Texas),2030,47.67,0.058,0.392,186.7,,,unknown: no market price in the project,,,44.611
+US (Texas),2050,30.8,0.054,0.3725,116,,,unknown: no market price in the project,,,29.7819
+China,2025,29.83,0.045,0.2735,1090.6,,,unknown: no market price in the project,,,31.151
+China,2030,22.52,0.046,0.2785,618.1,,,unknown: no market price in the project,,,23.3116
+China,2050,15.22,0.048,0.2883,384,,,unknown: no market price in the project,,,15.4834
+India (rest of world),2025,44.42,0.12,0.5438,1474.5,,,unknown: no market price in the project,,,27.6744
+India (rest of world),2030,30.8,0.106,0.5067,835.7,,,unknown: no market price in the project,,,20.7322
+India (rest of world),2050,17.35,0.078,0.416,519.2,,,unknown: no market price in the project,,,13.9658

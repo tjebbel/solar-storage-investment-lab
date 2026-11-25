@@ -1,0 +1,114 @@
+Technology,ISO3,Country,Moody's rating,WACC %,Financing share of LCOE %,Investment grade
+Solar PV,AGO,Angola,B3,8.93998,55.7696,False
+Solar PV,ARG,Argentina,Ca,16.8597,70.8194,False
+Solar PV,AUS,Australia,Aaa,3.89948,26.5411,True
+Solar PV,AUT,Austria,Aa1,4.55667,26.5979,True
+Solar PV,BEL,Belgium,Aa3,3.04048,21.348,True
+Solar PV,BFA,Burkina Faso,Caa1,9.62548,57.9759,False
+Solar PV,BGD,Bangladesh,B1,9.8186,55.6932,False
+Solar PV,BGR,Bulgaria,Baa1,6.52176,42.0528,True
+Solar PV,BHS,Bahamas,B1,9.15664,57.0105,False
+Solar PV,BIH,Bosnia and Herzegovina,B3,13.5277,65.0941,False
+Solar PV,BRA,Brazil,Ba2,8.05295,48.5475,False
+Solar PV,CAN,Canada,Aaa,5.38286,36.3116,True
+Solar PV,CHL,Chile,A2,4.85208,33.947,True
+Solar PV,CHN,China,A1,3.64218,26.2648,True
+Solar PV,COL,Colombia,Baa2,6.90182,39.5551,True
+Solar PV,CYP,Cyprus,Baa2,5.68839,41.2728,True
+Solar PV,CZE,Czechia,Aa3,4.99418,32.2161,True
+Solar PV,DEU,Germany,Aaa,2.28313,14.2201,True
+Solar PV,DNK,Denmark,Aaa,3.21851,19.6675,True
+Solar PV,DOM,Dominican Republic,Ba3,7.52594,50.2806,False
+Solar PV,EGY,Egypt,Caa1,13.5461,65.4086,False
+Solar PV,ESP,Spain,Baa1,5.1715,32.1735,True
+Solar PV,FIN,Finland,Aa1,6.0898,33.6708,True
+Solar PV,FRA,France,Aa2,2.94273,21.92,True
+Solar PV,GBR,United Kingdom,Aa3,3.04048,22.7225,True
+Solar PV,GHA,Ghana,Caa3,15.9499,71.3671,False
+Solar PV,GRC,Greece,Ba1,4.98594,27.853,False
+Solar PV,HUN,Hungary,Baa2,5.15636,32.2162,True
+Solar PV,IDN,Indonesia,Baa2,7.6089,45.5173,True
+Solar PV,IND,India,Baa3,7.47296,43.8784,True
+Solar PV,IRL,Ireland,Aa3,6.65147,40.4118,True
+Solar PV,IRN,Iran,,7.5,45.6122,False
+Solar PV,ISR,Israel,A1,4.90914,30.8659,True
+Solar PV,ITA,Italy,Baa3,4.57696,29.0326,True
+Solar PV,JPN,Japan,A1,3.34202,27.2585,True
+Solar PV,KAZ,Kazakhstan,Baa2,7.71768,44.5386,True
+Solar PV,KOR,South Korea,Aa2,4.65019,32.7812,True
+Solar PV,LVA,Latvia,A3,6.95461,38.1584,True
+Solar PV,MDA,Moldova,B3,9.64317,49.3799,False
+Solar PV,MEX,Mexico,Baa2,8.9316,50.7871,True
+Solar PV,MYS,Malaysia,A3,6.75506,44.6329,True
+Solar PV,NIC,Nicaragua,B3,11.8531,60.9948,False
+Solar PV,NLD,Netherlands,Aaa,2.45402,15.6855,True
+Solar PV,OMN,Oman,Ba1,7.5,47.1466,False
+Solar PV,PAK,Pakistan,Caa3,15.5255,67.7257,False
+Solar PV,PAN,Panama,Baa2,5.99544,43.0203,True
+Solar PV,PER,Peru,Baa1,6.88884,44.7448,True
+Solar PV,PHL,Philippines,Baa2,7.44573,44.5972,True
+Solar PV,POL,Poland,A2,5.24885,33.0665,True
+Solar PV,PRT,Portugal,A3,5.50822,32.7839,True
+Solar PV,PSE,Palestine,,7.5,46.507,False
+Solar PV,ROU,Romania,Baa3,6.82245,44.5436,True
+Solar PV,RUS,Russia,,10.5283,58.3916,False
+Solar PV,SAU,Saudi Arabia,A1,6.42046,41.9183,True
+Solar PV,SVK,Slovakia,A2,5.14966,31.4108,True
+Solar PV,SWE,Sweden,Aaa,4.30643,25.3645,True
+Solar PV,TUN,Tunisia,Caa2,15.8978,69.6123,False
+Solar PV,TUR,Türkiye,B3,10.5318,54.3721,False
+Solar PV,URY,Uruguay,Baa2,5.99544,41.4205,True
+Solar PV,USA,United States,Aaa,5.44621,35.6241,True
+Solar PV,UZB,Uzbekistan,Ba3,7.5,48.9592,False
+Solar PV,ZAF,South Africa,Ba2,6.9546,46.9546,False
+Solar PV,ZMB,Zambia,Caa3,10.8456,58.6512,False
+Solar PV,ZWE,Zimbabwe,,11.2883,60.6249,False
+Onshore Wind,ARG,Argentina,Ca,16.8597,68.3877,False
+Onshore Wind,AUS,Australia,Aaa,3.89948,25.6102,True
+Onshore Wind,AUT,Austria,Aa1,3.68419,25.258,True
+Onshore Wind,BEL,Belgium,Aa3,4.70763,30.7814,True
+Onshore Wind,BIH,Bosnia and Herzegovina,B3,13.5277,62.3391,False
+Onshore Wind,BRA,Brazil,Ba2,6.49468,40.1598,False
+Onshore Wind,CAN,Canada,Aaa,4.051,25.233,True
+Onshore Wind,CHL,Chile,A2,5.87508,34.1266,True
+Onshore Wind,CHN,China,A1,3.64218,22.6519,True
+Onshore Wind,CUW,Curaçao,Baa3,7.5,48.2687,True
+Onshore Wind,DEU,Germany,Aaa,2.28313,15.295,True
+Onshore Wind,DOM,Dominican Republic,Ba3,9.09269,52.4197,False
+Onshore Wind,EGY,Egypt,Caa1,13.5461,61.0524,False
+Onshore Wind,ESP,Spain,Baa1,4.56758,31.5417,True
+Onshore Wind,EST,Estonia,A1,6.42046,37.6321,True
+Onshore Wind,FIN,Finland,Aa1,3.07629,20.5541,True
+Onshore Wind,FRA,France,Aa2,2.94273,19.969,True
+Onshore Wind,GBR,United Kingdom,Aa3,3.68962,26.2644,True
+Onshore Wind,GRC,Greece,Ba1,4.98594,33.646,False
+Onshore Wind,IND,India,Baa3,7.47296,44.8375,True
+Onshore Wind,IRL,Ireland,Aa3,4.00349,27.4727,True
+Onshore Wind,IRN,Iran,,7.5,42.4772,False
+Onshore Wind,ITA,Italy,Baa3,4.89411,30.1931,True
+Onshore Wind,JPN,Japan,A1,5.92411,33.6591,True
+Onshore Wind,KOR,South Korea,Aa2,6.00999,40.624,True
+Onshore Wind,LTU,Lithuania,A2,3.74747,25.1859,True
+Onshore Wind,LUX,Luxembourg,Aaa,4.11854,29.4179,True
+Onshore Wind,MAR,Morocco,Ba1,7.66768,42.4732,False
+Onshore Wind,NLD,Netherlands,Aaa,3.47248,24.0287,True
+Onshore Wind,NZL,New Zealand,Aaa,3.98606,23.9458,True
+Onshore Wind,PER,Peru,Baa1,6.88884,38.0321,True
+Onshore Wind,PHL,Philippines,Baa2,7.44573,47.1552,True
+Onshore Wind,POL,Poland,A2,4.63413,31.0948,True
+Onshore Wind,ROU,Romania,Baa3,7.48816,45.9703,True
+Onshore Wind,RUS,Russia,,10.5283,53.8987,False
+Onshore Wind,SRB,Serbia,Ba2,7.5,44.7789,False
+Onshore Wind,SWE,Sweden,Aaa,4.59476,29.9548,True
+Onshore Wind,TUR,Türkiye,B3,10.5318,51.8744,False
+Onshore Wind,USA,United States,Aaa,4.11594,26.4677,True
+Onshore Wind,UZB,Uzbekistan,Ba3,7.5,41.6985,False
+Onshore Wind,VNM,Viet Nam,Ba2,6.42812,40.4834,False
+Offshore Wind,CHN,China,A1,6.18677,33.4772,True
+Offshore Wind,DEU,Germany,Aaa,3.89948,25.1924,True
+Offshore Wind,DNK,Denmark,Aaa,2.60863,18.3928,True
+Offshore Wind,FRA,France,Aa2,5.9646,39.4986,True
+Offshore Wind,JPN,Japan,A1,5.92411,36.5493,True
+Offshore Wind,NLD,Netherlands,Aaa,5.41242,31.2921,True
+Offshore Wind,TWN,Taiwan (China),Aa3,6.306,42.2606,True
+Offshore Wind,USA,United States,Aaa,5.44621,38.4893,True

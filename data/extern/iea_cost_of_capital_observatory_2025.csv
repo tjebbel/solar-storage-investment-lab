@@ -1,0 +1,95 @@
+Project,Country,Year,WACC low %,WACC high %,WACC mid %,Indicative
+50-100 MW Solar PV Project,Brazil,2019,12.0,12.5,12.25,False
+50-100 MW Solar PV Project,India,2019,8.5,10.5,9.5,False
+50-100 MW Solar PV Project,Indonesia,2019,9.0,9.5,9.25,False
+50-100 MW Solar PV Project,Mexico,2019,9.5,10.0,9.75,False
+50-100 MW Solar PV Project,South Africa,2019,9.5,11.0,10.25,False
+50-100 MW Solar PV Project,Brazil,2021,12.5,13.5,13.0,False
+50-100 MW Solar PV Project,India,2021,9.0,10.5,9.75,False
+50-100 MW Solar PV Project,Indonesia,2021,9.5,10.5,10.0,False
+50-100 MW Solar PV Project,Mexico,2021,9.5,10.0,9.75,False
+50-100 MW Solar PV Project,South Africa,2021,9.5,11.0,10.25,False
+50-100 MW Solar PV Project,Brazil,2022,10.5,12.0,11.25,False
+50-100 MW Solar PV Project,India,2022,9.0,10.0,9.5,False
+50-100 MW Solar PV Project,Indonesia,2022,8.0,8.5,8.25,False
+50-100 MW Solar PV Project,Mexico,2022,11.0,11.0,11.0,False
+50-100 MW Solar PV Project,South Africa,2022,11.0,11.0,11.0,False
+50-100 MW Solar PV Project,Kenya,2022,8.5,9.0,8.75,False
+50-100 MW Solar PV Project,Viet Nam,2022,9.0,10.5,9.75,True
+50-100 MW Solar PV Project,Senegal,2022,9.0,9.0,9.0,False
+50-100 MW Solar PV Project,Philippines,2022,8.5,10.0,9.25,True
+50-100 MW Solar PV Project,Brazil,2023,12.0,13.5,12.75,False
+50-100 MW Solar PV Project,India,2023,10.0,12.5,11.25,False
+50-100 MW Solar PV Project,Indonesia,2023,9.0,10.5,9.75,False
+50-100 MW Solar PV Project,Mexico,2023,11.5,13.5,12.5,False
+50-100 MW Solar PV Project,South Africa,2023,11.0,13.0,12.0,False
+50-100 MW Solar PV Project,Viet Nam,2023,8.5,11.0,9.75,False
+50-100 MW Solar PV Project,Philippines,2023,8.5,11.5,10.0,True
+50-100 MW Solar PV Project,Brazil,2024,11.5,12.5,12.0,False
+50-100 MW Solar PV Project,India,2024,10.0,11.5,10.75,False
+50-100 MW Solar PV Project,Indonesia,2024,8.5,11.0,9.75,False
+50-100 MW Solar PV Project,Mexico,2024,9.5,11.0,10.25,False
+50-100 MW Solar PV Project,South Africa,2024,11.0,13.5,12.25,False
+50-100 MW Solar PV Project,Viet Nam,2024,8.5,10.0,9.25,False
+50-100 MW Solar PV Project,Philippines,2024,7.0,8.5,7.75,True
+50-100 MW Solar PV Project,Malaysia,2024,6.0,7.0,6.5,True
+50-100 MW Solar PV Project,Thailand,2024,6.0,8.0,7.0,False
+250 MW Gas Fired Project,Brazil,2019,12.5,13.0,12.75,False
+250 MW Gas Fired Project,India,2019,9.5,11.0,10.25,False
+250 MW Gas Fired Project,Indonesia,2019,9.0,10.0,9.5,False
+250 MW Gas Fired Project,Mexico,2019,9.5,10.0,9.75,False
+250 MW Gas Fired Project,South Africa,2019,10.5,12.0,11.25,False
+250 MW Gas Fired Project,Brazil,2021,14.0,14.5,14.25,False
+250 MW Gas Fired Project,India,2021,10.0,11.0,10.5,False
+250 MW Gas Fired Project,Indonesia,2021,10.0,11.0,10.5,False
+250 MW Gas Fired Project,Mexico,2021,9.5,10.0,9.75,False
+250 MW Gas Fired Project,South Africa,2021,10.5,12.0,11.25,False
+250 MW Gas Fired Project,Brazil,2022,10.0,13.0,11.5,False
+250 MW Gas Fired Project,Mexico,2022,9.0,10.0,9.5,False
+250 MW Gas Fired Project,South Africa,2022,11.0,11.5,11.25,False
+250 MW Gas Fired Project,Viet Nam,2022,12.0,13.0,12.5,True
+250 MW Gas Fired Project,Senegal,2022,10.0,11.0,10.5,True
+250 MW Gas Fired Project,Indonesia,2023,8.0,9.0,8.5,True
+250 MW Gas Fired Project,Viet Nam,2023,9.5,10.0,9.75,False
+250 MW Gas Fired Project,Philippines,2023,7.5,8.5,8.0,True
+250 MW Gas Fired Project,Brazil,2024,14.0,14.0,14.0,False
+250 MW Gas Fired Project,India,2024,9.0,10.0,9.5,True
+250 MW Gas Fired Project,Indonesia,2024,9.0,10.0,9.5,False
+250 MW Gas Fired Project,Viet Nam,2024,10.0,10.5,10.25,False
+250 MW Gas Fired Project,Philippines,2024,8.0,9.0,8.5,True
+250 MW Gas Fired Project,Thailand,2024,9.0,11.5,10.25,False
+Utility scale batteries (40 MW battery),Brazil,2022,10.0,11.0,10.5,False
+Utility scale batteries (40 MW battery),India,2022,10.5,11.0,10.75,False
+Utility scale batteries (40 MW battery),Indonesia,2022,9.5,10.0,9.75,False
+Utility scale batteries (40 MW battery),Mexico,2022,11.0,12.0,11.5,False
+Utility scale batteries (40 MW battery),South Africa,2022,9.5,10.0,9.75,False
+Utility scale batteries (40 MW battery),Viet Nam,2022,9.0,11.0,10.0,False
+Utility scale batteries (40 MW battery),Brazil,2023,12.0,14.5,13.25,False
+Utility scale batteries (40 MW battery),India,2023,11.5,13.0,12.25,False
+Utility scale batteries (40 MW battery),Indonesia,2023,9.0,11.0,10.0,False
+Utility scale batteries (40 MW battery),Mexico,2023,11.5,13.5,12.5,False
+Utility scale batteries (40 MW battery),South Africa,2023,13.0,16.0,14.5,False
+Utility scale batteries (40 MW battery),Viet Nam,2023,9.5,11.5,10.5,False
+Utility scale batteries (40 MW battery),Philippines,2023,7.0,8.0,7.5,True
+Utility scale batteries (40 MW battery),Brazil,2024,11.5,14.0,12.75,False
+Utility scale batteries (40 MW battery),India,2024,11.5,13.5,12.5,False
+Utility scale batteries (40 MW battery),Indonesia,2024,9.0,11.0,10.0,False
+Utility scale batteries (40 MW battery),Mexico,2024,11.0,13.5,12.25,False
+Utility scale batteries (40 MW battery),South Africa,2024,11.0,13.5,12.25,False
+Utility scale batteries (40 MW battery),Viet Nam,2024,9.5,10.5,10.0,False
+Utility scale batteries (40 MW battery),Philippines,2024,7.5,8.5,8.0,True
+Utility scale batteries (40 MW battery),Malaysia,2024,6.0,7.0,6.5,True
+250 MW Offshore wind,Brazil,2022,10.0,12.0,11.0,False
+250 MW Offshore wind,Viet Nam,2022,10.5,12.0,11.25,True
+250 MW Offshore wind,Viet Nam,2023,10.5,12.0,11.25,True
+250 MW Offshore wind,Indonesia,2023,10.5,11.5,11.0,True
+250 MW Offshore wind,Philippines,2023,9.0,10.0,9.5,True
+250 MW Offshore wind,India,2023,11.0,13.0,12.0,True
+250 MW Offshore wind,Philippines,2024,9.0,10.0,9.5,True
+150 MW Hydropower,Brazil,2022,12.0,14.5,13.25,False
+150 MW Hydropower,South Africa,2022,13.0,16.0,14.5,False
+150 MW Hydropower,Brazil,2023,12.5,15.0,13.75,False
+150 MW Hydropower,South Africa,2023,13.5,16.5,15.0,True
+150 MW Hydropower,Brazil,2024,11.5,13.0,12.25,True
+150 MW Hydropower,South Africa,2024,13.0,16.0,14.5,True
+150 MW Hydropower,Indonesia,2024,9.0,11.0,10.0,True

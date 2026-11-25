@@ -2,6 +2,8 @@
 
   t27_impact.csv   per studieregio en jaar (2025, 2030, 2050): LCOE, WACC, ton CO2 per miljoen euro per jaar
                    (fact_regio_jaar) en de marge van zon tegen de markt waar die bekend is (Nederland, Spanje: t1).
+                   De LCOE komt uit het studiemodel (Nederland: PBL-referentieproject, 740 vollasturen). Ernaast staat de
+                   IRENA-kostprijs van 2024 en de marge daarbij, omdat dashboards 5, 26 en 27 die grondslag gebruiken.
                    Additionaliteit (indicatief): hoge marge zonder steun = het project komt er waarschijnlijk ook zonder
                    dit geld, dus weinig investeerdersimpact (Brest en Born 2013).
   t28_zuiden.csv   per locatie: instraling (kWh/m2) en vollasturen (gemiddelde 2015-2025, fact_instraling_wereld);
@@ -35,6 +37,11 @@ def impact(regio="powerbi/data/fact_regio_jaar.csv", t1="tableau/data/t1_zonejaa
         [r["Marge zon EUR/MWh"].isna(), r["Marge zon EUR/MWh"] > 10, r["Marge zon EUR/MWh"] < 0],
         ["onbekend: geen marktprijs in het project", "laag: rendabel zonder steun", "hoog: zonder steun niet rendabel"],
         "middel")
+    # Tweede grondslag naast het studiemodel: gemeten projecten van 2024 (IRENA), zelfde bron als dashboards 5, 26 en 27.
+    from eti.lcoe import per_land
+    irena = per_land(["NLD", "ESP"])["LCOE IRENA"]
+    r["LCOE IRENA 2024 EUR/MWh"] = np.where(r["jaar"] == 2025, r["regio"].map({"Nederland": irena["NLD"], "Europa (Spanje)": irena["ESP"]}), np.nan)
+    r["Marge zon bij IRENA EUR/MWh"] = r["Capture-prijs zon 2025"] - r["LCOE IRENA 2024 EUR/MWh"]
     r["LCOE bij 5% WACC"] = lcoe_bij(r["lcoe_eur_mwh"], r["wacc"], WACC_NL)
     return r.rename(columns={"regio": "Regio", "jaar": "Jaar", "lcoe_eur_mwh": "LCOE EUR/MWh", "wacc": "WACC",
                              "financieringsaandeel": "Financieringsaandeel", "t_co2_per_meur_jaar": "Ton CO2 per M EUR per jaar"})

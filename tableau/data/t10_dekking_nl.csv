@@ -1,4 +1,21 @@
 Jaar,Scenario,Status zon,Maanden
+2019,"LCOE 2024 IRENA (39,22)",Gedekt,2
+2019,"LCOE 2024 IRENA (39,22)",Kosten niet gedekt,4
+2019,"LCOE 2024 IRENA (39,22)",Krap,6
+2020,"LCOE 2024 IRENA (39,22)",Gedekt,1
+2020,"LCOE 2024 IRENA (39,22)",Kosten niet gedekt,9
+2020,"LCOE 2024 IRENA (39,22)",Krap,2
+2021,"LCOE 2024 IRENA (39,22)",Gedekt,11
+2021,"LCOE 2024 IRENA (39,22)",Krap,1
+2022,"LCOE 2024 IRENA (39,22)",Gedekt,12
+2023,"LCOE 2024 IRENA (39,22)",Gedekt,12
+2024,"LCOE 2024 IRENA (39,22)",Gedekt,6
+2024,"LCOE 2024 IRENA (39,22)",Kosten niet gedekt,2
+2024,"LCOE 2024 IRENA (39,22)",Krap,4
+2025,"LCOE 2024 IRENA (39,22)",Gedekt,9
+2025,"LCOE 2024 IRENA (39,22)",Kosten niet gedekt,2
+2025,"LCOE 2024 IRENA (39,22)",Krap,1
+2026,"LCOE 2024 IRENA (39,22)",Gedekt,11
 2019,"LCOE 2025 (67,39)",Kosten niet gedekt,12
 2020,"LCOE 2025 (67,39)",Kosten niet gedekt,12
 2021,"LCOE 2025 (67,39)",Gedekt,6

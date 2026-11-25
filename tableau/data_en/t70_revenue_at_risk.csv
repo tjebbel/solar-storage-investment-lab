@@ -1,24 +1,27 @@
-Country,Solar share 2025 %,Solar share 2030 %,Slope source,Slope,Capture rate 2025,Average price 2025 EUR/MWh,LCOE EUR/MWh,Solar TWh 2030,Capture rate 2030,Revenue at risk EUR/MWh,Capture rate 2030 (steep),Revenue at risk EUR/MWh (steep),Capture rate 2030 (flat),Revenue at risk EUR/MWh (flat),Solar revenue 2025 EUR/MWh,Solar revenue 2030 EUR/MWh,Revenue at risk M EUR per year,Below LCOE in 2030,Below LCOE in 2025,Hits floor 0.2,Within observed range,Target already met,Target above 50% of today's generation
-Croatia,8.9388,21.0204,own slope,-0.0391,0.659,105.351,51.09,3.09,0.2,48.3514,0.2,48.3514,0.2617,41.8475,69.4216,21.0702,149.4057,True,False,True,False,False,False
-Romania,9.9578,21.6824,own slope,-0.0316,0.5956,108.16,51.09,10.8,0.2245,40.1354,0.2,42.7891,0.3099,30.9036,64.4211,24.2857,433.4618,True,False,False,False,False,False
-Denmark,13.7027,73.994,own slope,-0.0162,0.6348,81.8032,67.39,24.64,0.2,35.57,0.2,35.57,0.2,35.57,51.9306,16.3606,876.4447,True,True,True,False,False,True
-Greece,19.5298,35.8675,own slope,-0.021,0.5774,103.597,51.09,20.9,0.2341,35.5623,0.2,39.0928,0.283,30.4894,59.8122,24.2499,743.2523,True,False,False,False,False,False
-Czechia,5.8172,13.1258,own slope,-0.0491,0.5664,96.8375,67.39,9.91,0.2077,34.7379,0.2,35.4851,0.2498,30.6601,54.8526,20.1147,344.253,True,True,False,True,False,False
-Slovenia,10.1415,25.3167,median slope,-0.02,0.6299,104.649,51.09,3.757,0.3264,31.7614,0.2505,39.7017,0.4022,23.821,65.9145,34.1531,119.3276,True,False,False,True,False,False
-Latvia,13.0781,31.5789,median slope,-0.02,0.6462,85.7453,67.39,1.98,0.2761,31.7271,0.2,38.2559,0.3686,23.7953,55.4049,23.6778,62.8197,True,True,False,False,False,False
-Italy,16.8648,36.8719,own slope,-0.0119,0.8174,115.9345,51.09,97.6,0.5799,27.5358,0.5431,31.7997,0.6167,23.2721,94.7645,67.2287,2687.4961,False,False,False,False,False,False
-Austria,14.0727,25.9492,median slope,-0.02,0.4985,98.9419,67.39,19.0,0.2609,23.5017,0.2015,29.3772,0.3203,17.6263,49.3186,25.8168,446.5331,True,True,False,True,False,False
-Spain,21.8945,48.0427,own slope,-0.0213,0.5529,65.2849,51.09,138.31,0.2,23.0388,0.2,23.0388,0.2,23.0388,36.0958,13.057,3186.4937,True,True,True,False,False,False
-Portugal,17.3166,47.8584,own slope,-0.0263,0.534,66.1838,51.09,24.47,0.2,22.1049,0.2,22.1049,0.2,22.1049,35.3417,13.2368,540.9075,True,True,True,False,False,False
-France,5.6165,11.4039,own slope,-0.0597,0.588,61.0706,67.39,65.0,0.2423,21.1137,0.2,23.6972,0.3013,17.5094,35.9113,14.7975,1372.3936,True,True,False,True,False,False
-Hungary,27.0452,32.8032,own slope,-0.0173,0.5766,108.509,67.39,13.2,0.4768,10.8289,0.4646,12.1522,0.489,9.5056,62.563,51.7341,142.9417,True,True,False,True,False,False
-Poland,11.2796,14.3137,own slope,-0.0217,0.645,104.301,67.39,24.8,0.579,6.8783,0.5704,7.7825,0.5877,5.9741,67.2724,60.3941,170.5821,True,True,False,True,False,False
-Estonia,19.0344,27.3322,own slope,-0.0095,0.5829,80.4046,67.39,1.67,0.5041,6.3362,0.4856,7.8276,0.5227,4.8447,46.8695,40.5334,10.5814,True,True,False,True,False,False
-Slovakia,2.4605,5.0515,median slope,-0.02,0.5537,102.698,67.39,1.47,0.5019,5.3219,0.4889,6.6524,0.5148,3.9915,56.8616,51.5397,7.8233,True,True,False,True,False,False
-Finland,1.1883,6.695,median slope,-0.02,0.8904,40.4904,67.39,5.51,0.7802,4.4594,0.7527,5.5742,0.8078,3.3445,36.0507,31.5914,24.5711,True,True,False,True,False,False
-Switzerland,12.124,13.3805,own slope,-0.0264,0.5936,101.689,67.39,8.7,0.5605,3.3693,0.5562,3.8067,0.5648,2.9319,60.3647,56.9955,29.3126,True,True,False,True,False,False
-Norway,0.3339,3.7243,median slope,-0.02,0.7174,40.1069,67.39,5.989,0.6496,2.7195,0.6327,3.3994,0.6666,2.0396,28.7738,26.0543,16.2872,True,True,False,True,False,False
-Belgium,14.3147,15.3245,own slope,-0.0217,0.5142,82.5792,67.39,11.17,0.4923,1.8096,0.4896,2.0333,0.495,1.5858,42.4603,40.6508,20.2128,True,True,False,True,False,False
-Sweden,2.6032,5.1549,median slope,-0.02,0.6391,34.9805,67.39,8.8,0.5881,1.7852,0.5753,2.2315,0.6008,1.3389,22.3565,20.5713,15.7097,True,True,False,True,False,False
-Lithuania,18.5602,18.5602,own slope,-0.0153,0.573,85.3221,67.39,1.65,0.573,0.0,0.573,0.0,0.573,0.0,48.8891,48.8891,0.0,True,True,False,True,True,False
-Netherlands,21.1226,21.1226,median slope,-0.02,0.6153,86.8172,67.39,28.507,0.6153,0.0,0.6153,0.0,0.6153,0.0,53.4189,53.4189,0.0,True,True,False,True,True,False
+Country,Solar share 2025 %,Solar share 2030 %,Slope source,Slope,Capture rate 2025,Average price 2025 EUR/MWh,LCOE EUR/MWh,LCOE own model EUR/MWh,LCOE source,Solar TWh 2030,Capture rate 2030,Revenue at risk EUR/MWh,Capture rate 2030 (steep),Revenue at risk EUR/MWh (steep),Capture rate 2030 (flat),Revenue at risk EUR/MWh (flat),Solar revenue 2025 EUR/MWh,Solar revenue 2030 EUR/MWh,Revenue at risk M EUR per year,Below LCOE in 2030,Below own-model LCOE in 2030,Below LCOE in 2025,Hits floor 0.2,Within observed range,Target already met,Target above 50% of today's generation
+Croatia,8.9388,21.0204,own slope,-0.0391,0.659,105.351,55.4324,39.4226,IRENA 2024 Europe average,3.09,0.2,48.3514,0.2,48.3514,0.2617,41.8475,69.4216,21.0702,149.4057,True,True,False,True,False,False,False
+Romania,9.9578,21.6824,own slope,-0.0316,0.5956,108.16,55.4324,56.8284,IRENA 2024 Europe average,10.8,0.2245,40.1354,0.2,42.7891,0.3099,30.9036,64.4211,24.2857,433.4618,True,True,False,False,False,False,False
+Denmark,13.7027,73.994,own slope,-0.0162,0.6348,81.8032,55.4324,41.4893,IRENA 2024 Europe average,24.64,0.2,35.57,0.2,35.57,0.2,35.57,51.9306,16.3606,876.4447,True,True,True,True,False,False,True
+Greece,19.5298,35.8675,own slope,-0.021,0.5774,103.597,40.4472,32.7442,IRENA 2024 country data,20.9,0.2341,35.5623,0.2,39.0928,0.283,30.4894,59.8122,24.2499,743.2523,True,True,False,False,False,False,False
+Czechia,5.8172,13.1258,own slope,-0.0491,0.5664,96.8375,55.4324,46.3876,IRENA 2024 Europe average,9.91,0.2077,34.7379,0.2,35.4851,0.2498,30.6601,54.8526,20.1147,344.253,True,True,True,False,True,False,False
+Slovenia,10.1415,25.3167,median slope,-0.02,0.6299,104.649,55.4324,45.8546,IRENA 2024 Europe average,3.757,0.3264,31.7614,0.2505,39.7017,0.4022,23.821,65.9145,34.1531,119.3276,True,True,False,False,True,False,False
+Latvia,13.0781,31.5789,median slope,-0.02,0.6462,85.7453,55.4324,49.0649,IRENA 2024 Europe average,1.98,0.2761,31.7271,0.2,38.2559,0.3686,23.7953,55.4049,23.6778,62.8197,True,True,True,False,False,False,False
+Germany,17.924,36.2629,own slope,-0.0192,0.5157,89.3281,54.8226,43.4431,IRENA 2024 country data,181.485,0.2,28.1997,0.2,28.1997,0.2064,27.6272,46.0653,17.8656,5117.8262,True,True,True,True,False,False,False
+Italy,16.8648,36.8719,own slope,-0.0119,0.8174,115.9345,56.3008,40.5765,IRENA 2024 country data,97.6,0.5799,27.5358,0.5431,31.7997,0.6167,23.2721,94.7645,67.2287,2687.4961,False,False,False,False,False,False,False
+Austria,14.0727,25.9492,median slope,-0.02,0.4985,98.9419,55.4324,43.0034,IRENA 2024 Europe average,19.0,0.2609,23.5017,0.2015,29.3772,0.3203,17.6263,49.3186,25.8168,446.5331,True,True,True,False,True,False,False
+Spain,21.8945,48.0427,own slope,-0.0213,0.5529,65.2849,49.0207,28.9189,IRENA 2024 country data,138.31,0.2,23.0388,0.2,23.0388,0.2,23.0388,36.0958,13.057,3186.4937,True,True,True,True,False,False,False
+Portugal,17.3166,47.8584,own slope,-0.0263,0.534,66.1838,55.4324,34.176,IRENA 2024 Europe average,24.47,0.2,22.1049,0.2,22.1049,0.2,22.1049,35.3417,13.2368,540.9075,True,True,True,True,False,False,False
+France,5.6165,11.4039,own slope,-0.0597,0.588,61.0706,65.8167,36.5864,IRENA 2024 country data,65.0,0.2423,21.1137,0.2,23.6972,0.3013,17.5094,35.9113,14.7975,1372.3936,True,True,True,False,True,False,False
+Hungary,27.0452,32.8032,own slope,-0.0173,0.5766,108.509,55.4324,34.1635,IRENA 2024 Europe average,13.2,0.4768,10.8289,0.4646,12.1522,0.489,9.5056,62.563,51.7341,142.9417,True,False,False,False,True,False,False
+Poland,11.2796,14.3137,own slope,-0.0217,0.645,104.301,78.4183,58.3212,IRENA 2024 country data,24.8,0.579,6.8783,0.5704,7.7825,0.5877,5.9741,67.2724,60.3941,170.5821,True,False,True,False,True,False,False
+Estonia,19.0344,27.3322,own slope,-0.0095,0.5829,80.4046,55.4324,38.0149,IRENA 2024 Europe average,1.67,0.5041,6.3362,0.4856,7.8276,0.5227,4.8447,46.8695,40.5334,10.5814,True,False,True,False,True,False,False
+Slovakia,2.4605,5.0515,median slope,-0.02,0.5537,102.698,55.4324,45.9486,IRENA 2024 Europe average,1.47,0.5019,5.3219,0.4889,6.6524,0.5148,3.9915,56.8616,51.5397,7.8233,True,False,False,False,True,False,False
+Finland,1.1883,6.695,median slope,-0.02,0.8904,40.4904,55.4324,60.098,IRENA 2024 Europe average,5.51,0.7802,4.4594,0.7527,5.5742,0.8078,3.3445,36.0507,31.5914,24.5711,True,True,True,False,True,False,False
+Bulgaria,18.264,20.8599,own slope,-0.0154,0.6858,106.894,55.4324,35.87,IRENA 2024 Europe average,7.9184,0.6459,4.2618,0.6397,4.9251,0.6521,3.5985,73.3049,69.0431,33.7467,False,False,False,False,True,False,False
+Switzerland,12.124,13.3805,own slope,-0.0264,0.5936,101.689,55.4324,54.4847,IRENA 2024 Europe average,8.7,0.5605,3.3693,0.5562,3.8067,0.5648,2.9319,60.3647,56.9955,29.3126,False,False,False,False,True,False,False
+Norway,0.3339,3.7243,median slope,-0.02,0.7174,40.1069,55.4324,64.0457,IRENA 2024 Europe average,5.989,0.6496,2.7195,0.6327,3.3994,0.6666,2.0396,28.7738,26.0543,16.2872,True,True,True,False,True,False,False
+Belgium,14.3147,15.3245,own slope,-0.0217,0.5142,82.5792,55.4324,40.2201,IRENA 2024 Europe average,11.17,0.4923,1.8096,0.4896,2.0333,0.495,1.5858,42.4603,40.6508,20.2128,True,False,True,False,True,False,False
+Sweden,2.6032,5.1549,median slope,-0.02,0.6391,34.9805,55.4324,48.3251,IRENA 2024 Europe average,8.8,0.5881,1.7852,0.5753,2.2315,0.6008,1.3389,22.3565,20.5713,15.7097,True,True,True,False,True,False,False
+Lithuania,18.5602,18.5602,own slope,-0.0153,0.573,85.3221,55.4324,71.3086,IRENA 2024 Europe average,1.65,0.573,0.0,0.573,0.0,0.573,0.0,48.8891,48.8891,0.0,True,True,True,False,True,True,False
+Netherlands,21.1226,21.1226,median slope,-0.02,0.6153,86.8172,39.2184,40.0437,IRENA 2024 country data,28.507,0.6153,0.0,0.6153,0.0,0.6153,0.0,53.4189,53.4189,0.0,False,False,False,False,True,True,False
+Serbia,0.9503,0.9503,median slope,-0.02,0.5989,107.865,55.4324,74.2798,IRENA 2024 Europe average,0.348,0.5989,0.0,0.5989,0.0,0.5989,0.0,64.6055,64.6055,0.0,False,True,False,False,True,True,False

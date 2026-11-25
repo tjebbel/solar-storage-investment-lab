@@ -235,6 +235,8 @@ REGELS = [  # (patroon, vervanging) voor teksten met getallen
     (r"^score (\d+): (.+)$", lambda m: f"score {m[1]}: {W.get(m[2], m[2])}"),
     (r"^LCOE (\d{4}) \((\d+),(\d+)\)$", r"LCOE \1 (\2.\3)"),
     (r"^LCOE (\d{4}): (\d+),(\d+) EUR/MWh$", r"LCOE \1: \2.\3 EUR/MWh"),
+    (r"^LCOE 2024 IRENA \((\d+),(\d+)\)$", r"LCOE 2024 IRENA (\1.\2)"),
+    (r"^LCOE 2025: (\d+),(\d+) EUR/MWh; IRENA 2024: (\d+) van (\d+)$", r"LCOE 2025: \1.\2 EUR/MWh; IRENA 2024: \3 of \4"),
     (r"^mediane fout (.+) -> (.+) na correctie, (.+) van (\d+) land-jaren beter$",
      r"median error \1 -> \2 after correction, \3 of \4 country-years better"),
     (r"^(\d+) tests, (\d+) overgeslagen$", r"\1 tests, \2 skipped"),
@@ -265,6 +267,9 @@ REGELS = [  # (patroon, vervanging) voor teksten met getallen
 # Dashboards 5 en 8-15 (19 november): CBS-bronnen, locaties, regio's en gebeurtenissen.
 W.update({
     "Nederland 2025": "Netherlands 2025", "Spanje 2025": "Spain 2025",
+    "IRENA 2024, land": "IRENA 2024 country data", "IRENA 2024, Europees gemiddelde": "IRENA 2024 Europe average",
+    "opwekdoel (Ember)": "generation target (Ember)", "vermogensdoel x opbrengst 2025": "capacity target x 2025 yield",
+    "geen doel": "no target",
     "Document 136: nieuwe projecten via de markt (1 juni 2025)": "Document 136: new projects via the market (1 June 2025)",
     "Grens bouwstart zon en wind (4 juli 2026)": "Construction-start deadline solar and wind (4 July 2026)",
     "OBBBA getekend (4 juli 2025)": "OBBBA signed (4 July 2025)",
@@ -442,6 +447,10 @@ VELD = {
 # tableau/data_en/ direct de Engelse naam (geen hernoemen in Tableau nodig). Zie ENGELSE_KOLOMMEN.
 VELD.update({
     "Capture-prijs zon EUR/MWh": "Solar capture price EUR/MWh", "LCOE": "LCOE", "LCOE-bron": "LCOE source",
+    "LCOE IRENA 2024 EUR/MWh": "LCOE IRENA 2024 EUR/MWh", "Marge zon bij IRENA EUR/MWh": "Solar margin at IRENA cost EUR/MWh",
+    "LCOE eigen model": "LCOE own model", "LCOE oude aanname": "LCOE previous assumption", "Doelbron": "Target source",
+    "Kosten per ton, eigen model (marginale factor)": "Cost per tonne own model (marginal factor)",
+    "Kosten per ton, oude aanname (marginale factor)": "Cost per tonne previous assumption (marginal factor)",
     "Emissiefactor gemiddeld t/MWh": "Average emission factor t/MWh", "Zon doel TWh 2030": "Solar target TWh 2030",
     "Extra zon TWh": "Additional solar TWh", "Marge EUR/MWh": "Margin EUR/MWh",
     "Kosten per ton (gemiddelde factor)": "Cost per tonne (average factor)", "Kosten per ton (marginale factor)": "Cost per tonne (marginal factor)",

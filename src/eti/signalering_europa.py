@@ -9,7 +9,8 @@ Controle: voor Nederland 2026 moet dit exact powerbi/maten_verwacht.csv geven (6
 
 Schrijft naar tableau/data:
   t9_signalering_zones.csv   zone x maand: prijs, capture-prijs zon, z-score, signaal (heatmap: welke zones schokken wanneer)
-  t10_dekking_nl.csv         Nederland, jaar x LCOE-scenario x status: aantal maanden (hoe vaak verdient zon zijn kostprijs terug)
+  t10_dekking_nl.csv         Nederland, jaar x LCOE-scenario x status: aantal maanden (hoe vaak verdient zon zijn kostprijs terug);
+                             drie scenario's: studiemodel 2025 en 2030 (PBL-referentieproject) en IRENA 2024 (gemeten projecten)
 Gebruik:  PYTHONPATH=src python3 -m eti.signalering_europa
 """
 import os
@@ -65,9 +66,16 @@ def controle(d, verwacht=VERWACHT):
     return goed, totaal
 
 
+def scenarios():
+    """De twee waarden van het studiemodel plus de IRENA-kostprijs van 2024 (gemeten projecten), zelfde bron als dashboard 5."""
+    from eti.lcoe import per_land
+    irena = per_land(["NLD"]).at["NLD", "LCOE IRENA"]
+    return {**LCOE, f"LCOE 2024 IRENA ({irena:.2f})".replace(".", ","): irena}
+
+
 def dekking_nl(t2):
     rijen = []
-    for naam, l in LCOE.items():
+    for naam, l in scenarios().items():
         d = bereken(t2[t2["Zonenaam"] == "Nederland"], l)
         for (jaar, st), n in d.groupby(["Jaar", "Status zon"]).size().items():
             rijen.append({"Jaar": jaar, "Scenario": naam, "Status zon": st, "Maanden": n})

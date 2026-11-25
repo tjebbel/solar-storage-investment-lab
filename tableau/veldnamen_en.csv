@@ -231,13 +231,18 @@ t13_kostencurve,Land,Country
 t13_kostencurve,Capture-prijs zon EUR/MWh,Solar capture price EUR/MWh
 t13_kostencurve,LCOE,LCOE
 t13_kostencurve,LCOE-bron,LCOE source
+t13_kostencurve,LCOE eigen model,LCOE own model
+t13_kostencurve,LCOE oude aanname,LCOE previous assumption
 t13_kostencurve,Emissiefactor gemiddeld t/MWh,Average emission factor t/MWh
 t13_kostencurve,Zon TWh 2025,Solar TWh 2025
 t13_kostencurve,Zon doel TWh 2030,Solar target TWh 2030
+t13_kostencurve,Doelbron,Target source
 t13_kostencurve,Extra zon TWh,Additional solar TWh
 t13_kostencurve,Marge EUR/MWh,Margin EUR/MWh
 t13_kostencurve,Kosten per ton (gemiddelde factor),Cost per tonne (average factor)
 t13_kostencurve,Kosten per ton (marginale factor),Cost per tonne (marginal factor)
+t13_kostencurve,"Kosten per ton, eigen model (marginale factor)",Cost per tonne own model (marginal factor)
+t13_kostencurve,"Kosten per ton, oude aanname (marginale factor)",Cost per tonne previous assumption (marginal factor)
 t13_kostencurve,Potentieel Mt (gemiddelde factor),Potential Mt (average factor)
 t13_kostencurve,Potentieel Mt (marginale factor),Potential Mt (marginal factor)
 t13_kostencurve,Cumulatief Mt (gemiddelde factor),Cumulative Mt (average factor)
@@ -294,6 +299,8 @@ t27_impact,Ton CO2 per M EUR per jaar,Tonnes CO2 per M EUR per year
 t27_impact,Capture-prijs zon 2025,Solar capture price 2025
 t27_impact,Marge zon EUR/MWh,Solar margin EUR/MWh
 t27_impact,Additionaliteit (indicatief),Additionality (indicative)
+t27_impact,LCOE IRENA 2024 EUR/MWh,LCOE IRENA 2024 EUR/MWh
+t27_impact,Marge zon bij IRENA EUR/MWh,Solar margin at IRENA cost EUR/MWh
 t27_impact,LCOE bij 5% WACC,LCOE at 5% WACC
 t28_zuiden,Locatie,Location
 t28_zuiden,Instraling,Irradiation

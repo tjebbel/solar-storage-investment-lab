@@ -14,6 +14,13 @@ Tabellen (tableau/data en tableau/data_en):
   t82_cost_of_capital    dashboard 15: kapitaalkosten zon per land (data/extern/kapitaalkosten_landen.csv, IEA) en wat dezelfde
                          zonnecentrale daardoor meer kost dan bij Europese financiering (zelfde rekenregel als impact_zuiden:
                          85% van de LCOE is kapitaal, looptijd 25 jaar). Jaren verschillen per land (2021 of 2024): kolom Year.
+  t83_public_finance     dashboards 15 en 33: internationale publieke financiering per land, techniekgroep en jaar
+                         (IRENA Renewable Energy Statistics 2026, PUBFIN; miljoen USD van 2023). Ontvangende landen.
+  t84_public_solar_vs_capital  per land uit t82: publieke financiering voor zon-PV 2015-2024 naast de kapitaalkosten.
+  t85_wacc_by_country    dashboard 33: kapitaalkosten en financieringsaandeel in de LCOE per land en techniek (IRENA Renewable
+                         Power Generation Costs in 2024, figuur S.7; 64 landen voor zon), met Moody's-rating.
+  t86_irena_solar_lcoe   dashboard 32: LCOE zon op utiliteitsschaal per regio en vier grote markten, 2015 en 2024 (IRENA tabel 3.3).
+  t87_iea_wacc_survey    dashboards 15 en 33: IEA Cost of Capital Observatory, alle projecttypen, landen en jaren (2019-2024).
 Beperkingen: t70 kent twee LCOE-waarden (Spanje, Nederland) voor alle landen; KYOS ligt ongeveer 25% onder LevelTen;
 VOLLASTUREN is een vaste aanname voor alle zones; correlaties zijn geen oorzaak.
 Gebruik:  PYTHONPATH=src python3 -m eti.verdieping
@@ -132,9 +139,59 @@ def cost_of_capital():
     return k.sort_values("WACC", ascending=False)
 
 
+GROEP = {"Solar photovoltaic": "Solar", "Solar thermal energy": "Solar", "Wind energy": "Wind", "Onshore wind energy": "Wind",
+         "Offshore wind energy": "Wind", "Renewable hydropower": "Hydropower", "Coal": "Fossil fuels", "Natural gas": "Fossil fuels",
+         "Oil": "Fossil fuels", "Other fossil fuels": "Fossil fuels", "Nuclear energy": "Nuclear"}
+
+
+def public_finance():
+    p = pd.read_csv(Path("data/extern") / "irena_pubfin_2026.csv")
+    p["Group"] = p.Technology.map(GROEP).fillna("Other renewables and storage")
+    p["Unallocated"] = p.Country.str.contains("Residual|Unspecified|unallocated", case=False)
+    return p.rename(columns={"Value": "Public finance M USD (2023 prices)"})
+
+
+def public_solar_vs_capital():
+    p = public_finance()
+    s = p[(p.Technology == "Solar photovoltaic") & p.Year.between(2015, 2024)]
+    tot = s.groupby("Country")["Public finance M USD (2023 prices)"].sum()
+    k = cost_of_capital()[["Country", "Group", "WACC %", "Year", "Extra cost from capital %"]].rename(columns={"Year": "WACC year"})
+    k["Public solar finance 2015-2024 M USD"] = k.Country.map(tot)
+    k["Recipient of international public finance"] = k["Public solar finance 2015-2024 M USD"].notna()
+    return k.sort_values("Public solar finance 2015-2024 M USD", ascending=False)
+
+
+def lcoe_country():
+    """Dashboard 32: kostprijs van zon per land op drie grondslagen naast de capture-prijs (zie eti.lcoe en t13)."""
+    from eti.lcoe import per_land
+    t = pd.read_csv(D / "t13_kostencurve.csv")[["Country code", "Country", "Solar capture price EUR/MWh", "LCOE own model",
+                                                 "LCOE", "LCOE source", "LCOE previous assumption"]]
+    k = per_land(t["Country code"])
+    t["Yield kWh per kW"] = t["Country code"].map(k["Opbrengst kWh per kW"])
+    t["Yield reliable"] = t["Country code"].map(k["Opbrengst betrouwbaar"])
+    t["WACC %"] = t["Country code"].map(k["WACC %"])
+    t["WACC from IRENA country data"] = t["Country code"].map(k["WACC-bron"]) == "IRENA 2024, land"
+    t = t.rename(columns={"LCOE own model": "LCOE own model EUR/MWh", "LCOE": "LCOE IRENA EUR/MWh", "LCOE source": "IRENA basis",
+                          "LCOE previous assumption": "LCOE previous assumption EUR/MWh"})
+    for n in ("own model", "IRENA", "previous assumption"):
+        t[f"Margin {n} EUR/MWh"] = t["Solar capture price EUR/MWh"] - t[f"LCOE {n} EUR/MWh"]
+    return t.sort_values("LCOE IRENA EUR/MWh")
+
+
+def uit_extern(naam):
+    return pd.read_csv(Path("data/extern") / naam)
+
+
 def main():
     uit = {"t77_ppa_vs_2030": ppa_vs_2030(), "t78_solar_battery_hedge": hedge(), "t79_battery_drivers": drivers(),
-           "t80_forecast_value": forecast_value(), "t81_impact_frontier": frontier(), "t82_cost_of_capital": cost_of_capital()}
+           "t80_forecast_value": forecast_value(), "t81_impact_frontier": frontier(), "t82_cost_of_capital": cost_of_capital(),
+           "t83_public_finance": public_finance(), "t84_public_solar_vs_capital": public_solar_vs_capital(),
+           "t85_wacc_by_country": uit_extern("irena_wacc_2024.csv"), "t86_irena_solar_lcoe": uit_extern("irena_solar_lcoe_2024.csv"),
+           "t87_iea_wacc_survey": uit_extern("iea_cost_of_capital_observatory_2025.csv"),
+           "t88_energy_poverty": uit_extern("energiearmoede.csv"), "t89_grid_queue": uit_extern("wachtrij_netbeheer.csv"),
+           "t90_feed_in_tariffs_2027": uit_extern("terugleververgoeding_2027.csv"),
+           "t91_renewable_jobs": uit_extern("irena_jobs_2025.csv"), "t92_solar_lcoe_country": lcoe_country(),
+           "t93_irena_solar_country": uit_extern("irena_solar_country_2024.csv")}
     for naam, d in uit.items():
         for u in UIT:
             d.to_csv(u / f"{naam}.csv", index=False, float_format="%.6g")

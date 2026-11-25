@@ -36,3 +36,6 @@ run_texas.sh
 
 # uurcache van eti.uurdata (groot, opnieuw te maken uit data/raw)
 data/cache/
+
+# NGFS-scenariodata (licentie: niet herpubliceren)
+data/extern/ngfs/

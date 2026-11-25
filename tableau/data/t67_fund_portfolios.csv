@@ -1,7 +1,7 @@
 Portfolio,Weights,Project IRR P10,Project IRR P50,Project IRR P90,Share of draws above 8%,Fund net IRR (P50),Fund TVPI (P50),"CO2 per M EUR per year, marginal domestic","CO2 per M EUR per year, marginal fossil response"
-South and east,"Solar South 50%, Battery East 50%",0.0261,0.0748,0.1281,0.449,0.0462,1.2849,88.6935,478.3751
-North and west,"Solar North 60%, Battery West 40%",-0.031,0.0079,0.0471,0.017,-0.0244,0.8734,129.3314,441.2953
-Balanced,"Solar South 25%, Solar North 25%, Battery East 25%, Battery West 25%",-0.0056,0.0422,0.0898,0.153,0.012,1.0678,103.3384,434.3509
-Solar only,"Solar South 50%, Solar North 50%",-0.0108,0.0312,0.0702,0.062,0.0004,1.0023,152.9235,782.892
+South and east,"Solar South 50%, Battery East 50%",0.0242,0.0727,0.1261,0.431,0.0439,1.2694,90.3935,459.2166
+North and west,"Solar North 60%, Battery West 40%",-0.0181,0.0219,0.062,0.034,-0.0095,0.9492,136.1876,490.25
+Balanced,"Solar South 25%, Solar North 25%, Battery East 25%, Battery West 25%",-0.001,0.0471,0.0951,0.185,0.0171,1.0983,107.0452,445.1694
+Solar only,"Solar South 50%, Solar North 50%",-0.0017,0.041,0.0807,0.103,0.0107,1.0604,160.3371,804.529
 Batteries only,"Battery East 50%, Battery West 50%",-0.03,0.0547,0.1435,0.349,0.0251,1.1469,53.7533,85.8098
 "Batteries only, with reserve markets (x1.5)","Battery East 50%, Battery West 50%",0.0644,0.1645,0.2754,0.848,0.1209,1.8628,53.7533,85.8098

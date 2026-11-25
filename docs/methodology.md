@@ -171,6 +171,19 @@ zon in Italië (IRR P50 12,1%, 659 t per miljoen euro per jaar) en zon in Bulgar
 De methode bepaalt de impactclaim: fossil response geeft mediaan 3 keer zoveel vermeden CO2 als de binnenlandse methode.
 Ontbrekend: Spanje, Portugal, Nederland, Denemarken, Oostenrijk, Estland en Frankrijk (dekking opwek onbetrouwbaar).
 
+**Kapitaalkosten uit de officiële bestanden (24 november, avond).** t82 is opnieuw opgebouwd uit het databestand van de IEA Cost
+of Capital Observatory (`data/extern/iea_cost_of_capital_observatory_2025.csv`, alle projecttypen en jaren: t87): per land het
+laatste jaar voor zon 50-100 MW, het midden van het mediane bereik, met onder- en bovengrens. Veertien landen in plaats van twaalf
+(Maleisië en Thailand erbij); Kenia en Senegal hebben alleen 2022. Europa, de VS en China staan niet in het enquêtebestand en
+blijven de waarden uit tabel 1 (2021). Nieuwe uitkomsten: Zuid-Afrika 12,25% (+87% kosten), Brazilië 12,0% (+84%), India 10,75%
+(+70%). De alinea hieronder beschrijft de eerdere, handmatig verzamelde versie.
+Daarnaast IRENA Renewable Power Generation Costs in 2024: t85 (kapitaalkosten en financieringsaandeel in de LCOE per land,
+64 landen voor zon, met Moody's-rating; een modelmatige benchmark, niet vergelijkbaar met de IEA-enquête: India 7,5% tegen
+10,75%) en t86 (LCOE zon per regio en vier markten, 2015 en 2024, in USD van 2024). In t85 hangt het financieringsaandeel
+bijna één op één samen met de kapitaalkosten (correlatie 0,96): 33% van de LCOE bij landen met investment grade, 56% daaronder.
+Het IRENA-bestand geeft géén LCOE per Europees land (alleen Europa 60 USD/MWh, bereik 41-103, en Duitsland 59); dashboard 32
+kan dus alleen op regioniveau, of met het eigen model.
+
 **Kapitaalkosten per land (t82; dashboard 15, 24 november).** Twaalf landen en regio's uit de IEA Cost of Capital Observatory
 (`data/extern/kapitaalkosten_landen.csv`, bron en URL per rij): acht uit tabel 1 (zon op utiliteitsschaal, 2021) en vier uit
 de enquêtes van 2024 (Kenia en Senegal: midden van 8,5-9%; Vietnam 9,0%; Filipijnen 8,0%, indicatief). De jaren verschillen
@@ -180,8 +193,51 @@ centrale kost in Brazilië (13,1%) 97% meer en in India (9,9%) 60% meer. Toets: 
 79 naar ongeveer 45-48 USD/MWh bij Europese kapitaalkosten (circa 40% lager); onze regel geeft 49% lager, dus iets te hoog.
 Let op: het eigen model rekent voor India met 12% (t27); de IEA gaf 9,9% voor 2021. De KPI-tegel noemt nu beide.
 
+**Publieke financiering (t83, t84; 24 november).** IRENA Renewable Energy Statistics 2026, tabel PUBFIN: internationale publieke
+investeringen per ontvangend land, techniek en jaar (2000-2024, miljoen USD in prijzen van 2023), opgeslagen als
+`data/extern/irena_pubfin_2026.csv`; het aandeel hernieuwbaar per land als `irena_reshare_2026.csv`. t83 groepeert de technieken
+(Solar, Wind, Hydropower, Fossil fuels, Nuclear, Other renewables and storage; die laatste bevat 'Multiple renewables').
+2015-2024: zon 62,7 miljard USD, fossiel 54,9 miljard; in 2024 zon 7,6 en fossiel 3,3 miljard. t84 zet per land uit t82 de
+publieke zonfinanciering 2015-2024 naast de kapitaalkosten (India 7,6 miljard, Brazilië 5,1 miljard). Europa en de VS zijn geen
+ontvangers. Dit zijn toezeggingen van publieke financiers, geen totale investeringen; regels 'Residual/unallocated' zijn gemarkeerd.
+
 **Bekende gaten uit de audit van 23 november.** (1) t70 en t13 gebruiken twee LCOE-waarden (Spanje 51,09 en Nederland 67,39)
 voor alle landen: elke uitspraak "onder de LCOE" hangt daarvan af; dashboard 32 (LCOE per land) lost dit op. (2) Duitsland,
 Bulgarije en Servië hebben geen 2030-doel in t13 en ontbreken daardoor in t70. (3) Noorwegen en Zweden: capture-prijs verschilt
 tot 2 EUR/MWh tussen t13 en t70 (andere weging van zones). (4) `tableau/data_en` bevat tabellen met Nederlandse kolomnamen
 (t1-t5, t9, t10, t43, t47, t48, t50): bewust zo gelaten omdat de werkmappen die namen gebruiken.
+
+## Openbare bronnen zonder download (t88-t91, 24 nov 2026)
+`t88_energy_poverty`, `t89_grid_queue`, `t90_feed_in_tariffs_2027` en `t91_renewable_jobs` zijn één-op-één kopieën van de
+bestanden in `data/extern`; er wordt niets berekend. De cijfers zijn met de hand overgenomen van de bronpagina, dus elke rij
+heeft een kolom `Source`. Beperkingen: (1) de wachtrij van eind 2025 en medio 2026 komt uit een vakblad dat de cijfers van de
+netbeheerders weergeeft, niet uit het rapport zelf; voor TenneT eind 2025 noemt de Kamerbrief 211 aanvragen en het vakblad 210.
+(2) De wachtrij van TenneT bevat ook aanvragen voor flexibele contracten en is in GW niet optelbaar bij die van de regionale
+netbeheerders (dubbeltellingen mogelijk). (3) De terugleververgoedingen zijn momentopnamen van vergelijkingssites; de twee
+peildata komen van twee verschillende sites en zijn daarom niet als tijdreeks te lezen. (4) Het tekort per huishouden in 2022 en
+2023 is gemeten ondanks steun; 2024 en 2025 zonder steun.
+
+## Kostprijs van zon per land, twee methoden (t92, 24 nov 2026)
+**Eigen model:** LCOE = (449 x CRF(WACC, 25 jaar) + 15,7) / opbrengst. Capex en onderhoud zijn overal gelijk (PBL, Nederland);
+de opbrengst is de mediaan over 2023-2025 van opwek gedeeld door het gemiddelde vermogen van dat jaar en het jaar ervoor
+(Ember); de WACC komt uit IRENA 2024 per land (t85), en waar die ontbreekt de mediaan van de overige landen.
+**IRENA:** gewogen gemiddelde kostprijs van projecten die in 2024 zijn opgeleverd, voor zeven landen; voor de rest het
+Europese gemiddelde (60 USD/MWh). Omgerekend met 1,0824 USD per EUR (gemiddelde 2024).
+Beperkingen: (1) het eigen model is een ondergrens: 449 EUR/kW ligt onder de installatiekosten die IRENA in 2024 voor elk van de
+zeven landen meet (566 tot 1.104 USD/kW), en de opbrengst is die van het hele park, daken inbegrepen. (2) De IRENA-WACC is reeel;
+de 7% in de fondssimulator is nominaal. (3) `Yield reliable` is onwaar bij minder dan 1 GW of meer dan 25% spreiding tussen de
+jaren. (4) De capture-prijs is van 2025 en de IRENA-kostprijs van 2024. (5) De uitkomst hangt sterk aan de kostenaanname: bij de
+20 landen met betrouwbare opbrengst ligt zon onder de kostprijs in 4 landen (eigen model), 11 (IRENA) of 15 (de twee waarden
+die dashboards 5, 26 en 27 nu gebruiken). Die dashboards zijn niet aangepast.
+
+## Doorgevoerd op 24 november 2026 (nacht): IRENA-kostprijs en het Duitse doel
+- `t13`, en daarmee `t65`-`t67`, `t70`, `t77`, `t81` en de KPI's van 5, 26 en 27, gebruiken nu de IRENA-kostprijs van 2024
+  (`eti.lcoe`). De oude twee waarden staan als `LCOE previous assumption` in `t13`, het eigen model als `LCOE own model`.
+- Landen met alleen een vermogensdoel (Duitsland 215 GW, Bulgarije 6,75 GW, Servie 0,37 GW) krijgen een opwekdoel van
+  doel x opbrengst 2025; kolom `Target source`. Het Duitse doel is wettelijk, geen prognose.
+- Effect: winst per vermeden ton in 11 van 26 landen (was 7); potentieel 140 Mt (was 103); grootste omzetrisico Duitsland
+  5,1 mld EUR per jaar (was Spanje 3,2); beste portefeuille 7,3% bruto en 4,4% netto (was 7,5 en 4,6); de PPA-prijs ligt
+  boven de stresstest van 2030 in 13 van 22 landen (was 12 van 19); drie bouwstenen op de grens (Italie, Griekenland, Bulgarije).
+- Niet aangepast: dashboards 1 en 14 rekenen voor Nederland met 67 EUR/MWh (PBL). Getallen van voor deze datum elders in
+  dit document en in `deep_dives.md` zijn de oude stand.
+

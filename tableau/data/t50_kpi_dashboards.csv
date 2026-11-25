@@ -1,5 +1,5 @@
 Dashboard,Volgorde,KPI,Waarde,Tekst,Vergelijking,Referentie,Richting
-2,1,Maanden kosten gedekt,6.0,6 van 11,2025: 5 van 12,"LCOE 2025: 67,39 EUR/MWh",goed
+2,1,Maanden kosten gedekt,6.0,6 van 11,2025: 5 van 12,"LCOE 2025: 67,39 EUR/MWh; IRENA 2024: 11 van 11",goed
 2,2,Capture rate zon NL,0.587,0.59,2025: 0.61,EU-mediaan 0.61,slecht
 2,3,Gemiddelde prijs NL,121.035,121 EUR/MWh,2025: 87,EU-mediaan 120,neutraal
 2,4,Prijssignaal laatste maand,5.397287831901762,Schok (z = 5.4),maand 2026-11,27 van 37 zones Schok,slecht
@@ -11,10 +11,10 @@ Dashboard,Volgorde,KPI,Waarde,Tekst,Vergelijking,Referentie,Richting
 4,2,Paneelprijs,0.0953988479227049,0.095 USD/W,2024: 0.118 (-19%),exportwaarde China,goed
 4,3,Sterren 2025,4.0,"BGR, LTU, POL, ROU","2022: HUN, LTU, NLD",groei > 30%/jaar,neutraal
 4,4,Nederland,,Hond,2022: Ster,"verzadiging, netcongestie",slecht
-5,1,Countries abating CO2 at a profit,7.0,7 of 26,"solar capture price above LCOE, 2025",negative cost per tonne,goed
-5,2,Abatement potential to 2030,102.56280000000001,103 Mt CO2/yr,average grid factor: 46 Mt,marginal factor (gas),neutraal
-5,3,Cheapest abatement,-109.19987200687495,Italy: -109 EUR/t,average factor: -153 EUR/t,"EU ETS: 74 avg 2025, about 90 in Nov 2026",goed
-5,4,Netherlands,34.92779097099999,35 EUR/t,average factor: 55 EUR/t,margin -14 EUR/MWh,slecht
+5,1,Countries abating CO2 at a profit,11.0,11 of 26,"solar capture price above LCOE (IRENA 2024), 2025",negative cost per tonne,goed
+5,2,Abatement potential to 2030,139.66916863042562,140 Mt CO2/yr,average grid factor: 76 Mt,marginal factor (gas),neutraal
+5,3,Cheapest abatement,-96.1728394865498,Italy: -96 EUR/t,average factor: -135 EUR/t,"EU ETS: 74 avg 2025, about 90 in Nov 2026",goed
+5,4,Netherlands,-35.5012001598204,-36 EUR/t,average factor: -56 EUR/t,margin 14 EUR/MWh,goed
 6,1,Chinese manufacturers in loss,7.0,7 of 8,"polysilicon, wafers, modules",combined net loss 6.5 bn USD,slecht
 6,2,"Module makers, net margin",-8.890393333333334,-9%,range -10% to -7%,"Trina, JA, Jinko, 2025",slecht
 6,3,Inverters and storage,15.0935,15% (Sungrow),storage is 42% of revenue,Enphase: 12%,goed
@@ -44,11 +44,11 @@ Dashboard,Volgorde,KPI,Waarde,Tekst,Vergelijking,Referentie,Richting
 13,3,Electric cars,1415536.0,1.42 million,3.3 TWh/yr demand,data to 2026-10,goed
 13,4,Smart charging at midday,0.8984109589041095,0.9 GW,unmanaged evening peak: 1.1 GW,"assumption, see method",neutraal
 14,1,"CO2 per million EUR, Netherlands",246.2,246 t/yr,India: 1474 t/yr,"solar, 2025",neutraal
-14,2,Dutch solar margin,-13.9711163884,-14 EUR/MWh,"capture price minus LCOE, 2025",additionality: high,slecht
+14,2,Dutch solar margin,-13.9711163884,-14 EUR/MWh,at IRENA 2024 project cost: +14 EUR/MWh,PBL reference project; additionality depends on the cost basis,neutraal
 14,3,CO2 avoided by Dutch renewables,39993.0,40.0 Mt,2024: 35.9 Mt,"CBS, provisional",goed
 14,4,of which solar power,11755.0,11.8 Mt,2024: 9.9 Mt,"CBS, provisional",goed
 15,1,Best solar site,1896.027120556384,1896 full-load hours,Egypt (Benban),2.1 times the Netherlands,goed
-15,2,"Cost of capital, India",0.12,12.0%,Netherlands: 5.0%,model assumption; IEA 2021: 9.9%,slecht
+15,2,"Cost of capital, India",0.12,12.0%,Netherlands: 5.0%,model assumption; IEA 2024: 10.0-11.5%,slecht
 15,3,Indian LCOE at Dutch WACC,27.674392663461173,28 EUR/MWh,now: 44 EUR/MWh,38% cheaper,goed
 15,4,Sites with 1.5x Dutch sun,17.0,17 of 24,"PVGIS, 11 years","same panel, more output",neutraal
 16,1,Deepest midday dip,53.3766,Greece: 53 EUR/MWh,day average minus 11-15h price,2025,slecht
@@ -76,13 +76,13 @@ Dashboard,Volgorde,KPI,Waarde,Tekst,Vergelijking,Referentie,Richting
 25,3,Countries where a battery adds CO2,2.0,2 of 19,"Italy, Serbia: more than 5 t/MW/yr","both methods agree; 2025, reliable data",slecht
 25,4,Netherlands,,not measurable,Energy-Charts: 33% unclassified,use CBS/Ember: 0.25 t/MWh,neutraal
 26,1,Median revenue at risk,22.1049,22 EUR/MWh,if 2030 solar targets are met,price level of 2025 held constant,slecht
-26,2,Largest in euros,3186.4937,Spain: 3.2 bn EUR/yr,23 EUR/MWh on 138 TWh,Hirth slope x extra solar share,slecht
-26,3,Italy keeps the most value,0.5799,capture rate 0.58,2025: 0.82,the only country above LCOE in 2030,goed
-26,4,Extrapolated beyond the data,8.0,8 of 23 countries,2030 share above the highest monthly share seen,"read as a stress test, not a forecast",neutraal
-27,1,Best project return (median),0.0748,7.5%,P10-P90: 2.6% to 12.8%,South and east: solar south + batteries east,goed
-27,2,Fund net return after fees,0.0462,4.6%,hurdle 8%,"2% fee, 20% carry, 10-year fund",slecht
-27,3,CO2 per euro: solar vs batteries,9.123573298154758,3-9x,solar avoids more CO2 per euro,"marginal factor, domestic vs fossil response",neutraal
-27,4,Chance of beating 8%,0.449,45%,North and west: 2%,"1,000 Monte Carlo draws",neutraal
+26,2,Largest in euros,5117.8262,Germany: 5.1 bn EUR/yr,28 EUR/MWh on 181 TWh,Hirth slope x extra solar share,slecht
+26,3,Italy keeps the most value,0.5799,capture rate 0.58,2025: 0.82,9 of 26 stay above country cost in 2030; 5 at IRENA cost,goed
+26,4,Extrapolated beyond the data,9.0,9 of 26 countries,2030 share above the highest monthly share seen,"read as a stress test, not a forecast",neutraal
+27,1,Best project return (median),0.0727,7.3%,P10-P90: 2.4% to 12.6%,South and east: solar south + batteries east,goed
+27,2,Fund net return after fees,0.0439,4.4%,hurdle 8%,"2% fee, 20% carry, 10-year fund",slecht
+27,3,CO2 per euro: solar vs batteries,9.375723984906154,3-9x,solar avoids more CO2 per euro,"marginal factor, domestic vs fossil response",neutraal
+27,4,Chance of beating 8%,0.431,43%,North and west: 3%,"1,000 Monte Carlo draws",neutraal
 28,1,South Australia: midday price,0.0063,1% of average,negative 30% of hours,"2025, AEMO",slecht
 28,2,California: midday price,0.3282,33% of average,negative 11% of hours,"2025, CAISO SP15",slecht
 28,3,Netherlands: midday price,0.5545,55% of average,2019: 99%,"2025, Energy-Charts",slecht

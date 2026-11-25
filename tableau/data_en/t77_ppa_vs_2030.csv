@@ -1,20 +1,23 @@
 Market,PPA source,PPA price EUR/MWh,Solar revenue 2025 EUR/MWh,Solar revenue 2030 EUR/MWh,LCOE EUR/MWh,PPA minus 2025 revenue,PPA minus 2030 revenue,PPA minus LCOE,Reading,2030 is extrapolated
-France,LevelTen P25 offer,63.4,35.9113,14.7975,67.39,27.4887,48.6025,-3.99,PPA above market in 2025 and 2030,False
-Greece,LevelTen P25 offer,52.5,59.8122,24.2499,51.09,-7.3122,28.2501,1.41,"market paid more in 2025, PPA protects by 2030",True
-Croatia,KYOS estimate,46.4,69.4216,21.0702,51.09,-23.0216,25.3298,-4.69,"market paid more in 2025, PPA protects by 2030",True
-Czechia,KYOS estimate,44,54.8526,20.1147,67.39,-10.8526,23.8853,-23.39,"market paid more in 2025, PPA protects by 2030",False
-Romania,KYOS estimate,44,64.4211,24.2857,51.09,-20.4211,19.7143,-7.09,"market paid more in 2025, PPA protects by 2030",True
-Spain,LevelTen P25 offer,32.5,36.0958,13.057,51.09,-3.5958,19.443,-18.59,"market paid more in 2025, PPA protects by 2030",True
-Denmark,KYOS estimate,35.15,51.9306,16.3606,67.39,-16.7806,18.7894,-32.24,"market paid more in 2025, PPA protects by 2030",True
-Austria,KYOS estimate,44.2,49.3186,25.8168,67.39,-5.1186,18.3832,-23.19,"market paid more in 2025, PPA protects by 2030",False
-Portugal,KYOS estimate,29.5,35.3417,13.2368,51.09,-5.8417,16.2632,-21.59,"market paid more in 2025, PPA protects by 2030",True
-Sweden,KYOS estimate,26.325,22.3565,20.5713,67.39,3.9685,5.7537,-41.065,PPA above market in 2025 and 2030,False
-Norway,KYOS estimate,31.42,28.7738,26.0543,67.39,2.6462,5.3657,-35.97,PPA above market in 2025 and 2030,False
-Finland,KYOS estimate,32.9,36.0507,31.5914,67.39,-3.1507,1.3086,-34.49,"market paid more in 2025, PPA protects by 2030",False
-Belgium,KYOS estimate,37.3,42.4603,40.6508,67.39,-5.1603,-3.3508,-30.09,market above PPA in both years,False
-Poland,KYOS estimate,56.3,67.2724,60.3941,67.39,-10.9724,-4.0941,-11.09,market above PPA in both years,False
-Italy,LevelTen P25 offer,60.67,94.7645,67.2287,51.09,-34.0945,-6.5587,9.58,market above PPA in both years,True
-Switzerland,KYOS estimate,46.7,60.3647,56.9955,67.39,-13.6647,-10.2955,-20.69,market above PPA in both years,False
-Slovakia,KYOS estimate,40.2,56.8616,51.5397,67.39,-16.6616,-11.3397,-27.19,market above PPA in both years,False
-Hungary,KYOS estimate,39.7,62.563,51.7341,67.39,-22.863,-12.0341,-27.69,market above PPA in both years,False
-Netherlands,KYOS estimate,33.9,53.4189,53.4189,67.39,-19.5189,-19.5189,-33.49,market above PPA in both years,False
+France,LevelTen P25 offer,63.4,35.9113,14.7975,65.8167,27.4887,48.6025,-2.4167,PPA above market in 2025 and 2030,False
+Germany,LevelTen P25 offer,49.77,46.0653,17.8656,54.8226,3.7047,31.9044,-5.0526,PPA above market in 2025 and 2030,True
+Greece,LevelTen P25 offer,52.5,59.8122,24.2499,40.4472,-7.3122,28.2501,12.0528,"market paid more in 2025, PPA protects by 2030",True
+Croatia,KYOS estimate,46.4,69.4216,21.0702,55.4324,-23.0216,25.3298,-9.0324,"market paid more in 2025, PPA protects by 2030",True
+Czechia,KYOS estimate,44,54.8526,20.1147,55.4324,-10.8526,23.8853,-11.4324,"market paid more in 2025, PPA protects by 2030",False
+Romania,KYOS estimate,44,64.4211,24.2857,55.4324,-20.4211,19.7143,-11.4324,"market paid more in 2025, PPA protects by 2030",True
+Spain,LevelTen P25 offer,32.5,36.0958,13.057,49.0207,-3.5958,19.443,-16.5207,"market paid more in 2025, PPA protects by 2030",True
+Denmark,KYOS estimate,35.15,51.9306,16.3606,55.4324,-16.7806,18.7894,-20.2824,"market paid more in 2025, PPA protects by 2030",True
+Austria,KYOS estimate,44.2,49.3186,25.8168,55.4324,-5.1186,18.3832,-11.2324,"market paid more in 2025, PPA protects by 2030",False
+Portugal,KYOS estimate,29.5,35.3417,13.2368,55.4324,-5.8417,16.2632,-25.9324,"market paid more in 2025, PPA protects by 2030",True
+Sweden,KYOS estimate,26.325,22.3565,20.5713,55.4324,3.9685,5.7537,-29.1074,PPA above market in 2025 and 2030,False
+Norway,KYOS estimate,31.42,28.7738,26.0543,55.4324,2.6462,5.3657,-24.0124,PPA above market in 2025 and 2030,False
+Finland,KYOS estimate,32.9,36.0507,31.5914,55.4324,-3.1507,1.3086,-22.5324,"market paid more in 2025, PPA protects by 2030",False
+Belgium,KYOS estimate,37.3,42.4603,40.6508,55.4324,-5.1603,-3.3508,-18.1324,market above PPA in both years,False
+Poland,KYOS estimate,56.3,67.2724,60.3941,78.4183,-10.9724,-4.0941,-22.1183,market above PPA in both years,False
+Italy,LevelTen P25 offer,60.67,94.7645,67.2287,56.3008,-34.0945,-6.5587,4.3692,market above PPA in both years,True
+Switzerland,KYOS estimate,46.7,60.3647,56.9955,55.4324,-13.6647,-10.2955,-8.7324,market above PPA in both years,False
+Slovakia,KYOS estimate,40.2,56.8616,51.5397,55.4324,-16.6616,-11.3397,-15.2324,market above PPA in both years,False
+Hungary,KYOS estimate,39.7,62.563,51.7341,55.4324,-22.863,-12.0341,-15.7324,market above PPA in both years,False
+Serbia,KYOS estimate,46,64.6055,64.6055,55.4324,-18.6055,-18.6055,-9.4324,market above PPA in both years,False
+Netherlands,KYOS estimate,33.9,53.4189,53.4189,39.2184,-19.5189,-19.5189,-5.3184,market above PPA in both years,False
+Bulgaria,KYOS estimate,48.9,73.3049,69.0431,55.4324,-24.4049,-20.1431,-6.5324,market above PPA in both years,False

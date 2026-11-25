@@ -120,3 +120,15 @@ De overige twaalf zijn niet opnieuw geopend: daar geldt de laatste regel in de t
 **Les 24 november:** de bron `t50_kpi_dashboards` moet naar `tableau/data_en` wijzen. In `tableau/data` zijn de regels van dashboard 2, 3 en 4 Nederlands en heet de richting `goed/slecht/neutraal`; wie de verbinding omzet, moet alle KPI-bladen op taal en kleur nalopen.
 
 **Les 24 november (2):** open het bestaande dashboard live voordat er een werkblad aan wordt toegevoegd; bij 27 stond de voorgestelde grafiek er al.
+
+## 25 november 2026: herziening na de IRENA-kostprijs en het Duitse doel
+
+| Dashboard | H | G | R | B | Totaal | Live gecontroleerd | Opmerking |
+|---|---|---|---|---|---|---|---|
+| 5 Abatement cost curve (tab `costcurve`) | 4 | 5 | 4 | 4 | **17** (was 16) | 25-11, 17:05 | KPI's 11 of 26 · 140 Mt · Italy -96 · NL -36 (teal); Germany breedste balk; nieuw blad `costrange` gesorteerd op de IRENA-waarde (20, 11 of 7 landen); tekstvak 76 vs 140 Mt; onderrand noemt IRENA en de omgerekende doelen. Geen "Next". |
+| 26 Revenue at risk 2030 (tab `lcoe`) | 4 | 4 | 4 | 5 | **17** (was 16) | 25-11, 18:13 | 26 landen; KPI Germany 5.1 bn, 9 of 26 countries, tegel 3 `9 of 26 stay above country cost in 2030; 5 at IRENA cost`; blad Above LCOE op de kostprijs per land (eigen model, t70) in middengrijs; legenda `Beyond the data`; onderrand noemt de ondergrens en de 5 bij IRENA. |
+| 27 Climate fund simulator (tab `fundsim`) | 4 | 5 | 4 | 4 | **17** (gelijk) | 25-11, 19:05 | KPI's 7.3% · 4.4% · 3-9x · 43%; histogrammen grijs tot 8% en in de blokkleur daarboven (veld `Hurdle colour`, een referentielijn kan niet op een bin-as); tabel 7.3%; puntenwolk met drie bouwstenen op de grens (Italy, Greece, Bulgaria); onderrand noemt IRENA. Rest: legendatitel `Hurdle col...` weghalen. |
+
+Les: een kolomnaam of waarde met een komma dwingt aanhalingstekens in de csv af; Tableau las `t13` daarna op spaties gesplitst in.
+Geen komma's in kolomnamen of tekstwaarden van tabellen die al in de werkmap hangen. En: een `.twbx` ververst zijn ingepakte kopie;
+na een wijziging in de data per bron `Verbinding bewerken` naar `tableau/data_en`.
