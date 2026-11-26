@@ -104,3 +104,22 @@ die laatste ontbreekt nog.
 - Eurostat, elektriciteitsprijzen: https://ec.europa.eu/eurostat/statistics-explained/index.php/Electricity_price_statistics
 - Schmidt e.a.: Joule 3, 81-100 (2019). Guerra e.a.: https://pubs.rsc.org/en/content/getauthorversionpdf/D0EE00771D
 - Duits doel: https://www.spglobal.com/energy/en/news-research/latest-news/electric-power/091525-germanys-reiche-presents-reality-check-et-report-aimed-at-reducing-costs
+
+## Aanvulling 26 november 2026: tweede zoekronde naar data en literatuur
+
+Cijfers hieronder zijn via een zoekopdracht van de bronpagina overgenomen, niet uit een gedownload bestand. Controleer ze tegen
+de bron voordat ze op een dashboard komen.
+
+| Dashboard | Wat gevonden | Waar | Status |
+|---|---|---|---|
+| 40 | Subsidie-intensiteit per techniek uit het PBL-eindadvies SDE++ 2026 (hoofdstuk 3, tabellen 3.1 tot 3.21): zon groter dan 20 MWp 62, wind op land 52 tot 251, elektrolyse 737 tot 1.275 (afgetopt op 400), CCS vanaf 11 EUR per ton | `data/extern/pbl_sde_2026_subsidie_intensiteit.csv` (23 rijen, puntkomma) | data binnen; naslaan in de pdf; er is ook een erratalijst |
+| 40 | Fasegrenzen SDE++ 2026: 75, 150, 225, 300 en 400 EUR per ton | Kamerbrief openstelling SDE++ 2026 | bruikbaar als referentielijnen |
+| 41 | Eurostat `nrg_pc_204_c` (huishoudens) en `nrg_pc_205_c` (bedrijven): prijscomponenten per land; ACER publiceert dezelfde uitsplitsing als Excel (CHEST, data item 608) | Eurostat-databrowser of de SDMX-CSV-API | zelf downloaden (shell heeft geen netwerk) |
+| 42 | Wachtrij per land, tien landen, elk met netbeheerder en peildatum: Italie 595 GW, Groot-Brittannie 381, Polen 262, Spanje 168, Nederland 76 | `data/extern/netwachtrij_europa_2026.csv`; verzameld door kilovolt.io uit de registers van de netbeheerders | data binnen; definities verschillen per land; licentie van de verzamelaar nog nalezen, of per land de netbeheerder citeren |
+| 42 | Duitsland heeft geen landelijk cijfer; AFRY voor Beyond Fossil Fuels (juni 2026): ongeveer 140 GW hernieuwbaar en 130 GW batterijen wachten op het distributienet; acht landen samen 375 en 455 GW | rapport "Grid expectations" (pdf) | als aparte regel, niet optellen |
+| 44 | PNNL Energy Storage Cost and Performance Database v2024: LCOS-werkboek (Excel) met lithium-ion, pompcentrale, perslucht, waterstof en thermische opslag | pnnl.gov, LCOS Workbook v2024 | zelf downloaden; dit is de ontbrekende bron voor warmteopslag |
+| 44 | Schmidt en Staffell: dataset ervaringscurves opslag (Figshare, 2022) en het rekenmodel op EnergyStorage.ninja | figshare 21937529 | zelf downloaden |
+| 23 | CBS Monitor Energiearmoede 2019-2024, tabellenset (xlsx) | download.cbs.nl/maatwerk/Monitor-Energiearmoede-2019-2024.xlsx | zelf downloaden; of gemeenten erin staan is niet bevestigd |
+| 12 | NGFS: volledige data als csv of xlsx via de downloadpagina van de IIASA Scenario Explorer (gastlogin); regio's verschillen per model | data.ece.iiasa.ac.at/ngfs, tabblad Downloads | zelf downloaden: kies een bestand met regio's en `Price|Secondary Energy|Electricity` |
+| 17 | LevelTen Q3 2026 (22 oktober 2026): Europese zon-index 0,86 (+0,4%); Spanje zon P25 30,93 EUR/MWh; hybride Spanje 48,00 en Duitsland 65,50. LevelTen publiceert nu een index in plaats van euro's per land | persbericht LevelTen; pv magazine 29 oktober 2026 | Spanje aanvullen in `ppa_prijzen.csv`; overige landen niet meer openbaar |
+| 35 | Geen openbare reeks van de TenneT-wachtrij per congestiegebied gevonden; wel het halfjaarrapport (al verwerkt, t89) en Kamerbrieven | Netbeheer Nederland, capaciteitskaart | dashboard 35 op landelijk niveau bouwen |
