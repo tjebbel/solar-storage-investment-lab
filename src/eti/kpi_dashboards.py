@@ -437,7 +437,179 @@ def dashboard30():
     ]
 
 
-ENGELS = (dashboard5, dashboard6, dashboard7, dashboard8, dashboard9, dashboard10, dashboard11, dashboard13, dashboard14, dashboard15, dashboard16, dashboard17, dashboard18, dashboard19, dashboard20, dashboard25, dashboard26, dashboard27, dashboard28, dashboard29, dashboard30)
+def _k(x):
+    return f"{x / 1000:.0f}k"
+
+
+def dashboard32():
+    t = pd.read_csv(D / "t92_solar_lcoe_country.csv"); n = len(t)
+    lo, hi = t.loc[t["LCOE IRENA EUR/MWh"].idxmin()], t.loc[t["LCOE IRENA EUR/MWh"].idxmax()]
+    nl = t.set_index("Country").loc["Netherlands"]
+    return [
+        _e(32, 1, "Solar earns more than it costs", int((t["Margin IRENA EUR/MWh"] > 0).sum()), f"{int((t['Margin IRENA EUR/MWh'] > 0).sum())} of {n}",
+           f"own model: {int((t['Margin own model EUR/MWh'] > 0).sum())}; previous assumption: {int((t['Margin previous assumption EUR/MWh'] > 0).sum())}", "IRENA 2024 cost vs 2025 capture price", "neutral"),
+        _e(32, 2, "Cheapest country", lo["LCOE IRENA EUR/MWh"], f"{lo['Country']}: {lo['LCOE IRENA EUR/MWh']:.0f} EUR/MWh",
+           f"most expensive: {hi['Country']} {hi['LCOE IRENA EUR/MWh']:.0f}", "IRENA 2024", "good"),
+        _e(32, 3, "Netherlands", nl["LCOE IRENA EUR/MWh"], f"{nl['LCOE IRENA EUR/MWh']:.0f} EUR/MWh", f"own model: {nl['LCOE own model EUR/MWh']:.0f}; PBL reference: {nl['LCOE previous assumption EUR/MWh']:.0f}",
+           "three cost levels, one country", "neutral"),
+        _e(32, 4, "Measured by IRENA", int((t["IRENA basis"] == "IRENA 2024 country data").sum()), f"{int((t['IRENA basis'] == 'IRENA 2024 country data').sum())} of {n}",
+           "others: European average 55 EUR/MWh", "country data only for the large markets", "neutral"),
+    ]
+
+
+def dashboard38():
+    t = pd.read_csv(D / "t78_solar_battery_hedge.csv"); h = t[t["Reading"].str.startswith("hedge")]
+    nl = t.set_index("Zone").loc["NL"]; m = t["Battery MW per solar MW to offset"].median()
+    return [
+        _e(38, 1, "Zones where the battery hedges solar", len(h), f"{len(h)} of {len(t)}", "solar down, battery up, 2023 to 2025", "day-ahead arbitrage only", "good"),
+        _e(38, 2, "Battery needed per MW of solar", m, f"{m:.1f} MW", "median zone", f"at {int(t['Full-load hours assumed'].iloc[0])} full-load hours of solar", "neutral"),
+        _e(38, 3, "Netherlands: solar capture price", nl["Solar capture price change"], f"{nl['Solar capture price change']:+.0f} EUR/MWh",
+           f"battery revenue {nl['Battery revenue per MW change'] / 1000:+.0f}k EUR/MW", "2023 to 2025", "bad" if nl["Solar capture price change"] < 0 else "good"),
+        _e(38, 4, "Correlation capture rate and battery revenue", t["Correlation capture rate vs battery revenue 2019-2025"].median(),
+           f"{t['Correlation capture rate vs battery revenue 2019-2025'].median():.2f}", "median zone, 2019-2025", "negative = natural hedge", "neutral"),
+    ]
+
+
+def dashboard39():
+    w = pd.read_csv(D / "t85_wacc_by_country.csv"); w = w[w["Technology"] == "Solar PV"]
+    c = pd.read_csv(D / "t82_cost_of_capital.csv").set_index("Country")
+    lo, hi = w.loc[w["WACC %"].idxmin()], w.loc[w["WACC %"].idxmax()]; ig = w[w["Investment grade"]]; nig = w[~w["Investment grade"]]
+    return [
+        _e(39, 1, "Cost of capital for solar", w["WACC %"].median(), f"{w['WACC %'].median():.1f}%", f"{lo['Country']} {lo['WACC %']:.1f}% to {hi['Country']} {hi['WACC %']:.1f}%", f"median of {len(w)} countries, IRENA 2024", "neutral"),
+        _e(39, 2, "Below investment grade", nig["WACC %"].median(), f"{nig['WACC %'].median():.1f}%", f"investment grade: {ig['WACC %'].median():.1f}%", f"{len(nig)} of {len(w)} countries", "bad"),
+        _e(39, 3, "Financing share of solar cost", nig["Financing share of LCOE %"].median(), f"{nig['Financing share of LCOE %'].median():.0f}%",
+           f"investment grade: {ig['Financing share of LCOE %'].median():.0f}%", "share of LCOE that pays for capital", "bad"),
+        _e(39, 4, "India at European financing", c.loc["India", "Cheaper at European financing %"], f"{c.loc['India', 'Cheaper at European financing %']:.0f}% cheaper",
+           f"WACC {c.loc['India', 'WACC %']:.1f}% vs Europe {c.loc['Europe', 'WACC %']:.1f}%", "IEA Cost of Capital Observatory", "good"),
+    ]
+
+
+def dashboard43():
+    t = pd.read_csv(D / "t93_irena_solar_country.csv").dropna(subset=["LCOE USD/MWh"]).sort_values("Year"); v = "LCOE USD/MWh"
+    g = t.groupby("Country"); a, b = g.first(), g.last(); d = (1 - b[v] / a[v]) * 100; j = int(t.Year.max())
+    nu = t[t.Year == j].set_index("Country")[v]; lo, hi = nu.idxmin(), nu.idxmax(); eerst = t[t.Year == t.Year.min()].set_index("Country")[v]
+    return [
+        _e(43, 1, "Fall in solar cost", d.median(), f"-{d.median():.0f}%", f"first to last year per country, to {j}", f"median of {len(d)} countries, IRENA", "good"),
+        _e(43, 2, f"Cheapest in {j}", nu[lo], f"{lo}: {nu[lo]:.0f} USD/MWh", f"most expensive: {hi} {nu[hi]:.0f}", "2024 USD", "good"),
+        _e(43, 3, "Netherlands", d["Netherlands"], f"-{d['Netherlands']:.0f}%", f"{a.loc['Netherlands', v]:.0f} ({int(a.loc['Netherlands', 'Year'])}) to {b.loc['Netherlands', v]:.0f} USD/MWh ({int(b.loc['Netherlands', 'Year'])})", "IRENA project data", "good"),
+        _e(43, 4, "Spread between countries", nu.max() / nu.min(), f"{nu.max() / nu.min():.1f}x", f"{int(t.Year.min())}: {eerst.max() / eerst.min():.1f}x ({len(eerst)} countries)", "most expensive divided by cheapest", "neutral"),
+    ]
+
+
+def dashboard40():
+    t = pd.read_csv(D / "t94_subsidy_per_tonne.csv"); v = "Subsidy intensity EUR per tonne CO2"; s = t.set_index("Category")[v]
+    k = pd.read_csv(D / "t13_kostencurve.csv"); m = k["Kosten per ton (marginale factor)"]
+    h2 = t[t.Technology == "Waterstof"][v]; w = t[t.Technology == "Wind"][v]
+    return [
+        _e(40, 1, "Large solar park, subsidy per tonne", s["Zon-pv groter dan 20 MWp grondgebonden"], f"{s['Zon-pv groter dan 20 MWp grondgebonden']:.0f} EUR/t", f"1 to 20 MWp: {s['Zon-pv 1 tot 20 MWp grondgebonden']:.0f} EUR/t", "PBL advice SDE++ 2026", "good"),
+        _e(40, 2, "Onshore wind", w.min(), f"{w.min():.0f} to {w.max():.0f} EUR/t", "by wind speed class", "PBL advice SDE++ 2026", "neutral"),
+        _e(40, 3, "Hydrogen from electrolysis", h2.min(), f"{h2.min():.0f} to {h2.max():,.0f} EUR/t", "capped at 400 EUR/t in the scheme", "PBL advice SDE++ 2026", "bad"),
+        _e(40, 4, "New solar without subsidy", int((m < 0).sum()), f"{int((m < 0).sum())} of {len(k)} countries", "abate CO2 at a profit in 2025", "own cost curve (dashboard 5), IRENA 2024 cost", "good"),
+    ]
+
+
+def dashboard41():
+    t = pd.read_csv(D / "t96_grid_costs.csv"); h = t[t.Group.str.startswith("House")]; b = t[t.Group.str.startswith("Business")]
+    j = int(h.Year.max()); f = lambda d, c, y: d[(d.Code == c) & (d.Year == y)].iloc[0]
+    nl, nl0, eu, eu0, nb, eb = f(h, "NL", j), f(h, "NL", 2019), f(h, "EU27_2020", j), f(h, "EU27_2020", 2019), f(b, "NL", j), f(b, "EU27_2020", j)
+    n, sh = "Network EUR/kWh", "Network share of energy plus network pct"
+    stijg = h[h.Year.isin([2019, j]) & ~h.Code.isin(["EU27_2020", "EA"])].pivot(index="Country", columns="Year", values=n).dropna()
+    return [
+        _e(41, 1, "Dutch household grid cost", nl[n], f"{100 * nl[n]:.1f} ct/kWh", f"2019: {100 * nl0[n]:.1f} ct/kWh", f"EU: {100 * eu[n]:.1f} ct/kWh", "bad"),
+        _e(41, 2, "EU household grid cost", eu[n], f"{100 * eu[n]:.1f} ct/kWh", f"2019: {100 * eu0[n]:.1f} ct/kWh ({eu[n] / eu0[n] - 1:+.0%})", f"Eurostat, {j}, 2,500-4,999 kWh", "bad"),
+        _e(41, 3, "Grid share of energy plus grid", nl[sh], f"{nl[sh]:.0f}%", f"EU: {eu[sh]:.0f}%", "Netherlands, households, before taxes", "neutral"),
+        _e(41, 4, "Countries where grid cost rose", int((stijg[j] > stijg[2019]).sum()), f"{int((stijg[j] > stijg[2019]).sum())} of {len(stijg)}", f"2019 to {j}, households",
+           f"Dutch business: {100 * nb[n]:.1f} ct/kWh; EU {100 * eb[n]:.1f}", "bad"),
+    ]
+
+
+def dashboard42():
+    t = pd.read_csv(D / "t95_grid_queue_europe.csv").set_index("Country"); x = "Queue as multiple of peak demand"; nl = t.loc["Netherlands"]
+    q = pd.read_csv(D / "t89_grid_queue.csv"); l = q[q.Date == q.Date.max()]; r = l[(l["Grid operator"] == "Regional") & (l.Direction == "Offtake")].iloc[0]
+    r0 = q[(q.Date == "2025-12-31") & (q["Grid operator"] == "Regional") & (q.Direction == "Offtake")].iloc[0]
+    return [
+        _e(42, 1, "Largest queue", t["Queue GW"].max(), f"{t['Queue GW'].idxmax()}: {t['Queue GW'].max():.0f} GW", f"{t.loc[t['Queue GW'].idxmax(), x]:.0f} times peak demand", "generation and storage only", "bad"),
+        _e(42, 2, "Netherlands", nl["Queue GW"], f"{nl['Queue GW']:.0f} GW", f"{nl[x]:.1f} times peak demand", "offtake and feed-in, 30 June 2026", "bad"),
+        _e(42, 3, "Dutch businesses waiting", r["Requests"], f"{r['Requests']:,.0f}", f"end 2025: {r0['Requests']:,.0f}", f"regional grids, offtake, {r['Capacity MW'] / 1000:.1f} GW", "bad"),
+        _e(42, 4, "Countries with a public figure", len(t), f"{len(t)}", "Germany and Belgium publish none", "definitions differ: do not add up", "neutral"),
+    ]
+
+
+def dashboard23():
+    e = pd.read_csv(D / "t88_energy_poverty.csv").set_index("Year"); r = pd.read_csv(D / "t97_energy_poverty_region.csv"); v = "Energy poverty pct"
+    j = int(r.Year.max()); g = r[(r.Level == "Gemeente") & (r.Year == j)].dropna(subset=[v]); hi, lo = g.loc[g[v].idxmax()], g.loc[g[v].idxmin()]
+    j2 = int(e.index.max())
+    return [
+        _e(23, 1, "Households in energy poverty", e.loc[j2, v], f"{e.loc[j2, v]:.1f}%", f"2019: {e.loc[2019, v]:.1f}%; 2023: {e.loc[2023, v]:.1f}%", f"{e.loc[j2, 'Households thousand']:.0f} thousand households, {j2}", "bad"),
+        _e(23, 2, "Highest municipality", hi[v], f"{hi['Name']}: {hi[v]:.1f}%", f"lowest: {lo['Name']} {lo[v]:.1f}%", f"CBS, {j}, {len(g)} municipalities", "bad"),
+        _e(23, 3, "Municipalities above 8%", int((g[v] > 8).sum()), f"{int((g[v] > 8).sum())} of {len(g)}", f"national: {r[(r.Level == 'Nederland') & (r.Year == j)][v].iloc[0]:.1f}%", f"{j}", "neutral"),
+        _e(23, 4, "Affordability gap", e.loc[j2, "Affordability gap EUR"], f"{e.loc[j2, 'Affordability gap EUR']:.0f} EUR/yr", "per household in energy poverty", f"CBS/TNO, {j2}", "bad"),
+    ]
+
+
+def dashboard36():
+    u = pd.read_csv(D / "t101_household_profile.csv"); f = pd.read_csv(D / "t90_feed_in_tariffs_2027.csv"); f = f[f["As of"] == f["As of"].max()]
+    inv = "Feed-in with solar (fraction of year)"; zomer = u[u.Month.isin([4, 5, 6, 7, 8, 9])][inv].sum(); mid = u[u.Hour.isin(range(10, 16))][inv].sum()
+    b, w = f.loc[f["Net ct/kWh"].idxmax()], f.loc[f["Net ct/kWh"].idxmin()]
+    return [
+        _e(36, 1, "Feed-in between 10 and 16h", mid, f"{mid:.0%}", "of all power a solar household feeds in", "NEDU profile E1A 2026", "neutral"),
+        _e(36, 2, "Feed-in from April to September", zomer, f"{zomer:.0%}", "six summer months", "when prices are lowest", "bad"),
+        _e(36, 3, "Best net feed-in payment", b["Net ct/kWh"], f"{b['Supplier']}: {b['Net ct/kWh']:.1f} ct/kWh", f"lowest: {w['Supplier']} {w['Net ct/kWh']:.1f} ct/kWh", f"{len(f)} suppliers, {b['As of']}", "neutral"),
+        _e(36, 4, "Median net payment", f["Net ct/kWh"].median(), f"{f['Net ct/kWh'].median():.1f} ct/kWh", "payment minus feed-in cost", "net metering ends 1 January 2027", "bad"),
+    ]
+
+
+def dashboard21():
+    t = pd.read_csv(D / "t100_commodity_prices.csv"); l = t[t.Month == t.Month.max()].set_index("Commodity"); i = "Index (Jan 2019 = 100)"
+    y = t[t.Month == str(int(t.Month.max()[:4]) - 1) + t.Month.max()[4:]].set_index("Commodity")
+    r = lambda c: f"one year earlier: {y.loc[c, 'Price USD']:,.0f}"
+    return [
+        _e(21, 1, "Silver", l.loc["Silver", "Price USD"], f"{l.loc['Silver', 'Price USD']:.0f} USD/oz", r("Silver"), f"{l.loc['Silver', i] / 100:.1f} times January 2019", "bad"),
+        _e(21, 2, "Copper", l.loc["Copper", "Price USD"], f"{l.loc['Copper', 'Price USD']:,.0f} USD/t", r("Copper"), f"{l.loc['Copper', i] / 100:.1f} times January 2019", "bad"),
+        _e(21, 3, "Aluminium", l.loc["Aluminum", "Price USD"], f"{l.loc['Aluminum', 'Price USD']:,.0f} USD/t", r("Aluminum"), f"{l.loc['Aluminum', i] / 100:.1f} times January 2019", "bad"),
+        _e(21, 4, "Latest month", 0, t.Month.max()[:7], "World Bank Pink Sheet", "nominal US dollars", "neutral"),
+    ]
+
+
+def dashboard22():
+    t = pd.read_csv(D / "t91_renewable_jobs.csv"); g = lambda d, c: t[(t.Dimension == d) & (t.Category == c)]["Jobs million"].iloc[0]
+    tot, pv, cn, eu, pvcn = g("Total", "All renewables"), g("Technology", "Solar PV"), g("Country", "China"), g("Country", "European Union"), g("Solar PV by country", "China")
+    return [
+        _e(22, 1, "Jobs in renewable energy", tot, f"{tot:.1f} million", "world, 2024", "IRENA/ILO annual review 2025", "good"),
+        _e(22, 2, "Of which solar PV", pv, f"{pv:.1f} million", f"{pv / tot:.0%} of all renewable jobs", "largest technology", "good"),
+        _e(22, 3, "China", cn, f"{cn:.1f} million", f"{cn / tot:.0%} of the world; EU {eu:.1f} million", "all renewables", "neutral"),
+        _e(22, 4, "Solar jobs in China", pvcn, f"{pvcn:.1f} million", f"{pvcn / pv:.0%} of all solar jobs", "manufacturing is concentrated", "neutral"),
+    ]
+
+
+def dashboard24():
+    t = pd.read_csv(D / "t102_hydrogen_projects.csv"); c = "Capacity kt H2 per year"; s = t.groupby("Status")[c].sum(); n = t.groupby("Status")["Projects"].sum()
+    plan = s.get("Concept", 0) + s.get("Feasibility study", 0); bouw = s.get("FID/Construction", 0); op = s.get("Operational", 0); weg = s.get("Cancelled", 0) + s.get("Dormant", 0) + s.get("On hold", 0)
+    nl = t[t.ISO3 == "NLD"].groupby("Status")[c].sum()
+    return [
+        _e(24, 1, "Announced hydrogen capacity", plan, f"{plan / 1000:.0f} Mt/yr", "concept or feasibility study", f"{int(n.get('Concept', 0) + n.get('Feasibility study', 0))} projects, IEA June 2026", "neutral"),
+        _e(24, 2, "Operating or under construction", op + bouw, f"{(op + bouw) / 1000:.1f} Mt/yr", f"{(op + bouw) / plan:.0%} of what is announced", "final investment decision taken", "bad"),
+        _e(24, 3, "Cancelled, dormant or on hold", weg, f"{weg / 1000:.0f} Mt/yr", f"{int(n.get('Cancelled', 0) + n.get('Dormant', 0) + n.get('On hold', 0))} projects", "larger than what is being built", "bad"),
+        _e(24, 4, "Netherlands: being built", nl.get("FID/Construction", 0) + nl.get("Operational", 0), f"{nl.get('FID/Construction', 0) + nl.get('Operational', 0):.0f} kt/yr",
+           f"announced: {nl.get('Concept', 0) + nl.get('Feasibility study', 0):,.0f} kt/yr", "low-emission hydrogen projects", "neutral"),
+    ]
+
+
+def dashboard12():
+    p = D / "t99_ngfs_regions.csv"
+    if not p.exists():
+        return []
+    t = pd.read_csv(p); o = t[t.Region.str.startswith("OECD")]; g = lambda sc, v, y: o[(o.Scenario == sc) & (o.Variable == v) & (o.Year == y)]["Value"].iloc[0]
+    P, G, nz, cp = "Electricity price", "Electricity generation", "Net Zero 2050", "Current Policies"
+    return [
+        _e(12, 1, "Power price 2030, Net Zero 2050", g(nz, P, 2030), f"{g(nz, P, 2030):.0f} USD/MWh", f"current policies: {g(cp, P, 2030):.0f}", "OECD and EU, 2010 dollars", "bad"),
+        _e(12, 2, "Power price 2050, Net Zero 2050", g(nz, P, 2050), f"{g(nz, P, 2050):.0f} USD/MWh", f"current policies: {g(cp, P, 2050):.0f}", "after the transition the price is lower", "good"),
+        _e(12, 3, "Power generation 2050", g(nz, G, 2050) / g(nz, G, 2020), f"{g(nz, G, 2050) / g(nz, G, 2020):.1f} times 2020", f"current policies: {g(cp, G, 2050) / g(cp, G, 2020):.1f} times", "Net Zero 2050, OECD and EU", "neutral"),
+        _e(12, 4, "Scenarios", t.Scenario.nunique(), f"{t.Scenario.nunique()} scenarios", f"{t.Region.nunique()} world regions, one model", "NGFS phase V, REMIND-MAgPIE", "neutral"),
+    ]
+
+
+ENGELS = (dashboard5, dashboard6, dashboard7, dashboard8, dashboard9, dashboard10, dashboard11, dashboard13, dashboard14, dashboard15, dashboard16, dashboard17, dashboard18, dashboard19, dashboard20, dashboard25, dashboard26, dashboard27, dashboard28, dashboard29, dashboard30, dashboard12, dashboard21, dashboard22, dashboard23, dashboard24, dashboard32, dashboard36, dashboard38, dashboard39, dashboard40, dashboard41, dashboard42, dashboard43)
 
 
 def main():

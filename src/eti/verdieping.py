@@ -182,6 +182,41 @@ def uit_extern(naam):
     return pd.read_csv(Path("data/extern") / naam)
 
 
+def wachtrij_europa():
+    """Wachtrij voor een netaansluiting per land, met de verhouding tot de piekvraag (definities verschillen per land)."""
+    d = uit_extern("netwachtrij_europa_2026.csv")
+    d["Queue as multiple of peak demand"] = (d["Queue GW"] / d["Peak demand 2025 GW"]).round(1)
+    return d
+
+
+def grondstoffen():
+    """Maandprijzen van zilver, koper en aluminium (Wereldbank Pink Sheet), met een index op januari 2019 = 100."""
+    r = pd.read_excel("data/extern/pink_sheet_monthly.xlsx", sheet_name="Monthly Prices", header=None, skiprows=4)
+    kop, eenheid = r.iloc[0], r.iloc[1]
+    d = r.iloc[2:].rename(columns={0: "Maand"})
+    uit = []
+    for naam in ("Silver", "Copper", "Aluminum"):
+        k = kop[kop == naam].index[0]
+        t = pd.DataFrame({"Month": pd.to_datetime(d["Maand"].str.replace("M", "-") + "-01"), "Commodity": naam,
+                          "Price USD": pd.to_numeric(d[k], errors="coerce"), "Unit": str(eenheid[k]).strip("()")})
+        t = t[t["Month"] >= "2015-01-01"].dropna(subset=["Price USD"])
+        basis = t.loc[t["Month"] == "2019-01-01", "Price USD"].iloc[0]
+        t["Index (Jan 2019 = 100)"] = (100 * t["Price USD"] / basis).round(1)
+        uit.append(t)
+    return pd.concat(uit, ignore_index=True)
+
+
+def huishoudprofiel():
+    """Gemiddeld uurprofiel per maand van een huishouden (NEDU E1A 2026): zonder panelen, en met panelen afname en invoeding."""
+    d = uit_extern("nedu_profielen_2026_uur.csv")
+    t = pd.to_datetime(d["Hour start CET"])
+    d = d.assign(Month=t.dt.month, Hour=t.dt.hour)
+    g = d.groupby(["Month", "Hour"])[["E1A_AZI_A", "E1A_AMI_A", "E1A_AMI_I"]].sum().reset_index()
+    g = g.rename(columns={"E1A_AZI_A": "Offtake without solar (fraction of year)", "E1A_AMI_A": "Offtake with solar (fraction of year)",
+                          "E1A_AMI_I": "Feed-in with solar (fraction of year)"})
+    return g.round(8)
+
+
 def main():
     uit = {"t77_ppa_vs_2030": ppa_vs_2030(), "t78_solar_battery_hedge": hedge(), "t79_battery_drivers": drivers(),
            "t80_forecast_value": forecast_value(), "t81_impact_frontier": frontier(), "t82_cost_of_capital": cost_of_capital(),
@@ -191,7 +226,16 @@ def main():
            "t88_energy_poverty": uit_extern("energiearmoede.csv"), "t89_grid_queue": uit_extern("wachtrij_netbeheer.csv"),
            "t90_feed_in_tariffs_2027": uit_extern("terugleververgoeding_2027.csv"),
            "t91_renewable_jobs": uit_extern("irena_jobs_2025.csv"), "t92_solar_lcoe_country": lcoe_country(),
-           "t93_irena_solar_country": uit_extern("irena_solar_country_2024.csv")}
+           "t93_irena_solar_country": uit_extern("irena_solar_country_2024.csv"),
+           "t94_subsidy_per_tonne": uit_extern("pbl_sde_2026_subsidie_intensiteit.csv"),
+           "t95_grid_queue_europe": wachtrij_europa(), "t96_grid_costs": uit_extern("eurostat_netkosten.csv"),
+           "t97_energy_poverty_region": uit_extern("cbs_energiearmoede_regio.csv"),
+           "t98_storage_experience": uit_extern("opslag_ervaringscurves.csv"),
+           "t100_commodity_prices": grondstoffen(), "t101_household_profile": huishoudprofiel(),
+           "t102_hydrogen_projects": uit_extern("iea_hydrogen_projects_2026.csv")}
+    ngfs = Path("data/extern/ngfs/ngfs_r5_electricity.csv")   # licentie: bron niet in de repo
+    if ngfs.exists():
+        uit["t99_ngfs_regions"] = pd.read_csv(ngfs)
     for naam, d in uit.items():
         for u in UIT:
             d.to_csv(u / f"{naam}.csv", index=False, float_format="%.6g")

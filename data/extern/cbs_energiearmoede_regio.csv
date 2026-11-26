@@ -1,0 +1,2131 @@
+Year,Level,Province,Name,Region code,Households thousand,Energy poverty pct,Energy poverty HEq pct,Low income pct,Low energy quality pct,Energy share of income pct
+2024,Nederland,Totaal,Nederland,NL01,7417.5,6,6.6,12,28.1,4.6
+2024,Provincie,Drenthe,Drenthe,PV22,212,5.5,7.9,10.6,29.3,5
+2024,Gemeente,Drenthe,Aa en Hunze,GM1680,10.7,4.9,8.8,7.9,34.2,5.1
+2024,Gemeente,Drenthe,Assen,GM0106,30.6,5.6,5.9,12.4,21.5,4.6
+2024,Gemeente,Drenthe,Borger-Odoorn,GM1681,10.7,5.8,9.9,9.3,36.1,5.4
+2024,Gemeente,Drenthe,Coevorden,GM0109,14.7,5.6,8.9,10.6,32.5,5.2
+2024,Gemeente,Drenthe,De Wolden,GM1690,9.7,3.9,8.8,7.2,33.8,5.1
+2024,Gemeente,Drenthe,Emmen,GM0114,47.2,6.9,8.9,13.1,30,5.3
+2024,Gemeente,Drenthe,Hoogeveen,GM0118,23.6,6.2,7.6,11.8,29.1,5.1
+2024,Gemeente,Drenthe,Meppel,GM0119,15.2,5.9,5.6,11.1,28.7,4.6
+2024,Gemeente,Drenthe,Midden-Drenthe,GM1731,13.8,4.3,7.3,8.1,30.6,4.9
+2024,Gemeente,Drenthe,Noordenveld,GM1699,13.7,4.8,7.9,8.3,29.5,5
+2024,Gemeente,Drenthe,Tynaarlo,GM1730,13.9,3.8,6.9,7.1,25.9,4.7
+2024,Gemeente,Drenthe,Westerveld,GM1701,8.1,4,9.6,7.8,34.5,5.2
+2024,Provincie,Flevoland,Flevoland,PV24,169.7,4.8,5.1,10.7,18.2,4.3
+2024,Gemeente,Flevoland,Almere,GM0034,84.9,4.8,4.6,11.2,16,4.2
+2024,Gemeente,Flevoland,Dronten,GM0303,17.1,3.7,4.9,8.2,18.7,4.2
+2024,Gemeente,Flevoland,Lelystad,GM0995,32.8,6.4,6.8,13.1,20.6,4.7
+2024,Gemeente,Flevoland,Noordoostpolder,GM0171,19.3,4.5,5.8,9.3,25.4,4.5
+2024,Gemeente,Flevoland,Urk,GM0184,6.4,3.8,5.9,7.7,24.6,4.5
+2024,Gemeente,Flevoland,Zeewolde,GM0050,9.2,2.3,3.1,7,9,3.8
+2024,Provincie,Fryslân,Fryslân,PV21,283.6,7,8.3,12.9,35,5.1
+2024,Gemeente,Fryslân,Achtkarspelen,GM0059,11.6,9.4,10.4,13.7,43.7,5.5
+2024,Gemeente,Fryslân,Ameland,GM0060,1.5,6,11.7,7.6,50.7,5.7
+2024,Gemeente,Fryslân,Dantumadiel,GM1891,7.7,6.3,8.7,13.6,33.5,5.3
+2024,Gemeente,Fryslân,De Fryske Marren,GM1940,21.6,4.7,7.3,9.5,31.6,4.9
+2024,Gemeente,Fryslân,Harlingen,GM0072,7.4,5.7,6.9,15.2,26.7,4.8
+2024,Gemeente,Fryslân,Heerenveen,GM0074,22.4,6.4,7.4,12.4,31.8,4.8
+2024,Gemeente,Fryslân,Leeuwarden,GM0080,57.6,9.3,8.2,17.5,35.8,5
+2024,Gemeente,Fryslân,Noardeast-Fryslân,GM1970,19.4,7,9,12.5,39.6,5.3
+2024,Gemeente,Fryslân,Ooststellingwerf,GM0085,10.9,5.6,9.4,11.5,32.7,5.3
+2024,Gemeente,Fryslân,Opsterland,GM0086,12.3,5.7,8.5,9.4,38.4,5
+2024,Gemeente,Fryslân,Schiermonnikoog,GM0088,0.5,4.6,8.4,9.9,42.2,5.1
+2024,Gemeente,Fryslân,Smallingerland,GM0090,24.5,7.7,8.5,14.2,29.9,5.1
+2024,Gemeente,Fryslân,Súdwest-Fryslân,GM1900,39.2,6.5,8.1,11.9,34.5,5
+2024,Gemeente,Fryslân,Terschelling,GM0093,2,4.4,9.3,7.8,46.2,5.3
+2024,Gemeente,Fryslân,Tytsjerksteradiel,GM0737,13.4,5.3,7.5,9.5,36,4.9
+2024,Gemeente,Fryslân,Vlieland,GM0096,0.5,2.9,4.1,7,30,4.1
+2024,Gemeente,Fryslân,Waadhoeke,GM1949,19.9,6.6,8.5,10.9,39.2,5.1
+2024,Gemeente,Fryslân,Weststellingwerf,GM0098,11.2,5.8,8.7,11.5,32.9,5.2
+2024,Provincie,Gelderland,Gelderland,PV25,869.9,5.4,6.5,10.6,29.3,4.7
+2024,Gemeente,Gelderland,Aalten,GM0197,11.3,4.7,7.4,8.2,36.8,4.9
+2024,Gemeente,Gelderland,Apeldoorn,GM0200,70.1,4.9,6.2,10.6,28.5,4.7
+2024,Gemeente,Gelderland,Arnhem,GM0202,71.5,10.2,8.1,18.3,31.4,4.9
+2024,Gemeente,Gelderland,Barneveld,GM0203,22,3.3,5.8,7.1,24.9,4.4
+2024,Gemeente,Gelderland,Berg en Dal,GM1945,15,5.5,6.9,11.2,30,4.9
+2024,Gemeente,Gelderland,Berkelland,GM1859,18.4,4.8,7.7,8.3,34.7,5
+2024,Gemeente,Gelderland,Beuningen,GM0209,11,4,5.4,8.1,23.6,4.4
+2024,Gemeente,Gelderland,Bronckhorst,GM1876,15.1,4.3,8.8,7.6,37.1,5.2
+2024,Gemeente,Gelderland,Brummen,GM0213,9,3.9,5.9,8.6,29.4,4.6
+2024,Gemeente,Gelderland,Buren,GM0214,10.5,3.5,6.6,6.7,31.8,4.7
+2024,Gemeente,Gelderland,Culemborg,GM0216,12.4,3.4,3.9,9,20,4
+2024,Gemeente,Gelderland,Doesburg,GM0221,5.1,7.1,6.9,14.3,31.8,4.9
+2024,Gemeente,Gelderland,Doetinchem,GM0222,25.4,6.2,6.4,12.3,28.1,4.7
+2024,Gemeente,Gelderland,Druten,GM0225,7.9,4.2,5.4,8.1,25.7,4.4
+2024,Gemeente,Gelderland,Duiven,GM0226,10.5,5.5,5.5,8.6,32.2,4.5
+2024,Gemeente,Gelderland,Ede,GM0228,47.5,4.2,5.4,8.3,27.2,4.4
+2024,Gemeente,Gelderland,Elburg,GM0230,9.2,3.7,5.9,7.7,32.3,4.6
+2024,Gemeente,Gelderland,Epe,GM0232,13.6,4.7,7.8,8.1,37,5.1
+2024,Gemeente,Gelderland,Ermelo,GM0233,10.6,3.8,5.7,8.9,30.1,4.5
+2024,Gemeente,Gelderland,Harderwijk,GM0243,20.2,4.6,4.6,10.4,22.7,4.2
+2024,Gemeente,Gelderland,Hattem,GM0244,5.1,3.2,4.8,6.5,33.1,4.4
+2024,Gemeente,Gelderland,Heerde,GM0246,7.6,3.3,6.8,6,36.7,4.7
+2024,Gemeente,Gelderland,Heumen,GM0252,7,3.1,5.6,7.7,20.4,4.4
+2024,Gemeente,Gelderland,Lingewaard,GM1705,19.2,2.8,4.8,7.2,22.7,4.4
+2024,Gemeente,Gelderland,Lochem,GM0262,14.5,4.9,8.4,8.2,35.9,5
+2024,Gemeente,Gelderland,Maasdriel,GM0263,9.7,3.5,7.2,7.3,28.2,4.8
+2024,Gemeente,Gelderland,Montferland,GM1955,15.3,4.1,6.7,9.3,25.6,4.7
+2024,Gemeente,Gelderland,Neder-Betuwe,GM1740,8.7,3.8,6.3,8.3,28.1,4.6
+2024,Gemeente,Gelderland,Nijkerk,GM0267,17.2,3.2,4.7,7.9,23.9,4.2
+2024,Gemeente,Gelderland,Nijmegen,GM0268,74.6,7.8,6.9,17.2,24.1,4.7
+2024,Gemeente,Gelderland,Nunspeet,GM0302,10.9,4.3,6.4,8,34.9,4.7
+2024,Gemeente,Gelderland,Oldebroek,GM0269,9.1,4,6.2,7.7,33,4.7
+2024,Gemeente,Gelderland,Oost Gelre,GM1586,12.3,3.6,6.5,6.5,31.2,4.6
+2024,Gemeente,Gelderland,Oude IJsselstreek,GM1509,16.6,5.1,7.6,9.7,33.3,4.9
+2024,Gemeente,Gelderland,Overbetuwe,GM1734,19.5,4.2,5.6,7.3,29,4.4
+2024,Gemeente,Gelderland,Putten,GM0273,9.5,4.2,6.9,7.3,36.9,4.7
+2024,Gemeente,Gelderland,Renkum,GM0274,14,6.1,7.1,9.1,41.6,4.9
+2024,Gemeente,Gelderland,Rheden,GM0275,19.4,8,8,12.3,42,5.2
+2024,Gemeente,Gelderland,Rozendaal,GM0277,0.7,1.6,5.7,2.1,35.9,4.4
+2024,Gemeente,Gelderland,Scherpenzeel,GM0279,4,3.2,5.2,5.3,29.6,4.5
+2024,Gemeente,Gelderland,Tiel,GM0281,17.4,6.1,6.2,12.5,25,4.6
+2024,Gemeente,Gelderland,Voorst,GM0285,10.2,4.2,6.7,7.3,33.5,4.7
+2024,Gemeente,Gelderland,Wageningen,GM0289,14.4,5.7,5,13,24,4.2
+2024,Gemeente,Gelderland,West Betuwe,GM1960,20.1,3.2,5.4,6.8,28.8,4.3
+2024,Gemeente,Gelderland,West Maas en Waal,GM0668,8,3.1,6.6,7.3,28.6,4.7
+2024,Gemeente,Gelderland,Westervoort,GM0293,6.4,7.1,6.7,10.7,36.2,4.8
+2024,Gemeente,Gelderland,Wijchen,GM0296,17.4,4.5,5.5,9.2,23.3,4.5
+2024,Gemeente,Gelderland,Winterswijk,GM0294,12.4,6.3,8.9,10.3,38,5.2
+2024,Gemeente,Gelderland,Zaltbommel,GM0297,11.3,3.8,6.1,8.6,27.1,4.5
+2024,Gemeente,Gelderland,Zevenaar,GM0299,19.6,5.6,6.7,10.5,30.4,4.8
+2024,Gemeente,Gelderland,Zutphen,GM0301,21.8,6.5,6.2,13.6,28.1,4.6
+2024,Provincie,Groningen,Groningen,PV20,256.2,8.2,9.4,15.4,29.5,5.2
+2024,Gemeente,Groningen,Eemsdelta,GM1979,20.3,8.6,10.3,14.6,32,5.4
+2024,Gemeente,Groningen,Groningen (gemeente),GM0014,102.3,8.4,7.4,19.4,22.7,4.7
+2024,Gemeente,Groningen,Het Hogeland,GM1966,20.9,7.8,10.3,11.7,35.1,5.5
+2024,Gemeente,Groningen,Midden-Groningen,GM1952,26.6,8.1,9.9,14.1,29.5,5.4
+2024,Gemeente,Groningen,Oldambt,GM1895,17.7,10.1,12.2,14.8,35.3,5.8
+2024,Gemeente,Groningen,Pekela,GM0765,5.4,10.1,14.9,14.4,41.7,6.2
+2024,Gemeente,Groningen,Stadskanaal,GM0037,13.9,8.1,11.6,13.8,34.4,5.8
+2024,Gemeente,Groningen,Veendam,GM0047,12.3,8.3,10.4,13.6,29.4,5.6
+2024,Gemeente,Groningen,Westerkwartier,GM1969,26.2,5.5,8.1,8.5,32.6,4.9
+2024,Gemeente,Groningen,Westerwolde,GM1950,10.7,8.9,15.1,11.9,48.6,6.3
+2024,Provincie,Limburg,Limburg,PV31,495.1,6.7,8.4,12.5,29.6,5.1
+2024,Gemeente,Limburg,Beek (L.),GM0888,7.1,4.5,7.5,9.9,28.5,5
+2024,Gemeente,Limburg,Beekdaelen,GM1954,15.6,5.1,8.9,8.6,34.2,5.1
+2024,Gemeente,Limburg,Beesel,GM0889,5.8,5,7.9,9.7,25.3,4.9
+2024,Gemeente,Limburg,Bergen (L.),GM0893,5.5,3.3,6.9,8.2,30.5,4.9
+2024,Gemeente,Limburg,Brunssum,GM0899,13.2,8.3,8.5,14.7,34.3,5.3
+2024,Gemeente,Limburg,Echt-Susteren,GM1711,13.9,4.9,8.6,9.4,29.4,5.1
+2024,Gemeente,Limburg,Eijsden-Margraten,GM1903,10.7,3.5,7.2,5.6,31.9,4.8
+2024,Gemeente,Limburg,Gennep,GM0907,7,4.3,6.8,9.1,28.6,4.7
+2024,Gemeente,Limburg,Gulpen-Wittem,GM1729,6.2,5,8.5,8.6,36.3,5.1
+2024,Gemeente,Limburg,Heerlen,GM0917,42.5,12.6,11.9,19.9,34.3,5.7
+2024,Gemeente,Limburg,Horst aan de Maas,GM1507,17.3,2.8,6.6,6.3,24.8,4.7
+2024,Gemeente,Limburg,Kerkrade,GM0928,21.8,9.6,11.5,18.1,29.6,5.7
+2024,Gemeente,Limburg,Landgraaf,GM0882,17,7,8.7,12.9,27.9,5.2
+2024,Gemeente,Limburg,Leudal,GM1640,15.2,3.6,7.9,6.5,30.9,4.9
+2024,Gemeente,Limburg,Maasgouw,GM1641,10.3,3.8,8.2,7.4,29.1,5
+2024,Gemeente,Limburg,Maastricht,GM0935,51.6,9.5,8,17.3,32.5,5
+2024,Gemeente,Limburg,Meerssen,GM0938,8.2,4.3,7.6,8,32.1,4.9
+2024,Gemeente,Limburg,Mook en Middelaar,GM0944,3.5,2.8,5.7,7,23.8,4.5
+2024,Gemeente,Limburg,Nederweert,GM0946,7.2,4.1,7,7.6,28,4.8
+2024,Gemeente,Limburg,Peel en Maas,GM1894,17.8,3.2,6.8,6.8,23.7,4.7
+2024,Gemeente,Limburg,Roerdalen,GM1669,9,4.2,8.4,7.7,30.4,5
+2024,Gemeente,Limburg,Roermond,GM0957,27.1,7,7.7,14.4,25.2,4.9
+2024,Gemeente,Limburg,Simpelveld,GM0965,4.7,5.9,9.3,9.9,35.9,5.4
+2024,Gemeente,Limburg,Sittard-Geleen,GM1883,43,8.2,8.8,14.5,32,5.2
+2024,Gemeente,Limburg,Stein (L.),GM0971,11.1,4,7.2,8.7,29,4.9
+2024,Gemeente,Limburg,Vaals,GM0981,4.6,14.2,15.8,20.7,36,6.4
+2024,Gemeente,Limburg,Valkenburg aan de Geul,GM0994,7.4,6.3,8.7,10.6,35.4,5.2
+2024,Gemeente,Limburg,Venlo,GM0983,44.7,6.4,7.8,13.7,24.6,5
+2024,Gemeente,Limburg,Venray,GM0984,18.6,4.3,6.8,9.9,22,4.7
+2024,Gemeente,Limburg,Voerendaal,GM0986,5.4,5.1,7.9,7.5,35.9,5
+2024,Gemeente,Limburg,Weert,GM0988,22.1,4.5,6.3,10.5,26.5,4.7
+2024,Provincie,Noord-Brabant,Noord-Brabant,PV30,1092.2,5.1,6.3,10.2,27.5,4.6
+2024,Gemeente,Noord-Brabant,'s-Hertogenbosch,GM0796,70.1,5.2,5.4,12.3,22,4.3
+2024,Gemeente,Noord-Brabant,Alphen-Chaam,GM1723,4.1,3.1,8,5.5,37.3,4.8
+2024,Gemeente,Noord-Brabant,Altena,GM1959,21.8,3.6,5.3,7.6,31.8,4.4
+2024,Gemeente,Noord-Brabant,Asten,GM0743,6.8,3.8,6.8,7.4,26.3,4.7
+2024,Gemeente,Noord-Brabant,Baarle-Nassau,GM0744,2.7,5.3,9.7,7.8,41.9,5.3
+2024,Gemeente,Noord-Brabant,Bergeijk,GM1724,7.8,3.2,7.3,5.7,33.1,4.7
+2024,Gemeente,Noord-Brabant,Bergen op Zoom,GM0748,29.4,6.4,6.4,12.6,28.8,4.6
+2024,Gemeente,Noord-Brabant,Bernheze,GM1721,12.4,3,6.5,6.4,25.6,4.5
+2024,Gemeente,Noord-Brabant,Best,GM0753,12.8,3.2,4.5,7,20.3,4.1
+2024,Gemeente,Noord-Brabant,Bladel,GM1728,8.6,3.1,6.2,6.1,29.9,4.6
+2024,Gemeente,Noord-Brabant,Boekel,GM0755,4.3,3.1,6.4,6.2,29.6,4.5
+2024,Gemeente,Noord-Brabant,Boxtel,GM0757,13.7,3.4,5.2,8.4,23.5,4.4
+2024,Gemeente,Noord-Brabant,Breda,GM0758,78.8,6.6,6.8,12,32.5,4.6
+2024,Gemeente,Noord-Brabant,Cranendonck,GM1706,8.7,4.5,8.1,7.8,31.5,5
+2024,Gemeente,Noord-Brabant,Deurne,GM0762,13.6,3.6,6.7,7.7,29.3,4.8
+2024,Gemeente,Noord-Brabant,Dongen,GM0766,11.1,3.6,5.2,7.7,30.1,4.3
+2024,Gemeente,Noord-Brabant,Drimmelen,GM1719,11.4,3.7,5.4,6.1,36.6,4.5
+2024,Gemeente,Noord-Brabant,Eersel,GM0770,8,3,6.5,5.9,29.4,4.6
+2024,Gemeente,Noord-Brabant,Eindhoven,GM0772,104.7,7.3,7,14.3,24.6,4.6
+2024,Gemeente,Noord-Brabant,Etten-Leur,GM0777,19,4.2,4.9,9.9,23.4,4.2
+2024,Gemeente,Noord-Brabant,Geertruidenberg,GM0779,9.4,4,4.6,8.9,28.4,4.3
+2024,Gemeente,Noord-Brabant,Geldrop-Mierlo,GM1771,17.3,4.6,5.7,9.3,25.2,4.6
+2024,Gemeente,Noord-Brabant,Gemert-Bakel,GM1652,12.4,3.9,6.5,8.7,28.2,4.7
+2024,Gemeente,Noord-Brabant,Gilze en Rijen,GM0784,10.9,4.6,5.9,8.7,28.2,4.4
+2024,Gemeente,Noord-Brabant,Goirle,GM0785,10,3.8,4.9,7.8,27.9,4.4
+2024,Gemeente,Noord-Brabant,Halderberge,GM1655,12.7,4.9,6.9,9.3,30.9,4.8
+2024,Gemeente,Noord-Brabant,Heeze-Leende,GM1658,6.7,2.5,6.7,5.3,27.7,4.5
+2024,Gemeente,Noord-Brabant,Helmond,GM0794,40.3,6.9,6.5,14,22.9,4.7
+2024,Gemeente,Noord-Brabant,Heusden,GM0797,18.5,4.7,6.3,8.4,28.1,4.5
+2024,Gemeente,Noord-Brabant,Hilvarenbeek,GM0798,6.5,3.1,6.9,5.5,33.9,4.6
+2024,Gemeente,Noord-Brabant,Laarbeek,GM1659,9.4,4,6.4,8,29,4.7
+2024,Gemeente,Noord-Brabant,Land van Cuijk,GM1982,37.5,4,6.7,8,28.1,4.7
+2024,Gemeente,Noord-Brabant,Loon op Zand,GM0809,9.9,4.2,6.1,7.7,28.8,4.6
+2024,Gemeente,Noord-Brabant,Maashorst,GM1991,24.4,3.7,6,8.9,22.1,4.5
+2024,Gemeente,Noord-Brabant,Meierijstad,GM1948,34,3.4,5.8,7.5,24.6,4.5
+2024,Gemeente,Noord-Brabant,Moerdijk,GM1709,16,4.5,5.4,8.8,30.6,4.5
+2024,Gemeente,Noord-Brabant,Nuenen Gerwen en Nederwetten,GM0820,10.1,2.7,5.6,5.8,22.6,4.4
+2024,Gemeente,Noord-Brabant,Oirschot,GM0823,7.6,3.3,6.4,6.1,32.2,4.5
+2024,Gemeente,Noord-Brabant,Oisterwijk,GM0824,13.3,3.8,6.5,7.4,32.6,4.6
+2024,Gemeente,Noord-Brabant,Oosterhout,GM0826,24.6,4.2,4.9,9.9,23.7,4.4
+2024,Gemeente,Noord-Brabant,Oss,GM0828,39.1,5.2,6.7,10.9,24.5,4.7
+2024,Gemeente,Noord-Brabant,Reusel-De Mierden,GM1667,5.4,3.2,7.3,6,32.8,4.7
+2024,Gemeente,Noord-Brabant,Roosendaal,GM1674,32.7,6,7.1,11.8,28.8,4.8
+2024,Gemeente,Noord-Brabant,Rucphen,GM0840,9.6,5.4,9.4,9.9,36.5,5.2
+2024,Gemeente,Noord-Brabant,Sint-Michielsgestel,GM0845,11.8,2.9,5.7,6.3,28.5,4.5
+2024,Gemeente,Noord-Brabant,Someren,GM0847,8,3.4,6.2,7.6,22.4,4.6
+2024,Gemeente,Noord-Brabant,Son en Breugel,GM0848,7.2,2.4,5.6,5.3,23,4.4
+2024,Gemeente,Noord-Brabant,Steenbergen,GM0851,10.2,4.6,6.3,8.4,30.9,4.6
+2024,Gemeente,Noord-Brabant,Tilburg,GM0855,93.5,7.6,6.9,14.3,29.6,4.7
+2024,Gemeente,Noord-Brabant,Valkenswaard,GM0858,14.2,4,5.7,9,22.6,4.6
+2024,Gemeente,Noord-Brabant,Veldhoven,GM0861,19.6,2.9,4.9,7.3,21.8,4.3
+2024,Gemeente,Noord-Brabant,Vught,GM0865,13.1,4.1,5.6,7.5,32.9,4.4
+2024,Gemeente,Noord-Brabant,Waalre,GM0866,7.6,3.7,6.2,6.8,29.9,4.5
+2024,Gemeente,Noord-Brabant,Waalwijk,GM0867,21,4.8,6.1,10.6,30.4,4.6
+2024,Gemeente,Noord-Brabant,Woensdrecht,GM0873,9.2,4.9,8.1,8.9,35.8,5
+2024,Gemeente,Noord-Brabant,Zundert,GM0879,8.9,3.6,8.5,6.9,36.9,5
+2024,Provincie,Noord-Holland,Noord-Holland,PV27,1250.8,6.4,6.2,13.2,28.3,4.4
+2024,Gemeente,Noord-Holland,Aalsmeer,GM0358,12.5,3.8,5.3,7.6,24.8,4.1
+2024,Gemeente,Noord-Holland,Alkmaar,GM0361,50.1,5.8,5.5,12.2,28.2,4.5
+2024,Gemeente,Noord-Holland,Amstelveen,GM0362,38,5.1,5.4,9.9,30.2,4.2
+2024,Gemeente,Noord-Holland,Amsterdam,GM0363,402.8,9.9,7.4,20.4,26.6,4.5
+2024,Gemeente,Noord-Holland,Bergen (NH.),GM0373,13.1,3.7,8.5,8.5,33.3,5
+2024,Gemeente,Noord-Holland,Beverwijk,GM0375,18.2,4.6,5.4,11.9,22.1,4.4
+2024,Gemeente,Noord-Holland,Blaricum,GM0376,5,3.3,9.1,6.1,38,4.8
+2024,Gemeente,Noord-Holland,Bloemendaal,GM0377,9.4,3.6,7.6,6.3,44.2,4.7
+2024,Gemeente,Noord-Holland,Castricum,GM0383,15.5,2.1,4.4,5.7,27.1,4.1
+2024,Gemeente,Noord-Holland,Den Helder,GM0400,26.2,6.7,6.5,12.4,27.8,4.8
+2024,Gemeente,Noord-Holland,Diemen,GM0384,13.3,5.2,4.9,11.2,18.8,4
+2024,Gemeente,Noord-Holland,Dijk en Waard,GM1980,35.6,2.7,3.8,8.1,18.1,4
+2024,Gemeente,Noord-Holland,Drechterland,GM0498,8.1,3.3,5.8,7.5,26.3,4.4
+2024,Gemeente,Noord-Holland,Edam-Volendam,GM0385,15,3.1,6.7,6.3,31.6,4.7
+2024,Gemeente,Noord-Holland,Enkhuizen,GM0388,8.2,5.3,6.3,11.3,32.3,4.7
+2024,Gemeente,Noord-Holland,Gooise Meren,GM1942,25.2,5.2,6.7,9.1,42.7,4.7
+2024,Gemeente,Noord-Holland,Haarlem,GM0392,72.3,6,5.3,11.9,34.8,4.2
+2024,Gemeente,Noord-Holland,Haarlemmermeer,GM0394,62.2,2.8,4.2,7.6,18.9,3.9
+2024,Gemeente,Noord-Holland,Heemskerk,GM0396,16.8,4.1,4.2,9.6,19.9,4.1
+2024,Gemeente,Noord-Holland,Heemstede,GM0397,11.6,3.8,5.9,6.4,41.2,4.4
+2024,Gemeente,Noord-Holland,Heiloo,GM0399,10.4,1.9,4.6,6.8,26.6,4.2
+2024,Gemeente,Noord-Holland,Hilversum,GM0402,39.8,5.9,6.2,11.9,38.2,4.6
+2024,Gemeente,Noord-Holland,Hollands Kroon,GM1911,20,4.1,6.7,8.1,30.8,4.6
+2024,Gemeente,Noord-Holland,Hoorn,GM0405,32.3,4.9,5.3,11.7,20.4,4.4
+2024,Gemeente,Noord-Holland,Huizen,GM0406,17.9,4.5,5.5,10,24.2,4.5
+2024,Gemeente,Noord-Holland,Koggenland,GM1598,9.2,2.8,5.6,6.1,27.6,4.3
+2024,Gemeente,Noord-Holland,Landsmeer,GM0415,4.6,4.5,6.6,7.9,34.2,4.4
+2024,Gemeente,Noord-Holland,Laren (NH.),GM0417,4.9,5.2,13.1,8.4,55.7,5.8
+2024,Gemeente,Noord-Holland,Medemblik,GM0420,18.1,3.3,5.7,8.6,28,4.5
+2024,Gemeente,Noord-Holland,Oostzaan,GM0431,3.9,3.9,5,7.5,28.7,4.4
+2024,Gemeente,Noord-Holland,Opmeer,GM0432,4.8,3.5,6.2,6.8,31.9,4.5
+2024,Gemeente,Noord-Holland,Ouder-Amstel,GM0437,5.9,4,4.9,8.5,26.1,4.1
+2024,Gemeente,Noord-Holland,Purmerend,GM0439,40.2,6,5.3,10.5,29.1,4.6
+2024,Gemeente,Noord-Holland,Schagen,GM0441,19.9,3.2,5.5,7.8,28.7,4.4
+2024,Gemeente,Noord-Holland,Stede Broec,GM0532,8.9,3.2,4.9,7.6,23.7,4.4
+2024,Gemeente,Noord-Holland,Texel,GM0448,6,3.9,8.2,7.9,37.7,5.1
+2024,Gemeente,Noord-Holland,Uitgeest,GM0450,5.4,2.3,3.6,6.8,20.3,3.9
+2024,Gemeente,Noord-Holland,Uithoorn,GM0451,12.6,4.2,4.6,8.7,22.4,4
+2024,Gemeente,Noord-Holland,Velsen,GM0453,29.4,6,5.9,10.9,32.1,4.5
+2024,Gemeente,Noord-Holland,Waterland,GM0852,7,3.4,6.1,7.5,35.7,4.5
+2024,Gemeente,Noord-Holland,Wijdemeren,GM1696,9.9,3.6,6.4,7.3,37.4,4.6
+2024,Gemeente,Noord-Holland,Wormerland,GM0880,6.8,3.5,4.6,8.3,28.9,4.2
+2024,Gemeente,Noord-Holland,Zaanstad,GM0479,65.7,6.4,6,12.7,30,4.5
+2024,Gemeente,Noord-Holland,Zandvoort,GM0473,8,8.3,9.6,13,45.3,5.2
+2024,Provincie,Overijssel,Overijssel,PV23,482.7,6.2,7.3,11.5,31.1,4.8
+2024,Gemeente,Overijssel,Almelo,GM0141,31.5,10.1,10.1,16.8,33.7,5.4
+2024,Gemeente,Overijssel,Borne,GM0147,9.9,3.7,5.3,7.6,24.9,4.4
+2024,Gemeente,Overijssel,Dalfsen,GM0148,11.7,2.9,6.4,6.9,27.7,4.5
+2024,Gemeente,Overijssel,Deventer,GM0150,43.7,6.7,6.6,12.6,30.6,4.6
+2024,Gemeente,Overijssel,Dinkelland,GM1774,10.2,4.1,9.1,6.6,35,5.1
+2024,Gemeente,Overijssel,Enschede,GM0153,66.7,11.6,10.6,18.3,38,5.4
+2024,Gemeente,Overijssel,Haaksbergen,GM0158,9.7,4,6.9,7.5,31.4,4.8
+2024,Gemeente,Overijssel,Hardenberg,GM0160,24.3,4.1,6.3,8.1,30.3,4.7
+2024,Gemeente,Overijssel,Hellendoorn,GM0163,14.3,3.5,6.1,7,30.6,4.7
+2024,Gemeente,Overijssel,Hengelo (O.),GM0164,37.2,7.1,7,13.8,33.1,4.9
+2024,Gemeente,Overijssel,Hof van Twente,GM1735,14.4,4.8,8.5,8.5,34.9,5.1
+2024,Gemeente,Overijssel,Kampen,GM0166,21.8,4.9,5.3,9.7,29.6,4.5
+2024,Gemeente,Overijssel,Losser,GM0168,9.4,5.8,8.3,9.1,32.8,5.1
+2024,Gemeente,Overijssel,Oldenzaal,GM0173,13.9,5.8,6.5,10.5,29.8,4.8
+2024,Gemeente,Overijssel,Olst-Wijhe,GM1773,7.6,3.5,5.4,8.3,28.3,4.4
+2024,Gemeente,Overijssel,Ommen,GM0175,7.1,3.7,6.8,7.7,30.5,4.7
+2024,Gemeente,Overijssel,Raalte,GM0177,15.5,3.4,5.8,7.7,25.4,4.5
+2024,Gemeente,Overijssel,Rijssen-Holten,GM1742,14.1,3.9,5.7,7.6,31.1,4.7
+2024,Gemeente,Overijssel,Staphorst,GM0180,5.7,2.7,8.4,5.6,37.6,5
+2024,Gemeente,Overijssel,Steenwijkerland,GM1708,18.7,5.5,8.1,9.6,34.1,5
+2024,Gemeente,Overijssel,Tubbergen,GM0183,8,3.8,8.6,6.6,33.8,5
+2024,Gemeente,Overijssel,Twenterand,GM1700,13,5.6,8.4,9.3,35.9,5.1
+2024,Gemeente,Overijssel,Wierden,GM0189,9.5,3.5,6.4,6.6,31.3,4.6
+2024,Gemeente,Overijssel,Zwartewaterland,GM1896,8.5,3.6,5,6.7,31.2,4.4
+2024,Gemeente,Overijssel,Zwolle,GM0193,56.4,5,4.8,13,20.6,4.2
+2024,Provincie,Utrecht,Utrecht,PV26,558.3,4.6,4.8,10.1,24.8,4.1
+2024,Gemeente,Utrecht,Amersfoort,GM0307,67.1,4.2,3.9,10.6,18,3.9
+2024,Gemeente,Utrecht,Baarn,GM0308,10.6,4.1,6.6,8.4,34.6,4.7
+2024,Gemeente,Utrecht,Bunnik,GM0312,6.3,2.1,4,5.4,24.5,3.9
+2024,Gemeente,Utrecht,Bunschoten,GM0313,8.3,2.7,4.7,6.4,24.9,4.2
+2024,Gemeente,Utrecht,De Bilt,GM0310,18,4.4,6.5,8.8,36.7,4.6
+2024,Gemeente,Utrecht,De Ronde Venen,GM0736,17.8,3,5.2,7.5,23.4,4.2
+2024,Gemeente,Utrecht,Eemnes,GM0317,4,3,5.3,7.2,22.6,4.3
+2024,Gemeente,Utrecht,Houten,GM0321,20.3,2.2,2.7,7.2,10.4,3.5
+2024,Gemeente,Utrecht,IJsselstein,GM0353,13.7,3.2,3.4,8.1,17.4,3.9
+2024,Gemeente,Utrecht,Leusden,GM0327,13.1,2.3,3.5,6.8,17.5,3.9
+2024,Gemeente,Utrecht,Lopik,GM0331,5.4,3,5.5,6.5,30.1,4.3
+2024,Gemeente,Utrecht,Montfoort,GM0335,5.5,2.4,4.5,5.4,25,4.1
+2024,Gemeente,Utrecht,Nieuwegein,GM0356,28.7,5.9,5,9.8,30.2,4.4
+2024,Gemeente,Utrecht,Oudewater,GM0589,4.2,4.1,4.9,7.4,32.7,4.3
+2024,Gemeente,Utrecht,Renswoude,GM0339,2.1,2.8,5.5,5.2,26.4,4.1
+2024,Gemeente,Utrecht,Rhenen,GM0340,7.9,3.6,5.6,8.4,29.7,4.6
+2024,Gemeente,Utrecht,Soest,GM0342,20,3.9,5.4,8.5,30.7,4.5
+2024,Gemeente,Utrecht,Stichtse Vecht,GM1904,26.5,3.4,4.8,7.5,26.7,4.2
+2024,Gemeente,Utrecht,Utrecht (gemeente),GM0344,143,6.7,5.1,13.9,25.8,4
+2024,Gemeente,Utrecht,Utrechtse Heuvelrug,GM1581,20,3.9,6.1,8.3,30.8,4.6
+2024,Gemeente,Utrecht,Veenendaal,GM0345,28,5.6,4.8,10.8,22.1,4.3
+2024,Gemeente,Utrecht,Vijfheerenlanden,GM1961,24,3.6,4.4,8.9,23.7,4.1
+2024,Gemeente,Utrecht,Wijk bij Duurstede,GM0352,9.9,3.2,4.3,6.7,21.8,4.1
+2024,Gemeente,Utrecht,Woerden,GM0632,21.7,2.8,4.2,7.9,20.4,3.9
+2024,Gemeente,Utrecht,Woudenberg,GM0351,5.3,2.5,4.4,5.8,21,4
+2024,Gemeente,Utrecht,Zeist,GM0355,27,5.8,6.1,11.3,31.9,4.5
+2024,Provincie,Zeeland,Zeeland,PV29,170.4,4.9,6.7,10.7,29.4,4.7
+2024,Gemeente,Zeeland,Borsele,GM0654,9.4,2.9,5.6,7.3,28.4,4.4
+2024,Gemeente,Zeeland,Goes,GM0664,17.5,4.7,4.8,11.7,24,4.2
+2024,Gemeente,Zeeland,Hulst,GM0677,12.3,5,8.4,9.9,34.6,5
+2024,Gemeente,Zeeland,Kapelle,GM0678,5.2,2.8,4.7,6.6,26.3,4.2
+2024,Gemeente,Zeeland,Middelburg (Z.),GM0687,22,4.8,5.5,12.2,26.2,4.5
+2024,Gemeente,Zeeland,Noord-Beveland,GM1695,3.7,4.1,7,8.5,32.4,4.7
+2024,Gemeente,Zeeland,Reimerswaal,GM0703,8.7,3.6,5.6,9,30.6,4.5
+2024,Gemeente,Zeeland,Schouwen-Duiveland,GM1676,15.1,4.1,7.2,8.8,30.5,4.8
+2024,Gemeente,Zeeland,Sluis,GM1714,10.7,5.7,10.1,11.3,37.6,5.4
+2024,Gemeente,Zeeland,Terneuzen,GM0715,24.9,6.4,7.8,11.8,32.2,5
+2024,Gemeente,Zeeland,Tholen,GM0716,10.6,4.6,5.9,8.9,30.4,4.6
+2024,Gemeente,Zeeland,Veere,GM0717,9.2,2.8,7.4,6.7,32.7,4.8
+2024,Gemeente,Zeeland,Vlissingen,GM0718,21.1,6.4,6.9,14.8,24.5,4.8
+2024,Provincie,Zuid-Holland,Zuid-Holland,PV28,1576.7,6.6,6,13.6,26.6,4.4
+2024,Gemeente,Zuid-Holland,'s-Gravenhage (gemeente),GM0518,229.3,9.5,8,19.3,30.7,4.8
+2024,Gemeente,Zuid-Holland,Alblasserdam,GM0482,8.1,4.6,3.9,10.3,27.2,4.2
+2024,Gemeente,Zuid-Holland,Albrandswaard,GM0613,10.1,2.4,3.6,6.5,17.4,3.8
+2024,Gemeente,Zuid-Holland,Alphen aan den Rijn,GM0484,47.7,3.8,4.1,8.2,23,4
+2024,Gemeente,Zuid-Holland,Barendrecht,GM0489,18.7,2.3,2.8,7.2,12.3,3.7
+2024,Gemeente,Zuid-Holland,Bodegraven-Reeuwijk,GM1901,14.2,3.1,4.5,6.7,25.8,4
+2024,Gemeente,Zuid-Holland,Capelle aan den IJssel,GM0502,29.3,7.3,6.3,13.2,29.4,4.7
+2024,Gemeente,Zuid-Holland,Delft,GM0503,43.8,8.5,6.2,15.6,30.5,4.4
+2024,Gemeente,Zuid-Holland,Dordrecht,GM0505,52.3,7.5,6.6,13.9,31.2,4.7
+2024,Gemeente,Zuid-Holland,Goeree-Overflakkee,GM1924,21,4.2,5.1,8.3,28.7,4.3
+2024,Gemeente,Zuid-Holland,Gorinchem,GM0512,16.4,4.9,4.3,12.5,19.1,4.1
+2024,Gemeente,Zuid-Holland,Gouda,GM0513,32.3,5.4,4.3,13,27.3,4.1
+2024,Gemeente,Zuid-Holland,Hardinxveld-Giessendam,GM0523,7,2.6,3.7,8.1,25.5,4
+2024,Gemeente,Zuid-Holland,Hendrik-Ido-Ambacht,GM0531,12.2,2.7,2.5,6.9,18.9,3.7
+2024,Gemeente,Zuid-Holland,Hillegom,GM0534,9.6,3.2,4.6,8,23.7,4.1
+2024,Gemeente,Zuid-Holland,Hoeksche Waard,GM1963,37.4,3.2,4.1,6.8,26.3,4.1
+2024,Gemeente,Zuid-Holland,Kaag en Braassem,GM1884,11.9,3.3,5,7.5,24.4,4
+2024,Gemeente,Zuid-Holland,Katwijk,GM0537,25.8,3.1,3.9,8.2,22.2,4
+2024,Gemeente,Zuid-Holland,Krimpen aan den IJssel,GM0542,12,3.2,3.9,9.8,22.8,4.2
+2024,Gemeente,Zuid-Holland,Krimpenerwaard,GM1931,23.1,3.5,4.7,7.9,28.7,4.2
+2024,Gemeente,Zuid-Holland,Lansingerland,GM1621,24.3,1.9,3.4,6.3,14.3,3.6
+2024,Gemeente,Zuid-Holland,Leiden,GM0546,53.4,7.5,5.6,14.4,35.4,4.3
+2024,Gemeente,Zuid-Holland,Leiderdorp,GM0547,11.9,3,3.8,8.3,24.8,4.1
+2024,Gemeente,Zuid-Holland,Leidschendam-Voorburg,GM1916,34.8,6,5.6,11.7,33.6,4.4
+2024,Gemeente,Zuid-Holland,Lisse,GM0553,10,2.5,3.3,7.5,19.8,3.9
+2024,Gemeente,Zuid-Holland,Maassluis,GM0556,15.1,4.8,4.5,11.8,18.3,4.1
+2024,Gemeente,Zuid-Holland,Midden-Delfland,GM1842,7.7,2.2,4.1,6.2,18.8,3.8
+2024,Gemeente,Zuid-Holland,Molenlanden,GM1978,16.8,2.9,4.3,6.8,30.3,4.1
+2024,Gemeente,Zuid-Holland,Nieuwkoop,GM0569,11.2,3.5,5.2,6.1,30.5,4.2
+2024,Gemeente,Zuid-Holland,Nissewaard,GM1930,37.6,5,5.3,11.9,17.2,4.3
+2024,Gemeente,Zuid-Holland,Noordwijk,GM0575,18.7,2.9,4.8,7.9,25.2,4.1
+2024,Gemeente,Zuid-Holland,Oegstgeest,GM0579,10.5,2.9,4.5,7,24.8,3.9
+2024,Gemeente,Zuid-Holland,Papendrecht,GM0590,13.8,5,4.7,9.3,25.3,4.3
+2024,Gemeente,Zuid-Holland,Pijnacker-Nootdorp,GM1926,21.4,2.4,3.4,5.7,15.2,3.5
+2024,Gemeente,Zuid-Holland,Ridderkerk,GM0597,20.4,4.8,4.8,10.7,25.8,4.3
+2024,Gemeente,Zuid-Holland,Rijswijk (ZH.),GM0603,26.4,6,6.3,13.2,27.3,4.4
+2024,Gemeente,Zuid-Holland,Rotterdam,GM0599,280.2,11.4,8.9,21.6,28.2,5
+2024,Gemeente,Zuid-Holland,Schiedam,GM0606,34.2,8.2,6.1,15.1,33.2,4.6
+2024,Gemeente,Zuid-Holland,Sliedrecht,GM0610,10.4,5.9,5,10.9,29.4,4.3
+2024,Gemeente,Zuid-Holland,Teylingen,GM1525,15.6,2.7,4,6.6,21.9,3.8
+2024,Gemeente,Zuid-Holland,Vlaardingen,GM0622,33.6,6.5,5.9,15.6,25.7,4.6
+2024,Gemeente,Zuid-Holland,Voorne aan Zee,GM1992,31.4,3.4,4.5,8.6,22.8,4.1
+2024,Gemeente,Zuid-Holland,Voorschoten,GM0626,10.8,4,4.3,7.7,28.4,4.1
+2024,Gemeente,Zuid-Holland,Waddinxveen,GM0627,13.1,3.4,3.4,7.9,21.4,3.7
+2024,Gemeente,Zuid-Holland,Wassenaar,GM0629,11,5.2,9,10.4,40.8,5.1
+2024,Gemeente,Zuid-Holland,Westland,GM1783,44.4,3.2,4.5,7.2,21.1,4
+2024,Gemeente,Zuid-Holland,Zoetermeer,GM0637,54.3,5.1,4.6,11,18.9,4.1
+2024,Gemeente,Zuid-Holland,Zoeterwoude,GM0638,3.9,1.9,3.2,5,22.5,3.6
+2024,Gemeente,Zuid-Holland,Zuidplas,GM1892,18.1,3.6,3.9,7.1,21.6,3.9
+2024,Gemeente,Zuid-Holland,Zwijndrecht,GM0642,19.6,5.7,5.1,11.9,27.9,4.5
+2023,Nederland,Totaal,Nederland,NL01,7348.1,3.7,4.5,11.1,31,4.1
+2023,Provincie,Drenthe,Drenthe,PV22,210.6,3.6,6.4,10,32.7,4.6
+2023,Gemeente,Drenthe,Aa en Hunze,GM1680,10.6,3.7,8.2,7.4,38.5,4.9
+2023,Gemeente,Drenthe,Assen,GM0106,30.4,3,3.3,11.6,23.4,3.9
+2023,Gemeente,Drenthe,Borger-Odoorn,GM1681,10.7,4.3,9.5,8.5,40,5.1
+2023,Gemeente,Drenthe,Coevorden,GM0109,14.6,2.8,7.5,10.3,35.9,4.8
+2023,Gemeente,Drenthe,De Wolden,GM1690,9.7,2.5,8.9,7,36.2,5
+2023,Gemeente,Drenthe,Emmen,GM0114,46.9,4.7,7.2,12.6,34.9,4.8
+2023,Gemeente,Drenthe,Hoogeveen,GM0118,23.4,3.8,5.2,10.5,31.2,4.4
+2023,Gemeente,Drenthe,Meppel,GM0119,15.1,3.8,3.6,10.3,30.3,4.1
+2023,Gemeente,Drenthe,Midden-Drenthe,GM1731,13.7,2.9,6.8,8,34.5,4.6
+2023,Gemeente,Drenthe,Noordenveld,GM1699,13.6,3.5,7,7.9,32.5,4.6
+2023,Gemeente,Drenthe,Tynaarlo,GM1730,13.8,2.6,6,6.4,30.3,4.4
+2023,Gemeente,Drenthe,Westerveld,GM1701,8,2.5,9.9,7.2,37.5,5.1
+2023,Provincie,Flevoland,Flevoland,PV24,166.8,2.1,3,9.8,15.4,3.9
+2023,Gemeente,Flevoland,Almere,GM0034,83.4,1.6,2.1,10.2,8,3.8
+2023,Gemeente,Flevoland,Dronten,GM0303,16.9,2.3,3.4,7.7,21.1,3.8
+2023,Gemeente,Flevoland,Lelystad,GM0995,32.2,3.2,4.2,12.2,21.2,4.1
+2023,Gemeente,Flevoland,Noordoostpolder,GM0171,19,3.2,4.4,8.9,30.8,4.1
+2023,Gemeente,Flevoland,Urk,GM0184,6.4,1.9,4,5.4,28.3,4.1
+2023,Gemeente,Flevoland,Zeewolde,GM0050,8.9,1.1,2.4,6.2,10.7,3.5
+2023,Provincie,Fryslân,Fryslân,PV21,281.8,4.5,5.7,12,38.3,4.4
+2023,Gemeente,Fryslân,Achtkarspelen,GM0059,11.5,7.7,7.9,13.5,48.4,5
+2023,Gemeente,Fryslân,Ameland,GM0060,1.5,4.5,12.4,6.6,50.8,5.6
+2023,Gemeente,Fryslân,Dantumadiel,GM1891,7.8,3.5,5.6,12.4,37.4,4.3
+2023,Gemeente,Fryslân,De Fryske Marren,GM1940,21.5,3.1,6.3,8.6,36.7,4.4
+2023,Gemeente,Fryslân,Harlingen,GM0072,7.3,3,3.8,13.4,31.5,3.8
+2023,Gemeente,Fryslân,Heerenveen,GM0074,22.1,3.9,5.2,11.4,35.2,4.3
+2023,Gemeente,Fryslân,Leeuwarden,GM0080,57.1,5.5,4.3,16.4,35.4,4.1
+2023,Gemeente,Fryslân,Noardeast-Fryslân,GM1970,19.3,4.6,6.4,11.2,42.8,4.5
+2023,Gemeente,Fryslân,Ooststellingwerf,GM0085,10.9,2.6,6.5,10.4,36,4.5
+2023,Gemeente,Fryslân,Opsterland,GM0086,12.2,4.4,7.7,8.9,43.3,4.8
+2023,Gemeente,Fryslân,Schiermonnikoog,GM0088,0.5,3.1,10.1,9.4,46,5
+2023,Gemeente,Fryslân,Smallingerland,GM0090,24.3,4.5,5.4,13,33.1,4.4
+2023,Gemeente,Fryslân,Súdwest-Fryslân,GM1900,39.1,4.7,5.3,11,39.3,4.3
+2023,Gemeente,Fryslân,Terschelling,GM0093,2,3.3,9.4,7.1,53.3,5.1
+2023,Gemeente,Fryslân,Tytsjerksteradiel,GM0737,13.3,3.4,6.2,9.1,40.2,4.5
+2023,Gemeente,Fryslân,Vlieland,GM0096,0.5,3.4,5.2,6.6,31.4,3.7
+2023,Gemeente,Fryslân,Waadhoeke,GM1949,19.8,4.6,6.1,9.8,44.5,4.5
+2023,Gemeente,Fryslân,Weststellingwerf,GM0098,11.2,3.2,7.5,10.8,37.2,4.7
+2023,Provincie,Gelderland,Gelderland,PV25,860.6,3.3,4.7,9.6,32.4,4.2
+2023,Gemeente,Gelderland,Aalten,GM0197,11.2,3,5.3,6.7,41.5,4.4
+2023,Gemeente,Gelderland,Apeldoorn,GM0200,69.5,2.4,3.9,9.3,31.5,4.1
+2023,Gemeente,Gelderland,Arnhem,GM0202,70.6,5.9,3.4,16.5,30.3,3.8
+2023,Gemeente,Gelderland,Barneveld,GM0203,21.4,2.1,4.4,6.1,28.9,3.9
+2023,Gemeente,Gelderland,Berg en Dal,GM1945,14.9,3.9,5.3,10.4,35.7,4.4
+2023,Gemeente,Gelderland,Berkelland,GM1859,18.3,3.4,7.2,7.6,39.1,4.8
+2023,Gemeente,Gelderland,Beuningen,GM0209,10.9,2.6,4.1,7.9,28,4
+2023,Gemeente,Gelderland,Bronckhorst,GM1876,15.1,3.3,8.5,6.8,42,4.9
+2023,Gemeente,Gelderland,Brummen,GM0213,8.9,2.6,5.2,7.9,33.6,4.2
+2023,Gemeente,Gelderland,Buren,GM0214,10.4,3,8,6.6,37.8,4.8
+2023,Gemeente,Gelderland,Culemborg,GM0216,12.2,2.3,2.6,8.5,23.7,3.6
+2023,Gemeente,Gelderland,Doesburg,GM0221,5.1,4.7,4.1,12.7,35.1,4.3
+2023,Gemeente,Gelderland,Doetinchem,GM0222,25.1,4.3,4.5,11.4,31.3,4.1
+2023,Gemeente,Gelderland,Druten,GM0225,7.8,2.9,4.3,7.6,30.1,4.1
+2023,Gemeente,Gelderland,Duiven,GM0226,10.4,2.3,3,7.9,21.1,4.1
+2023,Gemeente,Gelderland,Ede,GM0228,46.6,1.8,3.7,7.3,27.3,4
+2023,Gemeente,Gelderland,Elburg,GM0230,9.1,2.7,5.4,7.3,36.2,4.3
+2023,Gemeente,Gelderland,Epe,GM0232,13.5,3.2,6.8,7.4,41.8,4.8
+2023,Gemeente,Gelderland,Ermelo,GM0233,10.3,2.8,5,7.8,34.4,4.2
+2023,Gemeente,Gelderland,Harderwijk,GM0243,19.7,3.1,2.9,9.5,28.2,3.9
+2023,Gemeente,Gelderland,Hattem,GM0244,5.1,2.6,4.7,6.1,39.9,4.3
+2023,Gemeente,Gelderland,Heerde,GM0246,7.6,2.6,6.9,5.7,40.7,4.7
+2023,Gemeente,Gelderland,Heumen,GM0252,6.9,1.5,4.3,6.7,25,3.9
+2023,Gemeente,Gelderland,Lingewaard,GM1705,19.2,1.7,4.5,6.5,26.1,4
+2023,Gemeente,Gelderland,Lochem,GM0262,14.3,3.1,7.8,7.3,39.7,4.8
+2023,Gemeente,Gelderland,Maasdriel,GM0263,9.6,2.3,6.8,6.7,33,4.5
+2023,Gemeente,Gelderland,Montferland,GM1955,15.2,3,6,8.6,30.2,4.3
+2023,Gemeente,Gelderland,Neder-Betuwe,GM1740,8.5,3,5.9,8.1,34.3,4.4
+2023,Gemeente,Gelderland,Nijkerk,GM0267,17,2.2,4.1,7.5,29.6,3.9
+2023,Gemeente,Gelderland,Nijmegen,GM0268,73.5,4.1,2.9,15.6,25.9,3.6
+2023,Gemeente,Gelderland,Nunspeet,GM0302,10.6,3.2,5.7,7.4,39.7,4.5
+2023,Gemeente,Gelderland,Oldebroek,GM0269,9,3.6,6.5,7.7,37.7,4.6
+2023,Gemeente,Gelderland,Oost Gelre,GM1586,12.2,2.6,5.6,6.2,35.9,4.4
+2023,Gemeente,Gelderland,Oude IJsselstreek,GM1509,16.4,3.5,6.2,8.6,37.2,4.4
+2023,Gemeente,Gelderland,Overbetuwe,GM1734,19.2,3,3.9,6.6,32.6,4
+2023,Gemeente,Gelderland,Putten,GM0273,9.4,3.5,7.5,6.9,40.7,4.6
+2023,Gemeente,Gelderland,Renkum,GM0274,14,4.4,6,8.4,44.6,4.6
+2023,Gemeente,Gelderland,Rheden,GM0275,19.4,6,6.5,10.9,46.4,4.8
+2023,Gemeente,Gelderland,Rozendaal,GM0277,0.7,,6.5,1.5,39.7,4.4
+2023,Gemeente,Gelderland,Scherpenzeel,GM0279,4,2.2,4.2,5.1,34.1,4.1
+2023,Gemeente,Gelderland,Tiel,GM0281,17.2,4,3.9,11.8,29.5,4.1
+2023,Gemeente,Gelderland,Voorst,GM0285,10,3,6.5,6.8,39.5,4.5
+2023,Gemeente,Gelderland,Wageningen,GM0289,14.3,3.6,2.8,12,25,3.6
+2023,Gemeente,Gelderland,West Betuwe,GM1960,20,2.7,5.5,6.6,34.7,4.2
+2023,Gemeente,Gelderland,West Maas en Waal,GM0668,7.9,1.9,6.5,6.4,33.7,4.4
+2023,Gemeente,Gelderland,Westervoort,GM0293,6.5,3,3.3,9.5,25.5,4.3
+2023,Gemeente,Gelderland,Wijchen,GM0296,17.3,3,4.1,8.3,27.4,4.1
+2023,Gemeente,Gelderland,Winterswijk,GM0294,12.3,4.5,7.3,9.3,42.4,4.8
+2023,Gemeente,Gelderland,Zaltbommel,GM0297,11.2,2.6,5.2,8,31.2,4.1
+2023,Gemeente,Gelderland,Zevenaar,GM0299,19.6,3.8,5.1,9.3,33.6,4.4
+2023,Gemeente,Gelderland,Zutphen,GM0301,21.6,3.8,3.3,12.2,30.7,3.9
+2023,Provincie,Groningen,Groningen,PV20,254.7,5.3,6.8,14.4,31.9,4.5
+2023,Gemeente,Groningen,Eemsdelta,GM1979,20.3,6.4,8.3,13.8,35.1,4.9
+2023,Gemeente,Groningen,Groningen (gemeente),GM0014,101.1,4.4,3.8,18.1,23,3.8
+2023,Gemeente,Groningen,Het Hogeland,GM1966,20.9,6.1,8.3,10.9,39.4,5
+2023,Gemeente,Groningen,Midden-Groningen,GM1952,26.6,5.3,6.9,13.1,32.5,4.6
+2023,Gemeente,Groningen,Oldambt,GM1895,17.5,7.4,9.1,13.6,39.6,5.1
+2023,Gemeente,Groningen,Pekela,GM0765,5.3,7.5,13.1,12.9,45.2,5.7
+2023,Gemeente,Groningen,Stadskanaal,GM0037,13.9,6.2,9.6,13.1,40.4,5.3
+2023,Gemeente,Groningen,Veendam,GM0047,12.2,5.5,8.4,12.6,33.4,5
+2023,Gemeente,Groningen,Westerkwartier,GM1969,26,4.4,7.6,8.1,35.6,4.7
+2023,Gemeente,Groningen,Westerwolde,GM1950,10.7,7.1,14.9,11.5,52.7,6.1
+2023,Provincie,Limburg,Limburg,PV31,493,4.5,6.3,11.3,34.2,4.5
+2023,Gemeente,Limburg,Beek (L.),GM0888,7.1,3.2,6.4,9.1,34.1,4.5
+2023,Gemeente,Limburg,Beekdaelen,GM1954,15.6,4,8.2,8,39.9,4.8
+2023,Gemeente,Limburg,Beesel,GM0889,5.8,2.8,5.5,8.3,29.5,4.2
+2023,Gemeente,Limburg,Bergen (L.),GM0893,5.5,2.8,7,7.8,39.6,4.7
+2023,Gemeente,Limburg,Brunssum,GM0899,13.1,6.5,6,13.1,40.7,4.7
+2023,Gemeente,Limburg,Echt-Susteren,GM1711,13.8,3.5,7.9,8.4,34.4,4.7
+2023,Gemeente,Limburg,Eijsden-Margraten,GM1903,10.7,2.6,8.1,5.2,36.2,4.6
+2023,Gemeente,Limburg,Gennep,GM0907,7,3.6,7.4,8.8,35,4.6
+2023,Gemeente,Limburg,Gulpen-Wittem,GM1729,6.2,3.9,7.8,7.8,41.7,4.7
+2023,Gemeente,Limburg,Heerlen,GM0917,42.2,8.5,6.4,17.9,36.5,4.6
+2023,Gemeente,Limburg,Horst aan de Maas,GM1507,17.2,1.8,6.3,5.6,30.7,4.3
+2023,Gemeente,Limburg,Kerkrade,GM0928,21.8,6.1,8.4,16.2,31.6,4.9
+2023,Gemeente,Limburg,Landgraaf,GM0882,17,4.7,6.3,11.7,33.7,4.6
+2023,Gemeente,Limburg,Leudal,GM1640,15.2,2.5,7.6,5.9,36.2,4.6
+2023,Gemeente,Limburg,Maasgouw,GM1641,10.2,2.7,7.8,6.6,34.5,4.6
+2023,Gemeente,Limburg,Maastricht,GM0935,51.3,6.9,4.3,15.4,38.1,4.1
+2023,Gemeente,Limburg,Meerssen,GM0938,8.2,2.6,6.7,6.8,38.2,4.5
+2023,Gemeente,Limburg,Mook en Middelaar,GM0944,3.4,1.6,6.6,6.6,29.3,4.4
+2023,Gemeente,Limburg,Nederweert,GM0946,7.2,3.2,6.7,7.1,33.1,4.5
+2023,Gemeente,Limburg,Peel en Maas,GM1894,17.7,2.1,6.3,6.3,28.6,4.3
+2023,Gemeente,Limburg,Roerdalen,GM1669,9,3.2,7.7,7.2,36.2,4.7
+2023,Gemeente,Limburg,Roermond,GM0957,26.8,4.6,4.9,13,30.2,4.1
+2023,Gemeente,Limburg,Simpelveld,GM0965,4.8,4.2,8,9,41.1,5
+2023,Gemeente,Limburg,Sittard-Geleen,GM1883,42.8,5.6,6.3,13.5,35.2,4.6
+2023,Gemeente,Limburg,Stein (L.),GM0971,11.1,2.6,6,7.8,33.5,4.4
+2023,Gemeente,Limburg,Vaals,GM0981,4.6,9,10.5,19,38.8,5.3
+2023,Gemeente,Limburg,Valkenburg aan de Geul,GM0994,7.4,4.3,7.4,8.9,40.5,4.7
+2023,Gemeente,Limburg,Venlo,GM0983,44.6,3.6,5.4,12.3,28.6,4.3
+2023,Gemeente,Limburg,Venray,GM0984,18.4,2.6,5.1,9.1,27.3,4.1
+2023,Gemeente,Limburg,Voerendaal,GM0986,5.4,3.8,7.4,6.5,40.8,4.8
+2023,Gemeente,Limburg,Weert,GM0988,21.9,2.6,4.9,9.5,30.7,4.1
+2023,Provincie,Noord-Brabant,Noord-Brabant,PV30,1081.5,3.2,4.7,9.4,31.4,4.1
+2023,Gemeente,Noord-Brabant,'s-Hertogenbosch,GM0796,69.1,3.2,3.7,11.3,25.8,3.8
+2023,Gemeente,Noord-Brabant,Alphen-Chaam,GM1723,4.1,2.9,8.4,5.3,42,4.8
+2023,Gemeente,Noord-Brabant,Altena,GM1959,21.7,2.8,5,7.1,37.6,4.3
+2023,Gemeente,Noord-Brabant,Asten,GM0743,6.7,2.8,6,7.2,32.1,4.4
+2023,Gemeente,Noord-Brabant,Baarle-Nassau,GM0744,2.7,4.1,10,7.4,46.9,5.2
+2023,Gemeente,Noord-Brabant,Bergeijk,GM1724,7.6,2.4,7.4,5.4,38.8,4.6
+2023,Gemeente,Noord-Brabant,Bergen op Zoom,GM0748,28.9,4,3.8,11.6,33.2,4
+2023,Gemeente,Noord-Brabant,Bernheze,GM1721,12.1,2,6,5.7,31.9,4.3
+2023,Gemeente,Noord-Brabant,Best,GM0753,12.6,2.6,3.9,7,25.2,3.8
+2023,Gemeente,Noord-Brabant,Bladel,GM1728,8.5,2.5,6,6.1,35,4.4
+2023,Gemeente,Noord-Brabant,Boekel,GM0755,4.2,1.7,6.1,4.8,34.9,4.2
+2023,Gemeente,Noord-Brabant,Boxtel,GM0757,13.5,1.8,4.2,7.7,27.4,4
+2023,Gemeente,Noord-Brabant,Breda,GM0758,78.2,3.1,3.7,10.8,30.4,4
+2023,Gemeente,Noord-Brabant,Cranendonck,GM1706,8.6,2.7,6.7,6.9,36.7,4.5
+2023,Gemeente,Noord-Brabant,Deurne,GM0762,13.5,2.9,6.4,7.4,34.5,4.5
+2023,Gemeente,Noord-Brabant,Dongen,GM0766,11,2.6,3.8,6.9,35.8,4
+2023,Gemeente,Noord-Brabant,Drimmelen,GM1719,11.3,2.7,5.2,5.6,41.3,4.3
+2023,Gemeente,Noord-Brabant,Eersel,GM0770,8,2.2,6.7,5.8,34.7,4.5
+2023,Gemeente,Noord-Brabant,Eindhoven,GM0772,104.3,5.2,3.7,13.3,30.8,3.8
+2023,Gemeente,Noord-Brabant,Etten-Leur,GM0777,18.5,3,3.4,9,28.4,3.8
+2023,Gemeente,Noord-Brabant,Geertruidenberg,GM0779,9.4,2.8,3.6,8.4,31.1,4.1
+2023,Gemeente,Noord-Brabant,Geldrop-Mierlo,GM1771,17.2,3.2,4.6,8.6,30.9,4.2
+2023,Gemeente,Noord-Brabant,Gemert-Bakel,GM1652,12.3,2.7,6.3,7.9,34.3,4.4
+2023,Gemeente,Noord-Brabant,Gilze en Rijen,GM0784,10.7,3.5,4.7,8.1,34.6,4.2
+2023,Gemeente,Noord-Brabant,Goirle,GM0785,9.9,2.9,4.6,7.3,33.3,4.2
+2023,Gemeente,Noord-Brabant,Halderberge,GM1655,12.6,3.6,6.1,8.9,36.3,4.4
+2023,Gemeente,Noord-Brabant,Heeze-Leende,GM1658,6.6,1.9,6.9,4.8,33.4,4.4
+2023,Gemeente,Noord-Brabant,Helmond,GM0794,39.7,3.6,3.3,12.7,23.4,3.9
+2023,Gemeente,Noord-Brabant,Heusden,GM0797,18.4,3.3,5.2,7.5,33.1,4.2
+2023,Gemeente,Noord-Brabant,Hilvarenbeek,GM0798,6.5,2.6,7.4,5.4,39.7,4.6
+2023,Gemeente,Noord-Brabant,Laarbeek,GM1659,9.3,3.1,5.8,7.5,33.5,4.4
+2023,Gemeente,Noord-Brabant,Land van Cuijk,GM1982,37.3,2.9,6,7.3,34.5,4.4
+2023,Gemeente,Noord-Brabant,Loon op Zand,GM0809,9.8,3.1,5.2,6.7,34.7,4.4
+2023,Gemeente,Noord-Brabant,Maashorst,GM1991,24.2,2.4,5.3,8.2,27.1,4.2
+2023,Gemeente,Noord-Brabant,Meierijstad,GM1948,33.5,2.3,4.9,6.4,29.9,4.1
+2023,Gemeente,Noord-Brabant,Moerdijk,GM1709,15.8,3.5,3.9,8.2,36.7,4
+2023,Gemeente,Noord-Brabant,Nuenen Gerwen en Nederwetten,GM0820,10,2,5.4,5.4,28.2,4.2
+2023,Gemeente,Noord-Brabant,Oirschot,GM0823,7.5,2.6,6.1,5.6,38.6,4.4
+2023,Gemeente,Noord-Brabant,Oisterwijk,GM0824,13.2,3,5.6,6.8,37.8,4.3
+2023,Gemeente,Noord-Brabant,Oosterhout,GM0826,24.3,2.5,3.4,9.2,27.5,4
+2023,Gemeente,Noord-Brabant,Oss,GM0828,38.7,3,4.8,9.3,29.5,4.1
+2023,Gemeente,Noord-Brabant,Reusel-De Mierden,GM1667,5.3,2.5,7.2,5.4,37.8,4.6
+2023,Gemeente,Noord-Brabant,Roosendaal,GM1674,32.7,4,4.7,10.5,34.4,4.2
+2023,Gemeente,Noord-Brabant,Rucphen,GM0840,9.5,4.1,9.1,9.2,43,5.1
+2023,Gemeente,Noord-Brabant,Sint-Michielsgestel,GM0845,11.7,2.1,5.5,5.3,33.7,4.2
+2023,Gemeente,Noord-Brabant,Someren,GM0847,7.9,3.2,6.8,7.8,28,4.5
+2023,Gemeente,Noord-Brabant,Son en Breugel,GM0848,7.2,1.6,5.8,5.2,27.7,4.2
+2023,Gemeente,Noord-Brabant,Steenbergen,GM0851,10,3.2,5.4,7.7,37.2,4.3
+2023,Gemeente,Noord-Brabant,Tilburg,GM0855,92.6,3.5,3.5,13.1,25.8,4
+2023,Gemeente,Noord-Brabant,Valkenswaard,GM0858,14.1,2.8,5.1,8.3,28.8,4.3
+2023,Gemeente,Noord-Brabant,Veldhoven,GM0861,19.3,1.8,3.7,6.9,27.6,3.9
+2023,Gemeente,Noord-Brabant,Vught,GM0865,13,3.2,5,7,38.6,4.3
+2023,Gemeente,Noord-Brabant,Waalre,GM0866,7.5,2.9,6.9,6.4,36.2,4.6
+2023,Gemeente,Noord-Brabant,Waalwijk,GM0867,20.8,3.4,5,9.7,36.1,4.3
+2023,Gemeente,Noord-Brabant,Woensdrecht,GM0873,9.1,3.8,7.7,8.1,41.2,4.7
+2023,Gemeente,Noord-Brabant,Zundert,GM0879,8.8,2.8,8.4,6.7,42,4.9
+2023,Provincie,Noord-Holland,Noord-Holland,PV27,1238.6,3.9,4.1,12.4,30.1,4
+2023,Gemeente,Noord-Holland,Aalsmeer,GM0358,12.3,2.7,4.7,6.3,29.4,4
+2023,Gemeente,Noord-Holland,Alkmaar,GM0361,49.7,3.4,3.6,11.4,31.6,4
+2023,Gemeente,Noord-Holland,Amstelveen,GM0362,37.8,3.3,3.4,8.7,33.8,3.8
+2023,Gemeente,Noord-Holland,Amsterdam,GM0363,397.5,5.7,4,19.7,23.2,3.9
+2023,Gemeente,Noord-Holland,Bergen (NH.),GM0373,13.1,2.5,8.8,7.7,38.3,4.9
+2023,Gemeente,Noord-Holland,Beverwijk,GM0375,18.1,3,3.6,11.1,27.7,3.9
+2023,Gemeente,Noord-Holland,Blaricum,GM0376,5,2.5,9.5,5.8,43.9,4.9
+2023,Gemeente,Noord-Holland,Bloemendaal,GM0377,9.3,2.4,7.5,5.3,51.9,4.7
+2023,Gemeente,Noord-Holland,Castricum,GM0383,15.3,1.5,4.4,5.6,33.3,4
+2023,Gemeente,Noord-Holland,Den Helder,GM0400,26.1,4.7,4,11.9,33.9,4.2
+2023,Gemeente,Noord-Holland,Diemen,GM0384,13.2,3.5,4.5,10.4,20.6,3.8
+2023,Gemeente,Noord-Holland,Dijk en Waard,GM1980,35,1.2,2.4,7.2,20.6,3.5
+2023,Gemeente,Noord-Holland,Drechterland,GM0498,8,2.9,6.7,7.7,31.5,4.5
+2023,Gemeente,Noord-Holland,Edam-Volendam,GM0385,14.8,2.3,7.1,5.9,37.5,4.7
+2023,Gemeente,Noord-Holland,Enkhuizen,GM0388,8.2,4.2,5.5,11.4,37.4,4.6
+2023,Gemeente,Noord-Holland,Gooise Meren,GM1942,25.1,3.4,5.4,8,49.7,4.3
+2023,Gemeente,Noord-Holland,Haarlem,GM0392,71,4.4,3.2,10.9,42.7,3.8
+2023,Gemeente,Noord-Holland,Haarlemmermeer,GM0394,61.8,1.7,3.2,6.8,23.8,3.6
+2023,Gemeente,Noord-Holland,Heemskerk,GM0396,16.7,3.3,2.7,8.6,27,3.7
+2023,Gemeente,Noord-Holland,Heemstede,GM0397,11.7,2.7,5.1,5.4,48.3,4.2
+2023,Gemeente,Noord-Holland,Heiloo,GM0399,10.4,1.4,4.7,6.3,32.6,4
+2023,Gemeente,Noord-Holland,Hilversum,GM0402,39.4,3.8,4.2,10.4,44,4.1
+2023,Gemeente,Noord-Holland,Hollands Kroon,GM1911,19.8,3.2,6.2,7.5,37.6,4.5
+2023,Gemeente,Noord-Holland,Hoorn,GM0405,32,2.7,3.4,10.7,23.9,3.9
+2023,Gemeente,Noord-Holland,Huizen,GM0406,17.9,2.4,4.1,9,28.1,4.1
+2023,Gemeente,Noord-Holland,Koggenland,GM1598,9.1,1.7,4.8,5.6,31.3,4.1
+2023,Gemeente,Noord-Holland,Landsmeer,GM0415,4.6,3.7,5.7,7.5,38.6,4.2
+2023,Gemeente,Noord-Holland,Laren (NH.),GM0417,4.9,4.1,13.4,7.5,60.1,5.9
+2023,Gemeente,Noord-Holland,Medemblik,GM0420,18,2.1,5.4,7.7,32.9,4.3
+2023,Gemeente,Noord-Holland,Oostzaan,GM0431,3.9,2.8,4.6,6.6,32.1,4.1
+2023,Gemeente,Noord-Holland,Opmeer,GM0432,4.8,2.3,5.8,6.4,34.3,4.4
+2023,Gemeente,Noord-Holland,Ouder-Amstel,GM0437,5.9,2,3.4,8,27.8,3.9
+2023,Gemeente,Noord-Holland,Purmerend,GM0439,39.7,2.2,2.8,9.2,19.2,4.2
+2023,Gemeente,Noord-Holland,Schagen,GM0441,19.7,2.8,5.3,7.3,34.7,4.3
+2023,Gemeente,Noord-Holland,Stede Broec,GM0532,8.8,2.5,4.6,7.6,29.2,4.3
+2023,Gemeente,Noord-Holland,Texel,GM0448,6,2.4,7.1,6.6,41.5,4.6
+2023,Gemeente,Noord-Holland,Uitgeest,GM0450,5.4,1.2,2.7,5.9,24,3.4
+2023,Gemeente,Noord-Holland,Uithoorn,GM0451,12.6,2.2,2.7,7.5,24.5,3.6
+2023,Gemeente,Noord-Holland,Velsen,GM0453,29.2,4,3.9,10.3,37,4.1
+2023,Gemeente,Noord-Holland,Waterland,GM0852,7,2.1,5.1,6.9,41.4,4.3
+2023,Gemeente,Noord-Holland,Wijdemeren,GM1696,9.9,2.5,6,6.2,42.8,4.5
+2023,Gemeente,Noord-Holland,Wormerland,GM0880,6.8,2.9,3.8,7.5,33.5,3.9
+2023,Gemeente,Noord-Holland,Zaanstad,GM0479,65,3.7,3,11.2,33.3,3.8
+2023,Gemeente,Noord-Holland,Zandvoort,GM0473,8,6.7,6.9,11.7,51.5,4.8
+2023,Provincie,Overijssel,Overijssel,PV23,478.6,3.9,5.3,10.6,33.3,4.3
+2023,Gemeente,Overijssel,Almelo,GM0141,31.2,6.8,6.5,15.6,34.3,4.6
+2023,Gemeente,Overijssel,Borne,GM0147,9.8,2.6,4.5,7.1,27.6,4.1
+2023,Gemeente,Overijssel,Dalfsen,GM0148,11.6,1.8,6.1,6.4,32.1,4.3
+2023,Gemeente,Overijssel,Deventer,GM0150,43.3,4.1,4,11.8,31.2,4.1
+2023,Gemeente,Overijssel,Dinkelland,GM1774,10,2.4,7.5,5.4,38.7,4.7
+2023,Gemeente,Overijssel,Enschede,GM0153,66.3,6.4,5.9,16.9,34.1,4.6
+2023,Gemeente,Overijssel,Haaksbergen,GM0158,9.7,2.7,6,6.9,35.4,4.5
+2023,Gemeente,Overijssel,Hardenberg,GM0160,24.1,2.7,5.5,7.4,35.1,4.4
+2023,Gemeente,Overijssel,Hellendoorn,GM0163,14.3,2,5,6,34.4,4.3
+2023,Gemeente,Overijssel,Hengelo (O.),GM0164,36.6,5.2,4.6,13,36.8,4.3
+2023,Gemeente,Overijssel,Hof van Twente,GM1735,14.3,3.5,8,7.8,38.1,4.8
+2023,Gemeente,Overijssel,Kampen,GM0166,21.5,3.3,4,9,33.3,4
+2023,Gemeente,Overijssel,Losser,GM0168,9.3,3.8,7.3,8.1,36.5,4.8
+2023,Gemeente,Overijssel,Oldenzaal,GM0173,13.9,3.5,5.2,9.6,29.9,4.4
+2023,Gemeente,Overijssel,Olst-Wijhe,GM1773,7.4,2.1,5.1,7.4,32.8,4.1
+2023,Gemeente,Overijssel,Ommen,GM0175,7.1,2.2,5.8,6.8,35.9,4.4
+2023,Gemeente,Overijssel,Raalte,GM0177,15.4,2.1,5,7.1,29.1,4.1
+2023,Gemeente,Overijssel,Rijssen-Holten,GM1742,14,2.5,4.5,6.9,35.8,4.3
+2023,Gemeente,Overijssel,Staphorst,GM0180,5.7,1.9,8.6,5.4,41.9,5
+2023,Gemeente,Overijssel,Steenwijkerland,GM1708,18.6,3.9,6.7,8.6,39,4.6
+2023,Gemeente,Overijssel,Tubbergen,GM0183,7.9,2.9,9.3,6,38.5,5
+2023,Gemeente,Overijssel,Twenterand,GM1700,12.9,4,7.8,8.7,39.6,4.9
+2023,Gemeente,Overijssel,Wierden,GM0189,9.4,3.1,7.5,6.2,35,4.7
+2023,Gemeente,Overijssel,Zwartewaterland,GM1896,8.5,2.9,3.8,5.9,39.1,4.1
+2023,Gemeente,Overijssel,Zwolle,GM0193,55.9,2.7,2.3,11.6,23.5,3.4
+2023,Provincie,Utrecht,Utrecht,PV26,552.1,2.6,3.3,9.3,26.6,3.7
+2023,Gemeente,Utrecht,Amersfoort,GM0307,66.2,2.4,2.3,9.8,21.1,3.5
+2023,Gemeente,Utrecht,Baarn,GM0308,10.5,2.6,5.5,7.6,41.1,4.4
+2023,Gemeente,Utrecht,Bunnik,GM0312,6.3,1.5,4.3,5.3,29.1,3.8
+2023,Gemeente,Utrecht,Bunschoten,GM0313,8.1,1.7,4.1,5.8,30,4.1
+2023,Gemeente,Utrecht,De Bilt,GM0310,18,3.2,6.2,8,42.7,4.5
+2023,Gemeente,Utrecht,De Ronde Venen,GM0736,17.7,2.2,4.9,6.6,29.9,4
+2023,Gemeente,Utrecht,Eemnes,GM0317,3.9,2.3,5.6,6.1,29.3,4.2
+2023,Gemeente,Utrecht,Houten,GM0321,20.1,1.2,1.8,6.6,11.3,3.2
+2023,Gemeente,Utrecht,IJsselstein,GM0353,13.6,2,2.3,7.3,22,3.6
+2023,Gemeente,Utrecht,Leusden,GM0327,13,1.3,3.1,5.9,22.1,3.6
+2023,Gemeente,Utrecht,Lopik,GM0331,5.4,2.7,5.2,6.4,35.9,4.1
+2023,Gemeente,Utrecht,Montfoort,GM0335,5.4,1.8,4.4,4.9,30.2,4
+2023,Gemeente,Utrecht,Nieuwegein,GM0356,28.5,2.3,2.7,9,21.2,4.1
+2023,Gemeente,Utrecht,Oudewater,GM0589,4.1,3.1,3.7,6.3,38.9,3.7
+2023,Gemeente,Utrecht,Renswoude,GM0339,2,1.3,4.4,3.9,29.1,3.8
+2023,Gemeente,Utrecht,Rhenen,GM0340,7.9,2.7,4.6,7.5,34.1,4.1
+2023,Gemeente,Utrecht,Soest,GM0342,19.8,2.7,4.2,8,36.4,4.1
+2023,Gemeente,Utrecht,Stichtse Vecht,GM1904,26.3,2.5,4.2,7,32,4
+2023,Gemeente,Utrecht,Utrecht (gemeente),GM0344,141.3,3.3,2.3,13.2,22.6,3.4
+2023,Gemeente,Utrecht,Utrechtse Heuvelrug,GM1581,19.8,2.5,5.7,7.6,35.6,4.4
+2023,Gemeente,Utrecht,Veenendaal,GM0345,27.6,3.2,2.3,9.6,26.1,3.7
+2023,Gemeente,Utrecht,Vijfheerenlanden,GM1961,23.3,2.2,3.2,8,29,3.6
+2023,Gemeente,Utrecht,Wijk bij Duurstede,GM0352,9.9,2.3,3.7,6.3,25.6,3.9
+2023,Gemeente,Utrecht,Woerden,GM0632,21.3,1.6,2.7,6.8,25.4,3.4
+2023,Gemeente,Utrecht,Woudenberg,GM0351,5.2,1.6,3.6,5,26.6,3.8
+2023,Gemeente,Utrecht,Zeist,GM0355,26.9,4,4.9,10.9,36.7,4.2
+2023,Provincie,Zeeland,Zeeland,PV29,169.4,3.2,5,9.7,35.7,4.1
+2023,Gemeente,Zeeland,Borsele,GM0654,9.4,1.6,4.5,6,35,3.9
+2023,Gemeente,Zeeland,Goes,GM0664,17.4,3.3,3.1,10.8,28.7,3.6
+2023,Gemeente,Zeeland,Hulst,GM0677,12.3,3.7,7.9,9.3,40.5,4.7
+2023,Gemeente,Zeeland,Kapelle,GM0678,5.2,1.7,3.4,5.5,31.1,3.7
+2023,Gemeente,Zeeland,Middelburg (Z.),GM0687,21.9,2.7,2.9,10.6,32.2,3.6
+2023,Gemeente,Zeeland,Noord-Beveland,GM1695,3.6,3.2,5.9,8.3,38.3,4.2
+2023,Gemeente,Zeeland,Reimerswaal,GM0703,8.6,2.4,4,7.9,36.9,3.9
+2023,Gemeente,Zeeland,Schouwen-Duiveland,GM1676,15.1,2.5,5.4,7.6,36.1,4.1
+2023,Gemeente,Zeeland,Sluis,GM1714,10.6,4.2,8.9,10.2,45.6,4.9
+2023,Gemeente,Zeeland,Terneuzen,GM0715,24.8,4.2,5.6,10.4,39.2,4.3
+2023,Gemeente,Zeeland,Tholen,GM0716,10.5,3.3,4.2,8.6,36.3,4
+2023,Gemeente,Zeeland,Veere,GM0717,9.2,2.6,8.4,6.4,39.6,4.7
+2023,Gemeente,Zeeland,Vlissingen,GM0718,20.8,4.1,3.9,14.1,31.6,4
+2023,Provincie,Zuid-Holland,Zuid-Holland,PV28,1560.6,4.1,3.3,12.6,30.1,3.8
+2023,Gemeente,Zuid-Holland,'s-Gravenhage (gemeente),GM0518,227.3,5.2,3.9,17.7,31.6,3.8
+2023,Gemeente,Zuid-Holland,Alblasserdam,GM0482,8,4.2,3,9.9,34.5,3.9
+2023,Gemeente,Zuid-Holland,Albrandswaard,GM0613,10.1,2,3.2,6,23.4,3.5
+2023,Gemeente,Zuid-Holland,Alphen aan den Rijn,GM0484,47.1,2.7,2.4,7.5,29.3,3.6
+2023,Gemeente,Zuid-Holland,Barendrecht,GM0489,18.7,1.2,2.2,6.4,16,3.4
+2023,Gemeente,Zuid-Holland,Bodegraven-Reeuwijk,GM1901,14.1,2.1,3.4,6.1,32.1,3.5
+2023,Gemeente,Zuid-Holland,Capelle aan den IJssel,GM0502,29.3,4.4,3,12,27.2,4.1
+2023,Gemeente,Zuid-Holland,Delft,GM0503,42.5,6.1,2.9,15.3,32.2,3.8
+2023,Gemeente,Zuid-Holland,Dordrecht,GM0505,51.6,4.5,3.6,12.9,34.6,4.1
+2023,Gemeente,Zuid-Holland,Goeree-Overflakkee,GM1924,20.8,3.3,4.3,8,34.6,3.9
+2023,Gemeente,Zuid-Holland,Gorinchem,GM0512,16.1,3.4,2.5,11.9,24.9,3.6
+2023,Gemeente,Zuid-Holland,Gouda,GM0513,32.1,3.7,2,11.8,34.5,3.5
+2023,Gemeente,Zuid-Holland,Hardinxveld-Giessendam,GM0523,7,2.2,3.7,8.1,31,3.9
+2023,Gemeente,Zuid-Holland,Hendrik-Ido-Ambacht,GM0531,12.1,2.4,2.2,6.9,24.4,3.5
+2023,Gemeente,Zuid-Holland,Hillegom,GM0534,9.4,2.4,3.4,7,33.2,3.8
+2023,Gemeente,Zuid-Holland,Hoeksche Waard,GM1963,37,2.2,2.8,5.9,32.8,3.6
+2023,Gemeente,Zuid-Holland,Kaag en Braassem,GM1884,11.5,3,4.1,7.3,30.1,3.7
+2023,Gemeente,Zuid-Holland,Katwijk,GM0537,25.6,1.9,1.9,7.1,29,3.3
+2023,Gemeente,Zuid-Holland,Krimpen aan den IJssel,GM0542,12,2.5,3.2,9.2,29.8,3.9
+2023,Gemeente,Zuid-Holland,Krimpenerwaard,GM1931,23,3,4,7.6,35.6,4
+2023,Gemeente,Zuid-Holland,Lansingerland,GM1621,23.6,1.1,2.2,5.4,18.8,3.2
+2023,Gemeente,Zuid-Holland,Leiden,GM0546,53.1,4.1,2.6,13.2,33.6,3.6
+2023,Gemeente,Zuid-Holland,Leiderdorp,GM0547,11.9,1.9,2.5,7.6,25.5,3.8
+2023,Gemeente,Zuid-Holland,Leidschendam-Voorburg,GM1916,34.7,4.5,3.5,11.2,40.2,4
+2023,Gemeente,Zuid-Holland,Lisse,GM0553,10,1.6,2.4,6.5,26.6,3.5
+2023,Gemeente,Zuid-Holland,Maassluis,GM0556,14.9,3.5,2.1,10.8,29.9,3.5
+2023,Gemeente,Zuid-Holland,Midden-Delfland,GM1842,7.7,1.7,3.5,5.9,23.2,3.5
+2023,Gemeente,Zuid-Holland,Molenlanden,GM1978,16.6,2.9,4.1,6.5,37.8,4
+2023,Gemeente,Zuid-Holland,Nieuwkoop,GM0569,11.1,2.7,4.5,5.5,36.1,4.1
+2023,Gemeente,Zuid-Holland,Nissewaard,GM1930,37.4,3,3,10.8,22.8,3.8
+2023,Gemeente,Zuid-Holland,Noordwijk,GM0575,18.4,1.8,3.9,6.9,31.8,3.8
+2023,Gemeente,Zuid-Holland,Oegstgeest,GM0579,10.4,1.7,3.7,6.4,29.8,3.7
+2023,Gemeente,Zuid-Holland,Papendrecht,GM0590,13.8,4.2,3.9,8.9,31.8,4.2
+2023,Gemeente,Zuid-Holland,Pijnacker-Nootdorp,GM1926,21.2,1.3,2.4,5.1,16.9,3.3
+2023,Gemeente,Zuid-Holland,Ridderkerk,GM0597,20.4,3,3.1,9.6,32,3.9
+2023,Gemeente,Zuid-Holland,Rijswijk (ZH.),GM0603,25.7,4,3.2,11.7,37.5,3.8
+2023,Gemeente,Zuid-Holland,Rotterdam,GM0599,277.5,6.3,3.7,20.4,27.1,4
+2023,Gemeente,Zuid-Holland,Schiedam,GM0606,33.8,6.2,3.5,14.1,39.1,4
+2023,Gemeente,Zuid-Holland,Sliedrecht,GM0610,10.4,3.1,2.6,10.6,30.3,3.9
+2023,Gemeente,Zuid-Holland,Teylingen,GM1525,15.6,1.8,3.1,5.9,27.3,3.5
+2023,Gemeente,Zuid-Holland,Vlaardingen,GM0622,33,4,3,14.5,33.7,3.9
+2023,Gemeente,Zuid-Holland,Voorne aan Zee,GM1992,31.1,2.3,3.3,8,28.2,3.7
+2023,Gemeente,Zuid-Holland,Voorschoten,GM0626,10.7,3.4,3.4,7,37.8,3.8
+2023,Gemeente,Zuid-Holland,Waddinxveen,GM0627,12.7,3.1,2.5,7.9,28.9,3.5
+2023,Gemeente,Zuid-Holland,Wassenaar,GM0629,10.9,4,8.7,9.3,47.6,4.9
+2023,Gemeente,Zuid-Holland,Westland,GM1783,43.8,2.4,3.5,6.5,27.1,3.7
+2023,Gemeente,Zuid-Holland,Zoetermeer,GM0637,53.8,3.5,2.2,10.2,23.1,3.6
+2023,Gemeente,Zuid-Holland,Zoeterwoude,GM0638,3.7,1.5,3,4.7,30.4,3.5
+2023,Gemeente,Zuid-Holland,Zuidplas,GM1892,17.8,2.9,3.1,6.9,27.6,3.7
+2023,Gemeente,Zuid-Holland,Zwijndrecht,GM0642,19.5,4.2,3.5,11.3,34.5,4.2
+2022,Nederland,Totaal,Nederland,NL01,7298.2,4.1,2.3,13,36.2,2.9
+2022,Provincie,Drenthe,Drenthe,PV22,210.1,4.1,3.7,12,39.4,3.5
+2022,Gemeente,Drenthe,Aa en Hunze,GM1680,10.6,4.2,5.9,8.8,47.4,4.2
+2022,Gemeente,Drenthe,Assen,GM0106,30.4,3.1,1.6,13.6,27.5,2.7
+2022,Gemeente,Drenthe,Borger-Odoorn,GM1681,10.6,5.1,6.1,10.7,48.5,4.2
+2022,Gemeente,Drenthe,Coevorden,GM0109,14.6,3.1,4.6,12.4,43.9,3.8
+2022,Gemeente,Drenthe,De Wolden,GM1690,9.7,2.5,5.5,8.4,42.9,3.9
+2022,Gemeente,Drenthe,Emmen,GM0114,46.8,5.9,3.9,15.4,42.4,3.7
+2022,Gemeente,Drenthe,Hoogeveen,GM0118,23.4,4.6,2.7,12.9,37.6,3.2
+2022,Gemeente,Drenthe,Meppel,GM0119,15,4.3,1.8,12.4,33.8,2.9
+2022,Gemeente,Drenthe,Midden-Drenthe,GM1731,13.7,2.7,4.2,9.5,41.1,3.6
+2022,Gemeente,Drenthe,Noordenveld,GM1699,13.6,3.9,4.2,9.5,40.5,3.7
+2022,Gemeente,Drenthe,Tynaarlo,GM1730,13.8,2.7,3.7,7.3,38.8,3.5
+2022,Gemeente,Drenthe,Westerveld,GM1701,7.9,2.6,6,8.4,43.8,4
+2022,Provincie,Flevoland,Flevoland,PV24,164.6,2,1.3,11.7,19.1,2.7
+2022,Gemeente,Flevoland,Almere,GM0034,82.2,1.1,0.7,12.2,10.1,2.6
+2022,Gemeente,Flevoland,Dronten,GM0303,16.7,2.3,1.6,9,25.2,2.7
+2022,Gemeente,Flevoland,Lelystad,GM0995,32,3.2,1.7,14.3,26.1,2.9
+2022,Gemeente,Flevoland,Noordoostpolder,GM0171,18.7,3.8,2.7,10.8,38,3.1
+2022,Gemeente,Flevoland,Urk,GM0184,6.3,2.3,2.2,6.4,36.4,3.2
+2022,Gemeente,Flevoland,Zeewolde,GM0050,8.7,1.2,1.2,7.9,13.3,2.5
+2022,Provincie,Fryslân,Fryslân,PV21,280.4,5.2,3.1,14.1,44.8,3.2
+2022,Gemeente,Fryslân,Achtkarspelen,GM0059,11.5,9.2,4.4,16.2,56.1,3.9
+2022,Gemeente,Fryslân,Ameland,GM0060,1.5,4,7,7,59.6,4.4
+2022,Gemeente,Fryslân,Dantumadiel,GM1891,7.7,4.2,4,15.2,44.4,3.6
+2022,Gemeente,Fryslân,De Fryske Marren,GM1940,21.6,3.8,3.5,10.6,44.8,3.4
+2022,Gemeente,Fryslân,Harlingen,GM0072,7.2,4.1,2.1,16.3,37.7,2.7
+2022,Gemeente,Fryslân,Heerenveen,GM0074,22.1,4.5,3,13.5,40.6,3.1
+2022,Gemeente,Fryslân,Leeuwarden,GM0080,56.6,6.1,1.8,18.6,40,2.6
+2022,Gemeente,Fryslân,Noardeast-Fryslân,GM1970,19.2,5.8,4.1,13.9,50.1,3.6
+2022,Gemeente,Fryslân,Ooststellingwerf,GM0085,10.8,3.1,4.4,13.1,42.4,3.6
+2022,Gemeente,Fryslân,Opsterland,GM0086,12.2,5.4,4.7,10.8,50.6,3.7
+2022,Gemeente,Fryslân,Schiermonnikoog,GM0088,0.4,4.2,7.2,12.3,53.7,3.8
+2022,Gemeente,Fryslân,Smallingerland,GM0090,24.2,5.1,2.7,15.3,39.3,3.2
+2022,Gemeente,Fryslân,Súdwest-Fryslân,GM1900,39,5.5,2.7,13,45.5,3.1
+2022,Gemeente,Fryslân,Terschelling,GM0093,1.9,5.6,6.1,8.5,66.2,4.1
+2022,Gemeente,Fryslân,Tytsjerksteradiel,GM0737,13.3,3.5,3.6,10.2,47.4,3.5
+2022,Gemeente,Fryslân,Vlieland,GM0096,0.5,3.7,3.9,9,38.6,2.8
+2022,Gemeente,Fryslân,Waadhoeke,GM1949,19.7,6,3.4,11.9,52.7,3.4
+2022,Gemeente,Fryslân,Weststellingwerf,GM0098,11.1,3.2,4.3,12.8,43,3.6
+2022,Provincie,Gelderland,Gelderland,PV25,856,3.9,2.6,11.6,38.1,3.1
+2022,Gemeente,Gelderland,Aalten,GM0197,11.2,3.5,2.7,8.3,47.9,3.3
+2022,Gemeente,Gelderland,Apeldoorn,GM0200,69.1,2.8,2.2,11.1,37,3
+2022,Gemeente,Gelderland,Arnhem,GM0202,70.1,6.6,1.5,19.5,34.1,2.5
+2022,Gemeente,Gelderland,Barneveld,GM0203,21.4,2.6,2.7,7.3,34.6,2.9
+2022,Gemeente,Gelderland,Berg en Dal,GM1945,14.8,5.5,2.9,12.5,44.3,3.3
+2022,Gemeente,Gelderland,Berkelland,GM1859,18.3,4.1,4.4,9.3,47,3.7
+2022,Gemeente,Gelderland,Beuningen,GM0209,10.8,2.9,2.3,9.2,34.2,3
+2022,Gemeente,Gelderland,Bronckhorst,GM1876,15.1,3.9,5.2,8.2,50,3.9
+2022,Gemeente,Gelderland,Brummen,GM0213,8.8,3.4,3.4,9.6,41.5,3.3
+2022,Gemeente,Gelderland,Buren,GM0214,10.3,3.5,5.4,7.7,47.5,3.9
+2022,Gemeente,Gelderland,Culemborg,GM0216,12.1,2.3,1.2,10,28.3,2.5
+2022,Gemeente,Gelderland,Doesburg,GM0221,5,5.5,1.6,16.1,40.1,3
+2022,Gemeente,Gelderland,Doetinchem,GM0222,25,4.7,2.5,13.5,36.2,3
+2022,Gemeente,Gelderland,Druten,GM0225,7.7,4,2.1,9.6,37.1,3.1
+2022,Gemeente,Gelderland,Duiven,GM0226,10.4,2.6,1.3,9.9,26.3,3
+2022,Gemeente,Gelderland,Ede,GM0228,46,2,2.3,8.7,32.2,2.9
+2022,Gemeente,Gelderland,Elburg,GM0230,9.1,3.6,3.2,9.4,41.7,3.3
+2022,Gemeente,Gelderland,Epe,GM0232,13.5,3.5,4.4,9,47.3,3.7
+2022,Gemeente,Gelderland,Ermelo,GM0233,10.2,3.4,3,9.3,39.6,3.1
+2022,Gemeente,Gelderland,Harderwijk,GM0243,19.6,3.6,1.5,11,33.2,2.7
+2022,Gemeente,Gelderland,Hattem,GM0244,5,3.3,2.5,7.3,49.5,3.3
+2022,Gemeente,Gelderland,Heerde,GM0246,7.6,3.4,4.2,7.2,48.8,3.7
+2022,Gemeente,Gelderland,Heumen,GM0252,6.9,2.1,3.5,8.6,31.4,3.3
+2022,Gemeente,Gelderland,Lingewaard,GM1705,19.2,2,2.6,8.3,32.3,3
+2022,Gemeente,Gelderland,Lochem,GM0262,14.3,3.5,4.9,8.6,46.2,3.7
+2022,Gemeente,Gelderland,Maasdriel,GM0263,9.6,2.3,4.3,8.4,39.3,3.5
+2022,Gemeente,Gelderland,Montferland,GM1955,15.1,3.9,3.8,10.6,37.8,3.3
+2022,Gemeente,Gelderland,Neder-Betuwe,GM1740,8.5,3.7,3.5,9.5,42.7,3.4
+2022,Gemeente,Gelderland,Nijkerk,GM0267,16.7,2.8,2.2,8.9,36.1,3
+2022,Gemeente,Gelderland,Nijmegen,GM0268,73,4.6,1.3,18.4,29.8,2.4
+2022,Gemeente,Gelderland,Nunspeet,GM0302,10.5,4,3.6,9.2,45.9,3.5
+2022,Gemeente,Gelderland,Oldebroek,GM0269,9,4.2,3.8,9.2,45.1,3.5
+2022,Gemeente,Gelderland,Oost Gelre,GM1586,12.2,3.2,3.4,7.7,43.9,3.4
+2022,Gemeente,Gelderland,Oude IJsselstreek,GM1509,16.4,4.2,3.7,10.6,44.3,3.4
+2022,Gemeente,Gelderland,Overbetuwe,GM1734,19.2,4.3,2.5,8.6,38.5,3.1
+2022,Gemeente,Gelderland,Putten,GM0273,9.3,4,4.2,8.7,45.4,3.6
+2022,Gemeente,Gelderland,Renkum,GM0274,14,4.9,3.5,9.7,49.9,3.5
+2022,Gemeente,Gelderland,Rheden,GM0275,19.5,7.8,3.2,13.7,52.9,3.5
+2022,Gemeente,Gelderland,Rozendaal,GM0277,0.7,2.5,4.9,2.7,45.3,3.9
+2022,Gemeente,Gelderland,Scherpenzeel,GM0279,4,2.3,2,5.6,39.8,2.9
+2022,Gemeente,Gelderland,Tiel,GM0281,17.2,4.4,2,14.3,34.2,2.9
+2022,Gemeente,Gelderland,Voorst,GM0285,9.9,4.4,4.1,8.4,47.5,3.6
+2022,Gemeente,Gelderland,Wageningen,GM0289,14.1,3.7,1.6,14.1,27.9,2.4
+2022,Gemeente,Gelderland,West Betuwe,GM1960,19.9,3,3.4,8,41.6,3.2
+2022,Gemeente,Gelderland,West Maas en Waal,GM0668,7.8,1.8,4.3,8.1,40.1,3.4
+2022,Gemeente,Gelderland,Westervoort,GM0293,6.4,3.8,1.3,12.1,31.3,3.1
+2022,Gemeente,Gelderland,Wijchen,GM0296,17.3,3.2,2.2,9.9,31.6,2.9
+2022,Gemeente,Gelderland,Winterswijk,GM0294,12.3,5.1,4,11,49,3.6
+2022,Gemeente,Gelderland,Zaltbommel,GM0297,11.1,3,3.1,9.5,37.8,3.1
+2022,Gemeente,Gelderland,Zevenaar,GM0299,19.5,4.6,2.5,11.1,40.4,3.2
+2022,Gemeente,Gelderland,Zutphen,GM0301,21.3,4.4,1.7,14.7,35.8,2.7
+2022,Provincie,Groningen,Groningen,PV20,253.3,6.1,3.9,16.9,37.5,3.3
+2022,Gemeente,Groningen,Eemsdelta,GM1979,20.3,7.5,4.7,16.5,41.1,3.7
+2022,Gemeente,Groningen,Groningen (gemeente),GM0014,100,4.6,1.7,20.5,26.5,2.4
+2022,Gemeente,Groningen,Het Hogeland,GM1966,20.9,7.6,5.2,13,45.8,4
+2022,Gemeente,Groningen,Midden-Groningen,GM1952,26.5,6.5,4,16,38.7,3.5
+2022,Gemeente,Groningen,Oldambt,GM1895,17.3,9,6.1,16.7,46,4.1
+2022,Gemeente,Groningen,Pekela,GM0765,5.4,9.5,7.5,16.5,53.9,4.6
+2022,Gemeente,Groningen,Stadskanaal,GM0037,14,7.5,5.8,16.2,48.8,4.2
+2022,Gemeente,Groningen,Veendam,GM0047,12.2,6.4,4.9,15,39.1,3.8
+2022,Gemeente,Groningen,Westerkwartier,GM1969,25.9,5.3,4.6,10,44,3.8
+2022,Gemeente,Groningen,Westerwolde,GM1950,10.7,8.8,9.4,13.8,60.5,4.9
+2022,Provincie,Limburg,Limburg,PV31,491.3,5.3,3.4,13.5,40.2,3.3
+2022,Gemeente,Limburg,Beek (L.),GM0888,7.1,3.5,3.8,10.7,41,3.5
+2022,Gemeente,Limburg,Beekdaelen,GM1954,15.6,4.9,4.8,9.5,47,3.8
+2022,Gemeente,Limburg,Beesel,GM0889,5.8,3.7,3,10.3,36.8,3.2
+2022,Gemeente,Limburg,Bergen (L.),GM0893,5.4,3.7,4.2,9.4,48.4,3.7
+2022,Gemeente,Limburg,Brunssum,GM0899,13.2,7.4,3.1,15.4,45.1,3.3
+2022,Gemeente,Limburg,Echt-Susteren,GM1711,13.7,4.5,5.1,10.3,42,3.7
+2022,Gemeente,Limburg,Eijsden-Margraten,GM1903,10.6,2.9,4.5,6.1,41.9,3.6
+2022,Gemeente,Limburg,Gennep,GM0907,6.9,3.9,4.6,10.2,42,3.6
+2022,Gemeente,Limburg,Gulpen-Wittem,GM1729,6.2,5.2,5.1,9.8,49,3.8
+2022,Gemeente,Limburg,Heerlen,GM0917,42.2,10,2.7,21.2,41.8,3.1
+2022,Gemeente,Limburg,Horst aan de Maas,GM1507,17,1.9,3.9,6.7,37.5,3.4
+2022,Gemeente,Limburg,Kerkrade,GM0928,21.8,6.9,4.1,19.3,37.6,3.4
+2022,Gemeente,Limburg,Landgraaf,GM0882,17,5.3,3,14.2,38.8,3.3
+2022,Gemeente,Limburg,Leudal,GM1640,15.1,3,4.6,7.2,43.9,3.7
+2022,Gemeente,Limburg,Maasgouw,GM1641,10.2,3.4,5.4,8.3,42.4,3.8
+2022,Gemeente,Limburg,Maastricht,GM0935,51.1,8.3,2.2,18.8,41.9,2.9
+2022,Gemeente,Limburg,Meerssen,GM0938,8.2,3.4,4.5,8.7,45.1,3.7
+2022,Gemeente,Limburg,Mook en Middelaar,GM0944,3.4,1.9,4,7.9,35.7,3.5
+2022,Gemeente,Limburg,Nederweert,GM0946,7.1,3.9,4,9,38.7,3.6
+2022,Gemeente,Limburg,Peel en Maas,GM1894,17.6,2.3,3.9,7.7,35.4,3.4
+2022,Gemeente,Limburg,Roerdalen,GM1669,9,3.7,4.1,8.7,44.2,3.6
+2022,Gemeente,Limburg,Roermond,GM0957,26.7,5.7,2.8,15.8,36.3,3
+2022,Gemeente,Limburg,Simpelveld,GM0965,4.8,5.1,4.8,10.3,49,3.8
+2022,Gemeente,Limburg,Sittard-Geleen,GM1883,42.7,6.3,3.2,16,41.4,3.3
+2022,Gemeente,Limburg,Stein (L.),GM0971,11.1,2.9,3,9.7,39.1,3.2
+2022,Gemeente,Limburg,Vaals,GM0981,4.7,8.9,5.8,20.9,42.6,3.9
+2022,Gemeente,Limburg,Valkenburg aan de Geul,GM0994,7.4,5.7,5,11.1,47.2,3.7
+2022,Gemeente,Limburg,Venlo,GM0983,44.4,3.4,2.2,13.7,35,2.8
+2022,Gemeente,Limburg,Venray,GM0984,18.2,3,2.8,10.8,32.6,3.1
+2022,Gemeente,Limburg,Voerendaal,GM0986,5.4,4.5,4.3,8.1,47.5,3.7
+2022,Gemeente,Limburg,Weert,GM0988,21.8,3.1,2.8,11.5,36.1,3
+2022,Provincie,Noord-Brabant,Noord-Brabant,PV30,1072.6,3.7,2.5,11.2,37.4,3
+2022,Gemeente,Noord-Brabant,'s-Hertogenbosch,GM0796,68.5,3.5,1.7,13.3,30.7,2.7
+2022,Gemeente,Noord-Brabant,Alphen-Chaam,GM1723,4,3.3,5.6,6.4,50,3.8
+2022,Gemeente,Noord-Brabant,Altena,GM1959,21.5,3.6,2.7,8.7,46.1,3.2
+2022,Gemeente,Noord-Brabant,Asten,GM0743,6.7,3,3.4,8.9,38.8,3.3
+2022,Gemeente,Noord-Brabant,Baarle-Nassau,GM0744,2.7,4.7,6.1,9.4,54.4,4.1
+2022,Gemeente,Noord-Brabant,Bergeijk,GM1724,7.6,3.1,4.8,6.3,48.1,3.7
+2022,Gemeente,Noord-Brabant,Bergen op Zoom,GM0748,28.7,4.2,1.7,13.8,38.4,2.7
+2022,Gemeente,Noord-Brabant,Bernheze,GM1721,12,2.6,3.8,7.4,38.7,3.4
+2022,Gemeente,Noord-Brabant,Best,GM0753,12.5,2.5,2.2,8.4,30.2,2.8
+2022,Gemeente,Noord-Brabant,Bladel,GM1728,8.4,2.8,3.3,7.2,41.5,3.3
+2022,Gemeente,Noord-Brabant,Boekel,GM0755,4.1,1.9,4.3,6.2,42.9,3.4
+2022,Gemeente,Noord-Brabant,Boxtel,GM0757,13.4,2.2,2.3,9.7,33.3,2.9
+2022,Gemeente,Noord-Brabant,Breda,GM0758,77.7,3.5,1.8,12.9,36.1,2.8
+2022,Gemeente,Noord-Brabant,Cranendonck,GM1706,8.6,3.7,4.4,9,44.3,3.7
+2022,Gemeente,Noord-Brabant,Deurne,GM0762,13.3,3.4,4.1,9.3,40.8,3.7
+2022,Gemeente,Noord-Brabant,Dongen,GM0766,10.9,3.3,2.3,8.7,41.8,3
+2022,Gemeente,Noord-Brabant,Drimmelen,GM1719,11.2,2.9,2.7,7,47.8,3.2
+2022,Gemeente,Noord-Brabant,Eersel,GM0770,7.9,2.6,4,7.4,42.2,3.4
+2022,Gemeente,Noord-Brabant,Eindhoven,GM0772,102.6,6,1.8,15.8,34.8,2.7
+2022,Gemeente,Noord-Brabant,Etten-Leur,GM0777,18.2,4.2,1.7,10.3,36.3,2.7
+2022,Gemeente,Noord-Brabant,Geertruidenberg,GM0779,9.2,3.2,1.6,10.2,38.9,2.9
+2022,Gemeente,Noord-Brabant,Geldrop-Mierlo,GM1771,17.2,3.6,2.4,10.5,35.7,3.1
+2022,Gemeente,Noord-Brabant,Gemert-Bakel,GM1652,12.2,3,3.8,9.8,40.5,3.4
+2022,Gemeente,Noord-Brabant,Gilze en Rijen,GM0784,10.7,4.3,2.2,10,41.2,3
+2022,Gemeente,Noord-Brabant,Goirle,GM0785,9.8,3.1,2.2,9.3,38.8,3.1
+2022,Gemeente,Noord-Brabant,Halderberge,GM1655,12.6,4.1,3.3,11,43.8,3.3
+2022,Gemeente,Noord-Brabant,Heeze-Leende,GM1658,6.5,2.3,4.4,5.9,39.6,3.5
+2022,Gemeente,Noord-Brabant,Helmond,GM0794,39.3,3.8,1.3,14.5,27.5,2.5
+2022,Gemeente,Noord-Brabant,Heusden,GM0797,18.4,4.5,3.1,8.8,42.8,3.4
+2022,Gemeente,Noord-Brabant,Hilvarenbeek,GM0798,6.4,3,4.2,6.7,47.4,3.6
+2022,Gemeente,Noord-Brabant,Laarbeek,GM1659,9.3,3.8,3.4,9.1,40.3,3.4
+2022,Gemeente,Noord-Brabant,Land van Cuijk,GM1982,36.9,3.4,3.2,8.9,41.5,3.3
+2022,Gemeente,Noord-Brabant,Loon op Zand,GM0809,9.8,3.7,2.7,8.6,42.7,3.3
+2022,Gemeente,Noord-Brabant,Maashorst,GM1991,24,2.7,3,10,32.8,3.1
+2022,Gemeente,Noord-Brabant,Meierijstad,GM1948,33.2,2.6,3.1,8.4,36,3.2
+2022,Gemeente,Noord-Brabant,Moerdijk,GM1709,15.7,4.4,2.1,9.8,43.6,2.9
+2022,Gemeente,Noord-Brabant,Nuenen Gerwen en Nederwetten,GM0820,9.9,2.2,2.9,6.1,35.4,3.3
+2022,Gemeente,Noord-Brabant,Oirschot,GM0823,7.5,2.7,3.5,6.4,45.5,3.4
+2022,Gemeente,Noord-Brabant,Oisterwijk,GM0824,13.2,3.7,3.5,8.4,44.6,3.3
+2022,Gemeente,Noord-Brabant,Oosterhout,GM0826,24,2.7,1.7,11.1,33.2,2.8
+2022,Gemeente,Noord-Brabant,Oss,GM0828,38.4,3.6,2.7,11.2,35.7,3
+2022,Gemeente,Noord-Brabant,Reusel-De Mierden,GM1667,5.2,3,4.4,6.1,44.9,3.6
+2022,Gemeente,Noord-Brabant,Roosendaal,GM1674,32.8,4.9,2.5,12.5,39.9,2.9
+2022,Gemeente,Noord-Brabant,Rucphen,GM0840,9.3,5.9,5.6,11.6,54.5,4.1
+2022,Gemeente,Noord-Brabant,Sint-Michielsgestel,GM0845,11.6,2.5,3.5,6.7,40.6,3.3
+2022,Gemeente,Noord-Brabant,Someren,GM0847,7.8,3.3,4,8.9,33.8,3.4
+2022,Gemeente,Noord-Brabant,Son en Breugel,GM0848,7.2,1.7,3.3,5.8,33.7,3.2
+2022,Gemeente,Noord-Brabant,Steenbergen,GM0851,9.9,3.5,2.6,9.2,43.9,3.1
+2022,Gemeente,Noord-Brabant,Tilburg,GM0855,91.6,4,1.5,15.3,31.4,2.7
+2022,Gemeente,Noord-Brabant,Valkenswaard,GM0858,14.1,3.2,2.8,10.3,34.8,3.1
+2022,Gemeente,Noord-Brabant,Veldhoven,GM0861,19.3,1.8,1.7,7.8,33.7,2.8
+2022,Gemeente,Noord-Brabant,Vught,GM0865,13,3.4,2.9,8,45.4,3.3
+2022,Gemeente,Noord-Brabant,Waalre,GM0866,7.4,3.2,3.9,7.3,43.6,3.5
+2022,Gemeente,Noord-Brabant,Waalwijk,GM0867,20.7,4,2.5,11.5,42.7,3.1
+2022,Gemeente,Noord-Brabant,Woensdrecht,GM0873,9.1,4.3,4.1,9.4,48.9,3.5
+2022,Gemeente,Noord-Brabant,Zundert,GM0879,8.7,3.2,5.2,7.7,50.6,3.8
+2022,Provincie,Noord-Holland,Noord-Holland,PV27,1227.6,4,1.8,14,34.5,2.6
+2022,Gemeente,Noord-Holland,Aalsmeer,GM0358,12.3,3.1,2.4,7.6,34.7,2.8
+2022,Gemeente,Noord-Holland,Alkmaar,GM0361,49.2,3.7,1.6,13.4,35.4,2.7
+2022,Gemeente,Noord-Holland,Amstelveen,GM0362,37.3,3.5,1.6,10.2,37.3,2.6
+2022,Gemeente,Noord-Holland,Amsterdam,GM0363,391.9,5.7,1.2,21.3,27.4,2.1
+2022,Gemeente,Noord-Holland,Bergen (NH.),GM0373,13.1,2.4,5.2,9.1,44.2,3.6
+2022,Gemeente,Noord-Holland,Beverwijk,GM0375,17.9,2.6,1.5,12.9,30.6,2.6
+2022,Gemeente,Noord-Holland,Blaricum,GM0376,4.9,2.6,6.3,6.8,48.9,3.8
+2022,Gemeente,Noord-Holland,Bloemendaal,GM0377,9.4,2.5,5.2,5.9,58.2,3.7
+2022,Gemeente,Noord-Holland,Castricum,GM0383,15.3,1.5,2.4,6.5,38.6,2.9
+2022,Gemeente,Noord-Holland,Den Helder,GM0400,26.1,5,1.8,14.6,38,2.8
+2022,Gemeente,Noord-Holland,Diemen,GM0384,12.9,2.8,2,12.2,22.7,2.4
+2022,Gemeente,Noord-Holland,Dijk en Waard,GM1980,34.3,1.4,1.5,8.9,25,2.6
+2022,Gemeente,Noord-Holland,Drechterland,GM0498,7.9,2.2,2.8,8.6,38,3.2
+2022,Gemeente,Noord-Holland,Edam-Volendam,GM0385,14.8,2.4,3.8,6.9,43.1,3.6
+2022,Gemeente,Noord-Holland,Enkhuizen,GM0388,8.2,4.1,1.7,13.1,41.9,3
+2022,Gemeente,Noord-Holland,Gooise Meren,GM1942,24.7,4.2,3.1,9.6,56.9,3.2
+2022,Gemeente,Noord-Holland,Haarlem,GM0392,70.6,5,1.5,12.9,47,2.6
+2022,Gemeente,Noord-Holland,Haarlemmermeer,GM0394,61.4,1.8,1.8,8.2,27.3,2.6
+2022,Gemeente,Noord-Holland,Heemskerk,GM0396,16.7,3.5,1.2,10.1,30.3,2.5
+2022,Gemeente,Noord-Holland,Heemstede,GM0397,11.6,3.4,3,6.5,54.3,3.2
+2022,Gemeente,Noord-Holland,Heiloo,GM0399,10.4,1.4,2.4,7.5,38,2.9
+2022,Gemeente,Noord-Holland,Hilversum,GM0402,39.4,4.5,2.2,12.2,49.7,2.9
+2022,Gemeente,Noord-Holland,Hollands Kroon,GM1911,19.8,3.3,2.8,8.6,43.5,3.1
+2022,Gemeente,Noord-Holland,Hoorn,GM0405,31.7,2.5,1.1,12.4,27.4,2.4
+2022,Gemeente,Noord-Holland,Huizen,GM0406,17.9,2.5,2,10.9,32.5,2.9
+2022,Gemeente,Noord-Holland,Koggenland,GM1598,9,1.8,2.6,7,37.8,3.1
+2022,Gemeente,Noord-Holland,Landsmeer,GM0415,4.6,4.5,3.1,8.5,43,3.1
+2022,Gemeente,Noord-Holland,Laren (NH.),GM0417,4.9,4.6,8.9,8.3,67.9,4.6
+2022,Gemeente,Noord-Holland,Medemblik,GM0420,18,2.6,3,9.5,39.2,3.2
+2022,Gemeente,Noord-Holland,Oostzaan,GM0431,3.9,2.9,2.4,8,38,3
+2022,Gemeente,Noord-Holland,Opmeer,GM0432,4.7,2.3,3.3,7.5,40.4,3.2
+2022,Gemeente,Noord-Holland,Ouder-Amstel,GM0437,5.9,1.9,1.8,9.4,31.5,2.7
+2022,Gemeente,Noord-Holland,Purmerend,GM0439,39,1.8,1.1,11,22.3,2.9
+2022,Gemeente,Noord-Holland,Schagen,GM0441,19.5,3.2,3,8.5,41.1,3.1
+2022,Gemeente,Noord-Holland,Stede Broec,GM0532,8.8,2.4,1.9,9.3,34.6,3
+2022,Gemeente,Noord-Holland,Texel,GM0448,6,3.1,4.4,9,47.4,3.6
+2022,Gemeente,Noord-Holland,Uitgeest,GM0450,5.4,1.2,1.4,7.2,27.4,2.5
+2022,Gemeente,Noord-Holland,Uithoorn,GM0451,12.5,2.4,1.3,8.8,27.7,2.4
+2022,Gemeente,Noord-Holland,Velsen,GM0453,29.3,3.7,1.7,12.2,38.8,2.8
+2022,Gemeente,Noord-Holland,Waterland,GM0852,7,2.3,3.2,8.1,47.4,3.2
+2022,Gemeente,Noord-Holland,Wijdemeren,GM1696,9.9,3,3.4,7.5,49.6,3.4
+2022,Gemeente,Noord-Holland,Wormerland,GM0880,6.7,3.5,2,9,38.3,2.8
+2022,Gemeente,Noord-Holland,Zaanstad,GM0479,64.8,4.4,1.2,13.6,37.3,2.5
+2022,Gemeente,Noord-Holland,Zandvoort,GM0473,7.9,7.6,3.9,13.8,54.9,3.5
+2022,Provincie,Overijssel,Overijssel,PV23,476.7,4.5,2.9,12.7,39.5,3.2
+2022,Gemeente,Overijssel,Almelo,GM0141,31.2,7.7,3,18.8,39.9,3.3
+2022,Gemeente,Overijssel,Borne,GM0147,9.8,2.9,2.4,8.7,33.5,3.1
+2022,Gemeente,Overijssel,Dalfsen,GM0148,11.5,2.2,4,7.8,39.6,3.4
+2022,Gemeente,Overijssel,Deventer,GM0150,42.9,4.7,1.8,14,36.8,2.8
+2022,Gemeente,Overijssel,Dinkelland,GM1774,10,3.4,6,7.1,48,4.1
+2022,Gemeente,Overijssel,Enschede,GM0153,66.4,6.9,2.7,20,38.9,3.3
+2022,Gemeente,Overijssel,Haaksbergen,GM0158,9.6,3.8,3.5,8.8,44.5,3.6
+2022,Gemeente,Overijssel,Hardenberg,GM0160,23.7,3.2,3.3,8.9,43.6,3.5
+2022,Gemeente,Overijssel,Hellendoorn,GM0163,14.3,2.6,2.2,7.6,42,3.1
+2022,Gemeente,Overijssel,Hengelo (O.),GM0164,36.4,5.6,2.3,15.4,42.2,3.1
+2022,Gemeente,Overijssel,Hof van Twente,GM1735,14.3,3.9,5.1,9.5,45.5,3.8
+2022,Gemeente,Overijssel,Kampen,GM0166,21.3,3.9,1.8,11.1,39.1,2.9
+2022,Gemeente,Overijssel,Losser,GM0168,9.3,4.7,4.3,10.3,44.8,3.8
+2022,Gemeente,Overijssel,Oldenzaal,GM0173,13.8,3.8,2.6,12.2,35.8,3.3
+2022,Gemeente,Overijssel,Olst-Wijhe,GM1773,7.4,2.6,3,9.1,39.2,3.1
+2022,Gemeente,Overijssel,Ommen,GM0175,7,3,3.9,8.7,43,3.5
+2022,Gemeente,Overijssel,Raalte,GM0177,15.3,2.4,3,8.2,34.8,3.2
+2022,Gemeente,Overijssel,Rijssen-Holten,GM1742,14,3.4,3.2,9.3,43.2,3.5
+2022,Gemeente,Overijssel,Staphorst,GM0180,5.6,2.2,5,6.2,49,4
+2022,Gemeente,Overijssel,Steenwijkerland,GM1708,18.6,5,3.7,10.7,45.7,3.5
+2022,Gemeente,Overijssel,Tubbergen,GM0183,7.9,3.5,6.4,7.4,47.3,4.1
+2022,Gemeente,Overijssel,Twenterand,GM1700,12.9,5.3,4.5,11.1,46.8,3.9
+2022,Gemeente,Overijssel,Wierden,GM0189,9.3,3.3,3.8,7.1,42.1,3.6
+2022,Gemeente,Overijssel,Zwartewaterland,GM1896,8.4,4.3,2.4,8.1,46.5,3.3
+2022,Gemeente,Overijssel,Zwolle,GM0193,55.7,3.2,1.1,13.7,27.6,2.3
+2022,Provincie,Utrecht,Utrecht,PV26,547.4,2.7,1.6,10.6,31.7,2.6
+2022,Gemeente,Utrecht,Amersfoort,GM0307,65.6,2.9,1.1,11.7,25.8,2.3
+2022,Gemeente,Utrecht,Baarn,GM0308,10.5,2.9,3.2,9.1,46.7,3.2
+2022,Gemeente,Utrecht,Bunnik,GM0312,6.2,1.8,2.7,6.1,35.7,2.9
+2022,Gemeente,Utrecht,Bunschoten,GM0313,8.1,1.9,1.7,6.6,36.1,3
+2022,Gemeente,Utrecht,De Bilt,GM0310,18.1,3.1,3.5,9.3,47.6,3.3
+2022,Gemeente,Utrecht,De Ronde Venen,GM0736,17.5,2.4,2.6,7.8,35.2,2.9
+2022,Gemeente,Utrecht,Eemnes,GM0317,3.8,2.1,3.5,7,34.2,3.2
+2022,Gemeente,Utrecht,Houten,GM0321,19.8,0.9,1,7.4,14.7,2.2
+2022,Gemeente,Utrecht,IJsselstein,GM0353,13.6,1.5,0.9,8.8,24.1,2.5
+2022,Gemeente,Utrecht,Leusden,GM0327,12.8,1.3,1.7,6.6,27.7,2.7
+2022,Gemeente,Utrecht,Lopik,GM0331,5.4,2.8,3.2,7.4,42.9,3.2
+2022,Gemeente,Utrecht,Montfoort,GM0335,5.4,1.8,2.6,5.4,37.4,2.9
+2022,Gemeente,Utrecht,Nieuwegein,GM0356,28.2,1.9,1,10.8,26.6,2.8
+2022,Gemeente,Utrecht,Oudewater,GM0589,4.1,4,2.6,8.1,43.8,3.1
+2022,Gemeente,Utrecht,Renswoude,GM0339,2.1,1.5,2.3,4.8,34.8,2.8
+2022,Gemeente,Utrecht,Rhenen,GM0340,7.8,3,2.2,8.4,40.2,2.8
+2022,Gemeente,Utrecht,Soest,GM0342,19.8,2.8,2.5,9.2,41.4,3.1
+2022,Gemeente,Utrecht,Stichtse Vecht,GM1904,26.4,2.7,2.2,8.2,37.6,2.9
+2022,Gemeente,Utrecht,Utrecht (gemeente),GM0344,139.1,3.1,0.7,14.2,27.2,2
+2022,Gemeente,Utrecht,Utrechtse Heuvelrug,GM1581,19.7,2.7,3.6,8.8,42.1,3.4
+2022,Gemeente,Utrecht,Veenendaal,GM0345,27.4,4,1.1,11.3,31.3,2.5
+2022,Gemeente,Utrecht,Vijfheerenlanden,GM1961,23.1,2.4,1.7,9.7,34.7,2.6
+2022,Gemeente,Utrecht,Wijk bij Duurstede,GM0352,9.9,2.4,2,7.1,30.7,2.9
+2022,Gemeente,Utrecht,Woerden,GM0632,21.2,2,1.7,8.9,30.9,2.6
+2022,Gemeente,Utrecht,Woudenberg,GM0351,5.2,2.1,2.5,6,32.9,3
+2022,Gemeente,Utrecht,Zeist,GM0355,26.7,4.2,2.6,12.6,42.2,3
+2022,Provincie,Zeeland,Zeeland,PV29,168.4,3.8,2.5,11.4,42.6,2.9
+2022,Gemeente,Zeeland,Borsele,GM0654,9.3,2,2.4,7.4,42.8,2.9
+2022,Gemeente,Zeeland,Goes,GM0664,17.2,3.9,1.5,12.5,34.9,2.4
+2022,Gemeente,Zeeland,Hulst,GM0677,12.3,4,4.3,10.9,48.3,3.4
+2022,Gemeente,Zeeland,Kapelle,GM0678,5.2,1.8,1.6,6.6,38.1,2.7
+2022,Gemeente,Zeeland,Middelburg (Z.),GM0687,21.8,3.1,1.4,12.5,37.9,2.5
+2022,Gemeente,Zeeland,Noord-Beveland,GM1695,3.5,4.1,3.2,9.2,47,3.1
+2022,Gemeente,Zeeland,Reimerswaal,GM0703,8.6,3.4,2.1,9.4,45.7,2.9
+2022,Gemeente,Zeeland,Schouwen-Duiveland,GM1676,15,3.2,3.4,9.7,44.1,3.2
+2022,Gemeente,Zeeland,Sluis,GM1714,10.6,4.9,4.8,11.7,53.1,3.6
+2022,Gemeente,Zeeland,Terneuzen,GM0715,24.6,4.9,2.8,12.4,46.1,3.1
+2022,Gemeente,Zeeland,Tholen,GM0716,10.4,4,2,10.4,43.8,2.9
+2022,Gemeente,Zeeland,Veere,GM0717,9.1,2.7,3.9,6.8,47.3,3.3
+2022,Gemeente,Zeeland,Vlissingen,GM0718,20.7,4.4,1.5,16.3,36.6,2.6
+2022,Provincie,Zuid-Holland,Zuid-Holland,PV28,1549.8,4.2,1.4,14.6,34.1,2.5
+2022,Gemeente,Zuid-Holland,'s-Gravenhage (gemeente),GM0518,224.8,5.5,1.9,20.6,34.6,2.5
+2022,Gemeente,Zuid-Holland,Alblasserdam,GM0482,8,4.1,1,11.1,38.7,2.4
+2022,Gemeente,Zuid-Holland,Albrandswaard,GM0613,10.1,2.6,1.6,7.4,30.2,2.6
+2022,Gemeente,Zuid-Holland,Alphen aan den Rijn,GM0484,46.7,2.8,1.3,9.3,32.4,2.5
+2022,Gemeente,Zuid-Holland,Barendrecht,GM0489,18.5,1.2,1.1,6.9,20.4,2.4
+2022,Gemeente,Zuid-Holland,Bodegraven-Reeuwijk,GM1901,13.9,2.6,2.2,7.8,37.6,2.8
+2022,Gemeente,Zuid-Holland,Capelle aan den IJssel,GM0502,29.4,4.2,0.9,14,29.4,2.7
+2022,Gemeente,Zuid-Holland,Delft,GM0503,42,5.8,0.9,17.8,34.3,2.3
+2022,Gemeente,Zuid-Holland,Dordrecht,GM0505,51.4,4.4,1.4,14.9,38.7,2.6
+2022,Gemeente,Zuid-Holland,Goeree-Overflakkee,GM1924,20.6,3.8,2.2,10.2,40.4,2.9
+2022,Gemeente,Zuid-Holland,Gorinchem,GM0512,16,3.9,0.9,14.1,30,2.4
+2022,Gemeente,Zuid-Holland,Gouda,GM0513,31.7,4.1,0.9,13.9,38.5,2.3
+2022,Gemeente,Zuid-Holland,Hardinxveld-Giessendam,GM0523,7,1.7,1.3,9.1,37,2.5
+2022,Gemeente,Zuid-Holland,Hendrik-Ido-Ambacht,GM0531,12,2.2,0.9,7.5,29.4,2.3
+2022,Gemeente,Zuid-Holland,Hillegom,GM0534,9.3,2.2,1.5,8.1,36.7,2.6
+2022,Gemeente,Zuid-Holland,Hoeksche Waard,GM1963,36.7,3,1.4,7.5,39.6,2.6
+2022,Gemeente,Zuid-Holland,Kaag en Braassem,GM1884,11.3,3.3,2.4,8.5,36.4,2.7
+2022,Gemeente,Zuid-Holland,Katwijk,GM0537,25.5,2.2,0.9,8.4,33.7,2.2
+2022,Gemeente,Zuid-Holland,Krimpen aan den IJssel,GM0542,12,3.2,1.5,11.1,36.2,2.7
+2022,Gemeente,Zuid-Holland,Krimpenerwaard,GM1931,22.7,3.9,2.2,9.3,42.8,3
+2022,Gemeente,Zuid-Holland,Lansingerland,GM1621,23.7,1.2,1.2,6.7,23.6,2.3
+2022,Gemeente,Zuid-Holland,Leiden,GM0546,52.3,4.6,1.3,15.7,37.4,2.5
+2022,Gemeente,Zuid-Holland,Leiderdorp,GM0547,11.8,1.8,1.1,8.9,30.1,2.6
+2022,Gemeente,Zuid-Holland,Leidschendam-Voorburg,GM1916,34.4,4.7,1.8,12.6,44.4,2.7
+2022,Gemeente,Zuid-Holland,Lisse,GM0553,9.9,1.9,1.3,8.3,31.9,2.4
+2022,Gemeente,Zuid-Holland,Maassluis,GM0556,14.5,4.1,0.9,13,35.4,2.4
+2022,Gemeente,Zuid-Holland,Midden-Delfland,GM1842,7.7,1.4,2,6.7,28,2.5
+2022,Gemeente,Zuid-Holland,Molenlanden,GM1978,16.5,4,2.4,8.2,46.5,3
+2022,Gemeente,Zuid-Holland,Nieuwkoop,GM0569,11.1,3.5,2.5,6.5,43.3,3
+2022,Gemeente,Zuid-Holland,Nissewaard,GM1930,37.5,3.5,1.1,12.7,28.5,2.5
+2022,Gemeente,Zuid-Holland,Noordwijk,GM0575,18.2,2.1,2.2,8.1,36.9,2.7
+2022,Gemeente,Zuid-Holland,Oegstgeest,GM0579,10.4,1.8,2,7.2,33.9,2.6
+2022,Gemeente,Zuid-Holland,Papendrecht,GM0590,13.9,4.2,1,10.4,35.8,2.6
+2022,Gemeente,Zuid-Holland,Pijnacker-Nootdorp,GM1926,20.9,1.8,1.3,5.9,22.4,2.2
+2022,Gemeente,Zuid-Holland,Ridderkerk,GM0597,20.4,3.3,1.3,11.6,36.5,2.6
+2022,Gemeente,Zuid-Holland,Rijswijk (ZH.),GM0603,25.6,4.2,1.4,14.2,39.2,2.5
+2022,Gemeente,Zuid-Holland,Rotterdam,GM0599,276.1,5.7,1,22.6,30,2.2
+2022,Gemeente,Zuid-Holland,Schiedam,GM0606,33.7,6.6,1.4,16.6,40.2,2.6
+2022,Gemeente,Zuid-Holland,Sliedrecht,GM0610,10.4,5.4,0.9,12.4,41.2,2.5
+2022,Gemeente,Zuid-Holland,Teylingen,GM1525,15.4,2.1,1.8,7.1,31.5,2.5
+2022,Gemeente,Zuid-Holland,Vlaardingen,GM0622,32.8,3.9,1.1,17,36,2.5
+2022,Gemeente,Zuid-Holland,Voorne aan Zee,GM1992,31,3.4,1.7,9.3,37.8,2.7
+2022,Gemeente,Zuid-Holland,Voorschoten,GM0626,10.7,3.4,1.7,7.8,43.6,2.7
+2022,Gemeente,Zuid-Holland,Waddinxveen,GM0627,12.4,3.1,1.1,9.4,33.3,2.4
+2022,Gemeente,Zuid-Holland,Wassenaar,GM0629,10.9,4.2,5.7,11.2,53.6,3.8
+2022,Gemeente,Zuid-Holland,Westland,GM1783,43.5,2.9,1.9,7.8,33.4,2.6
+2022,Gemeente,Zuid-Holland,Zoetermeer,GM0637,53.6,3.4,0.7,12.1,25.4,2.4
+2022,Gemeente,Zuid-Holland,Zoeterwoude,GM0638,3.7,1.6,1.5,5.4,34.9,2.4
+2022,Gemeente,Zuid-Holland,Zuidplas,GM1892,17.6,2.6,1.5,8.4,31.5,2.6
+2022,Gemeente,Zuid-Holland,Zwijndrecht,GM0642,19.5,4.8,1.2,13.1,39.9,2.6
+2021,Nederland,Totaal,Nederland,NL01,7220.5,6.8,5.9,14.7,41.4,4.5
+2021,Provincie,Drenthe,Drenthe,PV22,208.1,6.8,7.9,13.4,46.6,5.1
+2021,Gemeente,Drenthe,Aa en Hunze,GM1680,10.4,6.1,9.9,9.8,55.9,5.4
+2021,Gemeente,Drenthe,Assen,GM0106,30.1,5.9,4.9,15.1,32.1,4.5
+2021,Gemeente,Drenthe,Borger-Odoorn,GM1681,10.6,8.4,11.1,12.5,57.6,5.7
+2021,Gemeente,Drenthe,Coevorden,GM0109,14.5,5.9,8.9,13.5,50.8,5.4
+2021,Gemeente,Drenthe,De Wolden,GM1690,9.6,4.1,9.3,9.1,50.6,5.3
+2021,Gemeente,Drenthe,Emmen,GM0114,46.2,9.4,9.3,17,49.5,5.5
+2021,Gemeente,Drenthe,Hoogeveen,GM0118,23.3,7.3,7,14.9,43.8,5.1
+2021,Gemeente,Drenthe,Meppel,GM0119,14.7,6.7,5.1,13.7,41.3,4.5
+2021,Gemeente,Drenthe,Midden-Drenthe,GM1731,13.5,4.8,7.3,10.7,48.4,5.1
+2021,Gemeente,Drenthe,Noordenveld,GM1699,13.4,6.3,8.4,11.1,49.5,5.2
+2021,Gemeente,Drenthe,Tynaarlo,GM1730,13.7,5,7.2,8.8,48.9,4.9
+2021,Gemeente,Drenthe,Westerveld,GM1701,7.9,4.3,9.8,9.5,52.2,5.5
+2021,Provincie,Flevoland,Flevoland,PV24,161.1,4.7,4.4,13.2,22.8,4.3
+2021,Gemeente,Flevoland,Almere,GM0034,80.4,3.9,3.6,13.7,11.9,4.2
+2021,Gemeente,Flevoland,Dronten,GM0303,16.3,4.3,4.6,10.8,30.2,4.2
+2021,Gemeente,Flevoland,Lelystad,GM0995,31.3,6.7,5.6,15.9,31.6,4.7
+2021,Gemeente,Flevoland,Noordoostpolder,GM0171,18.5,6.3,6.1,12.5,44.9,4.8
+2021,Gemeente,Flevoland,Urk,GM0184,6.2,3.4,4.5,7.6,43.6,4.4
+2021,Gemeente,Flevoland,Zeewolde,GM0050,8.4,2.7,3.1,8.8,16.4,3.8
+2021,Provincie,Fryslân,Fryslân,PV21,277.9,8.3,8,16,51.1,5.1
+2021,Gemeente,Fryslân,Achtkarspelen,GM0059,11.5,12.1,11,17.5,62.6,5.7
+2021,Gemeente,Fryslân,Ameland,GM0060,1.4,6.3,13,8.8,67.8,5.9
+2021,Gemeente,Fryslân,Dantumadiel,GM1891,7.7,8.4,9.2,16.6,53.1,5.5
+2021,Gemeente,Fryslân,De Fryske Marren,GM1940,21.5,6,7.4,11.8,52.1,4.9
+2021,Gemeente,Fryslân,Harlingen,GM0072,7.1,6.7,6.3,19.4,42.2,4.8
+2021,Gemeente,Fryslân,Heerenveen,GM0074,21.8,7,6.9,15,46.3,4.9
+2021,Gemeente,Fryslân,Leeuwarden,GM0080,55.6,9.4,6.8,21,44.2,4.8
+2021,Gemeente,Fryslân,Noardeast-Fryslân,GM1970,19.1,9.3,9.4,15.3,59.3,5.5
+2021,Gemeente,Fryslân,Ooststellingwerf,GM0085,10.7,6.6,9.6,14.9,49.7,5.4
+2021,Gemeente,Fryslân,Opsterland,GM0086,12.1,7.7,9.5,12.2,56.9,5.3
+2021,Gemeente,Fryslân,Schiermonnikoog,GM0088,0.4,3.7,10.9,11.1,57.2,5.4
+2021,Gemeente,Fryslân,Smallingerland,GM0090,24,8.7,7.4,17.1,45.5,5.1
+2021,Gemeente,Fryslân,Súdwest-Fryslân,GM1900,38.7,8.5,7.9,15,51.9,5.1
+2021,Gemeente,Fryslân,Terschelling,GM0093,1.9,7.2,10.7,10,69.1,5.5
+2021,Gemeente,Fryslân,Tytsjerksteradiel,GM0737,13.2,5.6,7.3,11.4,54.5,5
+2021,Gemeente,Fryslân,Vlieland,GM0096,0.5,7.5,7.8,11.5,42.8,4.5
+2021,Gemeente,Fryslân,Waadhoeke,GM1949,19.7,9.2,8.8,14,60.3,5.3
+2021,Gemeente,Fryslân,Weststellingwerf,GM0098,11,6.9,8.7,14.7,50.6,5.3
+2021,Provincie,Gelderland,Gelderland,PV25,846.5,6.3,6,13.1,43.6,4.6
+2021,Gemeente,Gelderland,Aalten,GM0197,11.1,5.6,6.8,10,54.7,4.9
+2021,Gemeente,Gelderland,Apeldoorn,GM0200,68.5,5.6,5.5,12.8,42.3,4.6
+2021,Gemeente,Gelderland,Arnhem,GM0202,69,10.7,6.4,22.1,37.7,4.7
+2021,Gemeente,Gelderland,Barneveld,GM0203,21.1,4.1,5.7,8.8,39.5,4.4
+2021,Gemeente,Gelderland,Berg en Dal,GM1945,14.8,7.9,6.8,14.4,49.4,4.9
+2021,Gemeente,Gelderland,Berkelland,GM1859,18.2,6.3,7.7,10.6,53.2,5.1
+2021,Gemeente,Gelderland,Beuningen,GM0209,10.8,4.6,4.8,10.3,40.1,4.4
+2021,Gemeente,Gelderland,Bronckhorst,GM1876,15,5.7,9.1,9.3,56.9,5.4
+2021,Gemeente,Gelderland,Brummen,GM0213,8.7,5.4,6.2,11.1,48.1,4.7
+2021,Gemeente,Gelderland,Buren,GM0214,10.3,5.1,7.6,8.6,55.1,4.9
+2021,Gemeente,Gelderland,Culemborg,GM0216,12,4.1,3.4,11.4,32.4,4
+2021,Gemeente,Gelderland,Doesburg,GM0221,5,8.4,6.3,17.5,44.7,4.8
+2021,Gemeente,Gelderland,Doetinchem,GM0222,24.8,7.1,5.7,15.1,41.3,4.7
+2021,Gemeente,Gelderland,Druten,GM0225,7.6,5.8,5.4,10.8,43.1,4.6
+2021,Gemeente,Gelderland,Duiven,GM0226,10.4,5.2,4.4,11.4,31.1,4.5
+2021,Gemeente,Gelderland,Ede,GM0228,45.2,3.4,4.4,10.1,36.3,4.3
+2021,Gemeente,Gelderland,Elburg,GM0230,9,4.9,5.6,10.3,48.1,4.6
+2021,Gemeente,Gelderland,Epe,GM0232,13.4,6.3,8.2,10.9,54.2,5.2
+2021,Gemeente,Gelderland,Ermelo,GM0233,10.1,4.9,5.4,10.3,45,4.4
+2021,Gemeente,Gelderland,Harderwijk,GM0243,19.1,5.6,4,12.1,37.2,4.2
+2021,Gemeente,Gelderland,Hattem,GM0244,4.9,4.4,4.7,8,54.8,4.6
+2021,Gemeente,Gelderland,Heerde,GM0246,7.4,4.9,6.9,8.2,55.6,5
+2021,Gemeente,Gelderland,Heumen,GM0252,6.8,3.4,5.1,9.4,36.9,4.4
+2021,Gemeente,Gelderland,Lingewaard,GM1705,19,3.5,5,9.5,39.1,4.4
+2021,Gemeente,Gelderland,Lochem,GM0262,14.1,5.4,8.4,10.1,51.5,5.2
+2021,Gemeente,Gelderland,Maasdriel,GM0263,9.5,4.4,7.6,9.8,47.6,4.9
+2021,Gemeente,Gelderland,Montferland,GM1955,15,6.1,7.1,12.2,44.9,4.9
+2021,Gemeente,Gelderland,Neder-Betuwe,GM1740,8.4,5.7,6.4,10.7,50.1,4.8
+2021,Gemeente,Gelderland,Nijkerk,GM0267,16.4,4.2,4.5,9.6,41.6,4.3
+2021,Gemeente,Gelderland,Nijmegen,GM0268,72.1,8.3,5.5,20.8,33.4,4.4
+2021,Gemeente,Gelderland,Nunspeet,GM0302,10.4,5.7,6.8,10.4,51.4,4.8
+2021,Gemeente,Gelderland,Oldebroek,GM0269,8.8,5.8,6.6,10.1,50.8,4.9
+2021,Gemeente,Gelderland,Oost Gelre,GM1586,12.2,5,6.6,8.5,50.4,4.8
+2021,Gemeente,Gelderland,Oude IJsselstreek,GM1509,16.4,6.7,7.6,13.1,50.4,5.1
+2021,Gemeente,Gelderland,Overbetuwe,GM1734,19,5.8,5.8,9.5,44.5,4.5
+2021,Gemeente,Gelderland,Putten,GM0273,9.2,5,6.9,9.4,51.3,4.8
+2021,Gemeente,Gelderland,Renkum,GM0274,13.8,7,6.6,11.1,55,4.9
+2021,Gemeente,Gelderland,Rheden,GM0275,19.5,10.5,7.5,15.6,59.5,5.2
+2021,Gemeente,Gelderland,Rozendaal,GM0277,0.7,2.9,6.2,3.3,52.9,4.4
+2021,Gemeente,Gelderland,Scherpenzeel,GM0279,3.9,3.4,4.8,7.2,47.8,4.5
+2021,Gemeente,Gelderland,Tiel,GM0281,16.9,7.2,5.9,15.2,39.3,4.6
+2021,Gemeente,Gelderland,Voorst,GM0285,9.8,5.9,7,9.2,53.3,4.9
+2021,Gemeente,Gelderland,Wageningen,GM0289,14,7,4.2,15.3,36,4.1
+2021,Gemeente,Gelderland,West Betuwe,GM1960,19.6,4.4,5.8,8.8,49,4.5
+2021,Gemeente,Gelderland,West Maas en Waal,GM0668,7.7,3.7,7.8,9.7,47.3,4.9
+2021,Gemeente,Gelderland,Westervoort,GM0293,6.4,7.5,5.6,13.5,35.5,4.8
+2021,Gemeente,Gelderland,Wijchen,GM0296,17.2,5,5,11.4,37,4.4
+2021,Gemeente,Gelderland,Winterswijk,GM0294,12.2,7.8,8.6,12.7,54.5,5.3
+2021,Gemeente,Gelderland,Zaltbommel,GM0297,10.9,4.5,5.6,10.4,44,4.5
+2021,Gemeente,Gelderland,Zevenaar,GM0299,19.1,7,5.8,12.8,47.5,4.8
+2021,Gemeente,Gelderland,Zutphen,GM0301,21,7.6,5.4,16.5,40.6,4.6
+2021,Provincie,Groningen,Groningen,PV20,251.4,10.1,9.7,18.9,44.2,5.3
+2021,Gemeente,Groningen,Eemsdelta,GM1979,20.4,11.1,10.8,18.4,47.5,5.6
+2021,Gemeente,Groningen,Groningen (gemeente),GM0014,98.7,9.1,6.8,22.9,30.8,4.6
+2021,Gemeente,Groningen,Het Hogeland,GM1966,20.9,10.3,10.7,14.5,52.6,5.7
+2021,Gemeente,Groningen,Midden-Groningen,GM1952,26.4,10.5,10.4,17.8,46.7,5.6
+2021,Gemeente,Groningen,Oldambt,GM1895,17.3,13.1,13.6,18.5,55.1,6.1
+2021,Gemeente,Groningen,Pekela,GM0765,5.4,14.8,15.9,19.5,64.5,6.6
+2021,Gemeente,Groningen,Stadskanaal,GM0037,13.9,11.5,12.1,18.4,55.6,6
+2021,Gemeente,Groningen,Veendam,GM0047,12.2,10.7,10.8,17.4,47,5.7
+2021,Gemeente,Groningen,Westerkwartier,GM1969,25.6,7.8,9.4,11.3,54,5.3
+2021,Gemeente,Groningen,Westerwolde,GM1950,10.7,12.4,17.1,15.6,68.2,6.7
+2021,Provincie,Limburg,Limburg,PV31,487.2,8.3,7.9,15.3,46.5,5.1
+2021,Gemeente,Limburg,Beek (L.),GM0888,7.1,5.7,6.8,11.9,47.9,4.9
+2021,Gemeente,Limburg,Beekdaelen,GM1954,15.5,7.2,9.1,11,54.5,5.3
+2021,Gemeente,Limburg,Beesel,GM0889,5.8,6.7,7.7,12.8,45,5
+2021,Gemeente,Limburg,Bergen (L.),GM0893,5.4,6.3,8.2,11.1,56.7,5.2
+2021,Gemeente,Limburg,Brunssum,GM0899,13.1,10.5,8.4,17.4,50.2,5.3
+2021,Gemeente,Limburg,Echt-Susteren,GM1711,13.7,6.4,8.8,11.5,49.8,5.2
+2021,Gemeente,Limburg,Eijsden-Margraten,GM1903,10.5,4,7.4,6.9,48.6,4.9
+2021,Gemeente,Limburg,Gennep,GM0907,6.8,5.6,6.8,10.9,48.9,4.9
+2021,Gemeente,Limburg,Gulpen-Wittem,GM1729,6.2,6.5,8.4,10.9,54.3,5.2
+2021,Gemeente,Limburg,Heerlen,GM0917,42,14.8,9.7,23.8,46.2,5.5
+2021,Gemeente,Limburg,Horst aan de Maas,GM1507,16.8,3.4,7.2,7.7,45,4.9
+2021,Gemeente,Limburg,Kerkrade,GM0928,21.7,11.2,10.2,21.2,42.8,5.5
+2021,Gemeente,Limburg,Landgraaf,GM0882,17,8.8,8.1,15.9,45.1,5.2
+2021,Gemeente,Limburg,Leudal,GM1640,15,4.7,8.4,8.3,51.7,5.1
+2021,Gemeente,Limburg,Maasgouw,GM1641,10.1,5.7,9.1,9.5,50.3,5.2
+2021,Gemeente,Limburg,Maastricht,GM0935,50.6,12.4,7.3,20.9,47.4,4.9
+2021,Gemeente,Limburg,Meerssen,GM0938,8.1,5.3,7.4,9.5,52.3,5
+2021,Gemeente,Limburg,Mook en Middelaar,GM0944,3.4,3.7,6.6,8.6,43,4.8
+2021,Gemeente,Limburg,Nederweert,GM0946,7.1,5.6,7.8,10.2,45.8,5
+2021,Gemeente,Limburg,Peel en Maas,GM1894,17.4,3.9,7,9,42.8,4.8
+2021,Gemeente,Limburg,Roerdalen,GM1669,8.9,5.9,8.9,10.3,53.1,5.3
+2021,Gemeente,Limburg,Roermond,GM0957,25.6,9,7.4,17.8,42.2,4.9
+2021,Gemeente,Limburg,Simpelveld,GM0965,4.8,7.8,8.6,12.2,54.8,5.3
+2021,Gemeente,Limburg,Sittard-Geleen,GM1883,42.4,10.1,7.9,17.7,48,5.1
+2021,Gemeente,Limburg,Stein (L.),GM0971,11.1,4.6,6.5,10.9,45.7,4.9
+2021,Gemeente,Limburg,Vaals,GM0981,4.6,15,13.5,22.7,45.7,6
+2021,Gemeente,Limburg,Valkenburg aan de Geul,GM0994,7.4,8.3,8.9,13.3,53.3,5.3
+2021,Gemeente,Limburg,Venlo,GM0983,44.1,7.3,7,16.8,41.1,5
+2021,Gemeente,Limburg,Venray,GM0984,18.1,5.1,6.6,12,38.8,4.7
+2021,Gemeente,Limburg,Voerendaal,GM0986,5.4,5.9,7.3,9,53.9,5
+2021,Gemeente,Limburg,Weert,GM0988,21.6,5.8,6.2,13.5,42.9,4.7
+2021,Provincie,Noord-Brabant,Noord-Brabant,PV30,1060.6,6.1,5.9,12.7,43,4.6
+2021,Gemeente,Noord-Brabant,'s-Hertogenbosch,GM0796,67.8,6.7,5.1,14.9,36,4.3
+2021,Gemeente,Noord-Brabant,Alphen-Chaam,GM1723,4,4.2,7.9,7.3,57.2,5
+2021,Gemeente,Noord-Brabant,Altena,GM1959,21.2,5.1,5.7,9.7,52.8,4.6
+2021,Gemeente,Noord-Brabant,Asten,GM0743,6.6,4.7,7,10.2,46.3,4.9
+2021,Gemeente,Noord-Brabant,Baarle-Nassau,GM0744,2.6,6.6,11,10.9,60.1,5.7
+2021,Gemeente,Noord-Brabant,Bergeijk,GM1724,7.5,4.4,7.7,7.1,54.5,4.9
+2021,Gemeente,Noord-Brabant,Bergen op Zoom,GM0748,28.5,6.6,5.1,15.3,42.9,4.4
+2021,Gemeente,Noord-Brabant,Bernheze,GM1721,11.9,4.3,6.9,8.2,46.4,4.8
+2021,Gemeente,Noord-Brabant,Best,GM0753,12.3,3.6,4.3,9.4,35.5,4.1
+2021,Gemeente,Noord-Brabant,Bladel,GM1728,8.3,4.1,6.1,8.1,48.8,4.7
+2021,Gemeente,Noord-Brabant,Boekel,GM0755,4.1,3.9,6.9,7.8,50.7,4.8
+2021,Gemeente,Noord-Brabant,Boxtel,GM0757,13.3,4.1,5,11.5,38,4.4
+2021,Gemeente,Noord-Brabant,Breda,GM0758,77,6.6,5.6,14.7,39.9,4.5
+2021,Gemeente,Noord-Brabant,Cranendonck,GM1706,8.5,5.7,7.7,9.8,52.4,5.1
+2021,Gemeente,Noord-Brabant,Deurne,GM0762,13.2,5.6,7.7,10.1,49.1,5
+2021,Gemeente,Noord-Brabant,Dongen,GM0766,10.8,4.8,5.2,9.8,47.6,4.4
+2021,Gemeente,Noord-Brabant,Drimmelen,GM1719,11,4.5,5.4,8.4,54.5,4.6
+2021,Gemeente,Noord-Brabant,Eersel,GM0770,7.8,3.8,6.2,8,48.5,4.7
+2021,Gemeente,Noord-Brabant,Eindhoven,GM0772,101,9.1,5.8,17.4,39.7,4.4
+2021,Gemeente,Noord-Brabant,Etten-Leur,GM0777,18.1,6.2,4.7,11.6,41.9,4.3
+2021,Gemeente,Noord-Brabant,Geertruidenberg,GM0779,9.1,5.2,4.3,11.5,44,4.4
+2021,Gemeente,Noord-Brabant,Geldrop-Mierlo,GM1771,17,6.2,5.6,11.8,41.7,4.6
+2021,Gemeente,Noord-Brabant,Gemert-Bakel,GM1652,12.1,4.8,6.8,10.9,47.7,4.8
+2021,Gemeente,Noord-Brabant,Gilze en Rijen,GM0784,10.6,6.2,5.3,11.3,46.2,4.5
+2021,Gemeente,Noord-Brabant,Goirle,GM0785,9.8,4.9,4.6,10,44.3,4.4
+2021,Gemeente,Noord-Brabant,Halderberge,GM1655,12.4,6.3,7,12,50.5,4.8
+2021,Gemeente,Noord-Brabant,Heeze-Leende,GM1658,6.4,4.1,7,7.3,48.5,4.8
+2021,Gemeente,Noord-Brabant,Helmond,GM0794,38.8,7.5,5.6,17.8,32.1,4.7
+2021,Gemeente,Noord-Brabant,Heusden,GM0797,18.1,6.5,6.1,10.3,50,4.6
+2021,Gemeente,Noord-Brabant,Hilvarenbeek,GM0798,6.3,4.3,8.1,7.6,53.1,4.9
+2021,Gemeente,Noord-Brabant,Laarbeek,GM1659,9.3,5.4,6.6,10.2,47.7,4.9
+2021,Gemeente,Noord-Brabant,Land van Cuijk,GM1982,36.7,5.4,6.9,10.2,48.2,4.8
+2021,Gemeente,Noord-Brabant,Loon op Zand,GM0809,9.7,5.4,5.6,10,49.3,4.7
+2021,Gemeente,Noord-Brabant,Maashorst,GM1991,24,4.7,5.8,11.4,39.6,4.6
+2021,Gemeente,Noord-Brabant,Meierijstad,GM1948,32.6,4.1,5.6,9.2,42.3,4.5
+2021,Gemeente,Noord-Brabant,Moerdijk,GM1709,15.6,5.8,5.1,10.8,50.5,4.5
+2021,Gemeente,Noord-Brabant,Nuenen Gerwen en Nederwetten,GM0820,9.9,3.6,5.7,7.3,40.6,4.5
+2021,Gemeente,Noord-Brabant,Oirschot,GM0823,7.4,4,6.7,7.4,52.1,4.8
+2021,Gemeente,Noord-Brabant,Oisterwijk,GM0824,13.1,5,6.1,9.5,50.3,4.7
+2021,Gemeente,Noord-Brabant,Oosterhout,GM0826,23.8,4.6,4.4,12.4,37.9,4.4
+2021,Gemeente,Noord-Brabant,Oss,GM0828,37.9,6.3,6.6,13.2,41.8,4.8
+2021,Gemeente,Noord-Brabant,Reusel-De Mierden,GM1667,5.1,4.4,7.8,7.2,52.4,5
+2021,Gemeente,Noord-Brabant,Roosendaal,GM1674,32.8,7.8,6.4,14.5,45.2,4.7
+2021,Gemeente,Noord-Brabant,Rucphen,GM0840,9.3,7.8,10.3,12.7,61.2,5.6
+2021,Gemeente,Noord-Brabant,Sint-Michielsgestel,GM0845,11.4,4.2,6.1,8,47.9,4.6
+2021,Gemeente,Noord-Brabant,Someren,GM0847,7.7,4.6,7,9.8,41.6,4.8
+2021,Gemeente,Noord-Brabant,Son en Breugel,GM0848,6.9,3.1,6.1,6.9,40.6,4.5
+2021,Gemeente,Noord-Brabant,Steenbergen,GM0851,9.8,5.6,5.9,10.9,50.8,4.7
+2021,Gemeente,Noord-Brabant,Tilburg,GM0855,90.5,7.4,5.6,17.3,35.5,4.6
+2021,Gemeente,Noord-Brabant,Valkenswaard,GM0858,14,5.1,5.6,11.9,39.5,4.6
+2021,Gemeente,Noord-Brabant,Veldhoven,GM0861,19.1,3.6,4.3,9.3,39.5,4.2
+2021,Gemeente,Noord-Brabant,Vught,GM0865,12.7,5,5.3,9.4,50.9,4.5
+2021,Gemeente,Noord-Brabant,Waalre,GM0866,7.3,4.5,6.1,8.2,49.5,4.6
+2021,Gemeente,Noord-Brabant,Waalwijk,GM0867,20.5,6.2,5.6,13,47.8,4.7
+2021,Gemeente,Noord-Brabant,Woensdrecht,GM0873,9,5.9,7.5,10.6,56,5
+2021,Gemeente,Noord-Brabant,Zundert,GM0879,8.6,4.9,9.2,8.9,56.8,5.2
+2021,Provincie,Noord-Holland,Noord-Holland,PV27,1211.6,6.8,5.3,15.8,38.3,4.3
+2021,Gemeente,Noord-Holland,Aalsmeer,GM0358,12.2,4.7,5,8.4,38.2,4.1
+2021,Gemeente,Noord-Holland,Alkmaar,GM0361,48.1,6.3,4.8,15.1,39.7,4.4
+2021,Gemeente,Noord-Holland,Amstelveen,GM0362,36.9,5.8,4.3,12.1,41.3,4.1
+2021,Gemeente,Noord-Holland,Amsterdam,GM0363,384.9,9.9,5.7,24,29.7,4.2
+2021,Gemeente,Noord-Holland,Bergen (NH.),GM0373,13.1,3.8,8.1,10.1,49.4,4.9
+2021,Gemeente,Noord-Holland,Beverwijk,GM0375,17.8,5,4.6,14.2,33.7,4.3
+2021,Gemeente,Noord-Holland,Blaricum,GM0376,4.8,4.4,9.3,7.6,54.1,4.9
+2021,Gemeente,Noord-Holland,Bloemendaal,GM0377,9.2,3.7,7.1,7,63.8,4.7
+2021,Gemeente,Noord-Holland,Castricum,GM0383,15.2,2.4,4.3,7.3,43.6,4.1
+2021,Gemeente,Noord-Holland,Den Helder,GM0400,26,8,5.7,16.1,43,4.7
+2021,Gemeente,Noord-Holland,Diemen,GM0384,12.5,5.4,4.6,13.8,25.7,4
+2021,Gemeente,Noord-Holland,Dijk en Waard,GM1980,34,3.1,3.4,10.1,30.4,4
+2021,Gemeente,Noord-Holland,Drechterland,GM0498,7.8,3.9,5.8,9.4,43.9,4.5
+2021,Gemeente,Noord-Holland,Edam-Volendam,GM0385,14.6,3.9,6.8,8,48.3,4.9
+2021,Gemeente,Noord-Holland,Enkhuizen,GM0388,8.2,6.6,5.4,14.4,45.5,4.6
+2021,Gemeente,Noord-Holland,Gooise Meren,GM1942,24.5,6.3,6.3,10.8,62,4.7
+2021,Gemeente,Noord-Holland,Haarlem,GM0392,69.9,7.2,4.4,14.3,50.9,4.1
+2021,Gemeente,Noord-Holland,Haarlemmermeer,GM0394,60.6,3.2,3.7,9.4,30.8,3.9
+2021,Gemeente,Noord-Holland,Heemskerk,GM0396,16.6,5.2,4,11.3,33.3,4
+2021,Gemeente,Noord-Holland,Heemstede,GM0397,11.6,4.6,5.3,7.6,59.7,4.4
+2021,Gemeente,Noord-Holland,Heiloo,GM0399,10.2,2.2,4.6,8.4,43.6,4.2
+2021,Gemeente,Noord-Holland,Hilversum,GM0402,39,7,5.8,14.2,54.5,4.6
+2021,Gemeente,Noord-Holland,Hollands Kroon,GM1911,19.6,5.7,7.1,10.5,50,4.8
+2021,Gemeente,Noord-Holland,Hoorn,GM0405,31.3,5.2,4.6,14.4,31,4.3
+2021,Gemeente,Noord-Holland,Huizen,GM0406,17.8,4.6,4.6,12.4,36.5,4.4
+2021,Gemeente,Noord-Holland,Koggenland,GM1598,9,3.1,5.5,7.5,45.1,4.4
+2021,Gemeente,Noord-Holland,Landsmeer,GM0415,4.6,5.6,6.5,9,47.2,4.4
+2021,Gemeente,Noord-Holland,Laren (NH.),GM0417,4.8,6.6,12.4,9.8,73.8,5.8
+2021,Gemeente,Noord-Holland,Medemblik,GM0420,17.8,4.4,6.3,10.7,45.3,4.7
+2021,Gemeente,Noord-Holland,Oostzaan,GM0431,3.8,4.4,5.5,8.9,42.6,4.4
+2021,Gemeente,Noord-Holland,Opmeer,GM0432,4.7,3.6,5.6,8.1,46,4.5
+2021,Gemeente,Noord-Holland,Ouder-Amstel,GM0437,5.8,3.6,4.3,10.3,35.8,4.1
+2021,Gemeente,Noord-Holland,Purmerend,GM0439,38.5,4.8,4.4,12.7,24.8,4.5
+2021,Gemeente,Noord-Holland,Schagen,GM0441,19.2,4.8,5.7,9.8,46.6,4.6
+2021,Gemeente,Noord-Holland,Stede Broec,GM0532,8.7,4.3,4.7,10,40.7,4.5
+2021,Gemeente,Noord-Holland,Texel,GM0448,5.9,4.9,8.5,10.7,52.6,5.1
+2021,Gemeente,Noord-Holland,Uitgeest,GM0450,5.5,2.4,3.2,7.9,31.9,3.8
+2021,Gemeente,Noord-Holland,Uithoorn,GM0451,12.2,4.3,3.7,10.2,32.3,3.9
+2021,Gemeente,Noord-Holland,Velsen,GM0453,29.2,6.3,5.1,13.3,42.5,4.3
+2021,Gemeente,Noord-Holland,Waterland,GM0852,7,4.2,5.7,9.4,51.7,4.5
+2021,Gemeente,Noord-Holland,Wijdemeren,GM1696,9.8,4.4,6.1,8.7,54.2,4.6
+2021,Gemeente,Noord-Holland,Wormerland,GM0880,6.6,5,4.4,10.3,42.8,4.3
+2021,Gemeente,Noord-Holland,Zaanstad,GM0479,64.4,8,5.2,15.9,42.2,4.4
+2021,Gemeente,Noord-Holland,Zandvoort,GM0473,7.9,10.4,8.7,16.2,57.3,5.2
+2021,Provincie,Overijssel,Overijssel,PV23,473,7.3,6.9,14.4,45.9,4.9
+2021,Gemeente,Overijssel,Almelo,GM0141,31.1,11.9,9.2,21,48,5.4
+2021,Gemeente,Overijssel,Borne,GM0147,9.6,4.8,4.7,10,41.7,4.5
+2021,Gemeente,Overijssel,Dalfsen,GM0148,11.4,3.8,7.1,8.4,46.7,4.7
+2021,Gemeente,Overijssel,Deventer,GM0150,42.6,7.9,5.6,15.7,41,4.5
+2021,Gemeente,Overijssel,Dinkelland,GM1774,10,5.1,9.7,8.4,57.1,5.3
+2021,Gemeente,Overijssel,Enschede,GM0153,65.9,11.6,8.8,22.3,43.4,5.3
+2021,Gemeente,Overijssel,Haaksbergen,GM0158,9.5,5.7,7.1,10.1,51.9,5
+2021,Gemeente,Overijssel,Hardenberg,GM0160,23.5,5.3,6.9,10.4,50.8,5
+2021,Gemeente,Overijssel,Hellendoorn,GM0163,14.2,4.3,6,9.6,49.8,4.8
+2021,Gemeente,Overijssel,Hengelo (O.),GM0164,36.1,8.5,6.1,16.8,47.7,4.9
+2021,Gemeente,Overijssel,Hof van Twente,GM1735,14.3,5.9,8.4,11.1,53.9,5.2
+2021,Gemeente,Overijssel,Kampen,GM0166,21.2,5.7,4.8,12.6,44.2,4.4
+2021,Gemeente,Overijssel,Losser,GM0168,9.1,7,8.8,12,52.7,5.3
+2021,Gemeente,Overijssel,Oldenzaal,GM0173,13.7,6.6,6.1,13.7,44.3,4.9
+2021,Gemeente,Overijssel,Olst-Wijhe,GM1773,7.3,4.3,6.2,10.2,45.8,4.6
+2021,Gemeente,Overijssel,Ommen,GM0175,7,5.7,8.1,10.1,49.7,5.1
+2021,Gemeente,Overijssel,Raalte,GM0177,15.1,4.2,6.4,9.6,41.4,4.6
+2021,Gemeente,Overijssel,Rijssen-Holten,GM1742,14,5.3,5.9,10.6,50.8,4.8
+2021,Gemeente,Overijssel,Staphorst,GM0180,5.6,3.7,9.6,7,57.6,5.3
+2021,Gemeente,Overijssel,Steenwijkerland,GM1708,18.5,8,8.9,12.7,53.4,5.3
+2021,Gemeente,Overijssel,Tubbergen,GM0183,7.9,5.2,9.9,8.9,56.3,5.4
+2021,Gemeente,Overijssel,Twenterand,GM1700,12.8,7.7,8.6,12.3,57.5,5.3
+2021,Gemeente,Overijssel,Wierden,GM0189,9.3,4.9,6.3,8.2,53,4.8
+2021,Gemeente,Overijssel,Zwartewaterland,GM1896,8.3,5.4,4.9,9,54.1,4.6
+2021,Gemeente,Overijssel,Zwolle,GM0193,55.1,5.9,4,15.2,32.1,4
+2021,Provincie,Utrecht,Utrecht,PV26,540.5,4.8,4.2,11.9,36.7,4.1
+2021,Gemeente,Utrecht,Amersfoort,GM0307,64.6,4.8,3.4,12.8,30,3.8
+2021,Gemeente,Utrecht,Baarn,GM0308,10.5,4.6,6.3,10.2,51.4,4.7
+2021,Gemeente,Utrecht,Bunnik,GM0312,6.1,2.2,4,6.5,42.2,4
+2021,Gemeente,Utrecht,Bunschoten,GM0313,7.9,3,4.1,7.9,43,4.3
+2021,Gemeente,Utrecht,De Bilt,GM0310,18,5.4,6.3,10.3,55.7,4.6
+2021,Gemeente,Utrecht,De Ronde Venen,GM0736,17.4,3.9,5,8.9,40.1,4.2
+2021,Gemeente,Utrecht,Eemnes,GM0317,3.8,3.6,6.2,8.1,37.3,4.4
+2021,Gemeente,Utrecht,Houten,GM0321,19.6,1.9,2.4,8.1,17.4,3.4
+2021,Gemeente,Utrecht,IJsselstein,GM0353,13.7,4.3,2.8,10,30.9,3.8
+2021,Gemeente,Utrecht,Leusden,GM0327,12.7,2.4,3.6,7.8,32.9,3.9
+2021,Gemeente,Utrecht,Lopik,GM0331,5.4,3.7,5.8,8.1,49,4.4
+2021,Gemeente,Utrecht,Montfoort,GM0335,5.4,3.1,4.5,6.5,44.3,4.2
+2021,Gemeente,Utrecht,Nieuwegein,GM0356,27.6,4.8,3.9,11.8,30.6,4.3
+2021,Gemeente,Utrecht,Oudewater,GM0589,4,5.3,5.2,8.7,49.4,4.4
+2021,Gemeente,Utrecht,Renswoude,GM0339,2,3.5,5.2,7.1,42.4,4.3
+2021,Gemeente,Utrecht,Rhenen,GM0340,7.8,5.4,6,10.4,47.2,4.6
+2021,Gemeente,Utrecht,Soest,GM0342,19.6,4.8,5.1,10.5,48,4.5
+2021,Gemeente,Utrecht,Stichtse Vecht,GM1904,26.2,3.9,4.4,9.1,42.4,4.2
+2021,Gemeente,Utrecht,Utrecht (gemeente),GM0344,136.8,5.8,3.6,16.1,30.1,3.8
+2021,Gemeente,Utrecht,Utrechtse Heuvelrug,GM1581,19.6,4.2,5.7,9.4,49.4,4.6
+2021,Gemeente,Utrecht,Veenendaal,GM0345,26.9,7,3.9,13.4,37.2,4.2
+2021,Gemeente,Utrecht,Vijfheerenlanden,GM1961,22.7,4.3,4.3,10.8,41,4.1
+2021,Gemeente,Utrecht,Wijk bij Duurstede,GM0352,9.8,3.9,4.2,7.9,37.1,4.1
+2021,Gemeente,Utrecht,Woerden,GM0632,21.1,3.6,3.7,9.5,36.6,3.9
+2021,Gemeente,Utrecht,Woudenberg,GM0351,5,3.4,4.6,7,39.8,4.2
+2021,Gemeente,Utrecht,Zeist,GM0355,26.4,7,5.5,14,50.3,4.5
+2021,Provincie,Zeeland,Zeeland,PV29,167.3,5.9,6,12.9,49.3,4.6
+2021,Gemeente,Zeeland,Borsele,GM0654,9.2,3.9,5.5,8.7,51.5,4.4
+2021,Gemeente,Zeeland,Goes,GM0664,17,5.9,4,14,40.4,4.1
+2021,Gemeente,Zeeland,Hulst,GM0677,12.2,6,8.1,12.1,55.8,5
+2021,Gemeente,Zeeland,Kapelle,GM0678,5.1,3.2,4.3,7.3,45.5,4.2
+2021,Gemeente,Zeeland,Middelburg (Z.),GM0687,21.6,5.8,4.7,14.5,43.3,4.3
+2021,Gemeente,Zeeland,Noord-Beveland,GM1695,3.5,6.1,6.8,11.1,55.9,4.8
+2021,Gemeente,Zeeland,Reimerswaal,GM0703,8.5,5,5,10.9,53.7,4.4
+2021,Gemeente,Zeeland,Schouwen-Duiveland,GM1676,14.9,4.9,6.7,10.6,52.1,4.8
+2021,Gemeente,Zeeland,Sluis,GM1714,10.7,7.3,9.8,13.4,59.7,5.4
+2021,Gemeente,Zeeland,Terneuzen,GM0715,24.6,7.6,7,14.5,52.9,4.8
+2021,Gemeente,Zeeland,Tholen,GM0716,10.3,5.9,5.8,11.6,52,4.6
+2021,Gemeente,Zeeland,Veere,GM0717,9.1,3.9,6.6,7.7,54.1,4.7
+2021,Gemeente,Zeeland,Vlissingen,GM0718,20.5,6.8,4.9,17.7,40.6,4.5
+2021,Provincie,Zuid-Holland,Zuid-Holland,PV28,1535.2,7.2,4.8,16.3,38.5,4.3
+2021,Gemeente,Zuid-Holland,'s-Gravenhage (gemeente),GM0518,222,9.7,6.4,22.7,37.6,4.6
+2021,Gemeente,Zuid-Holland,Alblasserdam,GM0482,8,6.9,3.3,12.7,46.8,4.1
+2021,Gemeente,Zuid-Holland,Albrandswaard,GM0613,10,3.5,3.5,8,35.5,3.8
+2021,Gemeente,Zuid-Holland,Alphen aan den Rijn,GM0484,46.2,4.8,3.4,10.2,39.1,3.9
+2021,Gemeente,Zuid-Holland,Barendrecht,GM0489,18.4,2.6,2.5,7.7,25.2,3.6
+2021,Gemeente,Zuid-Holland,Bodegraven-Reeuwijk,GM1901,13.8,4,4.5,8.7,44.6,4.1
+2021,Gemeente,Zuid-Holland,Capelle aan den IJssel,GM0502,29.5,7.5,4.2,16,34.3,4.4
+2021,Gemeente,Zuid-Holland,Delft,GM0503,41.3,9.5,4.6,19.1,39.1,4.2
+2021,Gemeente,Zuid-Holland,Dordrecht,GM0505,51,7.5,5.2,16.8,43.3,4.5
+2021,Gemeente,Zuid-Holland,Goeree-Overflakkee,GM1924,20.4,5.4,4.8,11.2,47.6,4.3
+2021,Gemeente,Zuid-Holland,Gorinchem,GM0512,15.9,6.7,3.8,15.7,33.1,4.1
+2021,Gemeente,Zuid-Holland,Gouda,GM0513,31.4,6.3,3.5,15.2,42.2,4
+2021,Gemeente,Zuid-Holland,Hardinxveld-Giessendam,GM0523,7,2.6,2.9,9.8,42.1,3.9
+2021,Gemeente,Zuid-Holland,Hendrik-Ido-Ambacht,GM0531,11.8,3.3,2.1,8.8,35.1,3.6
+2021,Gemeente,Zuid-Holland,Hillegom,GM0534,9.2,3.9,3.9,9.6,41.4,4.1
+2021,Gemeente,Zuid-Holland,Hoeksche Waard,GM1963,36.2,4.4,3.9,8.6,46.3,4.1
+2021,Gemeente,Zuid-Holland,Kaag en Braassem,GM1884,11.1,4.7,4.5,9.1,42.7,4.1
+2021,Gemeente,Zuid-Holland,Katwijk,GM0537,25.4,4,3.2,10.4,38.1,3.9
+2021,Gemeente,Zuid-Holland,Krimpen aan den IJssel,GM0542,12,4.7,3.7,12.1,41.1,4.2
+2021,Gemeente,Zuid-Holland,Krimpenerwaard,GM1931,22.5,5.4,4.9,10.4,49.5,4.4
+2021,Gemeente,Zuid-Holland,Lansingerland,GM1621,23.3,2.3,3.2,7.6,28.9,3.6
+2021,Gemeente,Zuid-Holland,Leiden,GM0546,51.1,7.2,4.3,17,40.5,4.1
+2021,Gemeente,Zuid-Holland,Leiderdorp,GM0547,11.7,3.3,3.2,9.8,33.5,3.9
+2021,Gemeente,Zuid-Holland,Leidschendam-Voorburg,GM1916,34.2,6.6,4.6,13.9,47.7,4.2
+2021,Gemeente,Zuid-Holland,Lisse,GM0553,9.9,3.1,3.2,9.8,36.6,3.9
+2021,Gemeente,Zuid-Holland,Maassluis,GM0556,14.3,7.9,3.8,14.8,43.4,4.1
+2021,Gemeente,Zuid-Holland,Midden-Delfland,GM1842,7.6,2.3,3.5,6.8,33.6,3.6
+2021,Gemeente,Zuid-Holland,Molenlanden,GM1978,16.3,5.1,4.8,8.9,53.4,4.3
+2021,Gemeente,Zuid-Holland,Nieuwkoop,GM0569,11,4.9,5.2,7.3,49,4.3
+2021,Gemeente,Zuid-Holland,Nissewaard,GM1930,37,5.9,4.4,14.3,32.5,4.2
+2021,Gemeente,Zuid-Holland,Noordwijk,GM0575,17.9,3.8,4.8,9.7,41.8,4.2
+2021,Gemeente,Zuid-Holland,Oegstgeest,GM0579,10.2,3.1,3.8,8,38.4,3.8
+2021,Gemeente,Zuid-Holland,Papendrecht,GM0590,13.8,5.9,3.6,11.4,40.4,4.1
+2021,Gemeente,Zuid-Holland,Pijnacker-Nootdorp,GM1926,20.5,2.5,2.9,6.6,25.7,3.4
+2021,Gemeente,Zuid-Holland,Ridderkerk,GM0597,20.3,5.1,3.9,12.8,40.8,4.2
+2021,Gemeente,Zuid-Holland,Rijswijk (ZH.),GM0603,24.9,7.7,5.1,16.2,44.6,4.3
+2021,Gemeente,Zuid-Holland,Rotterdam,GM0599,275.4,10.8,6.4,25.6,33,4.7
+2021,Gemeente,Zuid-Holland,Schiedam,GM0606,33.3,9.6,4.8,18.5,44.2,4.4
+2021,Gemeente,Zuid-Holland,Sliedrecht,GM0610,10.2,7.1,3.1,13.5,46.6,4.1
+2021,Gemeente,Zuid-Holland,Teylingen,GM1525,15.2,3.1,3.4,7.7,36,3.8
+2021,Gemeente,Zuid-Holland,Vlaardingen,GM0622,32.6,6.1,3.9,18.2,39.3,4.3
+2021,Gemeente,Zuid-Holland,Voorne aan Zee,GM1992,30.9,5,4.3,10.5,43.8,4.1
+2021,Gemeente,Zuid-Holland,Voorschoten,GM0626,10.7,5.2,3.8,9,50.4,4
+2021,Gemeente,Zuid-Holland,Waddinxveen,GM0627,12.1,5,3.2,10.3,38.9,3.9
+2021,Gemeente,Zuid-Holland,Wassenaar,GM0629,10.9,6.3,8.1,12.3,59.5,4.9
+2021,Gemeente,Zuid-Holland,Westland,GM1783,43,4.2,4.2,8.6,39.4,4
+2021,Gemeente,Zuid-Holland,Zoetermeer,GM0637,53.3,5.9,3.4,13.3,29.2,3.9
+2021,Gemeente,Zuid-Holland,Zoeterwoude,GM0638,3.5,2.4,3.6,6,40.9,3.7
+2021,Gemeente,Zuid-Holland,Zuidplas,GM1892,17.5,5.2,3.7,9.4,40.2,3.9
+2021,Gemeente,Zuid-Holland,Zwijndrecht,GM0642,19.4,7.6,4.3,14.5,48.2,4.4
+2020,Nederland,Totaal,Nederland,NL01,7140.2,6.9,4.5,15.2,46,4.3
+2020,Provincie,Drenthe,Drenthe,PV22,206.6,6.7,6.2,14.1,51.5,4.8
+2020,Gemeente,Drenthe,Aa en Hunze,GM1680,10.4,6,8.2,9.8,61.1,5.1
+2020,Gemeente,Drenthe,Assen,GM0106,29.7,5.9,3.9,15.9,35.9,4.2
+2020,Gemeente,Drenthe,Borger-Odoorn,GM1681,10.6,8.4,9.4,12.9,63.4,5.4
+2020,Gemeente,Drenthe,Coevorden,GM0109,14.5,5.6,6.7,14.2,55.4,5
+2020,Gemeente,Drenthe,De Wolden,GM1690,9.6,4.1,7.8,9.7,55.3,4.9
+2020,Gemeente,Drenthe,Emmen,GM0114,46,9.5,7.1,17.8,54.1,5.1
+2020,Gemeente,Drenthe,Hoogeveen,GM0118,23.1,7.1,5.2,15.5,47.5,4.7
+2020,Gemeente,Drenthe,Meppel,GM0119,14.5,6.9,3.5,14.3,45.7,4.2
+2020,Gemeente,Drenthe,Midden-Drenthe,GM1731,13.4,4.7,6,11.2,53.9,4.7
+2020,Gemeente,Drenthe,Noordenveld,GM1699,13.4,6.3,6.8,11.6,56.2,4.9
+2020,Gemeente,Drenthe,Tynaarlo,GM1730,13.6,5.1,6.1,9.3,56.8,4.6
+2020,Gemeente,Drenthe,Westerveld,GM1701,7.8,3.8,8,9.7,56.2,5
+2020,Provincie,Flevoland,Flevoland,PV24,158.4,4.5,3.5,13.8,26.3,4.1
+2020,Gemeente,Flevoland,Almere,GM0034,78.9,3.8,3,14.3,14.4,4.1
+2020,Gemeente,Flevoland,Dronten,GM0303,16,4.1,3.5,11.2,34.4,4
+2020,Gemeente,Flevoland,Lelystad,GM0995,30.8,6.2,4.3,16.4,36.4,4.4
+2020,Gemeente,Flevoland,Noordoostpolder,GM0171,18.3,6.5,4.8,13.1,50.4,4.5
+2020,Gemeente,Flevoland,Urk,GM0184,6.1,3.5,3.3,8.4,47.3,4.2
+2020,Gemeente,Flevoland,Zeewolde,GM0050,8.2,2.5,2.6,9.1,18.9,3.6
+2020,Provincie,Fryslân,Fryslân,PV21,275.7,8.6,6.1,16.6,56.4,4.8
+2020,Gemeente,Fryslân,Achtkarspelen,GM0059,11.4,12.2,8.5,17.9,67.6,5.3
+2020,Gemeente,Fryslân,Ameland,GM0060,1.4,6.1,9.7,8.8,71.4,5.5
+2020,Gemeente,Fryslân,Dantumadiel,GM1891,7.6,9.6,7.2,17.5,61.1,5.1
+2020,Gemeente,Fryslân,De Fryske Marren,GM1940,21.3,6.7,6,12.4,58.3,4.7
+2020,Gemeente,Fryslân,Harlingen,GM0072,7,6.7,4.6,20.2,46.8,4.5
+2020,Gemeente,Fryslân,Heerenveen,GM0074,21.7,6.9,5.3,15.6,50.7,4.5
+2020,Gemeente,Fryslân,Leeuwarden,GM0080,54.9,9.7,5.1,21.8,48.3,4.5
+2020,Gemeente,Fryslân,Noardeast-Fryslân,GM1970,18.9,10.2,7.8,15.9,65.9,5.2
+2020,Gemeente,Fryslân,Ooststellingwerf,GM0085,10.7,6.1,7,15.4,54.6,5
+2020,Gemeente,Fryslân,Opsterland,GM0086,12.1,7.9,7.6,12.6,62.2,4.9
+2020,Gemeente,Fryslân,Schiermonnikoog,GM0088,0.4,4.7,7.5,11.9,60.7,5
+2020,Gemeente,Fryslân,Smallingerland,GM0090,24,8.6,5.4,17.7,50.6,4.7
+2020,Gemeente,Fryslân,Súdwest-Fryslân,GM1900,38.4,8.7,5.9,15.4,57,4.7
+2020,Gemeente,Fryslân,Terschelling,GM0093,1.9,7.9,8.5,11,71.6,5.1
+2020,Gemeente,Fryslân,Tytsjerksteradiel,GM0737,13.2,5.7,5.6,12.1,59.7,4.7
+2020,Gemeente,Fryslân,Vlieland,GM0096,0.5,7.2,8.5,12.4,52.1,4.4
+2020,Gemeente,Fryslân,Waadhoeke,GM1949,19.5,9.7,6.6,14.8,65.8,4.9
+2020,Gemeente,Fryslân,Weststellingwerf,GM0098,10.9,8.5,7.6,15,60,5.2
+2020,Provincie,Gelderland,Gelderland,PV25,836.4,6.4,4.7,13.7,48.2,4.4
+2020,Gemeente,Gelderland,Aalten,GM0197,11.1,5.7,5.3,10.5,59.1,4.6
+2020,Gemeente,Gelderland,Apeldoorn,GM0200,67.6,5.5,4.1,13.3,46.7,4.3
+2020,Gemeente,Gelderland,Arnhem,GM0202,67.8,10.6,4.8,22.8,41.6,4.4
+2020,Gemeente,Gelderland,Barneveld,GM0203,20.8,4.2,4.7,9.4,43.1,4.2
+2020,Gemeente,Gelderland,Berg en Dal,GM1945,14.7,7.9,5.1,14.8,53.9,4.6
+2020,Gemeente,Gelderland,Berkelland,GM1859,18.1,6.3,6,11,57.9,4.8
+2020,Gemeente,Gelderland,Beuningen,GM0209,10.6,4.3,3.6,10.8,45.4,4.2
+2020,Gemeente,Gelderland,Bronckhorst,GM1876,14.9,5.9,7.8,9.9,61.4,5.1
+2020,Gemeente,Gelderland,Brummen,GM0213,8.7,6,5.2,11.3,55.5,4.5
+2020,Gemeente,Gelderland,Buren,GM0214,10.1,5.1,6.3,8.9,61.1,4.7
+2020,Gemeente,Gelderland,Culemborg,GM0216,11.8,3.9,2.3,11.7,36.4,3.8
+2020,Gemeente,Gelderland,Doesburg,GM0221,5,8.8,5,18,47.9,4.5
+2020,Gemeente,Gelderland,Doetinchem,GM0222,24.5,7,4.3,15.6,45.7,4.4
+2020,Gemeente,Gelderland,Druten,GM0225,7.5,6.2,4,11.4,48.5,4.3
+2020,Gemeente,Gelderland,Duiven,GM0226,10.4,5.1,3.8,11.7,35.3,4.4
+2020,Gemeente,Gelderland,Ede,GM0228,44.3,3.5,3.6,10.6,40,4
+2020,Gemeente,Gelderland,Elburg,GM0230,8.7,5.4,4.7,11,53.3,4.3
+2020,Gemeente,Gelderland,Epe,GM0232,13.3,6.2,6.6,11.1,59.3,4.9
+2020,Gemeente,Gelderland,Ermelo,GM0233,10.1,5.2,4.1,10.7,49.7,4.1
+2020,Gemeente,Gelderland,Harderwijk,GM0243,18.5,6.1,2.9,13,40.5,3.9
+2020,Gemeente,Gelderland,Hattem,GM0244,4.9,4.3,4,8.2,58.9,4.3
+2020,Gemeente,Gelderland,Heerde,GM0246,7.3,4.9,5.4,8.3,60.7,4.7
+2020,Gemeente,Gelderland,Heumen,GM0252,6.7,3.6,4,9.9,42.4,4.1
+2020,Gemeente,Gelderland,Lingewaard,GM1705,18.8,3.9,4.2,10,45.6,4.2
+2020,Gemeente,Gelderland,Lochem,GM0262,14,5.8,6.6,10.7,56.3,4.8
+2020,Gemeente,Gelderland,Maasdriel,GM0263,9.4,4.5,5.9,10.2,53,4.6
+2020,Gemeente,Gelderland,Montferland,GM1955,14.9,6.5,5.4,12.6,51.4,4.6
+2020,Gemeente,Gelderland,Neder-Betuwe,GM1740,8.3,5.9,5.4,11.5,54.8,4.5
+2020,Gemeente,Gelderland,Nijkerk,GM0267,16.3,4.1,3.4,10.1,45.5,4
+2020,Gemeente,Gelderland,Nijmegen,GM0268,71.3,8.4,4,21.8,37.7,4.2
+2020,Gemeente,Gelderland,Nunspeet,GM0302,10.2,5.7,5.3,10.7,55.8,4.5
+2020,Gemeente,Gelderland,Oldebroek,GM0269,8.7,6.4,5.8,10.6,57.5,4.7
+2020,Gemeente,Gelderland,Oost Gelre,GM1586,12.1,5.2,5.4,9.1,55.7,4.6
+2020,Gemeente,Gelderland,Oude IJsselstreek,GM1509,16.3,6.7,6,13.8,55.3,4.8
+2020,Gemeente,Gelderland,Overbetuwe,GM1734,18.8,5.9,4.5,9.9,49.3,4.2
+2020,Gemeente,Gelderland,Putten,GM0273,9,5.2,5.4,9.9,55.7,4.5
+2020,Gemeente,Gelderland,Renkum,GM0274,13.8,7.1,5.1,11.8,58.2,4.5
+2020,Gemeente,Gelderland,Rheden,GM0275,19.4,11,5.5,16,65.3,4.8
+2020,Gemeente,Gelderland,Rozendaal,GM0277,0.7,2.7,6.1,3.3,58.1,4.3
+2020,Gemeente,Gelderland,Scherpenzeel,GM0279,3.8,3.9,3.9,7.5,56.8,4.3
+2020,Gemeente,Gelderland,Tiel,GM0281,16.8,7.6,4.1,15.8,43.7,4.3
+2020,Gemeente,Gelderland,Voorst,GM0285,9.7,5.6,5.6,9.4,58,4.6
+2020,Gemeente,Gelderland,Wageningen,GM0289,13.7,7.1,3.2,15.8,40.3,3.9
+2020,Gemeente,Gelderland,West Betuwe,GM1960,19.5,4.4,4.6,9,53.8,4.2
+2020,Gemeente,Gelderland,West Maas en Waal,GM0668,7.6,3.7,6.1,10.4,52.2,4.6
+2020,Gemeente,Gelderland,Westervoort,GM0293,6.4,7.1,4.6,14.1,40.4,4.5
+2020,Gemeente,Gelderland,Wijchen,GM0296,17,5.1,4.1,11.8,42.3,4.2
+2020,Gemeente,Gelderland,Winterswijk,GM0294,12.1,8.3,6.7,13.7,59.2,4.9
+2020,Gemeente,Gelderland,Zaltbommel,GM0297,10.7,4.5,4.4,10.9,48.5,4.2
+2020,Gemeente,Gelderland,Zevenaar,GM0299,19,7.5,4.6,13.4,54.1,4.5
+2020,Gemeente,Gelderland,Zutphen,GM0301,20.7,7.7,4.1,17.3,45.6,4.3
+2020,Provincie,Groningen,Groningen,PV20,248.2,10.1,7.6,19.6,50.1,5
+2020,Gemeente,Groningen,Eemsdelta,GM1979,20.5,11.3,8.5,19,52.7,5.2
+2020,Gemeente,Groningen,Groningen (gemeente),GM0014,96.2,8.7,5.3,23.8,35.7,4.4
+2020,Gemeente,Groningen,Het Hogeland,GM1966,20.6,10.4,8.5,15.1,57.6,5.3
+2020,Gemeente,Groningen,Midden-Groningen,GM1952,26.3,10.8,8.2,18.4,52.9,5.2
+2020,Gemeente,Groningen,Oldambt,GM1895,17.1,13.1,10.5,19,64.1,5.7
+2020,Gemeente,Groningen,Pekela,GM0765,5.3,14.8,12.2,19.6,71.1,6.1
+2020,Gemeente,Groningen,Stadskanaal,GM0037,13.9,11.6,9.3,18.9,60.2,5.6
+2020,Gemeente,Groningen,Veendam,GM0047,12.1,11.1,8.7,18,56.4,5.5
+2020,Gemeente,Groningen,Westerkwartier,GM1969,25.4,8.3,7.6,12,60.8,5
+2020,Gemeente,Groningen,Westerwolde,GM1950,10.7,12.5,12.9,15.7,73.4,6.2
+2020,Provincie,Limburg,Limburg,PV31,484.3,8.4,6.2,15.7,51.4,4.7
+2020,Gemeente,Limburg,Beek (L.),GM0888,7.1,5.7,5.3,12.5,53,4.6
+2020,Gemeente,Limburg,Beekdaelen,GM1954,15.4,7.3,7,10.9,60.2,4.9
+2020,Gemeente,Limburg,Beesel,GM0889,5.7,6.8,5.8,13.4,49.3,4.7
+2020,Gemeente,Limburg,Bergen (L.),GM0893,5.4,8.6,6.9,11.8,66.5,5
+2020,Gemeente,Limburg,Brunssum,GM0899,13.1,10.7,6.1,17.8,54.2,4.9
+2020,Gemeente,Limburg,Echt-Susteren,GM1711,13.6,6.8,6.7,11.7,55.5,4.8
+2020,Gemeente,Limburg,Eijsden-Margraten,GM1903,10.4,4,5.8,7.1,53.1,4.5
+2020,Gemeente,Limburg,Gennep,GM0907,6.8,6.5,5.5,12.2,55,4.6
+2020,Gemeente,Limburg,Gulpen-Wittem,GM1729,6.1,6.2,6.5,11.4,58.3,4.8
+2020,Gemeente,Limburg,Heerlen,GM0917,41.9,14.5,7.6,24.2,48.6,5.1
+2020,Gemeente,Limburg,Horst aan de Maas,GM1507,16.7,3.9,6.2,8.4,52.1,4.6
+2020,Gemeente,Limburg,Kerkrade,GM0928,21.6,10.7,7.8,21.5,46.5,5.1
+2020,Gemeente,Limburg,Landgraaf,GM0882,17,9.1,5.9,16.6,49.3,4.7
+2020,Gemeente,Limburg,Leudal,GM1640,14.9,4.8,6.6,8.7,57.9,4.8
+2020,Gemeente,Limburg,Maasgouw,GM1641,10,5.9,7.2,9.8,58.3,4.9
+2020,Gemeente,Limburg,Maastricht,GM0935,50.2,12.5,5.5,21.5,51.3,4.6
+2020,Gemeente,Limburg,Meerssen,GM0938,8.1,5.8,5.9,10.3,57.9,4.7
+2020,Gemeente,Limburg,Mook en Middelaar,GM0944,3.4,5.3,5.3,9.3,52.8,4.5
+2020,Gemeente,Limburg,Nederweert,GM0946,7,5.6,6.4,10.7,50.6,4.7
+2020,Gemeente,Limburg,Peel en Maas,GM1894,17.2,3.8,5.7,9.1,48.3,4.5
+2020,Gemeente,Limburg,Roerdalen,GM1669,8.8,6,6.7,10.6,60.6,4.9
+2020,Gemeente,Limburg,Roermond,GM0957,25.5,9.1,5.7,18.4,46.7,4.6
+2020,Gemeente,Limburg,Simpelveld,GM0965,4.8,7.5,6.1,12.3,57.8,4.9
+2020,Gemeente,Limburg,Sittard-Geleen,GM1883,42.4,10.2,6.2,18,52.9,4.8
+2020,Gemeente,Limburg,Stein (L.),GM0971,11.1,4.5,4.9,10.8,50.3,4.5
+2020,Gemeente,Limburg,Vaals,GM0981,4.6,14.6,10.3,23,53.3,5.5
+2020,Gemeente,Limburg,Valkenburg aan de Geul,GM0994,7.4,8.8,7.1,13.9,57.9,4.9
+2020,Gemeente,Limburg,Venlo,GM0983,43.8,7.6,5.4,17.3,46.3,4.7
+2020,Gemeente,Limburg,Venray,GM0984,17.8,5.1,5.5,12.4,43.5,4.5
+2020,Gemeente,Limburg,Voerendaal,GM0986,5.4,5.9,5.6,9.1,57.5,4.6
+2020,Gemeente,Limburg,Weert,GM0988,21.3,5.9,4.9,13.6,49,4.4
+2020,Provincie,Noord-Brabant,Noord-Brabant,PV30,1048.6,6.3,4.6,13.2,48,4.3
+2020,Gemeente,Noord-Brabant,'s-Hertogenbosch,GM0796,67.1,6.8,3.8,15.4,40.2,4.1
+2020,Gemeente,Noord-Brabant,Alphen-Chaam,GM1723,3.9,4.7,7.2,7.8,62.8,4.8
+2020,Gemeente,Noord-Brabant,Altena,GM1959,21,5.5,4.5,10.4,57.5,4.4
+2020,Gemeente,Noord-Brabant,Asten,GM0743,6.4,4.8,5.7,10.2,53.2,4.7
+2020,Gemeente,Noord-Brabant,Baarle-Nassau,GM0744,2.6,7.4,9.6,11.9,64.8,5.4
+2020,Gemeente,Noord-Brabant,Bergeijk,GM1724,7.4,4.7,6.1,7.8,61.1,4.7
+2020,Gemeente,Noord-Brabant,Bergen op Zoom,GM0748,28.5,7,3.9,15.8,47.8,4.2
+2020,Gemeente,Noord-Brabant,Bernheze,GM1721,11.8,4.2,5.4,8.5,51.3,4.5
+2020,Gemeente,Noord-Brabant,Best,GM0753,12,3.7,3.4,9.5,40.8,3.9
+2020,Gemeente,Noord-Brabant,Bladel,GM1728,8.2,4.3,5,8.5,56.1,4.4
+2020,Gemeente,Noord-Brabant,Boekel,GM0755,4,4,5.9,8.1,58.5,4.6
+2020,Gemeente,Noord-Brabant,Boxtel,GM0757,13.2,3.9,3.9,11.9,42.7,4.2
+2020,Gemeente,Noord-Brabant,Breda,GM0758,76.2,6.7,4.5,15.2,43.8,4.3
+2020,Gemeente,Noord-Brabant,Cranendonck,GM1706,8.5,5.8,6.2,10.5,58.8,4.8
+2020,Gemeente,Noord-Brabant,Deurne,GM0762,13.1,5.9,5.9,11,54.2,4.7
+2020,Gemeente,Noord-Brabant,Dongen,GM0766,10.6,5.2,4.2,10.1,53.2,4.2
+2020,Gemeente,Noord-Brabant,Drimmelen,GM1719,11,4.3,3.9,8.5,59.3,4.3
+2020,Gemeente,Noord-Brabant,Eersel,GM0770,7.7,3.7,5.1,8.5,55.3,4.5
+2020,Gemeente,Noord-Brabant,Eindhoven,GM0772,99.3,9.5,4.5,18,44.4,4.2
+2020,Gemeente,Noord-Brabant,Etten-Leur,GM0777,18,6.4,3.6,12.3,45.7,4.1
+2020,Gemeente,Noord-Brabant,Geertruidenberg,GM0779,9.1,5.3,3.3,11.9,48.8,4.2
+2020,Gemeente,Noord-Brabant,Geldrop-Mierlo,GM1771,16.8,5.7,4.2,12.4,46.9,4.3
+2020,Gemeente,Noord-Brabant,Gemert-Bakel,GM1652,11.9,5.1,5.5,11.7,54,4.6
+2020,Gemeente,Noord-Brabant,Gilze en Rijen,GM0784,10.6,6.4,4.1,11.9,50.3,4.2
+2020,Gemeente,Noord-Brabant,Goirle,GM0785,9.7,5,3.6,10.4,49.3,4.2
+2020,Gemeente,Noord-Brabant,Halderberge,GM1655,12.4,6.5,5.5,12.2,56.6,4.6
+2020,Gemeente,Noord-Brabant,Heeze-Leende,GM1658,6.4,4.4,5.8,7.9,55.6,4.5
+2020,Gemeente,Noord-Brabant,Helmond,GM0794,38.4,7.8,4.6,18.6,36,4.5
+2020,Gemeente,Noord-Brabant,Heusden,GM0797,17.9,6.5,4.6,10.6,54.4,4.3
+2020,Gemeente,Noord-Brabant,Hilvarenbeek,GM0798,6.2,4.5,6.4,7.8,58.7,4.6
+2020,Gemeente,Noord-Brabant,Laarbeek,GM1659,9,5.7,5,11.2,54,4.6
+2020,Gemeente,Noord-Brabant,Land van Cuijk,GM1982,36.1,5.5,5.5,10.7,54.1,4.6
+2020,Gemeente,Noord-Brabant,Loon op Zand,GM0809,9.6,5.8,4.5,10.6,55.8,4.5
+2020,Gemeente,Noord-Brabant,Maashorst,GM1991,23.7,4.4,4.5,11.5,44.5,4.3
+2020,Gemeente,Noord-Brabant,Meierijstad,GM1948,32.3,4.2,4.5,9.7,48.3,4.3
+2020,Gemeente,Noord-Brabant,Moerdijk,GM1709,15.5,6.3,4.1,11.4,55.6,4.2
+2020,Gemeente,Noord-Brabant,Nuenen Gerwen en Nederwetten,GM0820,9.7,3.7,4.6,7.9,48.4,4.3
+2020,Gemeente,Noord-Brabant,Oirschot,GM0823,7.3,4.2,5.4,7.9,57.7,4.5
+2020,Gemeente,Noord-Brabant,Oisterwijk,GM0824,12.9,5.2,5,9.8,55,4.4
+2020,Gemeente,Noord-Brabant,Oosterhout,GM0826,23.6,4.9,3.2,12.9,42.7,4.1
+2020,Gemeente,Noord-Brabant,Oss,GM0828,37.5,6.7,5,13.7,48.3,4.5
+2020,Gemeente,Noord-Brabant,Reusel-De Mierden,GM1667,5.1,4.5,6.2,7.1,60,4.7
+2020,Gemeente,Noord-Brabant,Roosendaal,GM1674,32.4,7.6,4.9,15,49.4,4.4
+2020,Gemeente,Noord-Brabant,Rucphen,GM0840,9.1,8.7,8.8,13.2,67.9,5.3
+2020,Gemeente,Noord-Brabant,Sint-Michielsgestel,GM0845,11.3,3.9,4.8,8,53.5,4.4
+2020,Gemeente,Noord-Brabant,Someren,GM0847,7.6,4.2,5.5,9.9,47,4.5
+2020,Gemeente,Noord-Brabant,Son en Breugel,GM0848,6.7,3.1,4.6,7.1,48.4,4.2
+2020,Gemeente,Noord-Brabant,Steenbergen,GM0851,9.7,5.7,4.5,11.2,56.3,4.4
+2020,Gemeente,Noord-Brabant,Tilburg,GM0855,89.2,7.6,4.3,18.1,38.9,4.4
+2020,Gemeente,Noord-Brabant,Valkenswaard,GM0858,13.9,5.4,4.4,12.4,44.6,4.4
+2020,Gemeente,Noord-Brabant,Veldhoven,GM0861,18.9,3.5,3.1,9.4,44.8,4
+2020,Gemeente,Noord-Brabant,Vught,GM0865,12.6,5.1,4.3,10,55.2,4.2
+2020,Gemeente,Noord-Brabant,Waalre,GM0866,7.2,4.7,4.6,8.5,54.5,4.2
+2020,Gemeente,Noord-Brabant,Waalwijk,GM0867,20.3,6.4,4.2,13.6,52,4.4
+2020,Gemeente,Noord-Brabant,Woensdrecht,GM0873,9,6.2,5.9,11,61.3,4.7
+2020,Gemeente,Noord-Brabant,Zundert,GM0879,8.4,5.1,7.8,9.5,62.5,5
+2020,Provincie,Noord-Holland,Noord-Holland,PV27,1198.4,6.9,4,16.3,42.5,4
+2020,Gemeente,Noord-Holland,Aalsmeer,GM0358,12.1,4.4,4,8.4,41.9,3.9
+2020,Gemeente,Noord-Holland,Alkmaar,GM0361,47.8,6.3,3.6,15.5,43.6,4.1
+2020,Gemeente,Noord-Holland,Amstelveen,GM0362,36.9,5.9,3.3,12.3,44.7,3.8
+2020,Gemeente,Noord-Holland,Amsterdam,GM0363,380.5,9.9,4.3,24.7,33.7,3.9
+2020,Gemeente,Noord-Holland,Bergen (NH.),GM0373,13,4.1,6.2,10.4,54.3,4.6
+2020,Gemeente,Noord-Holland,Beverwijk,GM0375,17.6,4.8,3.2,14.4,36.9,4
+2020,Gemeente,Noord-Holland,Blaricum,GM0376,4.7,4,7.4,7.8,58.7,4.6
+2020,Gemeente,Noord-Holland,Bloemendaal,GM0377,9.1,3.9,6,7,68.7,4.4
+2020,Gemeente,Noord-Holland,Castricum,GM0383,15,2.7,3.2,7.2,49.3,3.8
+2020,Gemeente,Noord-Holland,Den Helder,GM0400,25.8,8.6,4.2,17,49.4,4.4
+2020,Gemeente,Noord-Holland,Diemen,GM0384,11.9,5.5,4,15.1,28.8,3.9
+2020,Gemeente,Noord-Holland,Dijk en Waard,GM1980,33.3,3.1,2.7,10.3,35.8,3.8
+2020,Gemeente,Noord-Holland,Drechterland,GM0498,7.8,4.1,4.8,9.8,49.6,4.3
+2020,Gemeente,Noord-Holland,Edam-Volendam,GM0385,14.4,3.8,5.1,8.3,53.1,4.5
+2020,Gemeente,Noord-Holland,Enkhuizen,GM0388,8.1,6.3,3.7,15,48.6,4.3
+2020,Gemeente,Noord-Holland,Gooise Meren,GM1942,24.3,6.8,5.1,11.4,66.6,4.3
+2020,Gemeente,Noord-Holland,Haarlem,GM0392,69.4,7.4,3.2,14.7,55.5,3.9
+2020,Gemeente,Noord-Holland,Haarlemmermeer,GM0394,59.6,3.2,2.9,9.6,34.7,3.7
+2020,Gemeente,Noord-Holland,Heemskerk,GM0396,16.5,5.1,3,11.4,37,3.8
+2020,Gemeente,Noord-Holland,Heemstede,GM0397,11.4,4.6,4.2,8.1,63.5,4.1
+2020,Gemeente,Noord-Holland,Heiloo,GM0399,10,2.1,3.6,8.5,48.9,3.9
+2020,Gemeente,Noord-Holland,Hilversum,GM0402,38.6,7.3,4.3,15,58.1,4.3
+2020,Gemeente,Noord-Holland,Hollands Kroon,GM1911,19.4,6.1,5.7,10.8,56,4.6
+2020,Gemeente,Noord-Holland,Hoorn,GM0405,30.9,4.7,3.1,14.7,34.8,4
+2020,Gemeente,Noord-Holland,Huizen,GM0406,17.7,4.4,3.4,12.6,41,4.1
+2020,Gemeente,Noord-Holland,Koggenland,GM1598,8.8,3.4,4.3,8.3,50.8,4.2
+2020,Gemeente,Noord-Holland,Landsmeer,GM0415,4.5,6.2,5.2,9.4,53.9,4.1
+2020,Gemeente,Noord-Holland,Laren (NH.),GM0417,4.7,6.6,10.3,10.1,76.5,5.4
+2020,Gemeente,Noord-Holland,Medemblik,GM0420,17.7,4.4,4.8,11.1,50,4.4
+2020,Gemeente,Noord-Holland,Oostzaan,GM0431,3.8,4.6,4.3,9.2,47,4.1
+2020,Gemeente,Noord-Holland,Opmeer,GM0432,4.6,3.7,4.3,8.7,50.6,4.2
+2020,Gemeente,Noord-Holland,Ouder-Amstel,GM0437,5.7,3.8,3.7,11.1,42.9,3.8
+2020,Gemeente,Noord-Holland,Purmerend,GM0439,38,4.7,3.4,12.9,28.3,4.3
+2020,Gemeente,Noord-Holland,Schagen,GM0441,19,5.1,4.5,10.3,51.4,4.3
+2020,Gemeente,Noord-Holland,Stede Broec,GM0532,8.6,4.3,3.4,10.4,45.5,4.1
+2020,Gemeente,Noord-Holland,Texel,GM0448,5.8,5,6.5,10.7,57.6,4.8
+2020,Gemeente,Noord-Holland,Uitgeest,GM0450,5.4,2.4,2.4,7.7,36.3,3.6
+2020,Gemeente,Noord-Holland,Uithoorn,GM0451,11.8,4.4,2.9,10.3,39.2,3.8
+2020,Gemeente,Noord-Holland,Velsen,GM0453,29,5.9,3.4,13.6,45.2,4
+2020,Gemeente,Noord-Holland,Waterland,GM0852,6.9,4.1,4.2,9.4,56.8,4.2
+2020,Gemeente,Noord-Holland,Wijdemeren,GM1696,9.7,4.5,5,9.7,58.4,4.3
+2020,Gemeente,Noord-Holland,Wormerland,GM0880,6.6,4.9,3.4,10.5,46.5,4
+2020,Gemeente,Noord-Holland,Zaanstad,GM0479,64.1,7.9,3.7,16.1,45.8,4.1
+2020,Gemeente,Noord-Holland,Zandvoort,GM0473,7.8,10.1,6.5,16.3,59.6,4.9
+2020,Provincie,Overijssel,Overijssel,PV23,467.6,7.3,5.1,15,50.6,4.5
+2020,Gemeente,Overijssel,Almelo,GM0141,30.8,11.3,5.7,21.8,51.5,4.8
+2020,Gemeente,Overijssel,Borne,GM0147,9.4,4.8,3.5,10.8,47.2,4.1
+2020,Gemeente,Overijssel,Dalfsen,GM0148,11.2,3.7,5.6,9,51.9,4.4
+2020,Gemeente,Overijssel,Deventer,GM0150,42.1,7.9,4.2,16.3,45.3,4.3
+2020,Gemeente,Overijssel,Dinkelland,GM1774,9.8,5.1,6.7,8.7,63.3,4.8
+2020,Gemeente,Overijssel,Enschede,GM0153,65,10.9,6.7,22.9,46.9,5
+2020,Gemeente,Overijssel,Haaksbergen,GM0158,9.5,5.7,5.5,10.6,57.6,4.7
+2020,Gemeente,Overijssel,Hardenberg,GM0160,23.2,5.8,5.3,11.3,56.5,4.6
+2020,Gemeente,Overijssel,Hellendoorn,GM0163,14.2,4.5,4.6,10,55.2,4.5
+2020,Gemeente,Overijssel,Hengelo (O.),GM0164,35.8,8.7,4.5,17.7,52.4,4.5
+2020,Gemeente,Overijssel,Hof van Twente,GM1735,14.2,5.9,6.2,11.5,58.6,4.7
+2020,Gemeente,Overijssel,Kampen,GM0166,20.9,6,3.6,13.2,48.9,4.1
+2020,Gemeente,Overijssel,Losser,GM0168,9,6.9,6.7,12.6,58.5,5
+2020,Gemeente,Overijssel,Oldenzaal,GM0173,13.6,6.4,3.7,14.3,49.4,4.4
+2020,Gemeente,Overijssel,Olst-Wijhe,GM1773,7.2,4.2,4.4,10.5,51.3,4.3
+2020,Gemeente,Overijssel,Ommen,GM0175,6.9,6.2,6.6,10.6,56.5,4.8
+2020,Gemeente,Overijssel,Raalte,GM0177,15,4.4,5.1,10.1,46.4,4.4
+2020,Gemeente,Overijssel,Rijssen-Holten,GM1742,13.8,5.7,4.3,11.5,55.5,4.5
+2020,Gemeente,Overijssel,Staphorst,GM0180,5.6,3.9,7.9,7.7,62.8,5
+2020,Gemeente,Overijssel,Steenwijkerland,GM1708,18.3,8.2,6.9,13.2,57.9,4.9
+2020,Gemeente,Overijssel,Tubbergen,GM0183,7.8,5.5,7.5,9.5,63,4.9
+2020,Gemeente,Overijssel,Twenterand,GM1700,12.7,7.7,6.4,12.8,62.4,4.9
+2020,Gemeente,Overijssel,Wierden,GM0189,9.2,5.2,4.3,8.7,58.5,4.3
+2020,Gemeente,Overijssel,Zwartewaterland,GM1896,8.2,5.6,3.9,9.8,58.8,4.3
+2020,Gemeente,Overijssel,Zwolle,GM0193,54,6.1,2.9,15.7,36.4,3.8
+2020,Provincie,Utrecht,Utrecht,PV26,533.1,4.8,3.2,12.4,40.8,3.8
+2020,Gemeente,Utrecht,Amersfoort,GM0307,63.6,4.7,2.6,13.2,33,3.6
+2020,Gemeente,Utrecht,Baarn,GM0308,10.5,4.5,4.7,10.8,54.8,4.3
+2020,Gemeente,Utrecht,Bunnik,GM0312,6,2.7,3,6.5,48.9,3.7
+2020,Gemeente,Utrecht,Bunschoten,GM0313,7.9,2.9,3.4,8.1,47.8,4
+2020,Gemeente,Utrecht,De Bilt,GM0310,17.9,5.2,4.6,10.5,59.8,4.3
+2020,Gemeente,Utrecht,De Ronde Venen,GM0736,17.3,4,4.1,9.3,45.4,4
+2020,Gemeente,Utrecht,Eemnes,GM0317,3.8,4,4.7,9.1,41.6,4.1
+2020,Gemeente,Utrecht,Houten,GM0321,19.4,1.9,1.9,8.3,19.9,3.3
+2020,Gemeente,Utrecht,IJsselstein,GM0353,13.6,4.4,2,10.2,35.3,3.6
+2020,Gemeente,Utrecht,Leusden,GM0327,12.5,2.5,2.9,8,38.7,3.7
+2020,Gemeente,Utrecht,Lopik,GM0331,5.3,4.1,4.9,8.8,53.5,4.2
+2020,Gemeente,Utrecht,Montfoort,GM0335,5.4,3,3.7,7,49.2,3.9
+2020,Gemeente,Utrecht,Nieuwegein,GM0356,27.1,4.8,3.4,12,36.1,4.2
+2020,Gemeente,Utrecht,Oudewater,GM0589,4.1,5.7,4.1,9,55.3,4.1
+2020,Gemeente,Utrecht,Renswoude,GM0339,2,3.4,4.7,6.9,46.8,4
+2020,Gemeente,Utrecht,Rhenen,GM0340,7.7,5.8,4.7,11,52.2,4.3
+2020,Gemeente,Utrecht,Soest,GM0342,19.3,5.2,4,11.3,53.3,4.2
+2020,Gemeente,Utrecht,Stichtse Vecht,GM1904,26.1,3.9,3.6,9.7,47.3,3.9
+2020,Gemeente,Utrecht,Utrecht (gemeente),GM0344,134.1,5.8,2.8,16.7,33.3,3.6
+2020,Gemeente,Utrecht,Utrechtse Heuvelrug,GM1581,19.4,4.1,4.4,9.8,53.7,4.3
+2020,Gemeente,Utrecht,Veenendaal,GM0345,26.7,6.7,2.8,14.1,39.7,4
+2020,Gemeente,Utrecht,Vijfheerenlanden,GM1961,22.1,4.5,3.3,11.4,46,3.9
+2020,Gemeente,Utrecht,Wijk bij Duurstede,GM0352,9.7,3.9,3.1,8.1,42.4,3.9
+2020,Gemeente,Utrecht,Woerden,GM0632,20.7,3.5,2.8,9.4,42,3.7
+2020,Gemeente,Utrecht,Woudenberg,GM0351,4.9,3.3,3.8,7.7,44.3,3.9
+2020,Gemeente,Utrecht,Zeist,GM0355,26.1,7.1,4.2,14.5,54.8,4.2
+2020,Provincie,Zeeland,Zeeland,PV29,165.6,6.2,4.5,13.4,54.1,4.2
+2020,Gemeente,Zeeland,Borsele,GM0654,9.2,4.2,3.9,9.2,55.9,4
+2020,Gemeente,Zeeland,Goes,GM0664,16.8,6.5,3.2,14.7,45.3,3.8
+2020,Gemeente,Zeeland,Hulst,GM0677,12.2,5.8,5.8,12.5,59.7,4.5
+2020,Gemeente,Zeeland,Kapelle,GM0678,5.1,3.1,3.1,8.1,50.7,3.8
+2020,Gemeente,Zeeland,Middelburg (Z.),GM0687,21.5,5.7,3.2,14.7,47.4,4
+2020,Gemeente,Zeeland,Noord-Beveland,GM1695,3.4,6.7,5.1,11.4,61.8,4.5
+2020,Gemeente,Zeeland,Reimerswaal,GM0703,8.5,5.3,3.6,11.9,58.3,4.1
+2020,Gemeente,Zeeland,Schouwen-Duiveland,GM1676,14.7,5.6,5.5,11.5,57,4.5
+2020,Gemeente,Zeeland,Sluis,GM1714,10.7,7.5,8.1,13.5,63.9,5
+2020,Gemeente,Zeeland,Terneuzen,GM0715,24.4,8.2,5.3,14.8,59.2,4.4
+2020,Gemeente,Zeeland,Tholen,GM0716,10.1,6.1,4.2,12.1,56.8,4.2
+2020,Gemeente,Zeeland,Veere,GM0717,9,4.1,5.3,7.9,58.3,4.3
+2020,Gemeente,Zeeland,Vlissingen,GM0718,20.3,6.7,3.4,18.2,45.6,4
+2020,Provincie,Zuid-Holland,Zuid-Holland,PV28,1517.3,7.2,3.6,16.9,42.7,4
+2020,Gemeente,Zuid-Holland,'s-Gravenhage (gemeente),GM0518,218.7,9.8,4.9,23.5,42.5,4.3
+2020,Gemeente,Zuid-Holland,Alblasserdam,GM0482,8,7.3,2.2,13,52.9,3.8
+2020,Gemeente,Zuid-Holland,Albrandswaard,GM0613,9.9,3.5,2.4,8,39.2,3.6
+2020,Gemeente,Zuid-Holland,Alphen aan den Rijn,GM0484,45.5,5,2.6,10.6,43.6,3.7
+2020,Gemeente,Zuid-Holland,Barendrecht,GM0489,18.4,3,1.8,8.2,29.3,3.4
+2020,Gemeente,Zuid-Holland,Bodegraven-Reeuwijk,GM1901,13.5,4.2,3.5,8.9,49.8,3.9
+2020,Gemeente,Zuid-Holland,Capelle aan den IJssel,GM0502,29.1,7.9,3.4,16.6,37.8,4.2
+2020,Gemeente,Zuid-Holland,Delft,GM0503,40.5,9.2,3.2,19.9,42.3,3.9
+2020,Gemeente,Zuid-Holland,Dordrecht,GM0505,50.6,7.3,3.7,17.5,46.9,4.2
+2020,Gemeente,Zuid-Holland,Goeree-Overflakkee,GM1924,20,5.3,4,11.5,52,4.1
+2020,Gemeente,Zuid-Holland,Gorinchem,GM0512,15.6,7.1,2.5,16.1,39.7,3.9
+2020,Gemeente,Zuid-Holland,Gouda,GM0513,31.1,5.9,2.4,15.6,45.4,3.8
+2020,Gemeente,Zuid-Holland,Hardinxveld-Giessendam,GM0523,6.9,3.2,2.4,10.6,48,3.7
+2020,Gemeente,Zuid-Holland,Hendrik-Ido-Ambacht,GM0531,11.8,3.5,1.6,9.2,38.7,3.4
+2020,Gemeente,Zuid-Holland,Hillegom,GM0534,9.2,3.9,3.1,9.6,45.2,3.8
+2020,Gemeente,Zuid-Holland,Hoeksche Waard,GM1963,35.8,4.3,3.1,8.9,51.3,3.9
+2020,Gemeente,Zuid-Holland,Kaag en Braassem,GM1884,10.9,5.3,3.9,9.7,48.4,3.9
+2020,Gemeente,Zuid-Holland,Katwijk,GM0537,25.1,3.8,2.4,10.8,41.5,3.7
+2020,Gemeente,Zuid-Holland,Krimpen aan den IJssel,GM0542,12,5.3,2.8,12.2,48.2,3.9
+2020,Gemeente,Zuid-Holland,Krimpenerwaard,GM1931,22.4,5.6,3.7,10.9,53.7,4.1
+2020,Gemeente,Zuid-Holland,Lansingerland,GM1621,22.9,2.3,2.3,7.9,32.7,3.4
+2020,Gemeente,Zuid-Holland,Leiden,GM0546,50.2,7.2,3.3,17.7,43.3,3.9
+2020,Gemeente,Zuid-Holland,Leiderdorp,GM0547,11.5,3.3,2.4,10,39.1,3.7
+2020,Gemeente,Zuid-Holland,Leidschendam-Voorburg,GM1916,34.1,6.6,3.4,14.2,51.6,3.9
+2020,Gemeente,Zuid-Holland,Lisse,GM0553,9.8,4.1,2.3,10.3,42.6,3.7
+2020,Gemeente,Zuid-Holland,Maassluis,GM0556,14.1,7.8,2.5,15.2,47.2,3.8
+2020,Gemeente,Zuid-Holland,Midden-Delfland,GM1842,7.5,2.4,2.6,7.2,36.8,3.4
+2020,Gemeente,Zuid-Holland,Molenlanden,GM1978,16.1,5.1,3.6,9.1,58,4
+2020,Gemeente,Zuid-Holland,Nieuwkoop,GM0569,10.8,4.9,4.2,7.7,53.9,4.1
+2020,Gemeente,Zuid-Holland,Nissewaard,GM1930,36.9,5.7,3.2,14.7,37,4
+2020,Gemeente,Zuid-Holland,Noordwijk,GM0575,17.6,4,3.8,10.3,46.4,4
+2020,Gemeente,Zuid-Holland,Oegstgeest,GM0579,10.1,3.2,2.9,8.1,42.4,3.5
+2020,Gemeente,Zuid-Holland,Papendrecht,GM0590,13.6,6,2.6,11.7,44.9,3.8
+2020,Gemeente,Zuid-Holland,Pijnacker-Nootdorp,GM1926,20.3,2.7,2.5,7.2,29.4,3.3
+2020,Gemeente,Zuid-Holland,Ridderkerk,GM0597,19.9,4.9,2.7,13.1,44.8,3.9
+2020,Gemeente,Zuid-Holland,Rijswijk (ZH.),GM0603,24.6,8.6,3.6,16.5,52.1,4
+2020,Gemeente,Zuid-Holland,Rotterdam,GM0599,273.4,10.7,4.7,26.6,36.4,4.4
+2020,Gemeente,Zuid-Holland,Schiedam,GM0606,32.9,9.7,3.3,19.2,47.3,4.1
+2020,Gemeente,Zuid-Holland,Sliedrecht,GM0610,10.1,7.1,2.1,14,50.3,3.9
+2020,Gemeente,Zuid-Holland,Teylingen,GM1525,14.9,3.6,2.7,8.3,40.4,3.6
+2020,Gemeente,Zuid-Holland,Vlaardingen,GM0622,32.4,6.6,2.9,18.6,44.3,4
+2020,Gemeente,Zuid-Holland,Voorne aan Zee,GM1992,30.7,4.8,3.5,10.7,48.6,3.9
+2020,Gemeente,Zuid-Holland,Voorschoten,GM0626,10.6,5.2,2.7,9.2,55.4,3.7
+2020,Gemeente,Zuid-Holland,Waddinxveen,GM0627,11.7,5.3,2.5,10.7,44.3,3.7
+2020,Gemeente,Zuid-Holland,Wassenaar,GM0629,10.7,6.9,6.8,12.2,65.2,4.6
+2020,Gemeente,Zuid-Holland,Westland,GM1783,42.1,4.3,3.2,9,43.9,3.7
+2020,Gemeente,Zuid-Holland,Zoetermeer,GM0637,53,5.9,2.4,13.6,32.4,3.7
+2020,Gemeente,Zuid-Holland,Zoeterwoude,GM0638,3.3,2.7,2.9,6.3,47.5,3.6
+2020,Gemeente,Zuid-Holland,Zuidplas,GM1892,17,5.7,3,9.8,45.9,3.8
+2020,Gemeente,Zuid-Holland,Zwijndrecht,GM0642,19.4,8.4,2.9,15.2,53.1,4.1
+2019,Nederland,Totaal,Nederland,NL01,7072.2,9.9,8.1,17.3,49.8,5.2
+2019,Provincie,Drenthe,Drenthe,PV22,205.2,9.9,10.5,16.5,56,5.8
+2019,Gemeente,Drenthe,Aa en Hunze,GM1680,10.3,8.8,12.6,12.1,66.7,6.1
+2019,Gemeente,Drenthe,Assen,GM0106,29.3,9.1,7.5,18.3,39.4,5.2
+2019,Gemeente,Drenthe,Borger-Odoorn,GM1681,10.5,12.1,15,15.6,68.5,6.5
+2019,Gemeente,Drenthe,Coevorden,GM0109,14.4,8.7,11.1,16.4,61.4,6
+2019,Gemeente,Drenthe,De Wolden,GM1690,9.4,6.3,11.8,11.5,59.7,5.9
+2019,Gemeente,Drenthe,Emmen,GM0114,45.9,13.4,12.2,20.6,58.7,6.2
+2019,Gemeente,Drenthe,Hoogeveen,GM0118,23,10.3,9.5,18.3,50.9,5.7
+2019,Gemeente,Drenthe,Meppel,GM0119,14.3,10.2,7,16.8,49.9,5.2
+2019,Gemeente,Drenthe,Midden-Drenthe,GM1731,13.4,7.4,10.1,13.4,57.8,5.8
+2019,Gemeente,Drenthe,Noordenveld,GM1699,13.3,9.2,11,14,61.4,5.9
+2019,Gemeente,Drenthe,Tynaarlo,GM1730,13.5,7.1,9.8,10.9,62.4,5.6
+2019,Gemeente,Drenthe,Westerveld,GM1701,7.8,5.5,11.5,11.8,59.4,6
+2019,Provincie,Flevoland,Flevoland,PV24,156.2,7.3,6.4,15.6,29.2,4.9
+2019,Gemeente,Flevoland,Almere,GM0034,77.5,6.2,5.5,15.9,15.8,4.7
+2019,Gemeente,Flevoland,Dronten,GM0303,15.7,6.9,6.3,13.3,38.7,4.9
+2019,Gemeente,Flevoland,Lelystad,GM0995,30.6,10.1,8.3,18.6,39.9,5.3
+2019,Gemeente,Flevoland,Noordoostpolder,GM0171,18.2,9.5,8.3,15.1,55.9,5.4
+2019,Gemeente,Flevoland,Urk,GM0184,6,5.5,6,10.6,51.4,5
+2019,Gemeente,Flevoland,Zeewolde,GM0050,8.1,4,4.1,10.7,21.3,4.3
+2019,Provincie,Fryslân,Fryslân,PV21,273.9,12.3,10.8,19.3,61.4,5.8
+2019,Gemeente,Fryslân,Achtkarspelen,GM0059,11.4,16,13.7,21,71.9,6.3
+2019,Gemeente,Fryslân,Ameland,GM0060,1.4,7.9,14.5,10.2,75.4,6.5
+2019,Gemeente,Fryslân,Dantumadiel,GM1891,7.6,16.3,13.7,21.1,71.2,6.3
+2019,Gemeente,Fryslân,De Fryske Marren,GM1940,21.2,9.7,9.7,14.9,63.9,5.6
+2019,Gemeente,Fryslân,Harlingen,GM0072,6.9,10.4,8.7,23.2,51.3,5.5
+2019,Gemeente,Fryslân,Heerenveen,GM0074,21.4,10.1,9.3,18.2,55.3,5.5
+2019,Gemeente,Fryslân,Leeuwarden,GM0080,54.5,13.7,10,24.4,51.9,5.6
+2019,Gemeente,Fryslân,Noardeast-Fryslân,GM1970,18.8,15.3,13.4,19.1,73.7,6.3
+2019,Gemeente,Fryslân,Ooststellingwerf,GM0085,10.7,10.8,12.6,17.7,59,6.2
+2019,Gemeente,Fryslân,Opsterland,GM0086,12,10.6,12.2,15,67.1,5.9
+2019,Gemeente,Fryslân,Schiermonnikoog,GM0088,0.4,8.6,14.5,14.5,63.1,6
+2019,Gemeente,Fryslân,Smallingerland,GM0090,23.9,12,9.8,20.3,54.5,5.7
+2019,Gemeente,Fryslân,Súdwest-Fryslân,GM1900,38.2,12,10.3,18.3,61.1,5.7
+2019,Gemeente,Fryslân,Terschelling,GM0093,1.9,9.3,12.1,11.8,74.6,6
+2019,Gemeente,Fryslân,Tytsjerksteradiel,GM0737,13,8.8,9.4,14.3,65.7,5.7
+2019,Gemeente,Fryslân,Vlieland,GM0096,0.5,11,11.3,15.2,57.8,5.6
+2019,Gemeente,Fryslân,Waadhoeke,GM1949,19.4,13.4,11.3,17.3,72.2,6
+2019,Gemeente,Fryslân,Weststellingwerf,GM0098,10.8,13,12.9,18.3,67.1,6.2
+2019,Provincie,Gelderland,Gelderland,PV25,826.9,9.2,8.3,15.9,52.3,5.3
+2019,Gemeente,Gelderland,Aalten,GM0197,11,8.4,9.1,12.8,63.9,5.7
+2019,Gemeente,Gelderland,Apeldoorn,GM0200,66.8,8.1,7.6,15.3,50.8,5.2
+2019,Gemeente,Gelderland,Arnhem,GM0202,66.9,14.6,9.3,25.6,44.6,5.4
+2019,Gemeente,Gelderland,Barneveld,GM0203,20.2,6.2,7.8,11.2,47,5.1
+2019,Gemeente,Gelderland,Berg en Dal,GM1945,14.5,10.5,9.1,17.1,57.5,5.6
+2019,Gemeente,Gelderland,Berkelland,GM1859,18,9.1,10,13.2,61.5,5.8
+2019,Gemeente,Gelderland,Beuningen,GM0209,10.5,6.3,6.5,12.5,50.5,5
+2019,Gemeente,Gelderland,Bronckhorst,GM1876,14.9,8.8,12.1,11.9,65.8,6
+2019,Gemeente,Gelderland,Brummen,GM0213,8.6,9.2,8.9,13.9,61.4,5.5
+2019,Gemeente,Gelderland,Buren,GM0214,10,7.4,9.7,10.7,66,5.6
+2019,Gemeente,Gelderland,Culemborg,GM0216,11.6,6.5,4.8,14,39.6,4.6
+2019,Gemeente,Gelderland,Doesburg,GM0221,5,12.6,8.9,21.7,51,5.5
+2019,Gemeente,Gelderland,Doetinchem,GM0222,24.3,9.8,7.9,18,48.6,5.3
+2019,Gemeente,Gelderland,Druten,GM0225,7.4,8.5,7.1,13.7,53.4,5.2
+2019,Gemeente,Gelderland,Duiven,GM0226,10.3,7.7,6.3,12.9,37.9,5.1
+2019,Gemeente,Gelderland,Ede,GM0228,43.3,5.6,6.4,12.5,43.4,4.9
+2019,Gemeente,Gelderland,Elburg,GM0230,8.6,7.4,7.5,12.5,57.6,5.3
+2019,Gemeente,Gelderland,Epe,GM0232,13.1,9.6,10.8,13.8,64.2,5.9
+2019,Gemeente,Gelderland,Ermelo,GM0233,9.9,7.1,6.5,12.1,53.9,5
+2019,Gemeente,Gelderland,Harderwijk,GM0243,18.1,8.6,5.6,15.3,44.7,4.8
+2019,Gemeente,Gelderland,Hattem,GM0244,4.9,6.5,6.6,10.5,62,5.2
+2019,Gemeente,Gelderland,Heerde,GM0246,7.3,6.6,8.5,10.2,65,5.6
+2019,Gemeente,Gelderland,Heumen,GM0252,6.7,5.7,7,11.5,48.2,5.1
+2019,Gemeente,Gelderland,Lingewaard,GM1705,18.8,6.5,7.1,12.1,51.1,5.2
+2019,Gemeente,Gelderland,Lochem,GM0262,13.9,8.1,10.7,12.3,61.2,5.8
+2019,Gemeente,Gelderland,Maasdriel,GM0263,9.3,6.6,9.6,12.3,58.2,5.6
+2019,Gemeente,Gelderland,Montferland,GM1955,14.8,9.6,9.7,14.9,57.7,5.7
+2019,Gemeente,Gelderland,Neder-Betuwe,GM1740,8.2,9.2,8.9,14.1,59.1,5.5
+2019,Gemeente,Gelderland,Nijkerk,GM0267,16.1,5.6,5.7,11.7,48.6,4.8
+2019,Gemeente,Gelderland,Nijmegen,GM0268,69.9,12.5,8.2,24.3,41.5,5.2
+2019,Gemeente,Gelderland,Nunspeet,GM0302,10.1,8,8.7,12.8,59,5.4
+2019,Gemeente,Gelderland,Oldebroek,GM0269,8.7,9.4,9.4,13.4,61.8,5.6
+2019,Gemeente,Gelderland,Oost Gelre,GM1586,12.1,7.7,9.1,10.9,60.4,5.5
+2019,Gemeente,Gelderland,Oude IJsselstreek,GM1509,16.2,9.9,10.4,16.6,59.7,5.8
+2019,Gemeente,Gelderland,Overbetuwe,GM1734,18.6,8,7.7,11.7,53.6,5.1
+2019,Gemeente,Gelderland,Putten,GM0273,9,7.1,8.5,11.7,59.1,5.3
+2019,Gemeente,Gelderland,Renkum,GM0274,13.7,9.6,9.1,13.6,61.7,5.4
+2019,Gemeente,Gelderland,Rheden,GM0275,19.3,14.1,10.1,18.5,68.8,5.8
+2019,Gemeente,Gelderland,Rozendaal,GM0277,0.6,3.7,8.4,4.5,73.1,5.1
+2019,Gemeente,Gelderland,Scherpenzeel,GM0279,3.7,6.1,7.2,9.1,61.9,5.2
+2019,Gemeente,Gelderland,Tiel,GM0281,16.7,11,7.8,18.8,47.9,5.3
+2019,Gemeente,Gelderland,Voorst,GM0285,9.6,7.7,9.2,11.2,62.1,5.5
+2019,Gemeente,Gelderland,Wageningen,GM0289,13.4,10.3,6.4,18.4,44.1,4.8
+2019,Gemeente,Gelderland,West Betuwe,GM1960,19.3,6.8,7.5,10.9,58.9,5.2
+2019,Gemeente,Gelderland,West Maas en Waal,GM0668,7.5,5.8,9.4,12.4,56.6,5.6
+2019,Gemeente,Gelderland,Westervoort,GM0293,6.4,10.9,8.3,16.7,43.1,5.4
+2019,Gemeente,Gelderland,Wijchen,GM0296,16.9,7.3,7.2,13.8,46.8,5.1
+2019,Gemeente,Gelderland,Winterswijk,GM0294,12,11,11.5,15.7,64,6
+2019,Gemeente,Gelderland,Zaltbommel,GM0297,10.5,6.6,7.8,13,53.3,5.2
+2019,Gemeente,Gelderland,Zevenaar,GM0299,18.8,10.8,8.3,15.8,59.4,5.5
+2019,Gemeente,Gelderland,Zutphen,GM0301,20.5,11.5,8.3,20.4,49,5.3
+2019,Provincie,Groningen,Groningen,PV20,246.1,14.3,12.8,22.3,54.7,6.1
+2019,Gemeente,Groningen,Eemsdelta,GM1979,20.5,15,12.9,21.6,56.2,6.1
+2019,Gemeente,Groningen,Groningen (gemeente),GM0014,94.7,13.2,9.9,26.2,39.5,5.4
+2019,Gemeente,Groningen,Het Hogeland,GM1966,20.5,13.9,13.5,17.9,61.2,6.3
+2019,Gemeente,Groningen,Midden-Groningen,GM1952,26.3,15.3,13.8,21.6,57,6.3
+2019,Gemeente,Groningen,Oldambt,GM1895,17,17.8,17.2,22.6,72.4,6.9
+2019,Gemeente,Groningen,Pekela,GM0765,5.3,19.1,19.7,22.6,76.5,7.3
+2019,Gemeente,Groningen,Stadskanaal,GM0037,14,16,15.4,22.5,64,6.7
+2019,Gemeente,Groningen,Veendam,GM0047,12,15.3,14.5,21,66.8,6.6
+2019,Gemeente,Groningen,Westerkwartier,GM1969,25.1,11.1,12,14.3,66,6
+2019,Gemeente,Groningen,Westerwolde,GM1950,10.7,16.5,20.4,19.3,77.4,7.4
+2019,Provincie,Limburg,Limburg,PV31,481.9,11.7,11,17.9,55.4,5.8
+2019,Gemeente,Limburg,Beek (L.),GM0888,7.1,8.1,9,14,56.7,5.6
+2019,Gemeente,Limburg,Beekdaelen,GM1954,15.4,9.5,11.7,12.8,64.1,6
+2019,Gemeente,Limburg,Beesel,GM0889,5.7,9.8,9.9,15.9,53.2,5.7
+2019,Gemeente,Limburg,Bergen (L.),GM0893,5.4,11.3,11.4,13.8,73.1,6.1
+2019,Gemeente,Limburg,Brunssum,GM0899,13.1,14,11.3,20.3,56.4,6
+2019,Gemeente,Limburg,Echt-Susteren,GM1711,13.5,9.7,12,13.7,61.1,6
+2019,Gemeente,Limburg,Eijsden-Margraten,GM1903,10.3,5.7,9.5,8.8,57.8,5.5
+2019,Gemeente,Limburg,Gennep,GM0907,6.8,9.1,8.9,13.5,59.8,5.6
+2019,Gemeente,Limburg,Gulpen-Wittem,GM1729,6.1,8.5,11.5,12.9,62.1,5.9
+2019,Gemeente,Limburg,Heerlen,GM0917,41.8,18.8,13.9,26.9,51.4,6.3
+2019,Gemeente,Limburg,Horst aan de Maas,GM1507,16.6,6.3,10,10.1,57.7,5.7
+2019,Gemeente,Limburg,Kerkrade,GM0928,21.5,14.5,13,23.9,50,6.2
+2019,Gemeente,Limburg,Landgraaf,GM0882,17,12.3,11.1,18.6,52.6,5.8
+2019,Gemeente,Limburg,Leudal,GM1640,14.7,6.7,11.2,9.8,63.7,5.9
+2019,Gemeente,Limburg,Maasgouw,GM1641,9.9,8.7,12.8,11.7,65,6.1
+2019,Gemeente,Limburg,Maastricht,GM0935,49.7,16.4,10.6,24.3,53.8,5.7
+2019,Gemeente,Limburg,Meerssen,GM0938,8.1,8,10.2,12,63.5,5.7
+2019,Gemeente,Limburg,Mook en Middelaar,GM0944,3.4,7.7,9.4,11.4,59,5.5
+2019,Gemeente,Limburg,Nederweert,GM0946,6.9,8.6,10.5,13,54.9,5.7
+2019,Gemeente,Limburg,Peel en Maas,GM1894,17.1,6,9.4,11,53.7,5.6
+2019,Gemeente,Limburg,Roerdalen,GM1669,8.8,8.7,11.4,12.1,65.9,6
+2019,Gemeente,Limburg,Roermond,GM0957,25.4,13.2,10.8,20.9,50.6,5.7
+2019,Gemeente,Limburg,Simpelveld,GM0965,4.7,10,10.7,14.5,59.8,5.9
+2019,Gemeente,Limburg,Sittard-Geleen,GM1883,42.4,13.6,11.4,20.5,55.6,5.9
+2019,Gemeente,Limburg,Stein (L.),GM0971,11.1,7.1,8.6,12.9,54.6,5.5
+2019,Gemeente,Limburg,Vaals,GM0981,4.5,17.6,15.1,25.6,56.6,6.4
+2019,Gemeente,Limburg,Valkenburg aan de Geul,GM0994,7.3,11.6,12.5,16.1,61.4,6
+2019,Gemeente,Limburg,Venlo,GM0983,43.6,11.5,10.1,19.7,50.4,5.7
+2019,Gemeente,Limburg,Venray,GM0984,17.6,7.7,9.1,14.2,48.5,5.5
+2019,Gemeente,Limburg,Voerendaal,GM0986,5.4,8.1,10,11.2,61.7,5.7
+2019,Gemeente,Limburg,Weert,GM0988,21.1,8.6,8.6,15.6,53.3,5.5
+2019,Provincie,Noord-Brabant,Noord-Brabant,PV30,1038.2,9.1,8.2,15.3,52.2,5.3
+2019,Gemeente,Noord-Brabant,'s-Hertogenbosch,GM0796,66.2,9.9,7.3,17.5,44.2,5
+2019,Gemeente,Noord-Brabant,Alphen-Chaam,GM1723,3.9,6.3,10.4,9.2,69.2,5.8
+2019,Gemeente,Noord-Brabant,Altena,GM1959,20.8,7.6,7.5,12.3,62.1,5.2
+2019,Gemeente,Noord-Brabant,Asten,GM0743,6.4,6.9,9.5,12.4,58.2,5.7
+2019,Gemeente,Noord-Brabant,Baarle-Nassau,GM0744,2.6,9.6,14.9,13.6,69.7,6.4
+2019,Gemeente,Noord-Brabant,Bergeijk,GM1724,7.3,6,10.4,8.8,67.2,5.7
+2019,Gemeente,Noord-Brabant,Bergen op Zoom,GM0748,28,10,7.2,18,51.9,5.1
+2019,Gemeente,Noord-Brabant,Bernheze,GM1721,11.5,6.8,9.1,10.7,57.9,5.5
+2019,Gemeente,Noord-Brabant,Best,GM0753,11.9,5.5,6.4,11,44.5,4.9
+2019,Gemeente,Noord-Brabant,Bladel,GM1728,8.1,6,8.4,9.6,62.1,5.4
+2019,Gemeente,Noord-Brabant,Boekel,GM0755,3.9,6.2,9.5,10.2,63.2,5.6
+2019,Gemeente,Noord-Brabant,Boxtel,GM0757,13.2,6.4,6.9,14.3,47.8,5.1
+2019,Gemeente,Noord-Brabant,Breda,GM0758,75.7,9.8,7.9,17.2,46.3,5.1
+2019,Gemeente,Noord-Brabant,Cranendonck,GM1706,8.4,8.4,10.3,12.2,64.4,5.9
+2019,Gemeente,Noord-Brabant,Deurne,GM0762,13,8.9,10.2,13.7,58.8,5.8
+2019,Gemeente,Noord-Brabant,Dongen,GM0766,10.6,7.3,7.4,12.1,57.1,5.1
+2019,Gemeente,Noord-Brabant,Drimmelen,GM1719,10.9,6.1,6.3,10.4,62.9,5.1
+2019,Gemeente,Noord-Brabant,Eersel,GM0770,7.6,6.3,8.6,9.9,60.6,5.4
+2019,Gemeente,Noord-Brabant,Eindhoven,GM0772,98.1,13.1,8.7,20.5,48.5,5.2
+2019,Gemeente,Noord-Brabant,Etten-Leur,GM0777,17.9,8.6,6.4,14.2,49.3,5
+2019,Gemeente,Noord-Brabant,Geertruidenberg,GM0779,9.1,8,6,14.1,51.8,5.1
+2019,Gemeente,Noord-Brabant,Geldrop-Mierlo,GM1771,16.7,8.9,8.1,14.2,52,5.3
+2019,Gemeente,Noord-Brabant,Gemert-Bakel,GM1652,12,8.2,9.3,13.9,59.4,5.6
+2019,Gemeente,Noord-Brabant,Gilze en Rijen,GM0784,10.5,8.7,7.2,13.8,54.5,5.1
+2019,Gemeente,Noord-Brabant,Goirle,GM0785,9.6,8,6.8,12.3,54.7,5.1
+2019,Gemeente,Noord-Brabant,Halderberge,GM1655,12.3,9.1,9.1,14.2,61.3,5.6
+2019,Gemeente,Noord-Brabant,Heeze-Leende,GM1658,6.3,6.2,9.5,9.2,61.2,5.5
+2019,Gemeente,Noord-Brabant,Helmond,GM0794,37.9,12.4,9.1,21.3,39.6,5.5
+2019,Gemeente,Noord-Brabant,Heusden,GM0797,17.5,8.9,8.1,12.6,59.1,5.3
+2019,Gemeente,Noord-Brabant,Hilvarenbeek,GM0798,6,5.5,9.6,8.6,63.5,5.5
+2019,Gemeente,Noord-Brabant,Laarbeek,GM1659,8.9,8.7,9.6,13.7,59.3,5.6
+2019,Gemeente,Noord-Brabant,Land van Cuijk,GM1982,35.7,7.8,9.4,12.6,59.1,5.6
+2019,Gemeente,Noord-Brabant,Loon op Zand,GM0809,9.5,8.4,7.8,12.9,59.1,5.4
+2019,Gemeente,Noord-Brabant,Maashorst,GM1991,23.3,7.4,8.1,13.6,50.1,5.4
+2019,Gemeente,Noord-Brabant,Meierijstad,GM1948,31.9,6.4,7.9,11.5,54.1,5.3
+2019,Gemeente,Noord-Brabant,Moerdijk,GM1709,15.4,9,7.2,13.9,60.7,5.2
+2019,Gemeente,Noord-Brabant,Nuenen Gerwen en Nederwetten,GM0820,9.6,5.1,7.7,8.7,53.3,5.2
+2019,Gemeente,Noord-Brabant,Oirschot,GM0823,7.2,5.6,9.4,8.9,62.8,5.5
+2019,Gemeente,Noord-Brabant,Oisterwijk,GM0824,12.8,7.2,8.5,11.7,58.8,5.3
+2019,Gemeente,Noord-Brabant,Oosterhout,GM0826,23.5,7.6,6.3,15.3,45.8,5
+2019,Gemeente,Noord-Brabant,Oss,GM0828,37.2,9.5,8.5,15.8,52.7,5.5
+2019,Gemeente,Noord-Brabant,Reusel-De Mierden,GM1667,5,5.9,10.5,8.6,65.1,5.7
+2019,Gemeente,Noord-Brabant,Roosendaal,GM1674,32.4,10.1,8.8,17.1,52.5,5.4
+2019,Gemeente,Noord-Brabant,Rucphen,GM0840,9,11.9,13.9,15.6,72.6,6.4
+2019,Gemeente,Noord-Brabant,Sint-Michielsgestel,GM0845,11.2,5.9,8.2,9.6,59.8,5.3
+2019,Gemeente,Noord-Brabant,Someren,GM0847,7.5,6.9,9.6,11.9,52.4,5.5
+2019,Gemeente,Noord-Brabant,Son en Breugel,GM0848,6.7,4.6,8.1,8.3,53.6,5.2
+2019,Gemeente,Noord-Brabant,Steenbergen,GM0851,9.6,7.8,8.1,13.5,60.6,5.4
+2019,Gemeente,Noord-Brabant,Tilburg,GM0855,88,11.3,8.2,20.5,41.9,5.3
+2019,Gemeente,Noord-Brabant,Valkenswaard,GM0858,13.8,8.8,8.8,15,51.4,5.5
+2019,Gemeente,Noord-Brabant,Veldhoven,GM0861,18.7,5.5,5.9,11.3,49.3,4.9
+2019,Gemeente,Noord-Brabant,Vught,GM0865,12.4,7.2,7.3,11.9,58.3,5.1
+2019,Gemeente,Noord-Brabant,Waalre,GM0866,7.1,6,7.9,9.7,59.6,5.2
+2019,Gemeente,Noord-Brabant,Waalwijk,GM0867,20.1,9.2,7.6,16.1,56.3,5.3
+2019,Gemeente,Noord-Brabant,Woensdrecht,GM0873,9,8.4,9.8,12.8,65.2,5.7
+2019,Gemeente,Noord-Brabant,Zundert,GM0879,8.4,6.6,12.1,10.7,65.8,5.9
+2019,Provincie,Noord-Holland,Noord-Holland,PV27,1184.5,9.8,7.2,18.1,46.2,4.9
+2019,Gemeente,Noord-Holland,Aalsmeer,GM0358,12,6.6,6.8,10.2,46.3,4.7
+2019,Gemeente,Noord-Holland,Alkmaar,GM0361,47.5,8.9,6.9,17.4,46.3,5
+2019,Gemeente,Noord-Holland,Amstelveen,GM0362,36.7,8.2,5.8,13.5,48.2,4.6
+2019,Gemeente,Noord-Holland,Amsterdam,GM0363,373.8,13.8,7.9,26.8,37.2,4.8
+2019,Gemeente,Noord-Holland,Bergen (NH.),GM0373,12.9,5.8,9.9,11.9,59.5,5.5
+2019,Gemeente,Noord-Holland,Beverwijk,GM0375,17.3,7.5,6.2,16.6,39.3,4.9
+2019,Gemeente,Noord-Holland,Blaricum,GM0376,4.6,6.5,10.6,9.6,63.7,5.4
+2019,Gemeente,Noord-Holland,Bloemendaal,GM0377,9.1,5.3,8.5,8,72.1,5
+2019,Gemeente,Noord-Holland,Castricum,GM0383,14.9,4,5.6,8.3,54.1,4.7
+2019,Gemeente,Noord-Holland,Den Helder,GM0400,25.5,12.5,8.5,19.7,55.4,5.4
+2019,Gemeente,Noord-Holland,Diemen,GM0384,11.3,8,6.8,17.3,32.3,4.6
+2019,Gemeente,Noord-Holland,Dijk en Waard,GM1980,32.9,4.9,5,11.9,39.6,4.6
+2019,Gemeente,Noord-Holland,Drechterland,GM0498,7.7,6.3,7.7,11.4,54.5,5.2
+2019,Gemeente,Noord-Holland,Edam-Volendam,GM0385,14.3,5.8,8.3,9.5,57.2,5.4
+2019,Gemeente,Noord-Holland,Enkhuizen,GM0388,8,9.5,7.2,17.3,50.7,5.2
+2019,Gemeente,Noord-Holland,Gooise Meren,GM1942,24.1,9,8.2,13,70.1,5.2
+2019,Gemeente,Noord-Holland,Haarlem,GM0392,68.6,9.9,6.3,16.6,59,4.7
+2019,Gemeente,Noord-Holland,Haarlemmermeer,GM0394,58.8,4.7,4.8,10.5,37.8,4.4
+2019,Gemeente,Noord-Holland,Heemskerk,GM0396,16.4,7.5,5.6,13,42,4.7
+2019,Gemeente,Noord-Holland,Heemstede,GM0397,11.4,6.7,6.6,9.5,66.8,4.8
+2019,Gemeente,Noord-Holland,Heiloo,GM0399,9.8,3.9,5.9,9.9,53.7,4.8
+2019,Gemeente,Noord-Holland,Hilversum,GM0402,38.2,10.1,7.8,16.7,61.6,5.2
+2019,Gemeente,Noord-Holland,Hollands Kroon,GM1911,19.3,8.8,9.2,12.7,61.2,5.5
+2019,Gemeente,Noord-Holland,Hoorn,GM0405,30.7,7.4,6.2,16.8,37.7,4.9
+2019,Gemeente,Noord-Holland,Huizen,GM0406,17.7,6.7,6.1,14.7,43.7,4.9
+2019,Gemeente,Noord-Holland,Koggenland,GM1598,8.8,5.3,7,10,55.6,5
+2019,Gemeente,Noord-Holland,Landsmeer,GM0415,4.5,7.5,8.1,10.4,58.3,4.9
+2019,Gemeente,Noord-Holland,Laren (NH.),GM0417,4.7,8.2,13.6,11.1,79.4,6.2
+2019,Gemeente,Noord-Holland,Medemblik,GM0420,17.5,7.2,8.1,13.4,54.2,5.3
+2019,Gemeente,Noord-Holland,Oostzaan,GM0431,3.8,6.8,6.7,10.6,51.2,4.9
+2019,Gemeente,Noord-Holland,Opmeer,GM0432,4.5,5.3,7.3,10.1,54.5,5.1
+2019,Gemeente,Noord-Holland,Ouder-Amstel,GM0437,5.7,7.1,6.9,12.1,48.4,4.7
+2019,Gemeente,Noord-Holland,Purmerend,GM0439,37.3,8,6.4,14.8,31.1,5.1
+2019,Gemeente,Noord-Holland,Schagen,GM0441,18.9,7.2,7.8,12.1,57,5.2
+2019,Gemeente,Noord-Holland,Stede Broec,GM0532,8.6,6.6,6.2,12.9,49.4,5
+2019,Gemeente,Noord-Holland,Texel,GM0448,5.8,6.9,10.5,12.1,60.4,5.8
+2019,Gemeente,Noord-Holland,Uitgeest,GM0450,5.3,3.4,4.3,8.7,40.1,4.3
+2019,Gemeente,Noord-Holland,Uithoorn,GM0451,11.8,6.5,5.4,11.8,42.2,4.6
+2019,Gemeente,Noord-Holland,Velsen,GM0453,28.6,8.7,6.4,15.6,48.5,4.9
+2019,Gemeente,Noord-Holland,Waterland,GM0852,6.9,6,6.8,10.6,62.1,5
+2019,Gemeente,Noord-Holland,Wijdemeren,GM1696,9.6,6.9,8,11.3,64.5,5.2
+2019,Gemeente,Noord-Holland,Wormerland,GM0880,6.6,7.5,5.9,12.8,49.8,4.8
+2019,Gemeente,Noord-Holland,Zaanstad,GM0479,63.7,11.4,7.2,18.4,50.3,5
+2019,Gemeente,Noord-Holland,Zandvoort,GM0473,7.8,12.9,10.8,18,61.4,5.7
+2019,Provincie,Overijssel,Overijssel,PV23,463.4,10.5,9.1,17.3,54.7,5.5
+2019,Gemeente,Overijssel,Almelo,GM0141,30.8,15.4,10.3,24.7,54,5.8
+2019,Gemeente,Overijssel,Borne,GM0147,9.4,6.9,5.8,12.6,51.3,4.9
+2019,Gemeente,Overijssel,Dalfsen,GM0148,11,5.3,9.1,10.1,57,5.4
+2019,Gemeente,Overijssel,Deventer,GM0150,41.5,11.4,8,18.9,49.2,5.2
+2019,Gemeente,Overijssel,Dinkelland,GM1774,9.8,7,10.4,10.2,68.8,5.7
+2019,Gemeente,Overijssel,Enschede,GM0153,64.6,15.9,12.4,25.7,50.1,6
+2019,Gemeente,Overijssel,Haaksbergen,GM0158,9.5,8.7,9.4,13.3,61.7,5.7
+2019,Gemeente,Overijssel,Hardenberg,GM0160,22.9,8.5,8.8,13.4,60.7,5.6
+2019,Gemeente,Overijssel,Hellendoorn,GM0163,14,7.2,8.2,12.1,60,5.5
+2019,Gemeente,Overijssel,Hengelo (O.),GM0164,35.5,12.5,8.8,20,56.8,5.5
+2019,Gemeente,Overijssel,Hof van Twente,GM1735,14.1,8.3,9.5,13.4,63.4,5.6
+2019,Gemeente,Overijssel,Kampen,GM0166,20.6,8.9,6.7,16,53.8,5.1
+2019,Gemeente,Overijssel,Losser,GM0168,9,9.5,11,14.7,63.3,6
+2019,Gemeente,Overijssel,Oldenzaal,GM0173,13.5,9.9,7.6,16.6,55.2,5.4
+2019,Gemeente,Overijssel,Olst-Wijhe,GM1773,7.2,7.4,7.9,13.2,56.1,5.3
+2019,Gemeente,Overijssel,Ommen,GM0175,6.8,9.1,10.8,12.7,60.7,5.7
+2019,Gemeente,Overijssel,Raalte,GM0177,14.9,7,9.1,12.2,51.6,5.4
+2019,Gemeente,Overijssel,Rijssen-Holten,GM1742,13.8,8.3,7.6,13.3,59.7,5.4
+2019,Gemeente,Overijssel,Staphorst,GM0180,5.5,5.6,11.6,9,66.3,5.9
+2019,Gemeente,Overijssel,Steenwijkerland,GM1708,18.1,11.9,11.6,16,61.9,5.9
+2019,Gemeente,Overijssel,Tubbergen,GM0183,7.7,7.2,11.2,10.8,67.7,5.8
+2019,Gemeente,Overijssel,Twenterand,GM1700,12.7,10.6,9.6,15.9,66.2,5.7
+2019,Gemeente,Overijssel,Wierden,GM0189,9.1,6.8,7.4,10.2,64.2,5.2
+2019,Gemeente,Overijssel,Zwartewaterland,GM1896,8.2,7.8,6.7,12.2,62.4,5.2
+2019,Gemeente,Overijssel,Zwolle,GM0193,53.2,9,6.2,17.9,39.6,4.7
+2019,Provincie,Utrecht,Utrecht,PV26,526,7.2,5.9,14.2,44.1,4.7
+2019,Gemeente,Utrecht,Amersfoort,GM0307,63,7.2,5.1,15.1,36.2,4.4
+2019,Gemeente,Utrecht,Baarn,GM0308,10.4,6.6,7.7,12.7,57.8,5.2
+2019,Gemeente,Utrecht,Bunnik,GM0312,6,3.7,5.4,7.3,54,4.5
+2019,Gemeente,Utrecht,Bunschoten,GM0313,7.8,4.2,5.8,9.4,51.3,4.9
+2019,Gemeente,Utrecht,De Bilt,GM0310,17.7,7.1,7.9,12,62.8,5.2
+2019,Gemeente,Utrecht,De Ronde Venen,GM0736,17.1,5.8,6.4,10.7,49.2,4.8
+2019,Gemeente,Utrecht,Eemnes,GM0317,3.7,4.7,6.6,9.5,43.9,4.8
+2019,Gemeente,Utrecht,Houten,GM0321,19.3,3.5,3.5,10.1,22,4
+2019,Gemeente,Utrecht,IJsselstein,GM0353,13.6,6.4,3.9,11.8,37.8,4.4
+2019,Gemeente,Utrecht,Leusden,GM0327,12.3,3.6,4.7,8.7,42.2,4.5
+2019,Gemeente,Utrecht,Lopik,GM0331,5.2,6.1,8.1,10.1,58.8,5.1
+2019,Gemeente,Utrecht,Montfoort,GM0335,5.4,4.4,5.8,8,52.9,4.7
+2019,Gemeente,Utrecht,Nieuwegein,GM0356,27,7.5,5.8,13.7,39.3,4.9
+2019,Gemeente,Utrecht,Oudewater,GM0589,4,7.1,7.2,10.2,58.9,5
+2019,Gemeente,Utrecht,Renswoude,GM0339,1.9,5.7,6.7,8.9,54.3,5
+2019,Gemeente,Utrecht,Rhenen,GM0340,7.6,9.1,8.1,13.4,57.1,5.2
+2019,Gemeente,Utrecht,Soest,GM0342,19.2,7.6,7,12.9,57.6,5
+2019,Gemeente,Utrecht,Stichtse Vecht,GM1904,25.8,5.7,6.1,11.1,50.2,4.7
+2019,Gemeente,Utrecht,Utrecht (gemeente),GM0344,131.2,8.9,5.7,18.8,36.2,4.4
+2019,Gemeente,Utrecht,Utrechtse Heuvelrug,GM1581,19.2,6.4,7.5,11.7,57.6,5.1
+2019,Gemeente,Utrecht,Veenendaal,GM0345,26.2,9.4,5.4,16.3,43,4.8
+2019,Gemeente,Utrecht,Vijfheerenlanden,GM1961,21.7,7.1,6.2,13.6,50.1,4.9
+2019,Gemeente,Utrecht,Wijk bij Duurstede,GM0352,9.5,6.3,5.5,10.1,46.8,4.7
+2019,Gemeente,Utrecht,Woerden,GM0632,20.6,5.3,5.2,11,44.9,4.5
+2019,Gemeente,Utrecht,Woudenberg,GM0351,4.8,4.3,5.8,8.6,48.8,4.8
+2019,Gemeente,Utrecht,Zeist,GM0355,25.6,9.9,7.5,16.5,59,5.1
+2019,Provincie,Zeeland,Zeeland,PV29,165,8.8,8.1,15.8,57.7,5.2
+2019,Gemeente,Zeeland,Borsele,GM0654,9.2,6,6.8,11.2,59.7,5
+2019,Gemeente,Zeeland,Goes,GM0664,16.6,9.2,6.1,17.3,48.4,4.8
+2019,Gemeente,Zeeland,Hulst,GM0677,12.1,8,10.1,15,63.5,5.5
+2019,Gemeente,Zeeland,Kapelle,GM0678,5,5.1,5.5,9.7,54.8,4.7
+2019,Gemeente,Zeeland,Middelburg (Z.),GM0687,21.4,8.1,6.7,17,50.6,5
+2019,Gemeente,Zeeland,Noord-Beveland,GM1695,3.3,9,8.7,13.8,65.4,5.5
+2019,Gemeente,Zeeland,Reimerswaal,GM0703,8.4,7.8,6.3,14.3,62.2,5
+2019,Gemeente,Zeeland,Schouwen-Duiveland,GM1676,14.5,8.6,8.9,13.8,61.7,5.4
+2019,Gemeente,Zeeland,Sluis,GM1714,10.7,10.4,12.6,16.1,67.4,6
+2019,Gemeente,Zeeland,Terneuzen,GM0715,24.3,11.2,9.6,17.2,62.7,5.5
+2019,Gemeente,Zeeland,Tholen,GM0716,10.1,8.5,7.7,14.7,60.4,5.2
+2019,Gemeente,Zeeland,Veere,GM0717,9,5.3,8.3,9.3,61.4,5.1
+2019,Gemeente,Zeeland,Vlissingen,GM0718,20.3,10.1,7.1,21.3,49,5.1
+2019,Provincie,Zuid-Holland,Zuid-Holland,PV28,1505.1,10.3,6.8,19.2,45.9,4.9
+2019,Gemeente,Zuid-Holland,'s-Gravenhage (gemeente),GM0518,216.6,13.6,9.1,25.9,45.2,5.2
+2019,Gemeente,Zuid-Holland,Alblasserdam,GM0482,7.9,9.5,4.8,15.9,54.7,4.7
+2019,Gemeente,Zuid-Holland,Albrandswaard,GM0613,9.8,5.1,4.5,9.8,43.3,4.3
+2019,Gemeente,Zuid-Holland,Alphen aan den Rijn,GM0484,45.2,7.1,5,12.4,48.3,4.6
+2019,Gemeente,Zuid-Holland,Barendrecht,GM0489,18.3,4.7,3.5,9.8,32.2,4.1
+2019,Gemeente,Zuid-Holland,Bodegraven-Reeuwijk,GM1901,13.4,5.9,6.3,10.4,54.2,4.7
+2019,Gemeente,Zuid-Holland,Capelle aan den IJssel,GM0502,29,12.2,7.3,19.2,41,5.1
+2019,Gemeente,Zuid-Holland,Delft,GM0503,40.2,12.5,6.5,22.4,44.4,4.8
+2019,Gemeente,Zuid-Holland,Dordrecht,GM0505,50.4,10.9,7.1,20,49.9,5.1
+2019,Gemeente,Zuid-Holland,Goeree-Overflakkee,GM1924,19.8,7.9,6.6,14,55.5,5
+2019,Gemeente,Zuid-Holland,Gorinchem,GM0512,15.2,10,5.3,19.1,42.8,4.8
+2019,Gemeente,Zuid-Holland,Gouda,GM0513,30.9,8.5,5,17.9,47.9,4.6
+2019,Gemeente,Zuid-Holland,Hardinxveld-Giessendam,GM0523,6.8,6.2,4.2,12.6,53.8,4.6
+2019,Gemeente,Zuid-Holland,Hendrik-Ido-Ambacht,GM0531,11.7,5.9,3.1,10.9,43.5,4.2
+2019,Gemeente,Zuid-Holland,Hillegom,GM0534,9.1,5.8,5.2,11.4,48.7,4.7
+2019,Gemeente,Zuid-Holland,Hoeksche Waard,GM1963,35.3,6.4,5.1,10.7,56.3,4.7
+2019,Gemeente,Zuid-Holland,Kaag en Braassem,GM1884,10.6,7.6,6.6,11.2,54.9,4.8
+2019,Gemeente,Zuid-Holland,Katwijk,GM0537,24.9,6.1,4.6,12.6,45.3,4.5
+2019,Gemeente,Zuid-Holland,Krimpen aan den IJssel,GM0542,11.9,8.1,5.2,14.3,51.9,4.7
+2019,Gemeente,Zuid-Holland,Krimpenerwaard,GM1931,22.3,7.8,6.5,12.8,58.1,5
+2019,Gemeente,Zuid-Holland,Lansingerland,GM1621,22.6,3.7,4.1,9.3,35.6,4.1
+2019,Gemeente,Zuid-Holland,Leiden,GM0546,49.9,10.4,6.5,20,45.6,4.8
+2019,Gemeente,Zuid-Holland,Leiderdorp,GM0547,11.5,5.3,4.4,11.6,42.3,4.4
+2019,Gemeente,Zuid-Holland,Leidschendam-Voorburg,GM1916,33.9,8.8,6.3,15.9,54.1,4.8
+2019,Gemeente,Zuid-Holland,Lisse,GM0553,9.6,5.7,4.8,12,45.9,4.6
+2019,Gemeente,Zuid-Holland,Maassluis,GM0556,14,10.4,5.3,17.1,50.7,4.7
+2019,Gemeente,Zuid-Holland,Midden-Delfland,GM1842,7.5,3.6,4.3,8.5,38.8,4.1
+2019,Gemeente,Zuid-Holland,Molenlanden,GM1978,16.1,7.4,6.3,11.1,62,4.9
+2019,Gemeente,Zuid-Holland,Nieuwkoop,GM0569,10.8,6.7,7,9.2,57.8,4.9
+2019,Gemeente,Zuid-Holland,Nissewaard,GM1930,36.8,8.4,6.4,16.7,40.2,4.8
+2019,Gemeente,Zuid-Holland,Noordwijk,GM0575,17.4,6,6.5,11.9,50,4.8
+2019,Gemeente,Zuid-Holland,Oegstgeest,GM0579,10,4.5,5,9.3,45.7,4.3
+2019,Gemeente,Zuid-Holland,Papendrecht,GM0590,13.7,8.5,4.8,13.8,49.1,4.6
+2019,Gemeente,Zuid-Holland,Pijnacker-Nootdorp,GM1926,20,4.1,4,8.5,31.8,4
+2019,Gemeente,Zuid-Holland,Ridderkerk,GM0597,20,7,5.1,15.5,46.2,4.8
+2019,Gemeente,Zuid-Holland,Rijswijk (ZH.),GM0603,24.4,11.9,6.6,18.6,55.6,4.9
+2019,Gemeente,Zuid-Holland,Rotterdam,GM0599,271.5,15.4,9.2,29.5,38.9,5.3
+2019,Gemeente,Zuid-Holland,Schiedam,GM0606,32.9,13.3,6.5,22.4,50.1,5
+2019,Gemeente,Zuid-Holland,Sliedrecht,GM0610,10,9.1,4.5,15.9,52.3,4.7
+2019,Gemeente,Zuid-Holland,Teylingen,GM1525,14.6,5.5,4.8,9.9,45.1,4.4
+2019,Gemeente,Zuid-Holland,Vlaardingen,GM0622,32,10.1,6.3,21.6,47.7,5
+2019,Gemeente,Zuid-Holland,Voorne aan Zee,GM1992,30.6,7,5.9,12.4,51.9,4.7
+2019,Gemeente,Zuid-Holland,Voorschoten,GM0626,10.6,6.8,4.9,10.8,57.9,4.5
+2019,Gemeente,Zuid-Holland,Waddinxveen,GM0627,11.3,7.7,4.6,13,48.4,4.5
+2019,Gemeente,Zuid-Holland,Wassenaar,GM0629,10.7,9.7,9.9,14.1,70.8,5.4
+2019,Gemeente,Zuid-Holland,Westland,GM1783,41.6,6.2,5.2,10.9,47.7,4.5
+2019,Gemeente,Zuid-Holland,Zoetermeer,GM0637,53,8.5,5.3,15.5,35.6,4.6
+2019,Gemeente,Zuid-Holland,Zoeterwoude,GM0638,3.3,3.6,4.9,7.5,51.7,4.4
+2019,Gemeente,Zuid-Holland,Zuidplas,GM1892,16.5,7.7,5.3,11.8,49.4,4.6
+2019,Gemeente,Zuid-Holland,Zwijndrecht,GM0642,19.3,12,6.5,17.6,59.1,5

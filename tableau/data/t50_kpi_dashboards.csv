@@ -95,3 +95,55 @@ Dashboard,Volgorde,KPI,Waarde,Tekst,Vergelijking,Referentie,Richting
 30,2,Zones where the model wins,36.0,36 of 37,median improvement 16%,"trained on 2019-2024, tested on 2025",goed
 30,3,Battery revenue captured,0.8715,87%,yesterday's prices: 80%,"of perfect foresight, median zone",goed
 30,4,Without weather and load,22.5783,23 EUR/MWh,"NL, lagged prices and calendar only",most of the gain is not from weather,neutraal
+12,1,"Power price 2030, Net Zero 2050",101.2,101 USD/MWh,current policies: 69,"OECD and EU, 2010 dollars",slecht
+12,2,"Power price 2050, Net Zero 2050",41.65,42 USD/MWh,current policies: 51,after the transition the price is lower,goed
+12,3,Power generation 2050,1.668587008282057,1.7 times 2020,current policies: 1.2 times,"Net Zero 2050, OECD and EU",neutraal
+12,4,Scenarios,7.0,7 scenarios,"5 world regions, one model","NGFS phase V, REMIND-MAgPIE",neutraal
+21,1,Silver,57.0,57 USD/oz,one year earlier: 49,3.7 times January 2019,slecht
+21,2,Copper,14508.0,"14,508 USD/t","one year earlier: 10,740",2.4 times January 2019,slecht
+21,3,Aluminium,3061.0,"3,061 USD/t","one year earlier: 2,793",1.7 times January 2019,slecht
+21,4,Latest month,0.0,2026-10,World Bank Pink Sheet,nominal US dollars,neutraal
+22,1,Jobs in renewable energy,16.6,16.6 million,"world, 2024",IRENA/ILO annual review 2025,goed
+22,2,Of which solar PV,7.3,7.3 million,44% of all renewable jobs,largest technology,goed
+22,3,China,7.3,7.3 million,44% of the world; EU 1.8 million,all renewables,neutraal
+22,4,Solar jobs in China,4.2,4.2 million,58% of all solar jobs,manufacturing is concentrated,neutraal
+23,1,Households in energy poverty,6.0,6.0%,2019: 9.9%; 2023: 3.7%,"503 thousand households, 2025",slecht
+23,2,Highest municipality,14.2,Vaals: 14.2%,lowest: Rozendaal 1.6%,"CBS, 2024, 342 municipalities",slecht
+23,3,Municipalities above 8%,25.0,25 of 342,national: 6.0%,2024,neutraal
+23,4,Affordability gap,624.0,624 EUR/yr,per household in energy poverty,"CBS/TNO, 2025",slecht
+24,1,Announced hydrogen capacity,163555.64,164 Mt/yr,concept or feasibility study,"1521 projects, IEA June 2026",neutraal
+24,2,Operating or under construction,6819.88,6.8 Mt/yr,4% of what is announced,final investment decision taken,slecht
+24,3,"Cancelled, dormant or on hold",31022.47,31 Mt/yr,536 projects,larger than what is being built,slecht
+24,4,Netherlands: being built,431.79,432 kt/yr,"announced: 3,538 kt/yr",low-emission hydrogen projects,neutraal
+32,1,Solar earns more than it costs,11.0,11 of 26,own model: 20; previous assumption: 7,IRENA 2024 cost vs 2025 capture price,neutraal
+32,2,Cheapest country,39.2184,Netherlands: 39 EUR/MWh,most expensive: Poland 78,IRENA 2024,goed
+32,3,Netherlands,39.2184,39 EUR/MWh,own model: 40; PBL reference: 67,"three cost levels, one country",neutraal
+32,4,Measured by IRENA,7.0,7 of 26,others: European average 55 EUR/MWh,country data only for the large markets,neutraal
+36,1,Feed-in between 10 and 16h,0.74219144,74%,of all power a solar household feeds in,NEDU profile E1A 2026,neutraal
+36,2,Feed-in from April to September,0.8043081400000001,80%,six summer months,when prices are lowest,slecht
+36,3,Best net feed-in payment,4.40494,Eneco: 4.4 ct/kWh,lowest: Vandebron 0.3 ct/kWh,"13 suppliers, 2026-11-24",neutraal
+36,4,Median net payment,2.9338,2.9 ct/kWh,payment minus feed-in cost,net metering ends 1 January 2027,slecht
+38,1,Zones where the battery hedges solar,28.0,28 of 37,"solar down, battery up, 2023 to 2025",day-ahead arbitrage only,goed
+38,2,Battery needed per MW of solar,1.2917450000000001,1.3 MW,median zone,at 1000 full-load hours of solar,neutraal
+38,3,Netherlands: solar capture price,-17.5001,-18 EUR/MWh,battery revenue +14k EUR/MW,2023 to 2025,slecht
+38,4,Correlation capture rate and battery revenue,-0.32396,-0.32,"median zone, 2019-2025",negative = natural hedge,neutraal
+39,1,Cost of capital for solar,6.788755,6.8%,Germany 2.3% to Argentina 16.9%,"median of 64 countries, IRENA 2024",neutraal
+39,2,Below investment grade,9.730885,9.7%,investment grade: 5.3%,24 of 64 countries,slecht
+39,3,Financing share of solar cost,56.39005,56%,investment grade: 33%,share of LCOE that pays for capital,slecht
+39,4,India at European financing,41.108,41% cheaper,WACC 10.8% vs Europe 4.0%,IEA Cost of Capital Observatory,goed
+40,1,"Large solar park, subsidy per tonne",62.0,62 EUR/t,1 to 20 MWp: 176 EUR/t,PBL advice SDE++ 2026,goed
+40,2,Onshore wind,52.0,52 to 251 EUR/t,by wind speed class,PBL advice SDE++ 2026,neutraal
+40,3,Hydrogen from electrolysis,780.0,"780 to 1,275 EUR/t",capped at 400 EUR/t in the scheme,PBL advice SDE++ 2026,slecht
+40,4,New solar without subsidy,11.0,11 of 26 countries,abate CO2 at a profit in 2025,"own cost curve (dashboard 5), IRENA 2024 cost",goed
+41,1,Dutch household grid cost,0.1135,11.3 ct/kWh,2019: 5.7 ct/kWh,EU: 8.2 ct/kWh,slecht
+41,2,EU household grid cost,0.0815,8.2 ct/kWh,2019: 6.0 ct/kWh (+37%),"Eurostat, 2025, 2,500-4,999 kWh",slecht
+41,3,Grid share of energy plus grid,43.6,44%,EU: 40%,"Netherlands, households, before taxes",neutraal
+41,4,Countries where grid cost rose,35.0,35 of 38,"2019 to 2025, households",Dutch business: 5.9 ct/kWh; EU 4.4,slecht
+42,1,Largest queue,595.2,Italy: 595 GW,12 times peak demand,generation and storage only,slecht
+42,2,Netherlands,76.0,76 GW,3.9 times peak demand,"offtake and feed-in, 30 June 2026",slecht
+42,3,Dutch businesses waiting,15498.0,"15,498","end 2025: 15,154","regional grids, offtake, 10.0 GW",slecht
+42,4,Countries with a public figure,10.0,10,Germany and Belgium publish none,definitions differ: do not add up,neutraal
+43,1,Fall in solar cost,85.57171991842284,-86%,"first to last year per country, to 2024","median of 15 countries, IRENA",goed
+43,2,Cheapest in 2024,33.0,China: 33 USD/MWh,most expensive: Japan 120,2024 USD,goed
+43,3,Netherlands,67.61272602426185,-68%,131 (2016) to 42 USD/MWh (2024),IRENA project data,goed
+43,4,Spread between countries,3.627878787878788,3.6x,2010: 1.8x (9 countries),most expensive divided by cheapest,neutraal

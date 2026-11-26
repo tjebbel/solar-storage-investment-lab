@@ -1,0 +1,24 @@
+Category,Technology,Subsidy intensity EUR per tonne CO2,Base amount EUR per kWh,Long-term price EUR per kWh,PBL table,Capped
+Zon-pv groter dan 20 MWp grondgebonden,Zon,62,0.078,0.073,3.3,nee
+Zon-pv 1 tot 20 MWp grondgebonden,Zon,176,0.0889,0.073,3.3,nee
+Zon-pv groter dan 1 MWp gebouwgebonden,Zon,105,0.0861,0.073,3.3,nee
+Zon-pv 15 kWp tot 1 MWp gebouwgebonden,Zon,93,0.0945,0.073,3.3,nee
+Zon-pv groter dan 1 MWp drijvend op water,Zon,216,0.0925,0.073,3.3,nee
+Wind op land 8.0 m/s of meer,Wind,52,0.0652,0.0594,3.1,nee
+Wind op land 7.5 tot 8.0 m/s,Wind,106,0.0711,0.0594,3.1,nee
+Wind op land 7.0 tot 7.5 m/s,Wind,161,0.0772,0.0594,3.1,nee
+Wind op land onder 6.75 m/s,Wind,251,0.0872,0.0594,3.1,nee
+Diepe geothermie 20 MWth of meer basislast,Warmte,73,0.0627,0.031,3.9,nee
+Diepe geothermie onder 12 MWth basislast,Warmte,112,0.0799,0.031,3.9,nee
+Zonthermie 1 MWth of meer voor warmtenet,Warmte,283,0.0946,0.031,3.3,nee
+Industriele warmtepomp gesloten systeem 8000 uur,Elektrificatie,56,0.0609,0.0504,3.13,nee
+Industriele warmtepomp gesloten systeem 3000 uur,Elektrificatie,383,0.1223,0.0504,3.13,nee
+Elektrische boiler industrie,Elektrificatie,62,0.0699,0.056,3.13,nee
+Elektrische boiler stadsverwarming,Elektrificatie,130,0.0699,0.0406,3.13,nee
+Waterstof elektrolyse directe lijn windpark,Waterstof,780,0.248,0.1614,3.17,ja (400)
+Waterstof elektrolyse directe lijn zonnepark,Waterstof,1275,0.361,0.1614,3.17,ja (400)
+Waterstof elektrolyse netgekoppeld met wind op zee,Waterstof,1040,0.3074,0.1614,3.17,ja (400)
+Allesvergisting hernieuwbaar gas,Groen gas,273,0.1027,0.056,3.5,nee
+CCS variant 2A bestaande installatie,CCS,11,,,3.21,nee
+CCS variant 5A post-combustion bestaande industrie,CCS,110,,,3.21,nee
+Direct air capture,CCS,451,,,3.21,ja (300)

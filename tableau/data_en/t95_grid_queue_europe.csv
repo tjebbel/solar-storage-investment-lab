@@ -1,0 +1,11 @@
+Country,Queue GW,Peak demand 2025 GW,As of,Grid operator source,What is counted,Queue as multiple of peak demand
+Italy,595.2,49.6,2026-09-30,Terna Econnextion,generation and storage no demand,12
+Great Britain,381.4,45.9,2026-01,NESO,generation storage and demand after Gate 2,8.3
+Poland,261.8,26,2026-08-31,PSE,generation storage and demand,10.1
+Spain,168.2,39.7,2026-09-30,Red Electrica,generation storage and demand on the transmission grid,4.2
+Netherlands,76,19.6,2026-06-30,Netbeheer Nederland,offtake and feed-in at TenneT and regional operators,3.9
+Denmark,60,6.3,2026-06,Energinet,demand only including inquiries,9.5
+France,53.6,86.6,2024-12-31,ODRE (RTE),renewables only,0.6
+Norway,26,23.4,2026-10-15,Statnett,new demand requests in 2026 only,1.1
+Portugal,18.1,9.4,2026-06-30,DGEG,MVA instead of MW,1.9
+Ireland,14.7,5.9,2026-08-05,EirGrid,contracted generation,2.5

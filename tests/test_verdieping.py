@@ -57,6 +57,34 @@ class OpenbareBronnen(unittest.TestCase):
         j = pd.read_csv("data/extern/irena_jobs_2025.csv")
         self.assertLess(j[j["Dimension"] == "Technology"]["Jobs million"].sum(), j[j["Dimension"] == "Total"]["Jobs million"].iloc[0])
 
+class NieuweBronnen(unittest.TestCase):
+    def test_nieuwe_bronnen(self):
+        n = pd.read_csv("data/extern/eurostat_netkosten.csv")
+        som = n["Energy and supply EUR/kWh"] + n["Network EUR/kWh"] + n["Taxes and levies EUR/kWh"]
+        self.assertTrue(((som - n["Total EUR/kWh"]).abs() < 0.001).all())
+        self.assertEqual(n["Group"].nunique(), 2)
+        c = pd.read_csv("data/extern/cbs_energiearmoede_regio.csv")
+        g = c[(c["Level"] == "Gemeente") & (c["Year"] == 2024)]
+        self.assertEqual(len(g), 342)
+        self.assertEqual(c[(c["Level"] == "Nederland") & (c["Year"] == 2019)]["Energy poverty pct"].iloc[0], 9.9)
+        w = pd.read_csv("data/extern/netwachtrij_europa_2026.csv")
+        self.assertEqual(len(w), 10)
+        p = pd.read_csv("data/extern/pbl_sde_2026_subsidie_intensiteit.csv")
+        self.assertTrue(p["Subsidy intensity EUR per tonne CO2"].between(0, 1500).all())
+        o = pd.read_csv("data/extern/opslag_ervaringscurves.csv")
+        self.assertIn("Lithium-ion", set(o["Technology"]))
+        self.assertFalse(o.duplicated(["Series", "Year"]).any())   # twee perioden van een techniek blijven gescheiden
+        self.assertTrue((n["Network EUR/kWh"] > 0).all())
+        h = pd.read_csv("data/extern/iea_hydrogen_projects_2026.csv")
+        self.assertEqual(h["Projects"].sum(), 2934)
+        g = pd.read_csv(D / "t100_commodity_prices.csv")
+        self.assertEqual(set(g["Commodity"]), {"Silver", "Copper", "Aluminum"})
+        u = pd.read_csv(D / "t101_household_profile.csv")
+        self.assertEqual(len(u), 288)
+        for f in ("eurostat_netkosten", "cbs_energiearmoede_regio", "netwachtrij_europa_2026", "pbl_sde_2026_subsidie_intensiteit"):
+            self.assertNotIn('"', open(f"data/extern/{f}.csv").read())   # geen komma's in waarden (Tableau)
+
+
 class KostprijsPerLand(unittest.TestCase):
     def test_lcoe_per_land(self):
         t = pd.read_csv(D / "t92_solar_lcoe_country.csv")

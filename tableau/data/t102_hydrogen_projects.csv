@@ -1,0 +1,1206 @@
+ISO3,Country,Status,Technology group,Year online,Projects,Capacity MW electric,Capacity kt H2 per year
+AGO,Angola,Feasibility study,Electrolysis,,1,204.2,35.38
+AGO,Angola,On hold,Electrolysis,,1,400,69.3
+ALB,Albania,Concept,Electrolysis,,1,0,0
+ARE,United Arab Emirates,Cancelled,Electrolysis,,1,0,0
+ARE,United Arab Emirates,Concept,Electrolysis,,7,1557,269.76
+ARE,United Arab Emirates,Concept,Electrolysis,2027,1,0,0
+ARE,United Arab Emirates,Concept,Electrolysis,2028,1,0,0
+ARE,United Arab Emirates,Concept,Fossil with CCUS,,1,0,200
+ARE,United Arab Emirates,Concept,Other,,1,0,7.3
+ARE,United Arab Emirates,DEMO,Electrolysis,2024,1,2.1,0.31
+ARE,United Arab Emirates,Dormant,Electrolysis,,2,1277.3,219.09
+ARE,United Arab Emirates,FID/Construction,Electrolysis,,1,2.5,0.42
+ARE,United Arab Emirates,FID/Construction,Electrolysis,2026,1,5.8,1
+ARE,United Arab Emirates,Feasibility study,Electrolysis,,2,2202.7,381.15
+ARE,United Arab Emirates,Feasibility study,Fossil with CCUS,2030,1,0,180.07
+ARE,United Arab Emirates,Operational,Electrolysis,2021,1,1.2,0.19
+ARE,United Arab Emirates,Operational,Fossil with CCUS,2016,1,0,0
+ARG,Argentina,Concept,Electrolysis,,3,3000,519.76
+ARG,Argentina,Concept,Electrolysis,2040,1,6200,1074.17
+ARG,Argentina,Dormant,Electrolysis,,4,15505,2686.3
+ARG,Argentina,Feasibility study,Electrolysis,2031,1,334.7,50.19
+ARG,Argentina,Operational,Electrolysis,2009,1,0.8,0.14
+AUS,Australia,Cancelled,Electrolysis,,33,6980,1188
+AUS,Australia,Cancelled,Electrolysis,2029,1,662.6,114.8
+AUS,Australia,Cancelled,Electrolysis,2030,1,8000,1386.03
+AUS,Australia,Cancelled,Fossil with CCUS,,3,0,0
+AUS,Australia,Concept,Electrolysis,,23,59416.3,10286.7
+AUS,Australia,Concept,Electrolysis,2028,9,15734.7,2718.98
+AUS,Australia,Concept,Electrolysis,2029,1,20,3.47
+AUS,Australia,Concept,Electrolysis,2030,5,4481.3,765.28
+AUS,Australia,Concept,Electrolysis,2031,2,850,147.27
+AUS,Australia,Concept,Electrolysis,2032,1,3741.7,648.26
+AUS,Australia,Concept,Electrolysis,2036,1,945,163.72
+AUS,Australia,Concept,Fossil with CCUS,,2,0,99.04
+AUS,Australia,Concept,Other,,2,519.7,108.04
+AUS,Australia,DEMO,Electrolysis,2020,2,0,0
+AUS,Australia,DEMO,Electrolysis,2023,1,0,0
+AUS,Australia,DEMO,Electrolysis,2025,1,5,0.85
+AUS,Australia,DEMO,Electrolysis,2026,1,5,0.87
+AUS,Australia,DEMO,Other,,2,0,0
+AUS,Australia,Dormant,Electrolysis,,9,11797,2038.21
+AUS,Australia,FID/Construction,Electrolysis,,2,0.7,0.1
+AUS,Australia,FID/Construction,Electrolysis,2026,6,33.2,5.56
+AUS,Australia,FID/Construction,Electrolysis,2027,1,15,2.6
+AUS,Australia,FID/Construction,Other,2026,1,0,0.05
+AUS,Australia,Feasibility study,Electrolysis,,14,6755.4,1127.08
+AUS,Australia,Feasibility study,Electrolysis,2027,7,417.5,71.69
+AUS,Australia,Feasibility study,Electrolysis,2028,12,5624.3,901.24
+AUS,Australia,Feasibility study,Electrolysis,2029,4,2130,368.05
+AUS,Australia,Feasibility study,Electrolysis,2030,1,3000,519.76
+AUS,Australia,Feasibility study,Electrolysis,2031,2,1560,270.28
+AUS,Australia,Feasibility study,Electrolysis,2032,1,474,82.12
+AUS,Australia,Feasibility study,Electrolysis,2035,1,15357,2660.65
+AUS,Australia,Feasibility study,Electrolysis,2040,1,14000,2425.55
+AUS,Australia,Feasibility study,Fossil with CCUS,,3,0,16.67
+AUS,Australia,Feasibility study,Fossil with CCUS,2027,1,0,216.09
+AUS,Australia,Feasibility study,Fossil with CCUS,2028,2,0,225.09
+AUS,Australia,Feasibility study,Fossil with CCUS,2029,1,0,83.95
+AUS,Australia,Feasibility study,Other,,1,0,0.8
+AUS,Australia,Feasibility study,Other,2030,1,1400,242.55
+AUS,Australia,Feasibility study,Other,2031,1,220,38.12
+AUS,Australia,On hold,Electrolysis,,1,36,6.1
+AUS,Australia,On hold,Fossil with CCUS,,1,0,281.05
+AUS,Australia,Operational,Electrolysis,2013,1,0.2,0.03
+AUS,Australia,Operational,Electrolysis,2018,1,1,0.15
+AUS,Australia,Operational,Electrolysis,2019,1,0.1,0.02
+AUS,Australia,Operational,Electrolysis,2021,4,2,0.3
+AUS,Australia,Operational,Electrolysis,2022,2,0.6,0.09
+AUS,Australia,Operational,Electrolysis,2023,1,0,0.01
+AUS,Australia,Operational,Electrolysis,2024,1,1.4,0.21
+AUS,Australia,Operational,Electrolysis,2025,2,2.7,0.4
+AUS,Australia,Operational,Electrolysis,2026,1,2,0.34
+AUS,Australia,Operational,Other,2024,1,0,0.1
+AUT,Austria,Cancelled,Electrolysis,,5,0,0
+AUT,Austria,Concept,Electrolysis,,1,149,22.34
+AUT,Austria,Concept,Electrolysis,2030,1,240,41.58
+AUT,Austria,DEMO,Electrolysis,2002,1,0,0
+AUT,Austria,DEMO,Electrolysis,2006,2,0,0
+AUT,Austria,DEMO,Electrolysis,2012,1,0,0
+AUT,Austria,DEMO,Electrolysis,2013,2,0,0
+AUT,Austria,DEMO,Electrolysis,2015,1,0.1,0.01
+AUT,Austria,DEMO,Electrolysis,2023,1,2,0.3
+AUT,Austria,DEMO,Electrolysis,2024,1,1,0.21
+AUT,Austria,FID/Construction,Electrolysis,2026,2,6,0.98
+AUT,Austria,FID/Construction,Electrolysis,2027,1,140,20.99
+AUT,Austria,Feasibility study,Electrolysis,,1,21.1,3.65
+AUT,Austria,Feasibility study,Electrolysis,2027,2,65,11.14
+AUT,Austria,Feasibility study,Other,,1,20,3.47
+AUT,Austria,On hold,Electrolysis,,1,60,9
+AUT,Austria,Operational,Electrolysis,2018,1,0.6,0.1
+AUT,Austria,Operational,Electrolysis,2019,1,6,0.9
+AUT,Austria,Operational,Electrolysis,2020,1,0.1,0.03
+AUT,Austria,Operational,Electrolysis,2022,2,3.8,0.63
+AUT,Austria,Operational,Electrolysis,2023,4,7,1.07
+AUT,Austria,Operational,Electrolysis,2024,1,3,0.45
+AUT,Austria,Operational,Electrolysis,2025,1,10,1.5
+AUT,Austria,Operational,Other,2017,1,0.3,0.07
+BEL,Belgium,Cancelled,Electrolysis,,10,0,0
+BEL,Belgium,Concept,Electrolysis,,2,594.5,102.99
+BEL,Belgium,DEMO,Electrolysis,,1,0.3,0.05
+BEL,Belgium,DEMO,Other,2025,1,0,0
+BEL,Belgium,FID/Construction,Electrolysis,2026,1,25,4.33
+BEL,Belgium,Feasibility study,Electrolysis,,1,2.5,0.43
+BEL,Belgium,Feasibility study,Electrolysis,2027,2,102.5,15.43
+BEL,Belgium,Feasibility study,Electrolysis,2029,1,20,3.47
+BEL,Belgium,Feasibility study,Fossil with CCUS,2030,1,0,0
+BEL,Belgium,Feasibility study,Fossil with CCUS,2032,1,0,210
+BEL,Belgium,Operational,Electrolysis,2015,1,0.3,0.05
+BEL,Belgium,Operational,Electrolysis,2021,1,1,0.15
+BGD,Bangladesh,DEMO,Other,2020,1,0,0
+BGR,Bulgaria,Feasibility study,Electrolysis,,1,0,0
+BHR,Bahrain,Concept,Electrolysis,,1,4,0.69
+BRA,Brazil,Cancelled,Electrolysis,,3,0,0
+BRA,Brazil,Concept,Electrolysis,,15,28472.2,4932.9
+BRA,Brazil,Concept,Electrolysis,2027,3,7409.3,1283.68
+BRA,Brazil,Concept,Electrolysis,2030,3,2463,426.72
+BRA,Brazil,Concept,Electrolysis,2032,1,1000,173.25
+BRA,Brazil,Concept,Other,,1,0,0
+BRA,Brazil,Concept,Other,2027,1,0,0.36
+BRA,Brazil,DEMO,Electrolysis,2021,1,0.6,0.1
+BRA,Brazil,DEMO,Other,2023,1,0,0
+BRA,Brazil,DEMO,Other,2025,1,0,0.04
+BRA,Brazil,Dormant,Electrolysis,,2,3763.1,651.98
+BRA,Brazil,FID/Construction,Electrolysis,2026,2,7,1.21
+BRA,Brazil,Feasibility study,Electrolysis,,12,1400,242.55
+BRA,Brazil,Feasibility study,Electrolysis,2027,7,6361.7,1102.18
+BRA,Brazil,Feasibility study,Electrolysis,2028,3,2518,436.26
+BRA,Brazil,Feasibility study,Electrolysis,2029,2,1856.7,321.68
+BRA,Brazil,Feasibility study,Electrolysis,2030,4,1755,304.06
+BRA,Brazil,Feasibility study,Other,,2,300,51.98
+BRA,Brazil,Feasibility study,Other,2027,1,8.3,1.44
+BRA,Brazil,Feasibility study,Other,2030,1,1100,190.58
+BRA,Brazil,On hold,Electrolysis,,5,3900,675.69
+BRA,Brazil,Operational,Electrolysis,2022,2,3.9,0.61
+BRA,Brazil,Operational,Electrolysis,2026,1,5,0.85
+BRA,Brazil,Operational,Other,2024,1,0,1.26
+BRB,Barbados,Feasibility study,Electrolysis,,1,13.3,2
+BWA,Botswana,Feasibility study,Other,,1,0,0
+CAN,Canada,Cancelled,Electrolysis,,13,2209.1,367.57
+CAN,Canada,Cancelled,Electrolysis,2031,1,650,97.45
+CAN,Canada,Cancelled,Fossil with CCUS,,3,0,0
+CAN,Canada,Cancelled,Other,,1,0,0
+CAN,Canada,Concept,Electrolysis,,4,255.2,344.22
+CAN,Canada,Concept,Other,,3,300,51.98
+CAN,Canada,Concept,Other,2030,1,117.1,20.29
+CAN,Canada,DEMO,Electrolysis,2001,2,0,0
+CAN,Canada,DEMO,Electrolysis,2007,1,0,0
+CAN,Canada,DEMO,Electrolysis,2015,1,0.3,0.05
+CAN,Canada,DEMO,Electrolysis,2024,1,0,0
+CAN,Canada,DEMO,Other,,2,0,0
+CAN,Canada,DEMO,Other,2027,2,0,4.38
+CAN,Canada,Decommisioned,Electrolysis,2009,1,0.3,0.05
+CAN,Canada,Decommisioned,Electrolysis,2011,1,0.1,0.02
+CAN,Canada,Dormant,Electrolysis,,10,4670.8,809.12
+CAN,Canada,Dormant,Fossil with CCUS,,5,0,506.05
+CAN,Canada,Dormant,Other,,1,0,116
+CAN,Canada,FID/Construction,Electrolysis,2026,3,31.8,4.99
+CAN,Canada,FID/Construction,Fossil with CCUS,2028,2,0,140
+CAN,Canada,FID/Construction,Fossil with CCUS,2029,1,0,1000
+CAN,Canada,Feasibility study,Electrolysis,,3,1470.5,254.71
+CAN,Canada,Feasibility study,Electrolysis,2027,2,284.2,62.47
+CAN,Canada,Feasibility study,Electrolysis,2028,2,2492.1,373.64
+CAN,Canada,Feasibility study,Electrolysis,2029,3,3120,538.66
+CAN,Canada,Feasibility study,Electrolysis,2030,1,275,41.23
+CAN,Canada,Feasibility study,Electrolysis,2031,2,2636.2,456.73
+CAN,Canada,Feasibility study,Fossil with CCUS,,1,0,300
+CAN,Canada,Feasibility study,Fossil with CCUS,2030,1,0,180.07
+CAN,Canada,Feasibility study,Other,,3,10,186.73
+CAN,Canada,Feasibility study,Other,2028,3,312.6,59.64
+CAN,Canada,Operational,Electrolysis,,1,0.5,0.07
+CAN,Canada,Operational,Electrolysis,2010,1,0.3,0.05
+CAN,Canada,Operational,Electrolysis,2018,1,2.5,0.37
+CAN,Canada,Operational,Electrolysis,2021,1,20,3
+CAN,Canada,Operational,Electrolysis,2025,1,2.4,0.36
+CAN,Canada,Operational,Fossil with CCUS,2015,1,0,300
+CAN,Canada,Operational,Fossil with CCUS,2017,1,0,0
+CAN,Canada,Operational,Fossil with CCUS,2020,2,0,180.07
+CAN,Canada,Operational,Other,2023,1,0,9.19
+CHE,Switzerland,Cancelled,Electrolysis,,2,0,0
+CHE,Switzerland,DEMO,Electrolysis,2012,1,0.3,0.05
+CHE,Switzerland,DEMO,Electrolysis,2014,1,0,0
+CHE,Switzerland,DEMO,Electrolysis,2015,3,0.7,0.11
+CHE,Switzerland,Dormant,Electrolysis,,1,2.3,0.4
+CHE,Switzerland,FID/Construction,Electrolysis,2026,1,2,0.35
+CHE,Switzerland,Feasibility study,Electrolysis,2027,1,10,1.73
+CHE,Switzerland,Operational,Electrolysis,2019,1,0.3,0.05
+CHE,Switzerland,Operational,Electrolysis,2020,1,2,0.3
+CHE,Switzerland,Operational,Electrolysis,2022,2,4.5,0.72
+CHE,Switzerland,Operational,Electrolysis,2023,1,0.5,0.08
+CHE,Switzerland,Operational,Electrolysis,2024,1,2.5,0.43
+CHL,Chile,Cancelled,Electrolysis,,7,2703,173.77
+CHL,Chile,Concept,Electrolysis,,6,4843.7,839.18
+CHL,Chile,Concept,Electrolysis,2029,1,800,138.6
+CHL,Chile,Concept,Electrolysis,2030,2,2180,377.69
+CHL,Chile,Concept,Electrolysis,2032,1,100,17.33
+CHL,Chile,Concept,Electrolysis,2035,1,3700,641.04
+CHL,Chile,Concept,Other,,2,2750,476.45
+CHL,Chile,DEMO,Electrolysis,2024,1,2,0.35
+CHL,Chile,Decommisioned,Electrolysis,2017,1,0.1,0.01
+CHL,Chile,Dormant,Electrolysis,,14,8258.7,1430.85
+CHL,Chile,FID/Construction,Electrolysis,2026,1,1,0.17
+CHL,Chile,Feasibility study,Electrolysis,,1,10,1.73
+CHL,Chile,Feasibility study,Electrolysis,2027,6,2297.5,397.54
+CHL,Chile,Feasibility study,Electrolysis,2028,2,950,158.95
+CHL,Chile,Feasibility study,Electrolysis,2029,2,4937.7,855.48
+CHL,Chile,Feasibility study,Electrolysis,2030,3,2137,357.91
+CHL,Chile,Feasibility study,Electrolysis,2031,1,2200,372.87
+CHL,Chile,Feasibility study,Other,,5,4502,779.99
+CHL,Chile,Feasibility study,Other,2028,1,10,1.73
+CHL,Chile,Feasibility study,Other,2030,1,2500,433.13
+CHL,Chile,Feasibility study,Other,2031,1,550,95.29
+CHL,Chile,Feasibility study,Other,2032,1,880,152.46
+CHL,Chile,Operational,Electrolysis,2021,1,0,0
+CHL,Chile,Operational,Electrolysis,2022,2,1.2,0.18
+CHL,Chile,Operational,Electrolysis,2023,2,0.8,0.12
+CHL,Chile,Operational,Electrolysis,2024,2,0,0
+CHN,China,Cancelled,Electrolysis,,16,53.7,9.3
+CHN,China,Cancelled,Fossil with CCUS,,1,0,0
+CHN,China,Concept,Electrolysis,,22,18964.6,3204.01
+CHN,China,Concept,Electrolysis,2029,2,800.5,137.34
+CHN,China,Concept,Electrolysis,2030,2,961,166.5
+CHN,China,Concept,Electrolysis,2031,3,790,146.05
+CHN,China,Concept,Electrolysis,2035,1,11543.8,2000
+CHN,China,Concept,Fossil with CCUS,2028,1,0,54.57
+CHN,China,Concept,Other,,4,1226.1,231.55
+CHN,China,DEMO,Electrolysis,,2,471.5,81.7
+CHN,China,DEMO,Electrolysis,2017,1,0.1,0.02
+CHN,China,DEMO,Electrolysis,2020,2,0,0
+CHN,China,DEMO,Electrolysis,2022,2,2.2,0.34
+CHN,China,DEMO,Electrolysis,2023,1,0.2,0.04
+CHN,China,DEMO,Electrolysis,2025,1,0.1,0.02
+CHN,China,Decommisioned,Fossil with CCUS,2015,1,0,0
+CHN,China,Dormant,Electrolysis,,3,90,15.25
+CHN,China,Dormant,Fossil with CCUS,,1,0,0
+CHN,China,FID/Construction,Electrolysis,,2,331.3,57.4
+CHN,China,FID/Construction,Electrolysis,2026,4,356.2,60.09
+CHN,China,FID/Construction,Electrolysis,2027,10,4493.7,737.41
+CHN,China,FID/Construction,Electrolysis,2028,7,1650.8,295.16
+CHN,China,FID/Construction,Electrolysis,2029,4,1089.5,188.17
+CHN,China,FID/Construction,Electrolysis,2030,3,339.6,57.91
+CHN,China,FID/Construction,Electrolysis,2031,1,56.4,9.57
+CHN,China,FID/Construction,Other,,1,0,17.8
+CHN,China,FID/Construction,Other,2028,4,762.5,161.3
+CHN,China,Feasibility study,Electrolysis,,13,5066,877.7
+CHN,China,Feasibility study,Electrolysis,2027,6,2062.2,350.83
+CHN,China,Feasibility study,Electrolysis,2028,5,1486.1,254.07
+CHN,China,Feasibility study,Electrolysis,2029,4,442.7,75.96
+CHN,China,Feasibility study,Electrolysis,2030,1,75,11.69
+CHN,China,Feasibility study,Other,,3,0,114.8
+CHN,China,Operational,Electrolysis,2018,1,0.1,0.02
+CHN,China,Operational,Electrolysis,2019,2,8,1.28
+CHN,China,Operational,Electrolysis,2020,2,13.9,2.35
+CHN,China,Operational,Electrolysis,2021,4,160.1,27.06
+CHN,China,Operational,Electrolysis,2022,4,38.1,6.34
+CHN,China,Operational,Electrolysis,2023,7,470.8,80.15
+CHN,China,Operational,Electrolysis,2024,4,113.5,19.51
+CHN,China,Operational,Electrolysis,2025,10,1472.5,222.07
+CHN,China,Operational,Electrolysis,2026,1,15.3,2.6
+CHN,China,Operational,Fossil with CCUS,2015,2,0,0
+CHN,China,Operational,Fossil with CCUS,2022,1,0,0
+CHN,China,Operational,Fossil with CCUS,2023,1,0,0
+CHN,China,Operational,Fossil with CCUS,2024,1,0,0
+CHN,China,Operational,Other,2025,1,1,0.19
+COD,Democratic Republic of the Congo,Concept,Electrolysis,,1,0,0
+COK,Cook Islands,DEMO,Electrolysis,2011,1,0.1,0.01
+COL,Colombia,Cancelled,Electrolysis,,10,145,25.12
+COL,Colombia,Cancelled,Other,,2,0,0
+COL,Colombia,Concept,Electrolysis,2027,1,2.9,0.5
+COL,Colombia,Concept,Electrolysis,2030,2,2280,341.84
+COL,Colombia,Concept,Electrolysis,2040,1,3500,606.39
+COL,Colombia,Concept,Fossil with CCUS,,1,0,0
+COL,Colombia,Concept,Other,2035,1,20,3.47
+COL,Colombia,DEMO,Electrolysis,2022,3,0.1,0.01
+COL,Colombia,DEMO,Electrolysis,2023,1,0.2,0.02
+COL,Colombia,Dormant,Electrolysis,,2,42,7.23
+COL,Colombia,FID/Construction,Electrolysis,,1,0.7,0.12
+COL,Colombia,FID/Construction,Electrolysis,2026,1,5,0.75
+COL,Colombia,Feasibility study,Electrolysis,2027,3,1060,179.77
+COL,Colombia,Feasibility study,Electrolysis,2030,5,1487.3,224.1
+COL,Colombia,Feasibility study,Electrolysis,2032,2,1937,209.9
+COL,Colombia,Operational,Electrolysis,2025,1,2.3,0.39
+CRI,Costa Rica,Concept,Electrolysis,2028,1,200,34.65
+CRI,Costa Rica,Feasibility study,Electrolysis,2027,1,1,0.15
+CRI,Costa Rica,Feasibility study,Electrolysis,2028,1,120,20.34
+CRI,Costa Rica,Operational,Electrolysis,2017,1,0,0
+CYP,Cyprus,Feasibility study,Electrolysis,,1,0.2,0.04
+CYP,Cyprus,Feasibility study,Electrolysis,2027,1,2,0.35
+CZE,Czechia,Concept,Electrolysis,,2,0.4,0.08
+CZE,Czechia,Dormant,Electrolysis,,3,80,13.86
+CZE,Czechia,Feasibility study,Electrolysis,2027,1,4,0.6
+CZE,Czechia,Feasibility study,Electrolysis,2028,1,30,4.5
+CZE,Czechia,Operational,Other,2025,1,0.5,0.09
+DEU,Germany,Cancelled,Electrolysis,,19,1172,203.05
+DEU,Germany,Cancelled,Other,,1,0,0
+DEU,Germany,Concept,Electrolysis,,16,4002.2,680.52
+DEU,Germany,Concept,Electrolysis,2028,4,655,113.48
+DEU,Germany,Concept,Electrolysis,2029,2,1300,225.23
+DEU,Germany,Concept,Electrolysis,2030,3,749.7,128.73
+DEU,Germany,Concept,Electrolysis,2035,1,9972,1727.68
+DEU,Germany,Concept,Fossil with CCUS,,2,0,10.8
+DEU,Germany,Concept,Fossil with CCUS,2028,1,0,155.93
+DEU,Germany,Concept,Fossil with CCUS,2034,1,0,210
+DEU,Germany,Concept,Other,,5,40,6.93
+DEU,Germany,Concept,Other,2028,1,15,2.6
+DEU,Germany,Concept,Other,2030,1,36.3,6.29
+DEU,Germany,Concept,Other,2031,1,15,2.6
+DEU,Germany,DEMO,Electrolysis,,2,11,1.65
+DEU,Germany,DEMO,Electrolysis,2003,1,0.3,0.05
+DEU,Germany,DEMO,Electrolysis,2005,1,0,0
+DEU,Germany,DEMO,Electrolysis,2006,1,0,0
+DEU,Germany,DEMO,Electrolysis,2007,1,0,0
+DEU,Germany,DEMO,Electrolysis,2008,1,0,0
+DEU,Germany,DEMO,Electrolysis,2009,1,0.2,0.04
+DEU,Germany,DEMO,Electrolysis,2011,3,0,0
+DEU,Germany,DEMO,Electrolysis,2012,4,0.3,0.06
+DEU,Germany,DEMO,Electrolysis,2013,3,0.9,0.14
+DEU,Germany,DEMO,Electrolysis,2014,1,0.3,0.04
+DEU,Germany,DEMO,Electrolysis,2015,5,1.7,0.25
+DEU,Germany,DEMO,Electrolysis,2016,3,0.1,0.01
+DEU,Germany,DEMO,Electrolysis,2017,2,0.1,0.03
+DEU,Germany,DEMO,Electrolysis,2018,1,2,0.34
+DEU,Germany,DEMO,Electrolysis,2019,2,1.2,0.19
+DEU,Germany,DEMO,Electrolysis,2021,1,0,0
+DEU,Germany,DEMO,Electrolysis,2022,1,0.8,0.13
+DEU,Germany,DEMO,Electrolysis,2023,4,3.5,0.65
+DEU,Germany,DEMO,Electrolysis,2024,1,0,0
+DEU,Germany,DEMO,Other,2023,1,0,0.15
+DEU,Germany,DEMO,Other,2024,1,0,0
+DEU,Germany,DEMO,Other,2025,1,1,0.19
+DEU,Germany,Decommisioned,Other,2023,1,1,0.19
+DEU,Germany,Dormant,Electrolysis,,3,1055,182.76
+DEU,Germany,FID/Construction,Electrolysis,2026,18,333.7,53.65
+DEU,Germany,FID/Construction,Electrolysis,2027,6,770,117.4
+DEU,Germany,FID/Construction,Electrolysis,2035,1,26.7,4
+DEU,Germany,FID/Construction,Other,2026,2,0.5,0.1
+DEU,Germany,FID/Construction,Other,2030,1,5,0.87
+DEU,Germany,Feasibility study,Electrolysis,,14,2143.1,382.67
+DEU,Germany,Feasibility study,Electrolysis,2027,18,848,139.98
+DEU,Germany,Feasibility study,Electrolysis,2028,12,1257.9,213.48
+DEU,Germany,Feasibility study,Electrolysis,2029,1,60,10.4
+DEU,Germany,Feasibility study,Electrolysis,2030,5,1007.5,169.89
+DEU,Germany,Feasibility study,Electrolysis,2035,1,1500,259.88
+DEU,Germany,Feasibility study,Other,2027,1,20,3.47
+DEU,Germany,On hold,Electrolysis,,5,2050,355.17
+DEU,Germany,Operational,Electrolysis,2009,1,0,0
+DEU,Germany,Operational,Electrolysis,2011,3,1.4,0.24
+DEU,Germany,Operational,Electrolysis,2012,4,0.5,0.09
+DEU,Germany,Operational,Electrolysis,2013,5,9.5,1.59
+DEU,Germany,Operational,Electrolysis,2014,3,0.5,0.09
+DEU,Germany,Operational,Electrolysis,2015,2,1,0.17
+DEU,Germany,Operational,Electrolysis,2016,3,1.6,0.25
+DEU,Germany,Operational,Electrolysis,2017,3,11.1,1.66
+DEU,Germany,Operational,Electrolysis,2018,5,1.3,0.19
+DEU,Germany,Operational,Electrolysis,2019,5,6.4,1.05
+DEU,Germany,Operational,Electrolysis,2020,7,8.5,1.34
+DEU,Germany,Operational,Electrolysis,2021,6,17.3,2.7
+DEU,Germany,Operational,Electrolysis,2022,2,12.7,1.9
+DEU,Germany,Operational,Electrolysis,2023,2,1,0.15
+DEU,Germany,Operational,Electrolysis,2024,6,46.9,7.33
+DEU,Germany,Operational,Electrolysis,2025,5,95,14.44
+DEU,Germany,Operational,Other,2023,2,1.5,0.28
+"DEU
+DNK","DEU
+DNK",Concept,Electrolysis,2027,1,0,0
+"DEU
+DNK","DEU
+DNK",Concept,Electrolysis,2031,1,0,0
+DJI,Djibouti,Concept,Electrolysis,,1,1000,173.25
+DJI,Djibouti,Concept,Electrolysis,2031,1,3000,519.76
+DJI,Djibouti,Dormant,Electrolysis,,1,0,0
+DMA,Dominica,Concept,Electrolysis,,1,164.5,28.5
+DNK,Denmark,Cancelled,Electrolysis,,6,100,16.95
+DNK,Denmark,Concept,Electrolysis,,8,3557.4,616.34
+DNK,Denmark,Concept,Electrolysis,2027,1,226,39.16
+DNK,Denmark,Concept,Electrolysis,2029,1,1000,173.25
+DNK,Denmark,Concept,Electrolysis,2030,1,10494.4,1818.18
+DNK,Denmark,DEMO,Electrolysis,2007,1,0.1,0.01
+DNK,Denmark,DEMO,Electrolysis,2008,1,0,0
+DNK,Denmark,DEMO,Electrolysis,2010,2,0,0
+DNK,Denmark,DEMO,Electrolysis,2011,4,0.3,0.05
+DNK,Denmark,DEMO,Electrolysis,2013,1,0,0.01
+DNK,Denmark,DEMO,Electrolysis,2014,2,1.2,0.2
+DNK,Denmark,DEMO,Electrolysis,2015,2,0.2,0.04
+DNK,Denmark,DEMO,Electrolysis,2017,1,0,0.01
+DNK,Denmark,DEMO,Electrolysis,2021,1,0.4,0.06
+DNK,Denmark,DEMO,Electrolysis,2022,1,2.6,0.46
+DNK,Denmark,DEMO,Electrolysis,2025,1,10,1.69
+DNK,Denmark,Dormant,Electrolysis,,4,670.9,116.23
+DNK,Denmark,Feasibility study,Electrolysis,,3,50,8.66
+DNK,Denmark,Feasibility study,Electrolysis,2027,2,28,4.85
+DNK,Denmark,Feasibility study,Electrolysis,2028,4,1630,286.18
+DNK,Denmark,Feasibility study,Other,2030,1,326.6,56.58
+DNK,Denmark,On hold,Electrolysis,,3,1130,192.09
+DNK,Denmark,Operational,Electrolysis,2010,2,0.1,0.01
+DNK,Denmark,Operational,Electrolysis,2013,4,2.6,0.44
+DNK,Denmark,Operational,Electrolysis,2015,1,0.5,0.08
+DNK,Denmark,Operational,Electrolysis,2020,3,2,0.31
+DNK,Denmark,Operational,Electrolysis,2022,1,2,0.34
+DNK,Denmark,Operational,Electrolysis,2024,2,9.1,1.56
+DNK,Denmark,Operational,Electrolysis,2025,3,77,11.94
+DOM,Dominican Republic,Concept,Electrolysis,2028,1,350,60.64
+DZA,Algeria,Concept,Electrolysis,,2,50,8.66
+DZA,Algeria,Concept,Other,,1,0,0
+EGY,Egypt,Cancelled,Electrolysis,,6,4000,693.01
+EGY,Egypt,Concept,Electrolysis,,11,36788.5,6373.74
+EGY,Egypt,Concept,Electrolysis,2027,2,293.9,50.93
+EGY,Egypt,Concept,Electrolysis,2028,1,150,25.99
+EGY,Egypt,Concept,Electrolysis,2029,1,250,51.29
+EGY,Egypt,Concept,Electrolysis,2030,1,432.9,75
+EGY,Egypt,Concept,Electrolysis,2032,1,500,86.63
+EGY,Egypt,Concept,Electrolysis,2034,1,3500,606.39
+EGY,Egypt,Concept,Electrolysis,2035,1,2308.8,400
+EGY,Egypt,Concept,Other,,1,106.1,18.37
+EGY,Egypt,Decommisioned,Electrolysis,2000,1,0,0
+EGY,Egypt,Dormant,Electrolysis,,2,2308.8,400
+EGY,Egypt,Feasibility study,Electrolysis,,5,4416.9,765.24
+EGY,Egypt,Feasibility study,Electrolysis,2027,2,707.9,122.64
+EGY,Egypt,Feasibility study,Electrolysis,2028,1,85,14.73
+EGY,Egypt,Feasibility study,Electrolysis,2029,1,288.6,50
+EGY,Egypt,Feasibility study,Electrolysis,2030,2,2370.8,410.76
+EGY,Egypt,Feasibility study,Other,2029,1,0,300
+EGY,Egypt,Operational,Electrolysis,2022,1,15,2.25
+ESP,Spain,Cancelled,Electrolysis,,23,720,124.57
+ESP,Spain,Concept,Electrolysis,,31,4544.6,787.36
+ESP,Spain,Concept,Electrolysis,2027,1,100,17.33
+ESP,Spain,Concept,Electrolysis,2028,5,145,24.77
+ESP,Spain,Concept,Electrolysis,2030,6,10167.1,1761.48
+ESP,Spain,Concept,Electrolysis,2031,2,694.1,120.26
+ESP,Spain,Concept,Electrolysis,2033,1,500,86.63
+ESP,Spain,Concept,Electrolysis,2034,1,200,30
+ESP,Spain,Concept,Fossil with CCUS,,1,0,15
+ESP,Spain,Concept,Other,,1,0,0
+ESP,Spain,DEMO,Electrolysis,,2,0.4,0.07
+ESP,Spain,DEMO,Electrolysis,2000,1,0,0
+ESP,Spain,DEMO,Electrolysis,2004,1,0,0
+ESP,Spain,DEMO,Electrolysis,2006,1,0.3,0.05
+ESP,Spain,DEMO,Electrolysis,2007,1,0.1,0.01
+ESP,Spain,DEMO,Electrolysis,2008,3,0.3,0.06
+ESP,Spain,DEMO,Electrolysis,2010,1,0.1,0.01
+ESP,Spain,DEMO,Electrolysis,2011,1,2.6,0.44
+ESP,Spain,DEMO,Electrolysis,2013,1,0,0
+ESP,Spain,DEMO,Electrolysis,2014,1,0,0
+ESP,Spain,DEMO,Electrolysis,2019,1,0.1,0.01
+ESP,Spain,DEMO,Other,2024,1,0,0
+ESP,Spain,Dormant,Electrolysis,,6,218,37.75
+ESP,Spain,Dormant,Other,,1,0,1.6
+ESP,Spain,FID/Construction,Electrolysis,2026,5,50.5,7.89
+ESP,Spain,FID/Construction,Electrolysis,2028,1,200,34.65
+ESP,Spain,FID/Construction,Electrolysis,2029,3,500,86.46
+ESP,Spain,FID/Construction,Other,2026,1,0,0
+ESP,Spain,Feasibility study,Electrolysis,,27,3751.2,648.04
+ESP,Spain,Feasibility study,Electrolysis,2027,20,1959.7,338.36
+ESP,Spain,Feasibility study,Electrolysis,2028,17,1711.7,297.75
+ESP,Spain,Feasibility study,Electrolysis,2029,13,2801.5,475
+ESP,Spain,Feasibility study,Electrolysis,2030,7,881,152.64
+ESP,Spain,Feasibility study,Electrolysis,2031,3,1609.4,278.83
+ESP,Spain,Feasibility study,Electrolysis,2032,1,1200,207.9
+ESP,Spain,Feasibility study,Electrolysis,2033,1,207.8,36
+ESP,Spain,Feasibility study,Electrolysis,2034,1,25,4.33
+ESP,Spain,Feasibility study,Electrolysis,2035,2,180,31.19
+ESP,Spain,Feasibility study,Other,,6,2403,416.32
+ESP,Spain,Feasibility study,Other,2027,3,3.6,10.82
+ESP,Spain,Feasibility study,Other,2030,2,372.1,64.47
+ESP,Spain,On hold,Electrolysis,,1,150,25.99
+ESP,Spain,Operational,Electrolysis,2015,1,0.1,0.01
+ESP,Spain,Operational,Electrolysis,2018,1,0,0.01
+ESP,Spain,Operational,Electrolysis,2022,5,25,3.75
+ESP,Spain,Operational,Electrolysis,2023,5,17.6,2.99
+ESP,Spain,Operational,Electrolysis,2025,2,3.8,0.56
+"ESP
+FRA","ESP
+FRA",Concept,Electrolysis,2030,1,0,0
+EST,Estonia,Cancelled,Electrolysis,,1,0,0
+EST,Estonia,Concept,Electrolysis,,3,5,0.87
+EST,Estonia,Concept,Electrolysis,2027,1,0,0
+EST,Estonia,Concept,Electrolysis,2030,1,24,3.6
+EST,Estonia,Concept,Other,,1,0,0
+EST,Estonia,Feasibility study,Electrolysis,,1,1049.4,181.82
+EST,Estonia,Feasibility study,Electrolysis,2028,1,1003.9,173.93
+EST,Estonia,Operational,Electrolysis,2010,1,0.1,0.03
+EST,Estonia,Operational,Electrolysis,2019,1,1,0.17
+EST,Estonia,Operational,Electrolysis,2025,1,1,0.17
+FIN,Finland,Cancelled,Electrolysis,,6,246.8,42.76
+FIN,Finland,Cancelled,Fossil with CCUS,,1,0,0
+FIN,Finland,Concept,Electrolysis,,4,3700,641.04
+FIN,Finland,Concept,Electrolysis,2028,2,10.7,1.85
+FIN,Finland,Concept,Electrolysis,2032,2,745,136.95
+FIN,Finland,Concept,Electrolysis,2034,1,600,103.95
+FIN,Finland,Concept,Other,2030,1,200,34.65
+FIN,Finland,DEMO,Electrolysis,,1,1.3,0.23
+FIN,Finland,DEMO,Electrolysis,2019,2,0,0
+FIN,Finland,DEMO,Electrolysis,2023,1,0.1,0.03
+FIN,Finland,FID/Construction,Electrolysis,2026,2,14,2.33
+FIN,Finland,Feasibility study,Electrolysis,,5,686.1,118.87
+FIN,Finland,Feasibility study,Electrolysis,2027,12,1794.5,304.37
+FIN,Finland,Feasibility study,Electrolysis,2028,3,300,51.03
+FIN,Finland,Feasibility study,Electrolysis,2029,8,882,152.81
+FIN,Finland,Feasibility study,Electrolysis,2030,6,3060,478.85
+FIN,Finland,Feasibility study,Electrolysis,2031,2,850,158.47
+FIN,Finland,Feasibility study,Other,2029,1,210.5,36.47
+FIN,Finland,Feasibility study,Other,2031,1,318.3,55.15
+FIN,Finland,On hold,Electrolysis,,2,304.2,52.7
+FIN,Finland,Operational,Electrolysis,2014,1,9,1.53
+FIN,Finland,Operational,Electrolysis,2020,1,0.7,0.12
+FIN,Finland,Operational,Electrolysis,2025,1,20,3.39
+FIN,Finland,Operational,Other,2025,1,0,2
+FJI,Fiji,Concept,Electrolysis,,1,7.7,1.33
+FRA,France,Cancelled,Electrolysis,,27,881,150.65
+FRA,France,Cancelled,Electrolysis,2024,1,1,0.17
+FRA,France,Cancelled,Electrolysis,2027,1,20,3.47
+FRA,France,Cancelled,Electrolysis,2029,1,200,33.9
+FRA,France,Cancelled,Electrolysis,2030,1,20,3.47
+FRA,France,Cancelled,Electrolysis,2033,1,300,50.85
+FRA,France,Cancelled,Other,,1,0,0
+FRA,France,Concept,Electrolysis,,1,0,0
+FRA,France,Concept,Electrolysis,2017,1,0.1,0.02
+FRA,France,Concept,Electrolysis,2027,4,206,35.67
+FRA,France,Concept,Electrolysis,2028,3,55,9.53
+FRA,France,Concept,Electrolysis,2029,4,540,93.56
+FRA,France,Concept,Electrolysis,2030,9,1620,280.56
+FRA,France,Concept,Electrolysis,2031,3,720,118.36
+FRA,France,Concept,Other,,2,0,3
+FRA,France,Concept,Other,2029,1,0,0
+FRA,France,DEMO,Electrolysis,2000,1,0,0
+FRA,France,DEMO,Electrolysis,2009,1,0.1,0.01
+FRA,France,DEMO,Electrolysis,2012,2,0.3,0.04
+FRA,France,DEMO,Electrolysis,2014,1,0,0
+FRA,France,DEMO,Electrolysis,2016,1,0,0
+FRA,France,DEMO,Electrolysis,2018,1,0.1,0.01
+FRA,France,DEMO,Electrolysis,2019,1,0,0
+FRA,France,DEMO,Electrolysis,2020,2,1,0.17
+FRA,France,DEMO,Electrolysis,2022,1,1,0.17
+FRA,France,DEMO,Electrolysis,2023,3,2.2,0.34
+FRA,France,DEMO,Electrolysis,2024,1,1,0.15
+FRA,France,Decommisioned,Electrolysis,2018,1,0.2,0.03
+FRA,France,Decommisioned,Electrolysis,2024,1,1,0.15
+FRA,France,Decommisioned,Other,,1,0,0.12
+FRA,France,Dormant,Electrolysis,,32,2230.5,385.08
+FRA,France,FID/Construction,Electrolysis,2026,6,248,37.98
+FRA,France,FID/Construction,Fossil with CCUS,2026,1,0,20
+FRA,France,Feasibility study,Electrolysis,2027,2,22.5,3.82
+FRA,France,Feasibility study,Electrolysis,2029,5,820,130.41
+FRA,France,Feasibility study,Electrolysis,2030,4,1400,242.37
+FRA,France,Feasibility study,Electrolysis,2031,4,885,153.33
+FRA,France,Feasibility study,Electrolysis,2032,1,200,34.65
+FRA,France,Feasibility study,Electrolysis,2033,1,280,48.51
+FRA,France,Feasibility study,Fossil with CCUS,2030,1,0,93.08
+FRA,France,Operational,Electrolysis,2017,1,0,0.01
+FRA,France,Operational,Electrolysis,2018,1,0.1,0.01
+FRA,France,Operational,Electrolysis,2019,1,0.5,0.08
+FRA,France,Operational,Electrolysis,2021,5,2.9,0.48
+FRA,France,Operational,Electrolysis,2022,1,1,0.17
+FRA,France,Operational,Electrolysis,2023,5,15.5,2.5
+FRA,France,Operational,Electrolysis,2024,2,2.8,0.47
+FRA,France,Operational,Electrolysis,2025,2,23,3.91
+FRA,France,Operational,Fossil with CCUS,2015,1,0,38.98
+FRA,France,Operational,Other,2025,1,0,0.12
+GAB,Gabon,Concept,Electrolysis,,1,200,34.65
+GBR,United Kingdom,Cancelled,Electrolysis,,17,1103.1,167.78
+GBR,United Kingdom,Cancelled,Fossil with CCUS,,11,0,149.8
+GBR,United Kingdom,Concept,Electrolysis,,6,460,79.7
+GBR,United Kingdom,Concept,Electrolysis,2027,1,32.6,5.64
+GBR,United Kingdom,Concept,Electrolysis,2028,8,515,89.23
+GBR,United Kingdom,Concept,Electrolysis,2030,10,3576.4,619.55
+GBR,United Kingdom,Concept,Electrolysis,2032,2,340,58.91
+GBR,United Kingdom,Concept,Electrolysis,2034,2,4100,710.34
+GBR,United Kingdom,Concept,Electrolysis,2035,2,80,13.86
+GBR,United Kingdom,Concept,Other,,2,40,10.58
+GBR,United Kingdom,DEMO,Electrolysis,,1,0.1,0.03
+GBR,United Kingdom,DEMO,Electrolysis,2010,1,0,0
+GBR,United Kingdom,DEMO,Electrolysis,2011,1,0,0
+GBR,United Kingdom,DEMO,Electrolysis,2012,1,0,0
+GBR,United Kingdom,DEMO,Electrolysis,2015,1,1,0.17
+GBR,United Kingdom,DEMO,Electrolysis,2023,1,0,0
+GBR,United Kingdom,DEMO,Electrolysis,2025,1,0.7,0.1
+GBR,United Kingdom,Decommisioned,Electrolysis,2018,1,0,0
+GBR,United Kingdom,Decommisioned,Electrolysis,2019,1,0,0
+GBR,United Kingdom,Dormant,Electrolysis,,4,1720,274.21
+GBR,United Kingdom,FID/Construction,Electrolysis,2026,9,48.9,8.22
+GBR,United Kingdom,FID/Construction,Electrolysis,2027,2,27.5,4.47
+GBR,United Kingdom,FID/Construction,Electrolysis,2028,3,60,9.19
+GBR,United Kingdom,FID/Construction,Other,2026,1,1,0.19
+GBR,United Kingdom,Feasibility study,Electrolysis,,2,0,0
+GBR,United Kingdom,Feasibility study,Electrolysis,2027,24,565.1,95.63
+GBR,United Kingdom,Feasibility study,Electrolysis,2028,16,1248.3,214.92
+GBR,United Kingdom,Feasibility study,Electrolysis,2029,4,485.9,81.38
+GBR,United Kingdom,Feasibility study,Electrolysis,2030,7,850.9,144.62
+GBR,United Kingdom,Feasibility study,Electrolysis,2031,1,109.4,22.45
+GBR,United Kingdom,Feasibility study,Electrolysis,2032,1,200,34.65
+GBR,United Kingdom,Feasibility study,Electrolysis,2035,2,723,147.7
+GBR,United Kingdom,Feasibility study,Fossil with CCUS,2028,3,0,312.73
+GBR,United Kingdom,Feasibility study,Fossil with CCUS,2029,1,0,88.63
+GBR,United Kingdom,Feasibility study,Fossil with CCUS,2030,3,0,991.03
+GBR,United Kingdom,Feasibility study,Fossil with CCUS,2032,1,0,149.8
+GBR,United Kingdom,Feasibility study,Fossil with CCUS,2035,1,0,3033.37
+GBR,United Kingdom,Feasibility study,Other,,2,400,69.3
+GBR,United Kingdom,Feasibility study,Other,2028,1,20,3.47
+GBR,United Kingdom,On hold,Fossil with CCUS,,2,0,179.76
+GBR,United Kingdom,Operational,Electrolysis,2004,1,0,0.01
+GBR,United Kingdom,Operational,Electrolysis,2005,1,0,0
+GBR,United Kingdom,Operational,Electrolysis,2008,1,0,0.01
+GBR,United Kingdom,Operational,Electrolysis,2012,1,0,0.01
+GBR,United Kingdom,Operational,Electrolysis,2016,1,0.4,0.06
+GBR,United Kingdom,Operational,Electrolysis,2017,2,0.9,0.15
+GBR,United Kingdom,Operational,Electrolysis,2018,2,1,0.17
+GBR,United Kingdom,Operational,Electrolysis,2019,1,1,0.15
+GBR,United Kingdom,Operational,Electrolysis,2020,1,0.5,0.07
+GBR,United Kingdom,Operational,Electrolysis,2021,1,3,0.45
+GBR,United Kingdom,Operational,Electrolysis,2023,2,1.9,0.33
+GBR,United Kingdom,Operational,Electrolysis,2024,4,7.2,1.22
+GBR,United Kingdom,Operational,Electrolysis,2026,1,2.5,0.37
+GRC,Greece,Concept,Electrolysis,,2,318.5,55.18
+GRC,Greece,Concept,Electrolysis,2030,1,100,17.33
+GRC,Greece,Concept,Fossil with CCUS,2030,1,0,0
+GRC,Greece,DEMO,Electrolysis,2006,1,0,0
+GRC,Greece,DEMO,Electrolysis,2008,1,0,0
+GRC,Greece,DEMO,Electrolysis,2009,1,0,0
+GRC,Greece,DEMO,Electrolysis,2010,2,0.2,0.04
+GRC,Greece,DEMO,Electrolysis,2021,1,0,0
+GRC,Greece,Dormant,Electrolysis,,1,10,1.73
+GRC,Greece,Dormant,Fossil with CCUS,,1,0,0
+GRC,Greece,FID/Construction,Electrolysis,2026,1,50,8.47
+GRC,Greece,FID/Construction,Other,2026,1,1.1,0.21
+GRC,Greece,Feasibility study,Electrolysis,,3,160,25.55
+GRC,Greece,Feasibility study,Electrolysis,2027,1,100,17.33
+GRC,Greece,Feasibility study,Fossil with CCUS,2030,1,0,0
+GRC,Greece,Operational,Electrolysis,2012,1,0.1,0.02
+GRC,Greece,Operational,Electrolysis,2022,1,1,0.17
+HRV,Croatia,FID/Construction,Electrolysis,2027,1,10,1.5
+HRV,Croatia,Feasibility study,Fossil with CCUS,2028,1,0,0
+HUN,Hungary,Concept,Electrolysis,,1,0,0
+HUN,Hungary,Operational,Electrolysis,2023,1,2,0.3
+HUN,Hungary,Operational,Electrolysis,2024,2,11,1.65
+IDN,Indonesia,Concept,Electrolysis,,4,6577.2,1171.44
+IDN,Indonesia,Concept,Electrolysis,2027,2,187.1,32.41
+IDN,Indonesia,Concept,Electrolysis,2028,1,1000,205.17
+IDN,Indonesia,Concept,Electrolysis,2030,3,1674.1,290.04
+IDN,Indonesia,Concept,Fossil with CCUS,,1,0,131.45
+IDN,Indonesia,Dormant,Electrolysis,,3,807.6,139.92
+IDN,Indonesia,Dormant,Fossil with CCUS,,1,0,118.85
+IDN,Indonesia,FID/Construction,Electrolysis,2026,1,0.5,0.09
+IDN,Indonesia,Feasibility study,Electrolysis,,1,5.8,1
+IDN,Indonesia,Feasibility study,Electrolysis,2027,3,183.2,31.73
+IDN,Indonesia,Feasibility study,Electrolysis,2028,1,600,101.69
+IDN,Indonesia,Feasibility study,Electrolysis,2029,1,300,51.98
+IDN,Indonesia,Feasibility study,Fossil with CCUS,2030,1,0,0
+IDN,Indonesia,Feasibility study,Other,2027,1,0,28.39
+IDN,Indonesia,Operational,Electrolysis,2023,1,0.3,0.05
+IND,India,Cancelled,Electrolysis,,1,0,0
+IND,India,Concept,Electrolysis,,17,11412.7,1973.51
+IND,India,Concept,Electrolysis,2027,6,7521.3,1303.09
+IND,India,Concept,Electrolysis,2029,1,1721.4,298.25
+IND,India,Concept,Electrolysis,2030,4,21055,3477.52
+IND,India,Concept,Fossil with CCUS,,1,0,0
+IND,India,Concept,Other,,2,387.5,67.13
+IND,India,Concept,Other,2028,1,250,43.31
+IND,India,Concept,Other,2030,1,0,0.39
+IND,India,Concept,Other,2031,1,1000,173.25
+IND,India,DEMO,Electrolysis,2013,1,0,0
+IND,India,DEMO,Electrolysis,2022,1,0.1,0.02
+IND,India,DEMO,Electrolysis,2025,3,6,1.04
+IND,India,DEMO,Other,2015,1,0,0.01
+IND,India,Dormant,Electrolysis,,1,37,6.4
+IND,India,Dormant,Other,,2,0,0.94
+IND,India,FID/Construction,Electrolysis,,1,0,0
+IND,India,FID/Construction,Electrolysis,2026,3,5,0.84
+IND,India,FID/Construction,Electrolysis,2028,2,1418,240.33
+IND,India,FID/Construction,Electrolysis,2029,1,333.9,56.59
+IND,India,FID/Construction,Other,2026,1,0,2.22
+IND,India,Feasibility study,Electrolysis,,9,9711.1,1680.03
+IND,India,Feasibility study,Electrolysis,2027,15,559.2,96.89
+IND,India,Feasibility study,Electrolysis,2028,3,1455.1,252.1
+IND,India,Feasibility study,Electrolysis,2029,2,415.7,72.03
+IND,India,Feasibility study,Electrolysis,2030,6,2948.5,508.61
+IND,India,Feasibility study,Electrolysis,2032,2,993.1,172.06
+IND,India,Feasibility study,Electrolysis,2040,1,0.2,0.03
+IND,India,Feasibility study,Fossil with CCUS,2030,1,0,0
+IND,India,Feasibility study,Other,2027,1,0,0.41
+IND,India,Feasibility study,Other,2028,1,0,58.4
+IND,India,Feasibility study,Other,2032,1,18,540.22
+IND,India,Operational,Electrolysis,2005,1,0,0
+IND,India,Operational,Electrolysis,2012,1,0,0
+IND,India,Operational,Electrolysis,2014,1,2,0.35
+IND,India,Operational,Electrolysis,2015,3,0.3,0.06
+IND,India,Operational,Electrolysis,2021,1,2.1,0.36
+IND,India,Operational,Electrolysis,2022,1,0.9,0.15
+IND,India,Operational,Electrolysis,2023,1,0,0
+IND,India,Operational,Electrolysis,2024,6,18.9,2.89
+IND,India,Operational,Electrolysis,2025,6,36.6,6.21
+IRL,Ireland,Concept,Electrolysis,2030,1,0,0
+IRL,Ireland,DEMO,Electrolysis,,1,0,0
+IRL,Ireland,Dormant,Electrolysis,,3,6350,1100.16
+IRL,Ireland,FID/Construction,Electrolysis,2026,1,1.2,0.21
+IRL,Ireland,Feasibility study,Electrolysis,,1,80,13.86
+IRL,Ireland,Feasibility study,Electrolysis,2027,3,57,9.88
+IRL,Ireland,Feasibility study,Electrolysis,2028,1,50,8.66
+IRL,Ireland,Feasibility study,Fossil with CCUS,2030,1,0,0
+IRL,Ireland,Feasibility study,Other,,1,0,0
+IRN,Islamic Republic of Iran,Operational,Electrolysis,2009,1,0.2,0.03
+ISL,Iceland,Concept,Electrolysis,,1,70,11.86
+ISL,Iceland,DEMO,Electrolysis,2003,1,0.3,0.05
+ISL,Iceland,Dormant,Electrolysis,,1,10,1.73
+ISL,Iceland,Feasibility study,Electrolysis,2027,1,30,5.08
+ISL,Iceland,Feasibility study,Electrolysis,2028,2,360,61.24
+ISL,Iceland,Operational,Electrolysis,2012,1,6,1.04
+ISL,Iceland,Operational,Electrolysis,2018,1,0.7,0.12
+ISR,Israel,Concept,Electrolysis,,1,30,5.2
+ITA,Italy,Cancelled,Electrolysis,,9,0,0
+ITA,Italy,Cancelled,Other,,1,0,0
+ITA,Italy,Concept,Electrolysis,,10,1160,199.11
+ITA,Italy,Concept,Electrolysis,2027,1,1000,173.25
+ITA,Italy,Concept,Electrolysis,2030,3,180,31.19
+ITA,Italy,Concept,Electrolysis,2031,2,1320,228.69
+ITA,Italy,DEMO,Electrolysis,,1,1,0.15
+ITA,Italy,DEMO,Electrolysis,2004,1,0,0
+ITA,Italy,DEMO,Electrolysis,2007,1,0,0
+ITA,Italy,DEMO,Electrolysis,2013,1,0,0
+ITA,Italy,DEMO,Electrolysis,2016,1,1.2,0.2
+ITA,Italy,Dormant,Electrolysis,,7,103,17.85
+ITA,Italy,FID/Construction,Electrolysis,2026,6,33.7,5.36
+ITA,Italy,FID/Construction,Electrolysis,2027,1,5,0.87
+ITA,Italy,FID/Construction,Other,2026,9,17.5,3.23
+ITA,Italy,Feasibility study,Electrolysis,,5,121,20.85
+ITA,Italy,Feasibility study,Electrolysis,2027,9,222,37.99
+ITA,Italy,Feasibility study,Electrolysis,2028,2,40,6.21
+ITA,Italy,Feasibility study,Electrolysis,2029,2,810.4,140.16
+ITA,Italy,Feasibility study,Electrolysis,2030,2,230,39.85
+ITA,Italy,Feasibility study,Fossil with CCUS,2030,1,0,23.39
+ITA,Italy,Operational,Electrolysis,2014,1,1.5,0.25
+ITA,Italy,Operational,Electrolysis,2018,2,0.2,0.04
+ITA,Italy,Operational,Fossil with CCUS,2016,1,0,1.17
+ITA,Italy,Operational,Other,2026,1,1,0.19
+JOR,Jordan,Concept,Electrolysis,,3,1120.1,230.07
+JOR,Jordan,Concept,Electrolysis,2033,1,935.4,162.06
+JOR,Jordan,Feasibility study,Electrolysis,,9,3253.2,563.63
+JOR,Jordan,Feasibility study,Electrolysis,2030,2,450.4,78.03
+JPN,Japan,Concept,Electrolysis,2030,1,100,17.33
+JPN,Japan,Concept,Fossil with CCUS,2030,1,0,6.08
+JPN,Japan,Concept,Other,,1,0,97.5
+JPN,Japan,Concept,Other,2030,1,0,2.5
+JPN,Japan,DEMO,Electrolysis,2003,1,0,0
+JPN,Japan,DEMO,Electrolysis,2005,1,0,0
+JPN,Japan,DEMO,Electrolysis,2015,1,0,0
+JPN,Japan,DEMO,Electrolysis,2016,1,0.2,0.03
+JPN,Japan,DEMO,Electrolysis,2017,2,0.2,0.03
+JPN,Japan,DEMO,Electrolysis,2019,1,0,0
+JPN,Japan,DEMO,Electrolysis,2020,1,0,0.01
+JPN,Japan,DEMO,Electrolysis,2024,1,3.2,0.54
+JPN,Japan,DEMO,Electrolysis,2025,1,1.5,0.26
+JPN,Japan,DEMO,Fossil with CCUS,,1,0,0.62
+JPN,Japan,DEMO,Fossil with CCUS,2016,1,0,0
+JPN,Japan,Dormant,Electrolysis,,1,3.2,0.55
+JPN,Japan,Operational,Electrolysis,2016,2,0,0
+JPN,Japan,Operational,Electrolysis,2017,3,0,0
+JPN,Japan,Operational,Electrolysis,2018,3,0,0.01
+JPN,Japan,Operational,Electrolysis,2019,3,1.6,0.25
+JPN,Japan,Operational,Electrolysis,2020,5,10,1.7
+JPN,Japan,Operational,Electrolysis,2023,1,5.1,0.86
+JPN,Japan,Operational,Electrolysis,2024,1,2,0.3
+JPN,Japan,Operational,Electrolysis,2025,1,16,2.77
+JPN,Japan,Operational,Fossil with CCUS,2025,1,0,0.7
+JPN,Japan,Operational,Other,2021,1,0,0.02
+KAZ,Kazakhstan,Concept,Electrolysis,,1,865.8,150
+KAZ,Kazakhstan,Concept,Electrolysis,2028,1,92.4,16
+KAZ,Kazakhstan,Concept,Other,,1,0,0
+KAZ,Kazakhstan,Feasibility study,Electrolysis,2032,1,20000,3465.07
+KEN,Kenya,Dormant,Electrolysis,,2,1300,225.23
+KEN,Kenya,FID/Construction,Electrolysis,2027,1,149.4,25.32
+KEN,Kenya,Feasibility study,Electrolysis,,2,70,10.2
+KEN,Kenya,Feasibility study,Other,,2,3000,519.76
+KOR,Korea,Concept,Electrolysis,,1,0,0
+KOR,Korea,Concept,Electrolysis,2033,1,0,0
+KOR,Korea,Concept,Fossil with CCUS,,1,0,0
+KOR,Korea,Concept,Fossil with CCUS,2030,1,0,8
+KOR,Korea,Concept,Other,,1,0,0
+KOR,Korea,DEMO,Electrolysis,,1,0,0
+KOR,Korea,DEMO,Electrolysis,2023,1,0.1,0.03
+KOR,Korea,DEMO,Other,,1,2,0.38
+KOR,Korea,Dormant,Electrolysis,,2,1300,225.23
+KOR,Korea,Dormant,Fossil with CCUS,,2,0,350
+KOR,Korea,FID/Construction,Electrolysis,2026,1,2.5,0.37
+KOR,Korea,FID/Construction,Electrolysis,2027,1,10,1.69
+KOR,Korea,Feasibility study,Electrolysis,,1,1,0.15
+KOR,Korea,Feasibility study,Electrolysis,2027,2,15,2.44
+KOR,Korea,Feasibility study,Electrolysis,2029,1,200,29.99
+KOR,Korea,On hold,Fossil with CCUS,,1,0,0
+KOR,Korea,Operational,Electrolysis,2026,1,10,1.69
+KOR,Korea,Operational,Fossil with CCUS,2023,1,0,1.82
+LBN,Lebanon,Operational,Electrolysis,2018,1,0.1,0.02
+LCA,Saint Lucia,Concept,Electrolysis,,1,6,1.04
+LKA,Sri Lanka,Concept,Electrolysis,,1,0,0
+LTU,Lithuania,Cancelled,Electrolysis,,1,0,0
+LTU,Lithuania,DEMO,Electrolysis,2025,1,1,0.17
+LTU,Lithuania,FID/Construction,Electrolysis,2026,1,3,0.45
+LUX,Luxembourg,Concept,Fossil with CCUS,,1,0,10
+LVA,Latvia,Concept,Electrolysis,2030,1,1000,173.25
+LVA,Latvia,Concept,Fossil with CCUS,,1,0,0.64
+LVA,Latvia,Dormant,Electrolysis,,2,30,5.2
+LVA,Latvia,Feasibility study,Other,2029,1,69.6,12.06
+LVA,Latvia,Operational,Electrolysis,2019,1,0.7,0.11
+MAR,Morocco,Cancelled,Electrolysis,,4,8000,1386.03
+MAR,Morocco,Concept,Electrolysis,,8,2417,568.75
+MAR,Morocco,Concept,Electrolysis,2027,1,100,17.33
+MAR,Morocco,Concept,Electrolysis,2028,1,3.1,0.54
+MAR,Morocco,Concept,Electrolysis,2030,1,2882.8,499.46
+MAR,Morocco,Concept,Electrolysis,2031,2,1500,259.88
+MAR,Morocco,Concept,Electrolysis,2032,1,2078.7,360.14
+MAR,Morocco,Concept,Electrolysis,2033,1,0,0
+MAR,Morocco,Concept,Electrolysis,2040,1,0,0
+MAR,Morocco,Concept,Other,,5,1020.5,176.35
+MAR,Morocco,Concept,Other,2038,1,0,0
+MAR,Morocco,DEMO,Electrolysis,,1,15,2.6
+MAR,Morocco,FID/Construction,Electrolysis,,1,200,34.65
+MAR,Morocco,FID/Construction,Other,,1,4,0.69
+MAR,Morocco,Feasibility study,Electrolysis,2027,1,150,25.99
+MAR,Morocco,Feasibility study,Electrolysis,2028,1,1650,279.65
+MAR,Morocco,Feasibility study,Electrolysis,2031,1,400,67.79
+MAR,Morocco,Feasibility study,Electrolysis,2033,1,3300,571.74
+MAR,Morocco,Feasibility study,Other,,1,0,0
+MAR,Morocco,Feasibility study,Other,2030,1,4,0.69
+MEX,Mexico,Concept,Electrolysis,,7,4896.7,848.37
+MEX,Mexico,Concept,Electrolysis,2028,3,2278.7,393.26
+MEX,Mexico,Concept,Electrolysis,2030,2,2278.7,394.79
+MEX,Mexico,Concept,Fossil with CCUS,,1,0,0
+MEX,Mexico,Dormant,Electrolysis,,1,31.1,4.67
+MEX,Mexico,Feasibility study,Electrolysis,2028,3,2815.6,471.94
+MNG,Mongolia,Feasibility study,Electrolysis,,1,10,1.73
+MOZ,Mozambique,Concept,Electrolysis,,1,8.7,1.5
+MRT,Mauritania,Cancelled,Electrolysis,,1,20787.1,3601.44
+MRT,Mauritania,Cancelled,Electrolysis,2032,1,2500,433.13
+MRT,Mauritania,Cancelled,Electrolysis,2037,1,12500,2165.67
+MRT,Mauritania,Concept,Electrolysis,,5,19000,3291.81
+MRT,Mauritania,Concept,Electrolysis,2029,1,100,17.33
+MRT,Mauritania,Concept,Electrolysis,2030,1,400,69.3
+MRT,Mauritania,Concept,Electrolysis,2031,1,500,86.63
+MRT,Mauritania,Concept,Electrolysis,2034,1,8500,1472.65
+MRT,Mauritania,Feasibility study,Electrolysis,2031,2,1823,309.63
+MYS,Malaysia,Concept,Electrolysis,,5,11043,1913.23
+MYS,Malaysia,Concept,Electrolysis,2027,1,288.6,50
+MYS,Malaysia,DEMO,Electrolysis,,1,0,0
+MYS,Malaysia,DEMO,Electrolysis,2006,1,0,0
+MYS,Malaysia,FID/Construction,Electrolysis,2026,1,60,10.4
+MYS,Malaysia,Feasibility study,Electrolysis,2027,3,70.3,11.96
+MYS,Malaysia,Feasibility study,Electrolysis,2028,2,189,32.75
+MYS,Malaysia,Feasibility study,Electrolysis,2030,1,649.3,112.5
+MYS,Malaysia,Operational,Electrolysis,2019,1,0.3,0.05
+NAM,Namibia,Concept,Electrolysis,,1,893.8,154.86
+NAM,Namibia,Concept,Electrolysis,2032,1,420,72.77
+NAM,Namibia,FID/Construction,Electrolysis,2026,1,0.2,0.04
+NAM,Namibia,Feasibility study,Electrolysis,,1,26.9,4.67
+NAM,Namibia,Feasibility study,Electrolysis,2027,4,2044.1,354.15
+NAM,Namibia,Feasibility study,Electrolysis,2029,1,2000,346.51
+NAM,Namibia,Feasibility study,Electrolysis,2032,1,415,71.9
+NAM,Namibia,Operational,Electrolysis,2025,3,21,3.48
+NER,Niger,Concept,Electrolysis,,1,0,0
+NGA,Nigeria,Concept,Electrolysis,,1,1345.2,228
+NLD,Netherlands,Cancelled,Electrolysis,,4,0,0
+NLD,Netherlands,Cancelled,Fossil with CCUS,,4,0,100
+NLD,Netherlands,Concept,Electrolysis,,1,85,14.73
+NLD,Netherlands,Concept,Electrolysis,2027,2,15,2.6
+NLD,Netherlands,Concept,Electrolysis,2028,3,77,13.34
+NLD,Netherlands,Concept,Electrolysis,2029,2,1025,177.58
+NLD,Netherlands,Concept,Electrolysis,2030,4,178.5,30.93
+NLD,Netherlands,Concept,Electrolysis,2031,1,287.9,49.87
+NLD,Netherlands,Concept,Electrolysis,2033,1,500,86.63
+NLD,Netherlands,Concept,Electrolysis,2040,1,3000,519.76
+NLD,Netherlands,Concept,Electrolysis,2043,1,6296.6,1090.91
+NLD,Netherlands,Concept,Fossil with CCUS,,1,0,0
+NLD,Netherlands,DEMO,Electrolysis,,1,0,0
+NLD,Netherlands,DEMO,Electrolysis,2003,1,0.3,0.05
+NLD,Netherlands,DEMO,Electrolysis,2008,1,0,0
+NLD,Netherlands,DEMO,Electrolysis,2013,1,0,0
+NLD,Netherlands,DEMO,Electrolysis,2019,1,0,0
+NLD,Netherlands,DEMO,Electrolysis,2023,2,0,0
+NLD,Netherlands,DEMO,Electrolysis,2025,1,1,0.15
+NLD,Netherlands,DEMO,Electrolysis,2028,2,11.9,1.82
+NLD,Netherlands,DEMO,Other,,1,0,4.64
+NLD,Netherlands,DEMO,Other,2023,2,0,1.45
+NLD,Netherlands,Decommisioned,Electrolysis,2021,1,1,0.15
+NLD,Netherlands,Dormant,Electrolysis,,8,6104.7,1057.17
+NLD,Netherlands,FID/Construction,Electrolysis,,1,0,0
+NLD,Netherlands,FID/Construction,Electrolysis,2026,4,212.5,35.95
+NLD,Netherlands,FID/Construction,Electrolysis,2027,1,200,34.65
+NLD,Netherlands,FID/Construction,Electrolysis,2028,1,20,3.39
+NLD,Netherlands,FID/Construction,Fossil with CCUS,2026,1,0,0
+NLD,Netherlands,FID/Construction,Fossil with CCUS,2027,3,0,256.1
+NLD,Netherlands,FID/Construction,Other,2026,1,1,0.19
+NLD,Netherlands,Feasibility study,Electrolysis,,3,6,1.04
+NLD,Netherlands,Feasibility study,Electrolysis,2027,12,1080,185.08
+NLD,Netherlands,Feasibility study,Electrolysis,2028,5,782,130.63
+NLD,Netherlands,Feasibility study,Electrolysis,2029,3,375,59.14
+NLD,Netherlands,Feasibility study,Electrolysis,2030,9,3058.5,529.75
+NLD,Netherlands,Feasibility study,Electrolysis,2031,1,200,34.65
+NLD,Netherlands,Feasibility study,Electrolysis,2033,1,506,87.67
+NLD,Netherlands,Feasibility study,Electrolysis,2035,1,900,155.93
+NLD,Netherlands,Feasibility study,Fossil with CCUS,2028,1,0,300
+NLD,Netherlands,Feasibility study,Fossil with CCUS,2030,1,0,0.2
+NLD,Netherlands,Feasibility study,Other,,1,0,0
+NLD,Netherlands,Feasibility study,Other,2027,3,0,67.27
+NLD,Netherlands,On hold,Electrolysis,,3,750,118.28
+NLD,Netherlands,Operational,Electrolysis,,1,0.2,0.04
+NLD,Netherlands,Operational,Electrolysis,2011,1,0,0
+NLD,Netherlands,Operational,Electrolysis,2022,3,5.2,0.84
+NLD,Netherlands,Operational,Electrolysis,2023,1,0.5,0.09
+NLD,Netherlands,Operational,Electrolysis,2025,1,2.6,0.53
+NLD,Netherlands,Operational,Fossil with CCUS,2005,1,0,100
+NLD,Netherlands,Operational,Other,2022,1,0,0
+NLD,Netherlands,Operational,Other,2024,1,0.1,0.01
+NOR,Norway,Cancelled,Electrolysis,,11,500,84.74
+NOR,Norway,Cancelled,Fossil with CCUS,,4,0,0
+NOR,Norway,Cancelled,Other,,2,0,0
+NOR,Norway,Concept,Electrolysis,,3,1000.6,170.27
+NOR,Norway,Concept,Electrolysis,2027,1,250,43.31
+NOR,Norway,Concept,Electrolysis,2028,2,40,6.93
+NOR,Norway,Concept,Electrolysis,2029,1,600,103.95
+NOR,Norway,Concept,Electrolysis,2030,2,39,6.76
+NOR,Norway,Concept,Electrolysis,2032,1,5747.6,995.79
+NOR,Norway,Concept,Fossil with CCUS,,2,0,360.14
+NOR,Norway,DEMO,Electrolysis,,1,0,0
+NOR,Norway,DEMO,Electrolysis,2003,1,0,0
+NOR,Norway,DEMO,Electrolysis,2004,1,0,0.01
+NOR,Norway,DEMO,Electrolysis,2010,1,0,0
+NOR,Norway,DEMO,Electrolysis,2024,1,1.5,0.22
+NOR,Norway,Decommisioned,Electrolysis,2020,1,0,0
+NOR,Norway,Dormant,Fossil with CCUS,,1,0,3.5
+NOR,Norway,FID/Construction,Electrolysis,2026,5,65,11.03
+NOR,Norway,FID/Construction,Electrolysis,2027,5,105,17.84
+NOR,Norway,Feasibility study,Electrolysis,,3,375,64.91
+NOR,Norway,Feasibility study,Electrolysis,2027,10,461,79.47
+NOR,Norway,Feasibility study,Electrolysis,2028,3,250,43.14
+NOR,Norway,Feasibility study,Electrolysis,2029,4,1620.8,273.81
+NOR,Norway,Feasibility study,Electrolysis,2030,3,95,16.46
+NOR,Norway,Feasibility study,Electrolysis,2035,1,180,35.92
+NOR,Norway,Feasibility study,Fossil with CCUS,2031,1,0,180.07
+NOR,Norway,Feasibility study,Other,,1,131.1,22.72
+NOR,Norway,Operational,Electrolysis,2000,1,0.1,0.01
+NOR,Norway,Operational,Electrolysis,2013,1,0.6,0.1
+NOR,Norway,Operational,Electrolysis,2016,1,0,0
+NOR,Norway,Operational,Electrolysis,2017,1,0.7,0.12
+NOR,Norway,Operational,Electrolysis,2021,1,2.5,0.37
+NOR,Norway,Operational,Electrolysis,2022,1,5.5,0.93
+NOR,Norway,Operational,Electrolysis,2023,1,0.9,0.15
+NOR,Norway,Operational,Electrolysis,2024,3,28,4.22
+NOR,Norway,Operational,Fossil with CCUS,2024,1,0,0.41
+NOR,Norway,Operational,Other,2013,1,0,0.01
+NZL,New Zealand,DEMO,Electrolysis,2008,1,0,0
+NZL,New Zealand,DEMO,Electrolysis,2009,1,0,0
+NZL,New Zealand,DEMO,Electrolysis,2011,1,0,0
+NZL,New Zealand,DEMO,Electrolysis,2022,1,0.9,0.16
+NZL,New Zealand,Dormant,Electrolysis,,1,300,51.98
+NZL,New Zealand,FID/Construction,Electrolysis,2027,1,5,0.87
+NZL,New Zealand,Feasibility study,Electrolysis,,1,600,101.69
+NZL,New Zealand,Feasibility study,Fossil with CCUS,,2,0,442.47
+NZL,New Zealand,On hold,Electrolysis,,1,600,103.95
+NZL,New Zealand,Operational,Electrolysis,2021,1,1.5,0.22
+OMN,Oman,Cancelled,Electrolysis,,4,2078.7,360.14
+OMN,Oman,Concept,Electrolysis,,3,4649.4,805.52
+OMN,Oman,Concept,Electrolysis,2027,2,3039.4,526.58
+OMN,Oman,Concept,Electrolysis,2030,2,535,92.69
+OMN,Oman,Concept,Fossil with CCUS,,1,0,230.04
+OMN,Oman,Concept,Other,,2,10,68.73
+OMN,Oman,FID/Construction,Electrolysis,2027,1,320,54.24
+OMN,Oman,Feasibility study,Electrolysis,,2,1038.9,179.99
+OMN,Oman,Feasibility study,Electrolysis,2028,1,400,69.3
+OMN,Oman,Feasibility study,Electrolysis,2030,5,8340.3,1444.99
+OMN,Oman,Feasibility study,Electrolysis,2038,1,12268,2125.47
+OMN,Oman,Feasibility study,Fossil with CCUS,,1,0,197.18
+OMN,Oman,Operational,Electrolysis,2026,1,20,6.74
+PAK,Pakistan,Concept,Electrolysis,,1,400,69.3
+PAN,Panama,Feasibility study,Electrolysis,2027,1,1558.4,270
+PAN,Panama,Feasibility study,Electrolysis,2029,1,1558.4,270
+PAN,Panama,Feasibility study,Electrolysis,2031,1,1558.4,270
+PER,Peru,Concept,Electrolysis,2027,1,873.1,151.26
+PER,Peru,Concept,Electrolysis,2032,1,3927,680.37
+PER,Peru,Feasibility study,Electrolysis,,2,1673.1,286.74
+PER,Peru,Feasibility study,Electrolysis,2030,1,450,77.96
+PER,Peru,Operational,Electrolysis,1965,1,25,4.24
+PER,Peru,Operational,Electrolysis,2023,1,0,0
+PHL,Philippines,Cancelled,Fossil with CCUS,,1,0,0
+PHL,Philippines,Concept,Electrolysis,,1,4.8,0.83
+PHL,Philippines,Feasibility study,Electrolysis,,1,30.8,5.33
+POL,Poland,Cancelled,Electrolysis,,1,0,0
+POL,Poland,Concept,Electrolysis,,2,33,5.72
+POL,Poland,Concept,Electrolysis,2028,1,2.5,0.37
+POL,Poland,Concept,Electrolysis,2030,1,40.5,7.02
+POL,Poland,Concept,Fossil with CCUS,,2,0,9
+POL,Poland,Concept,Other,2027,1,0,0
+POL,Poland,Dormant,Electrolysis,,2,1099,173.97
+POL,Poland,FID/Construction,Electrolysis,2028,1,5,0.6
+POL,Poland,Feasibility study,Electrolysis,,2,125,21.66
+POL,Poland,Feasibility study,Electrolysis,2027,1,5,0.87
+POL,Poland,Feasibility study,Electrolysis,2030,4,45,6.75
+POL,Poland,Feasibility study,Other,2030,1,0,0
+POL,Poland,Operational,Electrolysis,2019,1,0.1,0.01
+POL,Poland,Operational,Electrolysis,2021,1,2,0.35
+POL,Poland,Operational,Electrolysis,2024,2,25.2,4.3
+"POL
+CZE
+SVK
+HUN","POL
+CZE
+SVK
+HUN",Concept,Electrolysis,2030,1,0,0
+PRT,Portugal,Cancelled,Electrolysis,,16,937,162.34
+PRT,Portugal,Concept,Electrolysis,,1,540,93.56
+PRT,Portugal,Concept,Electrolysis,2027,1,100,17.33
+PRT,Portugal,Concept,Electrolysis,2030,5,1630,277.74
+PRT,Portugal,Concept,Electrolysis,2035,2,525,90.96
+PRT,Portugal,Concept,Electrolysis,2040,1,600,103.95
+PRT,Portugal,DEMO,Electrolysis,2003,1,0.3,0.05
+PRT,Portugal,DEMO,Electrolysis,2022,1,0.1,0.01
+PRT,Portugal,DEMO,Electrolysis,2025,1,1.2,0.19
+PRT,Portugal,DEMO,Electrolysis,2029,1,11,1.91
+PRT,Portugal,FID/Construction,Electrolysis,2026,2,104,15.59
+PRT,Portugal,Feasibility study,Electrolysis,,2,120.3,18.05
+PRT,Portugal,Feasibility study,Electrolysis,2027,9,499,86.3
+PRT,Portugal,Feasibility study,Electrolysis,2028,4,765,125.26
+PRT,Portugal,Feasibility study,Electrolysis,2029,2,803.8,137.38
+PRT,Portugal,Feasibility study,Electrolysis,2030,1,7.5,1.12
+PRT,Portugal,Operational,Electrolysis,2023,1,0.3,0.04
+"PRT
+ESP","PRT
+ESP",Concept,Electrolysis,,1,0,0
+PRY,Paraguay,Concept,Electrolysis,,3,225,38.98
+PRY,Paraguay,Dormant,Electrolysis,,2,950,164.59
+PRY,Paraguay,FID/Construction,Electrolysis,2028,1,145,24.58
+PRY,Paraguay,Feasibility study,Electrolysis,,1,0.4,0.07
+PRY,Paraguay,Feasibility study,Electrolysis,2027,1,310,52.54
+PRY,Paraguay,Feasibility study,Electrolysis,2028,1,75,12.99
+QAT,Qatar,FID/Construction,Fossil with CCUS,2027,1,0,216.09
+"ROM
+DEU
+AUT","ROM
+DEU
+AUT",Concept,Electrolysis,,1,0,0
+ROU,Romania,Cancelled,Electrolysis,,2,0,0
+ROU,Romania,Concept,Electrolysis,,1,63.5,11
+ROU,Romania,Concept,Electrolysis,2030,1,100,17.33
+ROU,Romania,FID/Construction,Electrolysis,2028,1,20,3.47
+ROU,Romania,Feasibility study,Electrolysis,,1,10,1.5
+ROU,Romania,Feasibility study,Electrolysis,2027,1,5,0.85
+ROU,Romania,Feasibility study,Electrolysis,2028,1,50,8.66
+RUS,Russia,Operational,Electrolysis,2022,1,1,0.15
+SAU,Saudi Arabia,Concept,Electrolysis,,2,2494.5,432.17
+SAU,Saudi Arabia,Concept,Fossil with CCUS,,2,0,2.19
+SAU,Saudi Arabia,DEMO,Electrolysis,2024,1,20,3.39
+SAU,Saudi Arabia,FID/Construction,Electrolysis,2027,1,2200,372.87
+SAU,Saudi Arabia,Feasibility study,Electrolysis,2029,1,1019.8,176.68
+SAU,Saudi Arabia,Feasibility study,Electrolysis,2030,1,4000,693.01
+SGP,Singapore,DEMO,Electrolysis,2025,1,0,0
+SGP,Singapore,Feasibility study,Electrolysis,2029,1,110.4,19.13
+SGP,Singapore,Operational,Electrolysis,2019,4,0.1,0.01
+SRB,Serbia,Feasibility study,Electrolysis,2028,1,346.3,60
+SVK,Slovak Republic,Concept,Electrolysis,,4,430,74.5
+SVK,Slovak Republic,Feasibility study,Electrolysis,2030,1,60,10.4
+SVK,Slovak Republic,Feasibility study,Other,,1,20,3.47
+SVN,Slovenia,Concept,Electrolysis,,1,0,0
+SVN,Slovenia,FID/Construction,Electrolysis,2026,1,34,5.89
+SVN,Slovenia,Operational,Electrolysis,2000,2,0.4,0.08
+SVN,Slovenia,Operational,Electrolysis,2021,1,0.1,0.03
+SWE,Sweden,Cancelled,Electrolysis,,3,0,0
+SWE,Sweden,Concept,Electrolysis,,3,750,129.94
+SWE,Sweden,Concept,Electrolysis,2027,2,200,34.65
+SWE,Sweden,Concept,Electrolysis,2030,3,2497.2,432.64
+SWE,Sweden,Concept,Fossil with CCUS,,1,0,4.5
+SWE,Sweden,Concept,Other,2030,1,500,86.63
+SWE,Sweden,DEMO,Electrolysis,2003,1,0.3,0.05
+SWE,Sweden,DEMO,Electrolysis,2015,1,0.1,0.02
+SWE,Sweden,DEMO,Electrolysis,2024,1,0,0
+SWE,Sweden,DEMO,Fossil with CCUS,2030,1,0,3
+SWE,Sweden,Dormant,Electrolysis,,2,606,104.99
+SWE,Sweden,Dormant,Fossil with CCUS,,1,0,0
+SWE,Sweden,FID/Construction,Electrolysis,2026,1,740,125.42
+SWE,Sweden,FID/Construction,Electrolysis,2028,1,500,84.74
+SWE,Sweden,Feasibility study,Electrolysis,,3,950,164.59
+SWE,Sweden,Feasibility study,Electrolysis,2027,4,53,9.02
+SWE,Sweden,Feasibility study,Electrolysis,2031,1,350,71.85
+SWE,Sweden,Feasibility study,Fossil with CCUS,,1,0,13.33
+SWE,Sweden,Feasibility study,Other,2030,1,1036.7,179.62
+SWE,Sweden,On hold,Electrolysis,,3,708,122.66
+SWE,Sweden,Operational,Electrolysis,1992,1,0.7,0.12
+SWE,Sweden,Operational,Electrolysis,2018,1,0,0
+SWE,Sweden,Operational,Electrolysis,2019,1,0.3,0.05
+SWE,Sweden,Operational,Electrolysis,2021,1,4.5,0.76
+SWE,Sweden,Operational,Electrolysis,2023,2,19,3.18
+SWE,Sweden,Operational,Electrolysis,2024,1,5,0.75
+THA,Thailand,Concept,Electrolysis,,2,2519.5,436.5
+THA,Thailand,DEMO,Electrolysis,2012,1,0,0
+THA,Thailand,Operational,Electrolysis,2018,1,1,0.15
+TTO,Trinidad and Tobago,Cancelled,Electrolysis,,1,0,0
+TTO,Trinidad and Tobago,Feasibility study,Electrolysis,,1,158.9,27.53
+TUN,Tunisia,Cancelled,Electrolysis,,1,0,0
+TUN,Tunisia,Concept,Electrolysis,,2,2000,346.51
+TUN,Tunisia,Concept,Electrolysis,2030,1,2000,346.51
+TUN,Tunisia,Concept,Electrolysis,2031,1,1650,285.87
+TUN,Tunisia,Concept,Other,,2,0,0
+TUN,Tunisia,Feasibility study,Electrolysis,2032,1,2000,338.97
+TUR,Türkiye,DEMO,Electrolysis,2007,1,0,0
+TUR,Türkiye,DEMO,Electrolysis,2008,1,0,0
+TUR,Türkiye,DEMO,Electrolysis,2009,1,0.2,0.03
+TUR,Türkiye,DEMO,Electrolysis,2011,1,0.1,0.01
+TUR,Türkiye,Feasibility study,Electrolysis,,1,0,0.78
+TUR,Türkiye,Operational,Electrolysis,2011,1,0,0.01
+TWN,Chinese Taipei,Operational,Electrolysis,2021,1,25,4.33
+UGA,Uganda,Concept,Electrolysis,,1,0,0
+UGA,Uganda,Feasibility study,Electrolysis,2029,1,115.4,20
+UKR,Ukraine,Concept,Electrolysis,,15,18390,3185.72
+UKR,Ukraine,Concept,Electrolysis,2028,1,100,17.33
+UKR,Ukraine,Concept,Electrolysis,2030,1,100,17.33
+UKR,Ukraine,Dormant,Electrolysis,,6,1100,190.58
+URY,Uruguay,Concept,Electrolysis,,2,0,0
+URY,Uruguay,Feasibility study,Electrolysis,2027,1,5,0.87
+URY,Uruguay,Feasibility study,Electrolysis,2029,1,1100,190.58
+URY,Uruguay,Feasibility study,Electrolysis,2030,1,173.2,30
+USA,United States,Cancelled,Electrolysis,,14,0,0
+USA,United States,Cancelled,Fossil with CCUS,,5,0,0
+USA,United States,Cancelled,Other,,1,0,58.55
+USA,United States,Concept,Electrolysis,,18,41079.9,7127.59
+USA,United States,Concept,Electrolysis,2027,3,3669.8,613.1
+USA,United States,Concept,Electrolysis,2028,2,1055,182.78
+USA,United States,Concept,Fossil with CCUS,,7,0,547.5
+USA,United States,Concept,Fossil with CCUS,2027,1,0,394.36
+USA,United States,Concept,Fossil with CCUS,2030,1,0,140.31
+USA,United States,Concept,Fossil with CCUS,2031,1,0,244.44
+USA,United States,Concept,Other,,2,0,121.67
+USA,United States,DEMO,Electrolysis,2004,2,0.1,0.02
+USA,United States,DEMO,Electrolysis,2006,1,0,0
+USA,United States,DEMO,Electrolysis,2007,2,0,0.01
+USA,United States,DEMO,Electrolysis,2008,1,0,0.01
+USA,United States,DEMO,Electrolysis,2009,1,0,0
+USA,United States,DEMO,Electrolysis,2010,1,0,0
+USA,United States,DEMO,Electrolysis,2015,1,0,0.01
+USA,United States,DEMO,Electrolysis,2016,3,0.1,0.02
+USA,United States,DEMO,Electrolysis,2020,2,0.3,0.06
+USA,United States,DEMO,Electrolysis,2021,4,2.7,0.42
+USA,United States,DEMO,Electrolysis,2022,3,3,0.47
+USA,United States,DEMO,Electrolysis,2023,1,4,0.82
+USA,United States,DEMO,Electrolysis,2024,1,0.2,0.05
+USA,United States,DEMO,Fossil with CCUS,,1,0,6.08
+USA,United States,DEMO,Fossil with CCUS,2030,1,0,0.41
+USA,United States,DEMO,Other,2020,1,0,0.03
+USA,United States,DEMO,Other,2021,1,0,0.36
+USA,United States,DEMO,Other,2023,1,0,0.08
+USA,United States,DEMO,Other,2024,1,0,0
+USA,United States,DEMO,Other,2025,1,0,0.36
+USA,United States,Decommisioned,Other,2015,1,0,0
+USA,United States,Dormant,Electrolysis,,3,2626.8,455.1
+USA,United States,Dormant,Fossil with CCUS,,2,0,0
+USA,United States,Dormant,Other,,2,0,54.52
+USA,United States,FID/Construction,Electrolysis,,1,200,33.9
+USA,United States,FID/Construction,Electrolysis,2026,5,101.9,17.47
+USA,United States,FID/Construction,Electrolysis,2027,2,105,15.74
+USA,United States,FID/Construction,Fossil with CCUS,2027,1,0,198.08
+USA,United States,FID/Construction,Fossil with CCUS,2028,1,0,0
+USA,United States,FID/Construction,Fossil with CCUS,2029,2,0,342.14
+USA,United States,FID/Construction,Other,2026,3,2,4.76
+USA,United States,Feasibility study,Electrolysis,,11,962.2,152.5
+USA,United States,Feasibility study,Electrolysis,2027,7,1565.4,269.27
+USA,United States,Feasibility study,Electrolysis,2028,7,2984.9,508.24
+USA,United States,Feasibility study,Electrolysis,2029,3,557.4,105.36
+USA,United States,Feasibility study,Electrolysis,2030,5,6089,1009.8
+USA,United States,Feasibility study,Fossil with CCUS,,10,0,34.36
+USA,United States,Feasibility study,Fossil with CCUS,2027,4,0,422.54
+USA,United States,Feasibility study,Fossil with CCUS,2028,3,0,310
+USA,United States,Feasibility study,Fossil with CCUS,2029,5,0,1540.99
+USA,United States,Feasibility study,Fossil with CCUS,2030,3,0,1046.85
+USA,United States,Feasibility study,Fossil with CCUS,2032,1,0,255.5
+USA,United States,Feasibility study,Other,,1,0,0
+USA,United States,Feasibility study,Other,2027,4,12.5,6.62
+USA,United States,Feasibility study,Other,2028,1,25.5,4.42
+USA,United States,Feasibility study,Other,2029,1,250,43.31
+USA,United States,On hold,Electrolysis,,2,200,29.99
+USA,United States,On hold,Fossil with CCUS,,3,0,1099.4
+USA,United States,Operational,Electrolysis,2000,4,8.9,1.34
+USA,United States,Operational,Electrolysis,2008,1,27.8,4.16
+USA,United States,Operational,Electrolysis,2018,2,3.5,0.52
+USA,United States,Operational,Electrolysis,2019,1,0.2,0.04
+USA,United States,Operational,Electrolysis,2021,3,16.1,2.42
+USA,United States,Operational,Electrolysis,2023,3,33.5,5.02
+USA,United States,Operational,Electrolysis,2024,3,42.5,6.37
+USA,United States,Operational,Electrolysis,2025,4,299.1,49.32
+USA,United States,Operational,Fossil with CCUS,1982,1,0,0
+USA,United States,Operational,Fossil with CCUS,2000,1,0,0
+USA,United States,Operational,Fossil with CCUS,2013,3,0,117.73
+USA,United States,Operational,Fossil with CCUS,2023,1,0,0.35
+USA,United States,Operational,Fossil with CCUS,2025,1,0,0
+USA,United States,Operational,Other,2021,1,0,5
+USA,United States,Operational,Other,2022,1,0,3.65
+USA,United States,Operational,Other,2023,1,0,0.44
+UZB,Uzbekistan,Concept,Electrolysis,,3,5699.2,884.79
+UZB,Uzbekistan,Operational,Electrolysis,2025,1,20,3.39
+VNM,Viet Nam,Concept,Electrolysis,,4,4984,861.28
+VNM,Viet Nam,FID/Construction,Electrolysis,2027,1,240,40.68
+VNM,Viet Nam,Feasibility study,Electrolysis,,1,0,0
+ZAF,South Africa,Concept,Electrolysis,,6,1766.8,306.11
+ZAF,South Africa,DEMO,Other,2024,1,0,0.04
+ZAF,South Africa,Feasibility study,Electrolysis,,2,2348.8,406.93
+ZAF,South Africa,Feasibility study,Electrolysis,2027,1,120,20.79
+ZAF,South Africa,Feasibility study,Electrolysis,2028,1,161.6,28
+ZAF,South Africa,Feasibility study,Electrolysis,2029,1,850,147.27
+ZAF,South Africa,Feasibility study,Other,,1,1273.2,220.58
+ZAF,South Africa,Operational,Electrolysis,2022,1,3.5,0.59
+ZAF,South Africa,Operational,Electrolysis,2024,1,60,10.17
+ZWE,Zimbabwe,Cancelled,Electrolysis,,1,0,0
+ZWE,Zimbabwe,Decommisioned,Electrolysis,1975,1,0,0

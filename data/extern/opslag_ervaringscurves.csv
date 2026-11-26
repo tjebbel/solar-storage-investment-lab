@@ -1,0 +1,248 @@
+Technology,Scope,Series,Experience rate,Year,Cumulative GWh,USD2020 per kWh,Cumulative GW,USD2020 per kW
+Pumped hydro,Utility,Pumped hydro Utility 1983-2018,-3 +/- 6%,1983,550.132,292.812,56.811,2835.46
+Pumped hydro,Utility,Pumped hydro Utility 1983-2018,-3 +/- 6%,1988,783.518,288.524,80.912,2793.939
+Pumped hydro,Utility,Pumped hydro Utility 1983-2018,-3 +/- 6%,1993,825.0,287.904,85.196,2787.933
+Pumped hydro,Utility,Pumped hydro Utility 1983-2018,-3 +/- 6%,1998,957.656,286.115,98.895,2770.612
+Pumped hydro,Utility,Pumped hydro Utility 1983-2018,-3 +/- 6%,2003,1052.962,321.338,108.737,3111.691
+Pumped hydro,Utility,Pumped hydro Utility 1983-2018,-3 +/- 6%,2008,1188.731,288.238,122.758,2791.174
+Pumped hydro,Utility,Pumped hydro Utility 1983-2018,-3 +/- 6%,2013,1388.794,292.909,143.418,2836.397
+Pumped hydro,Utility,Pumped hydro Utility 1983-2018,-3 +/- 6%,2018,1534.292,305.061,158.443,2954.079
+Lead-acid,Multiple,Lead-acid Multiple 1989-2012,4 +/- 6%,1989,1971.375,171.332,15770.999,21.417
+Lead-acid,Multiple,Lead-acid Multiple 1989-2012,4 +/- 6%,1991,2306.058,166.257,18448.461,20.782
+Lead-acid,Multiple,Lead-acid Multiple 1989-2012,4 +/- 6%,1992,2533.557,183.58,20268.458,22.947
+Lead-acid,Multiple,Lead-acid Multiple 1989-2012,4 +/- 6%,1993,2867.442,189.093,22939.535,23.637
+Lead-acid,Multiple,Lead-acid Multiple 1989-2012,4 +/- 6%,1995,3283.042,185.557,26264.339,23.195
+Lead-acid,Multiple,Lead-acid Multiple 1989-2012,4 +/- 6%,1996,3577.279,172.243,28618.23,21.53
+Lead-acid,Multiple,Lead-acid Multiple 1989-2012,4 +/- 6%,1997,3923.706,166.693,31389.651,20.837
+Lead-acid,Multiple,Lead-acid Multiple 1989-2012,4 +/- 6%,1998,4296.585,166.183,34372.676,20.773
+Lead-acid,Multiple,Lead-acid Multiple 1989-2012,4 +/- 6%,1999,4529.629,152.118,36237.031,19.015
+Lead-acid,Multiple,Lead-acid Multiple 1989-2012,4 +/- 6%,2000,4895.022,149.028,39160.178,18.629
+Lead-acid,Multiple,Lead-acid Multiple 1989-2012,4 +/- 6%,2002,5485.516,139.98,43884.125,17.498
+Lead-acid,Multiple,Lead-acid Multiple 1989-2012,4 +/- 6%,2003,5859.918,152.581,46879.344,19.073
+Lead-acid,Multiple,Lead-acid Multiple 1989-2012,4 +/- 6%,2004,6427.399,152.112,51419.191,19.014
+Lead-acid,Multiple,Lead-acid Multiple 1989-2012,4 +/- 6%,2005,6798.424,142.798,54387.389,17.85
+Lead-acid,Multiple,Lead-acid Multiple 1989-2012,4 +/- 6%,2006,7444.492,139.573,59555.938,17.447
+Lead-acid,Multiple,Lead-acid Multiple 1989-2012,4 +/- 6%,2007,8098.313,146.37,64786.5,18.296
+Lead-acid,Multiple,Lead-acid Multiple 1989-2012,4 +/- 6%,2008,8246.694,162.988,65973.556,20.373
+Lead-acid,Multiple,Lead-acid Multiple 1989-2012,4 +/- 6%,2009,8370.118,183.1,66960.943,22.888
+Lead-acid,Multiple,Lead-acid Multiple 1989-2012,4 +/- 6%,2010,8867.912,184.21,70943.299,23.026
+Lead-acid,Multiple,Lead-acid Multiple 1989-2012,4 +/- 6%,2011,9395.312,167.32,75162.497,20.915
+Lead-acid,Multiple,Lead-acid Multiple 1989-2012,4 +/- 6%,2012,10390.566,170.874,83124.524,21.359
+Lead-acid,Residential,Lead-acid Residential 2013-16,12 +/- 5%,2013,0.048,2299.377,0.016,6898.13
+Lead-acid,Residential,Lead-acid Residential 2013-16,12 +/- 5%,2014,0.145,2076.506,0.048,6229.517
+Lead-acid,Residential,Lead-acid Residential 2013-16,12 +/- 5%,2015,0.338,1545.272,0.113,4635.816
+Lead-acid,Residential,Lead-acid Residential 2013-16,12 +/- 5%,2016,0.422,1583.817,0.141,4751.452
+Lithium-ion,Electronics,Lithium-ion Electronics 1995-2016,30 +/- 2%,1995,0.9,3477.867,0.297,10538.991
+Lithium-ion,Electronics,Lithium-ion Electronics 1995-2016,30 +/- 2%,1996,2.1,3215.799,0.693,9744.844
+Lithium-ion,Electronics,Lithium-ion Electronics 1995-2016,30 +/- 2%,1997,3.6,3122.983,1.188,9463.584
+Lithium-ion,Electronics,Lithium-ion Electronics 1995-2016,30 +/- 2%,1998,6.2,2713.501,2.046,8222.729
+Lithium-ion,Electronics,Lithium-ion Electronics 1995-2016,30 +/- 2%,1999,10,1945.858,3.3,5896.541
+Lithium-ion,Electronics,Lithium-ion Electronics 1995-2016,30 +/- 2%,2000,12.177,1743.847,4.018,5284.386
+Lithium-ion,Electronics,Lithium-ion Electronics 1995-2016,30 +/- 2%,2001,14.858,1494.882,4.903,4529.946
+Lithium-ion,Electronics,Lithium-ion Electronics 1995-2016,30 +/- 2%,2002,18.612,1085.4,6.142,3289.092
+Lithium-ion,Electronics,Lithium-ion Electronics 1995-2016,30 +/- 2%,2003,24.069,906.32,7.943,2746.425
+Lithium-ion,Electronics,Lithium-ion Electronics 1995-2016,30 +/- 2%,2004,31.42,895.401,10.368,2713.335
+Lithium-ion,Electronics,Lithium-ion Electronics 1995-2016,30 +/- 2%,2005,40.41,655.171,13.335,1985.367
+Lithium-ion,Electronics,Lithium-ion Electronics 1995-2016,30 +/- 2%,2006,52.24,602.758,17.239,1826.538
+Lithium-ion,Electronics,Lithium-ion Electronics 1995-2016,30 +/- 2%,2007,66.215,587.47,21.851,1780.213
+Lithium-ion,Electronics,Lithium-ion Electronics 1995-2016,30 +/- 2%,2008,83.407,582.01,27.524,1763.668
+Lithium-ion,Electronics,Lithium-ion Electronics 1995-2016,30 +/- 2%,2009,101.672,474.999,33.552,1439.391
+Lithium-ion,Electronics,Lithium-ion Electronics 1995-2016,30 +/- 2%,2010,122.672,399.654,40.482,1211.074
+Lithium-ion,Electronics,Lithium-ion Electronics 1995-2016,30 +/- 2%,2011,147.172,349.425,48.567,1058.863
+Lithium-ion,Electronics,Lithium-ion Electronics 1995-2016,30 +/- 2%,2012,173.384,329.072,57.217,997.188
+Lithium-ion,Electronics,Lithium-ion Electronics 1995-2016,30 +/- 2%,2013,202.362,306.363,66.78,928.372
+Lithium-ion,Electronics,Lithium-ion Electronics 1995-2016,30 +/- 2%,2014,232.242,291.278,76.64,882.66
+Lithium-ion,Electronics,Lithium-ion Electronics 1995-2016,30 +/- 2%,2015,262.362,283.804,86.58,860.012
+Lithium-ion,Electronics,Lithium-ion Electronics 1995-2016,30 +/- 2%,2016,293.384,269.305,96.817,816.077
+Lithium-ion,EV packs,Lithium-ion EV packs 2010-21,24 +/- 2%,2010,1.301,1195.591,1.301,1195.591
+Lithium-ion,EV packs,Lithium-ion EV packs 2010-21,24 +/- 2%,2011,3.881,926.583,3.881,926.583
+Lithium-ion,EV packs,Lithium-ion EV packs 2010-21,24 +/- 2%,2012,8.687,728.692,8.687,728.692
+Lithium-ion,EV packs,Lithium-ion EV packs 2010-21,24 +/- 2%,2013,16.848,668,16.848,668
+Lithium-ion,EV packs,Lithium-ion EV packs 2010-21,24 +/- 2%,2014,30.315,592,30.315,592
+Lithium-ion,EV packs,Lithium-ion EV packs 2010-21,24 +/- 2%,2015,57.343,384,57.343,384
+Lithium-ion,EV packs,Lithium-ion EV packs 2010-21,24 +/- 2%,2016,94.758,295,94.758,295
+Lithium-ion,EV packs,Lithium-ion EV packs 2010-21,24 +/- 2%,2017,151.264,221,151.264,221
+Lithium-ion,EV packs,Lithium-ion EV packs 2010-21,24 +/- 2%,2018,243.937,181,243.937,181
+Lithium-ion,EV packs,Lithium-ion EV packs 2010-21,24 +/- 2%,2019,342.153,157,342.153,157
+Lithium-ion,EV packs,Lithium-ion EV packs 2010-21,24 +/- 2%,2020,478.448,137,478.448,137
+Lithium-ion,EV packs,Lithium-ion EV packs 2010-21,24 +/- 2%,2021,638.448,130,638.448,130
+Lithium-ion,Residential,Lithium-ion Residential 2013-21,13 +/- 3%,2013,0.131,3349.038,0.043,10148.599
+Lithium-ion,Residential,Lithium-ion Residential 2013-21,13 +/- 3%,2014,0.393,2979.568,0.13,9028.994
+Lithium-ion,Residential,Lithium-ion Residential 2013-21,13 +/- 3%,2015,0.837,2392.161,0.276,7248.974
+Lithium-ion,Residential,Lithium-ion Residential 2013-21,13 +/- 3%,2016,1.361,2100.099,0.449,6363.935
+Lithium-ion,Residential,Lithium-ion Residential 2013-21,13 +/- 3%,2017,2.172,1720.766,0.717,5214.443
+Lithium-ion,Residential,Lithium-ion Residential 2013-21,13 +/- 3%,2018,3.245,1523.812,1.071,4617.612
+Lithium-ion,Residential,Lithium-ion Residential 2013-21,13 +/- 3%,2019,4.815,1510.97,1.589,4578.697
+Lithium-ion,Residential,Lithium-ion Residential 2013-21,13 +/- 3%,2020,7.118,1603.876,2.349,4860.231
+Lithium-ion,Residential,Lithium-ion Residential 2013-21,13 +/- 3%,2021,10.258,1649.23,3.385,4997.666
+Lithium-ion,Utility,Lithium-ion Utility 2010-21,19 +/- 3%,2010,0.048,1659.408,0.012,6637.633
+Lithium-ion,Utility,Lithium-ion Utility 2010-21,19 +/- 3%,2011,0.188,1376.567,0.047,5506.267
+Lithium-ion,Utility,Lithium-ion Utility 2010-21,19 +/- 3%,2012,0.292,1165.396,0.073,4661.582
+Lithium-ion,Utility,Lithium-ion Utility 2010-21,19 +/- 3%,2013,0.484,1091.953,0.121,4367.814
+Lithium-ion,Utility,Lithium-ion Utility 2010-21,19 +/- 3%,2014,1.034,1003.711,0.259,4014.846
+Lithium-ion,Utility,Lithium-ion Utility 2010-21,19 +/- 3%,2015,1.605,783.956,0.401,3135.825
+Lithium-ion,Utility,Lithium-ion Utility 2010-21,19 +/- 3%,2016,2.66,683.668,0.665,2734.671
+Lithium-ion,Utility,Lithium-ion Utility 2010-21,19 +/- 3%,2017,3.92,598.826,0.98,2395.305
+Lithium-ion,Utility,Lithium-ion Utility 2010-21,19 +/- 3%,2018,6.743,367.954,1.686,1471.814
+Lithium-ion,Utility,Lithium-ion Utility 2010-21,19 +/- 3%,2019,8.669,335.083,2.167,1340.333
+Lithium-ion,Utility,Lithium-ion Utility 2010-21,19 +/- 3%,2020,14.091,307.75,3.523,1231.0
+Lithium-ion,Utility,Lithium-ion Utility 2010-21,19 +/- 3%,2021,31.177,285.479,7.794,1141.915
+Nickel-metal hydride,HEV,Nickel-metal hydride HEV 1997-2014,11 +/- 1%,1997,0.002,1628.761,0.019,104.393
+Nickel-metal hydride,HEV,Nickel-metal hydride HEV 1997-2014,11 +/- 1%,1998,0.063,999.327,0.764,64.05
+Nickel-metal hydride,HEV,Nickel-metal hydride HEV 1997-2014,11 +/- 1%,1999,0.117,993.905,1.409,63.703
+Nickel-metal hydride,HEV,Nickel-metal hydride HEV 1997-2014,11 +/- 1%,2000,0.184,928.927,2.213,59.538
+Nickel-metal hydride,HEV,Nickel-metal hydride HEV 1997-2014,11 +/- 1%,2001,0.32,826.5,3.769,52.973
+Nickel-metal hydride,HEV,Nickel-metal hydride HEV 1997-2014,11 +/- 1%,2002,0.472,789.412,5.51,50.596
+Nickel-metal hydride,HEV,Nickel-metal hydride HEV 1997-2014,11 +/- 1%,2003,0.668,743.44,7.755,47.65
+Nickel-metal hydride,HEV,Nickel-metal hydride HEV 1997-2014,11 +/- 1%,2004,1.163,636.05,13.419,40.767
+Nickel-metal hydride,HEV,Nickel-metal hydride HEV 1997-2014,11 +/- 1%,2005,1.796,596.003,23.291,38.2
+Nickel-metal hydride,HEV,Nickel-metal hydride HEV 1997-2014,11 +/- 1%,2006,2.638,550.991,36.422,35.315
+Nickel-metal hydride,HEV,Nickel-metal hydride HEV 1997-2014,11 +/- 1%,2007,3.794,511.219,54.463,32.766
+Nickel-metal hydride,HEV,Nickel-metal hydride HEV 1997-2014,11 +/- 1%,2008,4.951,489.36,72.517,31.365
+Nickel-metal hydride,HEV,Nickel-metal hydride HEV 1997-2014,11 +/- 1%,2009,6.379,475.823,94.788,30.497
+Nickel-metal hydride,HEV,Nickel-metal hydride HEV 1997-2014,11 +/- 1%,2010,8.237,449.438,123.782,28.806
+Nickel-metal hydride,HEV,Nickel-metal hydride HEV 1997-2014,11 +/- 1%,2011,9.85,441.624,150.207,28.305
+Nickel-metal hydride,HEV,Nickel-metal hydride HEV 1997-2014,11 +/- 1%,2012,12.974,393.93,201.415,25.248
+Nickel-metal hydride,HEV,Nickel-metal hydride HEV 1997-2014,11 +/- 1%,2013,16.253,379.085,255.148,24.297
+Nickel-metal hydride,HEV,Nickel-metal hydride HEV 1997-2014,11 +/- 1%,2014,19.498,375.775,308.326,24.085
+Sodium-sulphur,Utility,Sodium-sulphur Utility 2007-21,N/A,2007,1.584,614.784,0.264,3688.706
+Sodium-sulphur,Utility,Sodium-sulphur Utility 2007-21,N/A,2010,1.896,568.568,0.316,3411.411
+Sodium-sulphur,Utility,Sodium-sulphur Utility 2007-21,N/A,2012,1.896,572.426,0.316,3434.557
+Sodium-sulphur,Utility,Sodium-sulphur Utility 2007-21,N/A,2013,2.448,856.856,0.408,5141.136
+Sodium-sulphur,Utility,Sodium-sulphur Utility 2007-21,N/A,2015,3.7,518.677,0.617,3112.063
+Sodium-sulphur,Utility,Sodium-sulphur Utility 2007-21,N/A,2020,4,394.811,0.667,2368.866
+Sodium-sulphur,Utility,Sodium-sulphur Utility 2007-21,N/A,2021,4.1,650,0.683,3900
+Vanadium redox-flow,Utility,Vanadium redox-flow Utility 2008-19,14 +/- 4%,2008,0.01,2603.229,0.003,10082.898
+Vanadium redox-flow,Utility,Vanadium redox-flow Utility 2008-19,14 +/- 4%,2014,0.043,1837.573,0.011,7117.34
+Vanadium redox-flow,Utility,Vanadium redox-flow Utility 2008-19,14 +/- 4%,2015,0.262,1531.311,0.068,5931.117
+Vanadium redox-flow,Utility,Vanadium redox-flow Utility 2008-19,14 +/- 4%,2016,0.48,1225.049,0.124,4744.893
+Vanadium redox-flow,Utility,Vanadium redox-flow Utility 2008-19,14 +/- 4%,2017,0.714,968.179,0.184,3749.978
+Vanadium redox-flow,Utility,Vanadium redox-flow Utility 2008-19,14 +/- 4%,2019,1.214,797.849,0.313,3090.252
+Electrolysis,Utility,Electrolysis Utility 1956-2019,20 +/- 11%,1956,24.052,335.555,2.405,3355.555
+Electrolysis,Utility,Electrolysis Utility 1956-2019,20 +/- 11%,1980,98.015,197.529,9.802,1975.294
+Electrolysis,Utility,Electrolysis Utility 1956-2019,20 +/- 11%,1990,113.826,188.321,11.383,1883.205
+Electrolysis,Utility,Electrolysis Utility 1956-2019,20 +/- 11%,2000,171.305,209.441,17.131,2094.406
+Electrolysis,Utility,Electrolysis Utility 1956-2019,20 +/- 11%,2005,192.883,190.636,19.288,1906.359
+Electrolysis,Utility,Electrolysis Utility 1956-2019,20 +/- 11%,2015,198.986,182.798,19.899,1827.978
+Electrolysis,Utility,Electrolysis Utility 1956-2019,20 +/- 11%,2019,201.427,120,20.143,1200
+Fuel cells,Residential,Fuel cells Residential 2004-20,17 +/- 2%,2004,0.001,14203.875,0.0,142038.749
+Fuel cells,Residential,Fuel cells Residential 2004-20,17 +/- 2%,2005,0.003,8912.823,0.0,89128.231
+Fuel cells,Residential,Fuel cells Residential 2004-20,17 +/- 2%,2006,0.009,6733.766,0.001,67337.66
+Fuel cells,Residential,Fuel cells Residential 2004-20,17 +/- 2%,2007,0.016,5489.507,0.002,54895.066
+Fuel cells,Residential,Fuel cells Residential 2004-20,17 +/- 2%,2008,0.026,3805.548,0.003,38055.482
+Fuel cells,Residential,Fuel cells Residential 2004-20,17 +/- 2%,2009,0.018,3855.286,0.002,38552.863
+Fuel cells,Residential,Fuel cells Residential 2004-20,17 +/- 2%,2010,0.076,3845.631,0.008,38456.31
+Fuel cells,Residential,Fuel cells Residential 2004-20,17 +/- 2%,2011,0.142,3623.634,0.014,36236.343
+Fuel cells,Residential,Fuel cells Residential 2004-20,17 +/- 2%,2012,0.266,3123.493,0.027,31234.933
+Fuel cells,Residential,Fuel cells Residential 2004-20,17 +/- 2%,2013,0.516,2493.117,0.052,24931.165
+Fuel cells,Residential,Fuel cells Residential 2004-20,17 +/- 2%,2014,0.79,2212.992,0.079,22129.915
+Fuel cells,Residential,Fuel cells Residential 2004-20,17 +/- 2%,2015,1.074,1962.875,0.107,19628.746
+Fuel cells,Residential,Fuel cells Residential 2004-20,17 +/- 2%,2016,1.365,1641.643,0.136,16416.434
+Fuel cells,Residential,Fuel cells Residential 2004-20,17 +/- 2%,2017,1.645,1505.225,0.165,15052.252
+Fuel cells,Residential,Fuel cells Residential 2004-20,17 +/- 2%,2018,1.936,1392.438,0.194,13924.38
+Fuel cells,Residential,Fuel cells Residential 2004-20,17 +/- 2%,2019,2.192,1326.877,0.219,13268.773
+Fuel cells,Residential,Fuel cells Residential 2004-20,17 +/- 2%,2020,2.404,1265.083,0.24,12650.832
+Lithium-ion,18650 cell,Lithium-ion 18650 cell 2001-15,19 +/- 3%,2001,2.763,889.258,,
+Lithium-ion,18650 cell,Lithium-ion 18650 cell 2001-15,19 +/- 3%,2002,6.656,751.285,,
+Lithium-ion,18650 cell,Lithium-ion 18650 cell 2001-15,19 +/- 3%,2003,12.271,644.467,,
+Lithium-ion,18650 cell,Lithium-ion 18650 cell 2001-15,19 +/- 3%,2004,19.736,591.058,,
+Lithium-ion,18650 cell,Lithium-ion 18650 cell 2001-15,19 +/- 3%,2005,28.819,538.762,,
+Lithium-ion,18650 cell,Lithium-ion 18650 cell 2001-15,19 +/- 3%,2006,40.74,469.776,,
+Lithium-ion,18650 cell,Lithium-ion 18650 cell 2001-15,19 +/- 3%,2007,55.018,465.325,,
+Lithium-ion,18650 cell,Lithium-ion 18650 cell 2001-15,19 +/- 3%,2008,72.642,457.536,,
+Lithium-ion,18650 cell,Lithium-ion 18650 cell 2001-15,19 +/- 3%,2009,90.895,416.367,,
+Lithium-ion,18650 cell,Lithium-ion 18650 cell 2001-15,19 +/- 3%,2010,111.925,386.324,,
+Lithium-ion,18650 cell,Lithium-ion 18650 cell 2001-15,19 +/- 3%,2011,135.942,367.409,,
+Lithium-ion,18650 cell,Lithium-ion 18650 cell 2001-15,19 +/- 3%,2012,163.957,358.507,,
+Lithium-ion,18650 cell,Lithium-ion 18650 cell 2001-15,19 +/- 3%,2013,196.976,233.886,,
+Lithium-ion,18650 cell,Lithium-ion 18650 cell 2001-15,19 +/- 3%,2014,230.983,219.421,,
+Lithium-ion,18650 cell,Lithium-ion 18650 cell 2001-15,19 +/- 3%,2015,265.999,194.942,,
+Lithium-ion,Electronics,Lithium-ion Electronics 1993-2005,21 +/- 3%,1993,0.1,2306,,
+Lithium-ion,Electronics,Lithium-ion Electronics 1993-2005,21 +/- 3%,1994,0.3,1930.5,,
+Lithium-ion,Electronics,Lithium-ion Electronics 1993-2005,21 +/- 3%,1995,0.9,1886.5,,
+Lithium-ion,Electronics,Lithium-ion Electronics 1993-2005,21 +/- 3%,1996,2.1,1368,,
+Lithium-ion,Electronics,Lithium-ion Electronics 1993-2005,21 +/- 3%,1997,3.6,1048,,
+Lithium-ion,Electronics,Lithium-ion Electronics 1993-2005,21 +/- 3%,1998,6.2,651,,
+Lithium-ion,Electronics,Lithium-ion Electronics 1993-2005,21 +/- 3%,1999,10,562.5,,
+Lithium-ion,Electronics,Lithium-ion Electronics 1993-2005,21 +/- 3%,2000,16,463.5,,
+Lithium-ion,Electronics,Lithium-ion Electronics 1993-2005,21 +/- 3%,2001,23,386,,
+Lithium-ion,Electronics,Lithium-ion Electronics 1993-2005,21 +/- 3%,2002,33,386,,
+Lithium-ion,Electronics,Lithium-ion Electronics 1993-2005,21 +/- 3%,2003,44,364,,
+Lithium-ion,Electronics,Lithium-ion Electronics 1993-2005,21 +/- 3%,2004,61,342,,
+Lithium-ion,Electronics,Lithium-ion Electronics 1993-2005,21 +/- 3%,2005,78,309,,
+Lithium-ion,EV cells,Lithium-ion EV cells 2013-21,27 +/- 2%,2013,16.848,458,,
+Lithium-ion,EV cells,Lithium-ion EV cells 2013-21,27 +/- 2%,2014,30.315,403,,
+Lithium-ion,EV cells,Lithium-ion EV cells 2013-21,27 +/- 2%,2015,57.343,257,,
+Lithium-ion,EV cells,Lithium-ion EV cells 2013-21,27 +/- 2%,2016,94.758,215,,
+Lithium-ion,EV cells,Lithium-ion EV cells 2013-21,27 +/- 2%,2017,151.264,155,,
+Lithium-ion,EV cells,Lithium-ion EV cells 2013-21,27 +/- 2%,2018,243.937,130,,
+Lithium-ion,EV cells,Lithium-ion EV cells 2013-21,27 +/- 2%,2019,342.153,110,,
+Lithium-ion,EV cells,Lithium-ion EV cells 2013-21,27 +/- 2%,2020,478.448,102,,
+Lithium-ion,EV cells,Lithium-ion EV cells 2013-21,27 +/- 2%,2021,638.448,100,,
+Lithium-ion,EV packs,Lithium-ion EV packs 2007-14,9 +/- 1%,2007,0.604,667.484,,
+Lithium-ion,EV packs,Lithium-ion EV packs 2007-14,9 +/- 1%,2014,13.2,432.428,,
+PV Module,Global,PV Module Global 1980-2020,25 +/- 1%,1980,,,0.008,25595.479
+PV Module,Global,PV Module Global 1980-2020,25 +/- 1%,1981,,,0.014,22730.333
+PV Module,Global,PV Module Global 1980-2020,25 +/- 1%,1982,,,0.021,25218.461
+PV Module,Global,PV Module Global 1980-2020,25 +/- 1%,1983,,,0.036,25094.027
+PV Module,Global,PV Module Global 1980-2020,25 +/- 1%,1984,,,0.054,23299.518
+PV Module,Global,PV Module Global 1980-2020,25 +/- 1%,1985,,,0.072,21633.337
+PV Module,Global,PV Module Global 1980-2020,25 +/- 1%,1986,,,0.094,15226.474
+PV Module,Global,PV Module Global 1980-2020,25 +/- 1%,1987,,,0.118,11039.885
+PV Module,Global,PV Module Global 1980-2020,25 +/- 1%,1988,,,0.149,10664.168
+PV Module,Global,PV Module Global 1980-2020,25 +/- 1%,1989,,,0.187,11485.512
+PV Module,Global,PV Module Global 1980-2020,25 +/- 1%,1990,,,0.229,10199.829
+PV Module,Global,PV Module Global 1980-2020,25 +/- 1%,1991,,,0.277,9470.426
+PV Module,Global,PV Module Global 1980-2020,25 +/- 1%,1992,,,0.334,8410.311
+PV Module,Global,PV Module Global 1980-2020,25 +/- 1%,1993,,,0.389,8164.37
+PV Module,Global,PV Module Global 1980-2020,25 +/- 1%,1994,,,0.449,7808.878
+PV Module,Global,PV Module Global 1980-2020,25 +/- 1%,1995,,,0.517,6535.103
+PV Module,Global,PV Module Global 1980-2020,25 +/- 1%,1996,,,0.6,5523.479
+PV Module,Global,PV Module Global 1980-2020,25 +/- 1%,1997,,,0.715,6067.768
+PV Module,Global,PV Module Global 1980-2020,25 +/- 1%,1998,,,0.852,5103.182
+PV Module,Global,PV Module Global 1980-2020,25 +/- 1%,1999,,,1.02,4905.183
+PV Module,Global,PV Module Global 1980-2020,25 +/- 1%,2000,,,1.27,4645.417
+PV Module,Global,PV Module Global 1980-2020,25 +/- 1%,2001,,,1.634,4443.147
+PV Module,Global,PV Module Global 1980-2020,25 +/- 1%,2002,,,2.126,4228.715
+PV Module,Global,PV Module Global 1980-2020,25 +/- 1%,2003,,,2.826,3368.138
+PV Module,Global,PV Module Global 1980-2020,25 +/- 1%,2004,,,3.862,3269.645
+PV Module,Global,PV Module Global 1980-2020,25 +/- 1%,2005,,,5.22,3334.982
+PV Module,Global,PV Module Global 1980-2020,25 +/- 1%,2006,,,7.252,3556.48
+PV Module,Global,PV Module Global 1980-2020,25 +/- 1%,2007,,,10.24,3285.858
+PV Module,Global,PV Module Global 1980-2020,25 +/- 1%,2008,,,15.785,2777.212
+PV Module,Global,PV Module Global 1980-2020,25 +/- 1%,2009,,,23.806,1878.88
+PV Module,Global,PV Module Global 1980-2020,25 +/- 1%,2010,,,40.722,1718.822
+PV Module,Global,PV Module Global 1980-2020,25 +/- 1%,2011,,,72.78,1134.435
+PV Module,Global,PV Module Global 1980-2020,25 +/- 1%,2012,,,107.381,681.573
+PV Module,Global,PV Module Global 1980-2020,25 +/- 1%,2013,,,148.352,561.994
+PV Module,Global,PV Module Global 1980-2020,25 +/- 1%,2014,,,196.167,489.307
+PV Module,Global,PV Module Global 1980-2020,25 +/- 1%,2015,,,257.975,548.265
+PV Module,Global,PV Module Global 1980-2020,25 +/- 1%,2016,,,344.88,484.49
+PV Module,Global,PV Module Global 1980-2020,25 +/- 1%,2017,,,438.882,374.608
+PV Module,Global,PV Module Global 1980-2020,25 +/- 1%,2018,,,543.414,311.955
+PV Module,Global,PV Module Global 1980-2020,25 +/- 1%,2019,,,672.844,249.702
+PV Module,Global,PV Module Global 1980-2020,25 +/- 1%,2020,,,828.55,186.499
+PV Inverter,Global,PV Inverter Global 1990-2013,19 +/- 1%,1990,,,0.231,1813.389
+PV Inverter,Global,PV Inverter Global 1990-2013,19 +/- 1%,1991,,,0.278,1633.189
+PV Inverter,Global,PV Inverter Global 1990-2013,19 +/- 1%,1992,,,0.332,1470.895
+PV Inverter,Global,PV Inverter Global 1990-2013,19 +/- 1%,1993,,,0.385,1288.741
+PV Inverter,Global,PV Inverter Global 1990-2013,19 +/- 1%,1994,,,0.447,1160.676
+PV Inverter,Global,PV Inverter Global 1990-2013,19 +/- 1%,1995,,,0.519,1051.111
+PV Inverter,Global,PV Inverter Global 1990-2013,19 +/- 1%,1996,,,0.602,967.751
+PV Inverter,Global,PV Inverter Global 1990-2013,19 +/- 1%,1997,,,0.716,910.852
+PV Inverter,Global,PV Inverter Global 1990-2013,19 +/- 1%,1998,,,0.851,847.905
+PV Inverter,Global,PV Inverter Global 1990-2013,19 +/- 1%,1999,,,1.025,811.351
+PV Inverter,Global,PV Inverter Global 1990-2013,19 +/- 1%,2000,,,1.277,767.865
+PV Inverter,Global,PV Inverter Global 1990-2013,19 +/- 1%,2001,,,1.631,726.711
+PV Inverter,Global,PV Inverter Global 1990-2013,19 +/- 1%,2002,,,2.128,685.87
+PV Inverter,Global,PV Inverter Global 1990-2013,19 +/- 1%,2003,,,2.811,658.112
+PV Inverter,Global,PV Inverter Global 1990-2013,19 +/- 1%,2004,,,3.855,612.631
+PV Inverter,Global,PV Inverter Global 1990-2013,19 +/- 1%,2005,,,5.253,564.045
+PV Inverter,Global,PV Inverter Global 1990-2013,19 +/- 1%,2006,,,7.203,530.882
+PV Inverter,Global,PV Inverter Global 1990-2013,19 +/- 1%,2007,,,10.314,502.429
+PV Inverter,Global,PV Inverter Global 1990-2013,19 +/- 1%,2008,,,15.712,462.583
+PV Inverter,Global,PV Inverter Global 1990-2013,19 +/- 1%,2009,,,23.64,432.993
+PV Inverter,Global,PV Inverter Global 1990-2013,19 +/- 1%,2010,,,41.011,337.929
+PV Inverter,Global,PV Inverter Global 1990-2013,19 +/- 1%,2011,,,69.837,252.366
+PV Inverter,Global,PV Inverter Global 1990-2013,19 +/- 1%,2012,,,102.507,219.899
+PV Inverter,Global,PV Inverter Global 1990-2013,19 +/- 1%,2013,,,136.695,187.949

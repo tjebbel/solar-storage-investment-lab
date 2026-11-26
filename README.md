@@ -60,16 +60,16 @@ Spanish capture rate (Synertics 0.97 vs our 0.55) are open deviations.
 | 9 | European Union: price convergence | EU | data ready |
 | 10 | United States: tax credits and the build-out | US | data ready |
 | 11 | China: market prices and the build wave | China | data ready |
-| 12 | Stranded assets per climate scenario | central banks | waiting for NGFS data |
+| 12 | Stranded assets per climate scenario | central banks | data ready (t99: five world regions, one model; not on GitHub) |
 | 13 | Grid operator: flexibility and EVs | TSO/DSO | data ready |
 | 14 | [Impact investor](https://public.tableau.com/app/profile/tjebbe.lodeizen/viz/SolarandstorageinEurope/impact): one million euro in Indian solar avoids six times as much CO2 as in the Netherlands; capital is 54% of the cost in India | climate fund | published |
 | 15 | [Global South](https://public.tableau.com/app/profile/tjebbe.lodeizen/viz/SolarandstorageinEurope/GlobalSouth): twice the sun, capital at more than twice the price; the same solar plant costs 60% more in India and 97% more in Brazil, only because of capital | development, impact investor | published (PVGIS, IEA Cost of Capital Observatory; t28, t82) |
 | 16 | [Duck curve](https://public.tableau.com/app/profile/tjebbe.lodeizen/viz/SolarandstorageinEurope/duckcurve): the midday dip deepened in all 37 zones; NL 584 negative hours | trader | published |
 | 17 | [PPA or merchant](https://public.tableau.com/app/profile/tjebbe.lodeizen/viz/SolarandstorageinEurope/PPA): a solar PPA beat the 2025 market only in France and Germany, but the PPA price is above the 2030 stress-test revenue in 13 of 22 countries | developer, corporate buyer | published (LevelTen offers, KYOS estimates flagged as indicative, Pexapark; 2030 is a stress test) |
-| 18 | Storage saturation | battery investor | data ready (hourly arbitrage) |
+| 18 | [Storage saturation](https://public.tableau.com/app/profile/tjebbe.lodeizen/viz/SolarandstorageinEurope/batterystorage): no saturation yet, median battery arbitrage revenue rose from 49k (2023) to 64k EUR/MW (2025) | battery investor | published 26 Nov (18/20) |
 | 19 | [Hirth replication](https://public.tableau.com/app/profile/tjebbe.lodeizen/viz/SolarandstorageinEurope/hirthcurve): each extra percentage point of solar lowers its capture rate by 0.02 (median of 20 zones); about half the value is left at 30% solar | academic | published |
 | 20 | [Hourly carbon-free](https://public.tableau.com/app/profile/tjebbe.lodeizen/viz/SolarandstorageinEurope/carbonfree): Germany is 78% carbon-free at 1 pm in summer, 42% at 8 pm in winter; the median zone went from 59% to 67% (2019-2025) | corporate buyer | published |
-| 21-24 | Commodities, workforce, who benefits, hydrogen | follow-up | sources identified (`tableau/STAPPENPLAN_EN.md`) |
+| 21-24 | Commodities (t100), workforce (t91), who benefits (t88, t97), hydrogen (t102) | follow-up | data ready |
 | 25 | [Marginal emissions](https://public.tableau.com/app/profile/tjebbe.lodeizen/viz/SolarandstorageinEurope/marginal): a solar MWh in Germany avoids 0.15 to 0.56 t CO2 depending on the method; batteries add CO2 in Italy and Serbia | impact investor, ESG | published |
 | 26 | [Revenue at risk 2030](https://public.tableau.com/app/profile/tjebbe.lodeizen/viz/SolarandstorageinEurope/lcoe): if 2030 targets are met, solar loses a median 22 EUR/MWh of revenue | investor, lender | published (stress test, not a forecast) |
 | 27 | [Climate fund simulator](https://public.tableau.com/app/profile/tjebbe.lodeizen/viz/SolarandstorageinEurope/fundsim): 1,000 futures per building block; the best mix (south and east) returns 7.3% gross, 4.4% net, while solar avoids 3-9x more CO2 per euro | climate fund | published |
@@ -78,13 +78,13 @@ Spanish capture rate (Synertics 0.97 vs our 0.55) are open deviations.
 | 30 | Forecasting showcase: a simple model beats yesterday's prices in 36 of 37 zones | data analyst | data ready (t73-t75; ridge regression, expanding-window backtest 2023-2026) |
 | 31 | Signals Netherlands in Power BI / Fabric (C04) | Microsoft stack | waiting for Fabric access |
 | 32 | LCOE per country: what solar really costs across Europe, on two methods | developer, investor | data ready (t92, t93): own model and IRENA; solar is below cost in 4, 11 or 15 of 20 countries depending on the cost assumption; dashboards 5, 26 and 27 use IRENA since 24 Nov |
-| 33 | Cost of capital in Africa and Southeast Asia | impact investor | planned; needs IEA Cost of Capital Observatory |
+| 33 | Cost of capital in Africa and Southeast Asia | impact investor | data ready (t82, t85, t87) |
 | 34 | Cross-border flows: who exports the midday surplus (C10) | trader, grid operator | planned; flows cached locally, ENTSO-E check needed |
-| 35 | The TenneT queue: explaining 38 GW (C20) | Dutch grid, policy | planned; needs the official TenneT series |
-| 36 | Netherlands after net metering (1 January 2027) | households, installers | planned; needs rooftop hourly profile and 2027 tariffs |
+| 35 | The TenneT queue: explaining 38 GW (C20) | Dutch grid, policy | data ready at national level (t89); no public series per congestion area |
+| 36 | Netherlands after net metering (1 January 2027) | households, installers | data ready (NEDU hourly profiles 2026, t90) |
 | 37 | A PPA is a bet on 2030, not on 2025: the PPA price is above the 2030 stress-test revenue in 13 of 22 countries | developer, lender | data ready (t77; `docs/deep_dives.md`) |
 | 38 | Solar loses, batteries gain: in 28 of 37 zones, and about 1.3 MW of battery offsets 1 MW of solar | portfolio manager, battery investor | data ready (t78-t79) |
-| 39-44 | Cost of capital per country (39: data ready, t85), experience curve per country (43: data ready, t11 and t93), connection queues (42: Netherlands only, t89), subsidies per tonne (40), grid costs (41), hydrogen or heat versus batteries (44): the last three need a literature list first | follow-up | see `docs/DOWNLOADS.md` |
+| 39-44 | Cost of capital per country (39: data ready, t85), experience curve per country (43: data ready, t11 and t93), connection queues (42: Netherlands only, t89), subsidies per tonne (40), grid costs (41), hydrogen or heat versus batteries (44): the last three need a literature list first | follow-up | 39 and 43: data ready. 40: data ready (t94, PBL SDE++ 2026). 41: data ready (t96, Eurostat). 42: data ready (t95, ten countries, definitions differ). 44: experience curves ready (t98), cost per discharge duration still missing |
 
 The research agenda behind the series is in the reference book (`reports/Naslagwerk_Zon_Opslag_Duurzame_Financiering.pdf`).
 

@@ -83,3 +83,28 @@ Geen bestand gedownload: de cijfers zijn overgenomen van de bronpagina's en staa
   `E1A_AMI_I` zijn het huishouden met zonnepanelen. Het kwartierbestand zelf (13 MB) staat niet in de repo.
 - Nog niet gelezen: het verslag bij de profielen, het jaarverslag profielallocatie 2024 en de infographics 2025.
 
+
+## Stand do 26 nov: aangeleverd en verwerkt (t94 tot t99)
+| Tabel | Voor | Bron | Inhoud |
+|---|---|---|---|
+| t94_subsidy_per_tonne | 40 | PBL eindadvies SDE++ 2026, hoofdstuk 3 | 23 technieken, subsidie-intensiteit in EUR per ton; nog naslaan in de pdf en de erratalijst |
+| t95_grid_queue_europe | 42 | registers van netbeheerders, verzameld door kilovolt.io | 10 landen, GW in de wachtrij en verhouding tot de piekvraag; definities verschillen |
+| t96_grid_costs | 41 | Eurostat nrg_pc_204_c en nrg_pc_205_c (bijgewerkt oktober 2026) | 715 rijen: energie, netkosten en belastingen per land en jaar, 2017-2025, huishoudens (2.500-4.999 kWh) en bedrijven (500-1.999 MWh) |
+| t97_energy_poverty_region | 23 | CBS Monitor Energiearmoede 2019-2024, tabel 3 | 342 gemeenten, 12 provincies en Nederland, 2019-2024 (wijken en buurten niet overgenomen) |
+| t98_storage_experience | 44 | Schmidt en Staffell, dataset 1 december 2022 | 18 reeksen (prijs en cumulatief vermogen) voor 8 opslagtechnieken plus zonnepanelen en omvormers, met de ervaringsgraad per reeks |
+| t99_ngfs_regions | 12 | NGFS fase V, REMIND-MAgPIE 3.3-4.8 | 7 scenario's, 5 wereldregio's, stroomprijs en opwek 2020-2100; bron en tabel staan in .gitignore (licentie) |
+
+- Het PNNL-werkboek (LCOS Workbook v2024) is een lege rekenmal: er staan geen kosten per techniek in. Voor dashboard 44
+  ontbreken dus nog de invoerwaarden per techniek (PNNL Cost and Performance Database, pagina per techniek).
+- NGFS: de regio's zijn vijf werelddelen ("OECD & EU"), geen Europa of Nederland apart, en het is één model.
+
+### Controle 26 nov, 11:30
+- t96: drie rijen met netkosten nul verwijderd (Albanie 2017, Oekraine 2020: geen opgave). Extra kolom
+  `Network share of energy plus network pct`, omdat het aandeel in de totale prijs vertekent bij negatieve belastingen
+  (Nederland 2022: 76%). EU-gemiddelde netkosten huishoudens 6,0 ct (2019) en 8,2 ct (2025): sluit aan op ACER (60 en 84 EUR/MWh).
+- t97: gewogen gemiddelde van de 342 gemeenten is 6,0% (2024), gelijk aan het landelijke cijfer. Rozendaal 2023 is leeg (onderdrukt).
+- t98: eerste versie voegde twee perioden van dezelfde techniek samen; hersteld, nu 18 reeksen zonder dubbele jaren.
+- t99: twee van de zes aangeleverde bestanden waren gelijk; conversie GJ naar MWh (x 3,6) en EJ naar TWh (x 277,8) nagerekend.
+- t94: tweede lezing van de pdf geeft dezelfde 23 waarden; zie de kanttekening over de errata in `docs/PLAN_WEEKEND.md`.
+- Nieuw: t100 (grondstoffen, Pink Sheet van 3 november 2026), t101 (uurprofiel huishouden per maand, NEDU E1A 2026) en
+  t102 (2.934 waterstofprojecten per land, status, techniek en jaar; IEA, juni 2026).

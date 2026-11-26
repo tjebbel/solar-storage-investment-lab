@@ -39,3 +39,7 @@ data/cache/
 
 # NGFS-scenariodata (licentie: niet herpubliceren)
 data/extern/ngfs/
+
+# afgeleid van NGFS-data (licentie)
+tableau/data/t99_ngfs_regions.csv
+tableau/data_en/t99_ngfs_regions.csv
