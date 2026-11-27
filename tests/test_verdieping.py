@@ -81,6 +81,9 @@ class NieuweBronnen(unittest.TestCase):
         self.assertEqual(set(g["Commodity"]), {"Silver", "Copper", "Aluminum"})
         u = pd.read_csv(D / "t101_household_profile.csv")
         self.assertEqual(len(u), 288)
+        k = pd.read_csv("data/extern/cbs_energiearmoede_kenmerken.csv")
+        e = k[(k["Year"] == 2024) & (k["Characteristic"] == "Ownership")].set_index("Category")["Energy poverty pct"]
+        self.assertGreater(e["Social rent"], 10 * e["Owner-occupied"])
         for f in ("eurostat_netkosten", "cbs_energiearmoede_regio", "netwachtrij_europa_2026", "pbl_sde_2026_subsidie_intensiteit"):
             self.assertNotIn('"', open(f"data/extern/{f}.csv").read())   # geen komma's in waarden (Tableau)
 

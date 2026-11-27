@@ -10,9 +10,9 @@ KPI-tegels (t50) staan klaar voor alle dashboards. Stappen voor de eerste drie: 
 | Dag | Dashboard | Onderwerp | Waarom hier | Tabel |
 |---|---|---|---|---|
 | gedaan do 26 nov | 18 | Storage saturation (18 van 20) | | t55 |
-| vr 27 nov | 36 | Nederland na de salderingsregeling | raakt elk huishouden met panelen; stopt 1 januari 2027 | t101, t90 |
-| vr 27 nov | 28 | Europa's toekomst in Californie en Zuid-Australie | een beeld dat in een oogopslag werkt | t68, t69 |
-| vr 27 nov | 23 | Energiearmoede per gemeente | iedereen zoekt de eigen gemeente op | t88, t97 |
+| gedaan vr 27 nov | 36 | Nederland na de salderingsregeling (18 van 20) | raakt elk huishouden met panelen; stopt 1 januari 2027 | t101, t90 |
+| gedaan vr 27 nov | 28 | Europa's toekomst in Californie en Zuid-Australie (18 van 20) | een beeld dat in een oogopslag werkt | t68, t69 |
+| gedaan vr 27 nov | 23 | Energiearmoede per gemeente (17 van 20) | iedereen zoekt de eigen gemeente op | t88, t97 |
 | vr 27 nov | 41 | Netkosten per land | de eigen energierekening; verdubbeld sinds 2019 | t96 |
 | vr 27 nov | 42 en 35 | Wachtrijen: Europa en Nederland | netcongestie is dagelijks nieuws | t95, t89 |
 | vr 27 nov | 24 | Waterstof: aangekondigd tegenover gebouwd | 4% wordt gebouwd: tegen de verwachting in | t102 |

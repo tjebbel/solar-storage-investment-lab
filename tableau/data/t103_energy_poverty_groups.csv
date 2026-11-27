@@ -1,0 +1,229 @@
+Year,Characteristic,Category,Households thousand,Energy poverty pct,Energy poverty HEq pct
+2024,Ownership,Owner-occupied,4440.6,1.3,4.1
+2024,Ownership,Social rent,2115.3,14.1,10.9
+2024,Ownership,Private rent,857.9,10.3,8.6
+2024,Floor area,15 to 50 m2,318.3,13,7
+2024,Floor area,50 to 75 m2,1086.6,12.1,8.8
+2024,Floor area,75 to 100 m2,1697.8,8.6,7.6
+2024,Floor area,100 to 150 m2,2773.2,3.6,5.1
+2024,Floor area,150 to 250 m2,1276.9,1.5,5.4
+2024,Floor area,250 to 500 m2,233,2.2,10.5
+2024,Floor area,500 to 10 000 m2,31.2,4.2,16.3
+2024,Year built,Before 1946,1280.1,7.5,8.8
+2024,Year built,1946 to 1965,1028,9.5,9.4
+2024,Year built,1965 to 1975,1191.6,8.3,8.5
+2024,Year built,1975 to 1992,1781.9,5.8,6.3
+2024,Year built,1992 to 2006,1098.7,2.7,3.8
+2024,Year built,2006 to 2015,527.1,2.6,3.2
+2024,Year built,2015 to now,510.1,0.9,1.1
+2024,Dwelling type,Detached house,972.9,2.2,8.9
+2024,Dwelling type,Semi-detached house,676.2,3.4,6
+2024,Dwelling type,End-of-terrace house,980.8,6.1,6.2
+2024,Dwelling type,Terraced house,2264.4,4.3,4.6
+2024,Dwelling type,Apartment,2519.9,9.6,7.7
+2024,Energy label,A,1581.5,3.8,3.8
+2024,Energy label,B,757.4,6.6,6.3
+2024,Energy label,C,1104.9,8,7.4
+2024,Energy label,D,448.6,11.2,8.7
+2024,Energy label,E,265.6,12.6,8.8
+2024,Energy label,F,167,11.1,8.4
+2024,Energy label,G,154,10.7,9
+2024,Household type,Single person,2600.7,11.5,12.9
+2024,Household type,Couple without children,2254.4,2.6,2.8
+2024,Household type,Couple with children,1957.5,1.6,1.3
+2024,Household type,Single parent,570.6,9.1,10.7
+2024,Household type,Other,34.2,6.6,3.8
+2024,Main income source,Self-employed,726.9,4.7,5.4
+2024,Main income source,Employee,3868.5,1.7,1.6
+2024,Main income source,Pension or insurance benefit,2469.6,8,10.8
+2024,Main income source,Social assistance,352.5,41.8,33.3
+2023,Ownership,Owner-occupied,4388.6,1,4.4
+2023,Ownership,Social rent,2109.2,7.6,3.8
+2023,Ownership,Private rent,845.5,7.9,6.4
+2023,Floor area,15 to 50 m2,309.9,8.7,2.3
+2023,Floor area,50 to 75 m2,1072.7,6.5,3
+2023,Floor area,75 to 100 m2,1696.9,5.2,3.6
+2023,Floor area,100 to 150 m2,2762.8,2.4,4
+2023,Floor area,150 to 250 m2,1244.8,1.2,6.3
+2023,Floor area,250 to 500 m2,228.5,2,13.8
+2023,Floor area,500 to 10 000 m2,32.2,3.8,21.5
+2023,Year built,Before 1946,1277,6,7.6
+2023,Year built,1946 to 1965,1030.6,6.9,6.2
+2023,Year built,1965 to 1975,1191.4,5,5.5
+2023,Year built,1975 to 1992,1778.8,2.8,3.6
+2023,Year built,1992 to 2006,1097.8,1,2.3
+2023,Year built,2006 to 2015,526.9,0.9,1.7
+2023,Year built,2015 to now,445.5,0.4,0.6
+2023,Dwelling type,Detached house,966.7,1.9,10.5
+2023,Dwelling type,Semi-detached house,672.2,3,5.7
+2023,Dwelling type,End-of-terrace house,974.9,5.1,4.4
+2023,Dwelling type,Terraced house,2249.7,2.8,2.9
+2023,Dwelling type,Apartment,2481.9,4.9,3.2
+2023,Energy label,A,1405.3,1.1,1.3
+2023,Energy label,B,742,2.3,2.5
+2023,Energy label,C,1099,3.8,3.4
+2023,Energy label,D,468.9,8.2,4.7
+2023,Energy label,E,275,9.4,5.1
+2023,Energy label,F,171,9.6,6
+2023,Energy label,G,154.9,9.5,7.3
+2023,Household type,Single person,2561.5,6.2,7.4
+2023,Household type,Couple without children,2229.7,1.9,3.1
+2023,Household type,Couple with children,1960.1,1.6,1.5
+2023,Household type,Single parent,565.7,6.7,7.3
+2023,Household type,Other,31.1,5.5,4.4
+2023,Main income source,Self-employed,721.6,3.5,4.6
+2023,Main income source,Employee,3830.3,1.4,1.8
+2023,Main income source,Pension or insurance benefit,2436.2,4.7,8.1
+2023,Main income source,Social assistance,360,22.7,7.9
+2022,Ownership,Owner-occupied,4367.5,1.1,2.6
+2022,Ownership,Social rent,2105.8,8.3,1.1
+2022,Ownership,Private rent,818.6,9.1,3.6
+2022,Floor area,15 to 50 m2,298.3,8.9,0.8
+2022,Floor area,50 to 75 m2,1058.9,6.5,0.9
+2022,Floor area,75 to 100 m2,1702.5,6,1.3
+2022,Floor area,100 to 150 m2,2780.5,2.8,1.9
+2022,Floor area,150 to 250 m2,1204.1,1.4,4.1
+2022,Floor area,250 to 500 m2,220.8,2.1,10.5
+2022,Floor area,500 to 10 000 m2,32.7,3.9,16.4
+2022,Year built,Before 1946,1276.1,6.8,4.6
+2022,Year built,1946 to 1965,1037.4,8.4,3.1
+2022,Year built,1965 to 1975,1194,5.6,2.6
+2022,Year built,1975 to 1992,1781.7,2.7,1.6
+2022,Year built,1992 to 2006,1099.6,0.7,1
+2022,Year built,2006 to 2015,527.5,0.5,0.7
+2022,Year built,2015 to now,381.9,0.2,0.2
+2022,Dwelling type,Detached house,964.7,2.1,7.4
+2022,Dwelling type,Semi-detached house,669.8,3.8,3.2
+2022,Dwelling type,End-of-terrace house,972.2,6.6,2
+2022,Dwelling type,Terraced house,2243.4,3.4,1.2
+2022,Dwelling type,Apartment,2445.7,4.6,1.1
+2022,Energy label,A,1240.2,0.8,0.4
+2022,Energy label,B,724.3,2,0.8
+2022,Energy label,C,1091,3.9,1.2
+2022,Energy label,D,489,9.3,1.8
+2022,Energy label,E,283.5,11,2.1
+2022,Energy label,F,174.4,11.3,2.9
+2022,Energy label,G,152.3,10.3,4.1
+2022,Household type,Single person,2526.7,6.5,3.8
+2022,Household type,Couple without children,2226,2.5,1.7
+2022,Household type,Couple with children,1953.6,1.8,0.7
+2022,Household type,Single parent,561.5,7.8,3.2
+2022,Household type,Other,30.4,6,2.5
+2022,Main income source,Self-employed,702.5,3.3,2.5
+2022,Main income source,Employee,3812.4,1.6,0.8
+2022,Main income source,Pension or insurance benefit,2414.3,5.4,4.4
+2022,Main income source,Social assistance,368.9,23.3,2.5
+2021,Ownership,Owner-occupied,4317.2,1.6,4.2
+2021,Ownership,Social rent,2103.1,15.3,8.2
+2021,Ownership,Private rent,793,12.4,8.7
+2021,Floor area,15 to 50 m2,285.5,13.1,4.7
+2021,Floor area,50 to 75 m2,1037.9,12.1,6.3
+2021,Floor area,75 to 100 m2,1700.8,9.9,6.1
+2021,Floor area,100 to 150 m2,2812.3,4.7,5
+2021,Floor area,150 to 250 m2,1146,1.9,6.2
+2021,Floor area,250 to 500 m2,205.3,2.7,12.1
+2021,Floor area,500 to 10 000 m2,32.2,5.1,19.1
+2021,Year built,Before 1946,1271.1,9,8.7
+2021,Year built,1946 to 1965,1039.5,12,8.6
+2021,Year built,1965 to 1975,1193,9.5,7.3
+2021,Year built,1975 to 1992,1778.3,5.9,5.2
+2021,Year built,1992 to 2006,1096.1,2.2,3
+2021,Year built,2006 to 2015,525.7,1.8,2.2
+2021,Year built,2015 to now,316.7,0.5,0.7
+2021,Dwelling type,Detached house,956.3,2.6,10.3
+2021,Dwelling type,Semi-detached house,663.5,5,6.4
+2021,Dwelling type,End-of-terrace house,965.7,8.8,6
+2021,Dwelling type,Terraced house,2228.1,5.7,4.1
+2021,Dwelling type,Apartment,2404.8,9.2,5.6
+2021,Energy label,A,1119.1,2.7,2.3
+2021,Energy label,B,718.5,5.7,4.4
+2021,Energy label,C,1094.9,8.3,5.9
+2021,Energy label,D,517.7,14.8,7.7
+2021,Energy label,E,294.3,16.3,8.2
+2021,Energy label,F,176.8,15.3,8.4
+2021,Energy label,G,143.5,13.7,9.3
+2021,Household type,Single person,2468.6,12.2,11.4
+2021,Household type,Couple without children,2209.1,3.5,3
+2021,Household type,Couple with children,1953.8,2.3,1.2
+2021,Household type,Single parent,559.1,11.9,9.6
+2021,Household type,Other,29.9,7.1,4
+2021,Main income source,Self-employed,666.4,4.3,4.8
+2021,Main income source,Employee,3736.6,2.2,1.5
+2021,Main income source,Pension or insurance benefit,2431.8,9.4,9.8
+2021,Main income source,Social assistance,385.8,39.8,25.7
+2020,Ownership,Owner-occupied,4276.8,1.7,3.4
+2020,Ownership,Social rent,2099.4,15,5.9
+2020,Ownership,Private rent,756.8,13.6,7.3
+2020,Floor area,15 to 50 m2,274.4,13.9,3.4
+2020,Floor area,50 to 75 m2,1026.3,11.9,4.4
+2020,Floor area,75 to 100 m2,1695.5,9.9,4.5
+2020,Floor area,100 to 150 m2,2795.9,4.7,3.8
+2020,Floor area,150 to 250 m2,1111.6,2.1,5.2
+2020,Floor area,250 to 500 m2,202.8,2.9,10.7
+2020,Floor area,500 to 10 000 m2,32.9,5.2,18.7
+2020,Year built,Before 1946,1263.7,9.5,6.9
+2020,Year built,1946 to 1965,1041.9,12.6,6.5
+2020,Year built,1965 to 1975,1191.5,9.6,5.4
+2020,Year built,1975 to 1992,1773.5,5.5,3.9
+2020,Year built,1992 to 2006,1093,1.9,2.2
+2020,Year built,2006 to 2015,523.5,1.5,1.7
+2020,Year built,2015 to now,253.1,0.6,0.7
+2020,Dwelling type,Detached house,946.3,2.9,8.8
+2020,Dwelling type,Semi-detached house,655.9,5.4,4.9
+2020,Dwelling type,End-of-terrace house,957.8,9.4,4.4
+2020,Dwelling type,Terraced house,2210,5.8,3
+2020,Dwelling type,Apartment,2368.2,9,4.1
+2020,Energy label,A,763.7,2.3,1.8
+2020,Energy label,B,574.7,5.2,3.3
+2020,Energy label,C,947.1,8.2,4.5
+2020,Energy label,D,486.3,16.1,5.7
+2020,Energy label,E,271.9,17.7,6
+2020,Energy label,F,158.6,18,6.1
+2020,Energy label,G,123.1,15.1,6.5
+2020,Household type,Single person,2423.3,12,8.7
+2020,Household type,Couple without children,2181.5,3.7,2.3
+2020,Household type,Couple with children,1954.9,2.5,0.9
+2020,Household type,Single parent,551.9,12.6,7.6
+2020,Household type,Other,28.6,7.6,3.4
+2020,Main income source,Self-employed,634,4.3,4.1
+2020,Main income source,Employee,3699.6,2.4,1.1
+2020,Main income source,Pension or insurance benefit,2410.7,9.3,7.3
+2020,Main income source,Social assistance,395.9,38.6,20.1
+2019,Ownership,Owner-occupied,4245.7,2.3,5.3
+2019,Ownership,Social rent,2100.1,22.6,12.5
+2019,Ownership,Private rent,713.1,17.4,12
+2019,Floor area,15 to 50 m2,264.3,19,8.4
+2019,Floor area,50 to 75 m2,1014.9,17.9,9.9
+2019,Floor area,75 to 100 m2,1689.3,14.4,9
+2019,Floor area,100 to 150 m2,2781.7,6.7,6.6
+2019,Floor area,150 to 250 m2,1088.4,2.7,7.5
+2019,Floor area,250 to 500 m2,199.7,3.4,13.3
+2019,Floor area,500 to 10 000 m2,33.1,5.8,20.8
+2019,Year built,Before 1946,1258.8,11.7,10.9
+2019,Year built,1946 to 1965,1044.5,16.7,11.6
+2019,Year built,1965 to 1975,1192.4,13.7,10
+2019,Year built,1975 to 1992,1771.6,8.9,7.4
+2019,Year built,1992 to 2006,1092.6,3.7,4.1
+2019,Year built,2006 to 2015,523.6,2.9,3.1
+2019,Year built,2015 to now,188.7,1.2,1.4
+2019,Dwelling type,Detached house,936.4,3.5,12.1
+2019,Dwelling type,Semi-detached house,649,6.9,8.2
+2019,Dwelling type,End-of-terrace house,950.2,11.9,8
+2019,Dwelling type,Terraced house,2195.3,8.5,5.8
+2019,Dwelling type,Apartment,2336.3,13.8,8.6
+2019,Energy label,A,571.5,4.3,3.6
+2019,Energy label,B,533.2,9.7,7
+2019,Energy label,C,961.8,14,9.4
+2019,Energy label,D,541,22.2,11.7
+2019,Energy label,E,290.6,23.3,12.1
+2019,Energy label,F,166.3,23.4,11.7
+2019,Energy label,G,115.4,19.4,11.2
+2019,Household type,Single person,2387.4,17.6,16
+2019,Household type,Couple without children,2161,5.4,3.9
+2019,Household type,Couple with children,1951.3,3.4,1.5
+2019,Household type,Single parent,544,17,13.9
+2019,Household type,Other,28.4,9.4,5.2
+2019,Main income source,Self-employed,650.8,6.3,6.5
+2019,Main income source,Employee,3674,3.7,2.2
+2019,Main income source,Pension or insurance benefit,2371.7,14,13
+2019,Main income source,Social assistance,375.7,51.2,37.4

@@ -214,7 +214,13 @@ def huishoudprofiel():
     g = d.groupby(["Month", "Hour"])[["E1A_AZI_A", "E1A_AMI_A", "E1A_AMI_I"]].sum().reset_index()
     g = g.rename(columns={"E1A_AZI_A": "Offtake without solar (fraction of year)", "E1A_AMI_A": "Offtake with solar (fraction of year)",
                           "E1A_AMI_I": "Feed-in with solar (fraction of year)"})
-    return g.round(8)
+    prijs = uit_extern("nl_uurprijs_maand_uur_2025.csv")   # gemiddelde day-ahead prijs per maand en uur, Energy-Charts 2025
+    g = g.round(8).merge(prijs, on=["Month", "Hour"])
+    p = g["Day-ahead price 2025 EUR/MWh"]
+    for kolom, naam in (("Feed-in with solar (fraction of year)", "Feed-in value EUR/MWh"),
+                        ("Offtake with solar (fraction of year)", "Offtake cost EUR/MWh")):
+        g[naam] = round((g[kolom] * p).sum() / g[kolom].sum(), 2)   # met het profiel gewogen jaarprijs, op elke rij gelijk
+    return g
 
 
 def main():
@@ -232,7 +238,8 @@ def main():
            "t97_energy_poverty_region": uit_extern("cbs_energiearmoede_regio.csv"),
            "t98_storage_experience": uit_extern("opslag_ervaringscurves.csv"),
            "t100_commodity_prices": grondstoffen(), "t101_household_profile": huishoudprofiel(),
-           "t102_hydrogen_projects": uit_extern("iea_hydrogen_projects_2026.csv")}
+           "t102_hydrogen_projects": uit_extern("iea_hydrogen_projects_2026.csv"),
+           "t103_energy_poverty_groups": uit_extern("cbs_energiearmoede_kenmerken.csv")}
     ngfs = Path("data/extern/ngfs/ngfs_r5_electricity.csv")   # licentie: bron niet in de repo
     if ngfs.exists():
         uit["t99_ngfs_regions"] = pd.read_csv(ngfs)
