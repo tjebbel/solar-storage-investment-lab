@@ -57,7 +57,7 @@ Spanish capture rate (Synertics 0.97 vs our 0.55) are open deviations.
 | 6 | Profit pool along the value chain | Bain | data ready (10 manufacturers, 2025 results) |
 | 7 | [Control matrix](https://public.tableau.com/app/profile/tjebbe.lodeizen/viz/SolarandstorageinEurope/Controlmatrix): 21 controls, 6 still open | Big Four | published; 12 external comparisons, 9 agree |
 | 8 | [Netherlands](https://public.tableau.com/app/profile/tjebbe.lodeizen/viz/SolarandstorageinEurope/NL): Dutch solar growth fell to 5% in 2025 while 8 GW of demand waits for a grid connection; 584 negative-price hours | government | published |
-| 9 | European Union: price convergence | EU | data ready |
+| 9 | [EU convergence](https://public.tableau.com/app/profile/tjebbe.lodeizen/viz/SolarandstorageinEurope/euconvergence): one market, 37 prices; the gap between expensive and cheap zones is twice the 2019 level | EU | published 28 Nov (17/20) |
 | 10 | United States: tax credits and the build-out | US | data ready |
 | 11 | China: market prices and the build wave | China | data ready |
 | 12 | Stranded assets per climate scenario | central banks | data ready (t99: five world regions, one model; not on GitHub) |
