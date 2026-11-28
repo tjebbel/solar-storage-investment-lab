@@ -239,7 +239,8 @@ def main():
            "t98_storage_experience": uit_extern("opslag_ervaringscurves.csv"),
            "t100_commodity_prices": grondstoffen(), "t101_household_profile": huishoudprofiel(),
            "t102_hydrogen_projects": uit_extern("iea_hydrogen_projects_2026.csv"),
-           "t103_energy_poverty_groups": uit_extern("cbs_energiearmoede_kenmerken.csv")}
+           "t103_energy_poverty_groups": uit_extern("cbs_energiearmoede_kenmerken.csv"),
+           "t107_battery_fleet": uit_extern("batterijen_eu_2025.csv")}
     ngfs = Path("data/extern/ngfs/ngfs_r5_electricity.csv")   # licentie: bron niet in de repo
     if ngfs.exists():
         uit["t99_ngfs_regions"] = pd.read_csv(ngfs)

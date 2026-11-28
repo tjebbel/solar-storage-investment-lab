@@ -1,0 +1,33 @@
+Year,Area,Source,Capture rate
+2019,Median of 37 zones,Solar,1.008
+2020,Median of 37 zones,Solar,1.004
+2021,Median of 37 zones,Solar,0.979
+2022,Median of 37 zones,Solar,0.954
+2023,Median of 37 zones,Solar,0.881
+2024,Median of 37 zones,Solar,0.835
+2025,Median of 37 zones,Solar,0.833
+2026,Median of 37 zones,Solar,0.783
+2019,Median of 37 zones,Wind,0.961
+2020,Median of 37 zones,Wind,0.932
+2021,Median of 37 zones,Wind,0.949
+2022,Median of 37 zones,Wind,0.928
+2023,Median of 37 zones,Wind,0.917
+2024,Median of 37 zones,Wind,0.903
+2025,Median of 37 zones,Wind,0.941
+2026,Median of 37 zones,Wind,0.952
+2019,Netherlands,Solar,0.977
+2020,Netherlands,Solar,0.949
+2021,Netherlands,Solar,0.922
+2022,Netherlands,Solar,0.863
+2023,Netherlands,Solar,0.783
+2024,Netherlands,Solar,0.681
+2025,Netherlands,Solar,0.683
+2026,Netherlands,Solar,0.655
+2019,Netherlands,Wind,0.957
+2020,Netherlands,Wind,0.903
+2021,Netherlands,Wind,0.925
+2022,Netherlands,Wind,0.892
+2023,Netherlands,Wind,0.874
+2024,Netherlands,Wind,0.875
+2025,Netherlands,Wind,0.922
+2026,Netherlands,Wind,0.921

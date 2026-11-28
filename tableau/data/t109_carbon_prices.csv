@@ -1,0 +1,1325 @@
+Instrument id,Instrument,Type,Jurisdiction,Region,Income group,Status,Year,Price USD per tCO2e
+Tax_AL,Albania carbon tax,Carbon tax,Albania,Europe & Central Asia,Upper middle income,Implemented,2024,13.11
+Tax_AL,Albania carbon tax,Carbon tax,Albania,Europe & Central Asia,Upper middle income,Implemented,2025,13.69
+Tax_AL,Albania carbon tax,Carbon tax,Albania,Europe & Central Asia,Upper middle income,Implemented,2026,16.93
+Tax_CA_Alberta,Alberta carbon tax,Carbon tax,Alberta,North America,High income,Abolished,2017,15.03
+Tax_CA_Alberta,Alberta carbon tax,Carbon tax,Alberta,North America,High income,Abolished,2018,23.27
+Tax_CA_Alberta,Alberta carbon tax,Carbon tax,Alberta,North America,High income,Abolished,2019,22.49
+ETS_CA_Alberta,Alberta TIER,ETS,Alberta,North America,High income,Implemented,2007,13.01
+ETS_CA_Alberta,Alberta TIER,ETS,Alberta,North America,High income,Implemented,2008,14.61
+ETS_CA_Alberta,Alberta TIER,ETS,Alberta,North America,High income,Implemented,2009,11.86
+ETS_CA_Alberta,Alberta TIER,ETS,Alberta,North America,High income,Implemented,2010,14.89
+ETS_CA_Alberta,Alberta TIER,ETS,Alberta,North America,High income,Implemented,2011,15.58
+ETS_CA_Alberta,Alberta TIER,ETS,Alberta,North America,High income,Implemented,2012,15.01
+ETS_CA_Alberta,Alberta TIER,ETS,Alberta,North America,High income,Implemented,2013,14.75
+ETS_CA_Alberta,Alberta TIER,ETS,Alberta,North America,High income,Implemented,2014,13.6
+ETS_CA_Alberta,Alberta TIER,ETS,Alberta,North America,High income,Implemented,2015,11.89
+ETS_CA_Alberta,Alberta TIER,ETS,Alberta,North America,High income,Implemented,2016,15.33
+ETS_CA_Alberta,Alberta TIER,ETS,Alberta,North America,High income,Implemented,2017,22.54
+ETS_CA_Alberta,Alberta TIER,ETS,Alberta,North America,High income,Implemented,2018,23.27
+ETS_CA_Alberta,Alberta TIER,ETS,Alberta,North America,High income,Implemented,2019,22.49
+ETS_CA_Alberta,Alberta TIER,ETS,Alberta,North America,High income,Implemented,2020,21.1
+ETS_CA_Alberta,Alberta TIER,ETS,Alberta,North America,High income,Implemented,2021,31.83
+ETS_CA_Alberta,Alberta TIER,ETS,Alberta,North America,High income,Implemented,2022,39.96
+ETS_CA_Alberta,Alberta TIER,ETS,Alberta,North America,High income,Implemented,2023,48.03
+ETS_CA_Alberta,Alberta TIER,ETS,Alberta,North America,High income,Implemented,2024,58.94
+ETS_CA_Alberta,Alberta TIER,ETS,Alberta,North America,High income,Implemented,2025,66.21
+ETS_CA_Alberta,Alberta TIER,ETS,Alberta,North America,High income,Implemented,2026,68.4
+Tax_AN,Andorra carbon tax,Carbon tax,Andorra,Europe & Central Asia,High income,Implemented,1999,0.0
+Tax_AN,Andorra carbon tax,Carbon tax,Andorra,Europe & Central Asia,High income,Implemented,2000,0.0
+Tax_AN,Andorra carbon tax,Carbon tax,Andorra,Europe & Central Asia,High income,Implemented,2001,0.0
+Tax_AN,Andorra carbon tax,Carbon tax,Andorra,Europe & Central Asia,High income,Implemented,2002,0.0
+Tax_AN,Andorra carbon tax,Carbon tax,Andorra,Europe & Central Asia,High income,Implemented,2003,0.0
+Tax_AN,Andorra carbon tax,Carbon tax,Andorra,Europe & Central Asia,High income,Implemented,2004,0.0
+Tax_AN,Andorra carbon tax,Carbon tax,Andorra,Europe & Central Asia,High income,Implemented,2005,0.0
+Tax_AN,Andorra carbon tax,Carbon tax,Andorra,Europe & Central Asia,High income,Implemented,2006,0.0
+Tax_AN,Andorra carbon tax,Carbon tax,Andorra,Europe & Central Asia,High income,Implemented,2007,0.0
+Tax_AN,Andorra carbon tax,Carbon tax,Andorra,Europe & Central Asia,High income,Implemented,2008,0.0
+Tax_AN,Andorra carbon tax,Carbon tax,Andorra,Europe & Central Asia,High income,Implemented,2009,0.0
+Tax_AN,Andorra carbon tax,Carbon tax,Andorra,Europe & Central Asia,High income,Implemented,2010,0.0
+Tax_AN,Andorra carbon tax,Carbon tax,Andorra,Europe & Central Asia,High income,Implemented,2011,0.0
+Tax_AN,Andorra carbon tax,Carbon tax,Andorra,Europe & Central Asia,High income,Implemented,2012,0.0
+Tax_AN,Andorra carbon tax,Carbon tax,Andorra,Europe & Central Asia,High income,Implemented,2013,0.0
+Tax_AN,Andorra carbon tax,Carbon tax,Andorra,Europe & Central Asia,High income,Implemented,2014,0.0
+Tax_AN,Andorra carbon tax,Carbon tax,Andorra,Europe & Central Asia,High income,Implemented,2015,0.0
+Tax_AN,Andorra carbon tax,Carbon tax,Andorra,Europe & Central Asia,High income,Implemented,2016,0.0
+Tax_AN,Andorra carbon tax,Carbon tax,Andorra,Europe & Central Asia,High income,Implemented,2017,0.0
+Tax_AN,Andorra carbon tax,Carbon tax,Andorra,Europe & Central Asia,High income,Implemented,2018,0.0
+Tax_AN,Andorra carbon tax,Carbon tax,Andorra,Europe & Central Asia,High income,Implemented,2019,0.0
+Tax_AN,Andorra carbon tax,Carbon tax,Andorra,Europe & Central Asia,High income,Implemented,2020,0.0
+Tax_AN,Andorra carbon tax,Carbon tax,Andorra,Europe & Central Asia,High income,Implemented,2021,0.0
+Tax_AN,Andorra carbon tax,Carbon tax,Andorra,Europe & Central Asia,High income,Implemented,2022,33.16
+Tax_AN,Andorra carbon tax,Carbon tax,Andorra,Europe & Central Asia,High income,Implemented,2023,32.62
+Tax_AN,Andorra carbon tax,Carbon tax,Andorra,Europe & Central Asia,High income,Implemented,2024,32.25
+Tax_AN,Andorra carbon tax,Carbon tax,Andorra,Europe & Central Asia,High income,Implemented,2025,32.36
+Tax_AN,Andorra carbon tax,Carbon tax,Andorra,Europe & Central Asia,High income,Implemented,2026,34.82
+Tax_AR,Argentina carbon tax,Carbon tax,Argentina,Latin America & Caribbean,Upper middle income,Implemented,2018,8.91
+Tax_AR,Argentina carbon tax,Carbon tax,Argentina,Latin America & Caribbean,Upper middle income,Implemented,2019,6.19
+Tax_AR,Argentina carbon tax,Carbon tax,Argentina,Latin America & Caribbean,Upper middle income,Implemented,2020,6.34
+Tax_AR,Argentina carbon tax,Carbon tax,Argentina,Latin America & Caribbean,Upper middle income,Implemented,2021,5.32
+Tax_AR,Argentina carbon tax,Carbon tax,Argentina,Latin America & Caribbean,Upper middle income,Implemented,2022,5.0
+Tax_AR,Argentina carbon tax,Carbon tax,Argentina,Latin America & Caribbean,Upper middle income,Implemented,2023,3.22
+Tax_AR,Argentina carbon tax,Carbon tax,Argentina,Latin America & Caribbean,Upper middle income,Implemented,2024,0.81
+Tax_AR,Argentina carbon tax,Carbon tax,Argentina,Latin America & Caribbean,Upper middle income,Implemented,2025,5.33
+Tax_AR,Argentina carbon tax,Carbon tax,Argentina,Latin America & Caribbean,Upper middle income,Implemented,2026,4.03
+ETS_AU1,Australia CPM,ETS,Australia,East Asia & Pacific,High income,Abolished,2012,23.92
+ETS_AU1,Australia CPM,ETS,Australia,East Asia & Pacific,High income,Abolished,2013,24.58
+ETS_AU1,Australia CPM,ETS,Australia,East Asia & Pacific,High income,Abolished,2014,22.37
+ETS_AU2,Australia Safeguard Mechanism,ETS,Australia,East Asia & Pacific,High income,Implemented,2024,21.9
+ETS_AU2,Australia Safeguard Mechanism,ETS,Australia,East Asia & Pacific,High income,Implemented,2025,21.82
+ETS_AU2,Australia Safeguard Mechanism,ETS,Australia,East Asia & Pacific,High income,Implemented,2026,24.68
+ETS_AT,Austria ETS,ETS,Austria,Europe & Central Asia,High income,Implemented,2023,35.34
+ETS_AT,Austria ETS,ETS,Austria,Europe & Central Asia,High income,Implemented,2024,48.37
+ETS_AT,Austria ETS,ETS,Austria,Europe & Central Asia,High income,Implemented,2025,48.55
+ETS_AT,Austria ETS,ETS,Austria,Europe & Central Asia,High income,Implemented,2026,63.83
+Tax_MX_BC,Baja California carbon tax,Carbon tax,Baja California,Latin America & Caribbean,Upper middle income,Abolished,2021,8.32
+Tax_MX_BC,Baja California carbon tax,Carbon tax,Baja California,Latin America & Caribbean,Upper middle income,Abolished,2025,0.0
+ETS_CN_Beijing,Beijing pilot ETS,ETS,Beijing,East Asia & Pacific,Upper middle income,Implemented,2013,0.0
+ETS_CN_Beijing,Beijing pilot ETS,ETS,Beijing,East Asia & Pacific,Upper middle income,Implemented,2014,8.52
+ETS_CN_Beijing,Beijing pilot ETS,ETS,Beijing,East Asia & Pacific,Upper middle income,Implemented,2015,8.21
+ETS_CN_Beijing,Beijing pilot ETS,ETS,Beijing,East Asia & Pacific,Upper middle income,Implemented,2016,6.3
+ETS_CN_Beijing,Beijing pilot ETS,ETS,Beijing,East Asia & Pacific,Upper middle income,Implemented,2017,7.4
+ETS_CN_Beijing,Beijing pilot ETS,ETS,Beijing,East Asia & Pacific,Upper middle income,Implemented,2018,9.45
+ETS_CN_Beijing,Beijing pilot ETS,ETS,Beijing,East Asia & Pacific,Upper middle income,Implemented,2019,10.4
+ETS_CN_Beijing,Beijing pilot ETS,ETS,Beijing,East Asia & Pacific,Upper middle income,Implemented,2020,12.2
+ETS_CN_Beijing,Beijing pilot ETS,ETS,Beijing,East Asia & Pacific,Upper middle income,Implemented,2021,4.32
+ETS_CN_Beijing,Beijing pilot ETS,ETS,Beijing,East Asia & Pacific,Upper middle income,Implemented,2022,6.53
+ETS_CN_Beijing,Beijing pilot ETS,ETS,Beijing,East Asia & Pacific,Upper middle income,Implemented,2023,12.96
+ETS_CN_Beijing,Beijing pilot ETS,ETS,Beijing,East Asia & Pacific,Upper middle income,Implemented,2024,14.51
+ETS_CN_Beijing,Beijing pilot ETS,ETS,Beijing,East Asia & Pacific,Upper middle income,Implemented,2025,12.15
+ETS_CN_Beijing,Beijing pilot ETS,ETS,Beijing,East Asia & Pacific,Upper middle income,Implemented,2026,15.41
+Tax_CA_BC,BC carbon tax,Carbon tax,British Columbia,North America,High income,Abolished,2008,9.74
+Tax_CA_BC,BC carbon tax,Carbon tax,British Columbia,North America,High income,Abolished,2009,7.91
+Tax_CA_BC,BC carbon tax,Carbon tax,British Columbia,North America,High income,Abolished,2010,19.85
+Tax_CA_BC,BC carbon tax,Carbon tax,British Columbia,North America,High income,Abolished,2011,25.96
+Tax_CA_BC,BC carbon tax,Carbon tax,British Columbia,North America,High income,Abolished,2012,30.03
+Tax_CA_BC,BC carbon tax,Carbon tax,British Columbia,North America,High income,Abolished,2013,29.51
+Tax_CA_BC,BC carbon tax,Carbon tax,British Columbia,North America,High income,Abolished,2014,27.21
+Tax_CA_BC,BC carbon tax,Carbon tax,British Columbia,North America,High income,Abolished,2015,23.79
+Tax_CA_BC,BC carbon tax,Carbon tax,British Columbia,North America,High income,Abolished,2016,22.99
+Tax_CA_BC,BC carbon tax,Carbon tax,British Columbia,North America,High income,Abolished,2017,22.54
+Tax_CA_BC,BC carbon tax,Carbon tax,British Columbia,North America,High income,Abolished,2018,27.14
+Tax_CA_BC,BC carbon tax,Carbon tax,British Columbia,North America,High income,Abolished,2019,29.99
+Tax_CA_BC,BC carbon tax,Carbon tax,British Columbia,North America,High income,Abolished,2020,28.14
+Tax_CA_BC,BC carbon tax,Carbon tax,British Columbia,North America,High income,Abolished,2021,35.81
+Tax_CA_BC,BC carbon tax,Carbon tax,British Columbia,North America,High income,Abolished,2022,39.96
+Tax_CA_BC,BC carbon tax,Carbon tax,British Columbia,North America,High income,Abolished,2023,48.03
+Tax_CA_BC,BC carbon tax,Carbon tax,British Columbia,North America,High income,Abolished,2024,58.94
+ETS_CA_BC,BC OBPS,ETS,British Columbia,North America,High income,Implemented,2016,0.0
+ETS_CA_BC,BC OBPS,ETS,British Columbia,North America,High income,Implemented,2021,19.9
+ETS_CA_BC,BC OBPS,ETS,British Columbia,North America,High income,Implemented,2022,19.98
+ETS_CA_BC,BC OBPS,ETS,British Columbia,North America,High income,Implemented,2023,18.47
+ETS_CA_BC,BC OBPS,ETS,British Columbia,North America,High income,Implemented,2024,58.94
+ETS_CA_BC,BC OBPS,ETS,British Columbia,North America,High income,Implemented,2025,66.21
+ETS_CA_BC,BC OBPS,ETS,British Columbia,North America,High income,Implemented,2026,68.4
+ETS_US_California,California CaT,ETS,California,North America,High income,Implemented,2012,10.0
+ETS_US_California,California CaT,ETS,California,North America,High income,Implemented,2013,14.48
+ETS_US_California,California CaT,ETS,California,North America,High income,Implemented,2014,11.69
+ETS_US_California,California CaT,ETS,California,North America,High income,Implemented,2015,12.49
+ETS_US_California,California CaT,ETS,California,North America,High income,Implemented,2016,12.45
+ETS_US_California,California CaT,ETS,California,North America,High income,Implemented,2017,15.08
+ETS_US_California,California CaT,ETS,California,North America,High income,Implemented,2018,15.1
+ETS_US_California,California CaT,ETS,California,North America,High income,Implemented,2019,15.77
+ETS_US_California,California CaT,ETS,California,North America,High income,Implemented,2020,15.3
+ETS_US_California,California CaT,ETS,California,North America,High income,Implemented,2021,17.94
+ETS_US_California,California CaT,ETS,California,North America,High income,Implemented,2022,30.82
+ETS_US_California,California CaT,ETS,California,North America,High income,Implemented,2023,29.84
+ETS_US_California,California CaT,ETS,California,North America,High income,Implemented,2024,38.59
+ETS_US_California,California CaT,ETS,California,North America,High income,Implemented,2025,29.27
+ETS_US_California,California CaT,ETS,California,North America,High income,Implemented,2026,29.05
+Tax_CA,Canada federal fuel charge,Carbon tax,Canada,North America,High income,Abolished,2019,15.0
+Tax_CA,Canada federal fuel charge,Carbon tax,Canada,North America,High income,Abolished,2020,21.1
+Tax_CA,Canada federal fuel charge,Carbon tax,Canada,North America,High income,Abolished,2021,31.83
+Tax_CA,Canada federal fuel charge,Carbon tax,Canada,North America,High income,Abolished,2022,39.96
+Tax_CA,Canada federal fuel charge,Carbon tax,Canada,North America,High income,Abolished,2023,48.03
+Tax_CA,Canada federal fuel charge,Carbon tax,Canada,North America,High income,Abolished,2024,58.94
+ETS_CA,Canada federal OBPS,ETS,Canada,North America,High income,Implemented,2021,31.83
+ETS_CA,Canada federal OBPS,ETS,Canada,North America,High income,Implemented,2022,39.96
+ETS_CA,Canada federal OBPS,ETS,Canada,North America,High income,Implemented,2023,48.03
+ETS_CA,Canada federal OBPS,ETS,Canada,North America,High income,Implemented,2024,58.94
+ETS_CA,Canada federal OBPS,ETS,Canada,North America,High income,Implemented,2025,66.21
+ETS_CA,Canada federal OBPS,ETS,Canada,North America,High income,Implemented,2026,68.4
+Tax_CL,Chile carbon tax,Carbon tax,Chile,Latin America & Caribbean,High income,Implemented,2017,5.0
+Tax_CL,Chile carbon tax,Carbon tax,Chile,Latin America & Caribbean,High income,Implemented,2018,5.0
+Tax_CL,Chile carbon tax,Carbon tax,Chile,Latin America & Caribbean,High income,Implemented,2019,5.0
+Tax_CL,Chile carbon tax,Carbon tax,Chile,Latin America & Caribbean,High income,Implemented,2020,5.0
+Tax_CL,Chile carbon tax,Carbon tax,Chile,Latin America & Caribbean,High income,Implemented,2021,5.0
+Tax_CL,Chile carbon tax,Carbon tax,Chile,Latin America & Caribbean,High income,Implemented,2022,5.0
+Tax_CL,Chile carbon tax,Carbon tax,Chile,Latin America & Caribbean,High income,Implemented,2023,5.0
+Tax_CL,Chile carbon tax,Carbon tax,Chile,Latin America & Caribbean,High income,Implemented,2024,5.0
+Tax_CL,Chile carbon tax,Carbon tax,Chile,Latin America & Caribbean,High income,Implemented,2025,5.0
+Tax_CL,Chile carbon tax,Carbon tax,Chile,Latin America & Caribbean,High income,Implemented,2026,5.0
+ETS_CN,China national ETS,ETS,China,East Asia & Pacific,Upper middle income,Implemented,2022,9.2
+ETS_CN,China national ETS,ETS,China,East Asia & Pacific,Upper middle income,Implemented,2023,8.15
+ETS_CN,China national ETS,ETS,China,East Asia & Pacific,Upper middle income,Implemented,2024,12.57
+ETS_CN,China national ETS,ETS,China,East Asia & Pacific,Upper middle income,Implemented,2025,11.76
+ETS_CN,China national ETS,ETS,China,East Asia & Pacific,Upper middle income,Implemented,2026,11.56
+ETS_CN_Chongqing,Chongqing pilot ETS,ETS,Chongqing,East Asia & Pacific,Upper middle income,Implemented,2014,5.0
+ETS_CN_Chongqing,Chongqing pilot ETS,ETS,Chongqing,East Asia & Pacific,Upper middle income,Implemented,2015,3.91
+ETS_CN_Chongqing,Chongqing pilot ETS,ETS,Chongqing,East Asia & Pacific,Upper middle income,Implemented,2016,1.55
+ETS_CN_Chongqing,Chongqing pilot ETS,ETS,Chongqing,East Asia & Pacific,Upper middle income,Implemented,2017,0.22
+ETS_CN_Chongqing,Chongqing pilot ETS,ETS,Chongqing,East Asia & Pacific,Upper middle income,Implemented,2018,3.82
+ETS_CN_Chongqing,Chongqing pilot ETS,ETS,Chongqing,East Asia & Pacific,Upper middle income,Implemented,2019,0.55
+ETS_CN_Chongqing,Chongqing pilot ETS,ETS,Chongqing,East Asia & Pacific,Upper middle income,Implemented,2020,5.31
+ETS_CN_Chongqing,Chongqing pilot ETS,ETS,Chongqing,East Asia & Pacific,Upper middle income,Implemented,2021,3.71
+ETS_CN_Chongqing,Chongqing pilot ETS,ETS,Chongqing,East Asia & Pacific,Upper middle income,Implemented,2022,5.66
+ETS_CN_Chongqing,Chongqing pilot ETS,ETS,Chongqing,East Asia & Pacific,Upper middle income,Implemented,2023,4.66
+ETS_CN_Chongqing,Chongqing pilot ETS,ETS,Chongqing,East Asia & Pacific,Upper middle income,Implemented,2024,5.99
+ETS_CN_Chongqing,Chongqing pilot ETS,ETS,Chongqing,East Asia & Pacific,Upper middle income,Implemented,2025,5.51
+ETS_CN_Chongqing,Chongqing pilot ETS,ETS,Chongqing,East Asia & Pacific,Upper middle income,Implemented,2026,5.21
+Tax_MX_Colima,Colima carbon tax,Carbon tax,Colima,Latin America & Caribbean,Upper middle income,Implemented,1990,0.0
+Tax_MX_Colima,Colima carbon tax,Carbon tax,Colima,Latin America & Caribbean,Upper middle income,Implemented,1991,0.0
+Tax_MX_Colima,Colima carbon tax,Carbon tax,Colima,Latin America & Caribbean,Upper middle income,Implemented,1992,0.0
+Tax_MX_Colima,Colima carbon tax,Carbon tax,Colima,Latin America & Caribbean,Upper middle income,Implemented,1993,0.0
+Tax_MX_Colima,Colima carbon tax,Carbon tax,Colima,Latin America & Caribbean,Upper middle income,Implemented,1994,0.0
+Tax_MX_Colima,Colima carbon tax,Carbon tax,Colima,Latin America & Caribbean,Upper middle income,Implemented,1995,0.0
+Tax_MX_Colima,Colima carbon tax,Carbon tax,Colima,Latin America & Caribbean,Upper middle income,Implemented,1996,0.0
+Tax_MX_Colima,Colima carbon tax,Carbon tax,Colima,Latin America & Caribbean,Upper middle income,Implemented,1997,0.0
+Tax_MX_Colima,Colima carbon tax,Carbon tax,Colima,Latin America & Caribbean,Upper middle income,Implemented,1998,0.0
+Tax_MX_Colima,Colima carbon tax,Carbon tax,Colima,Latin America & Caribbean,Upper middle income,Implemented,1999,0.0
+Tax_MX_Colima,Colima carbon tax,Carbon tax,Colima,Latin America & Caribbean,Upper middle income,Implemented,2000,0.0
+Tax_MX_Colima,Colima carbon tax,Carbon tax,Colima,Latin America & Caribbean,Upper middle income,Implemented,2001,0.0
+Tax_MX_Colima,Colima carbon tax,Carbon tax,Colima,Latin America & Caribbean,Upper middle income,Implemented,2002,0.0
+Tax_MX_Colima,Colima carbon tax,Carbon tax,Colima,Latin America & Caribbean,Upper middle income,Implemented,2003,0.0
+Tax_MX_Colima,Colima carbon tax,Carbon tax,Colima,Latin America & Caribbean,Upper middle income,Implemented,2004,0.0
+Tax_MX_Colima,Colima carbon tax,Carbon tax,Colima,Latin America & Caribbean,Upper middle income,Implemented,2005,0.0
+Tax_MX_Colima,Colima carbon tax,Carbon tax,Colima,Latin America & Caribbean,Upper middle income,Implemented,2006,0.0
+Tax_MX_Colima,Colima carbon tax,Carbon tax,Colima,Latin America & Caribbean,Upper middle income,Implemented,2007,0.0
+Tax_MX_Colima,Colima carbon tax,Carbon tax,Colima,Latin America & Caribbean,Upper middle income,Implemented,2008,0.0
+Tax_MX_Colima,Colima carbon tax,Carbon tax,Colima,Latin America & Caribbean,Upper middle income,Implemented,2009,0.0
+Tax_MX_Colima,Colima carbon tax,Carbon tax,Colima,Latin America & Caribbean,Upper middle income,Implemented,2010,0.0
+Tax_MX_Colima,Colima carbon tax,Carbon tax,Colima,Latin America & Caribbean,Upper middle income,Implemented,2011,0.0
+Tax_MX_Colima,Colima carbon tax,Carbon tax,Colima,Latin America & Caribbean,Upper middle income,Implemented,2012,0.0
+Tax_MX_Colima,Colima carbon tax,Carbon tax,Colima,Latin America & Caribbean,Upper middle income,Implemented,2013,0.0
+Tax_MX_Colima,Colima carbon tax,Carbon tax,Colima,Latin America & Caribbean,Upper middle income,Implemented,2014,0.0
+Tax_MX_Colima,Colima carbon tax,Carbon tax,Colima,Latin America & Caribbean,Upper middle income,Implemented,2015,0.0
+Tax_MX_Colima,Colima carbon tax,Carbon tax,Colima,Latin America & Caribbean,Upper middle income,Implemented,2016,0.0
+Tax_MX_Colima,Colima carbon tax,Carbon tax,Colima,Latin America & Caribbean,Upper middle income,Implemented,2017,0.0
+Tax_MX_Colima,Colima carbon tax,Carbon tax,Colima,Latin America & Caribbean,Upper middle income,Implemented,2018,0.0
+Tax_MX_Colima,Colima carbon tax,Carbon tax,Colima,Latin America & Caribbean,Upper middle income,Implemented,2019,0.0
+Tax_MX_Colima,Colima carbon tax,Carbon tax,Colima,Latin America & Caribbean,Upper middle income,Implemented,2020,0.0
+Tax_MX_Colima,Colima carbon tax,Carbon tax,Colima,Latin America & Caribbean,Upper middle income,Implemented,2021,0.0
+Tax_MX_Colima,Colima carbon tax,Carbon tax,Colima,Latin America & Caribbean,Upper middle income,Implemented,2022,0.0
+Tax_MX_Colima,Colima carbon tax,Carbon tax,Colima,Latin America & Caribbean,Upper middle income,Implemented,2023,0.0
+Tax_MX_Colima,Colima carbon tax,Carbon tax,Colima,Latin America & Caribbean,Upper middle income,Implemented,2024,0.0
+Tax_MX_Colima,Colima carbon tax,Carbon tax,Colima,Latin America & Caribbean,Upper middle income,Implemented,2025,27.79
+Tax_MX_Colima,Colima carbon tax,Carbon tax,Colima,Latin America & Caribbean,Upper middle income,Implemented,2026,32.93
+Tax_CO,Colombia carbon tax,Carbon tax,Colombia,Latin America & Caribbean,Upper middle income,Implemented,2017,5.21
+Tax_CO,Colombia carbon tax,Carbon tax,Colombia,Latin America & Caribbean,Upper middle income,Implemented,2018,5.67
+Tax_CO,Colombia carbon tax,Carbon tax,Colombia,Latin America & Caribbean,Upper middle income,Implemented,2019,5.17
+Tax_CO,Colombia carbon tax,Carbon tax,Colombia,Latin America & Caribbean,Upper middle income,Implemented,2020,4.24
+Tax_CO,Colombia carbon tax,Carbon tax,Colombia,Latin America & Caribbean,Upper middle income,Implemented,2021,4.61
+Tax_CO,Colombia carbon tax,Carbon tax,Colombia,Latin America & Caribbean,Upper middle income,Implemented,2022,5.01
+Tax_CO,Colombia carbon tax,Carbon tax,Colombia,Latin America & Caribbean,Upper middle income,Implemented,2023,5.04
+Tax_CO,Colombia carbon tax,Carbon tax,Colombia,Latin America & Caribbean,Upper middle income,Implemented,2024,6.68
+Tax_CO,Colombia carbon tax,Carbon tax,Colombia,Latin America & Caribbean,Upper middle income,Implemented,2025,6.54
+Tax_CO,Colombia carbon tax,Carbon tax,Colombia,Latin America & Caribbean,Upper middle income,Implemented,2026,7.91
+ETS_US_CO,Colorado GHG crediting trading system,ETS,Colorado,North America,High income,Implemented,2017,0.0
+ETS_US_CO,Colorado GHG crediting trading system,ETS,Colorado,North America,High income,Implemented,2018,0.0
+ETS_US_CO,Colorado GHG crediting trading system,ETS,Colorado,North America,High income,Implemented,2019,0.0
+ETS_US_CO,Colorado GHG crediting trading system,ETS,Colorado,North America,High income,Implemented,2020,0.0
+ETS_US_CO,Colorado GHG crediting trading system,ETS,Colorado,North America,High income,Implemented,2021,0.0
+ETS_US_CO,Colorado GHG crediting trading system,ETS,Colorado,North America,High income,Implemented,2022,0.0
+ETS_US_CO,Colorado GHG crediting trading system,ETS,Colorado,North America,High income,Implemented,2023,0.0
+ETS_US_CO,Colorado GHG crediting trading system,ETS,Colorado,North America,High income,Implemented,2026,24.91
+Tax_DK,Denmark carbon tax,Carbon tax,Denmark,Europe & Central Asia,High income,Implemented,1992,15.55
+Tax_DK,Denmark carbon tax,Carbon tax,Denmark,Europe & Central Asia,High income,Implemented,1993,16.1
+Tax_DK,Denmark carbon tax,Carbon tax,Denmark,Europe & Central Asia,High income,Implemented,1994,15.15
+Tax_DK,Denmark carbon tax,Carbon tax,Denmark,Europe & Central Asia,High income,Implemented,1995,18.25
+Tax_DK,Denmark carbon tax,Carbon tax,Denmark,Europe & Central Asia,High income,Implemented,1996,17.49
+Tax_DK,Denmark carbon tax,Carbon tax,Denmark,Europe & Central Asia,High income,Implemented,1997,15.74
+Tax_DK,Denmark carbon tax,Carbon tax,Denmark,Europe & Central Asia,High income,Implemented,1998,14.19
+Tax_DK,Denmark carbon tax,Carbon tax,Denmark,Europe & Central Asia,High income,Implemented,1999,14.43
+Tax_DK,Denmark carbon tax,Carbon tax,Denmark,Europe & Central Asia,High income,Implemented,2000,12.84
+Tax_DK,Denmark carbon tax,Carbon tax,Denmark,Europe & Central Asia,High income,Implemented,2001,11.8
+Tax_DK,Denmark carbon tax,Carbon tax,Denmark,Europe & Central Asia,High income,Implemented,2002,11.77
+Tax_DK,Denmark carbon tax,Carbon tax,Denmark,Europe & Central Asia,High income,Implemented,2003,14.67
+Tax_DK,Denmark carbon tax,Carbon tax,Denmark,Europe & Central Asia,High income,Implemented,2004,16.55
+Tax_DK,Denmark carbon tax,Carbon tax,Denmark,Europe & Central Asia,High income,Implemented,2005,15.65
+Tax_DK,Denmark carbon tax,Carbon tax,Denmark,Europe & Central Asia,High income,Implemented,2006,14.6
+Tax_DK,Denmark carbon tax,Carbon tax,Denmark,Europe & Central Asia,High income,Implemented,2007,16.23
+Tax_DK,Denmark carbon tax,Carbon tax,Denmark,Europe & Central Asia,High income,Implemented,2008,19.38
+Tax_DK,Denmark carbon tax,Carbon tax,Denmark,Europe & Central Asia,High income,Implemented,2009,16.74
+Tax_DK,Denmark carbon tax,Carbon tax,Denmark,Europe & Central Asia,High income,Implemented,2010,27.94
+Tax_DK,Denmark carbon tax,Carbon tax,Denmark,Europe & Central Asia,High income,Implemented,2011,29.76
+Tax_DK,Denmark carbon tax,Carbon tax,Denmark,Europe & Central Asia,High income,Implemented,2012,28.71
+Tax_DK,Denmark carbon tax,Carbon tax,Denmark,Europe & Central Asia,High income,Implemented,2013,27.84
+Tax_DK,Denmark carbon tax,Carbon tax,Denmark,Europe & Central Asia,High income,Implemented,2014,30.57
+Tax_DK,Denmark carbon tax,Carbon tax,Denmark,Europe & Central Asia,High income,Implemented,2015,24.26
+Tax_DK,Denmark carbon tax,Carbon tax,Denmark,Europe & Central Asia,High income,Implemented,2016,26.09
+Tax_DK,Denmark carbon tax,Carbon tax,Denmark,Europe & Central Asia,High income,Implemented,2017,24.54
+Tax_DK,Denmark carbon tax,Carbon tax,Denmark,Europe & Central Asia,High income,Implemented,2018,28.6
+Tax_DK,Denmark carbon tax,Carbon tax,Denmark,Europe & Central Asia,High income,Implemented,2019,26.15
+Tax_DK,Denmark carbon tax,Carbon tax,Denmark,Europe & Central Asia,High income,Implemented,2020,25.67
+Tax_DK,Denmark carbon tax,Carbon tax,Denmark,Europe & Central Asia,High income,Implemented,2021,27.92
+Tax_DK,Denmark carbon tax,Carbon tax,Denmark,Europe & Central Asia,High income,Implemented,2022,26.37
+Tax_DK,Denmark carbon tax,Carbon tax,Denmark,Europe & Central Asia,High income,Implemented,2023,26.29
+Tax_DK,Denmark carbon tax,Carbon tax,Denmark,Europe & Central Asia,High income,Implemented,2024,28.4
+Tax_DK,Denmark carbon tax,Carbon tax,Denmark,Europe & Central Asia,High income,Implemented,2025,1.08
+Tax_DK,Denmark carbon tax,Carbon tax,Denmark,Europe & Central Asia,High income,Implemented,2026,116.48
+Tax_MX_Durango,Durango carbon tax,Carbon tax,Durango,Latin America & Caribbean,Upper middle income,Implemented,2024,6.04
+Tax_MX_Durango,Durango carbon tax,Carbon tax,Durango,Latin America & Caribbean,Upper middle income,Implemented,2025,4.91
+Tax_MX_Durango,Durango carbon tax,Carbon tax,Durango,Latin America & Caribbean,Upper middle income,Implemented,2026,5.61
+Tax_EE,Estonia carbon tax,Carbon tax,Estonia,Europe & Central Asia,High income,Implemented,2000,0.3
+Tax_EE,Estonia carbon tax,Carbon tax,Estonia,Europe & Central Asia,High income,Implemented,2001,0.43
+Tax_EE,Estonia carbon tax,Carbon tax,Estonia,Europe & Central Asia,High income,Implemented,2002,0.42
+Tax_EE,Estonia carbon tax,Carbon tax,Estonia,Europe & Central Asia,High income,Implemented,2003,0.52
+Tax_EE,Estonia carbon tax,Carbon tax,Estonia,Europe & Central Asia,High income,Implemented,2004,0.57
+Tax_EE,Estonia carbon tax,Carbon tax,Estonia,Europe & Central Asia,High income,Implemented,2005,0.93
+Tax_EE,Estonia carbon tax,Carbon tax,Estonia,Europe & Central Asia,High income,Implemented,2006,1.23
+Tax_EE,Estonia carbon tax,Carbon tax,Estonia,Europe & Central Asia,High income,Implemented,2007,1.35
+Tax_EE,Estonia carbon tax,Carbon tax,Estonia,Europe & Central Asia,High income,Implemented,2008,2.37
+Tax_EE,Estonia carbon tax,Carbon tax,Estonia,Europe & Central Asia,High income,Implemented,2009,2.64
+Tax_EE,Estonia carbon tax,Carbon tax,Estonia,Europe & Central Asia,High income,Implemented,2010,2.68
+Tax_EE,Estonia carbon tax,Carbon tax,Estonia,Europe & Central Asia,High income,Implemented,2011,2.83
+Tax_EE,Estonia carbon tax,Carbon tax,Estonia,Europe & Central Asia,High income,Implemented,2012,2.67
+Tax_EE,Estonia carbon tax,Carbon tax,Estonia,Europe & Central Asia,High income,Implemented,2013,2.56
+Tax_EE,Estonia carbon tax,Carbon tax,Estonia,Europe & Central Asia,High income,Implemented,2014,2.76
+Tax_EE,Estonia carbon tax,Carbon tax,Estonia,Europe & Central Asia,High income,Implemented,2015,2.15
+Tax_EE,Estonia carbon tax,Carbon tax,Estonia,Europe & Central Asia,High income,Implemented,2016,2.29
+Tax_EE,Estonia carbon tax,Carbon tax,Estonia,Europe & Central Asia,High income,Implemented,2017,2.14
+Tax_EE,Estonia carbon tax,Carbon tax,Estonia,Europe & Central Asia,High income,Implemented,2018,2.46
+Tax_EE,Estonia carbon tax,Carbon tax,Estonia,Europe & Central Asia,High income,Implemented,2019,2.25
+Tax_EE,Estonia carbon tax,Carbon tax,Estonia,Europe & Central Asia,High income,Implemented,2020,2.19
+Tax_EE,Estonia carbon tax,Carbon tax,Estonia,Europe & Central Asia,High income,Implemented,2021,2.35
+Tax_EE,Estonia carbon tax,Carbon tax,Estonia,Europe & Central Asia,High income,Implemented,2022,2.21
+Tax_EE,Estonia carbon tax,Carbon tax,Estonia,Europe & Central Asia,High income,Implemented,2023,2.17
+Tax_EE,Estonia carbon tax,Carbon tax,Estonia,Europe & Central Asia,High income,Implemented,2024,2.15
+Tax_EE,Estonia carbon tax,Carbon tax,Estonia,Europe & Central Asia,High income,Implemented,2025,26.97
+Tax_EE,Estonia carbon tax,Carbon tax,Estonia,Europe & Central Asia,High income,Implemented,2026,2.32
+ETS_EU,EU ETS,ETS,EU27+,Europe & Central Asia,High income,Implemented,2005,19.05
+ETS_EU,EU ETS,ETS,EU27+,Europe & Central Asia,High income,Implemented,2006,32.35
+ETS_EU,EU ETS,ETS,EU27+,Europe & Central Asia,High income,Implemented,2007,1.25
+ETS_EU,EU ETS,ETS,EU27+,Europe & Central Asia,High income,Implemented,2008,34.48
+ETS_EU,EU ETS,ETS,EU27+,Europe & Central Asia,High income,Implemented,2009,15.55
+ETS_EU,EU ETS,ETS,EU27+,Europe & Central Asia,High income,Implemented,2010,17.27
+ETS_EU,EU ETS,ETS,EU27+,Europe & Central Asia,High income,Implemented,2011,23.76
+ETS_EU,EU ETS,ETS,EU27+,Europe & Central Asia,High income,Implemented,2012,9.32
+ETS_EU,EU ETS,ETS,EU27+,Europe & Central Asia,High income,Implemented,2013,6.04
+ETS_EU,EU ETS,ETS,EU27+,Europe & Central Asia,High income,Implemented,2014,6.76
+ETS_EU,EU ETS,ETS,EU27+,Europe & Central Asia,High income,Implemented,2015,7.69
+ETS_EU,EU ETS,ETS,EU27+,Europe & Central Asia,High income,Implemented,2016,5.92
+ETS_EU,EU ETS,ETS,EU27+,Europe & Central Asia,High income,Implemented,2017,5.64
+ETS_EU,EU ETS,ETS,EU27+,Europe & Central Asia,High income,Implemented,2018,16.26
+ETS_EU,EU ETS,ETS,EU27+,Europe & Central Asia,High income,Implemented,2019,24.51
+ETS_EU,EU ETS,ETS,EU27+,Europe & Central Asia,High income,Implemented,2020,18.54
+ETS_EU,EU ETS,ETS,EU27+,Europe & Central Asia,High income,Implemented,2021,49.78
+ETS_EU,EU ETS,ETS,EU27+,Europe & Central Asia,High income,Implemented,2022,86.53
+ETS_EU,EU ETS,ETS,EU27+,Europe & Central Asia,High income,Implemented,2023,96.3
+ETS_EU,EU ETS,ETS,EU27+,Europe & Central Asia,High income,Implemented,2024,61.3
+ETS_EU,EU ETS,ETS,EU27+,Europe & Central Asia,High income,Implemented,2025,73.9
+ETS_EU,EU ETS,ETS,EU27+,Europe & Central Asia,High income,Implemented,2026,84.89
+Tax_FI,Finland carbon tax,Carbon tax,Finland,Europe & Central Asia,High income,Implemented,1990,1.75
+Tax_FI,Finland carbon tax,Carbon tax,Finland,Europe & Central Asia,High income,Implemented,1991,1.73
+Tax_FI,Finland carbon tax,Carbon tax,Finland,Europe & Central Asia,High income,Implemented,1992,1.56
+Tax_FI,Finland carbon tax,Carbon tax,Finland,Europe & Central Asia,High income,Implemented,1993,2.39
+Tax_FI,Finland carbon tax,Carbon tax,Finland,Europe & Central Asia,High income,Implemented,1994,4.04
+Tax_FI,Finland carbon tax,Carbon tax,Finland,Europe & Central Asia,High income,Implemented,1995,8.83
+Tax_FI,Finland carbon tax,Carbon tax,Finland,Europe & Central Asia,High income,Implemented,1996,8.26
+Tax_FI,Finland carbon tax,Carbon tax,Finland,Europe & Central Asia,High income,Implemented,1997,14.11
+Tax_FI,Finland carbon tax,Carbon tax,Finland,Europe & Central Asia,High income,Implemented,1998,14.61
+Tax_FI,Finland carbon tax,Carbon tax,Finland,Europe & Central Asia,High income,Implemented,1999,20.06
+Tax_FI,Finland carbon tax,Carbon tax,Finland,Europe & Central Asia,High income,Implemented,2000,16.39
+Tax_FI,Finland carbon tax,Carbon tax,Finland,Europe & Central Asia,High income,Implemented,2001,15.16
+Tax_FI,Finland carbon tax,Carbon tax,Finland,Europe & Central Asia,High income,Implemented,2002,14.97
+Tax_FI,Finland carbon tax,Carbon tax,Finland,Europe & Central Asia,High income,Implemented,2003,19.66
+Tax_FI,Finland carbon tax,Carbon tax,Finland,Europe & Central Asia,High income,Implemented,2004,22.24
+Tax_FI,Finland carbon tax,Carbon tax,Finland,Europe & Central Asia,High income,Implemented,2005,23.39
+Tax_FI,Finland carbon tax,Carbon tax,Finland,Europe & Central Asia,High income,Implemented,2006,21.85
+Tax_FI,Finland carbon tax,Carbon tax,Finland,Europe & Central Asia,High income,Implemented,2007,24.04
+Tax_FI,Finland carbon tax,Carbon tax,Finland,Europe & Central Asia,High income,Implemented,2008,31.02
+Tax_FI,Finland carbon tax,Carbon tax,Finland,Europe & Central Asia,High income,Implemented,2009,27.04
+Tax_FI,Finland carbon tax,Carbon tax,Finland,Europe & Central Asia,High income,Implemented,2010,27.49
+Tax_FI,Finland carbon tax,Carbon tax,Finland,Europe & Central Asia,High income,Implemented,2011,70.7
+Tax_FI,Finland carbon tax,Carbon tax,Finland,Europe & Central Asia,High income,Implemented,2012,80.14
+Tax_FI,Finland carbon tax,Carbon tax,Finland,Europe & Central Asia,High income,Implemented,2013,64.02
+Tax_FI,Finland carbon tax,Carbon tax,Finland,Europe & Central Asia,High income,Implemented,2014,79.98
+Tax_FI,Finland carbon tax,Carbon tax,Finland,Europe & Central Asia,High income,Implemented,2015,62.38
+Tax_FI,Finland carbon tax,Carbon tax,Finland,Europe & Central Asia,High income,Implemented,2016,66.31
+Tax_FI,Finland carbon tax,Carbon tax,Finland,Europe & Central Asia,High income,Implemented,2017,62.01
+Tax_FI,Finland carbon tax,Carbon tax,Finland,Europe & Central Asia,High income,Implemented,2018,89.94
+Tax_FI,Finland carbon tax,Carbon tax,Finland,Europe & Central Asia,High income,Implemented,2019,86.52
+Tax_FI,Finland carbon tax,Carbon tax,Finland,Europe & Central Asia,High income,Implemented,2020,84.21
+Tax_FI,Finland carbon tax,Carbon tax,Finland,Europe & Central Asia,High income,Implemented,2021,90.44
+Tax_FI,Finland carbon tax,Carbon tax,Finland,Europe & Central Asia,High income,Implemented,2022,85.1
+Tax_FI,Finland carbon tax,Carbon tax,Finland,Europe & Central Asia,High income,Implemented,2023,83.74
+Tax_FI,Finland carbon tax,Carbon tax,Finland,Europe & Central Asia,High income,Implemented,2024,99.98
+Tax_FI,Finland carbon tax,Carbon tax,Finland,Europe & Central Asia,High income,Implemented,2025,66.89
+Tax_FI,Finland carbon tax,Carbon tax,Finland,Europe & Central Asia,High income,Implemented,2026,59.53
+Tax_FR,France carbon tax,Carbon tax,France,Europe & Central Asia,High income,Implemented,2014,9.65
+Tax_FR,France carbon tax,Carbon tax,France,Europe & Central Asia,High income,Implemented,2015,15.59
+Tax_FR,France carbon tax,Carbon tax,France,Europe & Central Asia,High income,Implemented,2016,25.15
+Tax_FR,France carbon tax,Carbon tax,France,Europe & Central Asia,High income,Implemented,2017,32.61
+Tax_FR,France carbon tax,Carbon tax,France,Europe & Central Asia,High income,Implemented,2018,54.95
+Tax_FR,France carbon tax,Carbon tax,France,Europe & Central Asia,High income,Implemented,2019,50.11
+Tax_FR,France carbon tax,Carbon tax,France,Europe & Central Asia,High income,Implemented,2020,48.77
+Tax_FR,France carbon tax,Carbon tax,France,Europe & Central Asia,High income,Implemented,2021,52.39
+Tax_FR,France carbon tax,Carbon tax,France,Europe & Central Asia,High income,Implemented,2022,49.29
+Tax_FR,France carbon tax,Carbon tax,France,Europe & Central Asia,High income,Implemented,2023,48.5
+Tax_FR,France carbon tax,Carbon tax,France,Europe & Central Asia,High income,Implemented,2024,47.94
+Tax_FR,France carbon tax,Carbon tax,France,Europe & Central Asia,High income,Implemented,2025,48.11
+Tax_FR,France carbon tax,Carbon tax,France,Europe & Central Asia,High income,Implemented,2026,51.76
+ETS_CN_Fujian,Fujian pilot ETS,ETS,Fujian,East Asia & Pacific,Upper middle income,Implemented,2016,0.0
+ETS_CN_Fujian,Fujian pilot ETS,ETS,Fujian,East Asia & Pacific,Upper middle income,Implemented,2017,5.18
+ETS_CN_Fujian,Fujian pilot ETS,ETS,Fujian,East Asia & Pacific,Upper middle income,Implemented,2018,3.19
+ETS_CN_Fujian,Fujian pilot ETS,ETS,Fujian,East Asia & Pacific,Upper middle income,Implemented,2019,1.52
+ETS_CN_Fujian,Fujian pilot ETS,ETS,Fujian,East Asia & Pacific,Upper middle income,Implemented,2020,1.28
+ETS_CN_Fujian,Fujian pilot ETS,ETS,Fujian,East Asia & Pacific,Upper middle income,Implemented,2021,1.25
+ETS_CN_Fujian,Fujian pilot ETS,ETS,Fujian,East Asia & Pacific,Upper middle income,Implemented,2022,1.83
+ETS_CN_Fujian,Fujian pilot ETS,ETS,Fujian,East Asia & Pacific,Upper middle income,Implemented,2023,4.66
+ETS_CN_Fujian,Fujian pilot ETS,ETS,Fujian,East Asia & Pacific,Upper middle income,Implemented,2024,3.75
+ETS_CN_Fujian,Fujian pilot ETS,ETS,Fujian,East Asia & Pacific,Upper middle income,Implemented,2025,4.73
+ETS_CN_Fujian,Fujian pilot ETS,ETS,Fujian,East Asia & Pacific,Upper middle income,Implemented,2026,3.01
+ETS_DE,Germany ETS,ETS,Germany,Europe & Central Asia,High income,Implemented,2021,29.37
+ETS_DE,Germany ETS,ETS,Germany,Europe & Central Asia,High income,Implemented,2022,33.16
+ETS_DE,Germany ETS,ETS,Germany,Europe & Central Asia,High income,Implemented,2023,32.62
+ETS_DE,Germany ETS,ETS,Germany,Europe & Central Asia,High income,Implemented,2024,48.37
+ETS_DE,Germany ETS,ETS,Germany,Europe & Central Asia,High income,Implemented,2025,48.55
+ETS_DE,Germany ETS,ETS,Germany,Europe & Central Asia,High income,Implemented,2026,63.83
+Tax_MX_Guanajuato,Guanajuato carbon tax,Carbon tax,Guanajuato,Latin America & Caribbean,Upper middle income,Implemented,2024,2.72
+Tax_MX_Guanajuato,Guanajuato carbon tax,Carbon tax,Guanajuato,Latin America & Caribbean,Upper middle income,Implemented,2025,4.91
+Tax_MX_Guanajuato,Guanajuato carbon tax,Carbon tax,Guanajuato,Latin America & Caribbean,Upper middle income,Implemented,2026,5.61
+ETS_CN_Guangdong,Guangdong pilot ETS,ETS,Guangdong (except Shenzhen),East Asia & Pacific,Upper middle income,Implemented,2013,0.0
+ETS_CN_Guangdong,Guangdong pilot ETS,ETS,Guangdong (except Shenzhen),East Asia & Pacific,Upper middle income,Implemented,2014,10.08
+ETS_CN_Guangdong,Guangdong pilot ETS,ETS,Guangdong (except Shenzhen),East Asia & Pacific,Upper middle income,Implemented,2015,5.49
+ETS_CN_Guangdong,Guangdong pilot ETS,ETS,Guangdong (except Shenzhen),East Asia & Pacific,Upper middle income,Implemented,2016,2.21
+ETS_CN_Guangdong,Guangdong pilot ETS,ETS,Guangdong (except Shenzhen),East Asia & Pacific,Upper middle income,Implemented,2017,1.88
+ETS_CN_Guangdong,Guangdong pilot ETS,ETS,Guangdong (except Shenzhen),East Asia & Pacific,Upper middle income,Implemented,2018,2.32
+ETS_CN_Guangdong,Guangdong pilot ETS,ETS,Guangdong (except Shenzhen),East Asia & Pacific,Upper middle income,Implemented,2019,2.92
+ETS_CN_Guangdong,Guangdong pilot ETS,ETS,Guangdong (except Shenzhen),East Asia & Pacific,Upper middle income,Implemented,2020,4.13
+ETS_CN_Guangdong,Guangdong pilot ETS,ETS,Guangdong (except Shenzhen),East Asia & Pacific,Upper middle income,Implemented,2021,5.72
+ETS_CN_Guangdong,Guangdong pilot ETS,ETS,Guangdong (except Shenzhen),East Asia & Pacific,Upper middle income,Implemented,2022,12.51
+ETS_CN_Guangdong,Guangdong pilot ETS,ETS,Guangdong (except Shenzhen),East Asia & Pacific,Upper middle income,Implemented,2023,12.34
+ETS_CN_Guangdong,Guangdong pilot ETS,ETS,Guangdong (except Shenzhen),East Asia & Pacific,Upper middle income,Implemented,2024,8.94
+ETS_CN_Guangdong,Guangdong pilot ETS,ETS,Guangdong (except Shenzhen),East Asia & Pacific,Upper middle income,Implemented,2025,5.41
+ETS_CN_Guangdong,Guangdong pilot ETS,ETS,Guangdong (except Shenzhen),East Asia & Pacific,Upper middle income,Implemented,2026,5.73
+ETS_CN_Hubei,Hubei pilot ETS,ETS,Hubei,East Asia & Pacific,Upper middle income,Implemented,2014,3.41
+ETS_CN_Hubei,Hubei pilot ETS,ETS,Hubei,East Asia & Pacific,Upper middle income,Implemented,2015,4.18
+ETS_CN_Hubei,Hubei pilot ETS,ETS,Hubei,East Asia & Pacific,Upper middle income,Implemented,2016,3.5
+ETS_CN_Hubei,Hubei pilot ETS,ETS,Hubei,East Asia & Pacific,Upper middle income,Implemented,2017,1.78
+ETS_CN_Hubei,Hubei pilot ETS,ETS,Hubei,East Asia & Pacific,Upper middle income,Implemented,2018,2.33
+ETS_CN_Hubei,Hubei pilot ETS,ETS,Hubei,East Asia & Pacific,Upper middle income,Implemented,2019,4.13
+ETS_CN_Hubei,Hubei pilot ETS,ETS,Hubei,East Asia & Pacific,Upper middle income,Implemented,2020,3.57
+ETS_CN_Hubei,Hubei pilot ETS,ETS,Hubei,East Asia & Pacific,Upper middle income,Implemented,2021,4.41
+ETS_CN_Hubei,Hubei pilot ETS,ETS,Hubei,East Asia & Pacific,Upper middle income,Implemented,2022,7.24
+ETS_CN_Hubei,Hubei pilot ETS,ETS,Hubei,East Asia & Pacific,Upper middle income,Implemented,2023,6.96
+ETS_CN_Hubei,Hubei pilot ETS,ETS,Hubei,East Asia & Pacific,Upper middle income,Implemented,2024,5.62
+ETS_CN_Hubei,Hubei pilot ETS,ETS,Hubei,East Asia & Pacific,Upper middle income,Implemented,2025,5.27
+ETS_CN_Hubei,Hubei pilot ETS,ETS,Hubei,East Asia & Pacific,Upper middle income,Implemented,2026,5.71
+Tax_HU,Hungary carbon tax,Carbon tax,Hungary,Europe & Central Asia,High income,Implemented,2024,38.7
+Tax_HU,Hungary carbon tax,Carbon tax,Hungary,Europe & Central Asia,High income,Implemented,2025,38.84
+Tax_HU,Hungary carbon tax,Carbon tax,Hungary,Europe & Central Asia,High income,Implemented,2026,41.78
+Tax_IS,Iceland carbon tax,Carbon tax,Iceland,Europe & Central Asia,High income,Implemented,2010,8.84
+Tax_IS,Iceland carbon tax,Carbon tax,Iceland,Europe & Central Asia,High income,Implemented,2011,9.9
+Tax_IS,Iceland carbon tax,Carbon tax,Iceland,Europe & Central Asia,High income,Implemented,2012,8.97
+Tax_IS,Iceland carbon tax,Carbon tax,Iceland,Europe & Central Asia,High income,Implemented,2013,17.62
+Tax_IS,Iceland carbon tax,Carbon tax,Iceland,Europe & Central Asia,High income,Implemented,2014,20.28
+Tax_IS,Iceland carbon tax,Carbon tax,Iceland,Europe & Central Asia,High income,Implemented,2015,16.21
+Tax_IS,Iceland carbon tax,Carbon tax,Iceland,Europe & Central Asia,High income,Implemented,2016,18.61
+Tax_IS,Iceland carbon tax,Carbon tax,Iceland,Europe & Central Asia,High income,Implemented,2017,21.19
+Tax_IS,Iceland carbon tax,Carbon tax,Iceland,Europe & Central Asia,High income,Implemented,2018,36.68
+Tax_IS,Iceland carbon tax,Carbon tax,Iceland,Europe & Central Asia,High income,Implemented,2019,35.47
+Tax_IS,Iceland carbon tax,Carbon tax,Iceland,Europe & Central Asia,High income,Implemented,2020,30.74
+Tax_IS,Iceland carbon tax,Carbon tax,Iceland,Europe & Central Asia,High income,Implemented,2021,35.36
+Tax_IS,Iceland carbon tax,Carbon tax,Iceland,Europe & Central Asia,High income,Implemented,2022,35.61
+Tax_IS,Iceland carbon tax,Carbon tax,Iceland,Europe & Central Asia,High income,Implemented,2023,36.11
+Tax_IS,Iceland carbon tax,Carbon tax,Iceland,Europe & Central Asia,High income,Implemented,2024,36.51
+Tax_IS,Iceland carbon tax,Carbon tax,Iceland,Europe & Central Asia,High income,Implemented,2025,60.06
+Tax_IS,Iceland carbon tax,Carbon tax,Iceland,Europe & Central Asia,High income,Implemented,2026,82.21
+ETS_ID,Indonesia ETS,ETS,Indonesia,East Asia & Pacific,Upper middle income,Implemented,2024,0.61
+ETS_ID,Indonesia ETS,ETS,Indonesia,East Asia & Pacific,Upper middle income,Implemented,2025,0.72
+ETS_ID,Indonesia ETS,ETS,Indonesia,East Asia & Pacific,Upper middle income,Implemented,2026,0.72
+Tax_IE,Ireland carbon tax,Carbon tax,Ireland,Europe & Central Asia,High income,Implemented,2010,20.18
+Tax_IE,Ireland carbon tax,Carbon tax,Ireland,Europe & Central Asia,High income,Implemented,2011,21.19
+Tax_IE,Ireland carbon tax,Carbon tax,Ireland,Europe & Central Asia,High income,Implemented,2012,26.7
+Tax_IE,Ireland carbon tax,Carbon tax,Ireland,Europe & Central Asia,High income,Implemented,2013,25.6
+Tax_IE,Ireland carbon tax,Carbon tax,Ireland,Europe & Central Asia,High income,Implemented,2014,27.56
+Tax_IE,Ireland carbon tax,Carbon tax,Ireland,Europe & Central Asia,High income,Implemented,2015,21.5
+Tax_IE,Ireland carbon tax,Carbon tax,Ireland,Europe & Central Asia,High income,Implemented,2016,22.85
+Tax_IE,Ireland carbon tax,Carbon tax,Ireland,Europe & Central Asia,High income,Implemented,2017,21.37
+Tax_IE,Ireland carbon tax,Carbon tax,Ireland,Europe & Central Asia,High income,Implemented,2018,24.63
+Tax_IE,Ireland carbon tax,Carbon tax,Ireland,Europe & Central Asia,High income,Implemented,2019,22.46
+Tax_IE,Ireland carbon tax,Carbon tax,Ireland,Europe & Central Asia,High income,Implemented,2020,28.52
+Tax_IE,Ireland carbon tax,Carbon tax,Ireland,Europe & Central Asia,High income,Implemented,2021,39.68
+Tax_IE,Ireland carbon tax,Carbon tax,Ireland,Europe & Central Asia,High income,Implemented,2022,45.69
+Tax_IE,Ireland carbon tax,Carbon tax,Ireland,Europe & Central Asia,High income,Implemented,2023,53.19
+Tax_IE,Ireland carbon tax,Carbon tax,Ireland,Europe & Central Asia,High income,Implemented,2024,52.57
+Tax_IE,Ireland carbon tax,Carbon tax,Ireland,Europe & Central Asia,High income,Implemented,2025,68.5
+Tax_IE,Ireland carbon tax,Carbon tax,Ireland,Europe & Central Asia,High income,Implemented,2026,73.69
+Tax_IL,Israel carbon tax,Carbon tax,Israel,Middle East & North Africa,High income,Implemented,2001,0.0
+Tax_IL,Israel carbon tax,Carbon tax,Israel,Middle East & North Africa,High income,Implemented,2002,0.0
+Tax_IL,Israel carbon tax,Carbon tax,Israel,Middle East & North Africa,High income,Implemented,2003,0.0
+Tax_IL,Israel carbon tax,Carbon tax,Israel,Middle East & North Africa,High income,Implemented,2004,0.0
+Tax_IL,Israel carbon tax,Carbon tax,Israel,Middle East & North Africa,High income,Implemented,2005,0.0
+Tax_IL,Israel carbon tax,Carbon tax,Israel,Middle East & North Africa,High income,Implemented,2006,0.0
+Tax_IL,Israel carbon tax,Carbon tax,Israel,Middle East & North Africa,High income,Implemented,2007,0.0
+Tax_IL,Israel carbon tax,Carbon tax,Israel,Middle East & North Africa,High income,Implemented,2008,0.0
+Tax_IL,Israel carbon tax,Carbon tax,Israel,Middle East & North Africa,High income,Implemented,2009,0.0
+Tax_IL,Israel carbon tax,Carbon tax,Israel,Middle East & North Africa,High income,Implemented,2010,0.0
+Tax_IL,Israel carbon tax,Carbon tax,Israel,Middle East & North Africa,High income,Implemented,2011,0.0
+Tax_IL,Israel carbon tax,Carbon tax,Israel,Middle East & North Africa,High income,Implemented,2012,0.0
+Tax_IL,Israel carbon tax,Carbon tax,Israel,Middle East & North Africa,High income,Implemented,2013,0.0
+Tax_IL,Israel carbon tax,Carbon tax,Israel,Middle East & North Africa,High income,Implemented,2014,0.0
+Tax_IL,Israel carbon tax,Carbon tax,Israel,Middle East & North Africa,High income,Implemented,2015,0.0
+Tax_IL,Israel carbon tax,Carbon tax,Israel,Middle East & North Africa,High income,Implemented,2016,0.0
+Tax_IL,Israel carbon tax,Carbon tax,Israel,Middle East & North Africa,High income,Implemented,2017,0.0
+Tax_IL,Israel carbon tax,Carbon tax,Israel,Middle East & North Africa,High income,Implemented,2018,0.0
+Tax_IL,Israel carbon tax,Carbon tax,Israel,Middle East & North Africa,High income,Implemented,2019,0.0
+Tax_IL,Israel carbon tax,Carbon tax,Israel,Middle East & North Africa,High income,Implemented,2020,0.0
+Tax_IL,Israel carbon tax,Carbon tax,Israel,Middle East & North Africa,High income,Implemented,2021,0.0
+Tax_IL,Israel carbon tax,Carbon tax,Israel,Middle East & North Africa,High income,Implemented,2022,0.0
+Tax_IL,Israel carbon tax,Carbon tax,Israel,Middle East & North Africa,High income,Implemented,2023,0.0
+Tax_IL,Israel carbon tax,Carbon tax,Israel,Middle East & North Africa,High income,Implemented,2024,0.0
+Tax_IL,Israel carbon tax,Carbon tax,Israel,Middle East & North Africa,High income,Implemented,2025,1.51
+Tax_IL,Israel carbon tax,Carbon tax,Israel,Middle East & North Africa,High income,Implemented,2026,1.51
+Tax_JP,Japan carbon tax,Carbon tax,Japan,East Asia & Pacific,High income,Implemented,2012,1.08
+Tax_JP,Japan carbon tax,Carbon tax,Japan,East Asia & Pacific,High income,Implemented,2013,0.94
+Tax_JP,Japan carbon tax,Carbon tax,Japan,East Asia & Pacific,High income,Implemented,2014,1.71
+Tax_JP,Japan carbon tax,Carbon tax,Japan,East Asia & Pacific,High income,Implemented,2015,1.47
+Tax_JP,Japan carbon tax,Carbon tax,Japan,East Asia & Pacific,High income,Implemented,2016,2.39
+Tax_JP,Japan carbon tax,Carbon tax,Japan,East Asia & Pacific,High income,Implemented,2017,2.4
+Tax_JP,Japan carbon tax,Carbon tax,Japan,East Asia & Pacific,High income,Implemented,2018,2.53
+Tax_JP,Japan carbon tax,Carbon tax,Japan,East Asia & Pacific,High income,Implemented,2019,2.42
+Tax_JP,Japan carbon tax,Carbon tax,Japan,East Asia & Pacific,High income,Implemented,2020,2.5
+Tax_JP,Japan carbon tax,Carbon tax,Japan,East Asia & Pacific,High income,Implemented,2021,2.42
+Tax_JP,Japan carbon tax,Carbon tax,Japan,East Asia & Pacific,High income,Implemented,2022,2.2
+Tax_JP,Japan carbon tax,Carbon tax,Japan,East Asia & Pacific,High income,Implemented,2023,2.01
+Tax_JP,Japan carbon tax,Carbon tax,Japan,East Asia & Pacific,High income,Implemented,2024,1.91
+Tax_JP,Japan carbon tax,Carbon tax,Japan,East Asia & Pacific,High income,Implemented,2025,1.93
+Tax_JP,Japan carbon tax,Carbon tax,Japan,East Asia & Pacific,High income,Implemented,2026,1.82
+ETS_JP,Japan ETS,ETS,Japan,East Asia & Pacific,High income,Implemented,1990,0.0
+ETS_JP,Japan ETS,ETS,Japan,East Asia & Pacific,High income,Implemented,1991,0.0
+ETS_JP,Japan ETS,ETS,Japan,East Asia & Pacific,High income,Implemented,1992,0.0
+ETS_JP,Japan ETS,ETS,Japan,East Asia & Pacific,High income,Implemented,1993,0.0
+ETS_JP,Japan ETS,ETS,Japan,East Asia & Pacific,High income,Implemented,1994,0.0
+ETS_JP,Japan ETS,ETS,Japan,East Asia & Pacific,High income,Implemented,1995,0.0
+ETS_JP,Japan ETS,ETS,Japan,East Asia & Pacific,High income,Implemented,1996,0.0
+ETS_JP,Japan ETS,ETS,Japan,East Asia & Pacific,High income,Implemented,1997,0.0
+ETS_JP,Japan ETS,ETS,Japan,East Asia & Pacific,High income,Implemented,1998,0.0
+ETS_JP,Japan ETS,ETS,Japan,East Asia & Pacific,High income,Implemented,1999,0.0
+ETS_JP,Japan ETS,ETS,Japan,East Asia & Pacific,High income,Implemented,2000,0.0
+ETS_JP,Japan ETS,ETS,Japan,East Asia & Pacific,High income,Implemented,2001,0.0
+ETS_JP,Japan ETS,ETS,Japan,East Asia & Pacific,High income,Implemented,2002,0.0
+ETS_JP,Japan ETS,ETS,Japan,East Asia & Pacific,High income,Implemented,2003,0.0
+ETS_JP,Japan ETS,ETS,Japan,East Asia & Pacific,High income,Implemented,2004,0.0
+ETS_JP,Japan ETS,ETS,Japan,East Asia & Pacific,High income,Implemented,2005,0.0
+ETS_JP,Japan ETS,ETS,Japan,East Asia & Pacific,High income,Implemented,2006,0.0
+ETS_JP,Japan ETS,ETS,Japan,East Asia & Pacific,High income,Implemented,2007,0.0
+ETS_JP,Japan ETS,ETS,Japan,East Asia & Pacific,High income,Implemented,2008,0.0
+ETS_JP,Japan ETS,ETS,Japan,East Asia & Pacific,High income,Implemented,2009,0.0
+ETS_JP,Japan ETS,ETS,Japan,East Asia & Pacific,High income,Implemented,2010,0.0
+ETS_JP,Japan ETS,ETS,Japan,East Asia & Pacific,High income,Implemented,2011,0.0
+ETS_JP,Japan ETS,ETS,Japan,East Asia & Pacific,High income,Implemented,2012,0.0
+ETS_JP,Japan ETS,ETS,Japan,East Asia & Pacific,High income,Implemented,2013,0.0
+ETS_JP,Japan ETS,ETS,Japan,East Asia & Pacific,High income,Implemented,2014,0.0
+ETS_JP,Japan ETS,ETS,Japan,East Asia & Pacific,High income,Implemented,2015,0.0
+ETS_JP,Japan ETS,ETS,Japan,East Asia & Pacific,High income,Implemented,2016,0.0
+ETS_JP,Japan ETS,ETS,Japan,East Asia & Pacific,High income,Implemented,2017,0.0
+ETS_JP,Japan ETS,ETS,Japan,East Asia & Pacific,High income,Implemented,2018,0.0
+ETS_JP,Japan ETS,ETS,Japan,East Asia & Pacific,High income,Implemented,2019,0.0
+ETS_JP,Japan ETS,ETS,Japan,East Asia & Pacific,High income,Implemented,2020,0.0
+ETS_JP,Japan ETS,ETS,Japan,East Asia & Pacific,High income,Implemented,2021,0.0
+ETS_JP,Japan ETS,ETS,Japan,East Asia & Pacific,High income,Implemented,2022,0.0
+ETS_JP,Japan ETS,ETS,Japan,East Asia & Pacific,High income,Implemented,2023,0.0
+ETS_JP,Japan ETS,ETS,Japan,East Asia & Pacific,High income,Implemented,2024,0.0
+ETS_JP,Japan ETS,ETS,Japan,East Asia & Pacific,High income,Implemented,2025,0.0
+ETS_JP,Japan ETS,ETS,Japan,East Asia & Pacific,High income,Implemented,2026,0.0
+ETS_KZ,Kazakhstan ETS,ETS,Kazakhstan,Europe & Central Asia,Upper middle income,Implemented,2016,0.0
+ETS_KZ,Kazakhstan ETS,ETS,Kazakhstan,Europe & Central Asia,Upper middle income,Implemented,2020,1.11
+ETS_KZ,Kazakhstan ETS,ETS,Kazakhstan,Europe & Central Asia,Upper middle income,Implemented,2021,1.18
+ETS_KZ,Kazakhstan ETS,ETS,Kazakhstan,Europe & Central Asia,Upper middle income,Implemented,2022,1.08
+ETS_KZ,Kazakhstan ETS,ETS,Kazakhstan,Europe & Central Asia,Upper middle income,Implemented,2023,1.12
+ETS_KZ,Kazakhstan ETS,ETS,Kazakhstan,Europe & Central Asia,Upper middle income,Implemented,2024,1.06
+ETS_KZ,Kazakhstan ETS,ETS,Kazakhstan,Europe & Central Asia,Upper middle income,Implemented,2025,0.93
+ETS_KZ,Kazakhstan ETS,ETS,Kazakhstan,Europe & Central Asia,Upper middle income,Implemented,2026,0.95
+ETS_KR,Korea ETS,ETS,Korea Rep.,East Asia & Pacific,High income,Implemented,2015,9.1
+ETS_KR,Korea ETS,ETS,Korea Rep.,East Asia & Pacific,High income,Implemented,2016,6.89
+ETS_KR,Korea ETS,ETS,Korea Rep.,East Asia & Pacific,High income,Implemented,2017,18.23
+ETS_KR,Korea ETS,ETS,Korea Rep.,East Asia & Pacific,High income,Implemented,2018,20.63
+ETS_KR,Korea ETS,ETS,Korea Rep.,East Asia & Pacific,High income,Implemented,2019,23.46
+ETS_KR,Korea ETS,ETS,Korea Rep.,East Asia & Pacific,High income,Implemented,2020,32.79
+ETS_KR,Korea ETS,ETS,Korea Rep.,East Asia & Pacific,High income,Implemented,2021,15.89
+ETS_KR,Korea ETS,ETS,Korea Rep.,East Asia & Pacific,High income,Implemented,2022,18.75
+ETS_KR,Korea ETS,ETS,Korea Rep.,East Asia & Pacific,High income,Implemented,2023,11.24
+ETS_KR,Korea ETS,ETS,Korea Rep.,East Asia & Pacific,High income,Implemented,2024,6.3
+ETS_KR,Korea ETS,ETS,Korea Rep.,East Asia & Pacific,High income,Implemented,2025,6.45
+ETS_KR,Korea ETS,ETS,Korea Rep.,East Asia & Pacific,High income,Implemented,2026,10.19
+Tax_LT,Latvia carbon Tax,Carbon tax,Latvia,Europe & Central Asia,High income,Implemented,2004,0.16
+Tax_LT,Latvia carbon Tax,Carbon tax,Latvia,Europe & Central Asia,High income,Implemented,2005,0.16
+Tax_LT,Latvia carbon Tax,Carbon tax,Latvia,Europe & Central Asia,High income,Implemented,2006,0.06
+Tax_LT,Latvia carbon Tax,Carbon tax,Latvia,Europe & Central Asia,High income,Implemented,2007,0.05
+Tax_LT,Latvia carbon Tax,Carbon tax,Latvia,Europe & Central Asia,High income,Implemented,2008,0.04
+Tax_LT,Latvia carbon Tax,Carbon tax,Latvia,Europe & Central Asia,High income,Implemented,2009,0.16
+Tax_LT,Latvia carbon Tax,Carbon tax,Latvia,Europe & Central Asia,High income,Implemented,2010,0.21
+Tax_LT,Latvia carbon Tax,Carbon tax,Latvia,Europe & Central Asia,High income,Implemented,2011,0.32
+Tax_LT,Latvia carbon Tax,Carbon tax,Latvia,Europe & Central Asia,High income,Implemented,2012,0.61
+Tax_LT,Latvia carbon Tax,Carbon tax,Latvia,Europe & Central Asia,High income,Implemented,2013,1.09
+Tax_LT,Latvia carbon Tax,Carbon tax,Latvia,Europe & Central Asia,High income,Implemented,2014,3.93
+Tax_LT,Latvia carbon Tax,Carbon tax,Latvia,Europe & Central Asia,High income,Implemented,2015,3.76
+Tax_LT,Latvia carbon Tax,Carbon tax,Latvia,Europe & Central Asia,High income,Implemented,2016,4.0
+Tax_LT,Latvia carbon Tax,Carbon tax,Latvia,Europe & Central Asia,High income,Implemented,2017,4.81
+Tax_LT,Latvia carbon Tax,Carbon tax,Latvia,Europe & Central Asia,High income,Implemented,2018,5.54
+Tax_LT,Latvia carbon Tax,Carbon tax,Latvia,Europe & Central Asia,High income,Implemented,2019,5.06
+Tax_LT,Latvia carbon Tax,Carbon tax,Latvia,Europe & Central Asia,High income,Implemented,2020,9.84
+Tax_LT,Latvia carbon Tax,Carbon tax,Latvia,Europe & Central Asia,High income,Implemented,2021,14.1
+Tax_LT,Latvia carbon Tax,Carbon tax,Latvia,Europe & Central Asia,High income,Implemented,2022,16.58
+Tax_LT,Latvia carbon Tax,Carbon tax,Latvia,Europe & Central Asia,High income,Implemented,2023,16.31
+Tax_LT,Latvia carbon Tax,Carbon tax,Latvia,Europe & Central Asia,High income,Implemented,2024,16.12
+Tax_LT,Latvia carbon Tax,Carbon tax,Latvia,Europe & Central Asia,High income,Implemented,2025,16.18
+Tax_LT,Latvia carbon Tax,Carbon tax,Latvia,Europe & Central Asia,High income,Implemented,2026,17.41
+Tax_LI,Liechtenstein carbon tax,Carbon tax,Liechtenstein,Europe & Central Asia,High income,Implemented,2008,11.92
+Tax_LI,Liechtenstein carbon tax,Carbon tax,Liechtenstein,Europe & Central Asia,High income,Implemented,2009,21.04
+Tax_LI,Liechtenstein carbon tax,Carbon tax,Liechtenstein,Europe & Central Asia,High income,Implemented,2010,34.21
+Tax_LI,Liechtenstein carbon tax,Carbon tax,Liechtenstein,Europe & Central Asia,High income,Implemented,2011,39.02
+Tax_LI,Liechtenstein carbon tax,Carbon tax,Liechtenstein,Europe & Central Asia,High income,Implemented,2012,39.86
+Tax_LI,Liechtenstein carbon tax,Carbon tax,Liechtenstein,Europe & Central Asia,High income,Implemented,2013,37.81
+Tax_LI,Liechtenstein carbon tax,Carbon tax,Liechtenstein,Europe & Central Asia,High income,Implemented,2014,40.77
+Tax_LI,Liechtenstein carbon tax,Carbon tax,Liechtenstein,Europe & Central Asia,High income,Implemented,2015,37.17
+Tax_LI,Liechtenstein carbon tax,Carbon tax,Liechtenstein,Europe & Central Asia,High income,Implemented,2016,87.58
+Tax_LI,Liechtenstein carbon tax,Carbon tax,Liechtenstein,Europe & Central Asia,High income,Implemented,2017,83.92
+Tax_LI,Liechtenstein carbon tax,Carbon tax,Liechtenstein,Europe & Central Asia,High income,Implemented,2018,100.33
+Tax_LI,Liechtenstein carbon tax,Carbon tax,Liechtenstein,Europe & Central Asia,High income,Implemented,2019,96.46
+Tax_LI,Liechtenstein carbon tax,Carbon tax,Liechtenstein,Europe & Central Asia,High income,Implemented,2020,99.44
+Tax_LI,Liechtenstein carbon tax,Carbon tax,Liechtenstein,Europe & Central Asia,High income,Implemented,2021,101.47
+Tax_LI,Liechtenstein carbon tax,Carbon tax,Liechtenstein,Europe & Central Asia,High income,Implemented,2022,129.86
+Tax_LI,Liechtenstein carbon tax,Carbon tax,Liechtenstein,Europe & Central Asia,High income,Implemented,2023,130.81
+Tax_LI,Liechtenstein carbon tax,Carbon tax,Liechtenstein,Europe & Central Asia,High income,Implemented,2024,132.12
+Tax_LI,Liechtenstein carbon tax,Carbon tax,Liechtenstein,Europe & Central Asia,High income,Implemented,2025,136.04
+Tax_LI,Liechtenstein carbon tax,Carbon tax,Liechtenstein,Europe & Central Asia,High income,Implemented,2026,149.81
+Tax_LU,Luxembourg carbon tax,Carbon tax,Luxembourg,Europe & Central Asia,High income,Implemented,2021,40.12
+Tax_LU,Luxembourg carbon tax,Carbon tax,Luxembourg,Europe & Central Asia,High income,Implemented,2022,43.35
+Tax_LU,Luxembourg carbon tax,Carbon tax,Luxembourg,Europe & Central Asia,High income,Implemented,2023,45.0
+Tax_LU,Luxembourg carbon tax,Carbon tax,Luxembourg,Europe & Central Asia,High income,Implemented,2024,49.91
+Tax_LU,Luxembourg carbon tax,Carbon tax,Luxembourg,Europe & Central Asia,High income,Implemented,2025,58.55
+Tax_LU,Luxembourg carbon tax,Carbon tax,Luxembourg,Europe & Central Asia,High income,Implemented,2026,46.42
+ETS_US_MA,Massachusetts ETS,ETS,Massachusetts,North America,High income,Implemented,2020,8.2
+ETS_US_MA,Massachusetts ETS,ETS,Massachusetts,North America,High income,Implemented,2021,6.5
+ETS_US_MA,Massachusetts ETS,ETS,Massachusetts,North America,High income,Implemented,2022,0.5
+ETS_US_MA,Massachusetts ETS,ETS,Massachusetts,North America,High income,Implemented,2023,12.05
+ETS_US_MA,Massachusetts ETS,ETS,Massachusetts,North America,High income,Implemented,2024,2.25
+ETS_US_MA,Massachusetts ETS,ETS,Massachusetts,North America,High income,Implemented,2025,9.3
+ETS_US_MA,Massachusetts ETS,ETS,Massachusetts,North America,High income,Implemented,2026,30.0
+Tax_MR,Mauritania carbon tax,Carbon tax,Mauritania,Sub-Saharan Africa,Lower middle income,Implemented,1990,0.0
+Tax_MR,Mauritania carbon tax,Carbon tax,Mauritania,Sub-Saharan Africa,Lower middle income,Implemented,1991,0.0
+Tax_MR,Mauritania carbon tax,Carbon tax,Mauritania,Sub-Saharan Africa,Lower middle income,Implemented,1992,0.0
+Tax_MR,Mauritania carbon tax,Carbon tax,Mauritania,Sub-Saharan Africa,Lower middle income,Implemented,1993,0.0
+Tax_MR,Mauritania carbon tax,Carbon tax,Mauritania,Sub-Saharan Africa,Lower middle income,Implemented,1994,0.0
+Tax_MR,Mauritania carbon tax,Carbon tax,Mauritania,Sub-Saharan Africa,Lower middle income,Implemented,1995,0.0
+Tax_MR,Mauritania carbon tax,Carbon tax,Mauritania,Sub-Saharan Africa,Lower middle income,Implemented,1996,0.0
+Tax_MR,Mauritania carbon tax,Carbon tax,Mauritania,Sub-Saharan Africa,Lower middle income,Implemented,1997,0.0
+Tax_MR,Mauritania carbon tax,Carbon tax,Mauritania,Sub-Saharan Africa,Lower middle income,Implemented,1998,0.0
+Tax_MR,Mauritania carbon tax,Carbon tax,Mauritania,Sub-Saharan Africa,Lower middle income,Implemented,1999,0.0
+Tax_MR,Mauritania carbon tax,Carbon tax,Mauritania,Sub-Saharan Africa,Lower middle income,Implemented,2000,0.0
+Tax_MR,Mauritania carbon tax,Carbon tax,Mauritania,Sub-Saharan Africa,Lower middle income,Implemented,2001,0.0
+Tax_MR,Mauritania carbon tax,Carbon tax,Mauritania,Sub-Saharan Africa,Lower middle income,Implemented,2002,0.0
+Tax_MR,Mauritania carbon tax,Carbon tax,Mauritania,Sub-Saharan Africa,Lower middle income,Implemented,2003,0.0
+Tax_MR,Mauritania carbon tax,Carbon tax,Mauritania,Sub-Saharan Africa,Lower middle income,Implemented,2004,0.0
+Tax_MR,Mauritania carbon tax,Carbon tax,Mauritania,Sub-Saharan Africa,Lower middle income,Implemented,2005,0.0
+Tax_MR,Mauritania carbon tax,Carbon tax,Mauritania,Sub-Saharan Africa,Lower middle income,Implemented,2006,0.0
+Tax_MR,Mauritania carbon tax,Carbon tax,Mauritania,Sub-Saharan Africa,Lower middle income,Implemented,2007,0.0
+Tax_MR,Mauritania carbon tax,Carbon tax,Mauritania,Sub-Saharan Africa,Lower middle income,Implemented,2008,0.0
+Tax_MR,Mauritania carbon tax,Carbon tax,Mauritania,Sub-Saharan Africa,Lower middle income,Implemented,2009,0.0
+Tax_MR,Mauritania carbon tax,Carbon tax,Mauritania,Sub-Saharan Africa,Lower middle income,Implemented,2010,0.0
+Tax_MR,Mauritania carbon tax,Carbon tax,Mauritania,Sub-Saharan Africa,Lower middle income,Implemented,2011,0.0
+Tax_MR,Mauritania carbon tax,Carbon tax,Mauritania,Sub-Saharan Africa,Lower middle income,Implemented,2012,0.0
+Tax_MR,Mauritania carbon tax,Carbon tax,Mauritania,Sub-Saharan Africa,Lower middle income,Implemented,2013,0.0
+Tax_MR,Mauritania carbon tax,Carbon tax,Mauritania,Sub-Saharan Africa,Lower middle income,Implemented,2014,0.0
+Tax_MR,Mauritania carbon tax,Carbon tax,Mauritania,Sub-Saharan Africa,Lower middle income,Implemented,2015,0.0
+Tax_MR,Mauritania carbon tax,Carbon tax,Mauritania,Sub-Saharan Africa,Lower middle income,Implemented,2016,0.0
+Tax_MR,Mauritania carbon tax,Carbon tax,Mauritania,Sub-Saharan Africa,Lower middle income,Implemented,2017,0.0
+Tax_MR,Mauritania carbon tax,Carbon tax,Mauritania,Sub-Saharan Africa,Lower middle income,Implemented,2018,0.0
+Tax_MR,Mauritania carbon tax,Carbon tax,Mauritania,Sub-Saharan Africa,Lower middle income,Implemented,2019,0.0
+Tax_MR,Mauritania carbon tax,Carbon tax,Mauritania,Sub-Saharan Africa,Lower middle income,Implemented,2020,0.0
+Tax_MR,Mauritania carbon tax,Carbon tax,Mauritania,Sub-Saharan Africa,Lower middle income,Implemented,2021,0.0
+Tax_MR,Mauritania carbon tax,Carbon tax,Mauritania,Sub-Saharan Africa,Lower middle income,Implemented,2022,0.0
+Tax_MR,Mauritania carbon tax,Carbon tax,Mauritania,Sub-Saharan Africa,Lower middle income,Implemented,2023,0.0
+Tax_MR,Mauritania carbon tax,Carbon tax,Mauritania,Sub-Saharan Africa,Lower middle income,Implemented,2024,0.0
+Tax_MR,Mauritania carbon tax,Carbon tax,Mauritania,Sub-Saharan Africa,Lower middle income,Implemented,2025,0.0
+Tax_MR,Mauritania carbon tax,Carbon tax,Mauritania,Sub-Saharan Africa,Lower middle income,Implemented,2026,20.0
+Tax_MX,Mexico carbon tax,Carbon tax,Mexico,Latin America & Caribbean,Upper middle income,Implemented,2015,3.12
+Tax_MX,Mexico carbon tax,Carbon tax,Mexico,Latin America & Caribbean,Upper middle income,Implemented,2016,2.78
+Tax_MX,Mexico carbon tax,Carbon tax,Mexico,Latin America & Caribbean,Upper middle income,Implemented,2017,2.65
+Tax_MX,Mexico carbon tax,Carbon tax,Mexico,Latin America & Caribbean,Upper middle income,Implemented,2018,2.9
+Tax_MX,Mexico carbon tax,Carbon tax,Mexico,Latin America & Caribbean,Upper middle income,Implemented,2019,2.89
+Tax_MX,Mexico carbon tax,Carbon tax,Mexico,Latin America & Caribbean,Upper middle income,Implemented,2020,2.33
+Tax_MX,Mexico carbon tax,Carbon tax,Mexico,Latin America & Caribbean,Upper middle income,Implemented,2021,2.89
+Tax_MX,Mexico carbon tax,Carbon tax,Mexico,Latin America & Caribbean,Upper middle income,Implemented,2022,3.2
+Tax_MX,Mexico carbon tax,Carbon tax,Mexico,Latin America & Caribbean,Upper middle income,Implemented,2023,3.79
+Tax_MX,Mexico carbon tax,Carbon tax,Mexico,Latin America & Caribbean,Upper middle income,Implemented,2024,4.31
+Tax_MX,Mexico carbon tax,Carbon tax,Mexico,Latin America & Caribbean,Upper middle income,Implemented,2025,3.94
+Tax_MX,Mexico carbon tax,Carbon tax,Mexico,Latin America & Caribbean,Upper middle income,Implemented,2026,3.82
+ETS_MX,Mexico ETS,ETS,Mexico,Latin America & Caribbean,Upper middle income,Implemented,2021,0.0
+ETS_MX,Mexico ETS,ETS,Mexico,Latin America & Caribbean,Upper middle income,Implemented,2022,0.0
+ETS_MX,Mexico ETS,ETS,Mexico,Latin America & Caribbean,Upper middle income,Implemented,2023,0.0
+ETS_MX,Mexico ETS,ETS,Mexico,Latin America & Caribbean,Upper middle income,Implemented,2024,0.0
+ETS_MX,Mexico ETS,ETS,Mexico,Latin America & Caribbean,Upper middle income,Implemented,2025,0.0
+ETS_MX,Mexico ETS,ETS,Mexico,Latin America & Caribbean,Upper middle income,Implemented,2026,0.0
+Tax_US_Minneapolis,Minneapolis carbon tax,Carbon tax,Minneapolis,North America,High income,Implemented,1990,0.0
+Tax_US_Minneapolis,Minneapolis carbon tax,Carbon tax,Minneapolis,North America,High income,Implemented,1991,0.0
+Tax_US_Minneapolis,Minneapolis carbon tax,Carbon tax,Minneapolis,North America,High income,Implemented,1992,0.0
+Tax_US_Minneapolis,Minneapolis carbon tax,Carbon tax,Minneapolis,North America,High income,Implemented,1993,0.0
+Tax_US_Minneapolis,Minneapolis carbon tax,Carbon tax,Minneapolis,North America,High income,Implemented,1994,0.0
+Tax_US_Minneapolis,Minneapolis carbon tax,Carbon tax,Minneapolis,North America,High income,Implemented,1995,0.0
+Tax_US_Minneapolis,Minneapolis carbon tax,Carbon tax,Minneapolis,North America,High income,Implemented,1996,0.0
+Tax_US_Minneapolis,Minneapolis carbon tax,Carbon tax,Minneapolis,North America,High income,Implemented,1997,0.0
+Tax_US_Minneapolis,Minneapolis carbon tax,Carbon tax,Minneapolis,North America,High income,Implemented,1998,0.0
+Tax_US_Minneapolis,Minneapolis carbon tax,Carbon tax,Minneapolis,North America,High income,Implemented,1999,0.0
+Tax_US_Minneapolis,Minneapolis carbon tax,Carbon tax,Minneapolis,North America,High income,Implemented,2000,0.0
+Tax_US_Minneapolis,Minneapolis carbon tax,Carbon tax,Minneapolis,North America,High income,Implemented,2001,0.0
+Tax_US_Minneapolis,Minneapolis carbon tax,Carbon tax,Minneapolis,North America,High income,Implemented,2002,0.0
+Tax_US_Minneapolis,Minneapolis carbon tax,Carbon tax,Minneapolis,North America,High income,Implemented,2003,0.0
+Tax_US_Minneapolis,Minneapolis carbon tax,Carbon tax,Minneapolis,North America,High income,Implemented,2004,0.0
+Tax_US_Minneapolis,Minneapolis carbon tax,Carbon tax,Minneapolis,North America,High income,Implemented,2005,0.0
+Tax_US_Minneapolis,Minneapolis carbon tax,Carbon tax,Minneapolis,North America,High income,Implemented,2006,0.0
+Tax_US_Minneapolis,Minneapolis carbon tax,Carbon tax,Minneapolis,North America,High income,Implemented,2007,0.0
+Tax_US_Minneapolis,Minneapolis carbon tax,Carbon tax,Minneapolis,North America,High income,Implemented,2008,0.0
+Tax_US_Minneapolis,Minneapolis carbon tax,Carbon tax,Minneapolis,North America,High income,Implemented,2009,0.0
+Tax_US_Minneapolis,Minneapolis carbon tax,Carbon tax,Minneapolis,North America,High income,Implemented,2010,0.0
+Tax_US_Minneapolis,Minneapolis carbon tax,Carbon tax,Minneapolis,North America,High income,Implemented,2011,0.0
+Tax_US_Minneapolis,Minneapolis carbon tax,Carbon tax,Minneapolis,North America,High income,Implemented,2012,0.0
+Tax_US_Minneapolis,Minneapolis carbon tax,Carbon tax,Minneapolis,North America,High income,Implemented,2013,0.0
+Tax_US_Minneapolis,Minneapolis carbon tax,Carbon tax,Minneapolis,North America,High income,Implemented,2014,0.0
+Tax_US_Minneapolis,Minneapolis carbon tax,Carbon tax,Minneapolis,North America,High income,Implemented,2015,0.0
+Tax_US_Minneapolis,Minneapolis carbon tax,Carbon tax,Minneapolis,North America,High income,Implemented,2016,0.0
+Tax_US_Minneapolis,Minneapolis carbon tax,Carbon tax,Minneapolis,North America,High income,Implemented,2017,0.0
+Tax_US_Minneapolis,Minneapolis carbon tax,Carbon tax,Minneapolis,North America,High income,Implemented,2018,0.0
+Tax_US_Minneapolis,Minneapolis carbon tax,Carbon tax,Minneapolis,North America,High income,Implemented,2019,0.0
+Tax_US_Minneapolis,Minneapolis carbon tax,Carbon tax,Minneapolis,North America,High income,Implemented,2020,0.0
+Tax_US_Minneapolis,Minneapolis carbon tax,Carbon tax,Minneapolis,North America,High income,Implemented,2021,0.0
+Tax_US_Minneapolis,Minneapolis carbon tax,Carbon tax,Minneapolis,North America,High income,Implemented,2022,0.0
+Tax_US_Minneapolis,Minneapolis carbon tax,Carbon tax,Minneapolis,North America,High income,Implemented,2023,0.0
+Tax_US_Minneapolis,Minneapolis carbon tax,Carbon tax,Minneapolis,North America,High income,Implemented,2024,0.0
+Tax_US_Minneapolis,Minneapolis carbon tax,Carbon tax,Minneapolis,North America,High income,Implemented,2026,5.0
+Tax_MX_MC,Mexico City carbon tax,Carbon tax,Mexico City,Latin America & Caribbean,Upper middle income,Implemented,1990,0.0
+Tax_MX_MC,Mexico City carbon tax,Carbon tax,Mexico City,Latin America & Caribbean,Upper middle income,Implemented,1991,0.0
+Tax_MX_MC,Mexico City carbon tax,Carbon tax,Mexico City,Latin America & Caribbean,Upper middle income,Implemented,1992,0.0
+Tax_MX_MC,Mexico City carbon tax,Carbon tax,Mexico City,Latin America & Caribbean,Upper middle income,Implemented,1993,0.0
+Tax_MX_MC,Mexico City carbon tax,Carbon tax,Mexico City,Latin America & Caribbean,Upper middle income,Implemented,1994,0.0
+Tax_MX_MC,Mexico City carbon tax,Carbon tax,Mexico City,Latin America & Caribbean,Upper middle income,Implemented,1995,0.0
+Tax_MX_MC,Mexico City carbon tax,Carbon tax,Mexico City,Latin America & Caribbean,Upper middle income,Implemented,1996,0.0
+Tax_MX_MC,Mexico City carbon tax,Carbon tax,Mexico City,Latin America & Caribbean,Upper middle income,Implemented,1997,0.0
+Tax_MX_MC,Mexico City carbon tax,Carbon tax,Mexico City,Latin America & Caribbean,Upper middle income,Implemented,1998,0.0
+Tax_MX_MC,Mexico City carbon tax,Carbon tax,Mexico City,Latin America & Caribbean,Upper middle income,Implemented,1999,0.0
+Tax_MX_MC,Mexico City carbon tax,Carbon tax,Mexico City,Latin America & Caribbean,Upper middle income,Implemented,2000,0.0
+Tax_MX_MC,Mexico City carbon tax,Carbon tax,Mexico City,Latin America & Caribbean,Upper middle income,Implemented,2001,0.0
+Tax_MX_MC,Mexico City carbon tax,Carbon tax,Mexico City,Latin America & Caribbean,Upper middle income,Implemented,2002,0.0
+Tax_MX_MC,Mexico City carbon tax,Carbon tax,Mexico City,Latin America & Caribbean,Upper middle income,Implemented,2003,0.0
+Tax_MX_MC,Mexico City carbon tax,Carbon tax,Mexico City,Latin America & Caribbean,Upper middle income,Implemented,2004,0.0
+Tax_MX_MC,Mexico City carbon tax,Carbon tax,Mexico City,Latin America & Caribbean,Upper middle income,Implemented,2005,0.0
+Tax_MX_MC,Mexico City carbon tax,Carbon tax,Mexico City,Latin America & Caribbean,Upper middle income,Implemented,2006,0.0
+Tax_MX_MC,Mexico City carbon tax,Carbon tax,Mexico City,Latin America & Caribbean,Upper middle income,Implemented,2007,0.0
+Tax_MX_MC,Mexico City carbon tax,Carbon tax,Mexico City,Latin America & Caribbean,Upper middle income,Implemented,2008,0.0
+Tax_MX_MC,Mexico City carbon tax,Carbon tax,Mexico City,Latin America & Caribbean,Upper middle income,Implemented,2009,0.0
+Tax_MX_MC,Mexico City carbon tax,Carbon tax,Mexico City,Latin America & Caribbean,Upper middle income,Implemented,2010,0.0
+Tax_MX_MC,Mexico City carbon tax,Carbon tax,Mexico City,Latin America & Caribbean,Upper middle income,Implemented,2011,0.0
+Tax_MX_MC,Mexico City carbon tax,Carbon tax,Mexico City,Latin America & Caribbean,Upper middle income,Implemented,2012,0.0
+Tax_MX_MC,Mexico City carbon tax,Carbon tax,Mexico City,Latin America & Caribbean,Upper middle income,Implemented,2013,0.0
+Tax_MX_MC,Mexico City carbon tax,Carbon tax,Mexico City,Latin America & Caribbean,Upper middle income,Implemented,2014,0.0
+Tax_MX_MC,Mexico City carbon tax,Carbon tax,Mexico City,Latin America & Caribbean,Upper middle income,Implemented,2015,0.0
+Tax_MX_MC,Mexico City carbon tax,Carbon tax,Mexico City,Latin America & Caribbean,Upper middle income,Implemented,2016,0.0
+Tax_MX_MC,Mexico City carbon tax,Carbon tax,Mexico City,Latin America & Caribbean,Upper middle income,Implemented,2017,0.0
+Tax_MX_MC,Mexico City carbon tax,Carbon tax,Mexico City,Latin America & Caribbean,Upper middle income,Implemented,2018,0.0
+Tax_MX_MC,Mexico City carbon tax,Carbon tax,Mexico City,Latin America & Caribbean,Upper middle income,Implemented,2019,0.0
+Tax_MX_MC,Mexico City carbon tax,Carbon tax,Mexico City,Latin America & Caribbean,Upper middle income,Implemented,2020,0.0
+Tax_MX_MC,Mexico City carbon tax,Carbon tax,Mexico City,Latin America & Caribbean,Upper middle income,Implemented,2021,0.0
+Tax_MX_MC,Mexico City carbon tax,Carbon tax,Mexico City,Latin America & Caribbean,Upper middle income,Implemented,2022,0.0
+Tax_MX_MC,Mexico City carbon tax,Carbon tax,Mexico City,Latin America & Caribbean,Upper middle income,Implemented,2023,0.0
+Tax_MX_MC,Mexico City carbon tax,Carbon tax,Mexico City,Latin America & Caribbean,Upper middle income,Implemented,2024,0.0
+Tax_MX_MC,Mexico City carbon tax,Carbon tax,Mexico City,Latin America & Caribbean,Upper middle income,Implemented,2025,2.85
+Tax_MX_MC,Mexico City carbon tax,Carbon tax,Mexico City,Latin America & Caribbean,Upper middle income,Implemented,2026,3.37
+ETS_MO,Montenegro ETS,ETS,Montenegro,Europe & Central Asia,Upper middle income,Implemented,2024,25.8
+ETS_MO,Montenegro ETS,ETS,Montenegro,Europe & Central Asia,Upper middle income,Implemented,2025,25.89
+ETS_MO,Montenegro ETS,ETS,Montenegro,Europe & Central Asia,Upper middle income,Implemented,2026,27.85
+Tax_MX_MO,Morelos carbon tax,Carbon tax,Morelos,Latin America & Caribbean,Upper middle income,Implemented,1990,0.0
+Tax_MX_MO,Morelos carbon tax,Carbon tax,Morelos,Latin America & Caribbean,Upper middle income,Implemented,1991,0.0
+Tax_MX_MO,Morelos carbon tax,Carbon tax,Morelos,Latin America & Caribbean,Upper middle income,Implemented,1992,0.0
+Tax_MX_MO,Morelos carbon tax,Carbon tax,Morelos,Latin America & Caribbean,Upper middle income,Implemented,1993,0.0
+Tax_MX_MO,Morelos carbon tax,Carbon tax,Morelos,Latin America & Caribbean,Upper middle income,Implemented,1994,0.0
+Tax_MX_MO,Morelos carbon tax,Carbon tax,Morelos,Latin America & Caribbean,Upper middle income,Implemented,1995,0.0
+Tax_MX_MO,Morelos carbon tax,Carbon tax,Morelos,Latin America & Caribbean,Upper middle income,Implemented,1996,0.0
+Tax_MX_MO,Morelos carbon tax,Carbon tax,Morelos,Latin America & Caribbean,Upper middle income,Implemented,1997,0.0
+Tax_MX_MO,Morelos carbon tax,Carbon tax,Morelos,Latin America & Caribbean,Upper middle income,Implemented,1998,0.0
+Tax_MX_MO,Morelos carbon tax,Carbon tax,Morelos,Latin America & Caribbean,Upper middle income,Implemented,1999,0.0
+Tax_MX_MO,Morelos carbon tax,Carbon tax,Morelos,Latin America & Caribbean,Upper middle income,Implemented,2000,0.0
+Tax_MX_MO,Morelos carbon tax,Carbon tax,Morelos,Latin America & Caribbean,Upper middle income,Implemented,2001,0.0
+Tax_MX_MO,Morelos carbon tax,Carbon tax,Morelos,Latin America & Caribbean,Upper middle income,Implemented,2002,0.0
+Tax_MX_MO,Morelos carbon tax,Carbon tax,Morelos,Latin America & Caribbean,Upper middle income,Implemented,2003,0.0
+Tax_MX_MO,Morelos carbon tax,Carbon tax,Morelos,Latin America & Caribbean,Upper middle income,Implemented,2004,0.0
+Tax_MX_MO,Morelos carbon tax,Carbon tax,Morelos,Latin America & Caribbean,Upper middle income,Implemented,2005,0.0
+Tax_MX_MO,Morelos carbon tax,Carbon tax,Morelos,Latin America & Caribbean,Upper middle income,Implemented,2006,0.0
+Tax_MX_MO,Morelos carbon tax,Carbon tax,Morelos,Latin America & Caribbean,Upper middle income,Implemented,2007,0.0
+Tax_MX_MO,Morelos carbon tax,Carbon tax,Morelos,Latin America & Caribbean,Upper middle income,Implemented,2008,0.0
+Tax_MX_MO,Morelos carbon tax,Carbon tax,Morelos,Latin America & Caribbean,Upper middle income,Implemented,2009,0.0
+Tax_MX_MO,Morelos carbon tax,Carbon tax,Morelos,Latin America & Caribbean,Upper middle income,Implemented,2010,0.0
+Tax_MX_MO,Morelos carbon tax,Carbon tax,Morelos,Latin America & Caribbean,Upper middle income,Implemented,2011,0.0
+Tax_MX_MO,Morelos carbon tax,Carbon tax,Morelos,Latin America & Caribbean,Upper middle income,Implemented,2012,0.0
+Tax_MX_MO,Morelos carbon tax,Carbon tax,Morelos,Latin America & Caribbean,Upper middle income,Implemented,2013,0.0
+Tax_MX_MO,Morelos carbon tax,Carbon tax,Morelos,Latin America & Caribbean,Upper middle income,Implemented,2014,0.0
+Tax_MX_MO,Morelos carbon tax,Carbon tax,Morelos,Latin America & Caribbean,Upper middle income,Implemented,2015,0.0
+Tax_MX_MO,Morelos carbon tax,Carbon tax,Morelos,Latin America & Caribbean,Upper middle income,Implemented,2016,0.0
+Tax_MX_MO,Morelos carbon tax,Carbon tax,Morelos,Latin America & Caribbean,Upper middle income,Implemented,2017,0.0
+Tax_MX_MO,Morelos carbon tax,Carbon tax,Morelos,Latin America & Caribbean,Upper middle income,Implemented,2018,0.0
+Tax_MX_MO,Morelos carbon tax,Carbon tax,Morelos,Latin America & Caribbean,Upper middle income,Implemented,2019,0.0
+Tax_MX_MO,Morelos carbon tax,Carbon tax,Morelos,Latin America & Caribbean,Upper middle income,Implemented,2020,0.0
+Tax_MX_MO,Morelos carbon tax,Carbon tax,Morelos,Latin America & Caribbean,Upper middle income,Implemented,2021,0.0
+Tax_MX_MO,Morelos carbon tax,Carbon tax,Morelos,Latin America & Caribbean,Upper middle income,Implemented,2022,0.0
+Tax_MX_MO,Morelos carbon tax,Carbon tax,Morelos,Latin America & Caribbean,Upper middle income,Implemented,2023,0.0
+Tax_MX_MO,Morelos carbon tax,Carbon tax,Morelos,Latin America & Caribbean,Upper middle income,Implemented,2024,0.0
+Tax_MX_MO,Morelos carbon tax,Carbon tax,Morelos,Latin America & Caribbean,Upper middle income,Implemented,2025,12.28
+Tax_MX_MO,Morelos carbon tax,Carbon tax,Morelos,Latin America & Caribbean,Upper middle income,Implemented,2026,5.8
+Tax_NL,Netherlands carbon tax,Carbon tax,Netherlands,Europe & Central Asia,High income,Implemented,2021,35.24
+Tax_NL,Netherlands carbon tax,Carbon tax,Netherlands,Europe & Central Asia,High income,Implemented,2022,46.14
+Tax_NL,Netherlands carbon tax,Carbon tax,Netherlands,Europe & Central Asia,High income,Implemented,2023,60.83
+Tax_NL,Netherlands carbon tax,Carbon tax,Netherlands,Europe & Central Asia,High income,Implemented,2024,71.48
+Tax_NL,Netherlands carbon tax,Carbon tax,Netherlands,Europe & Central Asia,High income,Implemented,2025,94.83
+Tax_NL,Netherlands carbon tax,Carbon tax,Netherlands,Europe & Central Asia,High income,Implemented,2026,102.01
+Tax_CA_NB,New Brunswick carbon tax,Carbon tax,New Brunswick,North America,High income,Abolished,2020,21.1
+Tax_CA_NB,New Brunswick carbon tax,Carbon tax,New Brunswick,North America,High income,Abolished,2021,31.83
+Tax_CA_NB,New Brunswick carbon tax,Carbon tax,New Brunswick,North America,High income,Abolished,2022,39.96
+Tax_CA_NB,New Brunswick carbon tax,Carbon tax,New Brunswick,North America,High income,Abolished,2023,48.03
+ETS_CA_NB,New Brunswick OBPS,ETS,New Brunswick,North America,High income,Implemented,2022,39.96
+ETS_CA_NB,New Brunswick OBPS,ETS,New Brunswick,North America,High income,Implemented,2023,48.03
+ETS_CA_NB,New Brunswick OBPS,ETS,New Brunswick,North America,High income,Implemented,2024,58.94
+ETS_CA_NB,New Brunswick OBPS,ETS,New Brunswick,North America,High income,Implemented,2025,66.21
+ETS_CA_NB,New Brunswick OBPS,ETS,New Brunswick,North America,High income,Implemented,2026,68.4
+ETS_NZ,New Zealand ETS,ETS,New Zealand,East Asia & Pacific,High income,Implemented,2008,0.0
+ETS_NZ,New Zealand ETS,ETS,New Zealand,East Asia & Pacific,High income,Implemented,2009,0.0
+ETS_NZ,New Zealand ETS,ETS,New Zealand,East Asia & Pacific,High income,Implemented,2010,12.44
+ETS_NZ,New Zealand ETS,ETS,New Zealand,East Asia & Pacific,High income,Implemented,2011,15.37
+ETS_NZ,New Zealand ETS,ETS,New Zealand,East Asia & Pacific,High income,Implemented,2012,5.72
+ETS_NZ,New Zealand ETS,ETS,New Zealand,East Asia & Pacific,High income,Implemented,2013,1.67
+ETS_NZ,New Zealand ETS,ETS,New Zealand,East Asia & Pacific,High income,Implemented,2014,2.69
+ETS_NZ,New Zealand ETS,ETS,New Zealand,East Asia & Pacific,High income,Implemented,2015,4.93
+ETS_NZ,New Zealand ETS,ETS,New Zealand,East Asia & Pacific,High income,Implemented,2016,0.0
+ETS_NZ,New Zealand ETS,ETS,New Zealand,East Asia & Pacific,High income,Implemented,2017,12.51
+ETS_NZ,New Zealand ETS,ETS,New Zealand,East Asia & Pacific,High income,Implemented,2018,15.09
+ETS_NZ,New Zealand ETS,ETS,New Zealand,East Asia & Pacific,High income,Implemented,2019,17.53
+ETS_NZ,New Zealand ETS,ETS,New Zealand,East Asia & Pacific,High income,Implemented,2020,14.3
+ETS_NZ,New Zealand ETS,ETS,New Zealand,East Asia & Pacific,High income,Implemented,2021,25.76
+ETS_NZ,New Zealand ETS,ETS,New Zealand,East Asia & Pacific,High income,Implemented,2022,52.62
+ETS_NZ,New Zealand ETS,ETS,New Zealand,East Asia & Pacific,High income,Implemented,2023,34.2
+ETS_NZ,New Zealand ETS,ETS,New Zealand,East Asia & Pacific,High income,Implemented,2024,35.1
+ETS_NZ,New Zealand ETS,ETS,New Zealand,East Asia & Pacific,High income,Implemented,2025,32.01
+ETS_NZ,New Zealand ETS,ETS,New Zealand,East Asia & Pacific,High income,Implemented,2026,24.04
+Tax_CA_NL,Newfoundland and Labrador carbon tax,Carbon tax,Newfoundland and Labrador,North America,High income,Abolished,2019,15.0
+Tax_CA_NL,Newfoundland and Labrador carbon tax,Carbon tax,Newfoundland and Labrador,North America,High income,Abolished,2020,14.07
+Tax_CA_NL,Newfoundland and Labrador carbon tax,Carbon tax,Newfoundland and Labrador,North America,High income,Abolished,2021,23.88
+Tax_CA_NL,Newfoundland and Labrador carbon tax,Carbon tax,Newfoundland and Labrador,North America,High income,Abolished,2022,39.96
+Tax_CA_NL,Newfoundland and Labrador carbon tax,Carbon tax,Newfoundland and Labrador,North America,High income,Abolished,2023,48.03
+Tax_CA_NL,Newfoundland and Labrador carbon tax,Carbon tax,Newfoundland and Labrador,North America,High income,Abolished,2025,0.0
+ETS_CA_NL,Newfoundland and Labrador PSS,ETS,Newfoundland and Labrador,North America,High income,Implemented,2021,23.88
+ETS_CA_NL,Newfoundland and Labrador PSS,ETS,Newfoundland and Labrador,North America,High income,Implemented,2022,39.96
+ETS_CA_NL,Newfoundland and Labrador PSS,ETS,Newfoundland and Labrador,North America,High income,Implemented,2023,48.03
+ETS_CA_NL,Newfoundland and Labrador PSS,ETS,Newfoundland and Labrador,North America,High income,Implemented,2024,58.94
+ETS_CA_NL,Newfoundland and Labrador PSS,ETS,Newfoundland and Labrador,North America,High income,Implemented,2025,66.21
+ETS_CA_NL,Newfoundland and Labrador PSS,ETS,Newfoundland and Labrador,North America,High income,Implemented,2026,68.4
+Tax_CA_NT,Northwest Territories carbon tax,Carbon tax,Northwest Territories,North America,High income,Abolished,2020,14.07
+Tax_CA_NT,Northwest Territories carbon tax,Carbon tax,Northwest Territories,North America,High income,Abolished,2021,23.88
+Tax_CA_NT,Northwest Territories carbon tax,Carbon tax,Northwest Territories,North America,High income,Abolished,2022,31.97
+Tax_CA_NT,Northwest Territories carbon tax,Carbon tax,Northwest Territories,North America,High income,Abolished,2023,48.03
+Tax_CA_NT,Northwest Territories carbon tax,Carbon tax,Northwest Territories,North America,High income,Abolished,2024,58.94
+Tax_NO,Norway carbon tax,Carbon tax,Norway,Europe & Central Asia,High income,Implemented,1991,85.72
+Tax_NO,Norway carbon tax,Carbon tax,Norway,Europe & Central Asia,High income,Implemented,1992,112.93
+Tax_NO,Norway carbon tax,Carbon tax,Norway,Europe & Central Asia,High income,Implemented,1993,104.22
+Tax_NO,Norway carbon tax,Carbon tax,Norway,Europe & Central Asia,High income,Implemented,1994,99.31
+Tax_NO,Norway carbon tax,Carbon tax,Norway,Europe & Central Asia,High income,Implemented,1995,115.81
+Tax_NO,Norway carbon tax,Carbon tax,Norway,Europe & Central Asia,High income,Implemented,1996,112.63
+Tax_NO,Norway carbon tax,Carbon tax,Norway,Europe & Central Asia,High income,Implemented,1997,109.6
+Tax_NO,Norway carbon tax,Carbon tax,Norway,Europe & Central Asia,High income,Implemented,1998,94.7
+Tax_NO,Norway carbon tax,Carbon tax,Norway,Europe & Central Asia,High income,Implemented,1999,93.79
+Tax_NO,Norway carbon tax,Carbon tax,Norway,Europe & Central Asia,High income,Implemented,2000,85.39
+Tax_NO,Norway carbon tax,Carbon tax,Norway,Europe & Central Asia,High income,Implemented,2001,58.98
+Tax_NO,Norway carbon tax,Carbon tax,Norway,Europe & Central Asia,High income,Implemented,2002,61.08
+Tax_NO,Norway carbon tax,Carbon tax,Norway,Europe & Central Asia,High income,Implemented,2003,74.21
+Tax_NO,Norway carbon tax,Carbon tax,Norway,Europe & Central Asia,High income,Implemented,2004,79.24
+Tax_NO,Norway carbon tax,Carbon tax,Norway,Europe & Central Asia,High income,Implemented,2005,86.97
+Tax_NO,Norway carbon tax,Carbon tax,Norway,Europe & Central Asia,High income,Implemented,2006,82.8
+Tax_NO,Norway carbon tax,Carbon tax,Norway,Europe & Central Asia,High income,Implemented,2007,89.89
+Tax_NO,Norway carbon tax,Carbon tax,Norway,Europe & Central Asia,High income,Implemented,2008,104.96
+Tax_NO,Norway carbon tax,Carbon tax,Norway,Europe & Central Asia,High income,Implemented,2009,80.95
+Tax_NO,Norway carbon tax,Carbon tax,Norway,Europe & Central Asia,High income,Implemented,2010,90.6
+Tax_NO,Norway carbon tax,Carbon tax,Norway,Europe & Central Asia,High income,Implemented,2011,99.28
+Tax_NO,Norway carbon tax,Carbon tax,Norway,Europe & Central Asia,High income,Implemented,2012,96.6
+Tax_NO,Norway carbon tax,Carbon tax,Norway,Europe & Central Asia,High income,Implemented,2013,94.58
+Tax_NO,Norway carbon tax,Carbon tax,Norway,Europe & Central Asia,High income,Implemented,2014,92.53
+Tax_NO,Norway carbon tax,Carbon tax,Norway,Europe & Central Asia,High income,Implemented,2015,68.32
+Tax_NO,Norway carbon tax,Carbon tax,Norway,Europe & Central Asia,High income,Implemented,2016,65.88
+Tax_NO,Norway carbon tax,Carbon tax,Norway,Europe & Central Asia,High income,Implemented,2017,66.82
+Tax_NO,Norway carbon tax,Carbon tax,Norway,Europe & Central Asia,High income,Implemented,2018,79.98
+Tax_NO,Norway carbon tax,Carbon tax,Norway,Europe & Central Asia,High income,Implemented,2019,72.16
+Tax_NO,Norway carbon tax,Carbon tax,Norway,Europe & Central Asia,High income,Implemented,2020,63.28
+Tax_NO,Norway carbon tax,Carbon tax,Norway,Europe & Central Asia,High income,Implemented,2021,80.35
+Tax_NO,Norway carbon tax,Carbon tax,Norway,Europe & Central Asia,High income,Implemented,2022,96.31
+Tax_NO,Norway carbon tax,Carbon tax,Norway,Europe & Central Asia,High income,Implemented,2023,94.49
+Tax_NO,Norway carbon tax,Carbon tax,Norway,Europe & Central Asia,High income,Implemented,2024,107.78
+Tax_NO,Norway carbon tax,Carbon tax,Norway,Europe & Central Asia,High income,Implemented,2025,133.92
+Tax_NO,Norway carbon tax,Carbon tax,Norway,Europe & Central Asia,High income,Implemented,2026,169.71
+ETS_CA_NS,Nova Scotia OBPS,ETS,Nova Scotia,North America,High income,Implemented,2021,19.66
+ETS_CA_NS,Nova Scotia OBPS,ETS,Nova Scotia,North America,High income,Implemented,2022,23.1
+ETS_CA_NS,Nova Scotia OBPS,ETS,Nova Scotia,North America,High income,Implemented,2023,20.87
+ETS_CA_NS,Nova Scotia OBPS,ETS,Nova Scotia,North America,High income,Implemented,2024,58.94
+ETS_CA_NS,Nova Scotia OBPS,ETS,Nova Scotia,North America,High income,Implemented,2025,66.21
+ETS_CA_NS,Nova Scotia OBPS,ETS,Nova Scotia,North America,High income,Implemented,2026,68.4
+ETS_CA_Ontario,Ontario CaT,ETS,Ontario,North America,High income,Abolished,2017,14.06
+ETS_CA_Ontario,Ontario CaT,ETS,Ontario,North America,High income,Abolished,2018,11.71
+ETS_CA_Ontario2,Ontario EPS,ETS,Ontario,North America,High income,Implemented,2022,31.97
+ETS_CA_Ontario2,Ontario EPS,ETS,Ontario,North America,High income,Implemented,2023,48.03
+ETS_CA_Ontario2,Ontario EPS,ETS,Ontario,North America,High income,Implemented,2024,58.94
+ETS_CA_Ontario2,Ontario EPS,ETS,Ontario,North America,High income,Implemented,2025,66.21
+ETS_CA_Ontario2,Ontario EPS,ETS,Ontario,North America,High income,Implemented,2026,68.4
+ETS_US_Oregon,Oregon ETS,ETS,Oregon,North America,High income,Implemented,2017,0.0
+ETS_US_Oregon,Oregon ETS,ETS,Oregon,North America,High income,Implemented,2018,0.0
+ETS_US_Oregon,Oregon ETS,ETS,Oregon,North America,High income,Implemented,2019,0.0
+ETS_US_Oregon,Oregon ETS,ETS,Oregon,North America,High income,Implemented,2020,0.0
+ETS_US_Oregon,Oregon ETS,ETS,Oregon,North America,High income,Implemented,2021,0.0
+ETS_US_Oregon,Oregon ETS,ETS,Oregon,North America,High income,Implemented,2022,0.0
+ETS_US_Oregon,Oregon ETS,ETS,Oregon,North America,High income,Implemented,2023,0.0
+ETS_US_Oregon,Oregon ETS,ETS,Oregon,North America,High income,Implemented,2025,0.0
+ETS_US_Oregon,Oregon ETS,ETS,Oregon,North America,High income,Implemented,2026,0.0
+Tax_PL,Poland carbon tax,Carbon tax,Poland,Europe & Central Asia,High income,Implemented,1990,0.11
+Tax_PL,Poland carbon tax,Carbon tax,Poland,Europe & Central Asia,High income,Implemented,1991,0.09
+Tax_PL,Poland carbon tax,Carbon tax,Poland,Europe & Central Asia,High income,Implemented,1992,0.07
+Tax_PL,Poland carbon tax,Carbon tax,Poland,Europe & Central Asia,High income,Implemented,1993,0.06
+Tax_PL,Poland carbon tax,Carbon tax,Poland,Europe & Central Asia,High income,Implemented,1994,0.05
+Tax_PL,Poland carbon tax,Carbon tax,Poland,Europe & Central Asia,High income,Implemented,1995,0.06
+Tax_PL,Poland carbon tax,Carbon tax,Poland,Europe & Central Asia,High income,Implemented,1996,0.06
+Tax_PL,Poland carbon tax,Carbon tax,Poland,Europe & Central Asia,High income,Implemented,1997,0.05
+Tax_PL,Poland carbon tax,Carbon tax,Poland,Europe & Central Asia,High income,Implemented,1998,0.04
+Tax_PL,Poland carbon tax,Carbon tax,Poland,Europe & Central Asia,High income,Implemented,1999,0.04
+Tax_PL,Poland carbon tax,Carbon tax,Poland,Europe & Central Asia,High income,Implemented,2000,0.04
+Tax_PL,Poland carbon tax,Carbon tax,Poland,Europe & Central Asia,High income,Implemented,2001,0.04
+Tax_PL,Poland carbon tax,Carbon tax,Poland,Europe & Central Asia,High income,Implemented,2002,0.04
+Tax_PL,Poland carbon tax,Carbon tax,Poland,Europe & Central Asia,High income,Implemented,2003,0.05
+Tax_PL,Poland carbon tax,Carbon tax,Poland,Europe & Central Asia,High income,Implemented,2004,0.06
+Tax_PL,Poland carbon tax,Carbon tax,Poland,Europe & Central Asia,High income,Implemented,2005,0.07
+Tax_PL,Poland carbon tax,Carbon tax,Poland,Europe & Central Asia,High income,Implemented,2006,0.07
+Tax_PL,Poland carbon tax,Carbon tax,Poland,Europe & Central Asia,High income,Implemented,2007,0.08
+Tax_PL,Poland carbon tax,Carbon tax,Poland,Europe & Central Asia,High income,Implemented,2008,0.1
+Tax_PL,Poland carbon tax,Carbon tax,Poland,Europe & Central Asia,High income,Implemented,2009,0.07
+Tax_PL,Poland carbon tax,Carbon tax,Poland,Europe & Central Asia,High income,Implemented,2010,0.09
+Tax_PL,Poland carbon tax,Carbon tax,Poland,Europe & Central Asia,High income,Implemented,2011,0.09
+Tax_PL,Poland carbon tax,Carbon tax,Poland,Europe & Central Asia,High income,Implemented,2012,0.09
+Tax_PL,Poland carbon tax,Carbon tax,Poland,Europe & Central Asia,High income,Implemented,2013,0.09
+Tax_PL,Poland carbon tax,Carbon tax,Poland,Europe & Central Asia,High income,Implemented,2014,0.09
+Tax_PL,Poland carbon tax,Carbon tax,Poland,Europe & Central Asia,High income,Implemented,2015,0.08
+Tax_PL,Poland carbon tax,Carbon tax,Poland,Europe & Central Asia,High income,Implemented,2016,0.08
+Tax_PL,Poland carbon tax,Carbon tax,Poland,Europe & Central Asia,High income,Implemented,2017,0.07
+Tax_PL,Poland carbon tax,Carbon tax,Poland,Europe & Central Asia,High income,Implemented,2018,0.08
+Tax_PL,Poland carbon tax,Carbon tax,Poland,Europe & Central Asia,High income,Implemented,2019,0.08
+Tax_PL,Poland carbon tax,Carbon tax,Poland,Europe & Central Asia,High income,Implemented,2020,0.07
+Tax_PL,Poland carbon tax,Carbon tax,Poland,Europe & Central Asia,High income,Implemented,2021,0.08
+Tax_PL,Poland carbon tax,Carbon tax,Poland,Europe & Central Asia,High income,Implemented,2022,0.08
+Tax_PL,Poland carbon tax,Carbon tax,Poland,Europe & Central Asia,High income,Implemented,2023,0.08
+Tax_PL,Poland carbon tax,Carbon tax,Poland,Europe & Central Asia,High income,Implemented,2024,0.08
+Tax_PL,Poland carbon tax,Carbon tax,Poland,Europe & Central Asia,High income,Implemented,2025,0.1
+Tax_PL,Poland carbon tax,Carbon tax,Poland,Europe & Central Asia,High income,Implemented,2026,0.11
+Tax_PT,Portugal carbon tax,Carbon tax,Portugal,Europe & Central Asia,High income,Implemented,2015,5.47
+Tax_PT,Portugal carbon tax,Carbon tax,Portugal,Europe & Central Asia,High income,Implemented,2016,7.63
+Tax_PT,Portugal carbon tax,Carbon tax,Portugal,Europe & Central Asia,High income,Implemented,2017,7.32
+Tax_PT,Portugal carbon tax,Carbon tax,Portugal,Europe & Central Asia,High income,Implemented,2018,8.44
+Tax_PT,Portugal carbon tax,Carbon tax,Portugal,Europe & Central Asia,High income,Implemented,2019,14.17
+Tax_PT,Portugal carbon tax,Carbon tax,Portugal,Europe & Central Asia,High income,Implemented,2020,13.79
+Tax_PT,Portugal carbon tax,Carbon tax,Portugal,Europe & Central Asia,High income,Implemented,2021,27.81
+Tax_PT,Portugal carbon tax,Carbon tax,Portugal,Europe & Central Asia,High income,Implemented,2022,26.17
+Tax_PT,Portugal carbon tax,Carbon tax,Portugal,Europe & Central Asia,High income,Implemented,2023,25.75
+Tax_PT,Portugal carbon tax,Carbon tax,Portugal,Europe & Central Asia,High income,Implemented,2024,25.45
+Tax_PT,Portugal carbon tax,Carbon tax,Portugal,Europe & Central Asia,High income,Implemented,2025,72.7
+Tax_PT,Portugal carbon tax,Carbon tax,Portugal,Europe & Central Asia,High income,Implemented,2026,78.21
+Tax_CA_PE,Prince Edward Island carbon tax,Carbon tax,Prince Edward Island,North America,High income,Abolished,2019,15.0
+Tax_CA_PE,Prince Edward Island carbon tax,Carbon tax,Prince Edward Island,North America,High income,Abolished,2020,21.1
+Tax_CA_PE,Prince Edward Island carbon tax,Carbon tax,Prince Edward Island,North America,High income,Abolished,2021,23.88
+Tax_CA_PE,Prince Edward Island carbon tax,Carbon tax,Prince Edward Island,North America,High income,Abolished,2022,23.98
+Tax_CA_PE,Prince Edward Island carbon tax,Carbon tax,Prince Edward Island,North America,High income,Abolished,2023,36.95
+Tax_CA_PE,Prince Edward Island carbon tax,Carbon tax,Prince Edward Island,North America,High income,Abolished,2025,0.0
+ETS_CA_Quebec,Quebec CaT,ETS,Quebec,North America,High income,Implemented,2013,0.0
+ETS_CA_Quebec,Quebec CaT,ETS,Quebec,North America,High income,Implemented,2014,11.69
+ETS_CA_Quebec,Quebec CaT,ETS,Quebec,North America,High income,Implemented,2015,12.49
+ETS_CA_Quebec,Quebec CaT,ETS,Quebec,North America,High income,Implemented,2016,12.45
+ETS_CA_Quebec,Quebec CaT,ETS,Quebec,North America,High income,Implemented,2017,15.08
+ETS_CA_Quebec,Quebec CaT,ETS,Quebec,North America,High income,Implemented,2018,15.1
+ETS_CA_Quebec,Quebec CaT,ETS,Quebec,North America,High income,Implemented,2019,15.77
+ETS_CA_Quebec,Quebec CaT,ETS,Quebec,North America,High income,Implemented,2020,21.75
+ETS_CA_Quebec,Quebec CaT,ETS,Quebec,North America,High income,Implemented,2021,17.94
+ETS_CA_Quebec,Quebec CaT,ETS,Quebec,North America,High income,Implemented,2022,38.58
+ETS_CA_Quebec,Quebec CaT,ETS,Quebec,North America,High income,Implemented,2023,29.84
+ETS_CA_Quebec,Quebec CaT,ETS,Quebec,North America,High income,Implemented,2024,38.59
+ETS_CA_Quebec,Quebec CaT,ETS,Quebec,North America,High income,Implemented,2025,41.54
+ETS_CA_Quebec,Quebec CaT,ETS,Quebec,North America,High income,Implemented,2026,29.05
+Tax_MX_Queretaro,Queretaro carbon tax,Carbon tax,Queretaro,Latin America & Caribbean,Upper middle income,Implemented,2023,32.2
+Tax_MX_Queretaro,Queretaro carbon tax,Carbon tax,Queretaro,Latin America & Caribbean,Upper middle income,Implemented,2024,36.7
+Tax_MX_Queretaro,Queretaro carbon tax,Carbon tax,Queretaro,Latin America & Caribbean,Upper middle income,Implemented,2025,32.79
+Tax_MX_Queretaro,Queretaro carbon tax,Carbon tax,Queretaro,Latin America & Caribbean,Upper middle income,Implemented,2026,38.86
+ETS_RGGI,RGGI,ETS,RGGI,North America,High income,Implemented,2009,3.87
+ETS_RGGI,RGGI,ETS,RGGI,North America,High income,Implemented,2010,2.3
+ETS_RGGI,RGGI,ETS,RGGI,North America,High income,Implemented,2011,2.08
+ETS_RGGI,RGGI,ETS,RGGI,North America,High income,Implemented,2012,2.13
+ETS_RGGI,RGGI,ETS,RGGI,North America,High income,Implemented,2013,3.85
+ETS_RGGI,RGGI,ETS,RGGI,North America,High income,Implemented,2014,3.93
+ETS_RGGI,RGGI,ETS,RGGI,North America,High income,Implemented,2015,5.9
+ETS_RGGI,RGGI,ETS,RGGI,North America,High income,Implemented,2016,5.82
+ETS_RGGI,RGGI,ETS,RGGI,North America,High income,Implemented,2017,3.94
+ETS_RGGI,RGGI,ETS,RGGI,North America,High income,Implemented,2018,4.3
+ETS_RGGI,RGGI,ETS,RGGI,North America,High income,Implemented,2019,4.94
+ETS_RGGI,RGGI,ETS,RGGI,North America,High income,Implemented,2020,5.13
+ETS_RGGI,RGGI,ETS,RGGI,North America,High income,Implemented,2021,8.69
+ETS_RGGI,RGGI,ETS,RGGI,North America,High income,Implemented,2022,13.89
+ETS_RGGI,RGGI,ETS,RGGI,North America,High income,Implemented,2023,15.39
+ETS_RGGI,RGGI,ETS,RGGI,North America,High income,Implemented,2024,17.64
+ETS_RGGI,RGGI,ETS,RGGI,North America,High income,Implemented,2025,23.32
+ETS_RGGI,RGGI,ETS,RGGI,North America,High income,Implemented,2026,26.43
+ETS_JP_Saitama,Saitama ETS,ETS,Saitama,East Asia & Pacific,High income,Implemented,2011,119.82
+ETS_JP_Saitama,Saitama ETS,ETS,Saitama,East Asia & Pacific,High income,Implemented,2012,116.86
+ETS_JP_Saitama,Saitama ETS,ETS,Saitama,East Asia & Pacific,High income,Implemented,2013,86.27
+ETS_JP_Saitama,Saitama ETS,ETS,Saitama,East Asia & Pacific,High income,Implemented,2014,67.78
+ETS_JP_Saitama,Saitama ETS,ETS,Saitama,East Asia & Pacific,High income,Implemented,2015,37.52
+ETS_JP_Saitama,Saitama ETS,ETS,Saitama,East Asia & Pacific,High income,Implemented,2016,13.37
+ETS_JP_Saitama,Saitama ETS,ETS,Saitama,East Asia & Pacific,High income,Implemented,2017,13.39
+ETS_JP_Saitama,Saitama ETS,ETS,Saitama,East Asia & Pacific,High income,Implemented,2018,5.65
+ETS_JP_Saitama,Saitama ETS,ETS,Saitama,East Asia & Pacific,High income,Implemented,2019,5.85
+ETS_JP_Saitama,Saitama ETS,ETS,Saitama,East Asia & Pacific,High income,Implemented,2020,5.58
+ETS_JP_Saitama,Saitama ETS,ETS,Saitama,East Asia & Pacific,High income,Implemented,2021,5.42
+ETS_JP_Saitama,Saitama ETS,ETS,Saitama,East Asia & Pacific,High income,Implemented,2022,3.84
+ETS_JP_Saitama,Saitama ETS,ETS,Saitama,East Asia & Pacific,High income,Implemented,2023,1.08
+ETS_JP_Saitama,Saitama ETS,ETS,Saitama,East Asia & Pacific,High income,Implemented,2024,0.95
+ETS_JP_Saitama,Saitama ETS,ETS,Saitama,East Asia & Pacific,High income,Implemented,2025,0.96
+ETS_JP_Saitama,Saitama ETS,ETS,Saitama,East Asia & Pacific,High income,Implemented,2026,0.96
+Tax_MX_SLP,San Luis Potosí carbon tax,Carbon tax,San Luis Potosí,Latin America & Caribbean,Upper middle income,Implemented,1990,0.0
+Tax_MX_SLP,San Luis Potosí carbon tax,Carbon tax,San Luis Potosí,Latin America & Caribbean,Upper middle income,Implemented,1991,0.0
+Tax_MX_SLP,San Luis Potosí carbon tax,Carbon tax,San Luis Potosí,Latin America & Caribbean,Upper middle income,Implemented,1992,0.0
+Tax_MX_SLP,San Luis Potosí carbon tax,Carbon tax,San Luis Potosí,Latin America & Caribbean,Upper middle income,Implemented,1993,0.0
+Tax_MX_SLP,San Luis Potosí carbon tax,Carbon tax,San Luis Potosí,Latin America & Caribbean,Upper middle income,Implemented,1994,0.0
+Tax_MX_SLP,San Luis Potosí carbon tax,Carbon tax,San Luis Potosí,Latin America & Caribbean,Upper middle income,Implemented,1995,0.0
+Tax_MX_SLP,San Luis Potosí carbon tax,Carbon tax,San Luis Potosí,Latin America & Caribbean,Upper middle income,Implemented,1996,0.0
+Tax_MX_SLP,San Luis Potosí carbon tax,Carbon tax,San Luis Potosí,Latin America & Caribbean,Upper middle income,Implemented,1997,0.0
+Tax_MX_SLP,San Luis Potosí carbon tax,Carbon tax,San Luis Potosí,Latin America & Caribbean,Upper middle income,Implemented,1998,0.0
+Tax_MX_SLP,San Luis Potosí carbon tax,Carbon tax,San Luis Potosí,Latin America & Caribbean,Upper middle income,Implemented,1999,0.0
+Tax_MX_SLP,San Luis Potosí carbon tax,Carbon tax,San Luis Potosí,Latin America & Caribbean,Upper middle income,Implemented,2000,0.0
+Tax_MX_SLP,San Luis Potosí carbon tax,Carbon tax,San Luis Potosí,Latin America & Caribbean,Upper middle income,Implemented,2001,0.0
+Tax_MX_SLP,San Luis Potosí carbon tax,Carbon tax,San Luis Potosí,Latin America & Caribbean,Upper middle income,Implemented,2002,0.0
+Tax_MX_SLP,San Luis Potosí carbon tax,Carbon tax,San Luis Potosí,Latin America & Caribbean,Upper middle income,Implemented,2003,0.0
+Tax_MX_SLP,San Luis Potosí carbon tax,Carbon tax,San Luis Potosí,Latin America & Caribbean,Upper middle income,Implemented,2004,0.0
+Tax_MX_SLP,San Luis Potosí carbon tax,Carbon tax,San Luis Potosí,Latin America & Caribbean,Upper middle income,Implemented,2005,0.0
+Tax_MX_SLP,San Luis Potosí carbon tax,Carbon tax,San Luis Potosí,Latin America & Caribbean,Upper middle income,Implemented,2006,0.0
+Tax_MX_SLP,San Luis Potosí carbon tax,Carbon tax,San Luis Potosí,Latin America & Caribbean,Upper middle income,Implemented,2007,0.0
+Tax_MX_SLP,San Luis Potosí carbon tax,Carbon tax,San Luis Potosí,Latin America & Caribbean,Upper middle income,Implemented,2008,0.0
+Tax_MX_SLP,San Luis Potosí carbon tax,Carbon tax,San Luis Potosí,Latin America & Caribbean,Upper middle income,Implemented,2009,0.0
+Tax_MX_SLP,San Luis Potosí carbon tax,Carbon tax,San Luis Potosí,Latin America & Caribbean,Upper middle income,Implemented,2010,0.0
+Tax_MX_SLP,San Luis Potosí carbon tax,Carbon tax,San Luis Potosí,Latin America & Caribbean,Upper middle income,Implemented,2011,0.0
+Tax_MX_SLP,San Luis Potosí carbon tax,Carbon tax,San Luis Potosí,Latin America & Caribbean,Upper middle income,Implemented,2012,0.0
+Tax_MX_SLP,San Luis Potosí carbon tax,Carbon tax,San Luis Potosí,Latin America & Caribbean,Upper middle income,Implemented,2013,0.0
+Tax_MX_SLP,San Luis Potosí carbon tax,Carbon tax,San Luis Potosí,Latin America & Caribbean,Upper middle income,Implemented,2014,0.0
+Tax_MX_SLP,San Luis Potosí carbon tax,Carbon tax,San Luis Potosí,Latin America & Caribbean,Upper middle income,Implemented,2015,0.0
+Tax_MX_SLP,San Luis Potosí carbon tax,Carbon tax,San Luis Potosí,Latin America & Caribbean,Upper middle income,Implemented,2016,0.0
+Tax_MX_SLP,San Luis Potosí carbon tax,Carbon tax,San Luis Potosí,Latin America & Caribbean,Upper middle income,Implemented,2017,0.0
+Tax_MX_SLP,San Luis Potosí carbon tax,Carbon tax,San Luis Potosí,Latin America & Caribbean,Upper middle income,Implemented,2018,0.0
+Tax_MX_SLP,San Luis Potosí carbon tax,Carbon tax,San Luis Potosí,Latin America & Caribbean,Upper middle income,Implemented,2019,0.0
+Tax_MX_SLP,San Luis Potosí carbon tax,Carbon tax,San Luis Potosí,Latin America & Caribbean,Upper middle income,Implemented,2020,0.0
+Tax_MX_SLP,San Luis Potosí carbon tax,Carbon tax,San Luis Potosí,Latin America & Caribbean,Upper middle income,Implemented,2021,0.0
+Tax_MX_SLP,San Luis Potosí carbon tax,Carbon tax,San Luis Potosí,Latin America & Caribbean,Upper middle income,Implemented,2022,0.0
+Tax_MX_SLP,San Luis Potosí carbon tax,Carbon tax,San Luis Potosí,Latin America & Caribbean,Upper middle income,Implemented,2023,0.0
+Tax_MX_SLP,San Luis Potosí carbon tax,Carbon tax,San Luis Potosí,Latin America & Caribbean,Upper middle income,Implemented,2024,0.0
+Tax_MX_SLP,San Luis Potosí carbon tax,Carbon tax,San Luis Potosí,Latin America & Caribbean,Upper middle income,Implemented,2025,16.67
+Tax_MX_SLP,San Luis Potosí carbon tax,Carbon tax,San Luis Potosí,Latin America & Caribbean,Upper middle income,Implemented,2026,19.76
+ETS_CA_SK,Saskatchewan OBPS,ETS,Saskatchewan,North America,High income,Abolished,2021,31.83
+ETS_CA_SK,Saskatchewan OBPS,ETS,Saskatchewan,North America,High income,Abolished,2022,39.96
+ETS_CA_SK,Saskatchewan OBPS,ETS,Saskatchewan,North America,High income,Abolished,2023,48.03
+ETS_CA_SK,Saskatchewan OBPS,ETS,Saskatchewan,North America,High income,Abolished,2024,58.94
+ETS_CN_Shanghai,Shanghai pilot ETS,ETS,Shanghai,East Asia & Pacific,Upper middle income,Implemented,2013,0.0
+ETS_CN_Shanghai,Shanghai pilot ETS,ETS,Shanghai,East Asia & Pacific,Upper middle income,Implemented,2014,6.42
+ETS_CN_Shanghai,Shanghai pilot ETS,ETS,Shanghai,East Asia & Pacific,Upper middle income,Implemented,2015,4.73
+ETS_CN_Shanghai,Shanghai pilot ETS,ETS,Shanghai,East Asia & Pacific,Upper middle income,Implemented,2016,0.93
+ETS_CN_Shanghai,Shanghai pilot ETS,ETS,Shanghai,East Asia & Pacific,Upper middle income,Implemented,2017,4.57
+ETS_CN_Shanghai,Shanghai pilot ETS,ETS,Shanghai,East Asia & Pacific,Upper middle income,Implemented,2018,6.21
+ETS_CN_Shanghai,Shanghai pilot ETS,ETS,Shanghai,East Asia & Pacific,Upper middle income,Implemented,2019,6.09
+ETS_CN_Shanghai,Shanghai pilot ETS,ETS,Shanghai,East Asia & Pacific,Upper middle income,Implemented,2020,5.07
+ETS_CN_Shanghai,Shanghai pilot ETS,ETS,Shanghai,East Asia & Pacific,Upper middle income,Implemented,2021,6.32
+ETS_CN_Shanghai,Shanghai pilot ETS,ETS,Shanghai,East Asia & Pacific,Upper middle income,Implemented,2022,9.28
+ETS_CN_Shanghai,Shanghai pilot ETS,ETS,Shanghai,East Asia & Pacific,Upper middle income,Implemented,2023,8.72
+ETS_CN_Shanghai,Shanghai pilot ETS,ETS,Shanghai,East Asia & Pacific,Upper middle income,Implemented,2024,10.06
+ETS_CN_Shanghai,Shanghai pilot ETS,ETS,Shanghai,East Asia & Pacific,Upper middle income,Implemented,2025,10.8
+ETS_CN_Shanghai,Shanghai pilot ETS,ETS,Shanghai,East Asia & Pacific,Upper middle income,Implemented,2026,9.05
+ETS_CN_Shenzhen,Shenzhen pilot ETS,ETS,Shenzhen,East Asia & Pacific,Upper middle income,Implemented,2013,4.64
+ETS_CN_Shenzhen,Shenzhen pilot ETS,ETS,Shenzhen,East Asia & Pacific,Upper middle income,Implemented,2014,12.99
+ETS_CN_Shenzhen,Shenzhen pilot ETS,ETS,Shenzhen,East Asia & Pacific,Upper middle income,Implemented,2015,5.98
+ETS_CN_Shenzhen,Shenzhen pilot ETS,ETS,Shenzhen,East Asia & Pacific,Upper middle income,Implemented,2016,5.67
+ETS_CN_Shenzhen,Shenzhen pilot ETS,ETS,Shenzhen,East Asia & Pacific,Upper middle income,Implemented,2017,5.36
+ETS_CN_Shenzhen,Shenzhen pilot ETS,ETS,Shenzhen,East Asia & Pacific,Upper middle income,Implemented,2018,6.74
+ETS_CN_Shenzhen,Shenzhen pilot ETS,ETS,Shenzhen,East Asia & Pacific,Upper middle income,Implemented,2019,0.55
+ETS_CN_Shenzhen,Shenzhen pilot ETS,ETS,Shenzhen,East Asia & Pacific,Upper middle income,Implemented,2020,2.38
+ETS_CN_Shenzhen,Shenzhen pilot ETS,ETS,Shenzhen,East Asia & Pacific,Upper middle income,Implemented,2021,1.12
+ETS_CN_Shenzhen,Shenzhen pilot ETS,ETS,Shenzhen,East Asia & Pacific,Upper middle income,Implemented,2022,0.64
+ETS_CN_Shenzhen,Shenzhen pilot ETS,ETS,Shenzhen,East Asia & Pacific,Upper middle income,Implemented,2023,8.77
+ETS_CN_Shenzhen,Shenzhen pilot ETS,ETS,Shenzhen,East Asia & Pacific,Upper middle income,Implemented,2024,8.96
+ETS_CN_Shenzhen,Shenzhen pilot ETS,ETS,Shenzhen,East Asia & Pacific,Upper middle income,Implemented,2025,6.53
+ETS_CN_Shenzhen,Shenzhen pilot ETS,ETS,Shenzhen,East Asia & Pacific,Upper middle income,Implemented,2026,6.69
+Tax_SG,Singapore carbon tax,Carbon tax,Singapore,East Asia & Pacific,High income,Implemented,2019,3.69
+Tax_SG,Singapore carbon tax,Carbon tax,Singapore,East Asia & Pacific,High income,Implemented,2020,3.51
+Tax_SG,Singapore carbon tax,Carbon tax,Singapore,East Asia & Pacific,High income,Implemented,2021,3.71
+Tax_SG,Singapore carbon tax,Carbon tax,Singapore,East Asia & Pacific,High income,Implemented,2022,3.69
+Tax_SG,Singapore carbon tax,Carbon tax,Singapore,East Asia & Pacific,High income,Implemented,2023,3.77
+Tax_SG,Singapore carbon tax,Carbon tax,Singapore,East Asia & Pacific,High income,Implemented,2024,18.48
+Tax_SG,Singapore carbon tax,Carbon tax,Singapore,East Asia & Pacific,High income,Implemented,2025,18.62
+Tax_SG,Singapore carbon tax,Carbon tax,Singapore,East Asia & Pacific,High income,Implemented,2026,34.99
+Tax_SL,Slovenia carbon tax,Carbon tax,Slovenia,Europe & Central Asia,High income,Implemented,1996,7.48
+Tax_SL,Slovenia carbon tax,Carbon tax,Slovenia,Europe & Central Asia,High income,Implemented,1997,6.53
+Tax_SL,Slovenia carbon tax,Carbon tax,Slovenia,Europe & Central Asia,High income,Implemented,1998,17.26
+Tax_SL,Slovenia carbon tax,Carbon tax,Slovenia,Europe & Central Asia,High income,Implemented,1999,16.92
+Tax_SL,Slovenia carbon tax,Carbon tax,Slovenia,Europe & Central Asia,High income,Implemented,2000,14.17
+Tax_SL,Slovenia carbon tax,Carbon tax,Slovenia,Europe & Central Asia,High income,Implemented,2001,12.29
+Tax_SL,Slovenia carbon tax,Carbon tax,Slovenia,Europe & Central Asia,High income,Implemented,2002,11.66
+Tax_SL,Slovenia carbon tax,Carbon tax,Slovenia,Europe & Central Asia,High income,Implemented,2003,14.09
+Tax_SL,Slovenia carbon tax,Carbon tax,Slovenia,Europe & Central Asia,High income,Implemented,2004,15.46
+Tax_SL,Slovenia carbon tax,Carbon tax,Slovenia,Europe & Central Asia,High income,Implemented,2005,16.53
+Tax_SL,Slovenia carbon tax,Carbon tax,Slovenia,Europe & Central Asia,High income,Implemented,2006,15.14
+Tax_SL,Slovenia carbon tax,Carbon tax,Slovenia,Europe & Central Asia,High income,Implemented,2007,16.65
+Tax_SL,Slovenia carbon tax,Carbon tax,Slovenia,Europe & Central Asia,High income,Implemented,2008,19.57
+Tax_SL,Slovenia carbon tax,Carbon tax,Slovenia,Europe & Central Asia,High income,Implemented,2009,16.56
+Tax_SL,Slovenia carbon tax,Carbon tax,Slovenia,Europe & Central Asia,High income,Implemented,2010,16.84
+Tax_SL,Slovenia carbon tax,Carbon tax,Slovenia,Europe & Central Asia,High income,Implemented,2011,17.68
+Tax_SL,Slovenia carbon tax,Carbon tax,Slovenia,Europe & Central Asia,High income,Implemented,2012,19.23
+Tax_SL,Slovenia carbon tax,Carbon tax,Slovenia,Europe & Central Asia,High income,Implemented,2013,18.44
+Tax_SL,Slovenia carbon tax,Carbon tax,Slovenia,Europe & Central Asia,High income,Implemented,2014,19.86
+Tax_SL,Slovenia carbon tax,Carbon tax,Slovenia,Europe & Central Asia,High income,Implemented,2015,18.58
+Tax_SL,Slovenia carbon tax,Carbon tax,Slovenia,Europe & Central Asia,High income,Implemented,2016,19.78
+Tax_SL,Slovenia carbon tax,Carbon tax,Slovenia,Europe & Central Asia,High income,Implemented,2017,18.5
+Tax_SL,Slovenia carbon tax,Carbon tax,Slovenia,Europe & Central Asia,High income,Implemented,2018,21.32
+Tax_SL,Slovenia carbon tax,Carbon tax,Slovenia,Europe & Central Asia,High income,Implemented,2019,19.44
+Tax_SL,Slovenia carbon tax,Carbon tax,Slovenia,Europe & Central Asia,High income,Implemented,2020,18.92
+Tax_SL,Slovenia carbon tax,Carbon tax,Slovenia,Europe & Central Asia,High income,Implemented,2021,20.32
+Tax_SL,Slovenia carbon tax,Carbon tax,Slovenia,Europe & Central Asia,High income,Implemented,2022,19.12
+Tax_SL,Slovenia carbon tax,Carbon tax,Slovenia,Europe & Central Asia,High income,Implemented,2023,0.0
+Tax_SL,Slovenia carbon tax,Carbon tax,Slovenia,Europe & Central Asia,High income,Implemented,2024,18.6
+Tax_SL,Slovenia carbon tax,Carbon tax,Slovenia,Europe & Central Asia,High income,Implemented,2025,33.28
+Tax_SL,Slovenia carbon tax,Carbon tax,Slovenia,Europe & Central Asia,High income,Implemented,2026,35.8
+Tax_ZA,South Africa carbon tax,Carbon tax,South Africa,Sub-Saharan Africa,Upper middle income,Implemented,2020,7.06
+Tax_ZA,South Africa carbon tax,Carbon tax,South Africa,Sub-Saharan Africa,Upper middle income,Implemented,2021,9.15
+Tax_ZA,South Africa carbon tax,Carbon tax,South Africa,Sub-Saharan Africa,Upper middle income,Implemented,2022,9.84
+Tax_ZA,South Africa carbon tax,Carbon tax,South Africa,Sub-Saharan Africa,Upper middle income,Implemented,2023,8.93
+Tax_ZA,South Africa carbon tax,Carbon tax,South Africa,Sub-Saharan Africa,Upper middle income,Implemented,2024,10.09
+Tax_ZA,South Africa carbon tax,Carbon tax,South Africa,Sub-Saharan Africa,Upper middle income,Implemented,2025,12.85
+Tax_ZA,South Africa carbon tax,Carbon tax,South Africa,Sub-Saharan Africa,Upper middle income,Implemented,2026,18.28
+Tax_ES,Spain carbon tax,Carbon tax,Spain,Europe & Central Asia,High income,Implemented,2014,27.58
+Tax_ES,Spain carbon tax,Carbon tax,Spain,Europe & Central Asia,High income,Implemented,2015,21.51
+Tax_ES,Spain carbon tax,Carbon tax,Spain,Europe & Central Asia,High income,Implemented,2016,22.86
+Tax_ES,Spain carbon tax,Carbon tax,Spain,Europe & Central Asia,High income,Implemented,2017,21.38
+Tax_ES,Spain carbon tax,Carbon tax,Spain,Europe & Central Asia,High income,Implemented,2018,24.64
+Tax_ES,Spain carbon tax,Carbon tax,Spain,Europe & Central Asia,High income,Implemented,2019,16.85
+Tax_ES,Spain carbon tax,Carbon tax,Spain,Europe & Central Asia,High income,Implemented,2020,16.4
+Tax_ES,Spain carbon tax,Carbon tax,Spain,Europe & Central Asia,High income,Implemented,2021,17.62
+Tax_ES,Spain carbon tax,Carbon tax,Spain,Europe & Central Asia,High income,Implemented,2022,16.58
+Tax_ES,Spain carbon tax,Carbon tax,Spain,Europe & Central Asia,High income,Implemented,2023,16.31
+Tax_ES,Spain carbon tax,Carbon tax,Spain,Europe & Central Asia,High income,Implemented,2024,16.12
+Tax_ES,Spain carbon tax,Carbon tax,Spain,Europe & Central Asia,High income,Implemented,2025,16.18
+Tax_ES,Spain carbon tax,Carbon tax,Spain,Europe & Central Asia,High income,Implemented,2026,17.41
+Tax_MX_SoMexico,State of Mexico carbon tax,Carbon tax,State of Mexico,Latin America & Caribbean,Upper middle income,Implemented,2023,2.38
+Tax_MX_SoMexico,State of Mexico carbon tax,Carbon tax,State of Mexico,Latin America & Caribbean,Upper middle income,Implemented,2024,3.5
+Tax_MX_SoMexico,State of Mexico carbon tax,Carbon tax,State of Mexico,Latin America & Caribbean,Upper middle income,Implemented,2025,2.85
+Tax_MX_SoMexico,State of Mexico carbon tax,Carbon tax,State of Mexico,Latin America & Caribbean,Upper middle income,Implemented,2026,2.41
+Tax_SE,Sweden carbon tax,Carbon tax,Sweden,Europe & Central Asia,High income,Implemented,1991,41.31
+Tax_SE,Sweden carbon tax,Carbon tax,Sweden,Europe & Central Asia,High income,Implemented,1992,42.91
+Tax_SE,Sweden carbon tax,Carbon tax,Sweden,Europe & Central Asia,High income,Implemented,1993,41.05
+Tax_SE,Sweden carbon tax,Carbon tax,Sweden,Europe & Central Asia,High income,Implemented,1994,43.43
+Tax_SE,Sweden carbon tax,Carbon tax,Sweden,Europe & Central Asia,High income,Implemented,1995,46.12
+Tax_SE,Sweden carbon tax,Carbon tax,Sweden,Europe & Central Asia,High income,Implemented,1996,55.65
+Tax_SE,Sweden carbon tax,Carbon tax,Sweden,Europe & Central Asia,High income,Implemented,1997,49.12
+Tax_SE,Sweden carbon tax,Carbon tax,Sweden,Europe & Central Asia,High income,Implemented,1998,46.28
+Tax_SE,Sweden carbon tax,Carbon tax,Sweden,Europe & Central Asia,High income,Implemented,1999,44.62
+Tax_SE,Sweden carbon tax,Carbon tax,Sweden,Europe & Central Asia,High income,Implemented,2000,42.68
+Tax_SE,Sweden carbon tax,Carbon tax,Sweden,Europe & Central Asia,High income,Implemented,2001,51.02
+Tax_SE,Sweden carbon tax,Carbon tax,Sweden,Europe & Central Asia,High income,Implemented,2002,60.94
+Tax_SE,Sweden carbon tax,Carbon tax,Sweden,Europe & Central Asia,High income,Implemented,2003,89.65
+Tax_SE,Sweden carbon tax,Carbon tax,Sweden,Europe & Central Asia,High income,Implemented,2004,120.53
+Tax_SE,Sweden carbon tax,Carbon tax,Sweden,Europe & Central Asia,High income,Implemented,2005,128.8
+Tax_SE,Sweden carbon tax,Carbon tax,Sweden,Europe & Central Asia,High income,Implemented,2006,118.79
+Tax_SE,Sweden carbon tax,Carbon tax,Sweden,Europe & Central Asia,High income,Implemented,2007,132.86
+Tax_SE,Sweden carbon tax,Carbon tax,Sweden,Europe & Central Asia,High income,Implemented,2008,168.83
+Tax_SE,Sweden carbon tax,Carbon tax,Sweden,Europe & Central Asia,High income,Implemented,2009,126.58
+Tax_SE,Sweden carbon tax,Carbon tax,Sweden,Europe & Central Asia,High income,Implemented,2010,145.48
+Tax_SE,Sweden carbon tax,Carbon tax,Sweden,Europe & Central Asia,High income,Implemented,2011,166.07
+Tax_SE,Sweden carbon tax,Carbon tax,Sweden,Europe & Central Asia,High income,Implemented,2012,163.12
+Tax_SE,Sweden carbon tax,Carbon tax,Sweden,Europe & Central Asia,High income,Implemented,2013,165.74
+Tax_SE,Sweden carbon tax,Carbon tax,Sweden,Europe & Central Asia,High income,Implemented,2014,167.42
+Tax_SE,Sweden carbon tax,Carbon tax,Sweden,Europe & Central Asia,High income,Implemented,2015,129.81
+Tax_SE,Sweden carbon tax,Carbon tax,Sweden,Europe & Central Asia,High income,Implemented,2016,137.83
+Tax_SE,Sweden carbon tax,Carbon tax,Sweden,Europe & Central Asia,High income,Implemented,2017,126.49
+Tax_SE,Sweden carbon tax,Carbon tax,Sweden,Europe & Central Asia,High income,Implemented,2018,141.16
+Tax_SE,Sweden carbon tax,Carbon tax,Sweden,Europe & Central Asia,High income,Implemented,2019,127.53
+Tax_SE,Sweden carbon tax,Carbon tax,Sweden,Europe & Central Asia,High income,Implemented,2020,119.43
+Tax_SE,Sweden carbon tax,Carbon tax,Sweden,Europe & Central Asia,High income,Implemented,2021,136.1
+Tax_SE,Sweden carbon tax,Carbon tax,Sweden,Europe & Central Asia,High income,Implemented,2022,129.89
+Tax_SE,Sweden carbon tax,Carbon tax,Sweden,Europe & Central Asia,High income,Implemented,2023,125.56
+Tax_SE,Sweden carbon tax,Carbon tax,Sweden,Europe & Central Asia,High income,Implemented,2024,123.7
+Tax_SE,Sweden carbon tax,Carbon tax,Sweden,Europe & Central Asia,High income,Implemented,2025,144.62
+Tax_SE,Sweden carbon tax,Carbon tax,Sweden,Europe & Central Asia,High income,Implemented,2026,154.55
+Tax_CH,Switzerland carbon tax,Carbon tax,Switzerland,Europe & Central Asia,High income,Implemented,2008,11.92
+Tax_CH,Switzerland carbon tax,Carbon tax,Switzerland,Europe & Central Asia,High income,Implemented,2009,21.04
+Tax_CH,Switzerland carbon tax,Carbon tax,Switzerland,Europe & Central Asia,High income,Implemented,2010,34.21
+Tax_CH,Switzerland carbon tax,Carbon tax,Switzerland,Europe & Central Asia,High income,Implemented,2011,39.02
+Tax_CH,Switzerland carbon tax,Carbon tax,Switzerland,Europe & Central Asia,High income,Implemented,2012,39.86
+Tax_CH,Switzerland carbon tax,Carbon tax,Switzerland,Europe & Central Asia,High income,Implemented,2013,37.81
+Tax_CH,Switzerland carbon tax,Carbon tax,Switzerland,Europe & Central Asia,High income,Implemented,2014,67.94
+Tax_CH,Switzerland carbon tax,Carbon tax,Switzerland,Europe & Central Asia,High income,Implemented,2015,61.96
+Tax_CH,Switzerland carbon tax,Carbon tax,Switzerland,Europe & Central Asia,High income,Implemented,2016,87.58
+Tax_CH,Switzerland carbon tax,Carbon tax,Switzerland,Europe & Central Asia,High income,Implemented,2017,83.92
+Tax_CH,Switzerland carbon tax,Carbon tax,Switzerland,Europe & Central Asia,High income,Implemented,2018,100.33
+Tax_CH,Switzerland carbon tax,Carbon tax,Switzerland,Europe & Central Asia,High income,Implemented,2019,96.46
+Tax_CH,Switzerland carbon tax,Carbon tax,Switzerland,Europe & Central Asia,High income,Implemented,2020,99.44
+Tax_CH,Switzerland carbon tax,Carbon tax,Switzerland,Europe & Central Asia,High income,Implemented,2021,101.47
+Tax_CH,Switzerland carbon tax,Carbon tax,Switzerland,Europe & Central Asia,High income,Implemented,2022,129.86
+Tax_CH,Switzerland carbon tax,Carbon tax,Switzerland,Europe & Central Asia,High income,Implemented,2023,130.81
+Tax_CH,Switzerland carbon tax,Carbon tax,Switzerland,Europe & Central Asia,High income,Implemented,2024,132.12
+Tax_CH,Switzerland carbon tax,Carbon tax,Switzerland,Europe & Central Asia,High income,Implemented,2025,136.04
+Tax_CH,Switzerland carbon tax,Carbon tax,Switzerland,Europe & Central Asia,High income,Implemented,2026,149.81
+ETS_CH,Switzerland ETS,ETS,Switzerland,Europe & Central Asia,High income,Implemented,2008,0.0
+ETS_CH,Switzerland ETS,ETS,Switzerland,Europe & Central Asia,High income,Implemented,2009,0.0
+ETS_CH,Switzerland ETS,ETS,Switzerland,Europe & Central Asia,High income,Implemented,2010,0.0
+ETS_CH,Switzerland ETS,ETS,Switzerland,Europe & Central Asia,High income,Implemented,2011,25.45
+ETS_CH,Switzerland ETS,ETS,Switzerland,Europe & Central Asia,High income,Implemented,2012,24.04
+ETS_CH,Switzerland ETS,ETS,Switzerland,Europe & Central Asia,High income,Implemented,2013,0.0
+ETS_CH,Switzerland ETS,ETS,Switzerland,Europe & Central Asia,High income,Implemented,2014,55.5
+ETS_CH,Switzerland ETS,ETS,Switzerland,Europe & Central Asia,High income,Implemented,2015,12.91
+ETS_CH,Switzerland ETS,ETS,Switzerland,Europe & Central Asia,High income,Implemented,2016,10.29
+ETS_CH,Switzerland ETS,ETS,Switzerland,Europe & Central Asia,High income,Implemented,2017,6.95
+ETS_CH,Switzerland ETS,ETS,Switzerland,Europe & Central Asia,High income,Implemented,2018,9.24
+ETS_CH,Switzerland ETS,ETS,Switzerland,Europe & Central Asia,High income,Implemented,2019,8.03
+ETS_CH,Switzerland ETS,ETS,Switzerland,Europe & Central Asia,High income,Implemented,2020,19.85
+ETS_CH,Switzerland ETS,ETS,Switzerland,Europe & Central Asia,High income,Implemented,2021,46.1
+ETS_CH,Switzerland ETS,ETS,Switzerland,Europe & Central Asia,High income,Implemented,2022,65.59
+ETS_CH,Switzerland ETS,ETS,Switzerland,Europe & Central Asia,High income,Implemented,2023,93.81
+ETS_CH,Switzerland ETS,ETS,Switzerland,Europe & Central Asia,High income,Implemented,2024,59.17
+ETS_CH,Switzerland ETS,ETS,Switzerland,Europe & Central Asia,High income,Implemented,2025,64.75
+ETS_CH,Switzerland ETS,ETS,Switzerland,Europe & Central Asia,High income,Implemented,2026,99.25
+Tax_CN_Taiwan,Taiwan China carbon fee,Carbon tax,Taiwan China,East Asia & Pacific,High income,Implemented,2019,0.0
+Tax_CN_Taiwan,Taiwan China carbon fee,Carbon tax,Taiwan China,East Asia & Pacific,High income,Implemented,2024,9.12
+Tax_CN_Taiwan,Taiwan China carbon fee,Carbon tax,Taiwan China,East Asia & Pacific,High income,Implemented,2025,9.08
+Tax_CN_Taiwan,Taiwan China carbon fee,Carbon tax,Taiwan China,East Asia & Pacific,High income,Implemented,2026,9.39
+Tax_MX_TA,Tamaulipas carbon tax,Carbon tax,Tamaulipas,Latin America & Caribbean,Upper middle income,Implemented,2022,13.1
+Tax_MX_TA,Tamaulipas carbon tax,Carbon tax,Tamaulipas,Latin America & Caribbean,Upper middle income,Implemented,2023,17.25
+Tax_MX_TA,Tamaulipas carbon tax,Carbon tax,Tamaulipas,Latin America & Caribbean,Upper middle income,Implemented,2024,19.66
+Tax_MX_TA,Tamaulipas carbon tax,Carbon tax,Tamaulipas,Latin America & Caribbean,Upper middle income,Implemented,2025,16.67
+Tax_MX_TA,Tamaulipas carbon tax,Carbon tax,Tamaulipas,Latin America & Caribbean,Upper middle income,Implemented,2026,19.76
+ETS_CN_Tianjin,Tianjin pilot ETS,ETS,Tianjin,East Asia & Pacific,Upper middle income,Implemented,2013,0.0
+ETS_CN_Tianjin,Tianjin pilot ETS,ETS,Tianjin,East Asia & Pacific,Upper middle income,Implemented,2014,5.69
+ETS_CN_Tianjin,Tianjin pilot ETS,ETS,Tianjin,East Asia & Pacific,Upper middle income,Implemented,2015,4.21
+ETS_CN_Tianjin,Tianjin pilot ETS,ETS,Tianjin,East Asia & Pacific,Upper middle income,Implemented,2016,3.58
+ETS_CN_Tianjin,Tianjin pilot ETS,ETS,Tianjin,East Asia & Pacific,Upper middle income,Implemented,2017,1.97
+ETS_CN_Tianjin,Tianjin pilot ETS,ETS,Tianjin,East Asia & Pacific,Upper middle income,Implemented,2018,1.36
+ETS_CN_Tianjin,Tianjin pilot ETS,ETS,Tianjin,East Asia & Pacific,Upper middle income,Implemented,2019,1.73
+ETS_CN_Tianjin,Tianjin pilot ETS,ETS,Tianjin,East Asia & Pacific,Upper middle income,Implemented,2020,2.82
+ETS_CN_Tianjin,Tianjin pilot ETS,ETS,Tianjin,East Asia & Pacific,Upper middle income,Implemented,2021,3.8
+ETS_CN_Tianjin,Tianjin pilot ETS,ETS,Tianjin,East Asia & Pacific,Upper middle income,Implemented,2022,4.4
+ETS_CN_Tianjin,Tianjin pilot ETS,ETS,Tianjin,East Asia & Pacific,Upper middle income,Implemented,2023,4.6
+ETS_CN_Tianjin,Tianjin pilot ETS,ETS,Tianjin,East Asia & Pacific,Upper middle income,Implemented,2024,4.71
+ETS_CN_Tianjin,Tianjin pilot ETS,ETS,Tianjin,East Asia & Pacific,Upper middle income,Implemented,2025,5.3
+ETS_CN_Tianjin,Tianjin pilot ETS,ETS,Tianjin,East Asia & Pacific,Upper middle income,Implemented,2026,4.36
+ETS_JP_Tokyo,Tokyo CaT,ETS,Tokyo,East Asia & Pacific,High income,Implemented,2010,0.0
+ETS_JP_Tokyo,Tokyo CaT,ETS,Tokyo,East Asia & Pacific,High income,Implemented,2011,0.0
+ETS_JP_Tokyo,Tokyo CaT,ETS,Tokyo,East Asia & Pacific,High income,Implemented,2012,116.86
+ETS_JP_Tokyo,Tokyo CaT,ETS,Tokyo,East Asia & Pacific,High income,Implemented,2013,86.27
+ETS_JP_Tokyo,Tokyo CaT,ETS,Tokyo,East Asia & Pacific,High income,Implemented,2014,67.78
+ETS_JP_Tokyo,Tokyo CaT,ETS,Tokyo,East Asia & Pacific,High income,Implemented,2015,37.52
+ETS_JP_Tokyo,Tokyo CaT,ETS,Tokyo,East Asia & Pacific,High income,Implemented,2016,13.37
+ETS_JP_Tokyo,Tokyo CaT,ETS,Tokyo,East Asia & Pacific,High income,Implemented,2017,13.39
+ETS_JP_Tokyo,Tokyo CaT,ETS,Tokyo,East Asia & Pacific,High income,Implemented,2018,6.12
+ETS_JP_Tokyo,Tokyo CaT,ETS,Tokyo,East Asia & Pacific,High income,Implemented,2019,5.85
+ETS_JP_Tokyo,Tokyo CaT,ETS,Tokyo,East Asia & Pacific,High income,Implemented,2020,5.58
+ETS_JP_Tokyo,Tokyo CaT,ETS,Tokyo,East Asia & Pacific,High income,Implemented,2021,4.87
+ETS_JP_Tokyo,Tokyo CaT,ETS,Tokyo,East Asia & Pacific,High income,Implemented,2022,4.42
+ETS_JP_Tokyo,Tokyo CaT,ETS,Tokyo,East Asia & Pacific,High income,Implemented,2023,5.24
+ETS_JP_Tokyo,Tokyo CaT,ETS,Tokyo,East Asia & Pacific,High income,Implemented,2024,36.91
+ETS_JP_Tokyo,Tokyo CaT,ETS,Tokyo,East Asia & Pacific,High income,Implemented,2025,4.01
+ETS_JP_Tokyo,Tokyo CaT,ETS,Tokyo,East Asia & Pacific,High income,Implemented,2026,3.68
+Tax_UA,Ukraine carbon tax,Carbon tax,Ukraine,Europe & Central Asia,Upper middle income,Implemented,2016,0.01
+Tax_UA,Ukraine carbon tax,Carbon tax,Ukraine,Europe & Central Asia,Upper middle income,Implemented,2017,0.01
+Tax_UA,Ukraine carbon tax,Carbon tax,Ukraine,Europe & Central Asia,Upper middle income,Implemented,2018,0.02
+Tax_UA,Ukraine carbon tax,Carbon tax,Ukraine,Europe & Central Asia,Upper middle income,Implemented,2019,0.37
+Tax_UA,Ukraine carbon tax,Carbon tax,Ukraine,Europe & Central Asia,Upper middle income,Implemented,2020,0.38
+Tax_UA,Ukraine carbon tax,Carbon tax,Ukraine,Europe & Central Asia,Upper middle income,Implemented,2021,0.36
+Tax_UA,Ukraine carbon tax,Carbon tax,Ukraine,Europe & Central Asia,Upper middle income,Implemented,2022,1.03
+Tax_UA,Ukraine carbon tax,Carbon tax,Ukraine,Europe & Central Asia,Upper middle income,Implemented,2023,0.82
+Tax_UA,Ukraine carbon tax,Carbon tax,Ukraine,Europe & Central Asia,Upper middle income,Implemented,2024,0.77
+Tax_UA,Ukraine carbon tax,Carbon tax,Ukraine,Europe & Central Asia,Upper middle income,Implemented,2025,0.73
+Tax_UA,Ukraine carbon tax,Carbon tax,Ukraine,Europe & Central Asia,Upper middle income,Implemented,2026,0.68
+Tax_UK,UK Carbon Price Support,Carbon tax,United Kingdom,Europe & Central Asia,High income,Implemented,2013,7.47
+Tax_UK,UK Carbon Price Support,Carbon tax,United Kingdom,Europe & Central Asia,High income,Implemented,2014,15.89
+Tax_UK,UK Carbon Price Support,Carbon tax,United Kingdom,Europe & Central Asia,High income,Implemented,2015,26.71
+Tax_UK,UK Carbon Price Support,Carbon tax,United Kingdom,Europe & Central Asia,High income,Implemented,2016,25.71
+Tax_UK,UK Carbon Price Support,Carbon tax,United Kingdom,Europe & Central Asia,High income,Implemented,2017,22.41
+Tax_UK,UK Carbon Price Support,Carbon tax,United Kingdom,Europe & Central Asia,High income,Implemented,2018,25.31
+Tax_UK,UK Carbon Price Support,Carbon tax,United Kingdom,Europe & Central Asia,High income,Implemented,2019,23.59
+Tax_UK,UK Carbon Price Support,Carbon tax,United Kingdom,Europe & Central Asia,High income,Implemented,2020,22.28
+Tax_UK,UK Carbon Price Support,Carbon tax,United Kingdom,Europe & Central Asia,High income,Implemented,2021,24.79
+Tax_UK,UK Carbon Price Support,Carbon tax,United Kingdom,Europe & Central Asia,High income,Implemented,2022,23.65
+Tax_UK,UK Carbon Price Support,Carbon tax,United Kingdom,Europe & Central Asia,High income,Implemented,2023,22.28
+Tax_UK,UK Carbon Price Support,Carbon tax,United Kingdom,Europe & Central Asia,High income,Implemented,2024,22.62
+Tax_UK,UK Carbon Price Support,Carbon tax,United Kingdom,Europe & Central Asia,High income,Implemented,2025,23.24
+Tax_UK,UK Carbon Price Support,Carbon tax,United Kingdom,Europe & Central Asia,High income,Implemented,2026,23.94
+ETS_UK,UK ETS,ETS,United Kingdom,Europe & Central Asia,High income,Implemented,2021,0.0
+ETS_UK,UK ETS,ETS,United Kingdom,Europe & Central Asia,High income,Implemented,2022,98.56
+ETS_UK,UK ETS,ETS,United Kingdom,Europe & Central Asia,High income,Implemented,2023,88.13
+ETS_UK,UK ETS,ETS,United Kingdom,Europe & Central Asia,High income,Implemented,2024,45.06
+ETS_UK,UK ETS,ETS,United Kingdom,Europe & Central Asia,High income,Implemented,2025,57.23
+ETS_UK,UK ETS,ETS,United Kingdom,Europe & Central Asia,High income,Implemented,2026,54.83
+Tax_UY,Uruguay CO2 tax,Carbon tax,Uruguay,Latin America & Caribbean,High income,Implemented,2022,137.3
+Tax_UY,Uruguay CO2 tax,Carbon tax,Uruguay,Latin America & Caribbean,High income,Implemented,2023,155.87
+Tax_UY,Uruguay CO2 tax,Carbon tax,Uruguay,Latin America & Caribbean,High income,Implemented,2024,167.17
+Tax_UY,Uruguay CO2 tax,Carbon tax,Uruguay,Latin America & Caribbean,High income,Implemented,2025,158.76
+Tax_UY,Uruguay CO2 tax,Carbon tax,Uruguay,Latin America & Caribbean,High income,Implemented,2026,165.61
+ETS_VN,Viet Nam ETS,ETS,Viet Nam,East Asia & Pacific,Lower middle income,Implemented,2022,0.0
+ETS_VN,Viet Nam ETS,ETS,Viet Nam,East Asia & Pacific,Lower middle income,Implemented,2024,0.0
+ETS_US_Washington,Washington CCA,ETS,Washington,North America,High income,Implemented,2023,22.2
+ETS_US_Washington,Washington CCA,ETS,Washington,North America,High income,Implemented,2024,25.75
+ETS_US_Washington,Washington CCA,ETS,Washington,North America,High income,Implemented,2025,50.0
+ETS_US_Washington,Washington CCA,ETS,Washington,North America,High income,Implemented,2026,65.27
+Tax_MX_Yucatan,Yucatan carbon tax,Carbon tax,Yucatan,Latin America & Caribbean,Upper middle income,Implemented,2022,0.0
+Tax_MX_Yucatan,Yucatan carbon tax,Carbon tax,Yucatan,Latin America & Caribbean,Upper middle income,Implemented,2023,15.53
+Tax_MX_Yucatan,Yucatan carbon tax,Carbon tax,Yucatan,Latin America & Caribbean,Upper middle income,Implemented,2024,17.69
+Tax_MX_Yucatan,Yucatan carbon tax,Carbon tax,Yucatan,Latin America & Caribbean,Upper middle income,Implemented,2025,15.0
+Tax_MX_Yucatan,Yucatan carbon tax,Carbon tax,Yucatan,Latin America & Caribbean,Upper middle income,Implemented,2026,17.74
+Tax_MX_ZA,Zacatecas carbon tax,Carbon tax,Zacatecas,Latin America & Caribbean,Upper middle income,Implemented,2017,12.6
+Tax_MX_ZA,Zacatecas carbon tax,Carbon tax,Zacatecas,Latin America & Caribbean,Upper middle income,Implemented,2018,13.68
+Tax_MX_ZA,Zacatecas carbon tax,Carbon tax,Zacatecas,Latin America & Caribbean,Upper middle income,Implemented,2019,13.01
+Tax_MX_ZA,Zacatecas carbon tax,Carbon tax,Zacatecas,Latin America & Caribbean,Upper middle income,Implemented,2020,10.21
+Tax_MX_ZA,Zacatecas carbon tax,Carbon tax,Zacatecas,Latin America & Caribbean,Upper middle income,Implemented,2021,14.14
+Tax_MX_ZA,Zacatecas carbon tax,Carbon tax,Zacatecas,Latin America & Caribbean,Upper middle income,Implemented,2022,12.6
+Tax_MX_ZA,Zacatecas carbon tax,Carbon tax,Zacatecas,Latin America & Caribbean,Upper middle income,Implemented,2023,13.86
+Tax_MX_ZA,Zacatecas carbon tax,Carbon tax,Zacatecas,Latin America & Caribbean,Upper middle income,Implemented,2024,15.09
+Tax_MX_ZA,Zacatecas carbon tax,Carbon tax,Zacatecas,Latin America & Caribbean,Upper middle income,Implemented,2025,12.28
+Tax_MX_ZA,Zacatecas carbon tax,Carbon tax,Zacatecas,Latin America & Caribbean,Upper middle income,Implemented,2026,14.04
+Tax_RS,Serbia carbon tax,Carbon tax,Serbia,Europe & Central Asia,Upper middle income,Implemented,2026,4.64
+Tax_NG,Nigeria carbon tax,Carbon tax,Nigeria,Sub-Saharan Africa,Lower middle income,Implemented,1990,0.0
+Tax_NG,Nigeria carbon tax,Carbon tax,Nigeria,Sub-Saharan Africa,Lower middle income,Implemented,1991,0.0
+Tax_NG,Nigeria carbon tax,Carbon tax,Nigeria,Sub-Saharan Africa,Lower middle income,Implemented,1992,0.0
+Tax_NG,Nigeria carbon tax,Carbon tax,Nigeria,Sub-Saharan Africa,Lower middle income,Implemented,1993,0.0
+Tax_NG,Nigeria carbon tax,Carbon tax,Nigeria,Sub-Saharan Africa,Lower middle income,Implemented,1994,0.0
+Tax_NG,Nigeria carbon tax,Carbon tax,Nigeria,Sub-Saharan Africa,Lower middle income,Implemented,1995,0.0
+Tax_NG,Nigeria carbon tax,Carbon tax,Nigeria,Sub-Saharan Africa,Lower middle income,Implemented,1996,0.0
+Tax_NG,Nigeria carbon tax,Carbon tax,Nigeria,Sub-Saharan Africa,Lower middle income,Implemented,1997,0.0
+Tax_NG,Nigeria carbon tax,Carbon tax,Nigeria,Sub-Saharan Africa,Lower middle income,Implemented,1998,0.0
+Tax_NG,Nigeria carbon tax,Carbon tax,Nigeria,Sub-Saharan Africa,Lower middle income,Implemented,1999,0.0
+Tax_NG,Nigeria carbon tax,Carbon tax,Nigeria,Sub-Saharan Africa,Lower middle income,Implemented,2000,0.0
+Tax_NG,Nigeria carbon tax,Carbon tax,Nigeria,Sub-Saharan Africa,Lower middle income,Implemented,2001,0.0
+Tax_NG,Nigeria carbon tax,Carbon tax,Nigeria,Sub-Saharan Africa,Lower middle income,Implemented,2002,0.0
+Tax_NG,Nigeria carbon tax,Carbon tax,Nigeria,Sub-Saharan Africa,Lower middle income,Implemented,2003,0.0
+Tax_NG,Nigeria carbon tax,Carbon tax,Nigeria,Sub-Saharan Africa,Lower middle income,Implemented,2004,0.0
+Tax_NG,Nigeria carbon tax,Carbon tax,Nigeria,Sub-Saharan Africa,Lower middle income,Implemented,2005,0.0
+Tax_NG,Nigeria carbon tax,Carbon tax,Nigeria,Sub-Saharan Africa,Lower middle income,Implemented,2006,0.0
+Tax_NG,Nigeria carbon tax,Carbon tax,Nigeria,Sub-Saharan Africa,Lower middle income,Implemented,2007,0.0
+Tax_NG,Nigeria carbon tax,Carbon tax,Nigeria,Sub-Saharan Africa,Lower middle income,Implemented,2008,0.0
+Tax_NG,Nigeria carbon tax,Carbon tax,Nigeria,Sub-Saharan Africa,Lower middle income,Implemented,2009,0.0
+Tax_NG,Nigeria carbon tax,Carbon tax,Nigeria,Sub-Saharan Africa,Lower middle income,Implemented,2010,0.0
+Tax_NG,Nigeria carbon tax,Carbon tax,Nigeria,Sub-Saharan Africa,Lower middle income,Implemented,2011,0.0
+Tax_NG,Nigeria carbon tax,Carbon tax,Nigeria,Sub-Saharan Africa,Lower middle income,Implemented,2012,0.0
+Tax_NG,Nigeria carbon tax,Carbon tax,Nigeria,Sub-Saharan Africa,Lower middle income,Implemented,2013,0.0
+Tax_NG,Nigeria carbon tax,Carbon tax,Nigeria,Sub-Saharan Africa,Lower middle income,Implemented,2014,0.0
+Tax_NG,Nigeria carbon tax,Carbon tax,Nigeria,Sub-Saharan Africa,Lower middle income,Implemented,2015,0.0
+Tax_NG,Nigeria carbon tax,Carbon tax,Nigeria,Sub-Saharan Africa,Lower middle income,Implemented,2016,0.0
+Tax_NG,Nigeria carbon tax,Carbon tax,Nigeria,Sub-Saharan Africa,Lower middle income,Implemented,2017,0.0
+Tax_NG,Nigeria carbon tax,Carbon tax,Nigeria,Sub-Saharan Africa,Lower middle income,Implemented,2018,0.0
+Tax_NG,Nigeria carbon tax,Carbon tax,Nigeria,Sub-Saharan Africa,Lower middle income,Implemented,2019,0.0
+Tax_NG,Nigeria carbon tax,Carbon tax,Nigeria,Sub-Saharan Africa,Lower middle income,Implemented,2020,0.0
+Tax_NG,Nigeria carbon tax,Carbon tax,Nigeria,Sub-Saharan Africa,Lower middle income,Implemented,2021,0.0
+Tax_NG,Nigeria carbon tax,Carbon tax,Nigeria,Sub-Saharan Africa,Lower middle income,Implemented,2022,0.0
+Tax_NG,Nigeria carbon tax,Carbon tax,Nigeria,Sub-Saharan Africa,Lower middle income,Implemented,2023,0.0
+Tax_NG,Nigeria carbon tax,Carbon tax,Nigeria,Sub-Saharan Africa,Lower middle income,Implemented,2024,0.0
+Tax_NG,Nigeria carbon tax,Carbon tax,Nigeria,Sub-Saharan Africa,Lower middle income,Implemented,2026,6.9
